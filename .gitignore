@@ -1,5 +1,6 @@
 # Script output
 top_repos.csv
+tmp_repo_files/
 *.csv
 
 # Python

@@ -5,33 +5,37 @@ The GitHub Search API caps any single query at 1000 results (10 pages of 100),
 so larger pulls are done by walking down the star axis: each time a query is
 exhausted the next one is capped at the lowest star count already seen.
 
-GITHUB_TOKEN may hold several tokens separated by commas or whitespace; they
+GH_TOKEN may hold several tokens separated by commas or whitespace; they
 are rotated so that a token hitting its rate limit hands off to the next one.
 
 Settings live in the constants below; edit them and run the script.
 
 Usage:
-    export GITHUB_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
+    export GH_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
     python top_repos.py
 """
 
 import csv
+import math
 import os
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
 API_URL = "https://api.github.com/search/repositories"
 PER_PAGE = 100
-MAX_PAGES = 10  # 10 * 100 = 1000, the Search API hard limit
+MAX_PAGES = 10
 
 # --- Settings -------------------------------------------------------------
-LIMIT = 100  # how many repositories to fetch (may exceed 1000, see fetch_top_repos)
-MIN_STARS = 1000  # ignore repositories below this star count
-EXTRA_QUALIFIERS = ""  # optional extra search terms, e.g. "language:python"
-OUTPUT = "top_repos.csv"  # output CSV file path
+LIMIT = 10000
+MIN_STARS = 500
+EXTRA_QUALIFIERS = ""
+OUTPUT = "top_repos.csv"
+WORKERS = 0  # concurrent requests; 0 means one worker per token
 # --------------------------------------------------------------------------
 
 FIELDS = [
@@ -43,7 +47,7 @@ FIELDS = [
 
 
 def parse_tokens(raw):
-    """Split a GITHUB_TOKEN value into individual tokens (comma/whitespace separated)."""
+    """Split a GH_TOKEN value into individual tokens (comma/whitespace separated)."""
     if not raw:
         return []
     return [token for token in re.split(r"[,\s]+", raw.strip()) if token]
@@ -56,11 +60,15 @@ class TokenPool:
     the script keeps working (just against the much lower anonymous quota).
     """
 
-    def __init__(self, tokens):
+    def __init__(self, tokens, interval=None):
         self.tokens = tokens or [None]
+        # Endpoint specific pacing; None falls back to the Search API limits.
+        self._interval = interval
         self.sessions = [self._build_session(token) for token in self.tokens]
-        self.blocked_until = [0.0] * len(self.tokens)
-        self.index = 0
+        # Earliest time each token may be used again, so that concurrent
+        # workers cannot burn through a single token's quota.
+        self.free_at = [0.0] * len(self.tokens)
+        self.lock = threading.Lock()
 
     @staticmethod
     def _build_session(token):
@@ -80,41 +88,48 @@ class TokenPool:
     def authenticated(self):
         return any(token for token in self.tokens)
 
-    def acquire(self):
-        """Return (index, session) for the next usable token, waiting if all are blocked."""
-        now = time.time()
-        for offset in range(len(self.sessions)):
-            index = (self.index + offset) % len(self.sessions)
-            if self.blocked_until[index] <= now:
-                self.index = (index + 1) % len(self.sessions)
-                return index, self.sessions[index]
+    @property
+    def interval(self):
+        """Minimum seconds between two uses of the same token.
 
-        index = min(range(len(self.sessions)), key=lambda i: self.blocked_until[i])
-        wait = max(self.blocked_until[index] - now, 1)
-        print(f"All {len(self.sessions)} token(s) rate limited; sleeping {wait:.0f}s...", file=sys.stderr)
-        time.sleep(wait)
-        self.blocked_until[index] = 0.0
-        self.index = (index + 1) % len(self.sessions)
+        The Search API allows 30 requests/minute per token, 10 when anonymous;
+        other endpoints pace differently and pass their own interval in.
+        """
+        if self._interval is not None:
+            return self._interval
+        return 2.0 if self.authenticated else 6.0
+
+    def acquire(self):
+        """Reserve the token that comes free soonest, waiting for it if needed.
+
+        Thread safe: the reservation is made under the lock, the waiting is
+        done outside it so other workers can keep claiming other tokens.
+        """
+        with self.lock:
+            index = min(range(len(self.sessions)), key=lambda i: self.free_at[i])
+            start = max(self.free_at[index], time.time())
+            self.free_at[index] = start + self.interval
+        wait = start - time.time()
+        if wait > 0:
+            time.sleep(wait)
         return index, self.sessions[index]
 
     def block(self, index, until):
-        self.blocked_until[index] = until
+        """Park a rate limited token until its quota resets."""
+        with self.lock:
+            self.free_at[index] = max(self.free_at[index], until)
 
 
-def request_page(pool, page, query, max_retries=5):
-    """Fetch one page of search results, retrying on rate limits and 5xx."""
-    params = {
-        "q": query,
-        "sort": "stars",
-        "order": "desc",
-        "per_page": PER_PAGE,
-        "page": page,
-    }
+def request_json(pool, url, params=None, max_retries=5):
+    """Fetch one URL as JSON, retrying on rate limits and 5xx.
 
+    Tokens are taken from the pool one request at a time, so a token that hits
+    its limit is parked and the next one picks the work up.
+    """
     for attempt in range(max_retries):
         index, session = pool.acquire()
         try:
-            response = session.get(API_URL, params=params, timeout=30)
+            response = session.get(url, params=params, timeout=30)
         except requests.RequestException as exc:
             print(f"Request error ({exc}); retrying...", file=sys.stderr)
             time.sleep(2 ** attempt)
@@ -140,7 +155,19 @@ def request_page(pool, page, query, max_retries=5):
 
         response.raise_for_status()
 
-    raise RuntimeError(f"Giving up on page {page} after {max_retries} attempts")
+    raise RuntimeError(f"Giving up on {url} after {max_retries} attempts")
+
+
+def request_page(pool, page, query, max_retries=5):
+    """Fetch one page of search results."""
+    params = {
+        "q": query,
+        "sort": "stars",
+        "order": "desc",
+        "per_page": PER_PAGE,
+        "page": page,
+    }
+    return request_json(pool, API_URL, params, max_retries)
 
 
 def extract_fields(repo):
@@ -160,56 +187,65 @@ def build_query(min_stars, max_stars):
     return f"{stars} fork:false {EXTRA_QUALIFIERS}".strip()
 
 
-def fetch_top_repos(limit=1000, min_stars=MIN_STARS, tokens=None):
-    """Fetch the `limit` most starred repositories, newest star count first.
+def fetch_window(pool, executor, query, pages):
+    """Fetch `pages` pages of one query in parallel, returned in page order.
+
+    The pages of a single query are independent of each other -- only the move
+    to the *next* window depends on results -- so they can be fetched at once.
+    """
+    futures = [executor.submit(request_page, pool, page, query) for page in range(1, pages + 1)]
+    return [future.result().get("items", []) for future in futures]
+
+
+def fetch_top_repos(limit=1000, min_stars=MIN_STARS, tokens=None, workers=WORKERS):
+    """Fetch the `limit` most starred repositories, most starred first.
 
     A single search query can only return 1000 results, so once a window is
     exhausted we start a new one capped at the lowest star count seen so far
     (`stars:MIN..LAST`). Windows overlap on their boundary star count, so
     results are deduplicated by full name. Forked repositories are skipped.
+
+    Windows are walked sequentially (each ceiling comes from the previous
+    window's results) but the pages inside a window are fetched concurrently.
     """
     pool = TokenPool(tokens)
+    workers = workers or len(pool.sessions)
     repos = []
     seen = set()
     max_stars = None  # star ceiling of the current window; None = no ceiling
 
-    while len(repos) < limit:
-        query = build_query(min_stars, max_stars)
-        window_added = 0
-        last_stars = None
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        while len(repos) < limit:
+            query = build_query(min_stars, max_stars)
+            pages = min(MAX_PAGES, math.ceil((limit - len(repos)) / PER_PAGE))
+            window = fetch_window(pool, executor, query, pages)
 
-        for page in range(1, MAX_PAGES + 1):
-            data = request_page(pool, page, query)
-            items = data.get("items", [])
-            if not items:
-                break
-
-            for repo in items:
-                if repo["full_name"] in seen:
-                    continue
-                seen.add(repo["full_name"])
-                repos.append(extract_fields(repo))
-                window_added += 1
-                if len(repos) >= limit:
+            window_added = 0
+            last_stars = None
+            for items in window:
+                if not items:
                     break
+                for repo in items:
+                    if repo["full_name"] in seen:
+                        continue
+                    seen.add(repo["full_name"])
+                    repos.append(extract_fields(repo))
+                    window_added += 1
+                last_stars = items[-1]["stargazers_count"]
 
-            last_stars = items[-1]["stargazers_count"]
-            print(f"[{query}] page {page}: {len(repos)} repositories", file=sys.stderr)
-            if len(repos) >= limit or len(items) < PER_PAGE:
+            print(f"[{query}] {len(repos)} repositories", file=sys.stderr)
+
+            if len(repos) >= limit or last_stars is None or last_stars <= min_stars:
                 break
-            # Search API allows 30 req/min authenticated, 10 unauthenticated.
-            time.sleep(1 if pool.authenticated else 6)
+            if window_added == 0:
+                # Everything in this window was already collected: more than
+                # 1000 repositories share this star count, so we cannot page
+                # past it.
+                print(f"Stuck at {last_stars} stars; stopping early.", file=sys.stderr)
+                break
+            max_stars = last_stars
 
-        if len(repos) >= limit or last_stars is None or last_stars <= min_stars:
-            break
-        if window_added == 0:
-            # Everything in this window was already collected: more than 1000
-            # repositories share this star count, so we cannot page past it.
-            print(f"Stuck at {last_stars} stars; stopping early.", file=sys.stderr)
-            break
-        max_stars = last_stars
-        time.sleep(1 if pool.authenticated else 6)
-
+    repos.sort(key=lambda repo: repo["stargazers_count"], reverse=True)
     return repos[:limit]
 
 
@@ -221,13 +257,13 @@ def write_csv(repos, path):
 
 
 def main():
-    tokens = parse_tokens(os.environ.get("GITHUB_TOKEN"))
+    tokens = parse_tokens(os.environ.get("GH_TOKEN"))
     if tokens:
-        print(f"Using {len(tokens)} token(s) from GITHUB_TOKEN.", file=sys.stderr)
+        print(f"Using {len(tokens)} token(s) from GH_TOKEN.", file=sys.stderr)
     else:
-        print("No GITHUB_TOKEN set: using the slower unauthenticated limit.", file=sys.stderr)
+        print("No GH_TOKEN set: using the slower unauthenticated limit.", file=sys.stderr)
 
-    repos = fetch_top_repos(limit=LIMIT, min_stars=MIN_STARS, tokens=tokens)
+    repos = fetch_top_repos(limit=LIMIT, min_stars=MIN_STARS, tokens=tokens, workers=WORKERS)
     write_csv(repos, OUTPUT)
     print(f"Fetched {len(repos)} repositories -> {OUTPUT}", file=sys.stderr)
 
