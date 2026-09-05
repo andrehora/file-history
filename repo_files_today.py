@@ -6,6 +6,9 @@ default branch is resolved and its git tree is walked recursively, giving the
 full file listing in a single request per repository. Each listing is written
 to its own CSV under OUTPUT_DIR, as <owner>__<name>.csv.
 
+A repository that already has a CSV there is left alone, so an interrupted run
+can simply be started again; delete the CSV (or the directory) to refresh it.
+
 Requests go through the token pool of top_repos.py, so GH_TOKEN may hold
 several tokens separated by commas or whitespace; they are rotated so that a
 token hitting its rate limit hands off to the next one.
@@ -14,14 +17,14 @@ Settings live in the constants below; edit them and run the script.
 
 Usage:
     export GH_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
-    python repo_files.py
+    python repo_files_today.py
 """
 
 import csv
 import os
 import sys
 import threading
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
@@ -31,8 +34,9 @@ API_ROOT = "https://api.github.com"
 
 # --- Settings -------------------------------------------------------------
 INPUT = "top_repos.csv"
-OUTPUT_DIR = "tmp_repo_files"  # one CSV per repository is written in here
+OUTPUT_DIR = "repo_files_today"  # one CSV per repository is written in here
 LIMIT = 0  # how many repositories to process; 0 means all of them
+SKIP_EXISTING = True  # leave repositories that already have a CSV alone
 ASCII_ONLY = True  # drop entries whose name is not plain ASCII
 WORKERS = 0  # concurrent requests; 0 means CONCURRENCY_PER_TOKEN per token
 # --------------------------------------------------------------------------
@@ -143,9 +147,26 @@ def fetch_all(repos, tokens=None, workers=WORKERS):
 
     total = 0
     failed = []
+
+    # A run interrupted halfway leaves the CSVs it did write in place; those
+    # repositories are not fetched again, so a rerun picks up where it stopped.
+    if SKIP_EXISTING:
+        skipped = {name for name in repos if os.path.exists(csv_path(name))}
+        if skipped:
+            log(f"Skipping {len(skipped)} repositories already listed in {OUTPUT_DIR}/")
+        repos = [name for name in repos if name not in skipped]
+        if not repos:
+            return total, failed
+
+    log(f"Fetching {len(repos)} repositories with {workers} workers")
+
+    # Results are handled as they land rather than in submission order, so one
+    # slow repository (a parked token, a retry) cannot hold back the log.
     with ThreadPoolExecutor(max_workers=workers) as executor:
-        listings = executor.map(lambda name: list_files(pool, name), repos)
-        for done, (full_name, rows) in enumerate(zip(repos, listings), start=1):
+        futures = {executor.submit(list_files, pool, name): name for name in repos}
+        for done, future in enumerate(as_completed(futures), start=1):
+            full_name = futures[future]
+            rows = future.result()
             if rows is None:
                 failed.append(full_name)
                 log(f"[{done}/{len(repos)}] {full_name}: failed, no CSV written")

@@ -1,6 +1,7 @@
 # Script output
 top_repos.csv
-tmp_repo_files/
+repo_files_today/
+repo_files_[0-9][0-9][0-9][0-9]/
 *.csv
 
 # Python

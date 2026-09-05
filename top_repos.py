@@ -68,6 +68,8 @@ class TokenPool:
         # Earliest time each token may be used again, so that concurrent
         # workers cannot burn through a single token's quota.
         self.free_at = [0.0] * len(self.tokens)
+        # The latest "everything is rate limited" wait already reported.
+        self._announced_until = 0.0
         self.lock = threading.Lock()
 
     @staticmethod
@@ -111,13 +113,38 @@ class TokenPool:
             self.free_at[index] = start + self.interval
         wait = start - time.time()
         if wait > 0:
+            # A short wait is ordinary pacing; a long one means every token is
+            # rate limited, which otherwise looks exactly like a hang. Every
+            # worker is waiting on the same reset, so only the first says so.
+            if wait > 30 and self._announce_wait(start):
+                print(
+                    f"All tokens are rate limited; waiting {int(wait)}s for the "
+                    "next reset.",
+                    file=sys.stderr,
+                )
             time.sleep(wait)
         return index, self.sessions[index]
 
-    def block(self, index, until):
-        """Park a rate limited token until its quota resets."""
+    def _announce_wait(self, until):
+        """True when this long wait has not been reported yet."""
         with self.lock:
-            self.free_at[index] = max(self.free_at[index], until)
+            if until <= self._announced_until:
+                return False
+            self._announced_until = until
+            return True
+
+    def block(self, index, until):
+        """Park a rate limited token until its quota resets.
+
+        Returns True only the first time a token is pushed out to a given
+        reset; concurrent workers all get the same 403 and would otherwise
+        each report the same park.
+        """
+        with self.lock:
+            if until <= self.free_at[index]:
+                return False
+            self.free_at[index] = until
+            return True
 
 
 def request_json(pool, url, params=None, max_retries=5):
@@ -126,13 +153,15 @@ def request_json(pool, url, params=None, max_retries=5):
     Tokens are taken from the pool one request at a time, so a token that hits
     its limit is parked and the next one picks the work up.
     """
-    for attempt in range(max_retries):
+    attempt = 0
+    while attempt < max_retries:
         index, session = pool.acquire()
         try:
             response = session.get(url, params=params, timeout=30)
         except requests.RequestException as exc:
             print(f"Request error ({exc}); retrying...", file=sys.stderr)
             time.sleep(2 ** attempt)
+            attempt += 1
             continue
 
         if response.ok:
@@ -143,14 +172,32 @@ def request_json(pool, url, params=None, max_retries=5):
         if response.status_code in (403, 429):
             if response.headers.get("X-RateLimit-Remaining") == "0":
                 reset = float(response.headers.get("X-RateLimit-Reset", time.time() + 60))
-                pool.block(index, reset + 1)
+                # Without this the script simply goes quiet for up to an hour,
+                # which is indistinguishable from a hang.
+                if pool.block(index, reset + 1):
+                    print(
+                        f"Token {index + 1} is out of quota; parked for "
+                        f"{max(0, int(reset - time.time()))}s (until its reset).",
+                        file=sys.stderr,
+                    )
+                # Deliberately not counted as an attempt: the next acquire()
+                # sleeps until a token is free again, and giving up here would
+                # mark thousands of repositories as failed for no reason.
+                continue
             else:
                 retry_after = float(response.headers.get("Retry-After", 2 ** attempt))
-                pool.block(index, time.time() + retry_after)
+                if pool.block(index, time.time() + retry_after):
+                    print(
+                        f"Token {index + 1} hit a secondary limit; "
+                        f"backing off {retry_after:g}s.",
+                        file=sys.stderr,
+                    )
+            attempt += 1
             continue
 
         if response.status_code >= 500:
             time.sleep(2 ** attempt)
+            attempt += 1
             continue
 
         response.raise_for_status()
