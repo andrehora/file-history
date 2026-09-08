@@ -639,6 +639,17 @@
       font-variant-numeric: tabular-nums;
     }
 
+    /* The share reads as a gloss on the count, so it steps back from it. */
+    .evo-pct {
+      color: #8b949e;
+    }
+
+    /* The name the line belongs to, set like every other name in the app. */
+    .evo-name {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-weight: 500;
+    }
+
     .stats {
       display: flex;
       justify-content: center;
@@ -1524,13 +1535,25 @@
     var LINE_COLOR = '#0969da';  // the item's own series, matching .chart-line
     function cmpColor(i) { return CMP_COLORS[i % CMP_COLORS.length]; }
 
-    function table(it) {
-      var head = '<tr><th>Snapshot</th><th>Repositories</th><th>Ratio</th></tr>';
+    /* A snapshot per column, reading left to right in time like the chart above
+       it, with both readings on the one line: the count and, beside it, what
+       share of the repositories that was. */
+    /* A line per series, named in the colour its line or bars are drawn in, so
+       the table and the chart above it are read as one. */
+    function table(it, vs) {
+      var series = [it].concat(vs || []);
+      var head = '<tr><th></th>';
+      for (var i = 0; i < YEARS.length; i++) head += '<th>' + esc(YEARS[i]) + '</th>';
       var body = '';
-      for (var i = 0; i < YEARS.length; i++) {
-        body += '<tr><td>' + esc(YEARS[i]) + '</td><td>' + it.f[i] + '</td><td>' + it.r[i] + '%</td></tr>';
+      for (var j = 0; j < series.length; j++) {
+        var color = j ? cmpColor(j - 1) : LINE_COLOR;
+        body += '<tr><td class="evo-name" style="color:' + color + '">' + esc(series[j].n) + '</td>';
+        for (var y = 0; y < YEARS.length; y++) {
+          body += '<td>' + series[j].f[y] + ' <span class="evo-pct">' + series[j].r[y] + '%</span></td>';
+        }
+        body += '</tr>';
       }
-      return '<table class="evo">' + head + body + '</table>';
+      return '<table class="evo">' + head + '</tr>' + body + '</table>';
     }
 
     /* Opening an item is a navigation: it pushes a history entry, so Back returns
@@ -1627,6 +1650,7 @@
        compared, the search box again once it is removed. */
     function drawCompare() {
       document.getElementById('cChart').innerHTML = chart(current, compares, fitAxis, barChart);
+      document.getElementById('cTable').innerHTML = table(current, compares);
       var scale = document.getElementById('cScale');
       scale.textContent = fitAxis ? 'Show 0-100%' : 'Fit to data';
       scale.setAttribute('aria-pressed', fitAxis ? 'true' : 'false');
@@ -1758,8 +1782,8 @@
         + '<div class="cmp" id="cmp"><div class="cmp-row" id="cmpRow"></div>'
         + '<div class="sg-list" id="cmpSg"></div></div>'
         + '</div>'
-        + '<div class="field"><div class="field-head"><div class="field-label">Snapshots</div></div>'
-        + table(it) + '</div>'
+        + '<div class="field"><div class="field-head"><div class="field-label">Raw data</div></div>'
+        + '<div id="cTable"></div></div>'
         + filesField(it)
         + relatedField(it);
       document.getElementById('cScale').addEventListener('click', function () {
@@ -2052,8 +2076,7 @@
            drawn like the first ten rather than as a list of bare names. */
         var top = list.slice(0, TOP_N), rest = list.slice(TOP_N, TOP_MORE);
         html += '<div class="top-group" data-kind="' + esc(kind) + '">'
-          + '<div class="top-group-title"><h2>Top ' + top.length + '</h2>' + pill(kind)
-          + '<span class="top-count">of ' + list.length + '</span></div>'
+          + '<div class="top-group-title"><h2>Top ' + top.length + '</h2>' + pill(kind) + '</div>'
           + '<ol class="rank"' + posWidth(Math.min(list.length, TOP_MORE)) + '>';
         for (var li = 0; li < top.length; li++) html += rankRow(li + 1, top[li], false);
         html += '</ol>';
