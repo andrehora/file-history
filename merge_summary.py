@@ -35,7 +35,7 @@ import sys
 INPUT_PREFIX = "summary_"  # every <prefix><suffix> directory is merged in
 OUTPUT_DIR = "summary"  # the merged CSVs go here
 OUTPUTS = ["files.csv", "dir.csv", "extension.csv"]  # merged one by one
-MIN_FREQUENCY = 100  # a name is kept when the newest snapshot beats this; 0 keeps everything
+MIN_FREQUENCY = 50  # a name is kept when the newest snapshot beats this; 0 keeps everything
 # --------------------------------------------------------------------------
 
 MISSING = 0  # written for a name that a snapshot does not have

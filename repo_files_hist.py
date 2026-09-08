@@ -148,13 +148,19 @@ def list_files(pool, full_name, date):
     # "blob" is a file and "tree" a directory; "commit" is a submodule, which
     # is neither, so it is left out.
     kinds = {"blob": "file", "tree": "dir"}
-    rows = [
-        # The API gives the path from the repository root; only the last
-        # segment is kept, so the same name in two directories appears twice.
-        {"name": entry["path"].rsplit("/", 1)[-1], "type": kinds[entry["type"]]}
-        for entry in tree.get("tree", [])
-        if entry.get("type") in kinds
-    ]
+    # The API gives the path from the repository root; only the last segment is
+    # kept, so the same name in two directories would appear twice. A listing
+    # answers "does this repository have a README.md?", so each name is kept
+    # once. A name that is both a file and a directory keeps a row for each,
+    # which is why the type is part of the key.
+    seen = set()
+    for entry in tree.get("tree", []):
+        if entry.get("type") in kinds:
+            seen.add((entry["path"].rsplit("/", 1)[-1], kinds[entry["type"]]))
+
+    # Sorted by name so that a listing reads like an index and two fetches of an
+    # unchanged repository give identical files.
+    rows = [{"name": name, "type": kind} for name, kind in sorted(seen)]
 
     if ASCII_ONLY:
         kept = [row for row in rows if row["name"].isascii()]
