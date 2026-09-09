@@ -583,6 +583,7 @@
        below it, so it is read before them rather than after the first one. */
     .cmp {
       position: relative;
+      margin-top: 14px;
       margin-bottom: 18px;
     }
 
@@ -840,6 +841,16 @@
       gap: 6px;
     }
 
+    /* Named in the colour of the bars below it, so a chart and its ranking are
+       read as one. The pill classes carry those colours already. */
+    .top-group-name {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin: 0;
+      background: none;
+      padding: 0;
+    }
+
     .top-group-title h2 {
       font-size: 0.95rem;
       font-weight: 600;
@@ -1024,6 +1035,12 @@
       margin-top: 10px;
     }
 
+    /* A link, not a button, but it wears the same pill so the row of charts
+       ends the same way each time. */
+    .see-all {
+      text-decoration: none;
+    }
+
     .row-rule {
       grid-column: 1 / -1;
       border-top: 1px solid #e8edf5;
@@ -1035,23 +1052,58 @@
     }
 
     /* The year the row below is measured against, above the row it governs. */
+    /* The heading of a section, spanning its three charts: the name of the
+       ranking on a line of its own, then what it is measured against and the
+       year that finishes that sentence. */
     .row-head {
       grid-column: 1 / -1;
       display: flex;
-      flex-wrap: wrap;
+      flex-direction: column;
       align-items: center;
-      justify-content: center;
-      gap: 8px;
+      gap: 7px;
     }
 
-    .row-head-label {
+    .row-title {
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin: 0;
+    }
+
+    /* Set a little back from the title, and a size down: it marks the section,
+       it does not name it. */
+    .row-mark {
+      font-size: 0.85em;
+      margin-right: 7px;
+    }
+
+    /* Three lines, each with one job: the name of the ranking, what it is
+       measured against, then the year to measure it against. */
+    .row-sub {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 7px;
+    }
+
+    .row-note {
       color: #8b949e;
-      font-size: 0.8rem;
+      font-size: 0.82rem;
     }
 
+    /* Wrapping, since a narrow screen cannot hold four sections, three kinds or
+       four years on one line. */
     .year-pick {
       display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
       gap: 6px;
+    }
+
+    /* On a "See all" page the same two lines sit under the page title, which is
+       aligned left, so they follow it rather than the centred home heading. */
+    .list-sub {
+      align-items: flex-start;
+      margin-bottom: 18px;
     }
 
     .year-btn {
@@ -1060,11 +1112,36 @@
       font-size: 0.78rem;
     }
 
-    .year-btn.on {
+    /* A ranking can come up empty — nothing fell since 2025, say — and the
+       chart says so rather than leaving a gap in the row. */
+    .rank-none {
+      color: #8b949e;
+      font-size: 0.82rem;
+      text-align: center;
+      padding: 8px 0;
+    }
+
+    .year-btn.on,
+    .kind-btn.on,
+    .section-btn.on {
       color: #24292f;
       border-color: #24292f;
       background: #f6f8fa;
       font-weight: 600;
+    }
+
+    /* The kinds are words rather than years, so they are not held to the same
+       column width the tabular figures above them keep. */
+    .kind-btn,
+    .section-btn {
+      padding: 4px 12px;
+      font-size: 0.78rem;
+    }
+
+    /* Beside a word this small the mark is a bullet, not a heading's badge. */
+    .section-btn .row-mark {
+      font-size: 0.95em;
+      margin-right: 5px;
     }
 
     /* The same pill as the Back button: these open and close a ranking, so
@@ -1140,6 +1217,77 @@
       .detail {
         padding: 20px 16px 32px;
       }
+
+      #picks {
+        padding: 18px 14px 16px;
+      }
+
+      /* A phone reads the name and the reading; the bar is what gives way for
+         them, since it is the one column that says nothing on its own. */
+      .rank li {
+        gap: 5px;
+      }
+
+      .rank-label {
+        width: 46%;
+      }
+
+      .rank-bar {
+        flex: 0 1 56px;
+      }
+
+      .rank-pct {
+        width: 30px;
+      }
+
+      /* Thumb-sized, where a pointer only needed the text. */
+      .top-toggle {
+        padding: 7px 13px;
+      }
+
+      .year-btn,
+      .kind-btn,
+      .section-btn {
+        padding: 6px 11px;
+      }
+
+      /* A "See all" page carries three rows of these — four sections, three
+         kinds, four years — where the home page carries one, so they are set a
+         size down to keep those rows short. */
+      .list-sub .top-toggle {
+        font-size: 0.7rem;
+        padding: 5px 9px;
+      }
+
+      /* A long name and the share button share the line until they cannot. */
+      .detail-head {
+        flex-wrap: wrap;
+      }
+
+      .row-title {
+        font-size: 1.15rem;
+      }
+
+      .stats {
+        gap: 10px;
+        margin-top: 18px;
+        padding-top: 18px;
+      }
+
+      table.evo {
+        font-size: 0.72rem;
+      }
+
+      table.evo th,
+      table.evo td {
+        padding: 6px 3px;
+      }
+
+      /* Four years of three readings will not sit on one line at this width, so
+         a cell wraps rather than pushing the year columns off the page. */
+      table.evo td {
+        white-space: normal;
+      }
     }
   </style>
 </head>
@@ -1158,7 +1306,7 @@
               </path>
             </svg>file-history</a></p>
         <h1>GitHub File History</h1>
-        <p class="subtitle">Search files, directories and extensions over time</p>
+        <p class="subtitle">Search files, directories, and extensions over time</p>
 
         <!-- The way out of an item page, so it lives in the header rather than
              on the page it leaves, and only shows while one is open. -->
@@ -1216,7 +1364,13 @@
     var BASE = (function () {
       var segs = location.pathname.split('/');
       var kinds = ['file', 'dir', 'extension'];
-      var last = segs[segs.length - 1], prev = segs[segs.length - 2];
+      var sections = ['popular', 'new', 'increasing', 'decreasing'];
+      var last = segs[segs.length - 1], prev = segs[segs.length - 2], before = segs[segs.length - 3];
+      /* <section>/<kind>/<year> is three segments deep and <section>/<kind> two,
+         as are an item and the older all/<kind>; whatever is left over is where
+         the app is served from. */
+      if (sections.indexOf(before) >= 0 && kinds.indexOf(prev) >= 0) return segs.slice(0, -3).join('/') + '/';
+      if (sections.indexOf(prev) >= 0 && kinds.indexOf(last) >= 0) return segs.slice(0, -2).join('/') + '/';
       var item = kinds.indexOf(prev) >= 0 || (prev === 'all' && kinds.indexOf(last) >= 0);
       return segs.slice(0, item ? -2 : -1).join('/') + '/';
     })();
@@ -1249,26 +1403,50 @@
     var barChart = false;
     var HOME_TITLE = document.title;
 
-    /* URLs are paths: <base>file/README.md, <base>dir/src, <base>extension/.md.
-       An item path always ends in <kind>/<name>; BASE, whatever comes before
-       that, is worked out by the loader above, which needs it first. */
+    /* URLs are paths of two shapes:
+
+           <base>file/README.md          one name
+           <base>popular/file/2015       a whole ranking
+
+       An item path ends in <kind>/<name>; a ranking is <section>/<kind>/<year>,
+       the heading of the page it opens with slashes for spaces, so
+       popular/dir/2020 is the directories most common in 2020 and
+       new/extension/2015 the extensions absent in 2015. Dropping the year asks
+       for the newest snapshot, which is what a link chopped back to
+       <section>/<kind> should mean. BASE, whatever comes before either, is
+       worked out by the loader above, which needs it before this script runs. */
     function pathParts() {
       var segs = location.pathname.split('/');
-      var name = decodeURIComponent(segs[segs.length - 1] || '');
-      var kind = segs[segs.length - 2] || '';
-      if (name && KINDS.indexOf(kind) >= 0) {
-        return { kind: kind, name: name };
+      var last = decodeURIComponent(segs[segs.length - 1] || '');
+      var prev = segs[segs.length - 2] || '';
+      var before = segs[segs.length - 3] || '';
+
+      /* A ranking is read before an item, since <section>/<kind>/<year> ends in
+         the <kind>/<name> an item path is; the section in front is what tells
+         them apart. */
+      if (SECTIONS.hasOwnProperty(before) && KINDS.indexOf(prev) >= 0) {
+        var y = YEARS.indexOf(last);
+        if (y >= 0) return { view: 'list', section: before, year: y, kind: prev };
       }
-      /* <base>all/<kind> lists every name of that kind. "all" is not a kind, so
-         it cannot collide with an item path. */
-      if (kind === 'all' && KINDS.indexOf(name) >= 0) {
-        return { kind: 'all', name: name };
+      /* The same ranking with the year left off: the one that section opens
+         on, which is the newest snapshot for Popular and 2020 for the three
+         that measure movement, since "absent in today" is nothing at all. */
+      if (SECTIONS.hasOwnProperty(prev) && KINDS.indexOf(last) >= 0) {
+        return { view: 'list', section: prev, year: YEAR_START[prev], kind: last };
       }
-      return { kind: null, name: null };
+      if (last && KINDS.indexOf(prev) >= 0) {
+        return { view: 'item', kind: prev, name: last };
+      }
+      /* <base>all/<kind> was the older way to ask for every name of a kind,
+         which is Popular at the newest snapshot; links to it still work. */
+      if (prev === 'all' && KINDS.indexOf(last) >= 0) {
+        return { view: 'list', section: 'popular', year: YEARS.length - 1, kind: last };
+      }
+      return { view: 'home' };
     }
 
     function itemUrl(it) { return BASE + it.k + '/' + encodeURIComponent(it.n); }
-    function allUrl(kind) { return BASE + 'all/' + kind; }
+    function listUrl(section, year, kind) { return BASE + section + '/' + kind + '/' + YEARS[year]; }
 
     /* A comparison is part of what the page shows, so it belongs in the URL: the
        link copied from a compared page opens compared. One vs= per extra name,
@@ -1681,7 +1859,9 @@
 
       var keyed = extra.length ? series : [];
       var keyRows = keyLayout(keyed, W - R);
-      var T = keyed.length ? 16 * keyRows.length + 12 : 40;
+      /* Without a key there is nothing above the plot, so the top margin is only
+         enough room for the first-place label to sit clear of the frame. */
+      var T = keyed.length ? 16 * keyRows.length + 12 : 16;
       var H = T + ph + B;
       var pw = W - L - R;
 
@@ -1695,17 +1875,8 @@
          the way a ranking is read. */
       var y = function (v) { return T + ph * (v - 1) / (top - 1); };
 
-      /* How far the name climbed or fell since the first snapshot. A place lost
-         is a bigger number, so the sign is turned round before it is read. */
+      /* Kept for the accessible label: the best position the line reaches. */
       var own = rows[0], from = own[0], now = own[own.length - 1];
-      var moved = from && now ? from - now : 0;
-      /* Arriving in the ranking counts as a climb and leaving it as a fall, so
-         the badge is not left grey for the two biggest moves there are. */
-      var dir = (moved > 0 || (!from && now)) ? 'up'
-        : (moved < 0 || (from && !now)) ? 'down' : 'flat';
-      var badge = !now ? 'no ranking in ' + YEARS[YEARS.length - 1]
-        : !from ? '#' + now + ', unranked in ' + YEARS[0]
-        : (moved > 0 ? '↑ ' : moved < 0 ? '↓ ' : '= ') + Math.abs(moved) + ' places from ' + YEARS[0];
 
       var label = (extra.length
         ? it.n + ' against ' + series.slice(1).map(function (e) { return e.n; }).join(', ')
@@ -1721,8 +1892,6 @@
             kx += ent.w + KEY_GAP;
           }
         }
-      } else {
-        svg += '<text class="chart-trend chart-trend-' + dir + '" x="' + (L + pw / 2) + '" y="16" text-anchor="middle">' + esc(badge) + '</text>';
       }
 
       /* Five gridlines, the first of them first place itself, so the top of the
@@ -1922,7 +2091,7 @@
       var html = '<div class="field"><div class="field-head">'
         + '<h2 class="field-label">Top ' + top.length + ' ' + group.label + '</h2>'
         + '<span class="top-count">of ' + rows.length + '</span></div><ol class="rank">';
-      for (var o = 0; o < top.length; o++) html += rankRow(o + 1, top[o], false);
+      for (var o = 0; o < top.length; o++) html += rankRow(o + 1, top[o]);
       return html + '</ol></div>';
     }
 
@@ -1937,12 +2106,12 @@
         + '<h2 class="field-label">Top ' + top.length + ' <span class="ext">' + esc(it.n) + '</span> files</h2>'
         + '<span class="top-count">of ' + rows.length + '</span></div>'
         + '<ol class="rank"' + posWidth(rows.length) + '>';
-      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i], false);
+      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i]);
       html += '</ol>';
       if (rest.length) {
         html += '<ol class="rank files-more" start="' + (TOP_N + 1) + '"'
           + ' style="display:none;--pos:' + Math.max(18, 4 + String(rows.length).length * 7) + 'px">';
-        for (var j = 0; j < rest.length; j++) html += rankRow(TOP_N + j + 1, rest[j], false);
+        for (var j = 0; j < rest.length; j++) html += rankRow(TOP_N + j + 1, rest[j]);
         html += '</ol><div class="top-all"><button class="top-toggle files-toggle">Show top '
           + rows.length + '</button></div>';
       }
@@ -2134,26 +2303,55 @@
     var KIND_PLURAL = { file: 'Files', dir: 'Directories', extension: 'Extensions' };
 
     function showAll(kind) {
-      navigate(allUrl(kind));
-      renderAll(kind);
+      /* The whole of one kind is Popular at the newest snapshot. */
+      showList('popular', YEARS.length - 1, kind);
     }
 
-    function renderAll(kind) {
+    function showList(section, year, kind) {
+      navigate(listUrl(section, year, kind));
+      renderList(section, year, kind);
+    }
+
+    /* The page behind "See all": the same ranking the home page shows the first
+       ten of, with nothing held back. It shares the item page's frame, so Back
+       and the search box work the way they do everywhere else. */
+    function renderList(section, year, kind) {
+      var def = SECTIONS[section];
+      /* A hand-written or stale URL should not draw an empty page. */
+      if (!def || KINDS.indexOf(kind) < 0 || !YEARS[year]) { showHome(); return; }
+      /* "biggest gain since today" is nothing at all: a year the section does
+         not offer falls back to the one it opens on, so the picker below always
+         has the year on show among its buttons. */
+      if (year >= def.years().length) year = YEAR_START[section];
       current = null;
       compares = [];
-      var rows = [];
-      for (var i = 0; i < ITEMS.length; i++) if (ITEMS[i].k === kind) rows.push(i);
-      rows.sort(function (a, b) { return latest(ITEMS[b]) - latest(ITEMS[a]) || ITEMS[a].n.localeCompare(ITEMS[b].n); });
 
-      document.getElementById('cTitle').textContent = KIND_PLURAL[kind] || kind;
-      document.getElementById('cPill').innerHTML = pill(kind);
+      var groups = kindGroups();
+      var rows = def.rank(groups[kind] || [], year), opt = def.row(year);
+      var heading = def.mark + ' ' + def.title + ' ' + (KIND_PLURAL[kind] || kind);
+
+      document.getElementById('cTitle').textContent = heading;
+      /* No pill: the heading already says Files, Directories or Extensions, so
+         a tag beside it would name the kind twice. */
+      document.getElementById('cPill').innerHTML = '';
       var body = document.getElementById('cBody');
-      var html = '<div class="field"><div class="field-head">'
-        + '<div class="field-label">Ranked by ratio today</div>'
-        + '<span class="top-count">' + rows.length + ' names</span></div>'
-        + '<ol class="rank"' + posWidth(rows.length) + '>';
-      for (var r = 0; r < rows.length; r++) html += rankRow(r + 1, rows[r], false);
-      body.innerHTML = html + '</ol></div>';
+      /* The same heading the home page gives a section: what the ranking is
+         measured against, then the year it is measured against, so a whole
+         ranking is walked year by year here rather than only from the home
+         page. */
+      var html = '<div class="row-sub list-sub">' + sectionPicker(section) + kindPicker(kind)
+        + '<span class="row-note">' + esc(def.note) + '</span>'
+        + yearPicker(def.years(), year, section) + '</div>'
+        + '<div class="field"><div class="field-head">'
+        + '<div class="field-label">' + rows.length + ' names</div></div>';
+      if (!rows.length) {
+        html += '<p class="rank-none">nothing here</p>';
+      } else {
+        html += '<ol class="rank"' + posWidth(rows.length) + '>';
+        for (var r = 0; r < rows.length; r++) html += rankRow(r + 1, rows[r], opt);
+        html += '</ol>';
+      }
+      body.innerHTML = html + '</div>';
 
       var links = body.querySelectorAll('.top-link');
       for (var li = 0; li < links.length; li++) {
@@ -2161,7 +2359,43 @@
           return function () { show(ITEMS[parseInt(btn.dataset.i, 10)]); };
         })(links[li]));
       }
-      document.title = (KIND_PLURAL[kind] || kind) + ' - GitHub File History';
+      /* Picking a year or a kind redraws this page as asked, address bar and
+         all, so a reader stays in the ranking they are reading. */
+      var ybs = body.querySelectorAll('.year-btn');
+      for (var yb = 0; yb < ybs.length; yb++) {
+        ybs[yb].addEventListener('click', (function (btn) {
+          return function () {
+            var y = parseInt(btn.dataset.year, 10);
+            if (y !== year) showList(section, y, kind);
+          };
+        })(ybs[yb]));
+      }
+      var kbs = body.querySelectorAll('.kind-btn');
+      for (var kb = 0; kb < kbs.length; kb++) {
+        kbs[kb].addEventListener('click', (function (btn) {
+          return function () {
+            var k = btn.dataset.kind;
+            if (k !== kind) showList(section, year, k);
+          };
+        })(kbs[kb]));
+      }
+      /* A section keeps the kind and the year on show where it can: the year is
+         put right by renderList when the section does not offer it, since
+         "biggest gain since today" is nothing at all. */
+      var sbs = body.querySelectorAll('.section-btn');
+      for (var sb = 0; sb < sbs.length; sb++) {
+        sbs[sb].addEventListener('click', (function (btn) {
+          return function () {
+            var sc = btn.dataset.section;
+            if (sc !== section) showList(sc, year, kind);
+          };
+        })(sbs[sb]));
+      }
+      /* A link chopped back to <section>/<kind>, or the older all/<kind>, is
+         rewritten to the year it resolved to, so the address bar says which
+         one is on show and only one shape of URL is ever copied. */
+      try { history.replaceState(null, '', listUrl(section, year, kind)); } catch (e) { }
+      document.title = heading + ', ' + def.note + ' ' + YEARS[year] + ' - GitHub File History';
       document.getElementById('home').hidden = true;
       document.getElementById('detail').hidden = false;
       document.body.classList.add('detail-view');
@@ -2199,8 +2433,8 @@
         }
       }
       var at = pathParts();
-      if (at.kind === 'all') { renderAll(at.name); return; }
-      var it = at.kind ? byKey(at.kind + '#' + at.name) || byName(at.name) : null;
+      if (at.view === 'list') { renderList(at.section, at.year, at.kind); return; }
+      var it = at.view === 'item' ? byKey(at.kind + '#' + at.name) || byName(at.name) : null;
       if (it) renderDetail(it, vsFromQuery()); else showHome();
     }
 
@@ -2279,7 +2513,7 @@
           + names.join('<span class="vs">\u00a0vs\u00a0</span>') + '</button>';
       }
       if (!sets.length) { box.innerHTML = ''; return; }
-      box.innerHTML = '<div class="pick-list"><span class="pick-label">See also:</span>' + html + '</div>';
+      box.innerHTML = '<div class="pick-list"><span class="pick-label">Tip:</span>' + html + '</div>';
       var btns = box.querySelectorAll('.pick');
       for (var b = 0; b < btns.length; b++) {
         btns[b].addEventListener('click', (function (set) {
@@ -2318,160 +2552,231 @@
     /* Each kind gets its top ten by ratio today, with the rest of its names behind
        a toggle: the long lists are useful but should not push the sections apart. */
     var TOP_N = 10;
-    /* Which snapshot the rankings by movement compare today with. Every year but
-       the newest can be picked, since comparing the newest with itself would
-       leave nothing to rank. */
+    /* The years a section of movement can be measured against: every one but
+       the newest, since comparing the newest with itself would leave nothing to
+       rank. Popular offers all of them, so both pickers index into YEARS. */
     var MOVE_YEARS = YEARS.slice(0, -1);
-    /* The page opens on 2020, far enough back to have moved and recent enough
-       that the names are still ones the reader knows; the oldest snapshot stands
-       in where a data file does not carry that year. */
-    var MOVE_FROM = Math.max(0, MOVE_YEARS.indexOf('2020'));
-    /* Which snapshot the rankings by kind are ranked and drawn at. Any year will
-       do here, and today is where the page opens. */
-    var TOP_AT = YEARS.length - 1;
-    /* Whether each row of rankings is opened past its first ten. Kept out of the
-       DOM so that picking another year redraws the row as the reader left it. */
-    var OPEN = { kind: false, moving: false };
-    var TOP_MORE = 100;  // how far the ranking goes once it is expanded
+    /* The year each section is drawn against, its own. Picking a year changes
+       the section it was picked in and leaves the other three where they were,
+       so two sections can be read against different years at once.
+       The movement sections open on 2020, far enough back to have moved and
+       recent enough that the names are still ones the reader knows; the oldest
+       snapshot stands in where a data file does not carry that year. Popular
+       opens on today. */
+    var MOVE_START = Math.max(0, MOVE_YEARS.indexOf('2020'));
+    var YEAR_START = {
+      popular: YEARS.length - 1,
+      new: MOVE_START,
+      increasing: MOVE_START,
+      decreasing: MOVE_START
+    };
+    var YEAR_AT = {
+      popular: YEAR_START.popular,
+      new: YEAR_START.new,
+      increasing: YEAR_START.increasing,
+      decreasing: YEAR_START.decreasing
+    };
 
     /* One ranked row: the bar is the ratio at the year on show, so rows can be
        compared across sections even when the ranking itself is by something
-       else. */
+       else. `opt` is the row's section: which year it is drawn at, whether the
+       movement since another year is written beside it, and whether the kind
+       needs naming (it does not, where a whole chart is one kind). */
     /* The width the position column needs for a list ending at this number. */
     function posWidth(max) {
       return ' style="--pos:' + Math.max(18, 4 + String(max).length * 7) + 'px"';
     }
 
-    function rankRow(pos, i, withPill, from, at) {
-      var it = ITEMS[i], r = ratioAt(it, at);
+    function rankRow(pos, i, opt) {
+      opt = opt || {};
+      var it = ITEMS[i], r = ratioAt(it, opt.at);
       return '<li><span class="rank-pos">' + pos + '</span>'
         + '<span class="rank-label">'
         + '<button class="top-link rank-name" data-i="' + i + '" title="' + esc(it.n) + '">' + esc(it.n) + '</button>'
-        + (withPill ? pill(it.k) : '') + '</span>'
+        + (opt.pill ? pill(it.k) : '') + '</span>'
         + icon(it)
         + '<span class="rank-bar"><span class="rank-fill rank-fill-' + it.k + '" style="width:' + r + '%"></span></span>'
         + '<span class="rank-pct">' + r + '%</span>'
-        /* Only the sections that rank by movement carry the change; in the top tens
-           the ratio is the ranking, so points and arrow would just be noise. */
-        + (withPill
-          ? '<span class="rank-delta arw-' + direction(it, from) + '">' + (delta(it, from) > 0 ? '+' : '') + delta(it, from) + '</span>'
-          + '<span class="rank-arw">' + arrow(it, from) + '</span>'
+        /* Only the sections that rank by movement carry the change; under
+           Popular the ratio is the ranking, so points and arrow would just be
+           noise. */
+        + (opt.move
+          ? '<span class="rank-delta arw-' + direction(it, opt.from) + '">' + (delta(it, opt.from) > 0 ? '+' : '') + delta(it, opt.from) + '</span>'
+          + '<span class="rank-arw">' + arrow(it, opt.from) + '</span>'
           : '')
         + '</li>';
     }
 
-    function section(title, note, rows, withPill, from) {
-      if (!rows.length) return '';
-      var top = rows.slice(0, TOP_N), rest = rows.slice(TOP_N);
-      var html = '<div class="top-group"><div class="top-group-title"><h2>' + title + '</h2>'
-        + '<span class="top-count">' + note + '</span></div>'
-        + '<ol class="rank"' + posWidth(rows.length) + '>';
-      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i], withPill, from);
+    /* The four rankings the home page is made of, in the order it draws them.
+       Each says how to order the names of one kind at one year, and how a row of
+       it is written; the home page shows the first ten of each and the page
+       behind "See all" shows the lot, both from this one description.
+       The keys are the first segment of the URL of that ranking. */
+    var SECTION_ORDER = ['popular', 'new', 'increasing', 'decreasing'];
+    var SECTIONS = {
+      popular: {
+        title: 'Popular',
+        mark: '\u2b50',  /* star */
+        note: 'most common in',
+        /* Any snapshot can be ranked by ratio, so Popular offers all of them. */
+        years: function () { return YEARS; },
+        rank: function (list, y) {
+          return list.slice().sort(function (a, b) {
+            return ratioAt(ITEMS[b], y) - ratioAt(ITEMS[a], y) || ITEMS[a].n.localeCompare(ITEMS[b].n);
+          });
+        },
+        row: function (y) { return { at: y }; }
+      },
+      /* New means new since the year being compared with: no repository had the
+         name then, some do now. What it did before that does not matter, so a
+         name that was around in 2015, vanished by 2020 and is back today counts
+         as new against 2020. */
+      new: {
+        title: 'New',
+        mark: '\u2728',  /* sparkles */
+        note: 'absent in',
+        years: function () { return MOVE_YEARS; },
+        rank: function (list, y) {
+          return list.filter(function (i) {
+            var f = ITEMS[i].f;
+            return f[y] === 0 && f[f.length - 1] > 0;
+          }).sort(byGain(y));
+        },
+        row: function (y) { return { move: true, from: y }; }
+      },
+      increasing: {
+        title: 'Increasing',
+        mark: '\ud83d\udcc8',  /* chart increasing */
+        note: 'biggest gain since',
+        years: function () { return MOVE_YEARS; },
+        rank: function (list, y) {
+          return list.filter(function (i) { return delta(ITEMS[i], y) > 0; }).sort(byGain(y));
+        },
+        row: function (y) { return { move: true, from: y }; }
+      },
+      decreasing: {
+        title: 'Decreasing',
+        mark: '\ud83d\udcc9',  /* chart decreasing */
+        note: 'biggest drop since',
+        years: function () { return MOVE_YEARS; },
+        rank: function (list, y) {
+          return list.filter(function (i) { return delta(ITEMS[i], y) < 0; }).sort(byDrop(y));
+        },
+        row: function (y) { return { move: true, from: y }; }
+      }
+    };
+
+    /* The movement sections rank by how much the ratio moved in points since
+       their year, so their bars do not descend the way Popular's do. A name that
+       is new moved by its whole ratio, which is why that one still looks sorted
+       by %. Each sort is made for one section's year, since the four do not
+       share one. */
+    function byGain(from) {
+      return function (a, b) { return delta(ITEMS[b], from) - delta(ITEMS[a], from) || ITEMS[a].n.localeCompare(ITEMS[b].n); };
+    }
+    function byDrop(from) {
+      return function (a, b) { return delta(ITEMS[a], from) - delta(ITEMS[b], from) || ITEMS[a].n.localeCompare(ITEMS[b].n); };
+    }
+
+    /* The indices of every name of one kind, worked out once a page. */
+    function kindGroups() {
+      var groups = {};
+      for (var i = 0; i < ITEMS.length; i++) {
+        (groups[ITEMS[i].k] = groups[ITEMS[i].k] || []).push(i);
+      }
+      return groups;
+    }
+
+    /* One chart of a section: the first ten of the ranking for a single kind,
+       headed by the kind in full — Files, Directories, Extensions — since it
+       names a whole ranking here rather than tagging a single row the way the
+       pills elsewhere do. The rest of the ranking is a page of its own. */
+    function rankChartOf(kind, rows, opt, seeAll) {
+      var html = '<div class="top-group" data-kind="' + esc(kind) + '">'
+        + '<div class="top-group-title"><h3 class="top-group-name pill-' + kind + '">'
+        + esc(KIND_PLURAL[kind] || kind) + '</h3>'
+        + '<span class="top-count">' + rows.length + '</span></div>';
+      if (!rows.length) return html + '<p class="rank-none">nothing here</p></div>';
+      var top = rows.slice(0, TOP_N);
+      html += '<ol class="rank"' + posWidth(rows.length) + '>';
+      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i], opt);
       html += '</ol>';
-      /* The rest of the ranking, drawn the same way and hidden until the button
-         under the row opens all three sections together. */
-      if (rest.length) {
-        html += '<ol class="rank top-more" start="' + (TOP_N + 1) + '"'
-          + ' style="' + (OPEN.moving ? '' : 'display:none;')
-          + '--pos:' + Math.max(18, 4 + String(rows.length).length * 7) + 'px">';
-        for (var j = 0; j < rest.length; j++) html += rankRow(TOP_N + j + 1, rest[j], withPill, from);
-        html += '</ol>';
+      /* The rest of the ranking is behind a link rather than a toggle: a
+         hundred rows in a column of three is a page, so it is given one. */
+      if (rows.length > top.length) {
+        html += '<div class="top-all"><a class="top-toggle see-all" href="' + seeAll + '">See all</a></div>';
       }
       return html + '</div>';
     }
 
-    /* The year a row of rankings is drawn at. Every section in the row reads the
-       same year, so the choice sits above the row rather than inside each one.
-       The scope names the row, the way the expand toggles below them do. */
-    function yearPicker(label, years, cur, scope) {
-      var html = '<div class="row-head"><span class="row-head-label">' + esc(label)
-        + '</span><div class="year-pick">';
+    /* One section of the home page: a heading that says what the ranking is and
+       against which year, then that same ranking drawn once per kind. */
+    function rankSection(scope, groups) {
+      var def = SECTIONS[scope], y = YEAR_AT[scope], opt = def.row(y);
+      /* The mark is decoration: the title says the same thing in words, so a
+         screen reader is spared reading it out. */
+      var html = '<div class="row-head"><h2 class="row-title">'
+        + '<span class="row-mark" aria-hidden="true">' + def.mark + '</span>'
+        + esc(def.title) + '</h2>'
+        /* The title has a line to itself; what the ranking is measured against
+           reads as one sentence on the lines under it. */
+        + '<div class="row-sub"><span class="row-note">' + esc(def.note) + '</span>'
+        + yearPicker(def.years(), y, scope) + '</div></div>';
+      for (var ki = 0; ki < KINDS.length; ki++) {
+        var kind = KINDS[ki];
+        html += rankChartOf(kind, def.rank(groups[kind] || [], y), opt, listUrl(scope, y, kind));
+      }
+      return html;
+    }
+
+    /* Which ranking a "See all" page is drawn for: the four the home page is
+       made of, in the order it draws them, so a reader moves between them
+       without going back for the one they want. */
+    function sectionPicker(cur) {
+      var html = '<div class="year-pick section-pick">';
+      for (var i = 0; i < SECTION_ORDER.length; i++) {
+        var sc = SECTION_ORDER[i], on = sc === cur;
+        html += '<button class="top-toggle section-btn' + (on ? ' on' : '') + '" data-section="' + esc(sc)
+          + '" aria-pressed="' + (on ? 'true' : 'false') + '">'
+          /* The mark is decoration: the title beside it says the same thing. */
+          + '<span class="row-mark" aria-hidden="true">' + SECTIONS[sc].mark + '</span>'
+          + esc(SECTIONS[sc].title) + '</button>';
+      }
+      return html + '</div>';
+    }
+
+    /* Which of the three a "See all" page is drawn for. The home page splits a
+       section into three charts side by side; a page has room for one ranking
+       at a time, so the kind is picked the way the year is. */
+    function kindPicker(cur) {
+      var html = '<div class="year-pick kind-pick">';
+      for (var i = 0; i < KINDS.length; i++) {
+        var on = KINDS[i] === cur;
+        html += '<button class="top-toggle kind-btn' + (on ? ' on' : '') + '" data-kind="' + esc(KINDS[i])
+          + '" aria-pressed="' + (on ? 'true' : 'false') + '">'
+          + esc(KIND_PLURAL[KINDS[i]] || KINDS[i]) + '</button>';
+      }
+      return html + '</div>';
+    }
+
+    /* The year a section is drawn against. Its three charts all read the same
+       year, so the choice sits in the heading rather than inside each chart. */
+    function yearPicker(years, cur, scope) {
+      var html = '<div class="year-pick">';
       for (var i = 0; i < years.length; i++) {
         var on = i === cur;
         html += '<button class="top-toggle year-btn' + (on ? ' on' : '') + '" data-scope="' + scope
           + '" data-year="' + i + '" aria-pressed="' + (on ? 'true' : 'false') + '">'
           + esc(years[i]) + '</button>';
       }
-      return html + '</div></div>';
-    }
-
-    /* The toggle that spans a row of rankings; its scope names the row it opens. */
-    function wideToggle(scope, more) {
-      return '<div class="top-all top-all-wide"><button class="top-toggle" data-scope="' + scope
-        + '">Show top ' + (OPEN[scope] ? TOP_N : more) + '</button></div>';
+      return html + '</div>';
     }
 
     function showTop() {
-      var groups = {}, all = [];
-      for (var i = 0; i < ITEMS.length; i++) {
-        (groups[ITEMS[i].k] = groups[ITEMS[i].k] || []).push(i);
-        all.push(i);
-      }
-      var html = yearPicker('Top names in', YEARS, TOP_AT, 'top'), deeper = TOP_N;
-      for (var ki = 0; ki < KINDS.length; ki++) {
-        var kind = KINDS[ki], list = groups[kind];
-        if (!list || !list.length) continue;
-        list.sort(function (a, b) { return ratioAt(ITEMS[b], TOP_AT) - ratioAt(ITEMS[a], TOP_AT) || ITEMS[a].n.localeCompare(ITEMS[b].n); });
-
-        /* The extra rows are the same ranking, just further down it, so they are
-           drawn like the first ten rather than as a list of bare names. */
-        var top = list.slice(0, TOP_N), rest = list.slice(TOP_N, TOP_MORE);
-        html += '<div class="top-group" data-kind="' + esc(kind) + '">'
-          + '<div class="top-group-title"><h2>Top</h2>' + pill(kind) + '</div>'
-          + '<ol class="rank"' + posWidth(Math.min(list.length, TOP_MORE)) + '>';
-        for (var li = 0; li < top.length; li++) html += rankRow(li + 1, top[li], false, 0, TOP_AT);
-        html += '</ol>';
-        if (rest.length) {
-          html += '<ol class="rank top-more" start="' + (TOP_N + 1) + '"'
-            + ' style="' + (OPEN.kind ? '' : 'display:none;')
-            + '--pos:' + Math.max(18, 4 + String(TOP_N + rest.length).length * 7) + 'px">';
-          for (var ri = 0; ri < rest.length; ri++) html += rankRow(TOP_N + ri + 1, rest[ri], false, 0, TOP_AT);
-          html += '</ol>';
-          deeper = Math.max(deeper, TOP_N + rest.length);
-        }
-        html += '</div>';
-      }
-
-      /* The rankings above are dominated by names that were already everywhere in
-         2015, so movement gets sections of its own: what grew the most, what fell
-         the most, and what did not exist in any earlier snapshot at all. */
-      /* These sections rank by how much the ratio moved in points, not by the ratio
-         itself, so the bars do not descend here the way they do above. A name that
-         is new moved by its whole ratio, which is why that one looks sorted by %. */
-      function byRatio(a, b) { return latest(ITEMS[b]) - latest(ITEMS[a]) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
-      function byGain(a, b) { return delta(ITEMS[b], MOVE_FROM) - delta(ITEMS[a], MOVE_FROM) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
-      function byDrop(a, b) { return delta(ITEMS[a], MOVE_FROM) - delta(ITEMS[b], MOVE_FROM) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
-
-      var rising = all.filter(function (i) { return delta(ITEMS[i], MOVE_FROM) > 0; }).sort(byGain).slice(0, TOP_MORE);
-      var decaying = all.filter(function (i) { return delta(ITEMS[i], MOVE_FROM) < 0; }).sort(byDrop).slice(0, TOP_MORE);
-      /* New means new since the year being compared with: no repository had the
-         name then, some do now. What it did before that does not matter, so a
-         name that was around in 2015, vanished by 2020 and is back today counts
-         as new against 2020. */
-      var fresh = all.filter(function (i) {
-        var f = ITEMS[i].f;
-        return f[MOVE_FROM] === 0 && f[f.length - 1] > 0;
-      })
-        .sort(byGain)
-        .slice(0, TOP_MORE);
-
-      var since = esc(MOVE_YEARS[MOVE_FROM]);
-      var moving = section('Increasing', 'biggest gain since ' + since, rising, true, MOVE_FROM)
-        + section('Decreasing', 'biggest drop since ' + since, decaying, true, MOVE_FROM)
-        + section('New', 'absent in ' + since, fresh, true, MOVE_FROM);
-      /* A button per row of sections, not per section: each row is read side by
-         side, so expanding one section at a time would leave the row ragged. */
-      if (deeper > TOP_N) {
-        html += wideToggle('kind', deeper);
-      }
-      /* A rule across the grid: the three rankings by kind are one row, the
-         three by movement another, and the eye should not run between them. */
-      html += '<div class="row-rule"></div>'
-        + yearPicker('Compare ' + YEARS[YEARS.length - 1] + ' with', MOVE_YEARS, MOVE_FROM, 'moving')
-        + moving;
-      var movingDeep = Math.max(rising.length, decaying.length, fresh.length);
-      if (movingDeep > TOP_N) {
-        html += wideToggle('moving', movingDeep);
+      var groups = kindGroups(), html = '';
+      for (var si = 0; si < SECTION_ORDER.length; si++) {
+        if (si) html += '<div class="row-rule"></div>';
+        html += rankSection(SECTION_ORDER[si], groups);
       }
 
       var tl = document.getElementById('top-list');
@@ -2486,22 +2791,25 @@
       for (var yi = 0; yi < years.length; yi++) {
         years[yi].addEventListener('click', (function (btn) {
           return function () {
-            var y = parseInt(btn.dataset.year), moving = btn.dataset.scope === 'moving';
-            if (y === (moving ? MOVE_FROM : TOP_AT)) return;
-            if (moving) MOVE_FROM = y; else TOP_AT = y;
+            var scope = btn.dataset.scope, y = parseInt(btn.dataset.year);
+            if (y === YEAR_AT[scope]) return;
+            YEAR_AT[scope] = y;
             showTop();
           };
         })(years[yi]));
       }
-      var toggles = tl.querySelectorAll('.top-toggle:not(.year-btn)');
-      for (var pi = 0; pi < toggles.length; pi++) {
-        toggles[pi].addEventListener('click', (function (btn) {
-          return function () {
-            var scope = btn.dataset.scope;
-            OPEN[scope] = !OPEN[scope];
-            showTop();
+      /* A real link, so it can be opened in a new tab or copied; the handler
+         only saves the reload when it is followed in place. */
+      var alls = tl.querySelectorAll('.see-all');
+      for (var ai = 0; ai < alls.length; ai++) {
+        alls[ai].addEventListener('click', (function (a) {
+          return function (e) {
+            if (e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
+            e.preventDefault();
+            navigate(a.getAttribute('href'));
+            route();
           };
-        })(toggles[pi]));
+        })(alls[ai]));
       }
     }
 
