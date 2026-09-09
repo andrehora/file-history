@@ -1,0 +1,9 @@
+name,type
+.eslintrc.yml,file
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+contributing.md,file
+package.json,file
+readme.md,file

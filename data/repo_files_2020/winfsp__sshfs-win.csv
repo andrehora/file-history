@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.gitmodules,file
+00-passwd.patch,file
+License.txt,file
+Makefile,file
+README.md,file
+etc,dir
+fstab,file
+nsswitch.conf,file
+patches,dir
+sshfs-win.c,file
+sshfs-win.wxs,file

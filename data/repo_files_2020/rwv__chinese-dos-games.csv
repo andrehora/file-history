@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+bug_report.md,file
+cover.jpg,file
+cover.png,file
+download_data.py,file
+feature_request.md,file
+game-request.md,file
+games.json,file
+img,dir

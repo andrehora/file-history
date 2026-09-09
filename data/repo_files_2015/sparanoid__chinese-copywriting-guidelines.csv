@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+CHANGELOG.md,file
+Gruntfile.coffee,file
+LICENSE,file
+README.md,file
+package.json,file

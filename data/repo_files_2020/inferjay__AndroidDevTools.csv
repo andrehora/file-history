@@ -1,0 +1,6 @@
+name,type
+.gitignore,file
+README.md,file
+image,dir
+sdk-manager-proxy-settings.png,file
+static,dir

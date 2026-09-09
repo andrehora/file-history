@@ -1,0 +1,15 @@
+name,type
+LICENSE,file
+README.md,file
+books,dir
+contributors.rb,file
+issues,dir
+others,dir
+podcasts,dir
+posts,dir
+reports,dir
+scripts,dir
+sites,dir
+teams,dir
+tools,dir
+videos,dir

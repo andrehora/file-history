@@ -1,0 +1,9 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+assets,dir
+logo.svg,file
+pull_request_template.md,file
+validate-tables.yml,file
+workflows,dir

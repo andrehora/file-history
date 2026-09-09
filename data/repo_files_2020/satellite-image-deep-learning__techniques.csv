@@ -1,0 +1,34 @@
+name,type
+.gitignore,file
+.ipynb_checkpoints,dir
+3d_models,dir
+CubbieStation_08232013.jpg,file
+CubbieStation_08311987.jpg,file
+Deploy model via REST API 17-4-2018.ipynb,file
+LICENSE,file
+Pre-process image 17-4-2018.ipynb,file
+README.md,file
+Tensorflow transfer learning 16-4-2018.ipynb,file
+change_detection,dir
+change_detection-checkpoint.ipynb,file
+change_detection.ipynb,file
+data,dir
+images,dir
+label_image.py,file
+land_classification,dir
+mobilenet_v2,dir
+object_detection,dir
+output_graph.pb,file
+output_labels.txt,file
+pangeo,dir
+pangeo_binder.png,file
+resources,dir
+run_keras_server_sat.py,file
+run_train-tag-accuracy_1.csv,file
+run_validation-tag-accuracy_1.csv,file
+sat_image.jpg,file
+semantic_segmentation,dir
+tensorboard.png,file
+tensorboard_mobilenet.png,file
+tensorflow,dir
+using_pca_and_k_means,dir

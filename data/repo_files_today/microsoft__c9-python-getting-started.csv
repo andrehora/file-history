@@ -1,0 +1,212 @@
+name,type
+.gitignore,file
+.vscode,dir
+0 - Intro.pptx,file
+01 - Formatting and linting,dir
+01 - Formatting and linting.pptx,file
+01 - Jupyter Notebooks,dir
+01 - Jupyter Notebooks.pptx,file
+02 - Intro to Anaconda and conda.pptx,file
+02 - Introduction to Anaconda and Conda,dir
+02 - Lambdas,dir
+02 - Lambdas.pptx,file
+02 - Print,dir
+03 - Classes,dir
+03 - Classes.pptx,file
+03 - Comments,dir
+03 - Intro to Pandas,dir
+03 - Pandas Series and DataFrame.ipynb,file
+03 - Pandas series and DataFrame.pptx,file
+04 - Examining Pandas DataFrame contents,dir
+04 - Examining pandas DataFrame contents.pptx,file
+04 - Exploring pandas DataFrame contents.ipynb,file
+04 - Inheritance,dir
+04 - Inhheritance.pptx,file
+04 - String variables,dir
+05 - Mixins,dir
+05 - Mixins (multiple inheritance).pptx,file
+05 - Numeric variables,dir
+05 - Query a pandas DataFrame.pptx,file
+05 - Query a pandas Dataframe,dir
+05 - Querying DataFrames.ipynb,file
+06 - CSV Files and Jupyter Notebooks,dir
+06 - CSV Files and Jupyter notebooks.pptx,file
+06 - Dates,dir
+06 - Managing the file system,dir
+06 - Managing the file system.pptx,file
+07 - Error handling,dir
+07 - Read and write CSV files from DataFrames.pptx,file
+07 - Read and write CSV files from pandas DataFrames,dir
+07 - Read write CSV files.ipynb,file
+07 - Reading and writing files,dir
+07 - Working with files.pptx,file
+08 - Cleanup with with.pptx,file
+08 - Handling conditions,dir
+08 - Managing external resources,dir
+08 - Remove columns from DataFrame.pptx,file
+08 - Removing and splitting DataFrame columns,dir
+08 - Removing columns.ipynb,file
+09 - Asynchronous operations.pptx,file
+09 - Asynchronous programming,dir
+09 - Handling duplicates and rows with missing values,dir
+09 - Handling multiple conditions,dir
+09 - Remove rows with missing values.pptx,file
+09 - Removing rows.ipynb,file
+1 - Getting started.pptx,file
+10 - Complex conditon checks,dir
+10 - ComplexConditionChecks.pptx,file
+10 - Splitting test and training data with scikit-learn,dir
+10 - Splitting test and training data.pptx,file
+10 - Train Test split.ipynb,file
+11 - Collections,dir
+11 - Collections.pptx,file
+11 - Train a basic model.ipynb,file
+11 - Train a linear regression model with scikit-learn,dir
+11 - Train a linear regression model with scikitlearn.pptx,file
+12 - Loops,dir
+12 - Loops.pptx,file
+12 - Test a model.ipynb,file
+12 - Testing a model,dir
+12 - Testing a model.pptx,file
+13 - Evaluate accuracy of a model using calculations.pptx,file
+13 - Evaluate accuracy.ipynb,file
+13 - Evaluating accuracy of a model using calculations,dir
+13 - Functions,dir
+13 - Functions.pptx,file
+14 - Function parameters,dir
+14 - FunctionParameters.pptx,file
+14 - NumPy vs Pandas,dir
+14 - Working with numpy and pandas.ipynb,file
+14 - Working with numpy and pandas.pptx,file
+15 - ModulesPackages.pptx,file
+15 - Packages,dir
+15 - Visualizing Data Correlations with Matplotlib.pptx,file
+15 - Visualizing correlations.ipynb,file
+15 - Visualizing data with Matplotlib,dir
+16 - Calling APIs,dir
+16 - CallingAPI.pptx,file
+17 - JSON,dir
+17 - JSON.pptx,file
+18 - Decorators,dir
+2 - Print.pptx,file
+3 - Comments.pptx,file
+4 - StringVariables.pptx,file
+5 - NumericVariables.pptx,file
+6 - Dates.pptx,file
+7 - ErrorHandling.pptx,file
+8 - Conditions.pptx,file
+9 - MultipleConditions.pptx,file
+CODE_OF_CONDUCT.md,file
+FeedingKangaroo.jpg,file
+LICENSE,file
+Lots_of_flight_data.csv,file
+Parliament_Hill.jpg,file
+PolarBear.jpg,file
+README.md,file
+SECURITY.md,file
+Slides,dir
+TestImages,dir
+add_else.py,file
+add_else_different_indentation.py,file
+add_else_to_elif.py,file
+airports.csv,file
+airportsBlankValues.csv,file
+airportsDuplicateRows.csv,file
+airportsInvalidRows.csv,file
+airportsNoHeaderRows.csv,file
+arrays.py,file
+ask_for_input.py,file
+async_demo.py,file
+bad.py,file
+basic_class.py,file
+boolean_variables.py,file
+call_api.py,file
+case_insensitive_comparisons.py,file
+check_tax.py,file
+code_challenge.py,file
+code_challenge_solution.py,file
+coding_challenge.py,file
+coding_challenge_solution.py,file
+color_import_demo.py,file
+combine_strings.py,file
+combining_strings_and_numbers.py,file
+comments_are_not_executed.py,file
+comments_for_debugging.py,file
+common-operations.py,file
+comparing_strings.py,file
+convert_strings_to_numbers_for_math.py,file
+create_json_from_dict.py,file
+create_json_with_list.py,file
+create_json_with_nested_dict.py,file
+creating_decorators.py,file
+date_functions.py,file
+demo.py,file
+demo.txt,file
+dictionaries.py,file
+directories.py,file
+doing_math.py,file
+enable_pin.py,file
+even-more-python-for-beginners-data-tools,dir
+failed_sort.py,file
+files.py,file
+flight_delays.csv,file
+for.py,file
+format_date.py,file
+format_strings.py,file
+get_current_date.py,file
+get_initails_function.py,file
+get_initials.py,file
+get_initials_default_values.py,file
+get_initials_function.py,file
+get_initials_multiple_parameters.py,file
+get_initials_named_parameters.py,file
+getting_clever_with_functions_harder_to_read.py,file
+good.py,file
+hello_world.py,file
+helpers.py,file
+import_module.py,file
+input_date.py,file
+lambda_sorter.py,file
+lists.py,file
+logic.py,file
+manage.py,file
+method_sorter.py,file
+more-python-for-beginners,dir
+multiple_if_statements.py,file
+named_parameters_make_code_readable.py,file
+nested_if.py,file
+number.py,file
+numbers_treated_as_strings.py,file
+or_statements.py,file
+output.txt,file
+paths.py,file
+print_blank_line.py,file
+print_pi.py,file
+print_time_function.py,file
+print_time_function_different_messages.py,file
+print_time_function_fix_import.py,file
+print_time_repeated_code.py,file
+print_time_with_message_parameter.py,file
+properties_class.py,file
+python-for-beginners,dir
+ranges.py,file
+read.py,file
+read_json.py,file
+read_key_pair.py,file
+read_key_pair_list.py,file
+read_subkey.py,file
+readme.md,file
+requirements.txt,file
+runtime.py,file
+settings.json,file
+single_or_double_quotes.py,file
+string_functions.py,file
+string_in_double_quotes.py,file
+strings_in_variables.py,file
+sync_demo.py,file
+syntax.py,file
+use_elif.py,file
+use_in_statements.py,file
+using_and.py,file
+while.py,file
+write.py,file

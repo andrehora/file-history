@@ -1,0 +1,13 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+bower.json,file
+component.json,file
+license,file
+package.json,file
+query-string.js,file
+readme.md,file
+test.js,file

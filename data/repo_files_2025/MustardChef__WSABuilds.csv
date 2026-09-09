@@ -1,0 +1,199 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+01ee3bf3.0,file
+024c10e0.0,file
+0888e817.0,file
+0b4055f7.0,file
+281f8e47.0,file
+2ef957f0.0,file
+39698488.0,file
+3f66ddee.0,file
+42afec87.0,file
+482e0622.0,file
+4a3b190e.0,file
+4eba579e.0,file
+6207c6f5.0,file
+66bbb532.0,file
+820d5f23.0,file
+85c0c4be.0,file
+ADB-Sideloading.md,file
+Alpha.md,file
+Amazon Appstore Only.md,file
+App Compatibility.md,file
+Appx Module Cannot Be Loaded.md,file
+Backup and Restore.md,file
+Beta.md,file
+BusyBox.md,file
+Canary.md,file
+ChangingGPU.md,file
+Checksum.md,file
+Credits.md,file
+Custom Builds.md,file
+Custom-GApps.md,file
+DLL,dir
+Debug.md,file
+Delta.md,file
+Documentation,dir
+EROFS,dir
+Extraction Errors.md,file
+FAQ.md,file
+FE3FileUrl.xml,file
+FUNDING.yml,file
+Fix Error 0x80073CF0.md,file
+Fix Error 0x80073CF6.md,file
+Fix Error 0x80073CF9.md,file
+Fix Error 0x80073CFB.md,file
+Fix Error 0x80073CFD.md,file
+Fix Error 0x80073D10.md,file
+Fix Guides,dir
+FixInstallps1.md,file
+FixInternet.md,file
+FixPathTooLong.md,file
+FixVirtError.md,file
+Fixes,dir
+Gapps and AMZ Appstore.md,file
+General Usage Guides,dir
+GetCookie.xml,file
+Google Play Issues.md,file
+Guides,dir
+Having Issues.md,file
+ISSUE_TEMPLATE,dir
+Information.md,file
+Install.ps1,file
+InstallPs1FailedToUpdate.md,file
+Installation.md,file
+InternetSecuritySettingsBlock.md,file
+KernelSU,dir
+KernelSU.md,file
+KernelSUUpdateCheck.py,file
+Keyboard Is Not Working.md,file
+LICENSE,file
+LICENSE-CC-BY-NC-ND,file
+License.txt,file
+LocalHostLoopback.md,file
+MTGUpdateCheck.py,file
+Magisk,dir
+Magisk.md,file
+MagiskCanaryUpdateCheck.py,file
+MagiskDelta.md,file
+MagiskOnWSA,dir
+MagiskOnWSAOld,dir
+MagiskStableUpdateCheck.py,file
+MakePri.ps1,file
+MindTheGapps and AMZ,dir
+MindTheGapps and AMZ.md,file
+MindTheGapps and Amazon Appstore.md,file
+MindTheGapps and Removed AMZ,dir
+MindTheGapps and Removed AMZ.md,file
+MindTheGapps and Removed Amazon.md,file
+MindTheGapps.md,file
+MissingIcons.md,file
+MoveToExtDrive.md,file
+MoveToExtDrive_CN.md,file
+NamedResource Not Found - Fix Error 0x80073B17.md,file
+No Gapps and AMZ,dir
+No Gapps and AMZ.md,file
+No Gapps and Amazon Appstore.md,file
+No Gapps and Removed AMZ,dir
+No Gapps and Removed AMZ.md,file
+No Gapps and Removed Amazon.md,file
+No Root,dir
+OldBuilds.md,file
+PetroSky.md,file
+Post-Install Issues,dir
+Post-Installation Guides,dir
+Pre-Install Issues,dir
+README.md,file
+Remove Non Existent Entries.md,file
+Run.bat,file
+Sideloading Guides,dir
+Sideloading.md,file
+Specified Logon Error.md,file
+Sponsors,dir
+Stable.md,file
+TargetMachineActivelyRefusedConnection.md,file
+Troubleshooting.md,file
+Uninstall Script,dir
+Uninstallation.md,file
+Update Check,dir
+Update Script,dir
+Updating.md,file
+Usage Guide.md,file
+Usage Guides,dir
+VpnDialogs,dir
+VpnDialogs.apk,file
+WSA Does Not Load After Install + No Splashscreen.md,file
+WSA Settings App Crashes + Android Apps Do Not Load After Installation.md,file
+WSA Stopped Working!.md,file
+WSA Stopped Working.md,file
+WSA-Sideloader.md,file
+WSABuilds,dir
+WSABuilds Utilities,dir
+WSAFiles.md,file
+WSAInsiderUpdateCheck.py,file
+WSAPacman.md,file
+WSARetailUpdateCheck.py,file
+WSAUninstaller.py,file
+WSAUpdateChecker.py,file
+WSAUpdater.py,file
+WUIDRequest.xml,file
+WsaPatch.dll,file
+a4f6f3c0.0,file
+arm64,dir
+b0396035.0,file
+bin,dir
+bug_report.yml,file
+build.sh,file
+build.yml,file
+build_arm64_old.yml,file
+build_old.yml,file
+buildarm64.yml,file
+buildtester.yml,file
+cacerts,dir
+config.yml,file
+dependabot.yml,file
+docs,dir
+documentation.yml,file
+ea335731.0,file
+extractMagisk.py,file
+extractWSA.py,file
+f9b4d31c.0,file
+fbb5e364.0,file
+feature_request.yml,file
+fixGappsProp.py,file
+fuse.erofs,file
+generateGappsLink.py,file
+generateKernelSULink.py,file
+generateMagiskLink.py,file
+generateWSALinks.py,file
+icu.dll,file
+index.html,file
+init.lsp.magisk.rc,file
+install_deps.sh,file
+installer,dir
+libc.so,file
+libdl.so,file
+libm.so,file
+linker,dir
+linker64,file
+lspinit,file
+magisk_debug.sh,file
+makepri.exe,file
+mkfs.erofs,file
+post-fs-data.sh,file
+priconfig.xml,file
+priv-app,dir
+requirements.txt,file
+run.sh,file
+scripts,dir
+sepolicy.rule,file
+system,dir
+update-downloadlinks.py,file
+update-downloadvar.py,file
+update.yml,file
+windows10patch.ps1,file
+workflows,dir
+x64,dir
+xml,dir

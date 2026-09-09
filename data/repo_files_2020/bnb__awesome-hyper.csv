@@ -1,0 +1,12 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+code-of-conduct.md,file
+compositor.json,file
+hyper-3-color-logo.svg,file

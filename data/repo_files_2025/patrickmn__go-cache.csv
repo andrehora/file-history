@@ -1,0 +1,8 @@
+name,type
+CONTRIBUTORS,file
+LICENSE,file
+README.md,file
+cache.go,file
+cache_test.go,file
+sharded.go,file
+sharded_test.go,file

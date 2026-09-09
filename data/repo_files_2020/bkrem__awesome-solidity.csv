@@ -1,0 +1,8 @@
+name,type
+.travis.yml,file
+CODE-OF-CONDUCT.md,file
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+maketoc.sh,file
+toc.md,file

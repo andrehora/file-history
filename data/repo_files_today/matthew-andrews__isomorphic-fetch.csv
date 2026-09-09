@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+api.test.js,file
+bower.json,file
+fetch-bower.js,file
+fetch-npm-browserify.js,file
+fetch-npm-node.js,file
+package.json,file
+test,dir

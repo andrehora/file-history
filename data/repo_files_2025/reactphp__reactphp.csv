@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+bootstrap.php,file
+ci.yml,file
+composer.json,file
+phpunit.xml.dist,file
+phpunit.xml.legacy,file
+tests,dir
+workflows,dir

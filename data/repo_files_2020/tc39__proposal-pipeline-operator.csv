@@ -1,0 +1,7 @@
+name,type
+.travis.yml,file
+README.md,file
+deploy.sh,file
+github_deploy_key.enc,file
+package.json,file
+spec.html,file

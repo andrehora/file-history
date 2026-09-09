@@ -1,0 +1,6 @@
+name,type
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+app.asar,file
+version.json,file

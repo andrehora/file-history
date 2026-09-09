@@ -1,0 +1,122 @@
+name,type
+.gitignore,file
+0 - Intro.pptx,file
+02 - Print,dir
+03 - Comments,dir
+04 - String variables,dir
+05 - Numeric variables,dir
+06 - Dates,dir
+07 - Error handling,dir
+08 - Handling conditions,dir
+09 - Handling multiple conditions,dir
+1 - Getting started.pptx,file
+10 - Complex conditon checks,dir
+10 - ComplexConditionChecks.pptx,file
+11 - Collections,dir
+11 - Collections.pptx,file
+12 - Loops,dir
+12 - Loops.pptx,file
+13 - Functions,dir
+13 - Functions.pptx,file
+14 - Function parameters,dir
+14 - FunctionParameters.pptx,file
+15 - ModulesPackages.pptx,file
+15 - Packages,dir
+16 - Calling APIs,dir
+16 - CallingAPI.pptx,file
+17 - JSON,dir
+17 - JSON.pptx,file
+18 - Decorators,dir
+2 - Print.pptx,file
+3 - Comments.pptx,file
+4 - StringVariables.pptx,file
+5 - NumericVariables.pptx,file
+6 - Dates.pptx,file
+7 - ErrorHandling.pptx,file
+8 - Conditions.pptx,file
+9 - MultipleConditions.pptx,file
+CODE_OF_CONDUCT.md,file
+FeedingKangaroo.jpg,file
+LICENSE,file
+Parliament_Hill.jpg,file
+PolarBear.jpg,file
+README.md,file
+SECURITY.md,file
+Slides,dir
+TestImages,dir
+add_else.py,file
+add_else_different_indentation.py,file
+add_else_to_elif.py,file
+arrays.py,file
+ask_for_input.py,file
+boolean_variables.py,file
+call_api.py,file
+case_insensitive_comparisons.py,file
+check_tax.py,file
+code_challenge.py,file
+code_challenge_solution.py,file
+coding_challenge.py,file
+coding_challenge_solution.py,file
+color_import_demo.py,file
+combine_strings.py,file
+combining_strings_and_numbers.py,file
+comments_are_not_executed.py,file
+comments_for_debugging.py,file
+common-operations.py,file
+comparing_strings.py,file
+convert_strings_to_numbers_for_math.py,file
+create_json_from_dict.py,file
+create_json_with_list.py,file
+create_json_with_nested_dict.py,file
+creating_decorators.py,file
+date_functions.py,file
+dictionaries.py,file
+doing_math.py,file
+enable_pin.py,file
+for.py,file
+format_date.py,file
+format_strings.py,file
+get_current_date.py,file
+get_initails_function.py,file
+get_initials.py,file
+get_initials_default_values.py,file
+get_initials_function.py,file
+get_initials_multiple_parameters.py,file
+get_initials_named_parameters.py,file
+getting_clever_with_functions_harder_to_read.py,file
+hello_world.py,file
+helpers.py,file
+import_module.py,file
+input_date.py,file
+lists.py,file
+logic.py,file
+multiple_if_statements.py,file
+named_parameters_make_code_readable.py,file
+nested_if.py,file
+number.py,file
+numbers_treated_as_strings.py,file
+or_statements.py,file
+print_blank_line.py,file
+print_pi.py,file
+print_time_function.py,file
+print_time_function_different_messages.py,file
+print_time_function_fix_import.py,file
+print_time_repeated_code.py,file
+print_time_with_message_parameter.py,file
+ranges.py,file
+read_json.py,file
+read_key_pair.py,file
+read_key_pair_list.py,file
+read_subkey.py,file
+readme.md,file
+requirements.txt,file
+runtime.py,file
+single_or_double_quotes.py,file
+string_functions.py,file
+string_in_double_quotes.py,file
+strings_in_variables.py,file
+syntax.py,file
+use_elif.py,file
+use_in_statements.py,file
+using_and.py,file
+while.py,file

@@ -1,0 +1,249 @@
+name,type
+.env.example,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+01_acquisition_agreement.pdf,file
+02_due_diligence_report.pdf,file
+03_ip_certification.pdf,file
+04_risk_assessment.pdf,file
+05_financial_adjustments.pdf,file
+06_legal_opinion.pdf,file
+07_nda.pdf,file
+08_regulatory_approval.pdf,file
+09_customer_consents.pdf,file
+10_closing_checklist.pdf,file
+AccordionGroup.tsx,file
+BASELINE.md,file
+CONTRIBUTING.md,file
+DECISIONS.md,file
+DOCKER_README.md,file
+DOCKER_TROUBLESHOOTING.md,file
+DOCUMENTATION.md,file
+Dockerfile.backend,file
+Dockerfile.frontend,file
+Dockerfile.rag-api,file
+Documentation,dir
+GlassInput.tsx,file
+GlassToggle.tsx,file
+Home.png,file
+ISSUE_TEMPLATE,dir
+Index Creation.png,file
+Index Details.png,file
+IndexForm.tsx,file
+IndexPicker.tsx,file
+InfoTooltip.tsx,file
+LICENSE,file
+LandingMenu.tsx,file
+MANIFEST.md,file
+Markdown.tsx,file
+ModelSelect.tsx,file
+README.md,file
+RFC 2119 - Key Words for Use in RFCs to Indicate Requirement Levels.txt,file
+RFC 6066 - TLS Extensions Extension Definitions.txt,file
+RFC 7301 - TLS Application-Layer Protocol Negotiation Extension.txt,file
+RFC 8126 - Guidelines for Writing an IANA Considerations Section in RFCs.txt,file
+RFC 8174 - Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words.txt,file
+RFC 8336 - The ORIGIN HTTP2 Frame.txt,file
+RFC 8441 - Bootstrapping WebSockets with HTTP2.txt,file
+RFC 8999 - Version-Independent Properties of QUIC.txt,file
+RFC 9000 - QUIC A UDP-Based Multiplexed and Secure Transport.txt,file
+RFC 9001 - Using TLS to Secure QUIC.txt,file
+RFC 9002 - QUIC Loss Detection and Congestion Control.txt,file
+RFC 9114 - HTTP3.txt,file
+RFC 9204 - QPACK Field Compression for HTTP3.txt,file
+RFC 9218 - Extensible Prioritization Scheme for HTTP.txt,file
+RFC 9220 - Bootstrapping WebSockets with HTTP3.txt,file
+RFC 9221 - An Unreliable Datagram Extension to QUIC.txt,file
+RFC 9250 - DNS over Dedicated QUIC Connections.txt,file
+RFC 9297 - HTTP Datagrams and the Capsule Protocol.txt,file
+RFC 9298 - Proxying UDP in HTTP.txt,file
+RFC 9308 - Applicability of the QUIC Transport Protocol.txt,file
+RFC 9312 - Manageability of the QUIC Transport Protocol.txt,file
+RFC 9369 - QUIC Version 2.txt,file
+RFC 9412 - The ORIGIN Extension in HTTP3.txt,file
+Retrieval Process.png,file
+Retrieval and Chat Settings.png,file
+SessionIndexInfo.tsx,file
+WATSONX_README.md,file
+__init__.py,file
+_generated,dir
+academic-evidence-2026.md,file
+acquisition,dir
+acquisition.facts.json,file
+acquisition.jsonl,file
+agent,dir
+api.ts,file
+api_reference.md,file
+api_server.py,file
+app,dir
+architecture_overview.md,file
+ask_folder.py,file
+atlas7.jsonl,file
+atlas7.raw.jsonl,file
+atlas7_service_manual.facts.json,file
+atlas7_service_manual.pdf,file
+avatar.tsx,file
+backend,dir
+batch_processor.py,file
+bug_report.md,file
+build_goldset.py,file
+button.tsx,file
+chat-bubble.tsx,file
+chat-input.tsx,file
+chat-settings-modal.tsx,file
+chunking.py,file
+ci.yml,file
+completeness-clause-ab-2026-08-15.md,file
+component-ablation-2026-08-18.md,file
+component-map-2026.md,file
+components,dir
+contextualizer.py,file
+conversation-page.tsx,file
+corpora,dir
+create_index_script.py,file
+cross-bench-validation-2026-08-15.md,file
+crossref.py,file
+database.py,file
+decisions,dir
+decomp_stability.py,file
+demo.tsx,file
+deployment_guide.md,file
+design_rationale.md,file
+docker-compose.yml,file
+docker.env,file
+docker_usage.md,file
+docling_chunker.py,file
+docs.jsonl,file
+docs.raw.jsonl,file
+document_converter.py,file
+document_fetch.py,file
+download.py,file
+embedder.md,file
+embedders.py,file
+env.example.watsonx,file
+escalation.py,file
+eslint.config.mjs,file
+eval,dir
+experiments-resolveonly-maxsim-2026-08-19.md,file
+factory.py,file
+favicon.ico,file
+feature_request.md,file
+filters.py,file
+finalize_goldset.py,file
+fixset-impact-2026-08-17.md,file
+ftslc-index-fix-2026-08-15.md,file
+glm-ocr-spike.md,file
+globals.css,file
+goldset,dir
+hr.jsonl,file
+hr.raw.jsonl,file
+images,dir
+improvement_plan.md,file
+indexing,dir
+indexing_pipeline.md,file
+indexing_pipeline.py,file
+industry-evidence-2026.md,file
+ingestion,dir
+installation_guide.md,file
+judge-sonnet-validation-2026-08-13.json,file
+judge.py,file
+judge_hard_cases.jsonl,file
+judge_validation.jsonl,file
+latechunk.py,file
+layout.tsx,file
+lib,dir
+logging_utils.py,file
+loop.py,file
+main.py,file
+make_hr_handbook.py,file
+multiturn,dir
+multiturn-decomposer-2026-08-16.md,file
+multiturn.jsonl,file
+multivector-retrieval-2026-08-19.md,file
+next.config.ts,file
+northwind_leave_policy.facts.json,file
+northwind_leave_policy.pdf,file
+ollama_client.py,file
+overview_builder.py,file
+package-lock.json,file
+package.json,file
+page.tsx,file
+paraphrase-robustness-2026-08-20.md,file
+paraphrases.jsonl,file
+phase2-gateway.md,file
+phase2-pipeline.md,file
+phase4-answer-quality.md,file
+phase4-crossref-prefilter.md,file
+phase4-escalation-rerun.md,file
+phase4-escalation-tokens.md,file
+phase4-eval-final-metric.md,file
+phase4-filters-askfolder.md,file
+phase4-retrieval-benchmarks.md,file
+pipelines,dir
+postcss.config.mjs,file
+prompt_inventory.md,file
+public,dir
+pull_request_template.md,file
+query_transformer.py,file
+quick-chat.tsx,file
+quick_start.md,file
+rag_system,dir
+repo_docs.facts.json,file
+representations.py,file
+requirements-docker.txt,file
+requirements.txt,file
+reranker.md,file
+reranker.py,file
+rerankers,dir
+research,dir
+research_roadmap.md,file
+retrieval,dir
+retrieval_pipeline.md,file
+retrieval_pipeline.py,file
+retrievers.py,file
+rfc,dir
+rfc-shakedown-2026-08-13.md,file
+rfc-shakedown-sonnet-panel.json,file
+rfc.facts.json,file
+rfc.jsonl,file
+run_e2e_multiturn.py,file
+run_eval.py,file
+run_system.py,file
+scroll-area.tsx,file
+sentence_pruner.py,file
+server.py,file
+session-chat.tsx,file
+session-sidebar.tsx,file
+smoke_e2e.py,file
+src,dir
+start-docker.sh,file
+synthesis-ab-arm-e-panel.json,file
+synthesis-ab-arm-f-panel.json,file
+synthesis-ab-arm-g-panel.json,file
+synthesis-ab-arm-g2-panel.json,file
+synthesis-ab-arm-h-panel.json,file
+synthesis-ab-arm-h2-panel.json,file
+synthesis-ab-arm-i-panel.json,file
+synthesis-ab-sonnet-panels.json,file
+synthesis-grounding-ab-2026-08-13.md,file
+system_health_check.py,file
+system_overview.md,file
+test_docker_build.sh,file
+test_gateway_routing.py,file
+textNormalization.ts,file
+triage_system.md,file
+tsconfig.json,file
+types.ts,file
+ui,dir
+union-fusion-2026-08-20.md,file
+utils,dir
+utils.ts,file
+validate_judge_hard.py,file
+verifier.md,file
+verifier.py,file
+verify_crossref_goldset.py,file
+verify_facts.py,file
+verify_rfc_goldset.py,file
+watsonx_client.py,file
+workflows,dir

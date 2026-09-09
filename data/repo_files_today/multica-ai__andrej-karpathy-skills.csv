@@ -1,0 +1,15 @@
+name,type
+.claude-plugin,dir
+.cursor,dir
+CLAUDE.md,file
+CURSOR.md,file
+EXAMPLES.md,file
+README.md,file
+README.zh.md,file
+SKILL.md,file
+karpathy-guidelines,dir
+karpathy-guidelines.mdc,file
+marketplace.json,file
+plugin.json,file
+rules,dir
+skills,dir

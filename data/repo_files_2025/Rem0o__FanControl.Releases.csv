@@ -1,0 +1,14 @@
+name,type
+.github,dir
+FUNDING.yml,file
+FanControl.zip,file
+ISSUE_TEMPLATE,dir
+Images,dir
+LICENSE,file
+MainUI.png,file
+PluginInstallation.png,file
+README.md,file
+Updater.exe,file
+bug_report.md,file
+logo.gif,file
+version.json,file

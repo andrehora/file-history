@@ -1,0 +1,9 @@
+name,type
+LICENSE,file
+README.md,file
+dist,dir
+gridstack.css,file
+gridstack.js,file
+gridstack.min.css,file
+gridstack.min.js,file
+src,dir

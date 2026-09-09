@@ -1,0 +1,17 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.npmrc,file
+funding.yml,file
+index.d.ts,file
+index.html,file
+index.js,file
+index.test-d.ts,file
+license,file
+main.yml,file
+package.json,file
+readme.md,file
+security.md,file
+workflows,dir

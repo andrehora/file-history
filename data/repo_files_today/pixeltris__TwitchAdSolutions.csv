@@ -1,0 +1,16 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+full-list.md,file
+issues.md,file
+release.yml,file
+strip,dir
+strip.user.js,file
+vaft,dir
+vaft-ublock-origin.js,file
+vaft.user.js,file
+video-swap-new,dir
+video-swap-new-ublock-origin.js,file
+video-swap-new.user.js,file
+workflows,dir

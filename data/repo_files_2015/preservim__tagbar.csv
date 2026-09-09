@@ -1,0 +1,12 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.info,file
+LICENSE,file
+README.md,file
+autoload,dir
+doc,dir
+plugin,dir
+syntax,dir
+tagbar.txt,file
+tagbar.vim,file

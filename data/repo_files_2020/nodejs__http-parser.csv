@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.mailmap,file
+.travis.yml,file
+AUTHORS,file
+LICENSE-MIT,file
+Makefile,file
+README.md,file
+bench.c,file
+contrib,dir
+http_parser.c,file
+http_parser.gyp,file
+http_parser.h,file
+parsertrace.c,file
+test.c,file
+url_parser.c,file

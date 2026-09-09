@@ -1,0 +1,13 @@
+name,type
+.aspell.en.pws,file
+.github,dir
+.gitmodules,file
+.markdownlint.json,file
+.mrconfig,file
+.travis.yml,file
+CHANGELOG.md,file
+ISSUE_TEMPLATE.md,file
+LICENSE.txt,file
+Readme.md,file
+Roadmap.md,file
+mr-update.sh,file

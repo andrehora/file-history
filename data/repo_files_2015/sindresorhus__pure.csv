@@ -1,0 +1,12 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+PKGBUILD,file
+arch,dir
+license,file
+package.json,file
+pure.plugin.zsh,file
+pure.zsh,file
+readme.md,file
+screenshot-title-cmd.png,file
+screenshot.png,file

@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE.txt,file
+README.md,file
+__init__.py,file
+gitfiti-screenshot.png,file
+gitfiti.py,file
+pixels-large.png,file
+pixels.png,file
+test_find_max_daily_commits.py,file
+test_str_to_sprite.py,file
+tests,dir

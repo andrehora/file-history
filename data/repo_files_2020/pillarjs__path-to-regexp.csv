@@ -1,0 +1,15 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.travis.yml,file
+History.md,file
+LICENSE,file
+Readme.md,file
+index.spec.ts,file
+index.ts,file
+package-lock.json,file
+package.json,file
+src,dir
+tsconfig.es2015.json,file
+tsconfig.json,file
+tslint.json,file

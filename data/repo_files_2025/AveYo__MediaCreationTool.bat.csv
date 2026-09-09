@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.gitignore,file
+AutoUnattend.xml,file
+LICENSE,file
+MediaCreationTool.bat,file
+Quick_11_iso_esd_wim_TPM_toggle.bat,file
+README.md,file
+Skip_TPM_Check_on_Dynamic_Update.cmd,file
+auto.cmd,file
+bypass11,dir
+preview.png,file
+readme.md,file
+windows_update_refresh.bat,file

@@ -1,0 +1,7 @@
+name,type
+README.md,file
+custom_responses.png,file
+images,dir
+type_hints.png,file
+type_hintsless.png,file
+value_error_response.png,file

@@ -1,0 +1,13 @@
+name,type
+.git_hooks,dir
+Clean-Architecture-V1.0.pdf,file
+Clean-Code-V2.4.pdf,file
+LICENSE,file
+README.md,file
+cheatsheets,dir
+feature-flags.md,file
+glossary.md,file
+images,dir
+install_hooks.sh,file
+pre-commit,file
+software_architecture_pasta.png,file

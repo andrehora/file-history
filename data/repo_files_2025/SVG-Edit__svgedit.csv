@@ -1,0 +1,698 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+.npmignore,file
+3.0.0.md,file
+4.0.0.md,file
+5.0.0.md,file
+6.0.0.md,file
+AUTHORS,file
+Accessibility.md,file
+Acknowledgements.md,file
+AlphaBar.png,file
+Bars.png,file
+BigBlueButton.md,file
+BottomPanel.html,file
+BottomPanel.js,file
+BrowserBugs.md,file
+CHANGES.md,file
+CODE_OF_CONDUCT.md,file
+CanvasAPI.md,file
+CodeRefactoring.md,file
+ColorValuePicker.js,file
+CommitPolicy.md,file
+CommunityConferenceCall.md,file
+CommunityConferenceCall2.md,file
+CommunityConferenceCall3.md,file
+CommunityConferenceCall4.md,file
+CommunityConferenceCall5.md,file
+ConfigObj.js,file
+ConfigOptions.md,file
+Consulting.md,file
+Contact.md,file
+Contributing.md,file
+Development.md,file
+DevelopmentProcess.md,file
+Editor.js,file
+Editor.md,file
+EditorAPI.md,file
+EditorStartup.js,file
+Events.md,file
+ExtensionDocs.md,file
+FUNDING.yml,file
+FrequentlyAskedQuestions.md,file
+Governance.md,file
+HallOfFame.md,file
+HomePage.md,file
+HowToParticipate.md,file
+ISSUE_TEMPLATE,dir
+InfoWorld2013interview.md,file
+LICENSE-Apache2.0.txt,file
+LICENSE-MIT.txt,file
+LayersPanel.html,file
+LayersPanel.js,file
+LeftPanel.html,file
+LeftPanel.js,file
+LocaleDocs.md,file
+MainMenu.js,file
+Maps.png,file
+MathJax.min.js,file
+NoColor.png,file
+NumberSpinBox.js,file
+PaintBox.js,file
+PlainNumberSpinBox.js,file
+PossibleRename.md,file
+ProjectsThatUseSvgEdit.md,file
+README,file
+README.md,file
+README.txt,file
+ReactTest.js,file
+Readme.md,file
+RelatedLinks.md,file
+ReleaseInstructions.md,file
+Reviews.md,file
+RoadMap.md,file
+RoundtripTests.md,file
+Rulers.js,file
+SVG_Open_2010.md,file
+SePlainAlertDialog.js,file
+Slider.js,file
+Stakeholders.md,file
+Summer_of_Code_2010.md,file
+Summer_of_Code_2013.md,file
+SvgSupport.md,file
+TeX-AMS-MML_SVG.js,file
+Testing.md,file
+Theming.md,file
+TipsAndTricks.md,file
+TopPanel.html,file
+TopPanel.js,file
+TranslationGuidelines.md,file
+VersionHistory.md,file
+VersionLifecycle.md,file
+Wikipedia.md,file
+__svgSnapshots__,dir
+add_subpath.svg,file
+align.svg,file
+align_bottom.svg,file
+align_center.svg,file
+align_distrib_horiz.svg,file
+align_distrib_verti.svg,file
+align_left.svg,file
+align_middle.svg,file
+align_right.svg,file
+align_top.svg,file
+allowedMimeTypes.php,file
+anchor_end.svg,file
+anchor_middle.svg,file
+anchor_start.svg,file
+angle.svg,file
+animal.json,file
+arbelos.svg,file
+archive,dir
+arrow.json,file
+arrow_down.svg,file
+arrow_right.svg,file
+arrow_right_big.svg,file
+assert-almostEquals.js,file
+assert-close.js,file
+assert-expectOutOfBoundsException.js,file
+assertion-wrapper.js,file
+babel.config.json,file
+badges,dir
+bar-opacity.png,file
+base,dir
+basic.json,file
+blur-event.js,file
+blur.svg,file
+bold.svg,file
+box.svg,file
+box_o.svg,file
+browser-bugs,dir
+browser-not-supported.html,file
+browser-not-supported.js,file
+browser.js,file
+bug_report.md,file
+c_radius.svg,file
+cancel.svg,file
+canvas.html,file
+circle.svg,file
+circle_cursor.svg,file
+clear.js,file
+clipboard.cy.js,file
+clone.svg,file
+close_path.svg,file
+closepath_icons.svg,file
+cmenuDialog.html,file
+cmenuDialog.js,file
+cmenuLayersDialog.html,file
+cmenuLayersDialog.js,file
+commands.js,file
+comment-template.md,file
+common,dir
+components,dir
+composer.json,file
+config.svg,file
+conn.svg,file
+context_menu.svg,file
+contextmenu.cy.js,file
+contextmenu.js,file
+control-points.cy.js,file
+coords.cy.js,file
+coords.js,file
+copy-elem.js,file
+core,dir
+coverage,dir
+coverage-badge.svg,file
+coverage-summary.json,file
+cursors,dir
+cypress,dir
+cypress.config.mjs,file
+dataStorage.js,file
+de.js,file
+define,dir
+delete.svg,file
+demos,dir
+dialog_balloon.json,file
+dialogs,dir
+docprop.svg,file
+docprops.svg,file
+docs,dir
+dragmove,dir
+dragmove.js,file
+draw.cy.js,file
+draw.js,file
+e2e,dir
+e2e.js,file
+editPref.svg,file
+edit_foreign.svg,file
+editor,dir
+editorPreferencesDialog.html,file
+editorPreferencesDialog.js,file
+editorTemplate.html,file
+electronics.json,file
+elem-get-set.js,file
+ellipse.svg,file
+ellipse_cursor.svg,file
+embedapi-dom.js,file
+embedapi.html,file
+embedapi.js,file
+en.js,file
+event.js,file
+example.json,file
+examples,dir
+export.cy.js,file
+export.svg,file
+exportDialog.html,file
+exportDialog.js,file
+ext-arrows,dir
+ext-arrows.js,file
+ext-closepath,dir
+ext-closepath.js,file
+ext-connector,dir
+ext-connector.js,file
+ext-eyedropper,dir
+ext-eyedropper.js,file
+ext-foreignobject,dir
+ext-foreignobject.js,file
+ext-grid,dir
+ext-grid.js,file
+ext-helloworld,dir
+ext-helloworld.js,file
+ext-imagelib,dir
+ext-imagelib.js,file
+ext-layer_view,dir
+ext-layer_view.js,file
+ext-markers,dir
+ext-markers.js,file
+ext-mathjax,dir
+ext-mathjax.js,file
+ext-opensave,dir
+ext-opensave.js,file
+ext-overview_window,dir
+ext-overview_window.js,file
+ext-panning,dir
+ext-panning.js,file
+ext-php_savefile.js,file
+ext-placemark,dir
+ext-placemark.js,file
+ext-polystar,dir
+ext-polystar.js,file
+ext-server_moinsave,dir
+ext-server_moinsave.js,file
+ext-server_opensave,dir
+ext-server_opensave.js,file
+ext-shapes,dir
+ext-shapes.js,file
+ext-storage,dir
+ext-storage.js,file
+ext-webappfind,dir
+ext-webappfind.js,file
+ext-xdomain-messaging,dir
+ext-xdomain-messaging.js,file
+extensions,dir
+eye.svg,file
+eye_dropper.svg,file
+feature_request.md,file
+fh_ellipse.svg,file
+fh_rect.svg,file
+fileopen.php,file
+filesave.php,file
+fill.svg,file
+fixtures,dir
+flowchart.json,file
+fontsize.svg,file
+forwardslash.svg,file
+fr.js,file
+from-old-wiki,dir
+game.json,file
+globe_link.svg,file
+go_down.svg,file
+go_up.svg,file
+grid.svg,file
+group_elements.svg,file
+handle.svg,file
+height.svg,file
+hello_world.svg,file
+history.cy.js,file
+history.js,file
+historyrecording.js,file
+image.svg,file
+imagePropertiesDialog.html,file
+imagePropertiesDialog.js,file
+imagelib.svg,file
+images,dir
+import.svg,file
+importImg.svg,file
+index.html,file
+index.js,file
+index.json,file
+issue-359.cy.js,file
+issue-407.cy.js,file
+issue-408.cy.js,file
+issue-423.cy.js,file
+issue-660.cy.js,file
+issue-699.cy.js,file
+issue-726.cy.js,file
+issue-752.cy.js,file
+issues,dir
+italic.svg,file
+jQuery.jGraduate.js,file
+jQuery.jPicker.js,file
+jgraduate,dir
+jsdoc-config.js,file
+json.js,file
+lang.af.js,file
+lang.ar.js,file
+lang.az.js,file
+lang.be.js,file
+lang.bg.js,file
+lang.ca.js,file
+lang.cs.js,file
+lang.cy.js,file
+lang.da.js,file
+lang.de.js,file
+lang.el.js,file
+lang.en.js,file
+lang.es.js,file
+lang.et.js,file
+lang.fa.js,file
+lang.fi.js,file
+lang.fr.js,file
+lang.fy.js,file
+lang.ga.js,file
+lang.gl.js,file
+lang.he.js,file
+lang.hi.js,file
+lang.hr.js,file
+lang.hu.js,file
+lang.hy.js,file
+lang.id.js,file
+lang.is.js,file
+lang.it.js,file
+lang.ja.js,file
+lang.ko.js,file
+lang.lt.js,file
+lang.lv.js,file
+lang.mk.js,file
+lang.ms.js,file
+lang.mt.js,file
+lang.nl.js,file
+lang.no.js,file
+lang.pl.js,file
+lang.pt-BR.js,file
+lang.pt-PT.js,file
+lang.ro.js,file
+lang.ru.js,file
+lang.sk.js,file
+lang.sl.js,file
+lang.sq.js,file
+lang.sr.js,file
+lang.sv.js,file
+lang.sw.js,file
+lang.test.js,file
+lang.th.js,file
+lang.tl.js,file
+lang.tr.js,file
+lang.uk.js,file
+lang.vi.js,file
+lang.yi.js,file
+lang.zh-CN.js,file
+lang.zh-HK.js,file
+lang.zh-TW.js,file
+layer.js,file
+layer_view.svg,file
+layout.tmpl,file
+leftarrow.svg,file
+leftarrow_o.svg,file
+letter_spacing.svg,file
+lgtm.yml,file
+library.svg,file
+license-MIT-raphael.txt,file
+licenseInfo.json,file
+linecap_butt.svg,file
+linecap_round.svg,file
+linecap_square.svg,file
+linejoin_bevel.svg,file
+linejoin_miter.svg,file
+linejoin_round.svg,file
+link_controls.svg,file
+locale,dir
+locale.js,file
+logo.svg,file
+main.js,file
+map-opacity.png,file
+mappoint.gif,file
+mappoint_c.png,file
+mappoint_f.png,file
+math.cy.js,file
+math.js,file
+math.json,file
+mathjax,dir
+mcircle.svg,file
+mcircle_o.svg,file
+mickey.svg,file
+misc.json,file
+mkr_markers_dimension.svg,file
+mkr_markers_label.svg,file
+mkr_markers_off.svg,file
+moon.svg,file
+move_bottom.svg,file
+move_top.svg,file
+music.json,file
+namespaces.js,file
+netlify-dark.svg,file
+netlify.toml,file
+new.svg,file
+no_color.svg,file
+node_clone.svg,file
+node_delete.svg,file
+nomarker.svg,file
+npmpublish on demand.yml,file
+npmpublish.yml,file
+nyc.config.js,file
+object.json,file
+ok.svg,file
+onpullrequest.yml,file
+onpush.yml,file
+opacity.svg,file
+open.svg,file
+open_path.svg,file
+openclipart.html,file
+openclipart.js,file
+openpath.png,file
+package-lock.json,file
+package.json,file
+packages,dir
+paint.js,file
+panels,dir
+panning.svg,file
+paste-elem.js,file
+path-actions.js,file
+path-method.js,file
+path.cy.js,file
+path.js,file
+path.svg,file
+pen.svg,file
+pencil.svg,file
+picker.gif,file
+pl.js,file
+plain,dir
+plugins,dir
+polygon.svg,file
+preview-opacity.png,file
+pt-BR.js,file
+publish.md,file
+pull_request_template.md,file
+rangearrows.gif,file
+rangearrows2.gif,file
+raphael_1.json,file
+raphael_2.json,file
+react-test,dir
+recalculate.cy.js,file
+recalculate.js,file
+rect.svg,file
+rect_cursor.svg,file
+redo.svg,file
+removeItem-setAttribute.cy.js,file
+reorient.svg,file
+replace-in-file.config.json,file
+reverseslash.svg,file
+rightarrow.svg,file
+rightarrow_o.svg,file
+ro.js,file
+rollup.config.mjs,file
+rotate.svg,file
+rulersTemplate.html,file
+sanitize.cy.js,file
+sanitize.js,file
+save.svg,file
+saveImg.svg,file
+savefile.php,file
+scenario-check tool_bold.svg,file
+scenario-check tool_clone.svg,file
+scenario-check tool_italic.svg,file
+scenario-check tool_length_adjust.svg,file
+scenario-check tool_letter_spacing.svg,file
+scenario-check tool_source.svg,file
+scenario-check tool_text.svg,file
+scenario-check tool_text_align_to_page.svg,file
+scenario-check tool_text_change_blur.svg,file
+scenario-check tool_text_change_font_family.svg,file
+scenario-check tool_text_change_font_size.svg,file
+scenario-check tool_text_change_opacity.svg,file
+scenario-check tool_text_change_stoke_fill_color.svg,file
+scenario-check tool_text_change_stroke_width.svg,file
+scenario-check tool_text_change_x_y_coordinate.svg,file
+scenario-check tool_text_decoration_linethrough.svg,file
+scenario-check tool_text_decoration_overline.svg,file
+scenario-check tool_text_decoration_underline.svg,file
+scenario-check tool_text_delete.svg,file
+scenario-check tool_text_length.svg,file
+scenario-check tool_word_spacing.svg,file
+scenario.cy.js,file
+scenario1-check tool_source_set.svg,file
+scenario1.cy.js,file
+scenario2-check tool_circle.svg,file
+scenario2-check tool_circle_change_fill_color.svg,file
+scenario2-check tool_circle_change_opacity.svg,file
+scenario2-check tool_ellipse.svg,file
+scenario2-check tool_ellipse_bring_to_back.svg,file
+scenario2-check tool_ellipse_bring_to_front.svg,file
+scenario2-check tool_ellipse_change_blur.svg,file
+scenario2-check tool_ellipse_change_cx_cy_coordinate.svg,file
+scenario2-check tool_ellipse_change_rotation.svg,file
+scenario2-check tool_ellipse_change_rx_ry_radius.svg,file
+scenario2-check tool_ellipse_clone.svg,file
+scenario2-check tool_fhellipse.svg,file
+scenario2-check tool_source_set.svg,file
+scenario2.cy.js,file
+scenario3-check tool_path.svg,file
+scenario3-check tool_path_change_clone_node.svg,file
+scenario3-check tool_path_change_node_xy.svg,file
+scenario3-check tool_path_change_seg_type.svg,file
+scenario3-check tool_path_openclose.svg,file
+scenario3-check tool_source_set.svg,file
+scenario3.cy.js,file
+scenario4-check tool_fhrect.svg,file
+scenario4-check tool_fhrect_change_width_height.svg,file
+scenario4-check tool_fhrect_change_x_y_coordinate.svg,file
+scenario4-check tool_rect.svg,file
+scenario4-check tool_rect_change_blur.svg,file
+scenario4-check tool_rect_change_fill_color.svg,file
+scenario4-check tool_rect_change_opacity.svg,file
+scenario4-check tool_rect_change_rotation.svg,file
+scenario4-check tool_rect_change_to_path.svg,file
+scenario4-check tool_rect_delete.svg,file
+scenario4-check tool_source_set.svg,file
+scenario4-check tool_square.svg,file
+scenario4-check tool_square_bring_to_back.svg,file
+scenario4-check tool_square_bring_to_front.svg,file
+scenario4-check tool_square_change_corner_radius.svg,file
+scenario4-check tool_square_clone.svg,file
+scenario4.cy.js,file
+scenario5-check tool_line.svg,file
+scenario5-check tool_line_align_to_page.svg,file
+scenario5-check tool_line_bring_to_back.svg,file
+scenario5-check tool_line_bring_to_front.svg,file
+scenario5-check tool_line_change_blur.svg,file
+scenario5-check tool_line_change_opacity.svg,file
+scenario5-check tool_line_change_rotation.svg,file
+scenario5-check tool_line_change_stoke_color.svg,file
+scenario5-check tool_line_change_stroke_width.svg,file
+scenario5-check tool_line_change_x_y_coordinate.svg,file
+scenario5-check tool_line_clone.svg,file
+scenario5-check tool_line_delete.svg,file
+scenario5-check tool_source_set.svg,file
+scenario5.cy.js,file
+scenario6-check tool_polygon.svg,file
+scenario6-check tool_polygon_align_to_page.svg,file
+scenario6-check tool_polygon_bring_to_back.svg,file
+scenario6-check tool_polygon_bring_to_front.svg,file
+scenario6-check tool_polygon_change_blur.svg,file
+scenario6-check tool_polygon_change_opacity.svg,file
+scenario6-check tool_polygon_change_rotation.svg,file
+scenario6-check tool_polygon_change_sides.svg,file
+scenario6-check tool_polygon_change_stoke_fill_color.svg,file
+scenario6-check tool_polygon_change_stroke_width.svg,file
+scenario6-check tool_polygon_clone.svg,file
+scenario6-check tool_polygon_delete.svg,file
+scenario6-check tool_source_set.svg,file
+scenario6.cy.js,file
+scenario7-check tool_source_set.svg,file
+scenario7-check tool_star.svg,file
+scenario7-check tool_star_align_to_page.svg,file
+scenario7-check tool_star_bring_to_back.svg,file
+scenario7-check tool_star_bring_to_front.svg,file
+scenario7-check tool_star_change_blur.svg,file
+scenario7-check tool_star_change_opacity.svg,file
+scenario7-check tool_star_change_rotation.svg,file
+scenario7-check tool_star_change_sides.svg,file
+scenario7-check tool_star_change_stoke_fill_color.svg,file
+scenario7-check tool_star_change_stroke_width.svg,file
+scenario7-check tool_star_clone.svg,file
+scenario7-check tool_star_delete.svg,file
+scenario7.cy.js,file
+screencasts,dir
+screenshot.png,file
+script.js,file
+se-elix,dir
+seAlertDialog.js,file
+seButton.js,file
+seColorPicker.js,file
+seConfirmDialog.js,file
+seDropdown.js,file
+seExplorerButton.js,file
+seFlyingButton.js,file
+seInput.js,file
+seList.js,file
+seListItem.js,file
+seMenu.js,file
+seMenuItem.js,file
+sePalette.js,file
+sePlainBorderButton.js,file
+sePlainMenuButton.js,file
+sePromptDialog.js,file
+seSelect.js,file
+seSelectDialog.js,file
+seSpinInput.js,file
+seText.js,file
+seZoom.js,file
+select.cy.js,file
+select.js,file
+select.svg,file
+select_node.svg,file
+selected-elem.js,file
+selection.js,file
+shapelib,dir
+shapelib.svg,file
+sk.js,file
+sl.js,file
+smiley.svg,file
+source.svg,file
+square.svg,file
+square_cursor.svg,file
+src,dir
+star.svg,file
+star_o.svg,file
+storageDialog.html,file
+storageDialog.js,file
+stroke.svg,file
+style.css,file
+sun.svg,file
+support,dir
+sv.js,file
+svg-edit-home.svg,file
+svg-editor.manifest,file
+svg-exec.js,file
+svgSourceDialog.html,file
+svgSourceDialog.js,file
+svgcanvas,dir
+svgcanvas.js,file
+svgedit-screencast-1.txt,file
+svgedit-screencast-2.txt,file
+svgedit-screencast-3.txt,file
+svgedit.css,file
+svgopen2010,dir
+svgroot.js,file
+symbol.json,file
+templates,dir
+test1.cy.js,file
+tests-badge.svg,file
+text-actions.js,file
+text.svg,file
+text_decoration_linethrough.svg,file
+text_decoration_overline.svg,file
+text_decoration_underline.svg,file
+text_length.svg,file
+textmarker.svg,file
+textmarker_bottom.svg,file
+textmarker_top.svg,file
+to_path.svg,file
+tool-selection.cy.js,file
+tool_add_subpath.svg,file
+tool_foreign.svg,file
+tool_imagelib.svg,file
+tool_node_clone.svg,file
+tool_node_delete.svg,file
+tool_node_link.svg,file
+tool_openclose_path.svg,file
+tool_placemark.svg,file
+touch.js,file
+tr.js,file
+triangle.svg,file
+triangle_o.svg,file
+tutorials,dir
+tutorials.json,file
+typedefs.js,file
+ui,dir
+ui-test-helper.js,file
+uk.js,file
+undo.js,file
+undo.svg,file
+ungroup.svg,file
+unit,dir
+units.cy.js,file
+units.js,file
+unlink_use.svg,file
+untested-embedded-api,dir
+untested-extensions,dir
+util.js,file
+utilities-bbox.cy.js,file
+utilities-performance.cy.js,file
+utilities.cy.js,file
+utilities.js,file
+versions,dir
+verticalslash.svg,file
+warning.svg,file
+web-dev-server.config.mjs,file
+webappfind.svg,file
+width.svg,file
+wireframe.svg,file
+word_spacing.svg,file
+workflows,dir
+xmark.svg,file
+zh-CN.js,file
+zoom.cy.js,file
+zoom.svg,file

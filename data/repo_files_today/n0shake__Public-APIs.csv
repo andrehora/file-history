@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+README.md,file
+_config.yml,file
+opensource.png,file
+pull_request_template.md,file

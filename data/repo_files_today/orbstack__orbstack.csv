@@ -1,0 +1,8 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+LICENSE.orbital,file
+README.md,file
+bug_report.yml,file
+feature_request.md,file
+orb.plugin.zsh,file

@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+Makefile,file
+README.md,file
+appveyor.yml,file
+bench_test.go,file
+errors.go,file
+errors_test.go,file
+example_test.go,file
+format_test.go,file
+go113.go,file
+go113_test.go,file
+json_test.go,file
+stack.go,file
+stack_test.go,file

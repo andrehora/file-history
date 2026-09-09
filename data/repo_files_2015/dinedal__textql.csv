@@ -1,0 +1,5 @@
+name,type
+LICENSE,file
+Readme.md,file
+main.go,file
+textql_usage.gif,file

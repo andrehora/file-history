@@ -1,0 +1,9 @@
+name,type
+.editorconfig,file
+README.md,file
+assets,dir
+bookmarks.js,file
+cover.png,file
+merlins_spell_book.jpg,file
+showme.jpg,file
+tools,dir

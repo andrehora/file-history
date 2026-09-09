@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+ConsoleColor.php,file
+ConsoleColorTest.php,file
+InvalidStyleException.php,file
+JakubOnderka,dir
+PhpConsoleColor,dir
+README.md,file
+bootstrap.php,file
+build.xml,file
+composer.json,file
+example.php,file
+phpunit.xml,file
+src,dir
+tests,dir

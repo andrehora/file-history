@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE,file
+connection.mmd,file
+connection.svg,file
+diagrams,dir
+message.mmd,file
+message.svg,file
+readme.md,file
+simplex1.mmd,file
+simplex1.svg,file
+simplex2.mmd,file
+simplex2.svg,file

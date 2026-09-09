@@ -1,0 +1,54 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+App.config,file
+Application.Designer.vb,file
+Application.myapp,file
+Application.xaml,file
+Application.xaml.vb,file
+AssemblyInfo.vb,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Easings.vb,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+MSAA.vb,file
+Main.vb,file
+MainWindow.xaml,file
+MainWindow.xaml.vb,file
+My Project,dir
+README.md,file
+Resources,dir
+Resources.Designer.vb,file
+Resources.resx,file
+Settings.Designer.vb,file
+Settings.settings,file
+Settings.vb,file
+StoreLogo-71.ico,file
+StoreLogo2-71.ico,file
+TaskbarAnimate.vb,file
+TaskbarCenter.vb,file
+TaskbarStyle.vb,file
+TaskbarX,dir
+TaskbarX Configurator,dir
+TaskbarX Configurator.exe.config,file
+TaskbarX Configurator.sln,file
+TaskbarX Configurator.vbproj,file
+TaskbarX Configurator.vbproj.user,file
+TaskbarX.sln,file
+TaskbarX.vbproj,file
+TaskbarX.vbproj.user,file
+TaskbarX_TemporaryKey.pfx,file
+TrayIconBuster.vb,file
+VERSION,file
+Win32.vb,file
+app.manifest,file
+bug_report.md,file
+feature_request.md,file
+grid.png,file
+icon.ico,file
+logo2020-64.png,file
+logo2020_64.png,file
+packages.config,file

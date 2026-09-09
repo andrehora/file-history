@@ -1,0 +1,8 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+build-openwrt-mac.yml,file
+build-openwrt.yml,file
+diy.sh,file
+workflows,dir

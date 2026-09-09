@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.travis.yml,file
+History.md,file
+LICENSE,file
+Makefile,file
+Readme.md,file
+bower.json,file
+component.json,file
+emitter.js,file
+index.js,file
+package.json,file
+test,dir

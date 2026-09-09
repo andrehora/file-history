@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitignore,file
+1-Bug_report.md,file
+2-Question.md,file
+3-Feature-Request.md,file
+ISSUE_TEMPLATE,dir
+README.md,file
+banner_v2.png,file
+new_dashboard_macOS_26.jpg,file
+screenshots,dir

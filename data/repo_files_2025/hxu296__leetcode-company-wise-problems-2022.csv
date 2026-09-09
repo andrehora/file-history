@@ -1,0 +1,208 @@
+name,type
+.gitignore,file
+.ipynb_checkpoints,dir
+APT Portfolio.csv,file
+Accenture.csv,file
+Activision.csv,file
+Adobe.csv,file
+Affirm.csv,file
+Airbnb.csv,file
+Akamai.csv,file
+Akuna Capital.csv,file
+Alation.csv,file
+Alibaba.csv,file
+AllinCall.csv,file
+Amazon.csv,file
+American Express.csv,file
+AppDynamics.csv,file
+Apple.csv,file
+Arcesium.csv,file
+Arista Networks.csv,file
+Asana.csv,file
+Athenahealth.csv,file
+Atlassian.csv,file
+Baidu.csv,file
+Barclays.csv,file
+BlackRock.csv,file
+Bloomberg.csv,file
+Bolt.csv,file
+Booking.com.csv,file
+Box.csv,file
+ByteDance.csv,file
+C3 IoT.csv,file
+Canonical.csv,file
+Capital One.csv,file
+Cashfree.csv,file
+Cisco.csv,file
+Citadel.csv,file
+Citrix.csv,file
+Cognizant.csv,file
+Cohesity.csv,file
+Commvault.csv,file
+Coursera.csv,file
+Cruise Automation.csv,file
+DE Shaw.csv,file
+DJI.csv,file
+DRW.csv,file
+Databricks.csv,file
+Dataminr.csv,file
+Dell.csv,file
+Deutsche Bank.csv,file
+Directi.csv,file
+Docusign.csv,file
+DoorDash.csv,file
+Drawbridge.csv,file
+Dropbox.csv,file
+Druva.csv,file
+Dunzo.csv,file
+Duolingo.csv,file
+Epic Systems.csv,file
+Expedia.csv,file
+FPT.csv,file
+Facebook.csv,file
+FactSet.csv,file
+Flipkart.csv,file
+Gilt Groupe.csv,file
+GoDaddy.csv,file
+Goldman Sachs.csv,file
+Google.csv,file
+Grab.csv,file
+HBO.csv,file
+HRT.csv,file
+Honeywell.csv,file
+Hotstar.csv,file
+Huawei.csv,file
+Hulu.csv,file
+IBM.csv,file
+IIT Bombay.csv,file
+IMC.csv,file
+IXL.csv,file
+Indeed.csv,file
+Info Edge.csv,file
+Infosys.csv,file
+Intel.csv,file
+Intuit.csv,file
+JP Morgan.csv,file
+JPMorgan.csv,file
+Jane Street.csv,file
+Jeavio.csv,file
+Karat.csv,file
+LICENSE,file
+Leap Motion.csv,file
+LinkedIn.csv,file
+LiveRamp.csv,file
+Lyft.csv,file
+MAQ Software.csv,file
+MakeMyTrip.csv,file
+Mathworks.csv,file
+Mercari.csv,file
+Microsoft.csv,file
+MindTickle.csv,file
+MindTree.csv,file
+Moengage.csv,file
+Morgan Stanley.csv,file
+National Instruments.csv,file
+Netflix.csv,file
+Netsuite.csv,file
+Nuro.csv,file
+Nutanix.csv,file
+Nvidia.csv,file
+OT.csv,file
+Opendoor.csv,file
+Optum.csv,file
+Oracle.csv,file
+Palantir Technologies.csv,file
+PayTM.csv,file
+Paypal.csv,file
+PhonePe.csv,file
+Pinterest.csv,file
+Pocket Gems.csv,file
+Postmates.csv,file
+Pure Storage.csv,file
+Qualcomm.csv,file
+Qualtrics.csv,file
+Quora.csv,file
+README.md,file
+Rakuten.csv,file
+Reddit.csv,file
+Redfin.csv,file
+Riot Games.csv,file
+Robinhood.csv,file
+Roblox.csv,file
+Rubrik.csv,file
+Rupeek.csv,file
+SAP.csv,file
+Salesforce.csv,file
+Samsung.csv,file
+Sapient.csv,file
+ServiceNow.csv,file
+Shopee.csv,file
+Snapchat.csv,file
+Softwire.csv,file
+Sony.csv,file
+Splunk.csv,file
+Spotify.csv,file
+Sprinklr.csv,file
+Square.csv,file
+Sumologic.csv,file
+Swiggy.csv,file
+T System.csv,file
+TIAA.csv,file
+Tencent.csv,file
+Tesla.csv,file
+Thumbtack.csv,file
+Tiger Analytics.csv,file
+Toptal.csv,file
+TripleByte.csv,file
+TuSimple.csv,file
+Twilio.csv,file
+Twitch.csv,file
+Twitter.csv,file
+Two Sigma.csv,file
+Uber.csv,file
+United Health Group.csv,file
+VMware.csv,file
+Valve.csv,file
+Virtu Financial.csv,file
+Visa.csv,file
+Walmart Global Tech.csv,file
+Wayfair.csv,file
+Wealthfront.csv,file
+Wish.csv,file
+Works Applications.csv,file
+Yahoo.csv,file
+Yandex.csv,file
+Yelp.csv,file
+ZScaler.csv,file
+Zenefits.csv,file
+Zillow.csv,file
+Zoho.csv,file
+Zomato.csv,file
+Zoom.csv,file
+Zopsmart.csv,file
+companies,dir
+companies_and_leetcode_problems.csv,file
+csv2markdown.ipynb,file
+data,dir
+data-gen,dir
+eBay.csv,file
+edabit.csv,file
+instacart.csv,file
+leetcode_problems.csv,file
+leetcode_problems_and_companies.csv,file
+leetcode_repo_readme.csv,file
+leetcode_repo_readme.md,file
+leetcode_scraper-checkpoint.ipynb,file
+leetcode_scraper.ipynb,file
+markdown2csv.py,file
+parse_readme.py,file
+payu.csv,file
+peak6.csv,file
+persistent systems.csv,file
+razorpay.csv,file
+tcs.csv,file
+tiktok.csv,file
+todo.md,file
+transform_data.ipynb,file
+viz,dir
+zeta suite.csv,file

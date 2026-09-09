@@ -1,0 +1,277 @@
+name,type
+-0.04.jpg,file
+-0.4.jpg,file
+-4.jpg,file
+.coveragerc,file
+.flake8,file
+.github,dir
+.gitignore,file
+.gitmodules,file
+4.jpg,file
+Active Reinforcement Learning.ipynb,file
+Active Reinforcement Learning.py,file
+Algorithms for MDPs.ipynb,file
+Algorithms for MDPs.py,file
+CONTRIBUTING.md,file
+Datasets.ipynb,file
+Datasets.py,file
+Decision Tree.ipynb,file
+Decision Tree.py,file
+Ensemble Learning.ipynb,file
+Ensemble Learning.py,file
+Grammar.ipynb,file
+Grammar.py,file
+IMAGE-CREDITS,file
+Image Edge Detection.ipynb,file
+Image Edge Detection.py,file
+Image Segmentation.ipynb,file
+Image Segmentation.py,file
+Introduction.ipynb,file
+Introduction.py,file
+LICENSE,file
+Learners.ipynb,file
+Learners.py,file
+Linear and Nonparametric Models.ipynb,file
+Linear and Nonparametric Models.py,file
+Loss Functions and Layers.ipynb,file
+Loss Functions and Layers.py,file
+MDPs.ipynb,file
+MDPs.py,file
+Objects in Images.ipynb,file
+Objects in Images.py,file
+Optimizer and Backpropagation.ipynb,file
+Optimizer and Backpropagation.py,file
+Parsing.ipynb,file
+Parsing.py,file
+Partially Observable MDP.ipynb,file
+Partially Observable MDP.py,file
+Passive Reinforcement Learning.ipynb,file
+Passive Reinforcement Learning.py,file
+RCNN.png,file
+README.md,file
+RNN.ipynb,file
+RNN.py,file
+SUBMODULE.md,file
+Sequential Decision Problems.ipynb,file
+Sequential Decision Problems.py,file
+Welcome.ipynb,file
+__init__.py,file
+agents.ipynb,file
+agents.py,file
+agents.rst,file
+aima,dir
+aima3e_big.jpg,file
+aima_logo.png,file
+arc_consistency_heuristics.ipynb,file
+arc_consistency_heuristics.py,file
+autoencoder.png,file
+backprop.png,file
+bayesnet.png,file
+bootstrap.ipynb,file
+bootstrap.py,file
+broxrevised.png,file
+build.sh,file
+cake_graph.jpg,file
+canvas.js,file
+chapter16-17,dir
+chapter18,dir
+chapter19,dir
+chapter21,dir
+chapter22,dir
+chapter24,dir
+classical_planning_approaches.ipynb,file
+classical_planning_approaches.py,file
+conf.py,file
+content,dir
+continuousworld.js,file
+corss_entropy_plot.png,file
+csp.ipynb,file
+csp.py,file
+csp.rst,file
+decisiontree_fruit.jpg,file
+deep_learning.py,file
+derivative_of_gaussian.png,file
+dirt.svg,file
+dirt05-icon.jpg,file
+docs,dir
+docs.yml,file
+dynamic_decision_network.ipynb,file
+dynamic_decision_network.py,file
+eight_puzzle.py,file
+ensemble_learner.jpg,file
+expectation_maximization.ipynb,file
+expectation_maximization.py,file
+fig_5_2.png,file
+game_theory.ipynb,file
+game_theory.py,file
+games.ipynb,file
+games.py,file
+games.rst,file
+ge0.jpg,file
+ge1.jpg,file
+ge2.jpg,file
+ge4.jpg,file
+general_learning_agent.jpg,file
+genetic_algorithm_example.py,file
+gradients.png,file
+grid_mdp.jpg,file
+grid_mdp.py,file
+grid_mdp_agent.jpg,file
+gridworld.js,file
+gui,dir
+hillclimb-tsp.png,file
+images,dir
+improving_sat_algorithms.ipynb,file
+improving_sat_algorithms.py,file
+index.ipynb,file
+index.py,file
+index.rst,file
+intro.ipynb,file
+intro.py,file
+ipyviews.py,file
+js,dir
+jupyter-lite.json,file
+jupyter_lite_config.json,file
+kalman_filter.ipynb,file
+kalman_filter.py,file
+knn_plot.png,file
+knowledge.ipynb,file
+knowledge.py,file
+knowledge_current_best.ipynb,file
+knowledge_current_best.py,file
+knowledge_foil.ipynb,file
+knowledge_foil.py,file
+knowledge_foil_family.png,file
+knowledge_foil_grandparent.png,file
+knowledge_version_space.ipynb,file
+knowledge_version_space.py,file
+language.rst,file
+laplacian.png,file
+laplacian_kernels.png,file
+learning.ipynb,file
+learning.py,file
+learning.rst,file
+learning_apps.ipynb,file
+learning_apps.py,file
+lite,dir
+logic.ipynb,file
+logic.py,file
+logic.rst,file
+makefile,file
+making_simple_decisions.py,file
+maze.png,file
+mdp-a.png,file
+mdp-b.png,file
+mdp-c.png,file
+mdp-d.png,file
+mdp.ipynb,file
+mdp.png,file
+mdp.py,file
+mdp_apps.ipynb,file
+mdp_apps.py,file
+model_based_reflex_agent.jpg,file
+model_goal_based_agent.jpg,file
+model_utility_based_agent.jpg,file
+mse_plot.png,file
+neural_net.png,file
+neural_nets.ipynb,file
+neural_nets.py,file
+nlp.ipynb,file
+nlp.py,file
+nlp_apps.ipynb,file
+nlp_apps.py,file
+nn.png,file
+nn_steps.png,file
+notebook_utils.py,file
+notebooks,dir
+notebooks-to-py.yml,file
+parse_tree.png,file
+perception.py,file
+perceptron.png,file
+planning.ipynb,file
+planning.py,file
+planning.rst,file
+planning_angelic_search.ipynb,file
+planning_angelic_search.py,file
+planning_graph_plan.ipynb,file
+planning_graph_plan.py,file
+planning_hierarchical_search.ipynb,file
+planning_hierarchical_search.py,file
+planning_partial_order_planner.ipynb,file
+planning_partial_order_planner.py,file
+planning_total_order_planner.ipynb,file
+planning_total_order_planner.py,file
+plurality_learner_plot.png,file
+point_crossover.png,file
+pop.jpg,file
+probabilistic_learning.py,file
+probability.ipynb,file
+probability.py,file
+probability.rst,file
+pyproject.toml,file
+pytest.ini,file
+queen_s.png,file
+random_forest.png,file
+refinement.png,file
+reinforcement_learning.ipynb,file
+reinforcement_learning.py,file
+requirements-lite.txt,file
+requirements.txt,file
+restaurant.png,file
+rnn_connections.png,file
+rnn_unit.png,file
+rnn_units.png,file
+romania_map.png,file
+romania_problem.py,file
+sarsa.ipynb,file
+sarsa.py,file
+search.ipynb,file
+search.py,file
+search_animal.svg,file
+searching.rst,file
+simple_problem_solving_agent.jpg,file
+simple_reflex_agent.jpg,file
+sprinklernet.jpg,file
+stapler.png,file
+stapler1-test.png,file
+stapler_bbox.png,file
+test_agents.py,file
+test_csp.py,file
+test_deep_learning.py,file
+test_game_theory.py,file
+test_games.py,file
+test_graphplan.py,file
+test_knowledge.py,file
+test_learning.py,file
+test_logic.py,file
+test_mdp.py,file
+test_nlp.py,file
+test_perception.py,file
+test_planning.py,file
+test_probabilistic_learning.py,file
+test_probability.py,file
+test_reinforcement_learning.py,file
+test_search.py,file
+test_text.py,file
+test_utils.py,file
+tests,dir
+tests.yml,file
+text.ipynb,file
+text.py,file
+tic-tac-toe.py,file
+tsp.py,file
+uniform_crossover.png,file
+utils.py,file
+utils.rst,file
+vacuum-icon.jpg,file
+vacuum.svg,file
+vacuum_agent.py,file
+vacuum_world.ipynb,file
+vacuum_world.py,file
+vanilla.png,file
+verify_browser.py,file
+viterbi_algorithm.ipynb,file
+viterbi_algorithm.py,file
+wall-icon.jpg,file
+workflows,dir
+xy_vacuum_environment.py,file

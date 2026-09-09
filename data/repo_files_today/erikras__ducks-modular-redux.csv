@@ -1,0 +1,12 @@
+name,type
+CommonJs.md,file
+README.md,file
+__naMe__.js,file
+battlecry,dir
+configureStore.js,file
+duck,dir
+duck.generator.js,file
+duck.jpg,file
+generators,dir
+migrate.jpg,file
+templates,dir

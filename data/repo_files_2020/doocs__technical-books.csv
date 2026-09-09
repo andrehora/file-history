@@ -1,0 +1,10 @@
+name,type
+LICENSE,file
+README.md,file
+doocs.png,file
+favicon-16x16.png,file
+favicon-32x32.png,file
+images,dir
+index.html,file
+owner-favicon-16x16.png,file
+owner-favicon-32x32.png,file

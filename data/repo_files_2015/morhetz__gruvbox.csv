@@ -1,0 +1,9 @@
+name,type
+README.md,file
+airline,dir
+autoload,dir
+colors,dir
+gruvbox.vim,file
+gruvbox_256palette.sh,file
+gruvbox_256palette_osx.sh,file
+themes,dir

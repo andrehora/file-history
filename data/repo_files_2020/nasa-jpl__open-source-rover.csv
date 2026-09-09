@@ -1,0 +1,972 @@
+name,type
+#6-32 0_5 Bolt.SLDPRT,file
+#6THRU-HOLE.kicad_mod,file
+.25 D Shaft.SLDPRT,file
+.5in Collared Clamp.SLDPRT,file
+.gitattributes,file
+.gitignore,file
+.gitmodules,file
+0.125in Bore 32 Pitch Shaft Mount Pinion Gear.SLDPRT,file
+0.25 Beaing Block.SLDPRT,file
+0.25 Bearing.SLDPRT,file
+0.25 Face Tapped Clamping Hub.SLDPRT,file
+0.25 Pillow Bearing Block.SLDASM,file
+0.25 to 6mm Clamping Coupler.SLDASM,file
+0.25 to 6mm Clamping Coupler.err,file
+0.25 to 6mm Clamping Coupler.step,file
+0.5 Bearing Block.SLDPRT,file
+0.5 Bearing.SLDPRT,file
+0.5 Bore Bottom Tapped Clamping Mount.SLDASM,file
+0.5 Bore Side Tapped Clamping Hub.SLDASM,file
+0.5 Nylon Plastic Washer.SLDPRT,file
+0.5 Pillow Bearing Block.SLDASM,file
+01_pitch_above.png,file
+01_pitch_under.png,file
+1 Hole Pattern Bracket.SLDPRT,file
+1.5 Aluminum Channel.SLDPRT,file
+1.7in Aluminum Rod.SLDPRT,file
+10 PORT HEADER.sldprt,file
+10 pos 3M connector.kicad_mod,file
+102 RESISTOR PACK.sldprt,file
+103 RESISTOR PACK.sldprt,file
+12V Buck Boost Converter.SLDPRT,file
+12_power_term.jpg,file
+13.5 Inch Aluminum Rod.SLDPRT,file
+15inch Aluminum Rod.SLDPRT,file
+15inch cut.PNG,file
+16 pos 3M connector.kicad_mod,file
+16mhz crystal - measured.sldprt,file
+1_25 threaded standoff.SLDPRT,file
+2-56 STandoff.SLDPRT,file
+20 pin DIP socket.kicad_mod,file
+20190422_134752.jpg,file
+20190422_134835.jpg,file
+20190422_134842.jpg,file
+20190422_134911.jpg,file
+20190422_151150.jpg,file
+20190422_151404.jpg,file
+20190422_151452.jpg,file
+20190422_151459.jpg,file
+220 RESISTOR PACK.sldprt,file
+25m Bore Side Tapped Clamping Mount.SLDASM,file
+25m Bore Side Tapped Clamping Mount.SLDPRT,file
+25mm Motor and Encoder.SLDPRT,file
+25mm Motor.SLDPRT,file
+2pin_header__02.sldprt,file
+2x8_above.png,file
+3 Aluminum Channel Mod.SLDPRT,file
+3 Aluminum Channel.SLDPRT,file
+3 inch Aluminum Rod.SLDPRT,file
+3 pin connector.PNG,file
+3 pin pic.PNG,file
+3.75 Aluminum Channel.SLDPRT,file
+3D Printed Parts,dir
+3D printed,dir
+3D printed Parts,dir
+3D printed encoder mount.PNG,file
+3D printed head.PNG,file
+3in PVC Pipe.SLDPRT,file
+3inChannel1.PNG,file
+3inch Aluminum Rod.SLDPRT,file
+3inch cut.PNG,file
+4 POS 0.1 Pitch header.kicad_mod,file
+4-40 Standoff.SLDPRT,file
+4-40 Washer.SLDPRT,file
+4-40_SHCS.SLDPRT,file
+4.5 Aluminum channel.SLDPRT,file
+4.5 x 12 Alumin Pattern Plate Mod x2.SLDPRT,file
+4.5 x 12 Aluminum Pattern Plate Mod.SLDPRT,file
+4.5 x 12 Aluminum Pattern Plate.SLDPRT,file
+404-1004-1-ND.sldprt,file
+455-1708-ND - Copy.kicad_mod,file
+455-1708-ND.kicad_mod,file
+47uf CAP Dcase.sldprt,file
+48 Tooth 32 Pitch Gear.SLDPRT,file
+497-2738-5-ND.kicad_mod,file
+4mm - 0.25in Clamping Shaft Coupler.SLDPRT,file
+4mm Face Tapped Clamping Hub.SLDPRT,file
+5 Hole Aluminum Beam.SLDPRT,file
+507-1937-1-ND.kicad_mod,file
+545600.sldprt,file
+555104 screw (M2.6)_92005A056.sldprt,file
+555104 screw (M3)_92005A112.sldprt,file
+555104.sldprt,file
+555174 motor mount.STEP,file
+555174 screw_92005A116.sldprt,file
+555174.sldprt,file
+585546.sldprt,file
+587-3248-1-ND.sldprt,file
+5V Buck Boost Converter.SLDPRT,file
+5V regulator.SLDPRT,file
+6 PORT HEADER.sldprt,file
+6 POS 0.1 Pitch header.kicad_mod,file
+6 pos header pin.kicad_mod,file
+6-32 Washer.SLDPRT,file
+6-32_L0_25 Spacer.SLDPRT,file
+6-32_SHCS.SLDPRT,file
+603 cap on pad.sldprt,file
+603 resistor.sldprt,file
+609-4618-1-ND.sldprt,file
+620-1319-1-ND.sldprt,file
+625100.sldprt,file
+632112_90128A121.sldprt,file
+638270 Planetary Motor.STEP,file
+638270_Planetary-Motor.SLDPRT,file
+6_32 standoff.SLDPRT,file
+6_32 standoff.step,file
+6x1 Header Pin 0.1 Pitch.kicad_mod,file
+732-5958-2-ND-top.kicad_mod,file
+732-5958-2-ND.kicad_mod,file
+8 PORT HEADER.sldprt,file
+9 Aluminum Channel.SLDPRT,file
+9 x 12 Aluminum Pattern Plate.SLDPRT,file
+90442128-7-c3900ba,dir
+90751A110_METRIC FINE-THREAD 18-18 SS SOCKET HEAD SCREW.SLDPRT,file
+91255A077_ALLOY STEEL BUTTON-HEAD SOCKET CAP SCREW.SLDPRT,file
+91292A112_TYPE 18-8 SS SOCKET HEAD CAP SCREW.SLDPRT,file
+91780A032_ALUM FEM THRDED HEX STANDOFF.SLDPRT,file
+91780A131_ALUM FEM THRDED HEX STANDOFF.SLDPRT,file
+91780A164_ALUM FEM THRDED HEX STANDOFF.SLDPRT,file
+92095A458_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT,file
+92949A106_18-8 SS BUTTON HEAD HEX DRIVE SCREW.SLDPRT,file
+92949A106_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT,file
+92949A146_18-8 SS BUTTON-HEAD SOCKET CAP SCREW.SLDPRT,file
+93365A120_HEAT-SET INSERTS FOR PLASTICS.SLDPRT,file
+93365A130_HEAT-SET INSERTS FOR PLASTICS.SLDPRT,file
+95947A005_ALUM FEM THRDED HEX STANDOFF.SLDPRT,file
+9x12 Plate cut.PNG,file
+9x12 Plate cut2.PNG,file
+AE9986-ND.kicad_mod,file
+ATMEL328P.sldprt,file
+ATXMEGA32A4U-AU-ND.sldprt,file
+Absolute Encoder.SLDPRT,file
+Ackerman.png,file
+Arduino Sheild Hat.SLDPRT,file
+Arduino Sheild.pdf,file
+Arduino Uno Sheild.kicad_mod,file
+Arduino_uno_sheild,dir
+Arduino_uno_sheild rev-C.zip,file
+Arduino_uno_sheild-B.Cu.gbr,file
+Arduino_uno_sheild-B.Mask.gbr,file
+Arduino_uno_sheild-B.Paste.gbr,file
+Arduino_uno_sheild-B.SilkS.gbr,file
+Arduino_uno_sheild-Edge.Cuts.gbr,file
+Arduino_uno_sheild-F.Cu.gbr,file
+Arduino_uno_sheild-F.Mask.gbr,file
+Arduino_uno_sheild-F.Paste.gbr,file
+Arduino_uno_sheild-F.SilkS.gbr,file
+Arduino_uno_sheild-cache.lib,file
+Arduino_uno_sheild-rescue.bck,file
+Arduino_uno_sheild-rescue.dcm,file
+Arduino_uno_sheild-rescue.lib,file
+Arduino_uno_sheild.bak,file
+Arduino_uno_sheild.drl,file
+Arduino_uno_sheild.kicad_pcb,file
+Arduino_uno_sheild.kicad_pcb-bak,file
+Arduino_uno_sheild.net,file
+Arduino_uno_sheild.pro,file
+Arduino_uno_sheild.sch,file
+Arduino_uno_sheild.zip,file
+Assembly,dir
+B1 Buttton-Head Screw v1.step,file
+B1.png,file
+B10.png,file
+B11.png,file
+B12.png,file
+B13.png,file
+B14.PNG,file
+B2.png,file
+B3.png,file
+B4.png,file
+B5 Buttton-Head Screw v1.step,file
+B5.png,file
+B6.png,file
+B7.png,file
+B8.png,file
+B9.png,file
+Back Panel cut.PNG,file
+Ball bearing.SLDPRT,file
+Battery holder_5_2mAH.SLDASM,file
+Bill of Materials Files,dir
+Body,dir
+Body Assembly,dir
+Body Assembly 3D view.PDF,file
+Body Assembly.IGS..zip,file
+Body Assembly.SLDASM,file
+Body Assembly.STEP..zip,file
+Body Build Doc.pdf,file
+Body Build Doc.tex,file
+Body title.PNG,file
+CAD,dir
+Calibration,dir
+Calibration.pdf,file
+Calibration.tex,file
+Channel Connector.SLDPRT,file
+Channel Cut.PNG,file
+Clamping Hub Cut.PNG,file
+Clamping Hub Cut2.PNG,file
+Control Board,dir
+Control Board PCB.SLDASM,file
+Control Board PCB.SLDPRT,file
+Control Board PCB.zip,file
+Control Board-B.Cu.gbl,file
+Control Board-B.Mask.gbs,file
+Control Board-B.Paste.gbp,file
+Control Board-B.SilkS.gbo,file
+Control Board-Edge.Cuts.gm1,file
+Control Board-F.Cu.gtl,file
+Control Board-F.Mask.gts,file
+Control Board-F.Paste.gtp,file
+Control Board-F.SilkS.gto,file
+Control Board-cache.lib,file
+Control Board-rescue.dcm,file
+Control Board-rescue.lib,file
+Control Board.bak,file
+Control Board.drl,file
+Control Board.kicad_pcb,file
+Control Board.kicad_pcb-bak,file
+Control Board.net,file
+Control Board.pdf,file
+Control Board.pro,file
+Control Board.sch,file
+Control Board.zip,file
+Corner Motor mount f.PNG,file
+Corner St Motor mount f.PNG,file
+Corner Steering,dir
+Corner Steering Assembly 3D View.PDF,file
+Corner Steering Assembly.SLDASM,file
+Corner Steering Assembly_IGS.zip,file
+Corner Steering Assembly_STEP.zip,file
+Corner Steering Build Doc.pdf,file
+Corner Steering Build Doc.tex,file
+Corner Steering Parts List.xlsx,file
+Corner Title.PNG,file
+Corner Wheel Assembly 3D View.PDF,file
+Corner Wheel Assembly.IGS.zip,file
+Corner Wheel Assembly.SLDASM,file
+Corner Wheel Assembly.STEP.zip,file
+Corner Wheel Final.PNG,file
+Corner Wheel Step 1.PNG,file
+Corner Wheel Step 2.PNG,file
+Corner Wheel Step 3.PNG,file
+Corner Wheel Step 4.PNG,file
+Corner Wheel Step 5.PNG,file
+Corner Wheel Step 6.PNG,file
+CornerSt Final.PNG,file
+CornerSt Step 1.PNG,file
+CornerSt Step 2.PNG,file
+CornerSt Step 3.PNG,file
+CornerSt Step 4.PNG,file
+CornerSt Step 5.PNG,file
+CornerSt Step 6.PNG,file
+CornerSt Step 6b.png,file
+CornerSt Step 7.PNG,file
+Custom AL sheet.SLDPRT,file
+Cutting Parts.png,file
+D1.jpg,file
+D2.jpeg,file
+D24V22F12 Regulator.kicad_mod,file
+D3.png,file
+D4.png,file
+D5.png,file
+D6.jpeg,file
+D7.jpeg,file
+D8.png,file
+DB2W40200LCT-ND.sldprt,file
+DISCLAIMER.txt,file
+DXF,dir
+Data_diagram.png,file
+Diff Pivot Bottom.SLDASM,file
+Diff Pivot Swivel.SLDASM,file
+Diff Pivot Top.SLDASM,file
+Diff Step 1.PNG,file
+Diff Step 2.PNG,file
+Diff Step 3.PNG,file
+Diff Step 4.PNG,file
+Diff Step 5.PNG,file
+Diff Step 6.PNG,file
+Diff Step 7.PNG,file
+Diff step 5.PNG,file
+Diff step 6b.PNG,file
+Diff step 7.PNG,file
+Diff step 8.PNG,file
+Differential Align.PNG,file
+Differential Pivot,dir
+Differential Pivot Assembly.IGS.zip,file
+Differential Pivot Assembly.SLDASM,file
+Differential Pivot Assembly.STEP.zip,file
+Differential Pivot Build Doc.pdf,file
+Differential Pivot Build Doc.tex,file
+Differential Pivot Cut.PNG,file
+Differential Pivot.PNG,file
+Differential Standoff Cut.PNG,file
+Digikey_BOM.csv,file
+Drilling Parts.png,file
+Drive_motor_Assem.SLDASM,file
+Dual Side mounts.PNG,file
+Dual side mount A.SLDPRT,file
+Dual side mounts 3.PNG,file
+E1.PNG,file
+E10.PNG,file
+E11.PNG,file
+E12.PNG,file
+E13.PNG,file
+E14.PNG,file
+E15.PNG,file
+E16.PNG,file
+E17.PNG,file
+E18.PNG,file
+E19.PNG,file
+E2.PNG,file
+E20.PNG,file
+E21.PNG,file
+E22.PNG,file
+E23.PNG,file
+E24.PNG,file
+E25.PNG,file
+E26.PNG,file
+E27.PNG,file
+E28.PNG,file
+E29.PNG,file
+E3.PNG,file
+E30.PNG,file
+E31.PNG,file
+E32.PNG,file
+E33.PNG,file
+E34.PNG,file
+E35.PNG,file
+E36.PNG,file
+E37.PNG,file
+E38.PNG,file
+E39.PNG,file
+E4.PNG,file
+E40.PNG,file
+E41.PNG,file
+E42.PNG,file
+E43.PNG,file
+E44.PNG,file
+E45.PNG,file
+E46.PNG,file
+E47.PNG,file
+E48.PNG,file
+E5.PNG,file
+E6.PNG,file
+E7.PNG,file
+E8.PNG,file
+E9.PNG,file
+ED1501-ND.kicad_mod,file
+ED2580-ND.kicad_mod,file
+ED2627-ND.kicad_mod,file
+ED2636-ND.sldprt,file
+ED2744-ND.kicad_mod,file
+ED2989-ND USB Conn.kicad_mod,file
+Electrical,dir
+Electrical Assembly,dir
+Electrical Build.pdf,file
+Electrical Build.tex,file
+Electrical Components,dir
+Electrical Parts,dir
+Electronics,dir
+Electronics Board Assembly.SLDASM,file
+Encoder Board.SLDPRT,file
+Encoder mount.SLDPRT,file
+Encoder mount.STL,file
+Fabrication,dir
+Final Step 1.PNG,file
+Final Step 10.PNG,file
+Final Step 11.PNG,file
+Final Step 13.PNG,file
+Final Step 14.PNG,file
+Final Step 2.PNG,file
+Final Step 3.PNG,file
+Final Step 4.PNG,file
+Final Step 5.PNG,file
+Final Step 6.PNG,file
+Final Step 7.PNG,file
+Final Step 8.PNG,file
+Final Step 9.PNG,file
+Final Title.PNG,file
+Final.PNG,file
+Finished Body 1.PNG,file
+Folder heirarchy.png,file
+Front & Back body plate.SLDPRT,file
+Front panel cut.PNG,file
+Gerbers,dir
+Head Assembly,dir
+Head Assembly Build Doc.pdf,file
+Head Assembly Build Doc.tex,file
+Head Assembly.IGS.zip,file
+Head Assembly.SLDASM,file
+Head Assembly.STEP.zip,file
+Head Rework.SLDASM,file
+Head final.PNG,file
+Head left back.SLDPRT,file
+Head left side.SLDPRT,file
+Head right back.SLDPRT,file
+Head right side.SLDPRT,file
+I1.PNG,file
+I2.PNG,file
+I3.PNG,file
+I4.PNG,file
+I5.PNG,file
+I6.PNG,file
+IRF7351TRPBFCT-ND.sldprt,file
+Inserts,dir
+Ion Studio 1.png,file
+JPL Robotics Lib.bck,file
+JPL Robotics Lib.dcm,file
+JPL Robotics Lib.lib,file
+JPL Robotics.pretty,dir
+JPL logo.png,file
+LED Matrix.SLDPRT,file
+LICENSE.txt,file
+Laser Cut Files,dir
+Laser Cut Parts,dir
+Latex Docs,dir
+Logic Shifter Board w components.SLDASM,file
+Low Poly Head Assembly.SLDASM,file
+Low Poly Head Assembly.SLDASM .STL,file
+Low Poly Head Assembly.STL,file
+MC5A-PCB.sldprt,file
+MLC0603.sldprt,file
+Mechanical,dir
+Mechanical Integration,dir
+Mechanical Integration Build Doc.pdf,file
+Mechanical Integration Build Doc.tex,file
+Mechanical Parts,dir
+Misc,dir
+Monolithic Board Rev_D.zip,file
+Monolithic Board-B.Cu.gbl,file
+Monolithic Board-B.Mask.gbs,file
+Monolithic Board-B.Paste.gbp,file
+Monolithic Board-B.SilkS.gbo,file
+Monolithic Board-Edge.Cuts.gm1,file
+Monolithic Board-F.Cu.gtl,file
+Monolithic Board-F.Mask.gts,file
+Monolithic Board-F.Paste.gtp,file
+Monolithic Board-F.SilkS.gto,file
+Monolithic Board-rescue.bck,file
+Monolithic Board-rescue.dcm,file
+Monolithic Board.bak,file
+Monolithic Board.drl,file
+Monolithic Board.kicad_pcb-bak,file
+Monolithic Board.pdf,file
+Monolithic Board.plt,file
+Monolithic Board.pro,file
+Monolithic Board.zip,file
+Motor ID.png,file
+Motor mount f.SLDASM,file
+Motor pinout.PNG,file
+Optional CAD parts,dir
+P15369TB-ND.sldprt,file
+PADS001.sldprt,file
+PB1264-ND.kicad_mod,file
+PBC05SAAN.sldprt,file
+PBC10DAAN.sldprt,file
+PCB,dir
+PCB Assembly,dir
+PCB Assembly.pdf,file
+PCB Assembly.tex,file
+PVC Clamping Hub.SLDPRT,file
+Parts,dir
+Parts- Electronics 2.png,file
+Parts- Electronics.png,file
+Parts- Nuts and Bolts.png,file
+Parts- Structural 1-13.png,file
+Parts- Structural 14-27.png,file
+Parts- Structural 28-29.png,file
+Parts-Cutting.PNG,file
+Parts-Drilling.PNG,file
+Parts-Standoffs.png,file
+Pattern F Bracket.SLDPRT,file
+Pictures,dir
+Pin Header 1x2 TH Pitch 2.54mm.SLDPRT,file
+Pin Header 1x4 TH Pitch 2.54mm.SLDPRT,file
+Power_diagram.png,file
+RASPBERRY PI 3.SLDPRT,file
+RB Final 1.PNG,file
+RB Final 2.PNG,file
+RB Final 3.PNG,file
+RB Step 1.PNG,file
+RB Step 10 real.PNG,file
+RB Step 11.PNG,file
+RB Step 12 real.PNG,file
+RB Step 13.PNG,file
+RB Step 14.PNG,file
+RB Step 15.PNG,file
+RB Step 16.PNG,file
+RB Step 17.PNG,file
+RB Step 18.PNG,file
+RB Step 19.PNG,file
+RB Step 1A.PNG,file
+RB Step 2.PNG,file
+RB Step 3.PNG,file
+RB Step 4.PNG,file
+RB Step 5 Real.PNG,file
+RB Step 5.PNG,file
+RB Step 6 Real.PNG,file
+RB Step 8 real.PNG,file
+RB Step 9.png,file
+RB Step 9_5.PNG,file
+README TEMPLATE.md,file
+README.MD,file
+README.md,file
+RESET BUTTON.sldasm,file
+RESET CORE.sldprt,file
+RESET.sldprt,file
+REV D,dir
+REV E,dir
+REV-B,dir
+REV-C,dir
+REV-D,dir
+ROS_architecture.png,file
+Raspberry pi footprint.kicad_mod,file
+Rb Step 6.png,file
+Read_Write Board.SLDPRT,file
+Renderings,dir
+Roboclaw Mount.kicad_mod,file
+Roboclaw.SLDASM,file
+Rocker Bogie Title.PNG,file
+Rocker-Bogie,dir
+Rocker-Bogie Assembly 3D View.PDF,file
+Rocker-Bogie Assembly.IGS.zip,file
+Rocker-Bogie Assembly.SLDASM,file
+Rocker-Bogie Assembly.STEP.zip,file
+Rocker-Bogie Build Doc.pdf,file
+Rocker-Bogie Build Doc.tex,file
+Routing,dir
+Rover.IGS.zip,file
+Rover.SLDASM,file
+Rover.STEP.zip,file
+S1.jpg,file
+S10.jpg,file
+S11.jpg,file
+S12.jpg,file
+S13.png,file
+S14.jpg,file
+S14A.png,file
+S15.jpg,file
+S16.png,file
+S16A.png,file
+S16B.png,file
+S17.jpg,file
+S18.png,file
+S18A.png,file
+S18B.png,file
+S19.jpg,file
+S2.jpg,file
+S20.jpg,file
+S21.jpg,file
+S22.png,file
+S23.jpg,file
+S24.jpg,file
+S25.jpg,file
+S26.jpg,file
+S27.jpg,file
+S29.png,file
+S2A.png,file
+S3.jpg,file
+S30.jpg,file
+S31.png,file
+S32.jpg,file
+S34.jpg,file
+S35.jpg,file
+S35A.png,file
+S36.jpg,file
+S37.jpg,file
+S38.jpg,file
+S39.PNG,file
+S4.jpg,file
+S40.PNG,file
+S41.PNG,file
+S42.PNG,file
+S43.PNG,file
+S44.PNG,file
+S5.jpg,file
+S6.jpg,file
+S7.jpg,file
+S7008-ND.kicad_mod,file
+S7038-ND.kicad_mod,file
+S8.jpg,file
+S9.jpg,file
+S9175-ND.kicad_mod,file
+SRN5040-220MCT-ND.sldprt,file
+STEP,dir
+STL,dir
+SW1020CT-ND.sldprt,file
+Schematics,dir
+Screws,dir
+Screws and Spacers.png,file
+ServoCity & McMaster Parts,dir
+Shaft Coupler Cut 2.PNG,file
+Shaft Coupler Cut.PNG,file
+Software,dir
+Software Architecture.png,file
+Software Controls,dir
+Software Controls.pdf,file
+Software Controls.tex,file
+Software Steps,dir
+Software Steps.pdf,file
+Software Steps.tex,file
+SolidWorks,dir
+Standoffs,dir
+Step 11a.PNG,file
+Step 11b.PNG,file
+Step 5 a.PNG,file
+Step 5 b.PNG,file
+Step 6.PNG,file
+Step 7.PNG,file
+Struct_Elec parts.png,file
+Structural,dir
+Subassemblies,dir
+T1.png,file
+T10.png,file
+T11.png,file
+T2.png,file
+T3.PNG,file
+T4.png,file
+T5.png,file
+T6.png,file
+T7.png,file
+T8.png,file
+T9.jpg,file
+Testing,dir
+Tools,dir
+Turnbuckle Eyes.SLDPRT,file
+Turnbuckle screw.SLDPRT,file
+Turnbuckle.SLDASM,file
+USB SHELL.sldprt,file
+USB core.sldprt,file
+USB type b.SLDPRT.sldasm,file
+User Software Architecture.png,file
+W1.png,file
+W2.png,file
+W3.png,file
+Washers,dir
+Wheel Aligned.PNG,file
+Wheel Assembly,dir
+Wheel Assembly Build Doc.pdf,file
+Wheel Assembly Build Doc.tex,file
+Wheel Assembly.IGS.zip,file
+Wheel Assembly.SLDASM,file
+Wheel Assembly.STEP.zip,file
+Wheel Drill.PNG,file
+Wheel Rim.sldprt,file
+Wheel Step 1.PNG,file
+Wheel Step 2.PNG,file
+Wheel Step 3.PNG,file
+Wheel Step 4.PNG,file
+Wheel Step 5.PNG,file
+Wheel Tire.SLDPRT,file
+Wheel.PNG,file
+Wheel.SLDASM,file
+Wheels,dir
+Wheels Title.PNG,file
+Wiring,dir
+X1.PNG,file
+X2.PNG,file
+X3.PNG,file
+X4.PNG,file
+X5.PNG,file
+X6.PNG,file
+arduino II.zip,file
+arduino plate.DXF,file
+arduino plate.SLDPRT,file
+arduino plate.STEP,file
+arduino uno.IGS,file
+arduino uno.SLDASM,file
+arduino uno.STEP,file
+arduino uno.zip,file
+arduino-uno-r3-1.snapshot.3,dir
+arduino11.jpg,file
+arduino_Uno_Rev3-02 blue bottom.bmp,file
+arduino_Uno_RevG-MUa4.bmp,file
+arduino_back.jpg,file
+arduino_front.jpg,file
+arduino_mounted.jpg,file
+arduino_sheild_bottom.jpg,file
+arduino_sheild_top.jpg,file
+arduino_uno_board.SLDPRT,file
+assembly_1.png,file
+assembly_10.png,file
+assembly_11.png,file
+assembly_12.PNG,file
+assembly_13.png,file
+assembly_14.png,file
+assembly_15.PNG,file
+assembly_2.PNG,file
+assembly_3.png,file
+assembly_4.PNG,file
+assembly_5.png,file
+assembly_6.PNG,file
+assembly_7.PNG,file
+assembly_8.png,file
+assembly_9.png,file
+atmega16u2.sldprt,file
+autorun.PNG,file
+back.jpg,file
+back_panel.DXF,file
+back_panel.SLDPRT,file
+back_panel.STEP,file
+back_plate.DXF,file
+battery holder.SLDPRT,file
+battery holder.STEP,file
+battery holder.STL,file
+battery holder_5_2maH.SLDPRT,file
+battery holder_5_2maH.STL,file
+battery_holder_a.PNG,file
+battery_holder_b.PNG,file
+battery_install_a.PNG,file
+battery_install_b.PNG,file
+battery_wiring.PNG,file
+bearing block.SLDPRT,file
+bearing block.STEP,file
+bearing block.STL,file
+blm21.sldprt,file
+bluetooth service.PNG,file
+body.png,file
+body_1.PNG,file
+body_10.PNG,file
+body_12.PNG,file
+body_13.PNG,file
+body_2.PNG,file
+body_3.PNG,file
+body_4.PNG,file
+body_5.PNG,file
+body_6.PNG,file
+body_7.PNG,file
+body_7A.PNG,file
+body_8.PNG,file
+body_8a.PNG,file
+body_9.PNG,file
+body_bottom.PNG,file
+body_bottom_1.PNG,file
+body_bottom_2.PNG,file
+body_dif_1.PNG,file
+body_dif_2.PNG,file
+body_pvc_1.PNG,file
+body_pvc_2.PNG,file
+bottom_term.jpg,file
+build.py,file
+c3900ba.SLDPRT,file
+c3900ba.txt,file
+calibration.jpg,file
+calibration.png,file
+cap_base.SLDPRT,file
+cap_base.STEP,file
+cap_base.STL,file
+cap_with_jpl.SLDPRT,file
+cap_with_jpl.STEP,file
+cap_with_jpl.STL,file
+cap_without_jpl.SLDPRT,file
+cap_without_jpl.STEP,file
+cap_without_jpl.STL,file
+caps_res.jpg,file
+cd1206 diode.sldprt,file
+communication.png,file
+components,dir
+console.PNG,file
+control.PNG,file
+crystal.sldprt,file
+custom_drive_motor_mount.SLDPRT,file
+custom_drive_motor_mount.STL,file
+d24v22fx-step-down-voltage-regulator.SLDPRT,file
+d24v22fx-step-down-voltage-regulator.step,file
+d24v50f5-step-down-voltage-regulator.SLDPRT,file
+d24v50f5-step-down-voltage-regulator.step,file
+data diagram.PNG,file
+devicename.PNG,file
+diff-piv mounting block.SLDPRT,file
+diff-piv mounting block.STEP,file
+diff-piv mounting block.STL,file
+dip socket pin.sldprt,file
+dip28.sldasm,file
+dip28.sldprt,file
+dip_socket.jpg,file
+drive straight.png,file
+drive turn.png,file
+drive_motor_cap.SLDPRT,file
+drive_motor_cap.STL,file
+drive_motor_mount.SLDASM,file
+drive_motor_mount_v2.SLDPRT,file
+drive_motor_mount_v2.STL,file
+elec parts.PNG,file
+electronics title.png,file
+finala.PNG,file
+finalb.PNG,file
+finished_body_a.PNG,file
+finished_body_b.PNG,file
+folders.PNG,file
+fp-info-cache,file
+fp-lib-table,file
+front.jpg,file
+front_panel.DXF,file
+front_panel.SLDPRT,file
+front_panel.STEP,file
+front_plate.DXF,file
+front_right_corner.PNG,file
+fuse.jpg,file
+fuse_diode.PNG,file
+gear title.jpg,file
+gear title.png,file
+gpio.jpg,file
+hard stop mount.PNG,file
+head back plate.DXF,file
+head back plate.SLDPRT,file
+head back plate.STEP,file
+head base.SLDPRT,file
+head base.STEP,file
+head base.STL,file
+hex_nut.sldprt,file
+images,dir
+img,dir
+init.PNG,file
+init.sh,file
+is10.PNG,file
+is11.png,file
+is12.PNG,file
+is2.PNG,file
+is3.png,file
+is4.png,file
+is5.PNG,file
+is6.png,file
+is7.PNG,file
+is8.png,file
+is9.png,file
+jst.png,file
+jst_top.jpg,file
+led.sldprt,file
+lmv358.sldprt,file
+logic shifter board.SLDPRT,file
+logo 2.png,file
+lp2985dgkr.sldprt,file
+m7 diode.sldprt,file
+mainconf.PNG,file
+master_parts_list.xlsx,file
+master_parts_list_raw.csv,file
+mech folders.png,file
+mech roadmap.png,file
+mf-msmf050-2.sldprt,file
+motor mount.SLDASM,file
+motor_count_base_v2.SLDPRT,file
+motor_mount_base_v2.SLDPRT,file
+motor_mount_base_v2.STL,file
+motor_mount_cap_v2.SLDPRT,file
+motor_mount_cap_v2.STL,file
+nano - reg.sldprt,file
+onshape,dir
+op_amp.PNG,file
+parts.jpg,file
+parts.png,file
+parts_list,dir
+parts_list_reference.csv,file
+pcb.png,file
+power jack.sldprt,file
+power_term.jpg,file
+ptabel_svdm.jpg,file
+rb_final.PNG,file
+rc_header.jpg,file
+rc_wires.jpg,file
+rc_wires_2.jpg,file
+regs_header.jpg,file
+roadmap.PNG,file
+rocker-bogie.png,file
+route1.PNG,file
+route2.PNG,file
+route3.PNG,file
+route4.PNG,file
+route5.PNG,file
+rover image.kicad_mod,file
+rover pic.png,file
+rover-climbing.jpg,file
+rover-silver.png,file
+rover.png,file
+rover1.png,file
+rover10.png,file
+rover11.png,file
+rover12.png,file
+rover13.png,file
+rover2.png,file
+rover3.png,file
+rover4.png,file
+rover5.png,file
+rover6.png,file
+rover7.png,file
+rover8.png,file
+rover9.png,file
+rover_image.kicad_mod,file
+rover_image_scaled.mod,file
+rpi pins.PNG,file
+rpi zero mounting.kicad_mod,file
+rpi3.png,file
+rpi_gpio.PNG,file
+rpi_power.jpg,file
+screw.PNG,file
+software title.png,file
+software.jpg,file
+ssot3.sldprt,file
+standoff.PNG,file
+standoff_1.PNG,file
+standoff_2.PNG,file
+standoff_3.PNG,file
+standoff_4.PNG,file
+standoff_5.PNG,file
+standoffs.jpg,file
+step-1a.PNG,file
+step-1b.PNG,file
+step-2a.PNG,file
+step-2b.PNG,file
+step-3a.PNG,file
+step-3b.PNG,file
+step-4a.PNG,file
+step-4b.PNG,file
+step-5a.PNG,file
+step-6a.PNG,file
+step-6b.PNG,file
+step-7a.PNG,file
+step-7b.PNG,file
+step-8a.PNG,file
+step-8b.PNG,file
+sub-d-female bottom.SLDPRT,file
+sub-d-female bottom.STEP,file
+sub-d-female bottom.STL,file
+sub-d-male-top.SLDPRT,file
+sub-d-male-top.STEP,file
+sub-d-male-top.STL,file
+sym-lib-table,file
+term_block.png,file
+test_image.kicad_mod,file
+test_pads_t5_t6.jpg,file
+test_point.kicad_mod,file
+testing_1.png,file
+testing_2.PNG,file
+testing_3.PNG,file
+testing_7.PNG,file
+testing_8.PNG,file
+testing_9.PNG,file
+top_term.jpg,file
+turnbuckle_holder.SLDPRT,file
+turnbuckle_holder.STEP,file
+turnbuckle_holder.STL,file
+uno1.jpg,file
+unoboard blue.sldprt,file
+unotop.jpg,file
+usb btm contact.sldprt,file
+usb hub 4pos lid.SLDPRT,file
+usb hub 4pos lid.STEP,file
+usb hub 4pos lid.STL,file
+usb hub 4pos.SLDPRT,file
+usb hub 4pos.STEP,file
+usb hub 4pos.STL,file
+usb hub 7 pos.SLDPRT,file
+usb hub 7 pos.STEP,file
+usb hub 7 pos.STL,file
+usb top contact.sldprt,file
+usb.jpg,file
+usb_ttl_serial.jpg,file
+voltmeter.SLDPRT,file
+voltmeter_switch.PNG,file
+voltmeter_switch_b.PNG,file
+wheel shell.SLDPRT,file
+wire labels.PNG,file
+wire.jpg,file

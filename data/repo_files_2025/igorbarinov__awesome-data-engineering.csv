@@ -1,0 +1,8 @@
+name,type
+.github,dir
+README.md,file
+contributing.md,file
+license,file
+master.yml,file
+stale-pr.yaml,file
+workflows,dir

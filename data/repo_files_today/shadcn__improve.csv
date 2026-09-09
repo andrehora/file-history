@@ -1,0 +1,15 @@
+name,type
+.claude-plugin,dir
+001-extract-shadow-config-resolution.md,file
+LICENSE.md,file
+README.md,file
+SKILL.md,file
+audit-playbook.md,file
+closing-the-loop.md,file
+examples,dir
+improve,dir
+marketplace.json,file
+plan-template.md,file
+plugin.json,file
+references,dir
+skills,dir

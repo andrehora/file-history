@@ -1,0 +1,11 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+code-of-conduct.md,file
+contributing.md,file
+electron-logo.svg,file
+funding.yml,file
+license,file
+pull_request_template.md,file
+readme.md,file

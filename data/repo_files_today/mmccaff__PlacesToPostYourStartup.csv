@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.gitignore,file
+.lycheeignore,file
+LICENSE,file
+README.md,file
+markdown.yml,file
+workflows,dir

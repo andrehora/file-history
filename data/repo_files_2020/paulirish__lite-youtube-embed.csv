@@ -1,0 +1,14 @@
+name,type
+LICENSE,file
+index.html,file
+lite-yt-embed.css,file
+lite-yt-embed.js,file
+now.json,file
+package-lock.json,file
+package.json,file
+pe.html,file
+readme.md,file
+solo.html,file
+src,dir
+variants,dir
+yt.html,file

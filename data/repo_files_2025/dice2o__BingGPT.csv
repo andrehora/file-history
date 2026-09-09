@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+bg.png,file
+forge.config.js,file
+icon.icns,file
+icon.ico,file
+icon.png,file
+main.js,file
+package-lock.json,file
+package.json,file
+preload.js,file
+screenshot.png,file

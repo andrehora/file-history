@@ -1,0 +1,3349 @@
+name,type
+.gitignore,file
+3024,file
+3024 Day,file
+3024 Day.colors,file
+3024 Day.colorscheme,file
+3024 Day.conf,file
+3024 Day.config,file
+3024 Day.ini,file
+3024 Day.itermcolors,file
+3024 Day.itermcolors_config_0,file
+3024 Day.json,file
+3024 Day.reg,file
+3024 Day.sh,file
+3024 Day.terminal,file
+3024 Day.theme,file
+3024 Day.toml,file
+3024 Day.xrdb,file
+3024 Night,file
+3024 Night.colors,file
+3024 Night.colorscheme,file
+3024 Night.conf,file
+3024 Night.config,file
+3024 Night.ini,file
+3024 Night.itermcolors,file
+3024 Night.itermcolors_config_0,file
+3024 Night.json,file
+3024 Night.reg,file
+3024 Night.sh,file
+3024 Night.terminal,file
+3024 Night.theme,file
+3024 Night.toml,file
+3024 Night.xrdb,file
+3024_day.png,file
+3024_night.png,file
+AdventureTime,file
+AdventureTime.colors,file
+AdventureTime.colorscheme,file
+AdventureTime.conf,file
+AdventureTime.config,file
+AdventureTime.ini,file
+AdventureTime.itermcolors,file
+AdventureTime.itermcolors_config_0,file
+AdventureTime.json,file
+AdventureTime.reg,file
+AdventureTime.sh,file
+AdventureTime.terminal,file
+AdventureTime.theme,file
+AdventureTime.toml,file
+AdventureTime.xrdb,file
+Afterglow,file
+Afterglow.colors,file
+Afterglow.colorscheme,file
+Afterglow.conf,file
+Afterglow.config,file
+Afterglow.ini,file
+Afterglow.itermcolors,file
+Afterglow.itermcolors_config_0,file
+Afterglow.json,file
+Afterglow.reg,file
+Afterglow.sh,file
+Afterglow.terminal,file
+Afterglow.theme,file
+Afterglow.toml,file
+Afterglow.xrdb,file
+AlienBlood,file
+AlienBlood.colors,file
+AlienBlood.colorscheme,file
+AlienBlood.conf,file
+AlienBlood.config,file
+AlienBlood.ini,file
+AlienBlood.itermcolors,file
+AlienBlood.itermcolors_config_0,file
+AlienBlood.json,file
+AlienBlood.reg,file
+AlienBlood.sh,file
+AlienBlood.terminal,file
+AlienBlood.theme,file
+AlienBlood.toml,file
+AlienBlood.xrdb,file
+Andromeda,file
+Andromeda.colors,file
+Andromeda.colorscheme,file
+Andromeda.conf,file
+Andromeda.config,file
+Andromeda.ini,file
+Andromeda.itermcolors,file
+Andromeda.json,file
+Andromeda.reg,file
+Andromeda.sh,file
+Andromeda.theme,file
+Andromeda.toml,file
+Andromeda.xrdb,file
+Argonaut,file
+Argonaut.colors,file
+Argonaut.colorscheme,file
+Argonaut.conf,file
+Argonaut.config,file
+Argonaut.ini,file
+Argonaut.itermcolors,file
+Argonaut.itermcolors_config_0,file
+Argonaut.json,file
+Argonaut.reg,file
+Argonaut.sh,file
+Argonaut.terminal,file
+Argonaut.theme,file
+Argonaut.toml,file
+Argonaut.xrdb,file
+Arthur,file
+Arthur.colors,file
+Arthur.colorscheme,file
+Arthur.conf,file
+Arthur.config,file
+Arthur.ini,file
+Arthur.itermcolors,file
+Arthur.itermcolors_config_0,file
+Arthur.json,file
+Arthur.reg,file
+Arthur.sh,file
+Arthur.terminal,file
+Arthur.theme,file
+Arthur.toml,file
+Arthur.xrdb,file
+AtelierSulphurpool,file
+AtelierSulphurpool.colors,file
+AtelierSulphurpool.colorscheme,file
+AtelierSulphurpool.conf,file
+AtelierSulphurpool.config,file
+AtelierSulphurpool.ini,file
+AtelierSulphurpool.itermcolors,file
+AtelierSulphurpool.itermcolors_config_0,file
+AtelierSulphurpool.json,file
+AtelierSulphurpool.reg,file
+AtelierSulphurpool.sh,file
+AtelierSulphurpool.terminal,file
+AtelierSulphurpool.theme,file
+AtelierSulphurpool.toml,file
+AtelierSulphurpool.xrdb,file
+Atom,file
+Atom.colors,file
+Atom.colorscheme,file
+Atom.conf,file
+Atom.config,file
+Atom.ini,file
+Atom.itermcolors,file
+Atom.itermcolors_config_0,file
+Atom.json,file
+Atom.reg,file
+Atom.sh,file
+Atom.terminal,file
+Atom.theme,file
+Atom.toml,file
+Atom.xrdb,file
+AtomOneLight,file
+AtomOneLight.colors,file
+AtomOneLight.colorscheme,file
+AtomOneLight.conf,file
+AtomOneLight.config,file
+AtomOneLight.ini,file
+AtomOneLight.itermcolors,file
+AtomOneLight.itermcolors_config_0,file
+AtomOneLight.json,file
+AtomOneLight.reg,file
+AtomOneLight.sh,file
+AtomOneLight.terminal,file
+AtomOneLight.theme,file
+AtomOneLight.toml,file
+AtomOneLight.xrdb,file
+Batman,file
+Batman.colors,file
+Batman.colorscheme,file
+Batman.conf,file
+Batman.config,file
+Batman.ini,file
+Batman.itermcolors,file
+Batman.itermcolors_config_0,file
+Batman.json,file
+Batman.reg,file
+Batman.sh,file
+Batman.terminal,file
+Batman.theme,file
+Batman.toml,file
+Batman.xrdb,file
+Belafonte Day,file
+Belafonte Day.colors,file
+Belafonte Day.colorscheme,file
+Belafonte Day.conf,file
+Belafonte Day.config,file
+Belafonte Day.ini,file
+Belafonte Day.itermcolors,file
+Belafonte Day.itermcolors_config_0,file
+Belafonte Day.json,file
+Belafonte Day.reg,file
+Belafonte Day.sh,file
+Belafonte Day.terminal,file
+Belafonte Day.theme,file
+Belafonte Day.toml,file
+Belafonte Day.xrdb,file
+Belafonte Night,file
+Belafonte Night.colors,file
+Belafonte Night.colorscheme,file
+Belafonte Night.conf,file
+Belafonte Night.config,file
+Belafonte Night.ini,file
+Belafonte Night.itermcolors,file
+Belafonte Night.itermcolors_config_0,file
+Belafonte Night.json,file
+Belafonte Night.reg,file
+Belafonte Night.sh,file
+Belafonte Night.terminal,file
+Belafonte Night.theme,file
+Belafonte Night.toml,file
+Belafonte Night.xrdb,file
+BirdsOfParadise,file
+BirdsOfParadise.colors,file
+BirdsOfParadise.colorscheme,file
+BirdsOfParadise.conf,file
+BirdsOfParadise.config,file
+BirdsOfParadise.ini,file
+BirdsOfParadise.itermcolors,file
+BirdsOfParadise.itermcolors_config_0,file
+BirdsOfParadise.json,file
+BirdsOfParadise.reg,file
+BirdsOfParadise.sh,file
+BirdsOfParadise.terminal,file
+BirdsOfParadise.theme,file
+BirdsOfParadise.toml,file
+BirdsOfParadise.xrdb,file
+Blazer,file
+Blazer.colors,file
+Blazer.colorscheme,file
+Blazer.conf,file
+Blazer.config,file
+Blazer.ini,file
+Blazer.itermcolors,file
+Blazer.itermcolors_config_0,file
+Blazer.json,file
+Blazer.reg,file
+Blazer.sh,file
+Blazer.terminal,file
+Blazer.theme,file
+Blazer.toml,file
+Blazer.xrdb,file
+BlulocoDark,file
+BlulocoDark.colors,file
+BlulocoDark.colorscheme,file
+BlulocoDark.conf,file
+BlulocoDark.config,file
+BlulocoDark.ini,file
+BlulocoDark.itermcolors,file
+BlulocoDark.json,file
+BlulocoDark.reg,file
+BlulocoDark.sh,file
+BlulocoDark.terminal,file
+BlulocoDark.theme,file
+BlulocoDark.toml,file
+BlulocoDark.xrdb,file
+BlulocoLight,file
+BlulocoLight.colors,file
+BlulocoLight.colorscheme,file
+BlulocoLight.conf,file
+BlulocoLight.config,file
+BlulocoLight.ini,file
+BlulocoLight.itermcolors,file
+BlulocoLight.json,file
+BlulocoLight.reg,file
+BlulocoLight.sh,file
+BlulocoLight.terminal,file
+BlulocoLight.theme,file
+BlulocoLight.toml,file
+BlulocoLight.xrdb,file
+Borland,file
+Borland.colors,file
+Borland.colorscheme,file
+Borland.conf,file
+Borland.config,file
+Borland.ini,file
+Borland.itermcolors,file
+Borland.itermcolors_config_0,file
+Borland.json,file
+Borland.reg,file
+Borland.sh,file
+Borland.terminal,file
+Borland.theme,file
+Borland.toml,file
+Borland.xrdb,file
+Breeze,file
+Breeze.colors,file
+Breeze.colorscheme,file
+Breeze.conf,file
+Breeze.config,file
+Breeze.ini,file
+Breeze.itermcolors,file
+Breeze.json,file
+Breeze.reg,file
+Breeze.sh,file
+Breeze.theme,file
+Breeze.toml,file
+Breeze.xrdb,file
+Bright Lights,file
+Bright Lights.colors,file
+Bright Lights.colorscheme,file
+Bright Lights.conf,file
+Bright Lights.config,file
+Bright Lights.ini,file
+Bright Lights.itermcolors,file
+Bright Lights.itermcolors_config_0,file
+Bright Lights.json,file
+Bright Lights.reg,file
+Bright Lights.sh,file
+Bright Lights.terminal,file
+Bright Lights.theme,file
+Bright Lights.toml,file
+Bright Lights.xrdb,file
+Broadcast,file
+Broadcast.colors,file
+Broadcast.colorscheme,file
+Broadcast.conf,file
+Broadcast.config,file
+Broadcast.ini,file
+Broadcast.itermcolors,file
+Broadcast.itermcolors_config_0,file
+Broadcast.json,file
+Broadcast.reg,file
+Broadcast.sh,file
+Broadcast.terminal,file
+Broadcast.theme,file
+Broadcast.toml,file
+Broadcast.xrdb,file
+Brogrammer,file
+Brogrammer.colors,file
+Brogrammer.colorscheme,file
+Brogrammer.conf,file
+Brogrammer.config,file
+Brogrammer.ini,file
+Brogrammer.itermcolors,file
+Brogrammer.itermcolors_config_0,file
+Brogrammer.json,file
+Brogrammer.reg,file
+Brogrammer.sh,file
+Brogrammer.terminal,file
+Brogrammer.theme,file
+Brogrammer.toml,file
+Brogrammer.xrdb,file
+Builtin Dark,file
+Builtin Dark.colors,file
+Builtin Dark.colorscheme,file
+Builtin Dark.conf,file
+Builtin Dark.config,file
+Builtin Dark.ini,file
+Builtin Dark.itermcolors,file
+Builtin Dark.json,file
+Builtin Dark.reg,file
+Builtin Dark.sh,file
+Builtin Dark.terminal,file
+Builtin Dark.theme,file
+Builtin Dark.toml,file
+Builtin Dark.xrdb,file
+Builtin Light,file
+Builtin Light.colors,file
+Builtin Light.colorscheme,file
+Builtin Light.conf,file
+Builtin Light.config,file
+Builtin Light.ini,file
+Builtin Light.itermcolors,file
+Builtin Light.json,file
+Builtin Light.reg,file
+Builtin Light.sh,file
+Builtin Light.terminal,file
+Builtin Light.theme,file
+Builtin Light.toml,file
+Builtin Light.xrdb,file
+Builtin Pastel Dark,file
+Builtin Pastel Dark.colors,file
+Builtin Pastel Dark.colorscheme,file
+Builtin Pastel Dark.conf,file
+Builtin Pastel Dark.config,file
+Builtin Pastel Dark.ini,file
+Builtin Pastel Dark.itermcolors,file
+Builtin Pastel Dark.json,file
+Builtin Pastel Dark.reg,file
+Builtin Pastel Dark.sh,file
+Builtin Pastel Dark.terminal,file
+Builtin Pastel Dark.theme,file
+Builtin Pastel Dark.toml,file
+Builtin Pastel Dark.xrdb,file
+Builtin Solarized Dark,file
+Builtin Solarized Dark.colors,file
+Builtin Solarized Dark.colorscheme,file
+Builtin Solarized Dark.conf,file
+Builtin Solarized Dark.config,file
+Builtin Solarized Dark.ini,file
+Builtin Solarized Dark.itermcolors,file
+Builtin Solarized Dark.json,file
+Builtin Solarized Dark.reg,file
+Builtin Solarized Dark.sh,file
+Builtin Solarized Dark.terminal,file
+Builtin Solarized Dark.theme,file
+Builtin Solarized Dark.toml,file
+Builtin Solarized Dark.xrdb,file
+Builtin Solarized Light,file
+Builtin Solarized Light.colors,file
+Builtin Solarized Light.colorscheme,file
+Builtin Solarized Light.conf,file
+Builtin Solarized Light.config,file
+Builtin Solarized Light.ini,file
+Builtin Solarized Light.itermcolors,file
+Builtin Solarized Light.json,file
+Builtin Solarized Light.reg,file
+Builtin Solarized Light.sh,file
+Builtin Solarized Light.terminal,file
+Builtin Solarized Light.theme,file
+Builtin Solarized Light.toml,file
+Builtin Solarized Light.xrdb,file
+Builtin Tango Dark,file
+Builtin Tango Dark.colors,file
+Builtin Tango Dark.colorscheme,file
+Builtin Tango Dark.conf,file
+Builtin Tango Dark.config,file
+Builtin Tango Dark.ini,file
+Builtin Tango Dark.itermcolors,file
+Builtin Tango Dark.json,file
+Builtin Tango Dark.reg,file
+Builtin Tango Dark.sh,file
+Builtin Tango Dark.terminal,file
+Builtin Tango Dark.theme,file
+Builtin Tango Dark.toml,file
+Builtin Tango Dark.xrdb,file
+Builtin Tango Light,file
+Builtin Tango Light.colors,file
+Builtin Tango Light.colorscheme,file
+Builtin Tango Light.conf,file
+Builtin Tango Light.config,file
+Builtin Tango Light.ini,file
+Builtin Tango Light.itermcolors,file
+Builtin Tango Light.json,file
+Builtin Tango Light.reg,file
+Builtin Tango Light.sh,file
+Builtin Tango Light.terminal,file
+Builtin Tango Light.theme,file
+Builtin Tango Light.toml,file
+Builtin Tango Light.xrdb,file
+C64,file
+C64.colors,file
+C64.colorscheme,file
+C64.conf,file
+C64.config,file
+C64.ini,file
+C64.itermcolors,file
+C64.itermcolors_config_0,file
+C64.json,file
+C64.reg,file
+C64.sh,file
+C64.terminal,file
+C64.theme,file
+C64.toml,file
+C64.xrdb,file
+CLRS,file
+CLRS.colors,file
+CLRS.colorscheme,file
+CLRS.conf,file
+CLRS.config,file
+CLRS.ini,file
+CLRS.itermcolors,file
+CLRS.itermcolors_config_0,file
+CLRS.json,file
+CLRS.reg,file
+CLRS.sh,file
+CLRS.terminal,file
+CLRS.theme,file
+CLRS.toml,file
+CLRS.xrdb,file
+Calamity,file
+Calamity.colors,file
+Calamity.colorscheme,file
+Calamity.conf,file
+Calamity.config,file
+Calamity.ini,file
+Calamity.itermcolors,file
+Calamity.json,file
+Calamity.reg,file
+Calamity.sh,file
+Calamity.theme,file
+Calamity.toml,file
+Calamity.xrdb,file
+Chalk,file
+Chalk.colors,file
+Chalk.colorscheme,file
+Chalk.conf,file
+Chalk.config,file
+Chalk.ini,file
+Chalk.itermcolors,file
+Chalk.itermcolors_config_0,file
+Chalk.json,file
+Chalk.reg,file
+Chalk.sh,file
+Chalk.terminal,file
+Chalk.theme,file
+Chalk.toml,file
+Chalk.xrdb,file
+Chalkboard,file
+Chalkboard.colors,file
+Chalkboard.colorscheme,file
+Chalkboard.conf,file
+Chalkboard.config,file
+Chalkboard.ini,file
+Chalkboard.itermcolors,file
+Chalkboard.itermcolors_config_0,file
+Chalkboard.json,file
+Chalkboard.reg,file
+Chalkboard.sh,file
+Chalkboard.terminal,file
+Chalkboard.theme,file
+Chalkboard.toml,file
+Chalkboard.xrdb,file
+ChallengerDeep,file
+ChallengerDeep.colors,file
+ChallengerDeep.colorscheme,file
+ChallengerDeep.conf,file
+ChallengerDeep.config,file
+ChallengerDeep.ini,file
+ChallengerDeep.itermcolors,file
+ChallengerDeep.json,file
+ChallengerDeep.reg,file
+ChallengerDeep.sh,file
+ChallengerDeep.theme,file
+ChallengerDeep.toml,file
+ChallengerDeep.xrdb,file
+Chester,file
+Chester.colors,file
+Chester.colorscheme,file
+Chester.conf,file
+Chester.config,file
+Chester.ini,file
+Chester.itermcolors,file
+Chester.json,file
+Chester.reg,file
+Chester.sh,file
+Chester.theme,file
+Chester.toml,file
+Chester.xrdb,file
+Ciapre,file
+Ciapre.colors,file
+Ciapre.colorscheme,file
+Ciapre.conf,file
+Ciapre.config,file
+Ciapre.ini,file
+Ciapre.itermcolors,file
+Ciapre.itermcolors_config_0,file
+Ciapre.json,file
+Ciapre.reg,file
+Ciapre.sh,file
+Ciapre.terminal,file
+Ciapre.theme,file
+Ciapre.toml,file
+Ciapre.xrdb,file
+Cobalt Neon,file
+Cobalt Neon.colors,file
+Cobalt Neon.colorscheme,file
+Cobalt Neon.conf,file
+Cobalt Neon.config,file
+Cobalt Neon.ini,file
+Cobalt Neon.itermcolors,file
+Cobalt Neon.itermcolors_config_0,file
+Cobalt Neon.json,file
+Cobalt Neon.reg,file
+Cobalt Neon.sh,file
+Cobalt Neon.terminal,file
+Cobalt Neon.theme,file
+Cobalt Neon.toml,file
+Cobalt Neon.xrdb,file
+Cobalt2,file
+Cobalt2.colors,file
+Cobalt2.colorscheme,file
+Cobalt2.conf,file
+Cobalt2.config,file
+Cobalt2.ini,file
+Cobalt2.itermcolors,file
+Cobalt2.itermcolors_config_0,file
+Cobalt2.json,file
+Cobalt2.reg,file
+Cobalt2.sh,file
+Cobalt2.terminal,file
+Cobalt2.theme,file
+Cobalt2.toml,file
+Cobalt2.xrdb,file
+Coffee.png,file
+CrayonPonyFish,file
+CrayonPonyFish.colors,file
+CrayonPonyFish.colorscheme,file
+CrayonPonyFish.conf,file
+CrayonPonyFish.config,file
+CrayonPonyFish.ini,file
+CrayonPonyFish.itermcolors,file
+CrayonPonyFish.itermcolors_config_0,file
+CrayonPonyFish.json,file
+CrayonPonyFish.reg,file
+CrayonPonyFish.sh,file
+CrayonPonyFish.terminal,file
+CrayonPonyFish.theme,file
+CrayonPonyFish.toml,file
+CrayonPonyFish.xrdb,file
+Dark Pastel,file
+Dark Pastel.colors,file
+Dark Pastel.colorscheme,file
+Dark Pastel.conf,file
+Dark Pastel.config,file
+Dark Pastel.ini,file
+Dark Pastel.itermcolors,file
+Dark Pastel.itermcolors_config_0,file
+Dark Pastel.json,file
+Dark Pastel.reg,file
+Dark Pastel.sh,file
+Dark Pastel.terminal,file
+Dark Pastel.theme,file
+Dark Pastel.toml,file
+Dark Pastel.xrdb,file
+Dark+,file
+Dark+.colors,file
+Dark+.colorscheme,file
+Dark+.conf,file
+Dark+.config,file
+Dark+.ini,file
+Dark+.itermcolors,file
+Dark+.json,file
+Dark+.reg,file
+Dark+.sh,file
+Dark+.theme,file
+Dark+.toml,file
+Dark+.xrdb,file
+Darkside,file
+Darkside.colors,file
+Darkside.colorscheme,file
+Darkside.conf,file
+Darkside.config,file
+Darkside.ini,file
+Darkside.itermcolors,file
+Darkside.itermcolors_config_0,file
+Darkside.json,file
+Darkside.reg,file
+Darkside.sh,file
+Darkside.terminal,file
+Darkside.theme,file
+Darkside.toml,file
+Darkside.xrdb,file
+Desert,file
+Desert.colors,file
+Desert.colorscheme,file
+Desert.conf,file
+Desert.config,file
+Desert.ini,file
+Desert.itermcolors,file
+Desert.itermcolors_config_0,file
+Desert.json,file
+Desert.reg,file
+Desert.sh,file
+Desert.terminal,file
+Desert.theme,file
+Desert.toml,file
+Desert.xrdb,file
+DimmedMonokai,file
+DimmedMonokai.colors,file
+DimmedMonokai.colorscheme,file
+DimmedMonokai.conf,file
+DimmedMonokai.config,file
+DimmedMonokai.ini,file
+DimmedMonokai.itermcolors,file
+DimmedMonokai.itermcolors_config_0,file
+DimmedMonokai.json,file
+DimmedMonokai.reg,file
+DimmedMonokai.sh,file
+DimmedMonokai.terminal,file
+DimmedMonokai.theme,file
+DimmedMonokai.toml,file
+DimmedMonokai.xrdb,file
+DotGov,file
+DotGov.colors,file
+DotGov.colorscheme,file
+DotGov.conf,file
+DotGov.config,file
+DotGov.ini,file
+DotGov.itermcolors,file
+DotGov.itermcolors_config_0,file
+DotGov.json,file
+DotGov.reg,file
+DotGov.sh,file
+DotGov.terminal,file
+DotGov.theme,file
+DotGov.toml,file
+DotGov.xrdb,file
+Dracula,file
+Dracula.colors,file
+Dracula.colorscheme,file
+Dracula.conf,file
+Dracula.config,file
+Dracula.ini,file
+Dracula.itermcolors,file
+Dracula.itermcolors_config_0,file
+Dracula.json,file
+Dracula.reg,file
+Dracula.sh,file
+Dracula.terminal,file
+Dracula.theme,file
+Dracula.toml,file
+Dracula.xrdb,file
+Duotone Dark,file
+Duotone Dark.colors,file
+Duotone Dark.colorscheme,file
+Duotone Dark.conf,file
+Duotone Dark.config,file
+Duotone Dark.ini,file
+Duotone Dark.itermcolors,file
+Duotone Dark.itermcolors_config_0,file
+Duotone Dark.json,file
+Duotone Dark.reg,file
+Duotone Dark.sh,file
+Duotone Dark.terminal,file
+Duotone Dark.theme,file
+Duotone Dark.toml,file
+Duotone Dark.xrdb,file
+ENCOM,file
+ENCOM.colors,file
+ENCOM.colorscheme,file
+ENCOM.conf,file
+ENCOM.config,file
+ENCOM.ini,file
+ENCOM.itermcolors,file
+ENCOM.itermcolors_config_0,file
+ENCOM.json,file
+ENCOM.reg,file
+ENCOM.sh,file
+ENCOM.terminal,file
+ENCOM.theme,file
+ENCOM.toml,file
+ENCOM.xrdb,file
+Earthsong,file
+Earthsong.colors,file
+Earthsong.colorscheme,file
+Earthsong.conf,file
+Earthsong.config,file
+Earthsong.ini,file
+Earthsong.itermcolors,file
+Earthsong.itermcolors_config_0,file
+Earthsong.json,file
+Earthsong.reg,file
+Earthsong.sh,file
+Earthsong.terminal,file
+Earthsong.theme,file
+Earthsong.toml,file
+Earthsong.xrdb,file
+Elemental,file
+Elemental.colors,file
+Elemental.colorscheme,file
+Elemental.conf,file
+Elemental.config,file
+Elemental.ini,file
+Elemental.itermcolors,file
+Elemental.itermcolors_config_0,file
+Elemental.json,file
+Elemental.reg,file
+Elemental.sh,file
+Elemental.terminal,file
+Elemental.theme,file
+Elemental.toml,file
+Elemental.xrdb,file
+Elementary,file
+Elementary.colors,file
+Elementary.colorscheme,file
+Elementary.conf,file
+Elementary.config,file
+Elementary.ini,file
+Elementary.itermcolors,file
+Elementary.itermcolors_config_0,file
+Elementary.json,file
+Elementary.reg,file
+Elementary.sh,file
+Elementary.terminal,file
+Elementary.theme,file
+Elementary.toml,file
+Elementary.xrdb,file
+Espresso,file
+Espresso Libre,file
+Espresso Libre.colors,file
+Espresso Libre.colorscheme,file
+Espresso Libre.conf,file
+Espresso Libre.config,file
+Espresso Libre.ini,file
+Espresso Libre.itermcolors,file
+Espresso Libre.itermcolors_config_0,file
+Espresso Libre.json,file
+Espresso Libre.reg,file
+Espresso Libre.sh,file
+Espresso Libre.terminal,file
+Espresso Libre.theme,file
+Espresso Libre.toml,file
+Espresso Libre.xrdb,file
+Espresso.colors,file
+Espresso.colorscheme,file
+Espresso.conf,file
+Espresso.config,file
+Espresso.ini,file
+Espresso.itermcolors,file
+Espresso.itermcolors_config_0,file
+Espresso.json,file
+Espresso.reg,file
+Espresso.sh,file
+Espresso.terminal,file
+Espresso.theme,file
+Espresso.toml,file
+Espresso.xrdb,file
+Fahrenheit,file
+Fahrenheit.colors,file
+Fahrenheit.colorscheme,file
+Fahrenheit.conf,file
+Fahrenheit.config,file
+Fahrenheit.ini,file
+Fahrenheit.itermcolors,file
+Fahrenheit.json,file
+Fahrenheit.reg,file
+Fahrenheit.sh,file
+Fahrenheit.theme,file
+Fahrenheit.toml,file
+Fahrenheit.xrdb,file
+Fideloper,file
+Fideloper.colors,file
+Fideloper.colorscheme,file
+Fideloper.conf,file
+Fideloper.config,file
+Fideloper.ini,file
+Fideloper.itermcolors,file
+Fideloper.itermcolors_config_0,file
+Fideloper.json,file
+Fideloper.reg,file
+Fideloper.sh,file
+Fideloper.terminal,file
+Fideloper.theme,file
+Fideloper.toml,file
+Fideloper.xrdb,file
+FirefoxDev,file
+FirefoxDev.colors,file
+FirefoxDev.colorscheme,file
+FirefoxDev.conf,file
+FirefoxDev.config,file
+FirefoxDev.ini,file
+FirefoxDev.itermcolors,file
+FirefoxDev.itermcolors_config_0,file
+FirefoxDev.json,file
+FirefoxDev.reg,file
+FirefoxDev.sh,file
+FirefoxDev.terminal,file
+FirefoxDev.theme,file
+FirefoxDev.toml,file
+FirefoxDev.xrdb,file
+Firewatch,file
+Firewatch.colors,file
+Firewatch.colorscheme,file
+Firewatch.conf,file
+Firewatch.config,file
+Firewatch.ini,file
+Firewatch.itermcolors,file
+Firewatch.itermcolors_config_0,file
+Firewatch.json,file
+Firewatch.reg,file
+Firewatch.sh,file
+Firewatch.terminal,file
+Firewatch.theme,file
+Firewatch.toml,file
+Firewatch.xrdb,file
+FishTank,file
+FishTank.colors,file
+FishTank.colorscheme,file
+FishTank.conf,file
+FishTank.config,file
+FishTank.ini,file
+FishTank.itermcolors,file
+FishTank.itermcolors_config_0,file
+FishTank.json,file
+FishTank.reg,file
+FishTank.sh,file
+FishTank.terminal,file
+FishTank.theme,file
+FishTank.toml,file
+FishTank.xrdb,file
+Flat,file
+Flat.colors,file
+Flat.colorscheme,file
+Flat.conf,file
+Flat.config,file
+Flat.ini,file
+Flat.itermcolors,file
+Flat.itermcolors_config_0,file
+Flat.json,file
+Flat.reg,file
+Flat.sh,file
+Flat.terminal,file
+Flat.theme,file
+Flat.toml,file
+Flat.xrdb,file
+Flatland,file
+Flatland.colors,file
+Flatland.colorscheme,file
+Flatland.conf,file
+Flatland.config,file
+Flatland.ini,file
+Flatland.itermcolors,file
+Flatland.itermcolors_config_0,file
+Flatland.json,file
+Flatland.reg,file
+Flatland.sh,file
+Flatland.terminal,file
+Flatland.theme,file
+Flatland.toml,file
+Flatland.xrdb,file
+Floraverse,file
+Floraverse.colors,file
+Floraverse.colorscheme,file
+Floraverse.conf,file
+Floraverse.config,file
+Floraverse.ini,file
+Floraverse.itermcolors,file
+Floraverse.itermcolors_config_0,file
+Floraverse.json,file
+Floraverse.reg,file
+Floraverse.sh,file
+Floraverse.terminal,file
+Floraverse.theme,file
+Floraverse.toml,file
+Floraverse.xrdb,file
+ForestBlue,file
+ForestBlue.colors,file
+ForestBlue.colorscheme,file
+ForestBlue.conf,file
+ForestBlue.config,file
+ForestBlue.ini,file
+ForestBlue.itermcolors,file
+ForestBlue.itermcolors_config_0,file
+ForestBlue.json,file
+ForestBlue.reg,file
+ForestBlue.sh,file
+ForestBlue.terminal,file
+ForestBlue.theme,file
+ForestBlue.toml,file
+ForestBlue.xrdb,file
+Framer,file
+Framer.colors,file
+Framer.colorscheme,file
+Framer.conf,file
+Framer.config,file
+Framer.ini,file
+Framer.itermcolors,file
+Framer.json,file
+Framer.reg,file
+Framer.sh,file
+Framer.theme,file
+Framer.toml,file
+Framer.xrdb,file
+FrontEndDelight,file
+FrontEndDelight.colors,file
+FrontEndDelight.colorscheme,file
+FrontEndDelight.conf,file
+FrontEndDelight.config,file
+FrontEndDelight.ini,file
+FrontEndDelight.itermcolors,file
+FrontEndDelight.itermcolors_config_0,file
+FrontEndDelight.json,file
+FrontEndDelight.reg,file
+FrontEndDelight.sh,file
+FrontEndDelight.terminal,file
+FrontEndDelight.theme,file
+FrontEndDelight.toml,file
+FrontEndDelight.xrdb,file
+FunForrest,file
+FunForrest.colors,file
+FunForrest.colorscheme,file
+FunForrest.conf,file
+FunForrest.config,file
+FunForrest.ini,file
+FunForrest.itermcolors,file
+FunForrest.itermcolors_config_0,file
+FunForrest.json,file
+FunForrest.reg,file
+FunForrest.sh,file
+FunForrest.terminal,file
+FunForrest.theme,file
+FunForrest.toml,file
+FunForrest.xrdb,file
+Galaxy,file
+Galaxy.colors,file
+Galaxy.colorscheme,file
+Galaxy.conf,file
+Galaxy.config,file
+Galaxy.ini,file
+Galaxy.itermcolors,file
+Galaxy.itermcolors_config_0,file
+Galaxy.json,file
+Galaxy.reg,file
+Galaxy.sh,file
+Galaxy.terminal,file
+Galaxy.theme,file
+Galaxy.toml,file
+Galaxy.xrdb,file
+Github,file
+Github.colors,file
+Github.colorscheme,file
+Github.conf,file
+Github.config,file
+Github.ini,file
+Github.itermcolors,file
+Github.itermcolors_config_0,file
+Github.json,file
+Github.reg,file
+Github.sh,file
+Github.terminal,file
+Github.theme,file
+Github.toml,file
+Github.xrdb,file
+Glacier,file
+Glacier.colors,file
+Glacier.colorscheme,file
+Glacier.conf,file
+Glacier.config,file
+Glacier.ini,file
+Glacier.itermcolors,file
+Glacier.itermcolors_config_0,file
+Glacier.json,file
+Glacier.reg,file
+Glacier.sh,file
+Glacier.terminal,file
+Glacier.theme,file
+Glacier.toml,file
+Glacier.xrdb,file
+Grape,file
+Grape.colors,file
+Grape.colorscheme,file
+Grape.conf,file
+Grape.config,file
+Grape.ini,file
+Grape.itermcolors,file
+Grape.itermcolors_config_0,file
+Grape.json,file
+Grape.reg,file
+Grape.sh,file
+Grape.terminal,file
+Grape.theme,file
+Grape.toml,file
+Grape.xrdb,file
+Grass,file
+Grass.colors,file
+Grass.colorscheme,file
+Grass.conf,file
+Grass.config,file
+Grass.ini,file
+Grass.itermcolors,file
+Grass.itermcolors_config_0,file
+Grass.json,file
+Grass.reg,file
+Grass.sh,file
+Grass.terminal,file
+Grass.theme,file
+Grass.toml,file
+Grass.xrdb,file
+Gruvbox Dark,file
+Gruvbox Dark.colors,file
+Gruvbox Dark.colorscheme,file
+Gruvbox Dark.conf,file
+Gruvbox Dark.config,file
+Gruvbox Dark.ini,file
+Gruvbox Dark.itermcolors,file
+Gruvbox Dark.itermcolors_config_0,file
+Gruvbox Dark.json,file
+Gruvbox Dark.reg,file
+Gruvbox Dark.sh,file
+Gruvbox Dark.terminal,file
+Gruvbox Dark.theme,file
+Gruvbox Dark.toml,file
+Gruvbox Dark.xrdb,file
+Hacktober,file
+Hacktober.colors,file
+Hacktober.colorscheme,file
+Hacktober.conf,file
+Hacktober.config,file
+Hacktober.ini,file
+Hacktober.itermcolors,file
+Hacktober.json,file
+Hacktober.reg,file
+Hacktober.sh,file
+Hacktober.terminal,file
+Hacktober.theme,file
+Hacktober.toml,file
+Hacktober.xrdb,file
+Hardcore,file
+Hardcore.colors,file
+Hardcore.colorscheme,file
+Hardcore.conf,file
+Hardcore.config,file
+Hardcore.ini,file
+Hardcore.itermcolors,file
+Hardcore.itermcolors_config_0,file
+Hardcore.json,file
+Hardcore.reg,file
+Hardcore.sh,file
+Hardcore.terminal,file
+Hardcore.theme,file
+Hardcore.toml,file
+Hardcore.xrdb,file
+Harper,file
+Harper.colors,file
+Harper.colorscheme,file
+Harper.conf,file
+Harper.config,file
+Harper.ini,file
+Harper.itermcolors,file
+Harper.itermcolors_config_0,file
+Harper.json,file
+Harper.reg,file
+Harper.sh,file
+Harper.terminal,file
+Harper.theme,file
+Harper.toml,file
+Harper.xrdb,file
+Highway,file
+Highway.colors,file
+Highway.colorscheme,file
+Highway.conf,file
+Highway.config,file
+Highway.ini,file
+Highway.itermcolors,file
+Highway.itermcolors_config_0,file
+Highway.json,file
+Highway.reg,file
+Highway.sh,file
+Highway.terminal,file
+Highway.theme,file
+Highway.toml,file
+Highway.xrdb,file
+Hipster Green,file
+Hipster Green.colors,file
+Hipster Green.colorscheme,file
+Hipster Green.conf,file
+Hipster Green.config,file
+Hipster Green.ini,file
+Hipster Green.itermcolors,file
+Hipster Green.itermcolors_config_0,file
+Hipster Green.json,file
+Hipster Green.reg,file
+Hipster Green.sh,file
+Hipster Green.terminal,file
+Hipster Green.theme,file
+Hipster Green.toml,file
+Hipster Green.xrdb,file
+Hivacruz,file
+Hivacruz.colors,file
+Hivacruz.colorscheme,file
+Hivacruz.conf,file
+Hivacruz.config,file
+Hivacruz.ini,file
+Hivacruz.itermcolors,file
+Hivacruz.json,file
+Hivacruz.reg,file
+Hivacruz.sh,file
+Hivacruz.theme,file
+Hivacruz.toml,file
+Hivacruz.xrdb,file
+Homebrew,file
+Homebrew.colors,file
+Homebrew.colorscheme,file
+Homebrew.conf,file
+Homebrew.config,file
+Homebrew.ini,file
+Homebrew.itermcolors,file
+Homebrew.itermcolors_config_0,file
+Homebrew.json,file
+Homebrew.reg,file
+Homebrew.sh,file
+Homebrew.terminal,file
+Homebrew.theme,file
+Homebrew.toml,file
+Homebrew.xrdb,file
+Hopscotch,file
+Hopscotch.256,file
+Hopscotch.256.colors,file
+Hopscotch.256.colorscheme,file
+Hopscotch.256.conf,file
+Hopscotch.256.config,file
+Hopscotch.256.ini,file
+Hopscotch.256.itermcolors,file
+Hopscotch.256.json,file
+Hopscotch.256.reg,file
+Hopscotch.256.sh,file
+Hopscotch.256.theme,file
+Hopscotch.256.toml,file
+Hopscotch.256.xrdb,file
+Hopscotch.colors,file
+Hopscotch.colorscheme,file
+Hopscotch.conf,file
+Hopscotch.config,file
+Hopscotch.ini,file
+Hopscotch.itermcolors,file
+Hopscotch.json,file
+Hopscotch.reg,file
+Hopscotch.sh,file
+Hopscotch.theme,file
+Hopscotch.toml,file
+Hopscotch.xrdb,file
+Hurtado,file
+Hurtado.colors,file
+Hurtado.colorscheme,file
+Hurtado.conf,file
+Hurtado.config,file
+Hurtado.ini,file
+Hurtado.itermcolors,file
+Hurtado.itermcolors_config_0,file
+Hurtado.json,file
+Hurtado.reg,file
+Hurtado.sh,file
+Hurtado.terminal,file
+Hurtado.theme,file
+Hurtado.toml,file
+Hurtado.xrdb,file
+Hybrid,file
+Hybrid.colors,file
+Hybrid.colorscheme,file
+Hybrid.conf,file
+Hybrid.config,file
+Hybrid.ini,file
+Hybrid.itermcolors,file
+Hybrid.itermcolors_config_0,file
+Hybrid.json,file
+Hybrid.reg,file
+Hybrid.sh,file
+Hybrid.terminal,file
+Hybrid.theme,file
+Hybrid.toml,file
+Hybrid.xrdb,file
+IC_Green_PPL,file
+IC_Green_PPL.colors,file
+IC_Green_PPL.colorscheme,file
+IC_Green_PPL.conf,file
+IC_Green_PPL.config,file
+IC_Green_PPL.ini,file
+IC_Green_PPL.itermcolors,file
+IC_Green_PPL.itermcolors_config_0,file
+IC_Green_PPL.json,file
+IC_Green_PPL.reg,file
+IC_Green_PPL.sh,file
+IC_Green_PPL.terminal,file
+IC_Green_PPL.theme,file
+IC_Green_PPL.toml,file
+IC_Green_PPL.xrdb,file
+IC_Orange_PPL,file
+IC_Orange_PPL.colors,file
+IC_Orange_PPL.colorscheme,file
+IC_Orange_PPL.conf,file
+IC_Orange_PPL.config,file
+IC_Orange_PPL.ini,file
+IC_Orange_PPL.itermcolors,file
+IC_Orange_PPL.itermcolors_config_0,file
+IC_Orange_PPL.json,file
+IC_Orange_PPL.reg,file
+IC_Orange_PPL.sh,file
+IC_Orange_PPL.terminal,file
+IC_Orange_PPL.theme,file
+IC_Orange_PPL.toml,file
+IC_Orange_PPL.xrdb,file
+IR_Black,file
+IR_Black.colors,file
+IR_Black.colorscheme,file
+IR_Black.conf,file
+IR_Black.config,file
+IR_Black.ini,file
+IR_Black.itermcolors,file
+IR_Black.itermcolors_config_0,file
+IR_Black.json,file
+IR_Black.reg,file
+IR_Black.sh,file
+IR_Black.terminal,file
+IR_Black.theme,file
+IR_Black.toml,file
+IR_Black.xrdb,file
+Jackie Brown,file
+Jackie Brown.colors,file
+Jackie Brown.colorscheme,file
+Jackie Brown.conf,file
+Jackie Brown.config,file
+Jackie Brown.ini,file
+Jackie Brown.itermcolors,file
+Jackie Brown.itermcolors_config_0,file
+Jackie Brown.json,file
+Jackie Brown.reg,file
+Jackie Brown.sh,file
+Jackie Brown.terminal,file
+Jackie Brown.theme,file
+Jackie Brown.toml,file
+Jackie Brown.xrdb,file
+Japanesque,file
+Japanesque.colors,file
+Japanesque.colorscheme,file
+Japanesque.conf,file
+Japanesque.config,file
+Japanesque.ini,file
+Japanesque.itermcolors,file
+Japanesque.itermcolors_config_0,file
+Japanesque.json,file
+Japanesque.reg,file
+Japanesque.sh,file
+Japanesque.terminal,file
+Japanesque.theme,file
+Japanesque.toml,file
+Japanesque.xrdb,file
+Jellybeans,file
+Jellybeans.colors,file
+Jellybeans.colorscheme,file
+Jellybeans.conf,file
+Jellybeans.config,file
+Jellybeans.ini,file
+Jellybeans.itermcolors,file
+Jellybeans.itermcolors_config_0,file
+Jellybeans.json,file
+Jellybeans.reg,file
+Jellybeans.sh,file
+Jellybeans.terminal,file
+Jellybeans.theme,file
+Jellybeans.toml,file
+Jellybeans.xrdb,file
+JetBrains Darcula,file
+JetBrains Darcula.colors,file
+JetBrains Darcula.colorscheme,file
+JetBrains Darcula.conf,file
+JetBrains Darcula.config,file
+JetBrains Darcula.ini,file
+JetBrains Darcula.itermcolors,file
+JetBrains Darcula.itermcolors_config_0,file
+JetBrains Darcula.json,file
+JetBrains Darcula.reg,file
+JetBrains Darcula.sh,file
+JetBrains Darcula.terminal,file
+JetBrains Darcula.theme,file
+JetBrains Darcula.toml,file
+JetBrains Darcula.xrdb,file
+Kibble,file
+Kibble.colors,file
+Kibble.colorscheme,file
+Kibble.conf,file
+Kibble.config,file
+Kibble.ini,file
+Kibble.itermcolors,file
+Kibble.itermcolors_config_0,file
+Kibble.json,file
+Kibble.reg,file
+Kibble.sh,file
+Kibble.terminal,file
+Kibble.theme,file
+Kibble.toml,file
+Kibble.xrdb,file
+Kolorit,file
+Kolorit.colors,file
+Kolorit.colorscheme,file
+Kolorit.conf,file
+Kolorit.config,file
+Kolorit.ini,file
+Kolorit.itermcolors,file
+Kolorit.json,file
+Kolorit.reg,file
+Kolorit.sh,file
+Kolorit.theme,file
+Kolorit.toml,file
+Kolorit.xrdb,file
+LICENSE,file
+Lab Fox,file
+Lab Fox.colors,file
+Lab Fox.colorscheme,file
+Lab Fox.conf,file
+Lab Fox.config,file
+Lab Fox.ini,file
+Lab Fox.itermcolors,file
+Lab Fox.json,file
+Lab Fox.reg,file
+Lab Fox.sh,file
+Lab Fox.theme,file
+Lab Fox.toml,file
+Lab Fox.xrdb,file
+Later This Evening,file
+Later This Evening.colors,file
+Later This Evening.colorscheme,file
+Later This Evening.conf,file
+Later This Evening.config,file
+Later This Evening.ini,file
+Later This Evening.itermcolors,file
+Later This Evening.itermcolors_config_0,file
+Later This Evening.json,file
+Later This Evening.reg,file
+Later This Evening.sh,file
+Later This Evening.terminal,file
+Later This Evening.theme,file
+Later This Evening.toml,file
+Later This Evening.xrdb,file
+Lavandula,file
+Lavandula.colors,file
+Lavandula.colorscheme,file
+Lavandula.conf,file
+Lavandula.config,file
+Lavandula.ini,file
+Lavandula.itermcolors,file
+Lavandula.itermcolors_config_0,file
+Lavandula.json,file
+Lavandula.reg,file
+Lavandula.sh,file
+Lavandula.terminal,file
+Lavandula.theme,file
+Lavandula.toml,file
+Lavandula.xrdb,file
+LiquidCarbon,file
+LiquidCarbon.colors,file
+LiquidCarbon.colorscheme,file
+LiquidCarbon.conf,file
+LiquidCarbon.config,file
+LiquidCarbon.ini,file
+LiquidCarbon.itermcolors,file
+LiquidCarbon.itermcolors_config_0,file
+LiquidCarbon.json,file
+LiquidCarbon.reg,file
+LiquidCarbon.sh,file
+LiquidCarbon.terminal,file
+LiquidCarbon.theme,file
+LiquidCarbon.toml,file
+LiquidCarbon.xrdb,file
+LiquidCarbonTransparent,file
+LiquidCarbonTransparent.colors,file
+LiquidCarbonTransparent.colorscheme,file
+LiquidCarbonTransparent.conf,file
+LiquidCarbonTransparent.config,file
+LiquidCarbonTransparent.ini,file
+LiquidCarbonTransparent.itermcolors,file
+LiquidCarbonTransparent.itermcolors_config_0,file
+LiquidCarbonTransparent.json,file
+LiquidCarbonTransparent.reg,file
+LiquidCarbonTransparent.sh,file
+LiquidCarbonTransparent.terminal,file
+LiquidCarbonTransparent.theme,file
+LiquidCarbonTransparent.toml,file
+LiquidCarbonTransparent.xrdb,file
+LiquidCarbonTransparentInverse,file
+LiquidCarbonTransparentInverse.colors,file
+LiquidCarbonTransparentInverse.colorscheme,file
+LiquidCarbonTransparentInverse.conf,file
+LiquidCarbonTransparentInverse.config,file
+LiquidCarbonTransparentInverse.ini,file
+LiquidCarbonTransparentInverse.itermcolors,file
+LiquidCarbonTransparentInverse.itermcolors_config_0,file
+LiquidCarbonTransparentInverse.json,file
+LiquidCarbonTransparentInverse.reg,file
+LiquidCarbonTransparentInverse.sh,file
+LiquidCarbonTransparentInverse.terminal,file
+LiquidCarbonTransparentInverse.theme,file
+LiquidCarbonTransparentInverse.toml,file
+LiquidCarbonTransparentInverse.xrdb,file
+LoveLace.png,file
+Man Page,file
+Man Page.colors,file
+Man Page.colorscheme,file
+Man Page.conf,file
+Man Page.config,file
+Man Page.ini,file
+Man Page.itermcolors,file
+Man Page.itermcolors_config_0,file
+Man Page.json,file
+Man Page.reg,file
+Man Page.sh,file
+Man Page.terminal,file
+Man Page.theme,file
+Man Page.toml,file
+Man Page.xrdb,file
+Material,file
+Material.colors,file
+Material.colorscheme,file
+Material.conf,file
+Material.config,file
+Material.ini,file
+Material.itermcolors,file
+Material.itermcolors_config_0,file
+Material.json,file
+Material.reg,file
+Material.sh,file
+Material.terminal,file
+Material.theme,file
+Material.toml,file
+Material.xrdb,file
+MaterialDark,file
+MaterialDark.colors,file
+MaterialDark.colorscheme,file
+MaterialDark.conf,file
+MaterialDark.config,file
+MaterialDark.ini,file
+MaterialDark.itermcolors,file
+MaterialDark.itermcolors_config_0,file
+MaterialDark.json,file
+MaterialDark.reg,file
+MaterialDark.sh,file
+MaterialDark.terminal,file
+MaterialDark.theme,file
+MaterialDark.toml,file
+MaterialDark.xrdb,file
+MaterialOcean,file
+MaterialOcean.colors,file
+MaterialOcean.colorscheme,file
+MaterialOcean.conf,file
+MaterialOcean.config,file
+MaterialOcean.ini,file
+MaterialOcean.itermcolors,file
+MaterialOcean.json,file
+MaterialOcean.reg,file
+MaterialOcean.sh,file
+MaterialOcean.theme,file
+MaterialOcean.toml,file
+MaterialOcean.xrdb,file
+Mathias,file
+Mathias.colors,file
+Mathias.colorscheme,file
+Mathias.conf,file
+Mathias.config,file
+Mathias.ini,file
+Mathias.itermcolors,file
+Mathias.itermcolors_config_0,file
+Mathias.json,file
+Mathias.reg,file
+Mathias.sh,file
+Mathias.terminal,file
+Mathias.theme,file
+Mathias.toml,file
+Mathias.xrdb,file
+Medallion,file
+Medallion.colors,file
+Medallion.colorscheme,file
+Medallion.conf,file
+Medallion.config,file
+Medallion.ini,file
+Medallion.itermcolors,file
+Medallion.itermcolors_config_0,file
+Medallion.json,file
+Medallion.reg,file
+Medallion.sh,file
+Medallion.terminal,file
+Medallion.theme,file
+Medallion.toml,file
+Medallion.xrdb,file
+Misterioso,file
+Misterioso.colors,file
+Misterioso.colorscheme,file
+Misterioso.conf,file
+Misterioso.config,file
+Misterioso.ini,file
+Misterioso.itermcolors,file
+Misterioso.itermcolors_config_0,file
+Misterioso.json,file
+Misterioso.reg,file
+Misterioso.sh,file
+Misterioso.terminal,file
+Misterioso.theme,file
+Misterioso.toml,file
+Misterioso.xrdb,file
+Molokai,file
+Molokai.colors,file
+Molokai.colorscheme,file
+Molokai.conf,file
+Molokai.config,file
+Molokai.ini,file
+Molokai.itermcolors,file
+Molokai.itermcolors_config_0,file
+Molokai.json,file
+Molokai.reg,file
+Molokai.sh,file
+Molokai.terminal,file
+Molokai.theme,file
+Molokai.toml,file
+Molokai.xrdb,file
+MonaLisa,file
+MonaLisa.colors,file
+MonaLisa.colorscheme,file
+MonaLisa.conf,file
+MonaLisa.config,file
+MonaLisa.ini,file
+MonaLisa.itermcolors,file
+MonaLisa.itermcolors_config_0,file
+MonaLisa.json,file
+MonaLisa.reg,file
+MonaLisa.sh,file
+MonaLisa.terminal,file
+MonaLisa.theme,file
+MonaLisa.toml,file
+MonaLisa.xrdb,file
+Monokai Remastered,file
+Monokai Remastered.colors,file
+Monokai Remastered.colorscheme,file
+Monokai Remastered.conf,file
+Monokai Remastered.config,file
+Monokai Remastered.ini,file
+Monokai Remastered.itermcolors,file
+Monokai Remastered.json,file
+Monokai Remastered.reg,file
+Monokai Remastered.sh,file
+Monokai Remastered.theme,file
+Monokai Remastered.toml,file
+Monokai Remastered.xrdb,file
+Monokai Soda,file
+Monokai Soda.colors,file
+Monokai Soda.colorscheme,file
+Monokai Soda.conf,file
+Monokai Soda.config,file
+Monokai Soda.ini,file
+Monokai Soda.itermcolors,file
+Monokai Soda.itermcolors_config_0,file
+Monokai Soda.json,file
+Monokai Soda.reg,file
+Monokai Soda.sh,file
+Monokai Soda.terminal,file
+Monokai Soda.theme,file
+Monokai Soda.toml,file
+Monokai Soda.xrdb,file
+Monokai Vivid,file
+Monokai Vivid.colors,file
+Monokai Vivid.colorscheme,file
+Monokai Vivid.conf,file
+Monokai Vivid.config,file
+Monokai Vivid.ini,file
+Monokai Vivid.itermcolors,file
+Monokai Vivid.itermcolors_config_0,file
+Monokai Vivid.json,file
+Monokai Vivid.reg,file
+Monokai Vivid.sh,file
+Monokai Vivid.terminal,file
+Monokai Vivid.theme,file
+Monokai Vivid.toml,file
+Monokai Vivid.xrdb,file
+N0tch2k,file
+N0tch2k.colors,file
+N0tch2k.colorscheme,file
+N0tch2k.conf,file
+N0tch2k.config,file
+N0tch2k.ini,file
+N0tch2k.itermcolors,file
+N0tch2k.itermcolors_config_0,file
+N0tch2k.json,file
+N0tch2k.reg,file
+N0tch2k.sh,file
+N0tch2k.terminal,file
+N0tch2k.theme,file
+N0tch2k.toml,file
+N0tch2k.xrdb,file
+Neopolitan,file
+Neopolitan.colors,file
+Neopolitan.colorscheme,file
+Neopolitan.conf,file
+Neopolitan.config,file
+Neopolitan.ini,file
+Neopolitan.itermcolors,file
+Neopolitan.itermcolors_config_0,file
+Neopolitan.json,file
+Neopolitan.reg,file
+Neopolitan.sh,file
+Neopolitan.terminal,file
+Neopolitan.theme,file
+Neopolitan.toml,file
+Neopolitan.xrdb,file
+Neutron,file
+Neutron.colors,file
+Neutron.colorscheme,file
+Neutron.conf,file
+Neutron.config,file
+Neutron.ini,file
+Neutron.itermcolors,file
+Neutron.itermcolors_config_0,file
+Neutron.json,file
+Neutron.reg,file
+Neutron.sh,file
+Neutron.terminal,file
+Neutron.theme,file
+Neutron.toml,file
+Neutron.xrdb,file
+Night Owlish Light,file
+Night Owlish Light.colors,file
+Night Owlish Light.colorscheme,file
+Night Owlish Light.conf,file
+Night Owlish Light.config,file
+Night Owlish Light.ini,file
+Night Owlish Light.itermcolors,file
+Night Owlish Light.json,file
+Night Owlish Light.reg,file
+Night Owlish Light.sh,file
+Night Owlish Light.theme,file
+Night Owlish Light.toml,file
+Night Owlish Light.xrdb,file
+NightLion v1,file
+NightLion v1.colors,file
+NightLion v1.colorscheme,file
+NightLion v1.conf,file
+NightLion v1.config,file
+NightLion v1.ini,file
+NightLion v1.itermcolors,file
+NightLion v1.itermcolors_config_0,file
+NightLion v1.json,file
+NightLion v1.reg,file
+NightLion v1.sh,file
+NightLion v1.terminal,file
+NightLion v1.theme,file
+NightLion v1.toml,file
+NightLion v1.xrdb,file
+NightLion v2,file
+NightLion v2.colors,file
+NightLion v2.colorscheme,file
+NightLion v2.conf,file
+NightLion v2.config,file
+NightLion v2.ini,file
+NightLion v2.itermcolors,file
+NightLion v2.itermcolors_config_0,file
+NightLion v2.json,file
+NightLion v2.reg,file
+NightLion v2.sh,file
+NightLion v2.terminal,file
+NightLion v2.theme,file
+NightLion v2.toml,file
+NightLion v2.xrdb,file
+Nocturnal Winter,file
+Nocturnal Winter.colors,file
+Nocturnal Winter.colorscheme,file
+Nocturnal Winter.conf,file
+Nocturnal Winter.config,file
+Nocturnal Winter.ini,file
+Nocturnal Winter.itermcolors,file
+Nocturnal Winter.json,file
+Nocturnal Winter.reg,file
+Nocturnal Winter.sh,file
+Nocturnal Winter.theme,file
+Nocturnal Winter.toml,file
+Nocturnal Winter.xrdb,file
+Novel,file
+Novel.colors,file
+Novel.colorscheme,file
+Novel.conf,file
+Novel.config,file
+Novel.ini,file
+Novel.itermcolors,file
+Novel.itermcolors_config_0,file
+Novel.json,file
+Novel.reg,file
+Novel.sh,file
+Novel.terminal,file
+Novel.theme,file
+Novel.toml,file
+Novel.xrdb,file
+Obsidian,file
+Obsidian.colors,file
+Obsidian.colorscheme,file
+Obsidian.conf,file
+Obsidian.config,file
+Obsidian.ini,file
+Obsidian.itermcolors,file
+Obsidian.itermcolors_config_0,file
+Obsidian.json,file
+Obsidian.reg,file
+Obsidian.sh,file
+Obsidian.terminal,file
+Obsidian.theme,file
+Obsidian.toml,file
+Obsidian.xrdb,file
+Ocean,file
+Ocean.colors,file
+Ocean.colorscheme,file
+Ocean.conf,file
+Ocean.config,file
+Ocean.ini,file
+Ocean.itermcolors,file
+Ocean.itermcolors_config_0,file
+Ocean.json,file
+Ocean.reg,file
+Ocean.sh,file
+Ocean.terminal,file
+Ocean.theme,file
+Ocean.toml,file
+Ocean.xrdb,file
+OceanicMaterial,file
+OceanicMaterial.colors,file
+OceanicMaterial.colorscheme,file
+OceanicMaterial.conf,file
+OceanicMaterial.config,file
+OceanicMaterial.ini,file
+OceanicMaterial.itermcolors,file
+OceanicMaterial.itermcolors_config_0,file
+OceanicMaterial.json,file
+OceanicMaterial.reg,file
+OceanicMaterial.sh,file
+OceanicMaterial.terminal,file
+OceanicMaterial.theme,file
+OceanicMaterial.toml,file
+OceanicMaterial.xrdb,file
+Ollie,file
+Ollie.colors,file
+Ollie.colorscheme,file
+Ollie.conf,file
+Ollie.config,file
+Ollie.ini,file
+Ollie.itermcolors,file
+Ollie.itermcolors_config_0,file
+Ollie.json,file
+Ollie.reg,file
+Ollie.sh,file
+Ollie.terminal,file
+Ollie.theme,file
+Ollie.toml,file
+Ollie.xrdb,file
+OneHalfDark,file
+OneHalfDark.colors,file
+OneHalfDark.colorscheme,file
+OneHalfDark.conf,file
+OneHalfDark.config,file
+OneHalfDark.ini,file
+OneHalfDark.itermcolors,file
+OneHalfDark.itermcolors_config_0,file
+OneHalfDark.json,file
+OneHalfDark.reg,file
+OneHalfDark.sh,file
+OneHalfDark.terminal,file
+OneHalfDark.theme,file
+OneHalfDark.toml,file
+OneHalfDark.xrdb,file
+OneHalfLight,file
+OneHalfLight.colors,file
+OneHalfLight.colorscheme,file
+OneHalfLight.conf,file
+OneHalfLight.config,file
+OneHalfLight.ini,file
+OneHalfLight.itermcolors,file
+OneHalfLight.itermcolors_config_0,file
+OneHalfLight.json,file
+OneHalfLight.reg,file
+OneHalfLight.sh,file
+OneHalfLight.terminal,file
+OneHalfLight.theme,file
+OneHalfLight.toml,file
+OneHalfLight.xrdb,file
+Operator Mono Dark,file
+Operator Mono Dark.colors,file
+Operator Mono Dark.colorscheme,file
+Operator Mono Dark.conf,file
+Operator Mono Dark.config,file
+Operator Mono Dark.ini,file
+Operator Mono Dark.itermcolors,file
+Operator Mono Dark.json,file
+Operator Mono Dark.reg,file
+Operator Mono Dark.sh,file
+Operator Mono Dark.theme,file
+Operator Mono Dark.toml,file
+Operator Mono Dark.xrdb,file
+Pandora,file
+Pandora.colors,file
+Pandora.colorscheme,file
+Pandora.conf,file
+Pandora.config,file
+Pandora.ini,file
+Pandora.itermcolors,file
+Pandora.itermcolors_config_0,file
+Pandora.json,file
+Pandora.reg,file
+Pandora.sh,file
+Pandora.terminal,file
+Pandora.theme,file
+Pandora.toml,file
+Pandora.xrdb,file
+Paraiso Dark,file
+Paraiso Dark.colors,file
+Paraiso Dark.colorscheme,file
+Paraiso Dark.conf,file
+Paraiso Dark.config,file
+Paraiso Dark.ini,file
+Paraiso Dark.json,file
+Paraiso Dark.reg,file
+Paraiso Dark.sh,file
+Paraiso Dark.theme,file
+Paraiso Dark.toml,file
+Paraiso Dark.xrdb,file
+Parasio Dark,file
+Parasio Dark.colors,file
+Parasio Dark.colorscheme,file
+Parasio Dark.conf,file
+Parasio Dark.config,file
+Parasio Dark.ini,file
+Parasio Dark.itermcolors,file
+Parasio Dark.itermcolors_config_0,file
+Parasio Dark.json,file
+Parasio Dark.reg,file
+Parasio Dark.sh,file
+Parasio Dark.terminal,file
+Parasio Dark.theme,file
+Parasio Dark.toml,file
+Parasio Dark.xrdb,file
+PaulMillr,file
+PaulMillr.colors,file
+PaulMillr.colorscheme,file
+PaulMillr.conf,file
+PaulMillr.config,file
+PaulMillr.ini,file
+PaulMillr.itermcolors,file
+PaulMillr.itermcolors_config_0,file
+PaulMillr.json,file
+PaulMillr.reg,file
+PaulMillr.sh,file
+PaulMillr.terminal,file
+PaulMillr.theme,file
+PaulMillr.toml,file
+PaulMillr.xrdb,file
+PencilDark,file
+PencilDark.colors,file
+PencilDark.colorscheme,file
+PencilDark.conf,file
+PencilDark.config,file
+PencilDark.ini,file
+PencilDark.itermcolors,file
+PencilDark.itermcolors_config_0,file
+PencilDark.json,file
+PencilDark.reg,file
+PencilDark.sh,file
+PencilDark.terminal,file
+PencilDark.theme,file
+PencilDark.toml,file
+PencilDark.xrdb,file
+PencilLight,file
+PencilLight.colors,file
+PencilLight.colorscheme,file
+PencilLight.conf,file
+PencilLight.config,file
+PencilLight.ini,file
+PencilLight.itermcolors,file
+PencilLight.itermcolors_config_0,file
+PencilLight.json,file
+PencilLight.reg,file
+PencilLight.sh,file
+PencilLight.terminal,file
+PencilLight.theme,file
+PencilLight.toml,file
+PencilLight.xrdb,file
+Piatto Light,file
+Piatto Light.colors,file
+Piatto Light.colorscheme,file
+Piatto Light.conf,file
+Piatto Light.config,file
+Piatto Light.ini,file
+Piatto Light.itermcolors,file
+Piatto Light.itermcolors_config_0,file
+Piatto Light.json,file
+Piatto Light.reg,file
+Piatto Light.sh,file
+Piatto Light.terminal,file
+Piatto Light.theme,file
+Piatto Light.toml,file
+Piatto Light.xrdb,file
+Pnevma,file
+Pnevma.colors,file
+Pnevma.colorscheme,file
+Pnevma.conf,file
+Pnevma.config,file
+Pnevma.ini,file
+Pnevma.itermcolors,file
+Pnevma.itermcolors_config_0,file
+Pnevma.json,file
+Pnevma.reg,file
+Pnevma.sh,file
+Pnevma.terminal,file
+Pnevma.theme,file
+Pnevma.toml,file
+Pnevma.xrdb,file
+Pro,file
+Pro Light,file
+Pro Light.colors,file
+Pro Light.colorscheme,file
+Pro Light.conf,file
+Pro Light.config,file
+Pro Light.ini,file
+Pro Light.itermcolors,file
+Pro Light.json,file
+Pro Light.reg,file
+Pro Light.sh,file
+Pro Light.terminal,file
+Pro Light.theme,file
+Pro Light.toml,file
+Pro Light.xrdb,file
+Pro.colors,file
+Pro.colorscheme,file
+Pro.conf,file
+Pro.config,file
+Pro.ini,file
+Pro.itermcolors,file
+Pro.itermcolors_config_0,file
+Pro.json,file
+Pro.reg,file
+Pro.sh,file
+Pro.terminal,file
+Pro.theme,file
+Pro.toml,file
+Pro.xrdb,file
+Purple Rain,file
+Purple Rain.colors,file
+Purple Rain.colorscheme,file
+Purple Rain.conf,file
+Purple Rain.config,file
+Purple Rain.ini,file
+Purple Rain.itermcolors,file
+Purple Rain.json,file
+Purple Rain.reg,file
+Purple Rain.sh,file
+Purple Rain.theme,file
+Purple Rain.toml,file
+Purple Rain.xrdb,file
+README.md,file
+Red Alert,file
+Red Alert.colors,file
+Red Alert.colorscheme,file
+Red Alert.conf,file
+Red Alert.config,file
+Red Alert.ini,file
+Red Alert.itermcolors,file
+Red Alert.itermcolors_config_0,file
+Red Alert.json,file
+Red Alert.reg,file
+Red Alert.sh,file
+Red Alert.terminal,file
+Red Alert.theme,file
+Red Alert.toml,file
+Red Alert.xrdb,file
+Red Planet,file
+Red Planet.colors,file
+Red Planet.colorscheme,file
+Red Planet.conf,file
+Red Planet.config,file
+Red Planet.ini,file
+Red Planet.itermcolors,file
+Red Planet.json,file
+Red Planet.reg,file
+Red Planet.sh,file
+Red Planet.terminal,file
+Red Planet.theme,file
+Red Planet.toml,file
+Red Planet.xrdb,file
+Red Sands,file
+Red Sands.colors,file
+Red Sands.colorscheme,file
+Red Sands.conf,file
+Red Sands.config,file
+Red Sands.ini,file
+Red Sands.itermcolors,file
+Red Sands.itermcolors_config_0,file
+Red Sands.json,file
+Red Sands.reg,file
+Red Sands.sh,file
+Red Sands.terminal,file
+Red Sands.theme,file
+Red Sands.toml,file
+Red Sands.xrdb,file
+Relaxed,file
+Relaxed.colors,file
+Relaxed.colorscheme,file
+Relaxed.conf,file
+Relaxed.config,file
+Relaxed.ini,file
+Relaxed.itermcolors,file
+Relaxed.json,file
+Relaxed.reg,file
+Relaxed.sh,file
+Relaxed.terminal,file
+Relaxed.theme,file
+Relaxed.toml,file
+Relaxed.xrdb,file
+Rippedcasts,file
+Rippedcasts.colors,file
+Rippedcasts.colorscheme,file
+Rippedcasts.conf,file
+Rippedcasts.config,file
+Rippedcasts.ini,file
+Rippedcasts.itermcolors,file
+Rippedcasts.itermcolors_config_0,file
+Rippedcasts.json,file
+Rippedcasts.reg,file
+Rippedcasts.sh,file
+Rippedcasts.terminal,file
+Rippedcasts.theme,file
+Rippedcasts.toml,file
+Rippedcasts.xrdb,file
+Royal,file
+Royal.colors,file
+Royal.colorscheme,file
+Royal.conf,file
+Royal.config,file
+Royal.ini,file
+Royal.itermcolors,file
+Royal.itermcolors_config_0,file
+Royal.json,file
+Royal.reg,file
+Royal.sh,file
+Royal.terminal,file
+Royal.theme,file
+Royal.toml,file
+Royal.xrdb,file
+Ryuuko,file
+Ryuuko.colors,file
+Ryuuko.colorscheme,file
+Ryuuko.conf,file
+Ryuuko.config,file
+Ryuuko.ini,file
+Ryuuko.itermcolors,file
+Ryuuko.itermcolors_config_0,file
+Ryuuko.json,file
+Ryuuko.reg,file
+Ryuuko.sh,file
+Ryuuko.terminal,file
+Ryuuko.theme,file
+Ryuuko.toml,file
+Ryuuko.xrdb,file
+SeaShells,file
+SeaShells.colors,file
+SeaShells.colorscheme,file
+SeaShells.conf,file
+SeaShells.config,file
+SeaShells.ini,file
+SeaShells.itermcolors,file
+SeaShells.itermcolors_config_0,file
+SeaShells.json,file
+SeaShells.reg,file
+SeaShells.sh,file
+SeaShells.terminal,file
+SeaShells.theme,file
+SeaShells.toml,file
+SeaShells.xrdb,file
+Seafoam Pastel,file
+Seafoam Pastel.colors,file
+Seafoam Pastel.colorscheme,file
+Seafoam Pastel.conf,file
+Seafoam Pastel.config,file
+Seafoam Pastel.ini,file
+Seafoam Pastel.itermcolors,file
+Seafoam Pastel.itermcolors_config_0,file
+Seafoam Pastel.json,file
+Seafoam Pastel.reg,file
+Seafoam Pastel.sh,file
+Seafoam Pastel.terminal,file
+Seafoam Pastel.theme,file
+Seafoam Pastel.toml,file
+Seafoam Pastel.xrdb,file
+Seti,file
+Seti.colors,file
+Seti.colorscheme,file
+Seti.conf,file
+Seti.config,file
+Seti.ini,file
+Seti.itermcolors,file
+Seti.itermcolors_config_0,file
+Seti.json,file
+Seti.reg,file
+Seti.sh,file
+Seti.terminal,file
+Seti.theme,file
+Seti.toml,file
+Seti.xrdb,file
+ShadesOfPurple.png,file
+Shaman,file
+Shaman.colors,file
+Shaman.colorscheme,file
+Shaman.conf,file
+Shaman.config,file
+Shaman.ini,file
+Shaman.itermcolors,file
+Shaman.itermcolors_config_0,file
+Shaman.json,file
+Shaman.reg,file
+Shaman.sh,file
+Shaman.terminal,file
+Shaman.theme,file
+Shaman.toml,file
+Shaman.xrdb,file
+Slate,file
+Slate.colors,file
+Slate.colorscheme,file
+Slate.conf,file
+Slate.config,file
+Slate.ini,file
+Slate.itermcolors,file
+Slate.itermcolors_config_0,file
+Slate.json,file
+Slate.reg,file
+Slate.sh,file
+Slate.terminal,file
+Slate.theme,file
+Slate.toml,file
+Slate.xrdb,file
+SleepyHollow,file
+SleepyHollow.colors,file
+SleepyHollow.colorscheme,file
+SleepyHollow.conf,file
+SleepyHollow.config,file
+SleepyHollow.ini,file
+SleepyHollow.itermcolors,file
+SleepyHollow.json,file
+SleepyHollow.png,file
+SleepyHollow.reg,file
+SleepyHollow.sh,file
+SleepyHollow.theme,file
+SleepyHollow.toml,file
+SleepyHollow.xrdb,file
+Smyck,file
+Smyck.colors,file
+Smyck.colorscheme,file
+Smyck.conf,file
+Smyck.config,file
+Smyck.ini,file
+Smyck.itermcolors,file
+Smyck.itermcolors_config_0,file
+Smyck.json,file
+Smyck.reg,file
+Smyck.sh,file
+Smyck.terminal,file
+Smyck.theme,file
+Smyck.toml,file
+Smyck.xrdb,file
+Snazzy,file
+Snazzy.colors,file
+Snazzy.colorscheme,file
+Snazzy.conf,file
+Snazzy.config,file
+Snazzy.ini,file
+Snazzy.itermcolors,file
+Snazzy.json,file
+Snazzy.reg,file
+Snazzy.sh,file
+Snazzy.terminal,file
+Snazzy.theme,file
+Snazzy.toml,file
+Snazzy.xrdb,file
+SoftServer,file
+SoftServer.colors,file
+SoftServer.colorscheme,file
+SoftServer.conf,file
+SoftServer.config,file
+SoftServer.ini,file
+SoftServer.itermcolors,file
+SoftServer.itermcolors_config_0,file
+SoftServer.json,file
+SoftServer.reg,file
+SoftServer.sh,file
+SoftServer.terminal,file
+SoftServer.theme,file
+SoftServer.toml,file
+SoftServer.xrdb,file
+Solarized Darcula,file
+Solarized Darcula.colors,file
+Solarized Darcula.colorscheme,file
+Solarized Darcula.conf,file
+Solarized Darcula.config,file
+Solarized Darcula.ini,file
+Solarized Darcula.itermcolors,file
+Solarized Darcula.itermcolors_config_0,file
+Solarized Darcula.json,file
+Solarized Darcula.reg,file
+Solarized Darcula.sh,file
+Solarized Darcula.terminal,file
+Solarized Darcula.theme,file
+Solarized Darcula.toml,file
+Solarized Darcula.xrdb,file
+Solarized Dark - Patched,file
+Solarized Dark - Patched.colors,file
+Solarized Dark - Patched.colorscheme,file
+Solarized Dark - Patched.conf,file
+Solarized Dark - Patched.config,file
+Solarized Dark - Patched.ini,file
+Solarized Dark - Patched.itermcolors,file
+Solarized Dark - Patched.itermcolors_config_0,file
+Solarized Dark - Patched.json,file
+Solarized Dark - Patched.reg,file
+Solarized Dark - Patched.sh,file
+Solarized Dark - Patched.terminal,file
+Solarized Dark - Patched.theme,file
+Solarized Dark - Patched.toml,file
+Solarized Dark - Patched.xrdb,file
+Solarized Dark Higher Contrast,file
+Solarized Dark Higher Contrast.colors,file
+Solarized Dark Higher Contrast.colorscheme,file
+Solarized Dark Higher Contrast.conf,file
+Solarized Dark Higher Contrast.config,file
+Solarized Dark Higher Contrast.ini,file
+Solarized Dark Higher Contrast.itermcolors,file
+Solarized Dark Higher Contrast.itermcolors_config_0,file
+Solarized Dark Higher Contrast.json,file
+Solarized Dark Higher Contrast.reg,file
+Solarized Dark Higher Contrast.sh,file
+Solarized Dark Higher Contrast.terminal,file
+Solarized Dark Higher Contrast.theme,file
+Solarized Dark Higher Contrast.toml,file
+Solarized Dark Higher Contrast.xrdb,file
+Solarized Dark.itermcolors_config_0,file
+Solarized Dark.terminal,file
+Solarized Light.itermcolors_config_0,file
+Solarized Light.terminal,file
+SpaceGray,file
+SpaceGray Eighties,file
+SpaceGray Eighties Dull,file
+SpaceGray Eighties Dull.colors,file
+SpaceGray Eighties Dull.colorscheme,file
+SpaceGray Eighties Dull.conf,file
+SpaceGray Eighties Dull.config,file
+SpaceGray Eighties Dull.ini,file
+SpaceGray Eighties Dull.itermcolors,file
+SpaceGray Eighties Dull.itermcolors_config_0,file
+SpaceGray Eighties Dull.json,file
+SpaceGray Eighties Dull.reg,file
+SpaceGray Eighties Dull.sh,file
+SpaceGray Eighties Dull.terminal,file
+SpaceGray Eighties Dull.theme,file
+SpaceGray Eighties Dull.toml,file
+SpaceGray Eighties Dull.xrdb,file
+SpaceGray Eighties.colors,file
+SpaceGray Eighties.colorscheme,file
+SpaceGray Eighties.conf,file
+SpaceGray Eighties.config,file
+SpaceGray Eighties.ini,file
+SpaceGray Eighties.itermcolors,file
+SpaceGray Eighties.itermcolors_config_0,file
+SpaceGray Eighties.json,file
+SpaceGray Eighties.reg,file
+SpaceGray Eighties.sh,file
+SpaceGray Eighties.terminal,file
+SpaceGray Eighties.theme,file
+SpaceGray Eighties.toml,file
+SpaceGray Eighties.xrdb,file
+SpaceGray.colors,file
+SpaceGray.colorscheme,file
+SpaceGray.conf,file
+SpaceGray.config,file
+SpaceGray.ini,file
+SpaceGray.itermcolors,file
+SpaceGray.itermcolors_config_0,file
+SpaceGray.json,file
+SpaceGray.reg,file
+SpaceGray.sh,file
+SpaceGray.terminal,file
+SpaceGray.theme,file
+SpaceGray.toml,file
+SpaceGray.xrdb,file
+Spacedust,file
+Spacedust.colors,file
+Spacedust.colorscheme,file
+Spacedust.conf,file
+Spacedust.config,file
+Spacedust.ini,file
+Spacedust.itermcolors,file
+Spacedust.itermcolors_config_0,file
+Spacedust.json,file
+Spacedust.reg,file
+Spacedust.sh,file
+Spacedust.terminal,file
+Spacedust.theme,file
+Spacedust.toml,file
+Spacedust.xrdb,file
+Spiderman,file
+Spiderman.colors,file
+Spiderman.colorscheme,file
+Spiderman.conf,file
+Spiderman.config,file
+Spiderman.ini,file
+Spiderman.itermcolors,file
+Spiderman.itermcolors_config_0,file
+Spiderman.json,file
+Spiderman.reg,file
+Spiderman.sh,file
+Spiderman.terminal,file
+Spiderman.theme,file
+Spiderman.toml,file
+Spiderman.xrdb,file
+Spring,file
+Spring.colors,file
+Spring.colorscheme,file
+Spring.conf,file
+Spring.config,file
+Spring.ini,file
+Spring.itermcolors,file
+Spring.itermcolors_config_0,file
+Spring.json,file
+Spring.reg,file
+Spring.sh,file
+Spring.terminal,file
+Spring.theme,file
+Spring.toml,file
+Spring.xrdb,file
+Square,file
+Square.colors,file
+Square.colorscheme,file
+Square.conf,file
+Square.config,file
+Square.ini,file
+Square.itermcolors,file
+Square.itermcolors_config_0,file
+Square.json,file
+Square.reg,file
+Square.sh,file
+Square.terminal,file
+Square.theme,file
+Square.toml,file
+Square.xrdb,file
+Subliminal,file
+Subliminal.colors,file
+Subliminal.colorscheme,file
+Subliminal.conf,file
+Subliminal.config,file
+Subliminal.ini,file
+Subliminal.itermcolors,file
+Subliminal.json,file
+Subliminal.reg,file
+Subliminal.sh,file
+Subliminal.theme,file
+Subliminal.toml,file
+Subliminal.xrdb,file
+Sundried,file
+Sundried.colors,file
+Sundried.colorscheme,file
+Sundried.conf,file
+Sundried.config,file
+Sundried.ini,file
+Sundried.itermcolors,file
+Sundried.itermcolors_config_0,file
+Sundried.json,file
+Sundried.reg,file
+Sundried.sh,file
+Sundried.terminal,file
+Sundried.theme,file
+Sundried.toml,file
+Sundried.xrdb,file
+Symfonic,file
+Symfonic.colors,file
+Symfonic.colorscheme,file
+Symfonic.conf,file
+Symfonic.config,file
+Symfonic.ini,file
+Symfonic.itermcolors,file
+Symfonic.itermcolors_config_0,file
+Symfonic.json,file
+Symfonic.reg,file
+Symfonic.sh,file
+Symfonic.terminal,file
+Symfonic.theme,file
+Symfonic.toml,file
+Symfonic.xrdb,file
+Tango Adapted,file
+Tango Adapted.colors,file
+Tango Adapted.colorscheme,file
+Tango Adapted.conf,file
+Tango Adapted.config,file
+Tango Adapted.ini,file
+Tango Adapted.itermcolors,file
+Tango Adapted.json,file
+Tango Adapted.reg,file
+Tango Adapted.sh,file
+Tango Adapted.terminal,file
+Tango Adapted.theme,file
+Tango Adapted.toml,file
+Tango Adapted.xrdb,file
+Tango Half Adapted,file
+Tango Half Adapted.colors,file
+Tango Half Adapted.colorscheme,file
+Tango Half Adapted.conf,file
+Tango Half Adapted.config,file
+Tango Half Adapted.ini,file
+Tango Half Adapted.itermcolors,file
+Tango Half Adapted.json,file
+Tango Half Adapted.reg,file
+Tango Half Adapted.sh,file
+Tango Half Adapted.terminal,file
+Tango Half Adapted.theme,file
+Tango Half Adapted.toml,file
+Tango Half Adapted.xrdb,file
+Teerb,file
+Teerb.colors,file
+Teerb.colorscheme,file
+Teerb.conf,file
+Teerb.config,file
+Teerb.ini,file
+Teerb.itermcolors,file
+Teerb.itermcolors_config_0,file
+Teerb.json,file
+Teerb.reg,file
+Teerb.sh,file
+Teerb.terminal,file
+Teerb.theme,file
+Teerb.toml,file
+Teerb.xrdb,file
+Terminal Basic,file
+Terminal Basic.colors,file
+Terminal Basic.colorscheme,file
+Terminal Basic.conf,file
+Terminal Basic.config,file
+Terminal Basic.ini,file
+Terminal Basic.itermcolors,file
+Terminal Basic.itermcolors_config_0,file
+Terminal Basic.json,file
+Terminal Basic.reg,file
+Terminal Basic.sh,file
+Terminal Basic.terminal,file
+Terminal Basic.theme,file
+Terminal Basic.toml,file
+Terminal Basic.xrdb,file
+Thayer Bright,file
+Thayer Bright.colors,file
+Thayer Bright.colorscheme,file
+Thayer Bright.conf,file
+Thayer Bright.config,file
+Thayer Bright.ini,file
+Thayer Bright.itermcolors,file
+Thayer Bright.itermcolors_config_0,file
+Thayer Bright.json,file
+Thayer Bright.reg,file
+Thayer Bright.sh,file
+Thayer Bright.terminal,file
+Thayer Bright.theme,file
+Thayer Bright.toml,file
+Thayer Bright.xrdb,file
+The Hulk,file
+The Hulk.colors,file
+The Hulk.colorscheme,file
+The Hulk.conf,file
+The Hulk.config,file
+The Hulk.ini,file
+The Hulk.itermcolors,file
+The Hulk.itermcolors_config_0,file
+The Hulk.json,file
+The Hulk.reg,file
+The Hulk.sh,file
+The Hulk.terminal,file
+The Hulk.theme,file
+The Hulk.toml,file
+The Hulk.xrdb,file
+Tomorrow,file
+Tomorrow Night,file
+Tomorrow Night Blue,file
+Tomorrow Night Blue.colors,file
+Tomorrow Night Blue.colorscheme,file
+Tomorrow Night Blue.conf,file
+Tomorrow Night Blue.config,file
+Tomorrow Night Blue.ini,file
+Tomorrow Night Blue.itermcolors,file
+Tomorrow Night Blue.itermcolors_config_0,file
+Tomorrow Night Blue.json,file
+Tomorrow Night Blue.reg,file
+Tomorrow Night Blue.sh,file
+Tomorrow Night Blue.terminal,file
+Tomorrow Night Blue.theme,file
+Tomorrow Night Blue.toml,file
+Tomorrow Night Blue.xrdb,file
+Tomorrow Night Bright,file
+Tomorrow Night Bright.colors,file
+Tomorrow Night Bright.colorscheme,file
+Tomorrow Night Bright.conf,file
+Tomorrow Night Bright.config,file
+Tomorrow Night Bright.ini,file
+Tomorrow Night Bright.itermcolors,file
+Tomorrow Night Bright.itermcolors_config_0,file
+Tomorrow Night Bright.json,file
+Tomorrow Night Bright.reg,file
+Tomorrow Night Bright.sh,file
+Tomorrow Night Bright.terminal,file
+Tomorrow Night Bright.theme,file
+Tomorrow Night Bright.toml,file
+Tomorrow Night Bright.xrdb,file
+Tomorrow Night Burns,file
+Tomorrow Night Burns.colors,file
+Tomorrow Night Burns.colorscheme,file
+Tomorrow Night Burns.conf,file
+Tomorrow Night Burns.config,file
+Tomorrow Night Burns.ini,file
+Tomorrow Night Burns.itermcolors,file
+Tomorrow Night Burns.json,file
+Tomorrow Night Burns.reg,file
+Tomorrow Night Burns.sh,file
+Tomorrow Night Burns.theme,file
+Tomorrow Night Burns.toml,file
+Tomorrow Night Burns.xrdb,file
+Tomorrow Night Eighties,file
+Tomorrow Night Eighties.colors,file
+Tomorrow Night Eighties.colorscheme,file
+Tomorrow Night Eighties.conf,file
+Tomorrow Night Eighties.config,file
+Tomorrow Night Eighties.ini,file
+Tomorrow Night Eighties.itermcolors,file
+Tomorrow Night Eighties.itermcolors_config_0,file
+Tomorrow Night Eighties.json,file
+Tomorrow Night Eighties.reg,file
+Tomorrow Night Eighties.sh,file
+Tomorrow Night Eighties.terminal,file
+Tomorrow Night Eighties.theme,file
+Tomorrow Night Eighties.toml,file
+Tomorrow Night Eighties.xrdb,file
+Tomorrow Night.colors,file
+Tomorrow Night.colorscheme,file
+Tomorrow Night.conf,file
+Tomorrow Night.config,file
+Tomorrow Night.ini,file
+Tomorrow Night.itermcolors,file
+Tomorrow Night.itermcolors_config_0,file
+Tomorrow Night.json,file
+Tomorrow Night.reg,file
+Tomorrow Night.sh,file
+Tomorrow Night.terminal,file
+Tomorrow Night.theme,file
+Tomorrow Night.toml,file
+Tomorrow Night.xrdb,file
+Tomorrow.colors,file
+Tomorrow.colorscheme,file
+Tomorrow.conf,file
+Tomorrow.config,file
+Tomorrow.ini,file
+Tomorrow.itermcolors,file
+Tomorrow.itermcolors_config_0,file
+Tomorrow.json,file
+Tomorrow.reg,file
+Tomorrow.sh,file
+Tomorrow.terminal,file
+Tomorrow.theme,file
+Tomorrow.toml,file
+Tomorrow.xrdb,file
+ToyChest,file
+ToyChest.colors,file
+ToyChest.colorscheme,file
+ToyChest.conf,file
+ToyChest.config,file
+ToyChest.ini,file
+ToyChest.itermcolors,file
+ToyChest.itermcolors_config_0,file
+ToyChest.json,file
+ToyChest.reg,file
+ToyChest.sh,file
+ToyChest.terminal,file
+ToyChest.theme,file
+ToyChest.toml,file
+ToyChest.xrdb,file
+Treehouse,file
+Treehouse.colors,file
+Treehouse.colorscheme,file
+Treehouse.conf,file
+Treehouse.config,file
+Treehouse.ini,file
+Treehouse.itermcolors,file
+Treehouse.itermcolors_config_0,file
+Treehouse.json,file
+Treehouse.reg,file
+Treehouse.sh,file
+Treehouse.terminal,file
+Treehouse.theme,file
+Treehouse.toml,file
+Treehouse.xrdb,file
+Twilight,file
+Twilight.colors,file
+Twilight.colorscheme,file
+Twilight.conf,file
+Twilight.config,file
+Twilight.ini,file
+Twilight.itermcolors,file
+Twilight.itermcolors_config_0,file
+Twilight.json,file
+Twilight.reg,file
+Twilight.sh,file
+Twilight.terminal,file
+Twilight.theme,file
+Twilight.toml,file
+Twilight.xrdb,file
+Ubuntu,file
+Ubuntu.colors,file
+Ubuntu.colorscheme,file
+Ubuntu.conf,file
+Ubuntu.config,file
+Ubuntu.ini,file
+Ubuntu.itermcolors,file
+Ubuntu.itermcolors_config_0,file
+Ubuntu.json,file
+Ubuntu.reg,file
+Ubuntu.sh,file
+Ubuntu.terminal,file
+Ubuntu.theme,file
+Ubuntu.toml,file
+Ubuntu.xrdb,file
+UltraViolent,file
+UltraViolent.colors,file
+UltraViolent.colorscheme,file
+UltraViolent.conf,file
+UltraViolent.config,file
+UltraViolent.ini,file
+UltraViolent.itermcolors,file
+UltraViolent.json,file
+UltraViolent.reg,file
+UltraViolent.sh,file
+UltraViolent.theme,file
+UltraViolent.toml,file
+UltraViolent.xrdb,file
+UnderTheSea,file
+UnderTheSea.colors,file
+UnderTheSea.colorscheme,file
+UnderTheSea.conf,file
+UnderTheSea.config,file
+UnderTheSea.ini,file
+UnderTheSea.itermcolors,file
+UnderTheSea.itermcolors_config_0,file
+UnderTheSea.json,file
+UnderTheSea.reg,file
+UnderTheSea.sh,file
+UnderTheSea.terminal,file
+UnderTheSea.theme,file
+UnderTheSea.toml,file
+UnderTheSea.xrdb,file
+Unikitty,file
+Unikitty.colors,file
+Unikitty.colorscheme,file
+Unikitty.conf,file
+Unikitty.config,file
+Unikitty.ini,file
+Unikitty.itermcolors,file
+Unikitty.json,file
+Unikitty.reg,file
+Unikitty.sh,file
+Unikitty.theme,file
+Unikitty.toml,file
+Unikitty.xrdb,file
+Urple,file
+Urple.colors,file
+Urple.colorscheme,file
+Urple.conf,file
+Urple.config,file
+Urple.ini,file
+Urple.itermcolors,file
+Urple.itermcolors_config_0,file
+Urple.json,file
+Urple.reg,file
+Urple.sh,file
+Urple.terminal,file
+Urple.theme,file
+Urple.toml,file
+Urple.xrdb,file
+Vaughn,file
+Vaughn.colors,file
+Vaughn.colorscheme,file
+Vaughn.conf,file
+Vaughn.config,file
+Vaughn.ini,file
+Vaughn.itermcolors,file
+Vaughn.itermcolors_config_0,file
+Vaughn.json,file
+Vaughn.reg,file
+Vaughn.sh,file
+Vaughn.terminal,file
+Vaughn.theme,file
+Vaughn.toml,file
+Vaughn.xrdb,file
+VibrantInk,file
+VibrantInk.colors,file
+VibrantInk.colorscheme,file
+VibrantInk.conf,file
+VibrantInk.config,file
+VibrantInk.ini,file
+VibrantInk.itermcolors,file
+VibrantInk.itermcolors_config_0,file
+VibrantInk.json,file
+VibrantInk.reg,file
+VibrantInk.sh,file
+VibrantInk.terminal,file
+VibrantInk.theme,file
+VibrantInk.toml,file
+VibrantInk.xrdb,file
+Violet Dark,file
+Violet Dark.colors,file
+Violet Dark.colorscheme,file
+Violet Dark.conf,file
+Violet Dark.config,file
+Violet Dark.ini,file
+Violet Dark.itermcolors,file
+Violet Dark.itermcolors_config_0,file
+Violet Dark.json,file
+Violet Dark.reg,file
+Violet Dark.sh,file
+Violet Dark.terminal,file
+Violet Dark.theme,file
+Violet Dark.toml,file
+Violet Dark.xrdb,file
+Violet Light,file
+Violet Light.colors,file
+Violet Light.colorscheme,file
+Violet Light.conf,file
+Violet Light.config,file
+Violet Light.ini,file
+Violet Light.itermcolors,file
+Violet Light.itermcolors_config_0,file
+Violet Light.json,file
+Violet Light.reg,file
+Violet Light.sh,file
+Violet Light.terminal,file
+Violet Light.theme,file
+Violet Light.toml,file
+Violet Light.xrdb,file
+WarmNeon,file
+WarmNeon.colors,file
+WarmNeon.colorscheme,file
+WarmNeon.conf,file
+WarmNeon.config,file
+WarmNeon.ini,file
+WarmNeon.itermcolors,file
+WarmNeon.itermcolors_config_0,file
+WarmNeon.json,file
+WarmNeon.reg,file
+WarmNeon.sh,file
+WarmNeon.terminal,file
+WarmNeon.theme,file
+WarmNeon.toml,file
+WarmNeon.xrdb,file
+Wez,file
+Wez.colors,file
+Wez.colorscheme,file
+Wez.conf,file
+Wez.config,file
+Wez.ini,file
+Wez.itermcolors,file
+Wez.itermcolors_config_0,file
+Wez.json,file
+Wez.reg,file
+Wez.sh,file
+Wez.terminal,file
+Wez.theme,file
+Wez.toml,file
+Wez.xrdb,file
+Whimsy,file
+Whimsy.colors,file
+Whimsy.colorscheme,file
+Whimsy.conf,file
+Whimsy.config,file
+Whimsy.ini,file
+Whimsy.itermcolors,file
+Whimsy.json,file
+Whimsy.reg,file
+Whimsy.sh,file
+Whimsy.theme,file
+Whimsy.toml,file
+Whimsy.xrdb,file
+WildCherry,file
+WildCherry.colors,file
+WildCherry.colorscheme,file
+WildCherry.conf,file
+WildCherry.config,file
+WildCherry.ini,file
+WildCherry.itermcolors,file
+WildCherry.itermcolors_config_0,file
+WildCherry.json,file
+WildCherry.reg,file
+WildCherry.sh,file
+WildCherry.terminal,file
+WildCherry.theme,file
+WildCherry.toml,file
+WildCherry.xrdb,file
+Wombat,file
+Wombat.colors,file
+Wombat.colorscheme,file
+Wombat.conf,file
+Wombat.config,file
+Wombat.ini,file
+Wombat.itermcolors,file
+Wombat.itermcolors_config_0,file
+Wombat.json,file
+Wombat.reg,file
+Wombat.sh,file
+Wombat.terminal,file
+Wombat.theme,file
+Wombat.toml,file
+Wombat.xrdb,file
+Wryan,file
+Wryan.colors,file
+Wryan.colorscheme,file
+Wryan.conf,file
+Wryan.config,file
+Wryan.ini,file
+Wryan.itermcolors,file
+Wryan.itermcolors_config_0,file
+Wryan.json,file
+Wryan.reg,file
+Wryan.sh,file
+Wryan.terminal,file
+Wryan.theme,file
+Wryan.toml,file
+Wryan.xrdb,file
+Xresources,dir
+Zenburn,file
+Zenburn.colors,file
+Zenburn.colorscheme,file
+Zenburn.conf,file
+Zenburn.config,file
+Zenburn.ini,file
+Zenburn.itermcolors,file
+Zenburn.itermcolors_config_0,file
+Zenburn.json,file
+Zenburn.reg,file
+Zenburn.sh,file
+Zenburn.terminal,file
+Zenburn.theme,file
+Zenburn.toml,file
+Zenburn.xrdb,file
+adventure_time.png,file
+afterglow.png,file
+alien_blood.png,file
+andromeda.png,file
+argonaut.png,file
+arthur.png,file
+atelier-sulphurpool_dark.png,file
+atom.png,file
+atom_one_light.png,file
+ayu,file
+ayu.colors,file
+ayu.colorscheme,file
+ayu.conf,file
+ayu.config,file
+ayu.ini,file
+ayu.itermcolors,file
+ayu.itermcolors_config_0,file
+ayu.json,file
+ayu.png,file
+ayu.reg,file
+ayu.sh,file
+ayu.terminal,file
+ayu.theme,file
+ayu.toml,file
+ayu.xrdb,file
+ayu_light,file
+ayu_light.colors,file
+ayu_light.colorscheme,file
+ayu_light.conf,file
+ayu_light.config,file
+ayu_light.ini,file
+ayu_light.itermcolors,file
+ayu_light.itermcolors_config_0,file
+ayu_light.json,file
+ayu_light.png,file
+ayu_light.reg,file
+ayu_light.sh,file
+ayu_light.terminal,file
+ayu_light.theme,file
+ayu_light.toml,file
+ayu_light.xrdb,file
+backgrounds,dir
+batman.png,file
+belafonte_day.png,file
+belafonte_night.png,file
+birds_of_paradise.png,file
+blazer.png,file
+bluloco_dark.png,file
+bluloco_light.png,file
+borland.png,file
+breeze.png,file
+bright_lights.png,file
+broadcast.png,file
+brogrammer.png,file
+builtin_dark.png,file
+builtin_light.png,file
+builtin_pastel_dark.png,file
+builtin_solarized_dark.png,file
+builtin_solarized_light.png,file
+builtin_tango_dark.png,file
+builtin_tango_light.png,file
+c64.png,file
+calamity.png,file
+chalk.png,file
+chalkboard.png,file
+challenger_deep.png,file
+chester.png,file
+ciapre.png,file
+clrs.png,file
+cobalt2.png,file
+cobalt_neon.png,file
+coffee_theme,file
+coffee_theme.colors,file
+coffee_theme.colorscheme,file
+coffee_theme.conf,file
+coffee_theme.config,file
+coffee_theme.ini,file
+coffee_theme.itermcolors,file
+coffee_theme.json,file
+coffee_theme.reg,file
+coffee_theme.sh,file
+coffee_theme.theme,file
+coffee_theme.toml,file
+coffee_theme.xrdb,file
+colorschemes,dir
+crayon_pony_fish.png,file
+cyberpunk,file
+cyberpunk.colors,file
+cyberpunk.colorscheme,file
+cyberpunk.conf,file
+cyberpunk.config,file
+cyberpunk.ini,file
+cyberpunk.itermcolors,file
+cyberpunk.json,file
+cyberpunk.png,file
+cyberpunk.reg,file
+cyberpunk.sh,file
+cyberpunk.theme,file
+cyberpunk.toml,file
+cyberpunk.xrdb,file
+dark_pastel.png,file
+dark_plus.png,file
+darkside.png,file
+deep,file
+deep.colors,file
+deep.colorscheme,file
+deep.conf,file
+deep.config,file
+deep.ini,file
+deep.itermcolors,file
+deep.json,file
+deep.png,file
+deep.reg,file
+deep.sh,file
+deep.terminal,file
+deep.theme,file
+deep.toml,file
+deep.xrdb,file
+desert.png,file
+dimmed_monokai.png,file
+dot_gov.png,file
+dracula.png,file
+duotone_dark.png,file
+dynamic-colors,dir
+earthsong.png,file
+elemental.png,file
+elementary.png,file
+encom.png,file
+espresso.png,file
+espresso_libre.png,file
+fahrenheit.png,file
+fideloper.png,file
+firefox_dev.png,file
+firewatch.png,file
+fish_tank.png,file
+flat.png,file
+flatland.png,file
+floraverse.png,file
+forest_blue.png,file
+framer.png,file
+freebsd_vt,dir
+front_end_delight.png,file
+fun_forrest.png,file
+galaxy.png,file
+genHTML,file
+genMD.py,file
+github.png,file
+glacier.png,file
+grape.png,file
+grass.png,file
+gruvbox_dark.png,file
+hacktober.png,file
+hardcore.png,file
+harper.png,file
+highway.png,file
+hipster_green.png,file
+hivacruz.png,file
+homebrew.png,file
+hopscotch.png,file
+hopscotch_256.png,file
+hurtado.png,file
+hybrid.png,file
+ic_green_ppl.png,file
+ic_orange_ppl.png,file
+idea,file
+idea.colors,file
+idea.colorscheme,file
+idea.conf,file
+idea.config,file
+idea.ini,file
+idea.itermcolors,file
+idea.json,file
+idea.png,file
+idea.reg,file
+idea.sh,file
+idea.theme,file
+idea.toml,file
+idea.xrdb,file
+idleToes,file
+idleToes.colors,file
+idleToes.colorscheme,file
+idleToes.conf,file
+idleToes.config,file
+idleToes.ini,file
+idleToes.itermcolors,file
+idleToes.itermcolors_config_0,file
+idleToes.json,file
+idleToes.png,file
+idleToes.reg,file
+idleToes.sh,file
+idleToes.terminal,file
+idleToes.theme,file
+idleToes.toml,file
+idleToes.xrdb,file
+ir_black.png,file
+iterm2terminal.swift,file
+iterm2tilda.py,file
+iterm2xrdb,file
+jackie_brown.png,file
+japanesque.png,file
+jellybeans.png,file
+jetbrains_darcula.png,file
+kibble.png,file
+kitty,dir
+kolorit.png,file
+konsole,dir
+lab_fox.png,file
+later_this_evening.png,file
+lavandula.png,file
+liquid_carbon.png,file
+liquid_carbon_transparent.png,file
+liquid_carbon_transparent_inverse.png,file
+lovelace,file
+lovelace.colors,file
+lovelace.colorscheme,file
+lovelace.conf,file
+lovelace.config,file
+lovelace.ini,file
+lovelace.itermcolors,file
+lovelace.json,file
+lovelace.reg,file
+lovelace.sh,file
+lovelace.theme,file
+lovelace.toml,file
+lovelace.xrdb,file
+lxterminal,dir
+man_page.png,file
+material.png,file
+material_dark.png,file
+material_ocean.png,file
+mathias.png,file
+medallion.png,file
+midnight-in-mojave,file
+midnight-in-mojave.colors,file
+midnight-in-mojave.colorscheme,file
+midnight-in-mojave.conf,file
+midnight-in-mojave.config,file
+midnight-in-mojave.ini,file
+midnight-in-mojave.itermcolors,file
+midnight-in-mojave.json,file
+midnight-in-mojave.reg,file
+midnight-in-mojave.sh,file
+midnight-in-mojave.theme,file
+midnight-in-mojave.toml,file
+midnight-in-mojave.xrdb,file
+midnight_in_mojave.png,file
+misterioso.png,file
+mobaxterm,dir
+molokai.png,file
+mona_lisa.png,file
+monokai_remastered.png,file
+monokai_soda.png,file
+monokai_vivid.png,file
+n0tch2k.png,file
+neopolitan.png,file
+neutron.png,file
+night_owlish_light.png,file
+nightlion_v1.png,file
+nightlion_v2.png,file
+nocturnal_winter.png,file
+novel.png,file
+obsidian.png,file
+ocean.png,file
+oceanic_material.png,file
+ollie.png,file
+onehalfdark.png,file
+onehalflight.png,file
+operator_mono_dark.png,file
+pandora.png,file
+pantheonterminal,dir
+paraiso_dark.png,file
+paul_millr.png,file
+pencil_dark.png,file
+pencil_light.png,file
+piatto_light.png,file
+pnevma.png,file
+preview.rb,file
+primary,file
+primary.colors,file
+primary.colorscheme,file
+primary.conf,file
+primary.config,file
+primary.ini,file
+primary.itermcolors,file
+primary.json,file
+primary.png,file
+primary.reg,file
+primary.sh,file
+primary.theme,file
+primary.toml,file
+primary.xrdb,file
+pro.png,file
+pro_light.png,file
+purple_rain.png,file
+purplepeter,file
+purplepeter.colors,file
+purplepeter.colorscheme,file
+purplepeter.conf,file
+purplepeter.config,file
+purplepeter.ini,file
+purplepeter.itermcolors,file
+purplepeter.json,file
+purplepeter.png,file
+purplepeter.reg,file
+purplepeter.sh,file
+purplepeter.theme,file
+purplepeter.toml,file
+purplepeter.xrdb,file
+putty,dir
+rebecca,file
+rebecca.colors,file
+rebecca.colorscheme,file
+rebecca.conf,file
+rebecca.config,file
+rebecca.ini,file
+rebecca.itermcolors,file
+rebecca.json,file
+rebecca.png,file
+rebecca.reg,file
+rebecca.sh,file
+rebecca.theme,file
+rebecca.toml,file
+rebecca.xrdb,file
+red_alert.png,file
+red_planet.png,file
+red_sands.png,file
+relaxed.png,file
+remmina,dir
+rippedcasts.png,file
+royal.png,file
+ryuuko.png,file
+schemes,dir
+screenshotTable.sh,file
+screenshots,dir
+sea_shells.png,file
+seafoam_pastel.png,file
+seti.png,file
+shades-of-purple,file
+shades-of-purple.colors,file
+shades-of-purple.colorscheme,file
+shades-of-purple.conf,file
+shades-of-purple.config,file
+shades-of-purple.ini,file
+shades-of-purple.itermcolors,file
+shades-of-purple.json,file
+shades-of-purple.reg,file
+shades-of-purple.sh,file
+shades-of-purple.theme,file
+shades-of-purple.toml,file
+shades-of-purple.xrdb,file
+shaman.png,file
+slate.png,file
+smyck.png,file
+snazzy.png,file
+soft_server.png,file
+solarized_darcula.jpg,file
+solarized_darcula.png,file
+solarized_darcula_with_background.png,file
+solarized_dark_higher_contrast.png,file
+solarized_dark_patched.png,file
+space_gray.png,file
+spacedust.png,file
+spacegray_eighties.png,file
+spacegray_eighties_dull.png,file
+spiderman.png,file
+spring.png,file
+square.png,file
+subliminal.png,file
+sundried.png,file
+symfonic.png,file
+synthwave,file
+synthwave.colors,file
+synthwave.colorscheme,file
+synthwave.conf,file
+synthwave.config,file
+synthwave.ini,file
+synthwave.itermcolors,file
+synthwave.json,file
+synthwave.png,file
+synthwave.reg,file
+synthwave.sh,file
+synthwave.terminal,file
+synthwave.theme,file
+synthwave.toml,file
+synthwave.xrdb,file
+tango_adapted.png,file
+tango_half_adapted.png,file
+teerb.png,file
+terminal,dir
+terminal_basic.png,file
+terminator,dir
+termite,dir
+thayer_bright.png,file
+the_hulk.png,file
+tilda,dir
+tomorrow.png,file
+tomorrow_night.png,file
+tomorrow_night_blue.png,file
+tomorrow_night_bright.png,file
+tomorrow_night_burns.png,file
+tomorrow_night_eighties.png,file
+tools,dir
+toy_chest.png,file
+treehouse.png,file
+twilight.png,file
+ubuntu.png,file
+ultra_violent.png,file
+under_the_sea.png,file
+unikitty.png,file
+update_all.py,file
+urple.png,file
+vaughn.png,file
+vibrant_ink.png,file
+violet_dark.png,file
+violet_light.png,file
+vscode,dir
+warm_neon.png,file
+wez.png,file
+wezterm,dir
+whimsy.png,file
+wild_cherry.png,file
+windowsterminal,dir
+windowsterminal2vscode.ps1,file
+wombat.png,file
+wryan.png,file
+xfce4terminal,dir
+xrdb,dir
+xrdb2Remmina.py,file
+xrdb2Termite.py,file
+xrdb2Xresources.py,file
+xrdb2dynamic_color.py,file
+xrdb2freebsd_vt.py,file
+xrdb2hterm,file
+xrdb2kitty.py,file
+xrdb2konsole.py,file
+xrdb2konsole.pyc,file
+xrdb2lxterm.py,file
+xrdb2moba.py,file
+xrdb2pantheon_terminal.py,file
+xrdb2putty.py,file
+xrdb2terminator.py,file
+xrdb2terminator.pyc,file
+xrdb2wezterm.py,file
+xrdb2windowsterminal.py,file
+xrdb2xfce_terminal.py,file
+xrdbparser.py,file
+zenburn.png,file

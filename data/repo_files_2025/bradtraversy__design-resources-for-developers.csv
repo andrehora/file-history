@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.prettierignore,file
+LICENSE,file
+contributing.md,file
+headerimage.png,file
+pull_request_template.md,file
+readme.md,file

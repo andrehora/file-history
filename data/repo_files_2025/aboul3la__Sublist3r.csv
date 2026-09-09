@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE,file
+MANIFEST.in,file
+README.md,file
+__init__.py,file
+names.txt,file
+requirements.txt,file
+resolvers.txt,file
+setup.py,file
+subbrute,dir
+subbrute.py,file
+sublist3r.py,file

@@ -1,0 +1,37 @@
+name,type
+---bug-report.yml,file
+---feature-request.yaml,file
+.agents,dir
+.claude,dir
+.claude-plugin,dir
+.cursor,dir
+.github,dir
+.gitignore,file
+App Icon - White.png,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+Logo - Black (1).jpg,file
+README.md,file
+SKILL.md,file
+assets,dir
+close-inactive-tickets.yml,file
+cover.png,file
+daily in development mode.png,file
+daily-dev-ask,dir
+daily-dev-ask,file
+daily.dev,dir
+daily.dev,file
+docker-compose-up.gif,file
+github repo banner with browser.png,file
+github repo star graphic.png,file
+github-repo-logo.gif,file
+logo.png,file
+marketplace.json,file
+plugin.json,file
+plugins,dir
+setting up,dir
+skills,dir
+statusline,dir
+statusline.mjs,file
+trends,dir
+workflows,dir

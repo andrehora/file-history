@@ -1,0 +1,78 @@
+name,type
+.github,dir
+1-1_placeholder.png,file
+1-2_placeholder.png,file
+1-3_placeholder.png,file
+1-4_placeholder.png,file
+1-5_placeholder.png,file
+1-6_placeholder.png,file
+1.1 The CIA triad and other key concepts.md,file
+1.2 Common cybersecurity threats.md,file
+1.3 Understanding risk management.md,file
+1.4 Security practices and documentation.md,file
+1.5 Zero trust.md,file
+1.6 Shared responsibility model.md,file
+1.7 End of module quiz.md,file
+2-1_placeholder.png,file
+2-2_placeholder.png,file
+2-3_placeholder.png,file
+2.1 IAM key concepts.md,file
+2.2 IAM zero trust architecture.md,file
+2.3 IAM capabilities.md,file
+2.4 End of module quiz.md,file
+3-1_placeholder.png,file
+3-2_placeholder.png,file
+3-3_placeholder.png,file
+3.1 Networking key concepts.md,file
+3.2 Networking zero trust architecture.md,file
+3.3 Network security capabilities.md,file
+3.4 End of module quiz.md,file
+4-1_placeholder.png,file
+4-2_placeholder.png,file
+4-3_placeholder.png,file
+4.1 SecOps key concepts.md,file
+4.2 SecOps zero trust architecture.md,file
+4.3 SecOps capabilities.md,file
+4.4 End of module quiz.md,file
+5-1_placeholder.png,file
+5-2_placeholder.png,file
+5.1 AppSec key concepts.md,file
+5.2 AppSec key capabilities.md,file
+5.3 End of module quiz.md,file
+6-1_placeholder.png,file
+6-2_placeholder.png,file
+6.1 Infrastructure security key concepts.md,file
+6.2 Infrastructure security capabilities.md,file
+6.3 End of module quiz.md,file
+7-1_placeholder.png,file
+7-2_placeholder.png,file
+7.1 Data security key concepts.md,file
+7.2 Data security capabilities.md,file
+7.3 End of module quiz.md,file
+8-1_placeholder.png,file
+8-2_placeholder.png,file
+8-3_placeholder.png,file
+8.1 AI security key concepts.md,file
+8.2 AI security capabilities.md,file
+8.3 Responsible AI.md,file
+8.4 End of module quiz.md,file
+CODE_OF_CONDUCT.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+SECURITY.md,file
+SUPPORT.md,file
+banner.jpg,file
+bug_report.md,file
+ciatriad.png,file
+circleofrisk.png,file
+deploy.yaml,file
+favicon.png,file
+feature_request.md,file
+images,dir
+index.html,file
+intro_placeholder.png,file
+jekyll-gh-pages.yml,file
+osilayers.png,file
+swisscheese.png,file
+workflows,dir

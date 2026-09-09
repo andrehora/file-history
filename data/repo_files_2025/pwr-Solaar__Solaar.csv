@@ -1,0 +1,316 @@
+name,type
+.coveragerc,file
+.git-blame-ignore-revs,file
+.github,dir
+.gitignore,file
+.pre-commit-config.yaml,file
+.python-version,file
+00README.txt,file
+20121210110342697.pdf,file
+42-logitech-unify-permissions.rules,file
+Bluetooth Multi-Device Keyboard K380 B342.txt,file
+Bolt Receiver C548.txt,file
+CHANGELOG.md,file
+COPYRIGHT,file
+Candy companion chip 405F.txt,file
+Couch Mouse M515 4007.txt,file
+Craft Advanced Keyboard 4066.txt,file
+Craft Advanced Keyboard B350.txt,file
+ERGO M575 Trackball 4096.txt,file
+EX100 Receiver 27 Mhz C517.text,file
+G Pro Wireless Gaming Mouse 4079.txt,file
+G213 Prodigy Gaming Keyboard C366.txt,file
+G304 Lightspeed Wireless Gaming Mouse 4074.txt,file
+G305 Lightspeed Wireless Gaming Mouse 4074.text,file
+G502 Gaming Mouse C07D.text,file
+G502 Lightspeed Wireless Gaming Mouse 407F.txt,file
+G502 Proteus Spectrum Optical Mouse C332.txt,file
+G502 SE Hero Gaming Mouse C08B.txt,file
+G502 X C099.txt,file
+G535 Wireless Gaming Headset 0AC4.txt,file
+G600 Gaming Mouse C24A.txt,file
+G613 Wireless Mechanical Gaming Keyboard 4065.txt,file
+G703 Wired-Wireless Gaming Mouse 4070.txt,file
+G733 Gaming Headset 0AB5.text,file
+G733 Gaming Headset 0AFE.text,file
+G815 Mechanical Keyboard C33F.txt,file
+G903 LIGHTSPEED Wireless Gaming Mouse 4087.txt,file
+G915 TKL LIGHTSPEED Wireless RGB Mechanical Gaming Keyboard 408E.txt,file
+G915 WIRELESS RGB MECHANICAL GAMING KEYBOARD 407C.text,file
+G915 WIRELESS RGB MECHANICAL GAMING KEYBOARD C33E.text,file
+G915 WIRELESS RGB Mechanical Gaming Keyboard 407E.txt,file
+G935 Gaming Headset 0A87.txt,file
+ISSUE_TEMPLATE,dir
+Illuminated Keyboard C318.txt,file
+Illuminated Living-Room Keyboard K830 4032.txt,file
+K850 Performance Wireless Keyboard 4062.txt,file
+K850 Performance Wireless Keyboard B34D.txt,file
+Keyboard K600 TV 4078.txt,file
+LICENSE.txt,file
+LIFT For Business B033.txt,file
+LIFT VERTICAL ERGONOMIC MOUSE B031.txt,file
+Lightspeed Receiver C539.txt,file
+Lightspeed Receiver C53A.txt,file
+Lightspeed Receiver C53D.txt,file
+Lightspeed Receiver C53F.txt,file
+Lightspeed Receiver C541.txt,file
+Lightspeed Receiver C545.txt,file
+Lightspeed Receiver C547.txt,file
+Logi Pop Keys B365.txt,file
+Logitech PRO X Wireless Gaming Headset 0ABA.txt,file
+M720 Triathlon Multi-Device Mouse 405E.txt,file
+M720 Triathlon Multi-Device Mouse B015.txt,file
+MANIFEST.in,file
+MX Anywhere 3 4090.txt,file
+MX Anywhere 3 B025.txt,file
+MX Ergo Multi-Device Trackball 406F.txt,file
+MX Keys Keyboard 408A.txt,file
+MX Keys Keyboard B35B.txt,file
+MX Keys Mini B369.txt,file
+MX Keys S B378.text,file
+MX Keys for Business B363.text,file
+MX Master 3 Wireless Mouse 4082.txt,file
+MX Master 3 Wireless Mouse B023.txt,file
+MX Master 3 for Business B028.text,file
+MX Master 3S B034.txt,file
+MX Mechanical B366.txt,file
+MX Mechanical Mini B367.txt,file
+MX Vertical Wireless Mouse 407B.txt,file
+MX Vertical Wireless Mouse B020.txt,file
+Makefile,file
+Marathon Mouse M705 101B.txt,file
+Marathon Mouse M705 406D.txt,file
+Multi Device Silent Mouse M585-M590 406B.txt,file
+Nano Receiver C52F.txt,file
+Nano Receiver C534.txt,file
+Nano Receiver C535.txt,file
+Number Pad N545 2006.txt,file
+PRO X 2 40A9.text,file
+PRO X Wireless 4093.txt,file
+README,file
+README.md,file
+RELEASE.md,file
+Rechargeable Trackpad T651 B00C.txt,file
+Release_Notes.md,file
+Signature M650 L Mouse B02A.txt,file
+Solaar-main-window-back-divert.png,file
+Solaar-main-window-button-actions.png,file
+Solaar-main-window-keyboard.png,file
+Solaar-main-window-mouse.png,file
+Solaar-main-window-multiple.png,file
+Solaar-main-window-offline.png,file
+Solaar-main-window-receiver-old.png,file
+Solaar-main-window-receiver.png,file
+Solaar-menu.png,file
+Solaar-rule-editor.png,file
+Unifying Receiver C52B.txt,file
+Wireless All-in-One Keyboard TK820 4102.txt,file
+Wireless Illuminated Keyboard K800 2010.txt,file
+Wireless Illuminated Keyboard K800 new 406E.txt,file
+Wireless Keyboard 4075.txt,file
+Wireless Keyboard Dell KB714 4015.txt,file
+Wireless Keyboard K220 4005.txt,file
+Wireless Keyboard K230 400D.txt,file
+Wireless Keyboard K270(unifying) 4003.txt,file
+Wireless Keyboard K360 4004.txt,file
+Wireless Keyboard K470 4075.txt,file
+Wireless Keyboard K520 2011.txt,file
+Wireless Keyboard MK270 4023.txt,file
+Wireless Mobile Mouse MX Anywhere 2 4072.txt,file
+Wireless Mobile Mouse MX Anywhere 2S 406A.txt,file
+Wireless Mobile Mouse MX Anywhere 2S B01A.txt,file
+Wireless Mouse 4022.txt,file
+Wireless Mouse Dell WM514 4029.txt,file
+Wireless Mouse M185 new 4054.txt,file
+"Wireless Mouse M185,M235,M310 4055.txt",file
+Wireless Mouse M215 2nd Gen 401B.txt,file
+Wireless Mouse M310 M310t 4031.txt,file
+Wireless Mouse M325 400A.txt,file
+Wireless Mouse M345 4017.txt,file
+Wireless Mouse M510 1025.txt,file
+Wireless Mouse M510 4051.txt,file
+Wireless Mouse M525 4013.txt,file
+Wireless Mouse M560 402D.txt,file
+Wireless Mouse MX Anywhere 2 404A.txt,file
+Wireless Mouse MX Master 2S 4069.txt,file
+Wireless Mouse MX Master 2S B019.txt,file
+Wireless Mouse MX Master 4041.txt,file
+Wireless Mouse MX Master 4071.txt,file
+Wireless Mouse MX Master B012.txt,file
+Wireless Mouse Pebble M350 4080.txt,file
+Wireless Multi-Device Keyboard K780 405B.txt,file
+Wireless Rechargeable Touchpad T650 4101.txt,file
+Wireless Solar Keyboard K750 4002.txt,file
+Wireless Touch Keyboard K400 4024.txt,file
+Wireless Touch Keyboard K400 Plus 404D.txt,file
+Wireless Trackball M570 1028.txt,file
+Zone Touch Mouse T400 4026.txt,file
+__init__.py,file
+about,dir
+about.py,file
+action.py,file
+anywhere-mx.txt,file
+applications,dir
+autostart,dir
+base.py,file
+base_usb.py,file
+bin,dir
+bug_report.md,file
+ca.po,file
+capabilities.md,file
+checks.yml,file
+clean.sh,file
+cli,dir
+common.py,file
+config.py,file
+config_panel.py,file
+configuration.py,file
+cs.po,file
+da.po,file
+data.py,file
+dbus.py,file
+de.po,file
+debian.md,file
+descriptors.py,file
+desktop_notifications.py,file
+device.py,file
+devices,dir
+devices.md,file
+diversion.py,file
+diversion_rules.py,file
+docs,dir
+el.po,file
+es.po,file
+exceptions.py,file
+fake_hidpp.py,file
+favicon.ico,file
+favicon.png,file
+feature_request.md,file
+features.md,file
+fi.po,file
+fr.po,file
+generate.py,file
+gh-pages.yml,file
+gtk.py,file
+hid_parser,dir
+hidapi,dir
+hidapi_impl.py,file
+hidconsole,file
+hidconsole.py,file
+hidpp-documentation.txt,file
+hidpp10.py,file
+hidpp10_constants.py,file
+hidpp20.py,file
+hidpp20_constants.py,file
+hr.po,file
+i18n.md,file
+i18n.py,file
+icons,dir
+icons.py,file
+id.po,file
+img,dir
+implementation.md,file
+index.md,file
+installation.md,file
+io.github.pwr_solaar.solaar.metainfo.xml,file
+it.po,file
+ja.po,file
+keysymdef.py,file
+keysyms,dir
+lib,dir
+listener.py,file
+logitech_receiver,dir
+mk700.txt,file
+mkdocs.yml,file
+model.py,file
+nb.po,file
+nl.po,file
+nn.po,file
+notifications.py,file
+pair.py,file
+pair_window.py,file
+performance-mx.txt,file
+pl.po,file
+po,dir
+po-compile.sh,file
+po-update.sh,file
+presenter.py,file
+probe.py,file
+profiles.py,file
+pt.po,file
+pt_BR.po,file
+pyproject.toml,file
+receiver.py,file
+release.sh,file
+ro.po,file
+ru.po,file
+rule_actions.py,file
+rule_base.py,file
+rule_conditions.py,file
+rules.d,dir
+rules.d-uinput,dir
+rules.md,file
+scan-registers.sh,file
+screenshots,dir
+settings.py,file
+settings_templates.py,file
+setup.py,file
+share,dir
+show.py,file
+sk.po,file
+solaar,dir
+solaar,file
+solaar-attention.svg,file
+solaar-init.svg,file
+solaar-light_000.png,file
+solaar-light_020.png,file
+solaar-light_040.png,file
+solaar-light_060.png,file
+solaar-light_080.png,file
+solaar-light_100.png,file
+solaar-light_unknown.png,file
+solaar-master.svg,file
+solaar-symbolic.svg,file
+solaar.desktop,file
+solaar.pot,file
+solaar.svg,file
+special_keys.py,file
+sr.po,file
+sv.po,file
+tasks.py,file
+test_about_dialog.py,file
+test_base.py,file
+test_common.py,file
+test_data.py,file
+test_desktop_notifications.py,file
+test_device.py,file
+test_diversion.py,file
+test_hidapi.py,file
+test_hidpp10.py,file
+test_hidpp20_complex.py,file
+test_hidpp20_simple.py,file
+test_i18n.py,file
+test_keysymdef.py,file
+test_keysyms,dir
+test_notifications.py,file
+test_pair_window.py,file
+test_probe.py,file
+test_receiver.py,file
+test_setting_templates.py,file
+test_settings.py,file
+tests,dir
+tests.yml,file
+tools,dir
+tr.po,file
+tray.py,file
+udev_impl.py,file
+ui,dir
+unpair.py,file
+usage.md,file
+usb.ids.txt,file
+version,file
+view.py,file
+window.py,file
+workflows,dir
+zh_CN.po,file
+zh_TW.po,file

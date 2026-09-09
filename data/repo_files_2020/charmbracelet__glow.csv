@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+.goreleaser.yml,file
+LICENSE,file
+README.md,file
+example.png,file
+github.go,file
+gitlab.go,file
+go.mod,file
+go.sum,file
+go.yml,file
+main.go,file
+workflows,dir

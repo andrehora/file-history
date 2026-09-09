@@ -1,0 +1,26 @@
+name,type
+.vscode,dir
+C4.code-snippets,file
+C4.puml,file
+C4CoreDiagrams.md,file
+C4_Component Diagram Sample - bigbankplc.puml,file
+C4_Component.puml,file
+C4_Container Diagram Sample - bigbankplc.puml,file
+C4_Container Diagram Sample - message bus.puml,file
+C4_Container Diagram Sample - techtribesjs.puml,file
+C4_Container.puml,file
+C4_Context Diagram Sample - bigbankplc-landscape.puml,file
+C4_Context Diagram Sample - bigbankplc.puml,file
+C4_Context Diagram Sample - enterprise.puml,file
+C4_Context.puml,file
+C4_Deployment Diagram Sample - bigbankplc.puml,file
+C4_Deployment.puml,file
+C4_Dynamic Diagram Sample - bigbankplc.puml,file
+C4_Dynamic Diagram Sample - message bus.puml,file
+C4_Dynamic.puml,file
+LICENSE,file
+LayoutOptions.md,file
+README.md,file
+images,dir
+samples,dir
+vscode_c4plantuml_snippets.gif,file

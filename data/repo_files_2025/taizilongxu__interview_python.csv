@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+Readme.md,file
+builder.graffle,file
+builder.png,file
+gh-md-toc,file
+img,dir
+pattern.md,file

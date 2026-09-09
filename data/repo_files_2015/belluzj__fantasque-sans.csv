@@ -1,0 +1,22 @@
+name,type
+.gitignore,file
+FantasqueSans.sfd,file
+FantasqueSansMono-Bold.sfd,file
+FantasqueSansMono-BoldItalic.sfd,file
+FantasqueSansMono-RegItalic.sfd,file
+FantasqueSansMono-Regular.sfd,file
+Makefile,file
+OFL.txt,file
+README.md,file
+RFC page ru.pdf,file
+Sources,dir
+Specimen,dir
+Specimen.pdf,file
+Specimen.png,file
+Webfonts,dir
+kdevelop11.png,file
+pkg.sh,file
+sublime11.png,file
+urxvt13.png,file
+validate-generate,file
+vim21.png,file

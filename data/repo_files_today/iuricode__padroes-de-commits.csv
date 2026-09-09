@@ -1,0 +1,7 @@
+name,type
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+commit-msg.sh,file
+prepare-commit-msg.sh,file
+push.sh,file

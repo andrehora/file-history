@@ -1,0 +1,8 @@
+name,type
+LICENSE,file
+README.md,file
+plugins,dir
+requirements.txt,file
+xonsh_plugins_rc.xsh,file
+xonshrc.xsh,file
+xxh.xsh,file

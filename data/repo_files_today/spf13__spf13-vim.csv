@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+.vimrc,file
+.vimrc.before,file
+.vimrc.bundles,file
+.vimrc.bundles.default,file
+LICENSE.txt,file
+README.markdown,file
+bootstrap.sh,file
+config-dependencies.gv,file
+config-dependencies.png,file
+spf13-vim-windows-install.cmd,file
+spf13-vim-windows-xp-install.cmd,file
+uninstall.sh,file

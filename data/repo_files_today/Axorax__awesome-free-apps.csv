@@ -1,0 +1,31 @@
+name,type
+.github,dir
+FUNDING.yml,file
+LICENSE,file
+MOBILE.md,file
+README.md,file
+Update main file.yml,file
+afa.png,file
+android-only.md,file
+archived.md,file
+code-of-conduct.md,file
+contributing.md,file
+filter,dir
+full-guide.md,file
+how-to-make-a-pr.md,file
+iOS-only.md,file
+index.js,file
+index.test.js,file
+link count.yml,file
+linux-only.md,file
+logo.svg,file
+macOS-only.md,file
+open-source-mobile-only.md,file
+open-source-only.md,file
+pull_request_template.md,file
+recommended-mobile-only.md,file
+recommended-only.md,file
+renew-categories.yml,file
+tests,dir
+windows-only.md,file
+workflows,dir

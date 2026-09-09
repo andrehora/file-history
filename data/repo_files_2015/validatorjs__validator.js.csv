@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+LICENSE,file
+Makefile,file
+README.md,file
+bower.json,file
+client-side.js,file
+exports.js,file
+package.json,file
+sanitizers.js,file
+test,dir
+validator.js,file
+validator.min.js,file
+validators.js,file

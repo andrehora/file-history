@@ -1,0 +1,13 @@
+name,type
+README.md,file
+install1.sh,file
+install2.sh,file
+install2.sh.backup,file
+installer,dir
+isolinux,dir
+kickstart,dir
+ks.cfg,file
+makeiso.sh,file
+preseed,dir
+tpotce.seed,file
+txt.cfg,file

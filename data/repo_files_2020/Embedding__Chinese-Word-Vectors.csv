@@ -1,0 +1,13 @@
+name,type
+CA8,dir
+CA_translated,dir
+LICENSE,file
+README.md,file
+ana_eval_dense.py,file
+ana_eval_sparse.py,file
+ca_translated.txt,file
+dataset_statistics.xlsx,file
+evaluation,dir
+morphological.txt,file
+semantic.txt,file
+testsets,dir

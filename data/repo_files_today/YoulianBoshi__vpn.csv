@@ -1,0 +1,8 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+README.md,file
+bug_report.md,file
+feature_request.md,file
+main.yml,file
+workflows,dir

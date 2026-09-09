@@ -1,0 +1,12 @@
+name,type
+.github,dir
+FUNDING.yml,file
+authToken.md,file
+authorId.md,file
+channelId.md,file
+deleteDiscordMessages.js,file
+developerMode.md,file
+filters.md,file
+help,dir
+messageId.md,file
+readme.md,file

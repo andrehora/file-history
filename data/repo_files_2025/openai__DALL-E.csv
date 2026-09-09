@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+__init__.py,file
+dall_e,dir
+decoder.py,file
+encoder.py,file
+model_card.md,file
+notebooks,dir
+requirements.txt,file
+setup.py,file
+usage.ipynb,file
+utils.py,file

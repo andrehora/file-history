@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CHANGES.txt,file
+LICENSE.txt,file
+MANIFEST.in,file
+README.rst,file
+__init__.py,file
+howdoi,dir
+howdoi.py,file
+howdoi.rb,file
+requirements.txt,file
+setup.py,file
+test_howdoi.py,file

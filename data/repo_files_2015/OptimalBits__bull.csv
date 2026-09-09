@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+README.md,file
+index.js,file
+job.js,file
+lib,dir
+package.json,file
+queue.js,file
+test,dir
+test_job.js,file
+test_queue.js,file

@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.travis.yml,file
+Common,dir
+Doctrine,dir
+DoctrineTestCase.php,file
+Inflector,dir
+Inflector.php,file
+InflectorTest.php,file
+LICENSE,file
+README.md,file
+TestInit.php,file
+Tests,dir
+composer.json,file
+lib,dir
+phpunit.xml.dist,file
+tests,dir

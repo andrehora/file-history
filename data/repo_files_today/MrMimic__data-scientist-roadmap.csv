@@ -1,0 +1,49 @@
+name,type
+.gitignore,file
+01. Linear Regression.ipynb,file
+01_Fundamentals,dir
+01_Machine_Learning_Basics.ipynb,file
+02. Logistic Regression.ipynb,file
+02_Statistics,dir
+03. Support Vector Machine (SVM).ipynb,file
+03_Programming,dir
+04. Decision Trees.ipynb,file
+04_Machine-Learning,dir
+04_Supervised_Machine_Learning.ipynb,file
+05. Random Forest.ipynb,file
+05_Supervised_Learning_Algorithms,dir
+05_Text-Mining-NLP,dir
+06. Naive Bayes Classifier.ipynb,file
+06_Data-Visualization,dir
+07_Big-Data,dir
+08_Data-Ingestion,dir
+09_Data-Munging,dir
+10_Toolbox,dir
+15_csv-example.csv,file
+15_reading-csv.py,file
+16_regex.py,file
+1_data-exploration.R,file
+1_fundamentals.py,file
+1_python-basics.py,file
+21_install-pkgs.py,file
+22_perceptron.py,file
+2_descriptive-statistics.py,file
+4_histogram-pie.R,file
+4_r_basics.R,file
+Algorithms,dir
+CF.png,file
+CFG.gif,file
+CH.png,file
+DT.png,file
+GD.jpg,file
+GDD.jpg,file
+K.png,file
+LICENCE.txt,file
+LR.jpg,file
+LR.png,file
+NN.png,file
+README.md,file
+SVM.jpg,file
+images,dir
+poetry.lock,file
+pyproject.toml,file

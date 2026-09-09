@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+LICENSE.md,file
+README.md,file
+demo,dir
+favicon.png,file
+index.js,file
+package-lock.json,file
+package.json,file
+public,dir
+randomColor.js,file
+randomColor.min.js,file
+source,dir
+style.css,file
+tests.js,file

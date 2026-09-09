@@ -1,0 +1,70 @@
+name,type
+.gitignore,file
+Chapter10 - Intro to Convolutional Neural Networks - Learning Edges and Corners.ipynb,file
+Chapter11 - Intro to Word Embeddings - Neural Networks that Understand Language.ipynb,file
+Chapter12 - Intro to Recurrence - Predicting the Next Word.ipynb,file
+Chapter13 - Intro to Automatic Differentiation - Let's Build A Deep Learning Framework.ipynb,file
+Chapter14 - Exploding Gradients Examples.ipynb,file
+Chapter14 - Intro to LSTMs - Learn to Write Like Shakespeare.ipynb,file
+Chapter14 - Intro to LSTMs - Part 2 - Learn to Write Like Shakespeare.ipynb,file
+Chapter15 - Intro to Federated Learning - Deep Learning on Unseen Data.ipynb,file
+Chapter3 -  Forward Propagation - Intro to Neural Prediction.ipynb,file
+Chapter4 - Gradient Descent - Intro to Neural Learning.ipynb,file
+Chapter5 - Generalizing Gradient Descent - Learning Multiple Weights at a Time.ipynb,file
+Chapter6 - Intro to Backpropagation - Building Your First DEEP Neural Network.ipynb,file
+Chapter8 - Intro to Regularization - Learning Signal and Ignoring Noise.ipynb,file
+Chapter9 - Intro to Activation Functions - Modeling Probabilities.ipynb,file
+LICENSE,file
+MNISTPreprocessor.ipynb,file
+README,file
+README.md,file
+docker-compose.yml,file
+en,dir
+floyd.yml,file
+ham.txt,file
+labels.txt,file
+qa10_indefinite-knowledge_test.txt,file
+qa10_indefinite-knowledge_train.txt,file
+qa11_basic-coreference_test.txt,file
+qa11_basic-coreference_train.txt,file
+qa12_conjunction_test.txt,file
+qa12_conjunction_train.txt,file
+qa13_compound-coreference_test.txt,file
+qa13_compound-coreference_train.txt,file
+qa14_time-reasoning_test.txt,file
+qa14_time-reasoning_train.txt,file
+qa15_basic-deduction_test.txt,file
+qa15_basic-deduction_train.txt,file
+qa16_basic-induction_test.txt,file
+qa16_basic-induction_train.txt,file
+qa17_positional-reasoning_test.txt,file
+qa17_positional-reasoning_train.txt,file
+qa18_size-reasoning_test.txt,file
+qa18_size-reasoning_train.txt,file
+qa19_path-finding_test.txt,file
+qa19_path-finding_train.txt,file
+qa1_single-supporting-fact_test.txt,file
+qa1_single-supporting-fact_train.txt,file
+qa20_agents-motivations_test.txt,file
+qa20_agents-motivations_train.txt,file
+qa2_two-supporting-facts_test.txt,file
+qa2_two-supporting-facts_train.txt,file
+qa3_three-supporting-facts_test.txt,file
+qa3_three-supporting-facts_train.txt,file
+qa4_two-arg-relations_test.txt,file
+qa4_two-arg-relations_train.txt,file
+qa5_three-arg-relations_test.txt,file
+qa5_three-arg-relations_train.txt,file
+qa6_yes-no-questions_test.txt,file
+qa6_yes-no-questions_train.txt,file
+qa7_counting_test.txt,file
+qa7_counting_train.txt,file
+qa8_lists-sets_test.txt,file
+qa8_lists-sets_train.txt,file
+qa9_simple-negation_test.txt,file
+qa9_simple-negation_train.txt,file
+reviews.txt,file
+shakespear.txt,file
+shuffled,dir
+spam.txt,file
+tasksv11,dir

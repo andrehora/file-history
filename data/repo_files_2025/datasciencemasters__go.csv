@@ -1,0 +1,11 @@
+name,type
+.github,dir
+LICENSE.md,file
+README.md,file
+datasets.md,file
+jekyll-gh-pages.yml,file
+projects.md,file
+r-resources.md,file
+scott-davis-transcript.md,file
+transcripts,dir
+workflows,dir

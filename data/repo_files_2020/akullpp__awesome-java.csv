@@ -1,0 +1,8 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+pull_request_template.md,file

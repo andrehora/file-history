@@ -1,0 +1,60 @@
+name,type
+2021,dir
+Account Takeover.md,file
+Apache HTTP Server.md,file
+Arbitrary File Upload.md,file
+Broken Link Hijacking.md,file
+Business Logic Errors.md,file
+Bypass,dir
+Bypass 2FA.md,file
+Bypass 403.md,file
+Bypass 429.md,file
+Bypass Captcha.md,file
+CRLF Injection.md,file
+CVE-2021-36873.md,file
+CVEs,dir
+Checklist,dir
+Confluence.md,file
+Cross Site Request Forgery.md,file
+Cross Site Scripting.md,file
+Default Credentials.md,file
+Denial Of Service.md,file
+Email Spoofing.md,file
+Exposed API keys.md,file
+Exposed Source Code.md,file
+Forgot Password.md,file
+Github Dorks.md,file
+Google Dorks.md,file
+Grafana.md,file
+HAProxy.md,file
+Host Header Injection.md,file
+Insecure Direct Object References.md,file
+JWT Vulnerabilities.md,file
+Jenkins.md,file
+Jira.md,file
+Joomla.md,file
+Laravel.md,file
+Local File Inclusion.md,file
+Mass Assignment.md,file
+Misc,dir
+Moodle.md,file
+Nginx.md,file
+NoSQL Injection.md,file
+OAuth Misconfiguration.md,file
+On Site Request Forgery.md,file
+Open Redirect.md,file
+README.md,file
+Reconnaissance,dir
+Reflected File Download.md,file
+Remote File Inclusion.md,file
+SQL Injection.md,file
+Scope.md,file
+Server Side Include Injection.md,file
+Server Side Request Forgery.md,file
+Shodan Dorks.md,file
+Tabnabbing.md,file
+Technologies,dir
+Web Cache Deception.md,file
+Web Cache Poisoning.md,file
+WordPress.md,file
+Zend.md,file

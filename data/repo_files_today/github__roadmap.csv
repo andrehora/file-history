@@ -1,0 +1,8 @@
+name,type
+.github,dir
+CODE_OF_CONDUCT.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+SECURITY.md,file
+config.yml,file

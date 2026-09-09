@@ -1,0 +1,16 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+OFFSEASON_README.md,file
+README.md,file
+contribution_approved.py,file
+contribution_approved.yml,file
+listings.json,file
+new_internship.yaml,file
+other.yaml,file
+scripts,dir
+update_readmes.py,file
+update_readmes.yml,file
+util.py,file
+workflows,dir

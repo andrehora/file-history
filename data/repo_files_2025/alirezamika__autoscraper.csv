@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+__init__.py,file
+auto_scraper.py,file
+autoscraper,dir
+python-publish.yml,file
+setup.py,file
+stale-issues.yml,file
+utils.py,file
+workflows,dir

@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+logo.png,file
+logo_128.png,file
+logo_256.png,file
+res,dir

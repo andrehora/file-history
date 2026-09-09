@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+LICENSE,file
+bookmarks.html,file
+contributing.md,file
+create-bookmarks.sh,file
+pastebin.url,file
+readme.html,file
+readme.md,file
+wordcloud.png,file

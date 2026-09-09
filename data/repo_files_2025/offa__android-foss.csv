@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.markdownlint.json,file
+CONTRIBUTING.md,file
+Install-Rooted-OTA.md,file
+LICENSE,file
+README.md,file
+android.svg,file
+check.sh,file
+check_manually.sh,file
+ci.yml,file
+ensure_sorted.py,file
+index.html,file
+tutorials,dir
+workflows,dir

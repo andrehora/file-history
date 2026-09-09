@@ -1,0 +1,6 @@
+name,type
+.circleci,dir
+.gitattributes,file
+.gitignore,file
+README.adoc,file
+config.yml,file

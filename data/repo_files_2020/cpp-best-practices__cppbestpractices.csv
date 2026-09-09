@@ -1,0 +1,19 @@
+name,type
+00-Table_of_Contents.md,file
+01-Preface.md,file
+02-Use_the_Tools_Available.md,file
+03-Style.md,file
+04-Considering_Safety.md,file
+05-Considering_Maintainability.md,file
+06-Considering_Portability.md,file
+07-Considering_Threadability.md,file
+08-Considering_Performance.md,file
+09-Considering_Correctness.md,file
+10-Enable_Scripting.md,file
+11-Further_Reading.md,file
+12-Final_Thoughts.md,file
+LICENSE,file
+README.md,file
+SUMMARY.md,file
+Sorting in C vs C++.pdf,file
+book.json,file

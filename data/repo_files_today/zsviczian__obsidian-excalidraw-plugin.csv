@@ -1,0 +1,658 @@
+name,type
+.babelrc,file
+.devcontainer,dir
+.github,dir
+.gitignore,file
+.nvmrc,file
+.prettierrc,file
+.replit,file
+.vscode,dir
+AGENTS.md,file
+AIImageModelCapabilityModal.ts,file
+AIModelConfigModal.ts,file
+AIProviderProfileModal.ts,file
+AITrainingData,dir
+AIUsageModal.ts,file
+AIUtilTypes.ts,file
+AIUtils.ts,file
+API,dir
+ActionButton.tsx,file
+Add Connector Point.md,file
+Add Connector Point.svg,file
+Add Link to Existing File and Open.md,file
+Add Link to Existing File and Open.svg,file
+Add Link to New Page and Open.md,file
+Add Link to New Page and Open.svg,file
+Add Next Step in Process.md,file
+Add Next Step in Process.svg,file
+Alternative Pens.md,file
+Alternative Pens.svg,file
+Archive,dir
+Auto Layout.md,file
+Auto Layout.svg,file
+AutomateHowTo.md,file
+AutostartScriptsSettingsComponent.ts,file
+BackupPersistenceQueue.ts,file
+Boolean Operations.md,file
+Boolean Operations.svg,file
+Box Each Selected Groups.md,file
+Box Each Selected Groups.svg,file
+Box Selected Elements.md,file
+Box Selected Elements.svg,file
+CJKLoader.ts,file
+CONTRIBUTING.md,file
+CSSCodeEditor.ts,file
+CanvasNodeFactory.ts,file
+Capture Note.md,file
+Capture Note.svg,file
+Change shape of selected elements.md,file
+Change shape of selected elements.svg,file
+Color Scheme Manager.md,file
+Color Scheme Manager.svg,file
+ColorPicker.ts,file
+Comic Strip Director.md,file
+Comic Strip Director.svg,file
+Comicbook Callout Editor.md,file
+Comicbook Callout Editor.svg,file
+CommandManager.ts,file
+ComplexSettings.jpg,file
+Concatenate lines.md,file
+Concatenate lines.svg,file
+Connect elements.md,file
+Connect elements.svg,file
+ContentSearcher.ts,file
+Contribution.yml.old,file
+Convert freedraw to line.md,file
+Convert freedraw to line.svg,file
+Convert selected text elements to sticky notes.md,file
+Convert selected text elements to sticky notes.svg,file
+Convert text to link with folder and alias.md,file
+Convert text to link with folder and alias.svg,file
+Copy Selected Element Styles to Global.md,file
+Copy Selected Element Styles to Global.svg,file
+Create new markdown file and embed into active drawing.md,file
+Create new markdown file and embed into active drawing.svg,file
+CreateFolderPrompt.ts,file
+Crop Vintage Mask.md,file
+Crop Vintage Mask.svg,file
+CropImage.ts,file
+Custom Zoom.md,file
+Custom Zoom.svg,file
+CustomEmbeddable.tsx,file
+Darken background color.md,file
+Darken background color.svg,file
+DeclarativeSettingsAdapter.ts,file
+Deconstruct selected elements into new drawing.md,file
+Deconstruct selected elements into new drawing.svg,file
+Dialogs,dir
+DropManager.ts,file
+EditorHandler.ts,file
+Elbow connectors.md,file
+Elbow connectors.svg,file
+Ellipse Selected Elements.md,file
+Ellipse Selected Elements.svg,file
+EmbeddableActionsMenu.tsx,file
+EmbeddableMDFileCustomDataSettingsComponent.ts,file
+EmbeddableSettings.ts,file
+EmbeddedDataRegistries.ts,file
+EmbeddedFileLoader.ts,file
+ErrorHandler.ts,file
+EventManager.ts,file
+Examples,dir
+ExcaliAI.md,file
+ExcaliAI.svg,file
+ExcaliMath.md,file
+ExcaliMath.svg,file
+Excalidraw Automate library and related type definitions.md,file
+Excalidraw Collaboration Frame.md,file
+Excalidraw Collaboration Frame.svg,file
+Excalidraw Script Library.md,file
+Excalidraw Writing Machine.md,file
+Excalidraw Writing Machine.svg,file
+ExcalidrawAutomate full library for LLM training.md,file
+ExcalidrawAutomate.d.ts,file
+ExcalidrawAutomate.ts,file
+ExcalidrawConfig.ts,file
+ExcalidrawData.ts,file
+ExcalidrawElement.ts,file
+ExcalidrawExtrasGateway.ts,file
+ExcalidrawLoading.ts,file
+ExcalidrawRoot.ts,file
+ExcalidrawScene.ts,file
+ExcalidrawScriptsEngine.md,file
+ExcalidrawStartupExample.md,file
+ExcalidrawView.ts,file
+Expand rectangles horizontally keep text centered.md,file
+Expand rectangles horizontally keep text centered.svg,file
+Expand rectangles horizontally.md,file
+Expand rectangles horizontally.svg,file
+Expand rectangles vertically keep text centered.md,file
+Expand rectangles vertically keep text centered.svg,file
+Expand rectangles vertically.md,file
+Expand rectangles vertically.svg,file
+ExportDialog.ts,file
+Fadeout.ts,file
+FieldSuggester.ts,file
+FileAndFolderSelectorModal.ts,file
+FileManager.ts,file
+FileSuggestionModal.ts,file
+Fine tipped pen - fixed pressure.md,file
+Fixed horizontal distance between centers.md,file
+Fixed horizontal distance between centers.svg,file
+Fixed inner distance.md,file
+Fixed inner distance.svg,file
+Fixed spacing.md,file
+Fixed spacing.svg,file
+Fixed vertical distance between centers.md,file
+Fixed vertical distance between centers.svg,file
+Fixed vertical distance.md,file
+Fixed vertical distance.svg,file
+FloatingModal.ts,file
+Folder Note Core - Make Current Drawing a Folder.md,file
+Folder Note Core - Make Current Drawing a Folder.svg,file
+FontManager.ts,file
+FontPickerComponent.ts,file
+FooterSafeAreaManager.ts,file
+Fountain pen.md,file
+FrameSettings.ts,file
+FristDemo.png,file
+Frontmatter.ts,file
+Full-Year Calendar Generator.md,file
+Full-Year Calendar Generator.svg,file
+GlobalTaskQueue.ts,file
+Golden Ratio.md,file
+Golden Ratio.svg,file
+Grid Selected Images.md,file
+Grid Selected Images.svg,file
+Group.ts,file
+HotkeyEditor.ts,file
+How-to.yml,file
+ISSUE_TEMPLATE,dir
+Icon Library.md,file
+Icon Library.svg,file
+Image Occlusion.md,file
+Image Occlusion.svg,file
+ImageCache.ts,file
+ImportSVGDialog.ts,file
+InlineLinkSuggester.ts,file
+InsertCommandDialog.ts,file
+InsertImageDialog.ts,file
+InsertLinkDialog.ts,file
+InsertMDDialog.ts,file
+InsertPDFModal.ts,file
+Invert colors.md,file
+Invert colors.svg,file
+LICENSE,file
+LaTeX.ts,file
+LegacySettingsAdapter.ts,file
+Lighten background color.md,file
+Lighten background color.svg,file
+Linear Calendar Generator.md,file
+Linear Calendar Generator.svg,file
+LinkSuggesterUtils.ts,file
+MarkdownImage.ts,file
+MarkdownImageController.ts,file
+MarkdownImageEditor.ts,file
+MarkdownPostProcessor.ts,file
+Messages.ts,file
+MindMapBuilderAPI.md,file
+Mindmap - thick-thin-thick.md,file
+Mindmap - thick-thin.md,file
+Mindmap Builder.js,file
+Mindmap Builder.js.md,file
+Mindmap Builder.md,file
+Mindmap Builder.svg,file
+Mindmap connector.md,file
+Mindmap connector.svg,file
+Mindmap connector1.png,file
+Mindmap format.md,file
+Mindmap format.svg,file
+ModifierKeySettings.ts,file
+Modify background color opacity.md,file
+Modify background color opacity.svg,file
+MonkeyPatchManager.ts,file
+Normalize Selected Arrows.md,file
+Normalize Selected Arrows.svg,file
+OCR,dir
+OCR - Optical Character Recognition.md,file
+OCR - Optical Character Recognition.svg,file
+ObserverManager.ts,file
+ObsidianMenu.tsx,file
+OpenDrawing.ts,file
+Organic Line Legacy.md,file
+Organic Line Legacy.svg,file
+Organic Line.md,file
+Organic Line.svg,file
+PDF Page Text to Clipboard.md,file
+PDF Page Text to Clipboard.svg,file
+PDFExportSettingsComponent.ts,file
+PDFUtils.ts,file
+PDFs,dir
+PackageManager.ts,file
+Palette loader.md,file
+Palette loader.svg,file
+Palm Guard.md,file
+Palm Guard.svg,file
+PenSettingsModal.ts,file
+PluginSettingsManager.ts,file
+Printable Layout Wizard.md,file
+Printable Layout Wizard.svg,file
+Prompt.ts,file
+PublishOutOfDateFiles.ts,file
+README.md,file
+RankMessage.ts,file
+RefactorPlan.md,file
+Relative Font Size Cycle.md,file
+Relative Font Size Cycle.svg,file
+Release-notes.md,file
+ReleaseNotes.ts,file
+Rename Image.md,file
+Rename Image.svg,file
+Repeat Elements.md,file
+Repeat Elements.svg,file
+Repeat Texts.md,file
+Repeat Texts.svg,file
+Reset LaTeX Size.md,file
+Reset LaTeX Size.svg,file
+Reverse arrows.md,file
+Reverse arrows.svg,file
+SKILL.md,file
+Scribble Helper.md,file
+Scribble Helper.svg,file
+ScriptInstallPrompt.ts,file
+ScriptSupportPlan.md,file
+Scripts.ts,file
+Select Elements of Type.md,file
+Select Elements of Type.svg,file
+Select Similar Elements.md,file
+Select Similar Elements.svg,file
+SelectCard.ts,file
+SelectedElementActionsMenu.ts,file
+SerializedSettingsWriter.ts,file
+Set Dimensions.md,file
+Set Dimensions.svg,file
+Set Font Family.md,file
+Set Font Family.svg,file
+Set Grid.md,file
+Set Grid.svg,file
+Set Link Alias.md,file
+Set Link Alias.svg,file
+Set Stroke Width of Selected Elements.md,file
+Set Stroke Width of Selected Elements.svg,file
+Set Text Alignment.md,file
+Set Text Alignment.svg,file
+Set background color of unclosed line object by adding a shadow clone.md,file
+Set background color of unclosed line object by adding a shadow clone.svg,file
+SettingBindingRegistry.ts,file
+SettingsPersistenceQueue.ts,file
+SettingsRecoveryPrompt.ts,file
+SettingsRecoveryStore.ts,file
+Shade Master.md,file
+Shade Master.svg,file
+Sidepanel.ts,file
+SidepanelTab.ts,file
+SimpleSettings.jpg,file
+Slideshow.md,file
+Slideshow.svg,file
+Split Ellipse.md,file
+Split Ellipse.svg,file
+Split text by lines.md,file
+Split text by lines.svg,file
+StartupTimer.ts,file
+StencilLibraryManager.ts,file
+StencilLibraryMigrationPrompt.ts,file
+StylesManager.ts,file
+Suggester.ts,file
+SuggesterInfo.ts,file
+Suggesters,dir
+SuggestionModal.ts,file
+TTDDialogPersistanceAdater.ts,file
+Taskbone.ts,file
+Text Aura.md,file
+Text Aura.svg,file
+Text to Path.md,file
+Text to Path.svg,file
+Text to Sticky Notes.md,file
+Text to Sticky Notes.svg,file
+TextMode.ts,file
+TheBrain-navigation.md,file
+TheBrain-navigation.svg,file
+TheBrain.jpg,file
+Thick marker - dynamic pressure.md,file
+Thick marker - fixed pressure.md,file
+To Line.md,file
+Toggle Fullscreen on Mobile.md,file
+Toggle Grid.md,file
+Toggle Grid.svg,file
+ToolsPanel.tsx,file
+Transfer TextElements to Excalidraw markdown metadata.md,file
+Transfer TextElements to Excalidraw markdown metadata.svg,file
+UIModeSettingComponent.ts,file
+UIModeSettings.ts,file
+Uniform size.md,file
+Uniform size.svg,file
+UniversalInsertFileModal.ts,file
+VaultPathSuggest.ts,file
+VersionMismatch.ts,file
+ViewExcalidrawExtensionRenderer.ts,file
+ViewExportManager.ts,file
+ViewFullscreenManager.ts,file
+ViewLinkNavigationManager.ts,file
+ViewMigrationHandoffManager.ts,file
+ViewMigrationPersistenceHandoffManager.ts,file
+ViewSaveCoordinator.ts,file
+ViewSceneFileManager.ts,file
+VoronoiDiagramGenerator.md,file
+VoronoiDiagramGenerator.svg,file
+Voronoi_diagram_example.svg,file
+WeakArray.ts,file
+Workers,dir
+YoutTubeUtils.ts,file
+Zoom to Fit Selected Elements.md,file
+Zoom to Fit Selected Elements.svg,file
+_config.yml,file
+actionIcons.tsx,file
+api-usage-index.md,file
+apply_template.md,file
+ar.ts,file
+assets,dir
+attributes.ts,file
+attributes_functions_overview.md,file
+blockReferenceIcon.ts,file
+bug_report.md.x,file
+bug_report.yml,file
+buildReactRuntime.mjs,file
+canvas_style.md,file
+carveout.ts,file
+catalogue.jpg,file
+codeql-analysis.yml,file
+collectionUtils.ts,file
+color-scheme-manager.gif,file
+components,dir
+compression-worker.ts,file
+connect_objects.md,file
+constSettingsTags.ts,file
+constants,dir
+constants.ts,file
+coordinates.png,file
+copyLinkToSelectedElement.ts,file
+core,dir
+coreUtils.ts,file
+customEmbeddableUtils.ts,file
+cz.ts,file
+da.ts,file
+darken-lighten-background-color.png,file
+dataviewjs_familytree.md,file
+dataviewjs_mindmap.md,file
+de.ts,file
+debugHelper.ts,file
+declarativeSettingsMarkdown.ts,file
+dependabot.yml,file
+deploy-mindmap-builder.mjs,file
+devcontainer.json,file
+directory-info.json,file
+docs,dir
+dynamicStyling.ts,file
+ea-script-docs,dir
+ea-scripts,dir
+ea-scripts-with-modified-dates.md,file
+ea-toggle-fullscreen.jpg,file
+editor,dir
+elbow-connectors.png,file
+elementActionTypes.ts,file
+elementCustomDataUtils.ts,file
+element_style.md,file
+elements,dir
+embeddedAssetUtils.ts,file
+embeddedFileLoaderTypes.ts,file
+embeddedFilenameParts.ts,file
+emptydrawing.ts,file
+en-gb.ts,file
+en.ts,file
+es.ts,file
+esbuild.config.json,file
+eslint.config.mts,file
+example-graph.png,file
+example.png,file
+excalidraw-automate,dir
+excalidraw-docs-generator-core.mjs,file
+excalidraw-fonts.zip,file
+excalidraw-lib-functions.md,file
+excalidraw-modifiers.png,file
+excalidraw-sword-mini.png,file
+excalidrawAutomateTypes.ts,file
+excalidrawAutomateUtils.ts,file
+excalidrawElementTypes.ts,file
+excalidrawElementUtils.ts,file
+excalidrawLib.d.ts,file
+excalidrawMarkdownParsing.ts,file
+excalidrawSceneUtils.ts,file
+excalidrawViewHelpers.ts,file
+excalidrawViewLookup.ts,file
+excalidrawViewTypes.ts,file
+excalidrawViewUtils.ts,file
+exportUtilTypes.ts,file
+exportUtils.ts,file
+feature-request.yml,file
+feature_request.md.old,file
+fileUtils.ts,file
+find_unused_keys.mjs,file
+fix-eslint-warnings.mjs,file
+fontMetrics.ts,file
+fontTypes.ts,file
+fontUtils.ts,file
+fr.ts,file
+geminiImageModelUtils.ts,file
+generate-repository-zip.sh,file
+generate-script-library.mjs,file
+getElementAtPointer.ts,file
+githubTypes.ts,file
+golden-ratio.jpg,file
+helpers.ts,file
+hi.ts,file
+hobby-programmer.svg,file
+htmlUtils.ts,file
+hu.ts,file
+id.ts,file
+imageExportUtils.ts,file
+images,dir
+index-new.md,file
+index.md,file
+index.ts,file
+insert_new_drawing.md,file
+introduction.md,file
+it.ts,file
+ja.ts,file
+ko.ts,file
+lang,dir
+langDiffWithEn.js,file
+linkUtils.ts,file
+locale,dir
+logo-EE.png,file
+main.ts,file
+managers,dir
+manifest-beta.json,file
+manifest.json,file
+markdownImageTypes.ts,file
+markdownImageUtils.ts,file
+markdownSubpathSuggester.ts,file
+math-only.ts,file
+matic.ts,file
+menu,dir
+mermaidUtils.ts,file
+mindmap connector.png,file
+modifierKeyLabels.ts,file
+modifierkeyHelper.ts,file
+nl.ts,file
+no.ts,file
+objects.md,file
+obsidianCommonHostAdapter.ts,file
+obsidianDeclarativeSettings.ts,file
+obsidianExcalidrawHostAdapter.ts,file
+obsidianUtils.ts,file
+package-lock.json,file
+package.json,file
+page-rotated-180.pdf,file
+page-rotated-270.pdf,file
+page-rotated-90.pdf,file
+page-trimmed-rotated-180.pdf,file
+page-trimmed-rotated-270.pdf,file
+page-trimmed-rotated-90.pdf,file
+page-trimmed.pdf,file
+page.pdf,file
+parser.ts,file
+pathUtils.ts,file
+pdfJsTypes.ts,file
+penTypes.ts,file
+pens,dir
+pens.ts,file
+pl.ts,file
+polybooljs.d.ts,file
+promptTypes.ts,file
+pt-br.ts,file
+pt.ts,file
+reactRuntimeEntry.mjs,file
+readme.md,file
+references,dir
+release-process.md,file
+release.yml,file
+rename-image.png,file
+ro.ts,file
+rollup.config.mjs,file
+ru.ts,file
+safeUrls.ts,file
+sceneDataUtils.ts,file
+screenshot.ts,file
+scriptFileUtils.ts,file
+scriptLibraryUtils.ts,file
+scripts,dir
+scripts-Linear-Calendar-Generator.jpg,file
+scripts-add-link-and-open.jpg,file
+scripts-add-link-to-new-page-and-pen.jpg,file
+scripts-add-process-step.jpg,file
+scripts-alternative-pens.jpg,file
+scripts-auto-layout.png,file
+scripts-boolean-operations-element-ranking.png,file
+scripts-boolean-operations-showcase.png,file
+scripts-box-each-selected-groups.png,file
+scripts-box-elements.jpg,file
+scripts-bullet-point.jpg,file
+scripts-change-shape.jpg,file
+scripts-comic-strip-director.jpg,file
+scripts-comicbook-callout-editor.jpg,file
+scripts-concatenate-lines.png,file
+scripts-connect-elements.jpg,file
+scripts-convert-freedraw-to-line.jpg,file
+scripts-copy-selected-element-styles-to-global.png,file
+scripts-create-and-embed-new-markdown-file.jpg,file
+scripts-crop-vintage.jpg,file
+scripts-deconstruct.jpg,file
+scripts-dimensions.jpg,file
+scripts-download-raw.jpg,file
+scripts-draw-a-ui.jpg,file
+scripts-ellipse-elements.png,file
+scripts-expand-rectangles.gif,file
+scripts-fix-space-demo.png,file
+scripts-fixed-horizontal-distance-between-centers.png,file
+scripts-fixed-inner-distance.png,file
+scripts-fixed-vertical-distance-between-centers.png,file
+scripts-fixed-vertical-distance.png,file
+scripts-font-family.jpg,file
+scripts-full-year-calendar-customize.excalidraw.png,file
+scripts-full-year-calendar-exemple.excalidraw.png,file
+scripts-grid-selected-images.png,file
+scripts-grid.jpg,file
+scripts-icon-library.jpg,file
+scripts-image-occlusion.png,file
+scripts-invert-colors.jpg,file
+scripts-layout-wizard-01.png,file
+scripts-layout-wizard-02.png,file
+scripts-layout-wizard-03.png,file
+scripts-mindmap-builder.png,file
+scripts-mindmap-format-1.png,file
+scripts-mindmap-format-2.png,file
+scripts-modify-background-color-opacity.png,file
+scripts-normalize-selected-arrows.png,file
+scripts-ocr.jpg,file
+scripts-organic-line-legacy.jpg,file
+scripts-organic-line.jpg,file
+scripts-repeat-elements.png,file
+scripts-repeat-texts.png,file
+scripts-reset-latex.jpg,file
+scripts-reverse-arrow.jpg,file
+scripts-scribble-helper.jpg,file
+scripts-select-element-of-type.jpg,file
+scripts-select-similar-elements.png,file
+scripts-set-background-color-of-unclosed-line.jpg,file
+scripts-set-link-alias.jpg,file
+scripts-sketch-palette-loader-1.jpg,file
+scripts-sketch-palette-loader-2.jpg,file
+scripts-sketch-palette-loader-3.jpg,file
+scripts-sketch-palette-loader-4.jpg,file
+scripts-slideshow-1.jpg,file
+scripts-slideshow-2.jpg,file
+scripts-split-lines.jpg,file
+scripts-splitEllipse-demo1.png,file
+scripts-splitEllipse-demo2.png,file
+scripts-sticky-note-matrix.jpg,file
+scripts-stroke-width.jpg,file
+scripts-text-align.jpg,file
+scripts-text-aura.jpg,file
+scripts-text-to-metadata.jpg,file
+scripts-text-to-path.jpg,file
+scripts-textelement-to-transparent-stickynote.png,file
+scripts-uniform-size.jpg,file
+settingSpecs.ts,file
+settings,dir
+settings.json,file
+settings.ts,file
+settingsDataValidation.ts,file
+settingsDefaults.ts,file
+settingsKeyObfuscation.ts,file
+settingsNavigation.ts,file
+shade master.js,file
+shared,dir
+sidepanel,dir
+sidepanelTabTypes.ts,file
+skill-builder.mjs,file
+sliderUtils.ts,file
+src,dir
+startup-scripts.md,file
+startupScript.md,file
+startupScript.ts,file
+stencilLibraryTypes.ts,file
+styleUtils.ts,file
+styles.css,file
+support-tiers.jpg,file
+svgToExcalidraw,dir
+sym-cover.jpg,file
+tasks.json,file
+templater_mindmap.md,file
+test-data,dir
+testloader.js,file
+textUtils.ts,file
+thumbnail-getting-started.jpg,file
+tr.ts,file
+trackedAppState.ts,file
+transform.ts,file
+tsconfig-lib.json,file
+tsconfig.dev.json,file
+tsconfig.json,file
+type-definitions.md,file
+typechecks.ts,file
+types,dir
+types.d.ts,file
+utilTypes.ts,file
+utility.md,file
+utils,dir
+utils.ts,file
+versionUtils.ts,file
+versions.json,file
+view,dir
+vintage-mask.png,file
+walker.ts,file
+worker.d.ts,file
+workflows,dir
+zh-cn,dir
+zh-cn.ts,file
+zh-tw.ts,file

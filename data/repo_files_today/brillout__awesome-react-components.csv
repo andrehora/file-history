@@ -1,0 +1,8 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+README.md,file
+code-of-conduct.md,file
+license,file
+update-table-of-contents.yml,file
+workflows,dir

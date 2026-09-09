@@ -1,0 +1,16 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+CONTRIBUTING.markdown,file
+FUNDING.yml,file
+README.markdown,file
+autoload,dir
+doc,dir
+ftdetect,dir
+ftplugin,dir
+fugitive.txt,file
+fugitive.vim,file
+fugitiveblame.vim,file
+plugin,dir
+syntax,dir

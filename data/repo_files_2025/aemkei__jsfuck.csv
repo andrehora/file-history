@@ -1,0 +1,17 @@
+name,type
+.eslintrc.json,file
+.gitignore,file
+.npmignore,file
+CNAME,file
+Gruntfile.js,file
+LICENSE.txt,file
+README.md,file
+favicon.ico,file
+fuck.js,file
+index.html,file
+jsfuck.js,file
+jsfuck_test.js,file
+output.txt,file
+package.json,file
+preview.png,file
+test,dir

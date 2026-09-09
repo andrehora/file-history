@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.python-version,file
+LICENSE,file
+README.md,file
+audio.py,file
+example-use.png,file
+go.mod,file
+go.sum,file
+main.go,file
+main.py,file
+pyproject.toml,file
+uv.lock,file
+whatsapp-bridge,dir
+whatsapp-mcp-server,dir
+whatsapp.py,file

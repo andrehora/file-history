@@ -1,0 +1,6 @@
+name,type
+.vimrc,file
+.ycm_extra_conf.py,file
+LICENSE,file
+README.md,file
+pics,dir

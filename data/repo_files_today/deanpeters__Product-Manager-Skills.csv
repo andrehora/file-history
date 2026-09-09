@@ -1,0 +1,324 @@
+name,type
+.claude-plugin,dir
+.env.example,file
+.github,dir
+.gitignore,file
+02-discovery-pack.zip,file
+03-strategy-pack.zip,file
+04-delivery-pack.zip,file
+04JUL26.md,file
+05-ai-pm-pack.zip,file
+06-market-intel-pack.zip,file
+07-lifecycle-eol-pack.zip,file
+08JUL26.md,file
+09AUG26.md,file
+10AUG26.md,file
+15MAY26.md,file
+17JUL26-B.md,file
+17JUL26.md,file
+2026-02-08-linkedin-launch.md,file
+2026-02-08-substack-savage-launch.md,file
+2026-02-10-v0-4-facilitation-fix.md,file
+2026-02-27-v0-5-streamlit-beta.md,file
+2026-03-06-v0-6-navigation-commands.md,file
+2026-03-08-v0-65-onboarding-integration-guides.md,file
+2026-03-09-v0-7-skill-quality-trigger-clarity.md,file
+2026-03-17-v0-75-pedagogic-first.md,file
+2026-04-26-v0-78-release-packaging.md,file
+2026-05-15-v0-79-community-contributions.md,file
+2026-07-04-v0-81-input-sections.md,file
+2026-07-08-v0-82-inbound-requests-and-dist-shelf.md,file
+2026-07-17-adornment-and-docs-plan.md,file
+2026-07-17-v0-83-market-intelligence-suite.md,file
+2026-08-09-eol-suite-plan.md,file
+2026-08-10-adornment-plan-4.md,file
+2026-08-10-v0-84-lifecycle-and-eol-suite.md,file
+26APR26.md,file
+99-all-skills-pack.zip,file
+ADAPTER_TEMPLATE.sh,file
+AGENTS.md,file
+Add-a-Skill Utility Guide.md,file
+Building PM Skills.md,file
+CATALOG.md,file
+CHANGELOG.md,file
+CLAUDE.md,file
+CONTRIBUTING.md,file
+Context Engineering for Product Managers.md,file
+Finance Suite Summary.md,file
+Finance for Product Managers.md,file
+Finance_For_PMs.Putting_It_Together_Synthesis.md,file
+Finance_Metrics_Additions_Reference.md,file
+Finance_QuickRef.md,file
+INSTALL-CLAUDE-CODE.md,file
+INSTALL-CLAUDE-DESKTOP.md,file
+INSTALL-CODEX.md,file
+LICENSE,file
+Lifecycle and EOL Suite Summary.md,file
+MARKETPLACE_STRATEGY.md,file
+Market Intelligence Suite Summary.md,file
+Marketplace Issue Templates.md,file
+Marketplace Submission Runbook.md,file
+PLANS.md,file
+PM Skills Rule-of-Thumb Guide.md,file
+PM Tooling Operations Charter.md,file
+Platform Guides for PMs.md,file
+README.md,file
+RELEASE-PACKAGING.md,file
+SKILL.md,file
+START_HERE.md,file
+STREAMLIT_INTERFACE.md,file
+The Product Manager as an Orchestrator.md,file
+Using PM Skills 101.md,file
+Using PM Skills with Bolt.md,file
+Using PM Skills with ChatGPT Desktop.md,file
+Using PM Skills with ChatGPT.md,file
+Using PM Skills with Claude Code.md,file
+Using PM Skills with Claude Cowork.md,file
+Using PM Skills with Claude Desktop.md,file
+Using PM Skills with Claude.md,file
+Using PM Skills with Codex.md,file
+Using PM Skills with CrewAI.md,file
+Using PM Skills with Cursor.md,file
+Using PM Skills with Devin.md,file
+Using PM Skills with Gemini.md,file
+Using PM Skills with LangFlow.md,file
+Using PM Skills with Make.com.md,file
+Using PM Skills with OpenClaw.md,file
+Using PM Skills with Python Agents.md,file
+Using PM Skills with Replit Agent.md,file
+Using PM Skills with Slash Commands 101.md,file
+Using PM Skills with Windsurf.md,file
+Using PM Skills with n8n.md,file
+acquisition-channel-advisor,dir
+acquisition-channel-advisor.zip,file
+adapters,dir
+add-a-skill.sh,file
+agent-orchestration-advisor,dir
+agent-orchestration-advisor.zip,file
+ai-shaped-readiness-advisor,dir
+ai-shaped-readiness-advisor.zip,file
+altitude-horizon-framework,dir
+altitude-horizon-framework.zip,file
+announcements,dir
+ansoff-matrix,dir
+ansoff-matrix.zip,file
+app,dir
+autonomous-investigation,dir
+autonomous-investigation.zip,file
+battle-card-builder,dir
+battle-card-builder.zip,file
+build-a-skill.sh,file
+build-claude-desktop-packs.sh,file
+build-codex-skills.sh,file
+build-dist.sh,file
+build-release.sh,file
+build-release.yml,file
+business-health-diagnostic,dir
+business-health-diagnostic.zip,file
+cash-trap.md,file
+catalog,dir
+check-command-metadata.py,file
+check-dist-freshness.py,file
+check-library-drift.py,file
+check-skill-metadata.py,file
+check-skill-triggers.py,file
+claude-code.sh,file
+commands,dir
+commands-index.yaml,file
+commands.md,file
+company-intel,dir
+company-intel.zip,file
+company-research,dir
+company-research.zip,file
+competitive-analysis-process,dir
+competitive-analysis-process.zip,file
+competitive-intel-watch,dir
+competitive-intel-watch.zip,file
+competitive-research-snapshot,dir
+competitive-research-snapshot.zip,file
+context-engineering-advisor,dir
+context-engineering-advisor.zip,file
+conversation-flow-industrial.md,file
+conversation-flow.md,file
+customer-journey-map,dir
+customer-journey-map.zip,file
+customer-journey-mapping-workshop,dir
+customer-journey-mapping-workshop.zip,file
+deanpeters-substack-posts.zip,file
+deanpeters.sending-ladder-down-post.banner-image.png,file
+derisk-measurement-advisor,dir
+derisk-measurement-advisor.zip,file
+diagnose-metric-drop.md,file
+director-readiness-advisor,dir
+director-readiness-advisor.zip,file
+discover.md,file
+discovery-interview-prep,dir
+discovery-interview-prep.zip,file
+discovery-process,dir
+discovery-process.zip,file
+dist,dir
+docs,dir
+eol-checklist,dir
+eol-checklist.zip,file
+eol-internal-enablement,dir
+eol-internal-enablement.zip,file
+eol-message,dir
+eol-message.zip,file
+eol-process,dir
+eol-process.zip,file
+eol-readiness-advisor,dir
+eol-readiness-advisor.zip,file
+eol-stakeholder-sequence,dir
+eol-stakeholder-sequence.zip,file
+epic-breakdown-advisor,dir
+epic-breakdown-advisor.zip,file
+epic-hypothesis,dir
+epic-hypothesis.zip,file
+examples,dir
+executive-onboarding-playbook,dir
+executive-onboarding-playbook.zip,file
+executive-signal-refresh-saas.md,file
+executive-signal-refresh.md,file
+facilitation-scope.md,file
+feature-investment-advisor,dir
+feature-investment-advisor.zip,file
+finance,dir
+finance-based-pricing-advisor,dir
+finance-based-pricing-advisor.zip,file
+finance-metrics-quickref,dir
+finance-metrics-quickref.zip,file
+find-a-command.sh,file
+find-a-skill.sh,file
+generate-catalog.py,file
+healthy-saas.md,file
+healthy-unit-economics.md,file
+improve-youtube.md,file
+incoming-request-advisor,dir
+incoming-request-advisor.zip,file
+inline-input-flow.md,file
+intel-discipline-advisor,dir
+intel-discipline-advisor.zip,file
+intelligence-collection-disciplines,dir
+intelligence-collection-disciplines.zip,file
+jobs-to-be-done,dir
+jobs-to-be-done.zip,file
+leadership-transition.md,file
+lean-ux-canvas,dir
+lean-ux-canvas.zip,file
+lifecycle-play-advisor,dir
+lifecycle-play-advisor.zip,file
+main.py,file
+maintenance,dir
+manual.sh,file
+market-landscape-scan,dir
+market-landscape-scan.zip,file
+market-sizing.py,file
+marketplace.json,file
+meta-product-manager-skills.md,file
+opportunity-solution-tree,dir
+opportunity-solution-tree.zip,file
+organic-growth-advisor,dir
+organic-growth-advisor.zip,file
+package-claude-skills.sh,file
+packages,dir
+pestel-analysis,dir
+pestel-analysis.zip,file
+pestel-delta-monitor,dir
+pestel-delta-monitor.zip,file
+plan-roadmap.md,file
+plugin.json,file
+pm-skill-creator,dir
+pm-skill-creator.zip,file
+pm-skills-codex.zip,file
+pm-skills-guide.jsx,file
+pm-skills-starter-pack.zip,file
+pol-probe,dir
+pol-probe-advisor,dir
+pol-probe-advisor.zip,file
+pol-probe.zip,file
+porters-five-forces,dir
+porters-five-forces.zip,file
+positioning-statement,dir
+positioning-statement.zip,file
+positioning-workshop,dir
+positioning-workshop.zip,file
+prd-development,dir
+prd-development.zip,file
+press-release,dir
+press-release.zip,file
+pricing-packaging-tracker,dir
+pricing-packaging-tracker.zip,file
+prioritization-advisor,dir
+prioritization-advisor.zip,file
+prioritize.md,file
+problem-framing-canvas,dir
+problem-framing-canvas.zip,file
+problem-statement,dir
+problem-statement.zip,file
+product-lifecycle-plays,dir
+product-lifecycle-plays.zip,file
+product-sense-interview-answer,dir
+product-sense-interview-answer.zip,file
+product-strategy-session,dir
+product-strategy-session.zip,file
+proto-persona,dir
+proto-persona.zip,file
+protocol-in-action-industrial.md,file
+protocol-in-action.md,file
+recommendation-canvas,dir
+recommendation-canvas.zip,file
+requirements.txt,file
+research,dir
+roadmap-planning,dir
+roadmap-planning.zip,file
+run-pm.sh,file
+saas-economics-efficiency-metrics,dir
+saas-economics-efficiency-metrics.zip,file
+saas-revenue-growth-metrics,dir
+saas-revenue-growth-metrics.zip,file
+sample-industrial.md,file
+sample-lifesciences.md,file
+sample.md,file
+scripts,dir
+skill-authoring-workflow,dir
+skill-authoring-workflow.zip,file
+skills,dir
+skills-by-type.md,file
+skills-index.yaml,file
+stakeholder-engagement-advisor,dir
+stakeholder-engagement-advisor.zip,file
+stakeholder-identification,dir
+stakeholder-identification.zip,file
+stakeholder-mapping,dir
+stakeholder-mapping.zip,file
+storyboard,dir
+storyboard.zip,file
+strategy.md,file
+swot-analysis,dir
+swot-analysis.zip,file
+tam-sam-som-calculator,dir
+tam-sam-som-calculator.zip,file
+template.md,file
+test-a-skill.sh,file
+test-library.sh,file
+user-story,dir
+user-story-mapping,dir
+user-story-mapping-workshop,dir
+user-story-mapping-workshop.zip,file
+user-story-mapping.zip,file
+user-story-splitting,dir
+user-story-splitting.zip,file
+user-story-template.py,file
+user-story.zip,file
+v080-ai-product-builder-execution-brief.md,file
+validate-skills.sh,file
+voice-of-customer-miner,dir
+voice-of-customer-miner.zip,file
+vp-cpo-readiness-advisor,dir
+vp-cpo-readiness-advisor.zip,file
+warning-signs.md,file
+workflows,dir
+workshop-facilitation,dir
+workshop-facilitation.zip,file
+write-prd.md,file
+zip-a-skill.sh,file

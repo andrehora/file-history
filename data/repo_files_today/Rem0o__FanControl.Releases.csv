@@ -1,0 +1,16 @@
+name,type
+.github,dir
+Avoid.png,file
+FUNDING.yml,file
+FanControl.zip,file
+Hysteresis.png,file
+ISSUE_TEMPLATE,dir
+Images,dir
+LICENSE,file
+MainUI.png,file
+PluginInstallation.png,file
+README.md,file
+Updater.exe,file
+bug_report.md,file
+logo.gif,file
+version.json,file

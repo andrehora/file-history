@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.prettierrc,file
+README.md,file
+markdown-link-check.json,file
+markdown-link-check.yml,file
+pull_request_template.md,file
+workflows,dir

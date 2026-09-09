@@ -1,0 +1,591 @@
+name,type
+.gitignore,file
+.travis.yml,file
+01,dir
+01 Advanced Lighting.md,file
+01 Assimp.md,file
+01 Ball.md,file
+01 Breakout.md,file
+01 Colors.md,file
+01 Debugging.md,file
+01 Depth testing.md,file
+01 Diffuse irradiance.md,file
+01 Fog.md,file
+01 Getting started,dir
+01 OpenGL.md,file
+01 Shadow Mapping.md,file
+01 Theory.md,file
+01-08-01.png,file
+02,dir
+02 Basic Lighting.md,file
+02 Collision detection.md,file
+02 Creating a window.md,file
+02 Gamma Correction.md,file
+02 Lighting,dir
+02 Lighting.md,file
+02 Mesh.md,file
+02 Point Shadows.md,file
+02 Setting up.md,file
+02 Specular IBL.md,file
+02 Stencil testing.md,file
+02 Text Rendering.md,file
+02 Toon shading.md,file
+03,dir
+03 2D Game.md,file
+03 Blending.md,file
+03 CSM.md,file
+03 Collision resolution.md,file
+03 Hello Window.md,file
+03 IBL,dir
+03 Materials.md,file
+03 Model Loading,dir
+03 Model.md,file
+03 Rendering Sprites.md,file
+03 Shadows,dir
+04,dir
+04 Advanced OpenGL,dir
+04 Face culling.md,file
+04 Hello Triangle.md,file
+04 Hello Window.md,file
+04 Levels.md,file
+04 Lighting maps.md,file
+04 Normal Mapping.md,file
+05,dir
+05 Advanced Lighting,dir
+05 Collisions,dir
+05 Framebuffers.md,file
+05 Light casters.md,file
+05 Parallax Mapping.md,file
+05 Shaders.md,file
+05_01_01.png,file
+05_01_F_depth.png,file
+05_01_F_depth_nonliner.png,file
+05_05_Edge_detection.png,file
+05_05_blur_sample.png,file
+05_05framebuffers_ kernel_sample.png,file
+06,dir
+06 Cubemaps.md,file
+06 HDR.md,file
+06 In Practice,dir
+06 Multiple lights.md,file
+06 Particles.md,file
+06 Textures.md,file
+07,dir
+07 Advanced Data.md,file
+07 Bloom.md,file
+07 PBR,dir
+07 Postprocessing.md,file
+07 Review.md,file
+07 Transformations.md,file
+08,dir
+08 Advanced GLSL.md,file
+08 Coordinate Systems.md,file
+08 Deferred Shading.md,file
+08 Effects,dir
+08 Powerups.md,file
+09,dir
+09 Audio.md,file
+09 Camera.md,file
+09 Geometry Shader.md,file
+09 SSAO.md,file
+10,dir
+10 Instancing.md,file
+10 Render Text.md,file
+10 Review.md,file
+11,dir
+11 Anti Aliasing.md,file
+11 Final thoughts.md,file
+2D-Game,dir
+5256.png,file
+Breakout,dir
+ClearBG.py,file
+F_light.png,file
+I.png,file
+I_max.png,file
+Kc.png,file
+Kl.png,file
+Kq.png,file
+Light_casters1.png,file
+Light_casters2.png,file
+Light_casters3.png,file
+OpenGL_pipline_cn.png,file
+README.md,file
+__init__.py,file
+admonition_fix.css,file
+advanced_glsl_binding_points.png,file
+advanced_glsl_fragcoord.png,file
+advanced_glsl_frontfacing.png,file
+advanced_glsl_pointsize.png,file
+advanced_glsl_uniform_buffer_objects.png,file
+advanced_lighting_comparrison.png,file
+advanced_lighting_comparrison2.png,file
+advanced_lighting_halfway_vector.png,file
+advanced_lighting_over_90.png,file
+advanced_lighting_phong_limit.png,file
+ambient_lighting.png,file
+anti_aliasing_aliasing.png,file
+anti_aliasing_multisampled.png,file
+anti_aliasing_post_processing.png,file
+anti_aliasing_rasterization.png,file
+anti_aliasing_rasterization_filled.png,file
+anti_aliasing_rasterization_samples.png,file
+anti_aliasing_rasterization_samples_filled.png,file
+anti_aliasing_sample_points.png,file
+anti_aliasing_zoomed.png,file
+arccos.png,file
+assimp_structure.png,file
+attenuation.png,file
+awesomeface.png,file
+base.css,file
+base.html,file
+base.js,file
+basic_lighting_diffuse.png,file
+basic_lighting_exercise3.png,file
+basic_lighting_gouruad.png,file
+basic_lighting_normal_transformation.png,file
+basic_lighting_phong.png,file
+basic_lighting_specular.png,file
+basic_lighting_specular_shininess.png,file
+basic_lighting_specular_theory.png,file
+bitmapfont.png,file
+blending_C_result.png,file
+blending_discard.png,file
+blending_equation.png,file
+blending_equation_mixed.png,file
+blending_incorrect_order.png,file
+blending_no_discard.png,file
+blending_sorted.png,file
+blending_transparency.png,file
+blending_transparent_window.png,file
+block-textures.png,file
+bloom.png,file
+bloom_attachments.png,file
+bloom_blurred.png,file
+bloom_blurred_large.png,file
+bloom_example.png,file
+bloom_extracted.png,file
+bloom_gaussian.png,file
+bloom_gaussian_two_pass.png,file
+bloom_scene.png,file
+bloom_small.png,file
+bloom_steps.png,file
+bootstrap-3.0.3.min.js,file
+bootstrap-custom.min.css,file
+breakout2600.png,file
+camera3.png,file
+camera4.png,file
+camera_axes.png,file
+camera_circle.mp4,file
+camera_inside.mp4,file
+camera_mouse.mp4,file
+camera_pitch.png,file
+camera_pitch_yaw_roll.png,file
+camera_smooth.mp4,file
+camera_triangle.png,file
+camera_yaw.png,file
+cmake.png,file
+code_repo.md,file
+collisions.mp4,file
+collisions_aabb_circle.png,file
+collisions_aabb_circle_radius_compare.png,file
+collisions_aabb_circle_resolution.png,file
+collisions_ball_aabb.png,file
+collisions_ball_aabb_touch.png,file
+collisions_circle.mp4,file
+collisions_circle.png,file
+collisions_complete.mp4,file
+collisions_overlap.png,file
+collisions_sticky_paddle.mp4,file
+colors_scene.png,file
+commutative.png,file
+container.jpg,file
+container2.png,file
+container2_specular.png,file
+content.html,file
+coordinate_system_1.png,file
+coordinate_system_2.png,file
+coordinate_system_depth.mp4,file
+coordinate_system_no_depth.mp4,file
+coordinate_systems.png,file
+coordinate_systems_multiple_objects.png,file
+coordinate_systems_result.png,file
+coordinate_systems_right_handed.png,file
+costheta.png,file
+costheta2.png,file
+cover.png,file
+css,dir
+cubemaps_morrowind.jpg,file
+cubemaps_reflection.png,file
+cubemaps_reflection_map.png,file
+cubemaps_reflection_nanosuit.png,file
+cubemaps_reflection_theory.png,file
+cubemaps_refraction.png,file
+cubemaps_refraction_theory.png,file
+cubemaps_sampling.png,file
+cubemaps_skybox.png,file
+cubemaps_skybox_result.png,file
+d.png,file
+data,dir
+daylight_spectral_distribution.png,file
+debugging_debug_output.png,file
+debugging_debug_output_breakpoint.png,file
+debugging_external_codexl.png,file
+debugging_external_gdebugger.png,file
+debugging_external_nsight.png,file
+debugging_external_renderdoc.png,file
+debugging_fbo_output.png,file
+debugging_glgeterror.png,file
+debugging_glsl_output.png,file
+debugging_glsl_reference_compiler.png,file
+deferred_example.png,file
+deferred_g_buffer.png,file
+deferred_light_volume_rendered.png,file
+deferred_lights_depth.png,file
+deferred_lights_no_depth.png,file
+deferred_overview.png,file
+deferred_shading.png,file
+deferred_shading_1.png,file
+deferred_shading_2.png,file
+deferred_shading_3.png,file
+deferred_shading_4.png,file
+deferred_shading_5.png,file
+deferred_shading_6.png,file
+deferred_shading_7.png,file
+deferred_shading_8.png,file
+depth_linear_graph.png,file
+depth_non_linear_graph.png,file
+depth_testing_func_always.png,file
+depth_testing_func_less.png,file
+depth_testing_visible_depth.png,file
+depth_testing_visible_linear.png,file
+depth_testing_z_fighting.png,file
+development.png,file
+diffuse_light.png,file
+docs,dir
+emissive.png,file
+epsilon.png,file
+faceculling_frontback.png,file
+faceculling_reverse.png,file
+faceculling_windingorder.png,file
+favicon.ico,file
+filter_linear.png,file
+filter_nearest.png,file
+font-awesome-4.0.3.css,file
+fontawesome-webfont.eot,file
+fontawesome-webfont.svg,file
+fontawesome-webfont.ttf,file
+fontawesome-webfont.woff,file
+fonts,dir
+framebuffers_blur.png,file
+framebuffers_edge_detection.png,file
+framebuffers_grayscale.png,file
+framebuffers_inverse.png,file
+framebuffers_mirror.png,file
+framebuffers_screen_texture.png,file
+framebuffers_sharpen.png,file
+fresnel.png,file
+gamma.png,file
+gamma_correction_attenuation.png,file
+gamma_correction_brightness.png,file
+gamma_correction_example.png,file
+gamma_correction_gamma_curves.png,file
+gamma_correction_srgbtextures.png,file
+geometry.png,file
+geometry_shader_explosion.png,file
+geometry_shader_house.png,file
+geometry_shader_houses.png,file
+geometry_shader_houses_colored.png,file
+geometry_shader_houses_snow.png,file
+geometry_shader_line_strip.png,file
+geometry_shader_lines.png,file
+geometry_shader_normals.png,file
+geometry_shader_points.png,file
+geometry_shader_triangle_strip.png,file
+geometry_shadowing.png,file
+glfw.png,file
+glm.png,file
+glossary.md,file
+glyph.png,file
+glyph_offset.png,file
+grass.png,file
+hdr_clamped.png,file
+hdr_direct.png,file
+hdr_exposure.png,file
+hdr_image.png,file
+hdr_reinhard.png,file
+hellotriangle.png,file
+hellotriangle2.png,file
+hellowindow.png,file
+hellowindow2.png,file
+hemisphere.png,file
+highlight.css,file
+highlight.pack.js,file
+ibl_brdf_lut.png,file
+ibl_equirectangular_projection.png,file
+ibl_grazing_angles.png,file
+ibl_hdr_environment_mapped.png,file
+ibl_hdr_radiance.png,file
+ibl_hemisphere_sample.png,file
+ibl_hemisphere_sample_normal.png,file
+ibl_irradiance.png,file
+ibl_irradiance_map_background.png,file
+ibl_irradiance_result.png,file
+ibl_low_discrepancy_sequence.png,file
+ibl_pdf.png,file
+ibl_prefilter_dots.png,file
+ibl_prefilter_map.png,file
+ibl_prefilter_map_sample.png,file
+ibl_prefilter_seams.png,file
+ibl_specular_lobe.png,file
+ibl_specular_result.png,file
+ibl_specular_result_different_environments.png,file
+ibl_specular_result_model.png,file
+ibl_specular_result_textured.png,file
+ibl_spherical_integrate.png,file
+img,dir
+include_directories.png,file
+index.md,file
+index_image2.png,file
+instancing_asteroids.png,file
+instancing_asteroids_quantity.png,file
+instancing_quads.png,file
+instancing_quads_arrays.png,file
+intro.md,file
+irrklang.png,file
+jquery-1.10.2.min.js,file
+js,dir
+k_black.png,file
+k_green.png,file
+legacy.md,file
+levels-example.png,file
+levels-player.png,file
+levels.png,file
+light_casters_cos.png,file
+light_casters_directional.png,file
+light_casters_directional_light.png,file
+light_casters_point.png,file
+light_casters_point_light.png,file
+light_casters_spotlight.png,file
+light_casters_spotlight_angles.png,file
+light_casters_spotlight_hard.png,file
+light_reflection.png,file
+lighting_fresnel_no_roughness.png,file
+lighting_linear_vs_non_linear_and_hdr.png,file
+lighting_maps_exercise3.png,file
+lighting_maps_exercise4.png,file
+lighting_maps_specular_color.png,file
+lighting_radiance_direct.png,file
+lighting_result.png,file
+lighting_textured.png,file
+linker_input.png,file
+look_at.png,file
+look_at_D.png,file
+look_at_P.png,file
+look_at_R.png,file
+look_at_U.png,file
+materials.mp4,file
+materials_diffuse_map.png,file
+materials_light.png,file
+materials_real_world.png,file
+materials_specular_map.png,file
+materials_with_material.png,file
+matrix.jpg,file
+matrix_multiplication.png,file
+mdx_math.py,file
+microfacets.png,file
+microfacets_light_rays.png,file
+mipmaps.png,file
+mkdocs.yml,file
+model_diffuse.png,file
+model_lighting.png,file
+multiple_lights_atmospheres.png,file
+multiple_lights_combined.png,file
+n_unit.png,file
+nanosuit.rar,file
+nanosuit_reflection.zip,file
+nav-sub.html,file
+nav.html,file
+ndc.png,file
+ndf.png,file
+no_collisions.mp4,file
+normal_mapping_compare.png,file
+normal_mapping_comparison.png,file
+normal_mapping_complex_compare.png,file
+normal_mapping_correct.png,file
+normal_mapping_correct_tangent.png,file
+normal_mapping_flat.png,file
+normal_mapping_ground.png,file
+normal_mapping_ground_normals.png,file
+normal_mapping_normal_map.png,file
+normal_mapping_surface_edges.png,file
+normal_mapping_surfaces.png,file
+normal_mapping_tbn_shown.png,file
+normal_mapping_tbn_vectors.png,file
+old,dir
+opengl.jpg,file
+orthographic_frustum.png,file
+paddle.png,file
+parallax_mapping.png,file
+parallax_mapping_depth.png,file
+parallax_mapping_edge_fix.png,file
+parallax_mapping_height_map.png,file
+parallax_mapping_incorrect_p.png,file
+parallax_mapping_issues.png,file
+parallax_mapping_parallax_occlusion_mapping.png,file
+parallax_mapping_parallax_occlusion_mapping_diagram.png,file
+parallax_mapping_plane_height.png,file
+parallax_mapping_plane_heightmap.png,file
+parallax_mapping_scaled_height.png,file
+parallax_mapping_steep_artifact.png,file
+parallax_mapping_steep_parallax_mapping.png,file
+parallax_mapping_steep_parallax_mapping_diagram.png,file
+particle.png,file
+particles.mp4,file
+particles_example.jpg,file
+patreon_logo.png,file
+paypal_logo.png,file
+perspective.png,file
+perspective_frustum.png,file
+perspective_orthographic.png,file
+phi.png,file
+pipeline.png,file
+planet.rar,file
+point_shadows.png,file
+point_shadows_depth_cubemap.png,file
+point_shadows_diagram.png,file
+point_shadows_soft.png,file
+point_shadows_soft_better.png,file
+postprocessing_effects.png,file
+powerups.png,file
+preview.png,file
+projection.png,file
+quad_formula.png,file
+radiance.png,file
+radiant_intensity.png,file
+render_text_lives.png,file
+render_text_select.png,file
+render_text_win.png,file
+rendering-sprites.png,file
+rock.rar,file
+rotation-origin.png,file
+rxryrz.png,file
+s1s2s3.png,file
+s_blue.png,file
+setting-up.png,file
+setup.py,file
+shaders.mp4,file
+shaders.png,file
+shaders1.jpg,file
+shaders2.jpg,file
+shaders3.png,file
+shaders_enemy.jpg,file
+shadow_mapping_acne.png,file
+shadow_mapping_acne_bias.png,file
+shadow_mapping_acne_diagram.png,file
+shadow_mapping_clamp_edge.png,file
+shadow_mapping_culling.png,file
+shadow_mapping_depth_map.png,file
+shadow_mapping_outside_frustum.png,file
+shadow_mapping_over_sampling_fixed.png,file
+shadow_mapping_peter_panning.png,file
+shadow_mapping_projection.png,file
+shadow_mapping_shadows.png,file
+shadow_mapping_soft_shadows.png,file
+shadow_mapping_theory.png,file
+shadow_mapping_theory_spaces.png,file
+shadow_mapping_with_bias.png,file
+shadow_mapping_with_without.png,file
+shadow_mapping_zoom.png,file
+skybox.rar,file
+solid_angle.png,file
+ssao.png,file
+ssao_banding_noise.jpg,file
+ssao_crysis.jpg,file
+ssao_crysis_circle.png,file
+ssao_example.png,file
+ssao_final.png,file
+ssao_hemisphere (1).png,file
+ssao_hemisphere.png,file
+ssao_kernel_weight.png,file
+ssao_overview.png,file
+ssao_range_check.png,file
+ssao_smoothstep.png,file
+ssao_without_blur.png,file
+stencil_buffer.png,file
+stencil_object_outlining.png,file
+stencil_scene_outlined.png,file
+style.css,file
+styleguide.md,file
+surface_reaction.png,file
+t1t2t3.png,file
+tex_coords.png,file
+text_rendering.png,file
+text_rendering_quads.png,file
+texture_filtering.png,file
+texture_wrapping.png,file
+textures.png,file
+textures2.png,file
+textures_combined.png,file
+textures_combined2.png,file
+textures_exercise2.png,file
+textures_funky.png,file
+theta.png,file
+toc.html,file
+tools,dir
+trans,dir
+transformations.mp4,file
+transformations.png,file
+transformations1.png,file
+transformations10.png,file
+transformations11.png,file
+transformations12.png,file
+transformations13.png,file
+transformations14.png,file
+transformations15.png,file
+transformations16.png,file
+transformations17.png,file
+transformations18.png,file
+transformations19.png,file
+transformations2.png,file
+transformations20.png,file
+transformations21.png,file
+transformations22.png,file
+transformations23.png,file
+transformations24.png,file
+transformations25.png,file
+transformations26.png,file
+transformations27.png,file
+transformations28.png,file
+transformations29.png,file
+transformations3.png,file
+transformations30.png,file
+transformations31.png,file
+transformations32.png,file
+transformations4.png,file
+transformations5.png,file
+transformations6.png,file
+transformations7.png,file
+transformations8.png,file
+transformations9.png,file
+v.k.png,file
+v_black.png,file
+v_mag.png,file
+v_red.png,file
+vc_directories.png,file
+vectors.png,file
+vectors_addition.png,file
+vectors_angle.png,file
+vectors_crossproduct.png,file
+vectors_scale.png,file
+vectors_subtraction.png,file
+vectors_triangle.png,file
+vertex_array_objects.png,file
+vertex_array_objects_ebo.png,file
+vertex_attribute_pointer.png,file
+vertex_attribute_pointer_interleaved.png,file
+vertex_attribute_pointer_interleaved_textures.png,file
+vxk.png,file
+w_blue.png,file
+wall.jpg,file
+yeti,dir
+z_sq.png,file

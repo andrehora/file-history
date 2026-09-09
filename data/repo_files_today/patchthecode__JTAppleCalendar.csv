@@ -1,0 +1,135 @@
+name,type
+.github,dir
+.gitignore,file
+.swiftpm,dir
+.tailor.yml,file
+.travis.yml,file
+Adding Events.md,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+Assets.xcassets,dir
+Base.lproj,dir
+Build A Calendar From Scratch.md,file
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+CalendarEnums.swift,file
+CalendarStructs.swift,file
+CellView.swift,file
+CellView.xib,file
+CodeCellView.swift,file
+CodePinkSectionHeaderView.swift,file
+CodeWhiteSectionHeaderView.swift,file
+Common Elements.md,file
+Configuring inDates monthDates outDates.md,file
+Contents.json,file
+DateCellCreatedWithCode,dir
+DateCellCreatedWithXIB,dir
+Example Calendars,dir
+ExampleDateCells,dir
+ExampleSectionHeaders,dir
+Get Started.md,file
+GlobalFunctionsAndExtensions.swift,file
+Handling Device Rotation.md,file
+HeaderAsClass,dir
+HeaderAsXibs,dir
+Headers.md,file
+IDEWorkspaceChecks.plist,file
+ISSUE_TEMPLATE,file
+Implementing week numbers.md,file
+Info.plist,file
+Installation.md,file
+JTACCollectionMonthViewDelegates.swift,file
+JTACCollectionYearViewDelegates.swift,file
+JTACDayCell.swift,file
+JTACInteractionMonthFunctions.swift,file
+JTACInteractionYearFunctions.swift,file
+JTACMonthActionFunctions.swift,file
+JTACMonthCell.swift,file
+JTACMonthDelegateProtocol.swift,file
+JTACMonthLayout.swift,file
+JTACMonthLayoutHorizontalCalendar.swift,file
+JTACMonthLayoutProtocol.swift,file
+JTACMonthLayoutVerticalCalendar.swift,file
+JTACMonthQueryFunctions.swift,file
+JTACMonthReusableView.swift,file
+JTACMonthView.swift,file
+JTACMonthViewProtocols.swift,file
+JTACScrollViewDelegates.swift,file
+JTACVariables.swift,file
+JTACYearView.swift,file
+JTACYearViewProtocols.swift,file
+JTAppleCalendar,dir
+JTAppleCalendar.h,file
+JTAppleCalendar.podspec,file
+JTAppleCalendar.xcodeproj,dir
+JTAppleCalendar.xcscheme,file
+JTAppleCalendarTests,dir
+JTAppleCalendarTests.swift,file
+LICENSE,file
+LaunchScreen.storyboard,file
+LinuxMain.swift,file
+Main.storyboard,file
+Package.swift,file
+PinkSectionHeaderView.swift,file
+PinkSectionHeaderView.xib,file
+PrivacyInfo.xcprivacy,file
+README.md,file
+Range selection styles.md,file
+Regular Selection.md,file
+SampleJTAppleCalendar,dir
+SampleJTAppleCalendar.xcodeproj,dir
+SampleJTAppleCalendar.xcscheme,file
+SampleJTAppleCalendarUITests,dir
+SampleJTAppleCalendarUITests.swift,file
+SceneDelegate.swift,file
+Scrolling Modes.md,file
+Sources,dir
+Switch between month-view and week-view.md,file
+TestOrientationChanges.swift,file
+TestPersianCalendar.swift,file
+TestRangeSelectionViewController.swift,file
+TestViewController.swift,file
+TestYearViewViewController.swift,file
+Tests,dir
+ViewController.swift,file
+WhiteSectionHeaderView.swift,file
+WhiteSectionHeaderView.xib,file
+XCTestManifests.swift,file
+adding-events,dir
+build-calendar,dir
+common-elements,dir
+configure-in-out-month-dates,dir
+contents.xcworkspacedata,file
+cube.imageset,dir
+cube.png,file
+device-rotation,dir
+docs,dir
+get-started,dir
+headers,dir
+image1.gif,file
+image1.png,file
+image2.gif,file
+image2.png,file
+image3.gif,file
+image3.png,file
+image4.gif,file
+image4.png,file
+image5.png,file
+image6.png,file
+image7.png,file
+image8.png,file
+images,dir
+implementing-week-numbers,dir
+installation,dir
+migration-guide,dir
+package.xcworkspace,dir
+project.pbxproj,file
+project.xcworkspace,dir
+range-selection-styles,dir
+regular-selection,dir
+scrolling-modes,dir
+switch-month-to-week-view,dir
+v8 Migration Guide.md,file
+xcode,dir
+xcschemes,dir
+xcshareddata,dir

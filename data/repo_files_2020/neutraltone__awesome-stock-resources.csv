@@ -1,0 +1,7 @@
+name,type
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+img,dir
+splash.jpg,file

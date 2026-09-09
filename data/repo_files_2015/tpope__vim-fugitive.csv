@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+CONTRIBUTING.markdown,file
+README.markdown,file
+doc,dir
+fugitive.txt,file
+fugitive.vim,file
+plugin,dir

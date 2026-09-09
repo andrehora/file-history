@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.gitignore,file
+CONTRIBUTING.md,file
+Makefile,file
+README.md,file
+README.md.jinja,file
+data,dir
+macros.md.jinja,file
+projects.toml,file
+render-template.py,file
+sql-based.md,file
+sql-based.md.jinja,file
+sql-based.toml,file

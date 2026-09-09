@@ -1,0 +1,5 @@
+name,type
+README.md,file
+fig.yml,file
+logstash-conf,dir
+logstash.conf,file

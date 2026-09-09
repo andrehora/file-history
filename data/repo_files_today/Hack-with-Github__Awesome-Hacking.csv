@@ -1,0 +1,8 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+awesome_hacking.webp,file
+contributing.md,file
+lock-threads.yml,file
+workflows,dir

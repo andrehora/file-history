@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+Program.cs,file
+README.md,file
+add--library-framework-tool-link-.md,file
+contributing.md,file
+custom.md,file

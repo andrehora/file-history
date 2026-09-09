@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.idea,dir
+README.md,file
+awesome-deep-reinforcement-learning-in-finance.iml,file
+logo.svg,file
+media,dir
+misc.xml,file
+modules.xml,file
+vcs.xml,file
+workspace.xml,file

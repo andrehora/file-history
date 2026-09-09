@@ -1,0 +1,11 @@
+name,type
+CNAME,file
+README.md,file
+_config.yml,file
+_includes,dir
+ads.txt,file
+head-custom.html,file
+privacy.md,file
+releases,dir
+shamiko.json,file
+shamiko_changelog.md,file

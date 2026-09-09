@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.jshintrc,file
+ArraySchema.js,file
+EntitySchema.js,file
+LICENSE,file
+README.md,file
+index.js,file
+package.json,file
+test,dir

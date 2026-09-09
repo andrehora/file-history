@@ -1,0 +1,6 @@
+name,type
+Makefile,file
+README.md,file
+accelerated-domains.china.conf,file
+bogus-nxdomain.china.conf,file
+dnsmasq-update-china-list,file

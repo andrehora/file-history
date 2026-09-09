@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+README.md,file
+issue_template.md,file
+proxyman_dashboard_1.8.0.png,file
+proxyman_logo.png,file
+screenshots,dir

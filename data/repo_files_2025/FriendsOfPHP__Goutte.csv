@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+Client.php,file
+ClientTest.php,file
+Goutte,dir
+LICENSE,file
+README.rst,file
+Resources,dir
+Tests,dir
+box.json,file
+composer.json,file
+phar-stub.php,file
+phpunit.xml.dist,file

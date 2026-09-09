@@ -1,0 +1,492 @@
+name,type
+.gitignore,file
+00-aws-simple-demos,dir
+01_DEMOSETUP,dir
+01_HYBRIDDIR-PARENT.yaml,file
+01_HYBRIDDIR.yaml,file
+01_LABSETUP,dir
+02_HYBRIDDIR-NESTED-ONPREM-VPC.template.yaml,file
+02_HYBRIDDIR-NESTED-ONPREM-VPC.yaml,file
+02_INSTRUCTIONS,dir
+02_LABINSTRUCTIONS,dir
+03_HYBRID-NESTED-ONPREM-AD-v2.yaml,file
+03_HYBRIDDIR-NESTED-ONPREM-AD-v2.yaml,file
+03_HYBRIDDIR-NESTED-ONPREM-AD-v3.yaml,file
+03_HYBRIDDIR-NESTED-ONPREM-AD.yaml,file
+04_HYBRIDDIR-NESTED-ONPREM-COMPUTE.yaml,file
+05_HYBRIDDIR-NESTED-AWS-VPC.yaml,file
+51-eth1.yaml,file
+A4LVPC.yaml,file
+ADVS2SVPN-AWS.yaml,file
+ADVS2SVPN-ONPREM.yaml,file
+ALBSTICKINESS.yaml,file
+APPCFN.yaml,file
+ARCHITECTURE-ENDSTATE.pdf,file
+ARCHITECTURE-ENDSTATE.png,file
+ARCHITECTURE-OVERALL.pdf,file
+ARCHITECTURE-OVERALL.png,file
+ARCHITECTURE-STAGE1.pdf,file
+ARCHITECTURE-STAGE1.png,file
+ARCHITECTURE-STAGE2.pdf,file
+ARCHITECTURE-STAGE2.png,file
+ARCHITECTURE-STAGE3.pdf,file
+ARCHITECTURE-STAGE3.png,file
+ARCHITECTURE-STAGE4.pdf,file
+ARCHITECTURE-STAGE4.png,file
+ARCHITECTURE-STAGE5.pdf,file
+ARCHITECTURE-STAGE5.png,file
+AWS_HYBRID_AdvancedVPN,dir
+Architecture-INITIALSTATE.png,file
+Architecture-STAGE1-VERIFY.png,file
+Architecture-STAGE1.png,file
+Architecture-STAGE2-PROVISIONCONNECTIVITY.png,file
+Architecture-STAGE2.png,file
+Architecture-STAGE3-INBOUNDENDPOINTS.png,file
+Architecture-STAGE3.png,file
+Architecture-STAGE4-OUTBOUNDENDPOINTS.png,file
+Architecture-STAGE4.png,file
+Architecture-STAGE5.png,file
+Architecture-STAGE6.png,file
+Architecture.png,file
+ArchitectureEvolution.pdf,file
+ArchitectureEvolution.png,file
+ArchitectureEvolutionAll.pdf,file
+ArchitectureEvolutionAll.png,file
+BGPVPNINFRA.yaml,file
+BdfFontFile.py,file
+BlpImagePlugin.py,file
+BmpImagePlugin.py,file
+BufrStubImagePlugin.py,file
+CommonIssues.md,file
+ContainerIO.py,file
+CurImagePlugin.py,file
+DMS.yaml,file
+DMSMigrationInfra.yaml,file
+DcxImagePlugin.py,file
+DdsImagePlugin.py,file
+DemoValueTemplate.md,file
+EFS SIMPLE Demo.md,file
+EFSInfra.yaml,file
+EpsImagePlugin.py,file
+ExifTags.py,file
+FitsStubImagePlugin.py,file
+FliImagePlugin.py,file
+FontFile.py,file
+FpxImagePlugin.py,file
+FtexImagePlugin.py,file
+GPOs.zip,file
+GbrImagePlugin.py,file
+GdImageFile.py,file
+GifImagePlugin.py,file
+GimpGradientFile.py,file
+GimpPaletteFile.py,file
+GribStubImagePlugin.py,file
+Hdf5StubImagePlugin.py,file
+HybridDNS.yaml,file
+IPV6 Migration Instructions.md,file
+IcnsImagePlugin.py,file
+IcoImagePlugin.py,file
+ImImagePlugin.py,file
+Image.py,file
+ImageChops.py,file
+ImageCms.py,file
+ImageColor.py,file
+ImageDraw.py,file
+ImageDraw2.py,file
+ImageEnhance.py,file
+ImageFile.py,file
+ImageFilter.py,file
+ImageFont.py,file
+ImageGrab.py,file
+ImageMath.py,file
+ImageMode.py,file
+ImageMorph.py,file
+ImageOps.py,file
+ImagePalette.py,file
+ImagePath.py,file
+ImageQt.py,file
+ImageSequence.py,file
+ImageShow.py,file
+ImageStat.py,file
+ImageTk.py,file
+ImageTransform.py,file
+ImageWin.py,file
+ImtImagePlugin.py,file
+IptcImagePlugin.py,file
+Jpeg2KImagePlugin.py,file
+JpegImagePlugin.py,file
+JpegPresets.py,file
+LICENSE,file
+Lambda_and_S3Events.md,file
+METADATA,file
+McIdasImagePlugin.py,file
+MicImagePlugin.py,file
+Module-AD,dir
+Module-AD.psd1,file
+Module-AD.psm1,file
+Modules,dir
+MpegImagePlugin.py,file
+MpoImagePlugin.py,file
+MspImagePlugin.py,file
+OnPremRouter1,dir
+OnPremRouter2,dir
+PIL,dir
+PSDraw.py,file
+PaletteFile.py,file
+PalmImagePlugin.py,file
+PatchManagerBase.yaml,file
+PatchManagerVPCEndpointsandRole.yaml,file
+PcdImagePlugin.py,file
+PcfFontFile.py,file
+PcxImagePlugin.py,file
+PdfImagePlugin.py,file
+PdfParser.py,file
+Pillow-9.0.1.dist-info,dir
+Pillow.libs,dir
+PixarImagePlugin.py,file
+PngImagePlugin.py,file
+PpmImagePlugin.py,file
+PsdImagePlugin.py,file
+PyAccess.py,file
+README.md,file
+RECORD,file
+Readme.md,file
+STAGE 1 - Create and train the Rekognition model.md,file
+STAGE 1 - Create the ECR repository and create the Lambda function.md,file
+STAGE 2 - Create the ECR repository and build the Docker image.md,file
+STAGE 2 - Create the RDS database.md,file
+"STAGE 3 - Build the Docker image, create Parameter Store entries and set up RDS database.md",file
+"STAGE 3 - Create the ECS cluster, ECS task definition and ECS service.md",file
+STAGE 4 - Create and configure the Lex Bot.md,file
+STAGE 4 - Test the application.md,file
+STAGE 5 - Clean up.md,file
+STAGE 5 - Deploy the application using App Runner.md,file
+STAGE 6 - Test the bot and review the appointments.md,file
+STAGE 7 - Clean up.md,file
+STAGE0.pdf,file
+STAGE0.png,file
+STAGE1 - AWS and ONPREM Setup.md,file
+STAGE1 - Configure SES.md,file
+STAGE1 - Provision & Verify.md,file
+STAGE1 - Provision Environment and Review Architecture.md,file
+STAGE1 - Provision and Discuss Architecture.md,file
+STAGE1 - SINGLE SERVER MANUAL.pdf,file
+STAGE1 - SINGLE SERVER MANUAL.png,file
+STAGE1 - Setup and Manual wordpress build.md,file
+STAGE1 - Start Architecture.png,file
+STAGE1-CODECOMMIT.md,file
+STAGE1.md,file
+STAGE1.pdf,file
+STAGE1.png,file
+STAGE2 - AWS Managed Instances.md,file
+STAGE2 - Automate the build using a Launch Template.md,file
+STAGE2 - Configure email_reminder_lambda.md,file
+STAGE2 - Connect to the ONPREMISES Jumpbox.md,file
+STAGE2 - Create Google APIProject and Client ID.md,file
+STAGE2 - Establish network connectivity.md,file
+STAGE2 - Provision Connectivity.md,file
+STAGE2 - SINGLE SERVER LT.pdf,file
+STAGE2 - SINGLE SERVER LT.png,file
+STAGE2 - TGW VPN ATTACHMENTS.md,file
+STAGE2 - Tunnel Architecture.png,file
+STAGE2-CODEBUILD.md,file
+STAGE2.md,file
+STAGE2.pdf,file
+STAGE2.png,file
+STAGE3 - Add RDS and Update the LT.md,file
+STAGE3 - Create & Configure the AWS Side infrastructure.md,file
+STAGE3 - Create Cognito Identity Pool.md,file
+STAGE3 - Create Managed Microsoft AD within AWS.md,file
+STAGE3 - IPSEC TUNNEL CONFIG.md,file
+STAGE3 - Implement and Configure State Machine.md,file
+STAGE3 - Inbound Endpoints.md,file
+STAGE3 - On-Prem Managed Instances.md,file
+STAGE3 - SPLIT OUT RDS.pdf,file
+STAGE3 - SPLIT OUT RDS.png,file
+STAGE3 - TUNNEL CONFIGURATION.png,file
+STAGE3-CODEPIPELINE.md,file
+STAGE3.md,file
+STAGE3.pdf,file
+STAGE3.png,file
+STAGE4 - API Gateway and Application Lambda.md,file
+STAGE4 - Add EFS and Update the LT.md,file
+STAGE4 - BGP ROUTING AND TESTING.md,file
+STAGE4 - Configure Patching.md,file
+STAGE4 - Create Trust.md,file
+STAGE4 - FINAL BGP Architecture.png,file
+STAGE4 - Migrate Database & Cutover.md,file
+STAGE4 - Outbound Endpoints.md,file
+STAGE4 - SPLIT OUT EFS.pdf,file
+STAGE4 - SPLIT OUT EFS.png,file
+STAGE4 - Update App Bucket and Test Application.md,file
+STAGE4-CODEDEPLOY.md,file
+STAGE4.md,file
+STAGE4.pdf,file
+STAGE4.png,file
+STAGE5 - ASG & ALB.pdf,file
+STAGE5 - ASG & ALB.png,file
+STAGE5 - Add an ELB and ASG.md,file
+STAGE5 - CLEANUP.md,file
+STAGE5 - Cleanup.md,file
+STAGE5 - Create FSx and Migrate data.md,file
+STAGE5 - Serverless Application Frontend.md,file
+STAGE5 - Verify Patching.md,file
+STAGE5-CLEANUP.md,file
+STAGE5.md,file
+STAGE5.pdf,file
+STAGE5.png,file
+STAGE6 - CLEANUP.md,file
+STAGE6 - Cleanup.md,file
+STAGE6 - Create workspace and migrate desktop.md,file
+STAGE6.md,file
+STAGE7 - CLEANUP.md,file
+Session Stickiness Instructions.md,file
+SgiImagePlugin.py,file
+SpiderImagePlugin.py,file
+SunImagePlugin.py,file
+TarIO.py,file
+TgaImagePlugin.py,file
+TiffImagePlugin.py,file
+TiffTags.py,file
+Untitled 0.png,file
+Untitled 1.png,file
+Untitled 10.png,file
+Untitled 11.png,file
+Untitled 12.png,file
+Untitled 13.png,file
+Untitled 14.png,file
+Untitled 15.png,file
+Untitled 16.png,file
+Untitled 17.png,file
+Untitled 18.png,file
+Untitled 19.png,file
+Untitled 2.png,file
+Untitled 20.png,file
+Untitled 21.png,file
+Untitled 22.png,file
+Untitled 23.png,file
+Untitled 24.png,file
+Untitled 25.png,file
+Untitled 26.png,file
+Untitled 27.png,file
+Untitled 28.png,file
+Untitled 29.png,file
+Untitled 3.png,file
+Untitled 30.png,file
+Untitled 31.png,file
+Untitled 32.png,file
+Untitled 33.png,file
+Untitled 34.png,file
+Untitled 35.png,file
+Untitled 36.png,file
+Untitled 37.png,file
+Untitled 38.png,file
+Untitled 39.png,file
+Untitled 4.png,file
+Untitled 40.png,file
+Untitled 41.png,file
+Untitled 42.png,file
+Untitled 43.png,file
+Untitled 44.png,file
+Untitled 45.png,file
+Untitled 46.png,file
+Untitled 47.png,file
+Untitled 48.png,file
+Untitled 49.png,file
+Untitled 5.png,file
+Untitled 50.png,file
+Untitled 51.png,file
+Untitled 52.png,file
+Untitled 53.png,file
+Untitled 54.png,file
+Untitled 55.png,file
+Untitled 56.png,file
+Untitled 57.png,file
+Untitled 58.png,file
+Untitled 59.png,file
+Untitled 6.png,file
+Untitled 60.png,file
+Untitled 61.png,file
+Untitled 62.png,file
+Untitled 63.png,file
+Untitled 64.png,file
+Untitled 65.png,file
+Untitled 66.png,file
+Untitled 67.png,file
+Untitled 68.png,file
+Untitled 69.png,file
+Untitled 7.png,file
+Untitled 70.png,file
+Untitled 71.png,file
+Untitled 72.png,file
+Untitled 73.png,file
+Untitled 74.png,file
+Untitled 75.png,file
+Untitled 76.png,file
+Untitled 77.png,file
+Untitled 78.png,file
+Untitled 79.png,file
+Untitled 8.png,file
+Untitled 9.png,file
+Untitled.png,file
+VPC Lambda EFS Demo.md,file
+WEBIDF.yaml,file
+WHEEL,file
+WalImageFile.py,file
+WebPImagePlugin.py,file
+WmfImagePlugin.py,file
+XVThumbImagePlugin.py,file
+XbmImagePlugin.py,file
+XpmImagePlugin.py,file
+ZZ_RETIRED,dir
+__init__.py,file
+__main__.py,file
+_binary.py,file
+_imaging.cpython-39-x86_64-linux-gnu.so,file
+_imagingcms.cpython-39-x86_64-linux-gnu.so,file
+_imagingft.cpython-39-x86_64-linux-gnu.so,file
+_imagingmath.cpython-39-x86_64-linux-gnu.so,file
+_imagingmorph.cpython-39-x86_64-linux-gnu.so,file
+_imagingtk.cpython-39-x86_64-linux-gnu.so,file
+_tkinter_finder.py,file
+_util.py,file
+_version.py,file
+_webp.cpython-39-x86_64-linux-gnu.so,file
+api_lambda_placeholder,dir
+api_lambda_placeholder1.png,file
+api_lambda_placeholder2.png,file
+api_lambda_placeholder3.png,file
+api_lambda_placeholder4.png,file
+app.zip,file
+appbucket,dir
+aws-alb-session-stickiness,dir
+aws-api-gateway,dir
+aws-appstream-image,dir
+aws-client-vpn,dir
+aws-cloudtrail-log-file-integrity,dir
+aws-codepipeline-catpipeline,dir
+aws-cognito-web-identity-federation,dir
+aws-control-tower,dir
+aws-dms-database-migration,dir
+aws-dynamodb-lambda-trigger,dir
+aws-efs,dir
+aws-elastic-disaster-recovery,dir
+aws-elastic-wordpress-evolution,dir
+aws-fault-injection-simulator,dir
+aws-global-accelerator,dir
+aws-hybrid-activedirectory,dir
+aws-hybrid-bgpvpn,dir
+aws-hybrid-dns,dir
+aws-iam-scp-permissions-boundary,dir
+aws-lambda-s3-events,dir
+aws-lambda-vpc-efs,dir
+aws-lambda-xray,dir
+aws-lex-lambda-rds,dir
+aws-macie,dir
+aws-patch-manager,dir
+aws-pet-rekognition-ecr,dir
+aws-s3-multi-region-access-point,dir
+aws-s3-object-lambda-access-point,dir
+aws-scalable-sysops-using-ssm,dir
+aws-serverless-pet-cuddle-o-tron,dir
+aws-sftp-transfer-family-with-s3,dir
+aws-simple-site2site-vpn,dir
+aws-systems-manager,dir
+aws-video-on-demand,dir
+aws-vpc-flow-logs,dir
+aws-vpc-ipv6,dir
+aws-waf,dir
+awszone.forward,file
+cat.jpg,file
+cat_dogs_training_data.zip,file
+catdownloader.py,file
+catpipeline-arch-all.png,file
+catpipeline-arch-stage1.pdf,file
+catpipeline-arch-stage1.png,file
+catpipeline-arch-stage2.pdf,file
+catpipeline-arch-stage2.png,file
+catpipeline-arch-stage3.pdf,file
+catpipeline-arch-stage3.png,file
+catpipeline-arch-stage4.pdf,file
+catpipeline-arch-stage4.png,file
+container.zip,file
+cors1.png,file
+cors1b.png,file
+cors2.png,file
+cors3.png,file
+cors4.png,file
+cors5.png,file
+cors6.png,file
+cors7.png,file
+corsbox,dir
+cupcake.jpg,file
+db_init.py,file
+demo_architecture.key,file
+demogrid.png,file
+features.py,file
+ffrouting-install.sh,file
+function.zip,file
+get-paid-to-create-projects.md,file
+hybrid-dns-endstate.png,file
+hybriddirectoryadvdemo.png,file
+images,dir
+index.html,file
+index.php,file
+infra.yaml,file
+instructionsFULL.md,file
+ipsec-vti.sh,file
+ipsec.conf,file
+ipsec.secrets,file
+lambda,dir
+lambda_function.py,file
+lambda_function.zip,file
+lambdaproxyintegration,dir
+lambdaproxyintegration1.png,file
+lambdaproxyintegration2.png,file
+lambdaproxyintegration3.png,file
+lambdaproxyintegration4.png,file
+lambdaproxyintegration5.png,file
+lambdaproxyintegration6.png,file
+lambdaproxyintegration7.png,file
+lambdaproxyintegration8.png,file
+lambdaproxyintegration9.png,file
+libXau-00ec42fe.so.6.0.0,file
+libfreetype-a029e222.so.6.18.1,file
+libharfbuzz-851aa43c.so.0.30200.0,file
+libjpeg-62ed1500.so.62.3.0,file
+liblcms2-5ee890d7.so.2.0.13,file
+liblzma-d540a118.so.5.2.5,file
+libopenjp2-430a98fc.so.2.4.0,file
+libpng16-213e245f.so.16.37.0,file
+libtiff-8e99fb9e.so.5.7.0,file
+libwebp-8efe125f.so.7.1.3,file
+libwebpdemux-016472e8.so.2.0.9,file
+libwebpmux-5c00cf3e.so.3.0.8,file
+libxcb-1122e22b.so.1.1.0,file
+libz-dd453c56.so.1.2.11,file
+media,dir
+my-deployment-package.zip,file
+nohair.jpg,file
+old,dir
+old-ffrouting-install-old.sh,file
+penny.jpeg,file
+policy,dir
+pymysql_layer.zip,file
+readme.md,file
+roffle.jpeg,file
+s3pixelator.json,file
+scripts,dir
+scripts.js,file
+serverlessjs1.png,file
+serverlessjs2.png,file
+serverlessjs3.png,file
+serverlessjs4.png,file
+serverlessjs_notupdated,dir
+test.md,file
+top_level.txt,file
+truffs.jpeg,file
+uninstall.ps1,file
+v2,dir
+v3static,dir
+winkie.jpeg,file
+zip-safe,file

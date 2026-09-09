@@ -1,0 +1,6 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+LICENSE.md,file
+README.md,file
+add-lecture-notes.md,file

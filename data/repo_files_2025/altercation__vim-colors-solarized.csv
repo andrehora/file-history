@@ -1,0 +1,11 @@
+name,type
+README.mkd,file
+autoload,dir
+bitmaps,dir
+colors,dir
+doc,dir
+solarized.txt,file
+solarized.vim,file
+tags,file
+togglebg.png,file
+togglebg.vim,file

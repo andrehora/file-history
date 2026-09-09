@@ -1,0 +1,21 @@
+name,type
+Clear Last Used Files and Folders.ps1,file
+Debloat Windows,file
+Disable Cortana,file
+Disable Last Used Files and Folders View.ps1,file
+Enable Cortana,file
+Enable Edge PDF,file
+Fix Whitelisted Apps,file
+Individual Scripts,dir
+LICENSE,file
+Protect Privacy,file
+README.md,file
+Remove Bloatware RegKeys,file
+Revert Changes,file
+Set Explorers LaunchTo Computer.ps1,file
+Stop Edge PDF,file
+Uninstall OneDrive,file
+Unpin Start,file
+Windows10Debloater.ps1,file
+Windows10DebloaterGUI.ps1,file
+Windows10SysPrepDebloater.ps1,file

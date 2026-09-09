@@ -1,0 +1,16 @@
+name,type
+.env.example,file
+.gitignore,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+assets,dir
+credentials,dir
+demo-data,dir
+docker-compose.yml,file
+n8n,dir
+n8n-demo.gif,file
+sFfERYppMeBnFNeA.json,file
+srOnR8PAY3u4RSwb.json,file
+workflows,dir
+xHuYe0MDGOs9IpBW.json,file

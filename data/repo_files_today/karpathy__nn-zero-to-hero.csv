@@ -1,0 +1,13 @@
+name,type
+LICENSE,file
+README.md,file
+lectures,dir
+makemore,dir
+makemore_part1_bigrams.ipynb,file
+makemore_part2_mlp.ipynb,file
+makemore_part3_bn.ipynb,file
+makemore_part4_backprop.ipynb,file
+makemore_part5_cnn1.ipynb,file
+micrograd,dir
+micrograd_lecture_first_half_roughly.ipynb,file
+micrograd_lecture_second_half_roughly.ipynb,file

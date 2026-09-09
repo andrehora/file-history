@@ -1,0 +1,245 @@
+name,type
+.gitignore,file
+3DPRINT.md,file
+3dprinting,dir
+4040_Base_Mount,dir
+4040_base_mount.jpg,file
+4040_base_mount.step,file
+4040_base_mount.stl,file
+4040_base_mount_print_orientation.png,file
+4040_base_mount_side.jpg,file
+Base.stl,file
+Base_08q.step,file
+Base_Motor.stl,file
+Base_SO101.step,file
+Base_SO101.stl,file
+Base_attachment.step,file
+Base_motor_holder_SO101.step,file
+Base_motor_holder_SO101.stl,file
+CHANGELOG.md,file
+CITATION.cff,file
+Compliant_Gripper,dir
+Compliant_Moving_Jaw_SO101.stl,file
+Compliant_Wrist_Roll_Follower_SO101.stl,file
+D435_Vinmooog_adapter.stl,file
+Ender_Follower_SO101.stl,file
+Ender_Leader_SO101.stl,file
+Fixed_Jaw.stl,file
+Fixed_Jaw_Motor.stl,file
+Follower,dir
+Follower_Specific,dir
+Gauge_0.STL,file
+Gauge_tight_1.STL,file
+Gauges,dir
+Handle_SO101.step,file
+Handle_SO101.stl,file
+Individual,dir
+LICENSE,file
+Leader,dir
+Leader_And_Follower_SO100.jpg,file
+Leader_Specific,dir
+Lego_Size_Test_02_minuspoint1.STL,file
+Lego_Size_Test_02_zero.STL,file
+Lower_Arm.stl,file
+Lower_Arm_Motor.stl,file
+Mini,dir
+Mini_SO_100_01g.3mf,file
+Mini_SO_100_01g.STL,file
+Motor1_holder.step,file
+Motor_holder_SO101_Base.step,file
+Motor_holder_SO101_Base.stl,file
+Motor_holder_SO101_Wrist.step,file
+Motor_holder_SO101_Wrist.stl,file
+Mount_Helper,dir
+Moving_Jaw.stl,file
+Moving_Jaw_08d v1.step,file
+Moving_Jaw_SO101.step,file
+Moving_Jaw_SO101.stl,file
+Optional,dir
+Overhead_Cam_Mount_32x32_UVC_Module,dir
+Overhead_Cam_Mount_Webcam,dir
+Passive_Horn_01.step,file
+Print_Follower_Bambu_P1P.3mf,file
+Print_Follower_SO_ARM100_08k_Ender.STL,file
+Print_Follower_SO_ARM100_08k_UP_BambuLabA1Mini_part1.STL,file
+Print_Follower_SO_ARM100_08k_UP_BambuLabA1Mini_part2.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-4.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-5.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Moving_Jaw_08d-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Rotation_Pitch_08i-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-2.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-4.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - WaveShare_Mounting_Plate_01d-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Wrist_Roll_08c-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Wrist_Roll_Pitch_08i-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa.STL,file
+Print_Leader_Bambu_P1P.3mf,file
+Print_Leader_SO_ARM100_08k_Ender.STL,file
+Print_Leader_SO_ARM100_08k_UP_BambuLabA1Mini_part1.STL,file
+Print_Leader_SO_ARM100_08k_UP_BambuLabA1Mini_part2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-3.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-4.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-5.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Rotation_Pitch_08i-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-3.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-4.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Trigger_04e-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - WaveShare_Mounting_Plate_01d-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_05m_Leader_02ba-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_05m_Leader_02ba-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_Pitch_08i-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa.STL,file
+Prusa_Follower_SO101.stl,file
+Prusa_Leader_SO101.stl,file
+README.md,file
+Raised_Base,dir
+Raised_Base.jpeg,file
+Raised_Base_Extension.stl,file
+Rotation_Pitch.stl,file
+Rotation_Pitch_08i.step,file
+Rotation_Pitch_Motor.stl,file
+Rotation_Pitch_SO101.step,file
+Rotation_Pitch_SO101.stl,file
+SO-ARM100 Plug camera.step,file
+SO-ARM100_Plug_camera.stl,file
+SO-ARM101_camera_wrist_mount.step,file
+SO-ARM101_camera_wrist_mount.stl,file
+SO100,dir
+SO100.md,file
+SO101,dir
+SO101 Assembly.step,file
+SO101 Assembly.stl,file
+SO101_Follower.webp,file
+SO101_Leader.webp,file
+SO101_Wrist_Cam_Hex-Nut_Mount_32x32_UVC_Module,dir
+SO_5DOF_ARM100_Assembly.step,file
+SO_ARM100_08k (1).step,file
+SO_ARM100_08k (2).step,file
+SO_ARM100_08k.step,file
+STEP,dir
+STL,dir
+STS3215_03a.step,file
+Seeedstudio_Mounting_Plate_SO101.step,file
+Seeedstudio_Mounting_Plate_SO101.stl,file
+Simulation,dir
+Small_Handle,dir
+Small_Leader_Handle.STL,file
+Springy_Trigger,dir
+Springy_Trigger.STL,file
+Trigger_04e v1.step,file
+Trigger_SO101.step,file
+Trigger_SO101.stl,file
+UVC_cam_mount.jpeg,file
+UVC_cam_mount_plugin.jpg,file
+UVC_cam_mount_so101.jpg,file
+Under_arm_SO101.step,file
+Under_arm_SO101.stl,file
+Updated_Wrist_Camera_Insert.stl,file
+Upper_Arm.stl,file
+Upper_Arm_Motor.stl,file
+Upper_arm_SO101.step,file
+Upper_arm_SO101.stl,file
+WaveShare_Mounting_Plate_SO101.step,file
+WaveShare_Mounting_Plate_SO101.stl,file
+Webcam_Mount_Wrist.stl,file
+Wrist_Cam_Mount_32x32_UVC_Module,dir
+Wrist_Cam_Mount_32x32_UVC_Module_SO100.stl,file
+Wrist_Cam_Mount_32x32_UVC_Module_SO101.stl,file
+Wrist_Cam_Mount_32x32_UVC_module_1.jpg,file
+Wrist_Cam_Mount_32x32_UVC_module_2.jpg,file
+Wrist_Cam_Mount_RealSense_D405,dir
+Wrist_Cam_Mount_RealSense_D435,dir
+Wrist_Cam_Mount_Vinmooog_Webcam,dir
+Wrist_Cam_Plug_Mount_32x32_UVC_Module,dir
+Wrist_Pitch_Roll.stl,file
+Wrist_Pitch_Roll_Motor.stl,file
+Wrist_Roll_05m_Leader_02ba v1.step,file
+Wrist_Roll_08c v1.step,file
+Wrist_Roll_D405_Holder.step,file
+Wrist_Roll_D405_Holder.stl,file
+Wrist_Roll_Follower_SO101.step,file
+Wrist_Roll_Follower_SO101.stl,file
+Wrist_Roll_Pitch_08i.step,file
+Wrist_Roll_Pitch_SO101.step,file
+Wrist_Roll_Pitch_SO101.stl,file
+Wrist_Roll_SO101.step,file
+Wrist_Roll_SO101.stl,file
+Wrist_cam_mount_RealSense_D435.stl,file
+arm_base.stl,file
+assets,dir
+base_motor_holder_so101_v1.part,file
+base_motor_holder_so101_v1.stl,file
+base_so101_v2.part,file
+base_so101_v2.stl,file
+cam_mount1.jpg,file
+cam_mount2.jpg,file
+cam_mount_bottom.stl,file
+cam_mount_middle.stl,file
+cam_mount_top.stl,file
+craftcloud1.png,file
+craftcloud2.png,file
+craftcloud3.png,file
+craftcloud4.png,file
+craftcloud5.png,file
+d405_mount.jpg,file
+d405_mount_print_orientation.jpg,file
+d405_mount_sample_observation.jpg,file
+d435_mount.jpg,file
+d435_mount_print_orientation.png,file
+d435_mount_render.png,file
+d435_mount_view.png,file
+d435_to_vinmooog_adapter.jpg,file
+joints_properties.xml,file
+media,dir
+motor_holder_so101_base_v1.part,file
+motor_holder_so101_base_v1.stl,file
+motor_holder_so101_wrist_v1.part,file
+motor_holder_so101_wrist_v1.stl,file
+mount_helper v2.stl,file
+mount_helper.png,file
+moving_jaw_so101_v1.part,file
+moving_jaw_so101_v1.stl,file
+overhead_cam_32x32_module.png,file
+overhead_cam_one_follower.png,file
+overhead_cam_step1a.jpg,file
+overhead_cam_step1b.jpg,file
+overhead_cam_step2.jpg,file
+overhead_cam_step3.jpg,file
+overhead_cam_two_followers.png,file
+overhead_cam_webcam.jpg,file
+pcb_way.png,file
+pcb_way2.png,file
+pcb_way3.png,file
+readme,file
+rotation_pitch_so101_v1.part,file
+rotation_pitch_so101_v1.stl,file
+scene.xml,file
+so100.rrd,file
+so100.urdf,file
+so100_urdf.png,file
+so101_new_calib.urdf,file
+so101_new_calib.xml,file
+so101_old_calib.urdf,file
+so101_old_calib.xml,file
+step,dir
+stl,dir
+sts3215_03a_no_horn_v1.part,file
+sts3215_03a_no_horn_v1.stl,file
+sts3215_03a_v1.part,file
+sts3215_03a_v1.stl,file
+tactile_sensor_anyskin.png,file
+under_arm_so101_v1.part,file
+under_arm_so101_v1.stl,file
+upper_arm_so101_v1.part,file
+upper_arm_so101_v1.stl,file
+waveshare_mounting_plate_so101_v2.part,file
+waveshare_mounting_plate_so101_v2.stl,file
+wrist_roll_follower_so101_v1.part,file
+wrist_roll_follower_so101_v1.stl,file
+wrist_roll_pitch_so101_v2.part,file
+wrist_roll_pitch_so101_v2.stl,file

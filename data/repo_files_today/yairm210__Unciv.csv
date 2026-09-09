@@ -1,0 +1,3624 @@
+name,type
+.dockerignore,file
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.idea,dir
+.pages,file
+.run,dir
+.well-known,dir
+0.png,file
+01-WorldScreen.jpg,file
+02-CityScreen.jpg,file
+03-NationPicker.jpg,file
+04-PolicyScreen.jpg,file
+05-TechTree.jpg,file
+06-DiplomacyScreen.jpg,file
+07-TradeScreen.jpg,file
+08-MapEditor.jpg,file
+09-Civilopedia.jpg,file
+1-Overview.md,file
+1.png,file
+10.png,file
+1000.txt,file
+1001.txt,file
+1002.txt,file
+1003.txt,file
+1005.txt,file
+1007.txt,file
+1009.txt,file
+1010.txt,file
+1012.txt,file
+1013.txt,file
+1014.txt,file
+1016.txt,file
+1018.txt,file
+1019.txt,file
+1020.txt,file
+1021.txt,file
+1023.txt,file
+1025.txt,file
+1028.txt,file
+1029.txt,file
+1030.txt,file
+1033.txt,file
+1034.txt,file
+1035.txt,file
+1037.txt,file
+1038.txt,file
+1040.txt,file
+1041.txt,file
+1042.txt,file
+1043.txt,file
+1044.txt,file
+1045.txt,file
+1046.txt,file
+1048.txt,file
+1050.txt,file
+1052.txt,file
+1053.txt,file
+1054.txt,file
+1055.txt,file
+1056.txt,file
+1057.txt,file
+1058.txt,file
+1059.txt,file
+1060.txt,file
+1061.txt,file
+1062.txt,file
+1063.txt,file
+1064.txt,file
+1066.txt,file
+1067.txt,file
+1068.txt,file
+1070.txt,file
+1072.txt,file
+1073.txt,file
+1074.txt,file
+1075.txt,file
+1076.txt,file
+1077.txt,file
+1080.txt,file
+1082.txt,file
+1083.txt,file
+1084.txt,file
+1085.txt,file
+1086.txt,file
+1087.txt,file
+1088.txt,file
+1089.txt,file
+1090.txt,file
+1092.txt,file
+1093.txt,file
+1094.txt,file
+1096.txt,file
+1098.txt,file
+1099.txt,file
+11.png,file
+1100.txt,file
+1102.txt,file
+1103.txt,file
+1105.txt,file
+1106.txt,file
+1107.txt,file
+1108.txt,file
+1109.txt,file
+1110.txt,file
+1111.txt,file
+1112.txt,file
+1113.txt,file
+1115.txt,file
+1116.txt,file
+1118.txt,file
+1120.txt,file
+1121.txt,file
+1122.txt,file
+1124.txt,file
+1125.txt,file
+1126.txt,file
+1127.txt,file
+1128.txt,file
+1129.txt,file
+1131.txt,file
+1132.txt,file
+1133.txt,file
+1134.txt,file
+1136.txt,file
+1137.txt,file
+1138.txt,file
+1139.txt,file
+1140.txt,file
+1141.txt,file
+1142.txt,file
+1143.txt,file
+1144.txt,file
+1145.txt,file
+1146.txt,file
+1148.txt,file
+1150.txt,file
+1151.txt,file
+1153.txt,file
+1154.txt,file
+1155.txt,file
+1156.txt,file
+1157.txt,file
+1158.txt,file
+1160.txt,file
+1161.txt,file
+1162.txt,file
+1163.txt,file
+1164.txt,file
+1165.txt,file
+1166.txt,file
+1167.txt,file
+1168.txt,file
+1169.txt,file
+1170.txt,file
+1171.txt,file
+1172.txt,file
+1173.txt,file
+1174.txt,file
+1175.txt,file
+1177.txt,file
+1179.txt,file
+1180.txt,file
+1181.txt,file
+1182.txt,file
+1184.txt,file
+1185.txt,file
+1188.txt,file
+1189.txt,file
+1190.txt,file
+1191.txt,file
+1192.txt,file
+1193.txt,file
+1195.txt,file
+1196.txt,file
+1197.txt,file
+1198.txt,file
+1199.txt,file
+12.png,file
+1200.txt,file
+1201.txt,file
+1202.txt,file
+1204.txt,file
+1205.txt,file
+1206.txt,file
+1209.txt,file
+1210.txt,file
+1211.txt,file
+1212.txt,file
+1213.txt,file
+1214.txt,file
+1215.txt,file
+1216.txt,file
+1218.txt,file
+1219.txt,file
+1220.txt,file
+1222.txt,file
+1224.txt,file
+1225.txt,file
+1226.txt,file
+1227.txt,file
+1228.txt,file
+1229.txt,file
+1230.txt,file
+1231.txt,file
+1232.txt,file
+1234.txt,file
+1235.txt,file
+1236.txt,file
+1237.txt,file
+1238.txt,file
+1239.txt,file
+1241.txt,file
+1242.txt,file
+1243.txt,file
+1246.txt,file
+1247.txt,file
+1249.txt,file
+1252.txt,file
+1253.txt,file
+1254.txt,file
+1255.txt,file
+1256.txt,file
+1257.txt,file
+13.png,file
+14.png,file
+15.png,file
+16.png,file
+17.png,file
+18.png,file
+19.png,file
+2-Civilization-related-JSON-files.md,file
+2.png,file
+20xCulture5 - Copy.png,file
+20xFood5 - Copy.png,file
+20xGold5 - Copy.png,file
+20xHappiness5 - Copy.png,file
+20xPopulation5 - Copy.png,file
+20xProduction5 - Copy.png,file
+20xScience5 - Copy.png,file
+3-Map-related-JSON-files.md,file
+3.png,file
+4-Unit-related-JSON-files.md,file
+4.png,file
+5-Miscellaneous-JSON-files.md,file
+5.png,file
+6.png,file
+7.png,file
+700.txt,file
+701.txt,file
+703.txt,file
+704.txt,file
+705.txt,file
+706.txt,file
+707.txt,file
+708.txt,file
+709.txt,file
+710.txt,file
+711.txt,file
+714.txt,file
+716.txt,file
+717.txt,file
+719.txt,file
+720.txt,file
+721.txt,file
+722.txt,file
+723.txt,file
+724.txt,file
+725.txt,file
+726.txt,file
+728.txt,file
+731.txt,file
+733.txt,file
+734.txt,file
+735.txt,file
+737.txt,file
+738.txt,file
+739.txt,file
+740.txt,file
+743.txt,file
+744.txt,file
+745.txt,file
+746.txt,file
+747.txt,file
+749.txt,file
+750.txt,file
+751.txt,file
+752.txt,file
+753.txt,file
+754.txt,file
+755.txt,file
+756.txt,file
+757.txt,file
+758.txt,file
+759.txt,file
+760.txt,file
+761.txt,file
+762.txt,file
+763.txt,file
+764.txt,file
+765.txt,file
+766.txt,file
+767.txt,file
+768.txt,file
+769.txt,file
+771.txt,file
+772.txt,file
+774.txt,file
+776.txt,file
+777.txt,file
+779.txt,file
+780.txt,file
+782.txt,file
+786.txt,file
+787.txt,file
+789.txt,file
+790.txt,file
+791.txt,file
+792.txt,file
+793.txt,file
+794.txt,file
+795.txt,file
+797.txt,file
+798.txt,file
+799.txt,file
+8.png,file
+800.txt,file
+801.txt,file
+802.txt,file
+803.txt,file
+804.txt,file
+805.txt,file
+806.txt,file
+807.txt,file
+808.txt,file
+809.txt,file
+811.txt,file
+812.txt,file
+813.txt,file
+815.txt,file
+816.txt,file
+817.txt,file
+818.txt,file
+819.txt,file
+823.txt,file
+824.txt,file
+825.txt,file
+827.txt,file
+828.txt,file
+829.txt,file
+830.txt,file
+832.txt,file
+833.txt,file
+834.txt,file
+835.txt,file
+837.txt,file
+838.txt,file
+839.txt,file
+840.txt,file
+841.txt,file
+843.txt,file
+845.txt,file
+846.txt,file
+849.txt,file
+850.txt,file
+852.txt,file
+855.txt,file
+856.txt,file
+857.txt,file
+858.txt,file
+859.txt,file
+862.txt,file
+865.txt,file
+867.txt,file
+869.txt,file
+870.txt,file
+872.txt,file
+873.txt,file
+874.txt,file
+875.txt,file
+877.txt,file
+878.txt,file
+880.txt,file
+881.txt,file
+882.txt,file
+883.txt,file
+884.txt,file
+886.txt,file
+889.txt,file
+890.txt,file
+892.txt,file
+894.txt,file
+895.txt,file
+896.txt,file
+899.txt,file
+9.png,file
+900.txt,file
+901.txt,file
+903.txt,file
+904.txt,file
+906.txt,file
+907.txt,file
+908.txt,file
+909.txt,file
+910.txt,file
+911.txt,file
+912.txt,file
+913.txt,file
+914.txt,file
+915.txt,file
+916.txt,file
+917.txt,file
+920.txt,file
+921.txt,file
+922.txt,file
+923.txt,file
+924.txt,file
+925.txt,file
+926.txt,file
+927.txt,file
+928.txt,file
+929.txt,file
+930.txt,file
+931.txt,file
+932.txt,file
+938.txt,file
+939.txt,file
+940.txt,file
+941.txt,file
+942.txt,file
+943.txt,file
+944.txt,file
+945.txt,file
+947.txt,file
+948.txt,file
+949.txt,file
+950.txt,file
+951.txt,file
+952.txt,file
+953.txt,file
+956.txt,file
+957.txt,file
+958.txt,file
+959.txt,file
+960.txt,file
+961.txt,file
+963.txt,file
+964.txt,file
+965.txt,file
+966.txt,file
+967.txt,file
+968.txt,file
+969.txt,file
+970.txt,file
+971.txt,file
+972.txt,file
+973.txt,file
+974.txt,file
+975.txt,file
+976.txt,file
+978.txt,file
+979.txt,file
+980.txt,file
+981.txt,file
+982.txt,file
+983.txt,file
+984.txt,file
+985.txt,file
+986.txt,file
+987.txt,file
+988.txt,file
+989.txt,file
+990.txt,file
+992.txt,file
+993.txt,file
+994.txt,file
+995.txt,file
+996.txt,file
+997.txt,file
+998.txt,file
+AStar.kt,file
+AboutTab.kt,file
+AbsoluteUnits,dir
+AbsoluteUnits.atlas,file
+AbsoluteUnits.png,file
+Academy-Atomic era.png,file
+Academy-Future era.png,file
+Academy-Information era.png,file
+Academy-Pillaged.png,file
+Academy-Snow.png,file
+Academy.png,file
+AcademyT-Atomic era.png,file
+AcademyT-Future era.png,file
+AcademyT-Information era.png,file
+AcademyT-Pillaged.png,file
+AcademyT.png,file
+AcceptModErrorsPopup.kt,file
+Accuracy.png,file
+Acoustics.png,file
+Acquire.png,file
+ActivationActionMap.kt,file
+ActivationExtensions.kt,file
+ActivationListener.kt,file
+ActivationTypes.kt,file
+ActorAttachments.kt,file
+ActorKeyShortcutDispatcher.kt,file
+AddFriendScreen.kt,file
+AddInCapital.png,file
+AddMultiplayerGameScreen.kt,file
+Advanced Ballistics.png,file
+AdvancedTab.kt,file
+Aesthetics.png,file
+African Forest Elephant-1.png,file
+African Forest Elephant-2.png,file
+African Forest Elephant-Carthage-1.png,file
+African Forest Elephant-Carthage-2.png,file
+African Forest Elephant-Carthage.png,file
+African Forest Elephant.png,file
+Afrikaans.png,file
+Afrikaans.properties,file
+Agriculture.png,file
+Air Repair.png,file
+Air Targeting.png,file
+AirInterception.kt,file
+AirSweep.png,file
+AirUnitAutomation.kt,file
+AirUnitTable.kt,file
+Aircraft.png,file
+AlertPopup.kt,file
+Alhambra.png,file
+AllObjectsTests.kt,file
+AlternatingStateManager.kt,file
+Aluminum.png,file
+Ambush.png,file
+America.png,file
+Amphibious.png,file
+Amphitheater.png,file
+Ancient ruins-Jungle.png,file
+Ancient ruins-Sand.png,file
+Ancient ruins-Snow.png,file
+Ancient ruins.png,file
+Ancient ruins2.png,file
+AndroidDisplay.kt,file
+AndroidFont.kt,file
+AndroidGame.kt,file
+AndroidImagePacker.kt,file
+AndroidLauncher.kt,file
+AndroidLogBackend.kt,file
+AndroidManifest.xml,file
+AndroidSaverLoader.kt,file
+AndroidTvLauncher.kt,file
+Android_SDK_Platforms.png,file
+Android_SDK_Tools.png,file
+Angkor Wat.png,file
+Animal Husbandry.png,file
+AnimatedMenuPopup.kt,file
+Anti-Aircraft Gun-1.png,file
+Anti-Aircraft Gun-2.png,file
+Anti-Aircraft Gun.png,file
+Anti-Armor.png,file
+Anti-Tank Gun-1.png,file
+Anti-Tank Gun-2.png,file
+Anti-Tank Gun.png,file
+ApiV2.kt,file
+ApiV2FileStorageEmulator.kt,file
+ApiV2Wrapper.kt,file
+ApiVersion.kt,file
+Apollo Program.png,file
+Aqueduct.png,file
+Arabia.png,file
+Archaeologist.png,file
+Archaeology.png,file
+Archer-1.png,file
+Archer-2.png,file
+Archer.png,file
+Archery.png,file
+Architecture.png,file
+Aristocracy.png,file
+Armor Plating.png,file
+Armory.png,file
+ArrowRight.png,file
+Arrows,dir
+Arrows.svg,file
+Arsenal.png,file
+Artillery-1.png,file
+Artillery-2.png,file
+Artillery-Atomic era.png,file
+Artillery.png,file
+AskNumberPopup.kt,file
+AskTextPopup.kt,file
+AssignedQuest.kt,file
+Astronomy.png,file
+AtlasPreview.kt,file
+Atlases.json,file
+Atlatlist-1.png,file
+Atlatlist-2.png,file
+Atlatlist-The Maya.png,file
+Atlatlist.png,file
+Atoll.png,file
+Atomic Bomb.png,file
+Atomic Theory.png,file
+AttackableTile.kt,file
+Austria.png,file
+AuthHelper.kt,file
+AuthPopup.kt,file
+AutoPlay.kt,file
+AutoPlayMenu.kt,file
+AutoPlayStatusButton.kt,file
+AutoScrollPane.kt,file
+Autocracy.png,file
+Automate.png,file
+Automation.kt,file
+AutomationTab.kt,file
+Autoupdates.md,file
+AwtClipboard.kt,file
+Axe Thrower.png,file
+Aztecs.png,file
+B17.png,file
+BFS.kt,file
+Babylon.png,file
+BackArrow.png,file
+BackgroundActor.kt,file
+BackwardCompatibility.kt,file
+Baktun.png,file
+Ballista-1.png,file
+Ballista-2.png,file
+Ballista.png,file
+Ballistics.png,file
+Bananas+Plantation-Pillaged.png,file
+Bananas+Plantation.png,file
+Bananas.png,file
+Bangla.png,file
+Bangla.properties,file
+Bank.png,file
+Banking.png,file
+Banner.png,file
+Barbarian encampment-Snow.png,file
+Barbarian encampment.png,file
+Barbarian encampmentT.png,file
+BarbarianAutomation.kt,file
+BarbarianEncampment.kt,file
+BarbarianManager.kt,file
+Barbarians.png,file
+Barracks.png,file
+Barrage.png,file
+Barringer Crater.png,file
+BaseRuleset.kt,file
+BaseRulesetValidator.kt,file
+BaseScreen.kt,file
+BaseTestRunner.kt,file
+BaseUnit.kt,file
+BaseUnitCost.kt,file
+BaseUnitDescriptions.kt,file
+BasicTests.kt,file
+Battering Ram-1.png,file
+Battering Ram-2.png,file
+Battering Ram-The Huns.png,file
+Battering Ram.png,file
+Battle.kt,file
+BattleConstants.kt,file
+BattleDamage.kt,file
+BattleDamageTest.kt,file
+BattleHelper.kt,file
+BattleTable.kt,file
+BattleTableHelpers.kt,file
+BattleTest.kt,file
+BattleUnitCapture.kt,file
+Battleship-1.png,file
+Battleship-2.png,file
+Battleship.png,file
+Bazaar.png,file
+Bazooka.png,file
+Beach-Coast,dir
+Beach-Coast-Desert-Bottom.png,file
+Beach-Coast-Desert-BottomLeft.png,file
+Beach-Coast-Desert-BottomRight.png,file
+Beach-Coast-Desert-Top.png,file
+Beach-Coast-Desert-TopLeft.png,file
+Beach-Coast-Desert-TopRight.png,file
+Beach-Coast-Grassland-Bottom.png,file
+Beach-Coast-Grassland-BottomLeft.png,file
+Beach-Coast-Grassland-BottomRight.png,file
+Beach-Coast-Grassland-Top.png,file
+Beach-Coast-Grassland-TopLeft.png,file
+Beach-Coast-Grassland-TopRight.png,file
+Beach-Coast-Mountain-Bottom.png,file
+Beach-Coast-Mountain-BottomLeft.png,file
+Beach-Coast-Mountain-BottomRight.png,file
+Beach-Coast-Mountain-Top.png,file
+Beach-Coast-Mountain-TopLeft.png,file
+Beach-Coast-Mountain-TopRight.png,file
+Beach-Coast-Ocean-Bottom.png,file
+Beach-Coast-Ocean-BottomLeft.png,file
+Beach-Coast-Ocean-BottomRight.png,file
+Beach-Coast-Ocean-Top.png,file
+Beach-Coast-Ocean-TopLeft.png,file
+Beach-Coast-Ocean-TopRight.png,file
+Beach-Coast-Plains-Bottom.png,file
+Beach-Coast-Plains-BottomLeft.png,file
+Beach-Coast-Plains-BottomRight.png,file
+Beach-Coast-Plains-Top.png,file
+Beach-Coast-Plains-TopLeft.png,file
+Beach-Coast-Plains-TopRight.png,file
+Beach-Coast-Snow-Bottom.png,file
+Beach-Coast-Snow-BottomLeft.png,file
+Beach-Coast-Snow-BottomRight.png,file
+Beach-Coast-Snow-Top.png,file
+Beach-Coast-Snow-TopLeft.png,file
+Beach-Coast-Snow-TopRight.png,file
+Beach-Coast-Tundra-Bottom.png,file
+Beach-Coast-Tundra-BottomLeft.png,file
+Beach-Coast-Tundra-BottomRight.png,file
+Beach-Coast-Tundra-Top.png,file
+Beach-Coast-Tundra-TopLeft.png,file
+Beach-Coast-Tundra-TopRight.png,file
+Beach-Desert,dir
+Beach-Desert-Coast-Bottom.png,file
+Beach-Desert-Coast-BottomLeft.png,file
+Beach-Desert-Coast-BottomRight.png,file
+Beach-Desert-Coast-Top.png,file
+Beach-Desert-Coast-TopLeft.png,file
+Beach-Desert-Coast-TopRight.png,file
+Beach-Grassland,dir
+Beach-Grassland-Coast-Bottom.png,file
+Beach-Grassland-Coast-BottomLeft.png,file
+Beach-Grassland-Coast-BottomRight.png,file
+Beach-Grassland-Coast-Top.png,file
+Beach-Grassland-Coast-TopLeft.png,file
+Beach-Grassland-Coast-TopRight.png,file
+Beach-Mountain,dir
+Beach-Mountain-Coast-Bottom.png,file
+Beach-Mountain-Coast-BottomLeft.png,file
+Beach-Mountain-Coast-BottomRight.png,file
+Beach-Plains,dir
+Beach-Plains-Coast-Bottom.png,file
+Beach-Plains-Coast-BottomLeft.png,file
+Beach-Plains-Coast-BottomRight.png,file
+Beach-Plains-Coast-Top.png,file
+Beach-Plains-Coast-TopLeft.png,file
+Beach-Plains-Coast-TopRight.png,file
+Beach-Snow,dir
+Beach-Snow-Coast-Bottom.png,file
+Beach-Snow-Coast-BottomLeft.png,file
+Beach-Snow-Coast-BottomRight.png,file
+Beach-Snow-Coast-Top.png,file
+Beach-Snow-Coast-TopLeft.png,file
+Beach-Snow-Coast-TopRight.png,file
+Beach-Tundra,dir
+Beach-Tundra-Coast-Bottom.png,file
+Beach-Tundra-Coast-BottomLeft.png,file
+Beach-Tundra-Coast-BottomRight.png,file
+Beach-Tundra-Coast-Top.png,file
+Beach-Tundra-Coast-TopLeft.png,file
+Beach-Tundra-Coast-TopRight.png,file
+Belarusian.png,file
+Belarusian.properties,file
+Belief.kt,file
+Beliefs.json,file
+Beliefs.png,file
+Beliefs.schema.json,file
+Berber Cavalry.png,file
+Berserker-1.png,file
+Berserker-2.png,file
+Berserker.png,file
+Besiege.png,file
+Big Ben.png,file
+Biology.png,file
+Bison+Camp.png,file
+Bison.png,file
+Blitz.png,file
+Blockade.png,file
+Blockaded.png,file
+Boarding Party.png,file
+Bobot.png,file
+Bomb Shelter.png,file
+Bombardment.png,file
+Bomber.png,file
+BorderedTable.kt,file
+Borders,dir
+Bosnian.png,file
+Bosnian.properties,file
+Bowman-1.png,file
+Bowman-2.png,file
+Bowman.png,file
+Brandenburg Gate.png,file
+Brazilian_Portuguese.png,file
+Brazilian_Portuguese.properties,file
+Broadcast Tower.png,file
+Bronze Working.png,file
+Brute.png,file
+Buddhism.png,file
+BuildConfig.kt,file
+Building-Locally.md,file
+Building.kt,file
+BuildingDescriptions.kt,file
+BuildingIcons,dir
+Buildings.json,file
+Buildings.schema.json,file
+Bulgarian.png,file
+Bulgarian.properties,file
+Burial Tomb.png,file
+Buy.png,file
+BuyButtonFactory.kt,file
+Byzantium.png,file
+CN Tower.png,file
+CODE_OF_CONDUCT.md,file
+Calendar.png,file
+Camel Archer-1.png,file
+Camel Archer-2.png,file
+Camel Archer-Arabia.png,file
+Camel Archer.png,file
+Camera.png,file
+Camp-Industrial era.png,file
+Camp-Pillaged.png,file
+Camp.png,file
+Cancel improvement order.png,file
+Cannon-1.png,file
+Cannon-2.png,file
+Cannon.png,file
+Capital.png,file
+CapitalConnectionsFinder.kt,file
+CapitalConnectionsFinderTests.kt,file
+Caravan.png,file
+Caravel-1.png,file
+Caravel-2.png,file
+Caravel.png,file
+Cargo Ship.png,file
+Carolean-1.png,file
+Carolean-2.png,file
+Carolean-Sweden.png,file
+Carolean.png,file
+Carrier-1.png,file
+Carrier-2.png,file
+Carrier-Information era.png,file
+Carrier.png,file
+CarrierSlotMatcher.kt,file
+CarrierTests.kt,file
+Carthage.png,file
+Castle.png,file
+Catalan.png,file
+Catalan.properties,file
+Catalan.svg,file
+Cataphract-1.png,file
+Cataphract-2.png,file
+Cataphract-Byzantium.png,file
+Cataphract.png,file
+Catapult-1.png,file
+Catapult-2.png,file
+Catapult.png,file
+Cathedral.png,file
+Cattle+Pasture-Industrial era.png,file
+Cattle+Pasture-Pillaged.png,file
+Cattle+Pasture.png,file
+Cattle.png,file
+CattleG.png,file
+CattleP.png,file
+Cavalry-1.png,file
+Cavalry-2.png,file
+Cavalry.png,file
+Ceilidh Hall.png,file
+Celts.png,file
+Cerro de Potosi.png,file
+Charge.png,file
+Chariot Archer-1.png,file
+Chariot Archer-2.png,file
+Chariot Archer-Barbarians.png,file
+Chariot Archer.png,file
+Charts.png,file
+Chat.png,file
+ChatButton.kt,file
+ChatPopup.kt,file
+ChatStore.kt,file
+ChatWebSocket.kt,file
+Checkmark.png,file
+Chemistry.png,file
+Chichen Itza.png,file
+China.png,file
+Chivalry.png,file
+Christianity.png,file
+Chu-Ko-Nu-1.png,file
+Chu-Ko-Nu-2.png,file
+Chu-Ko-Nu-China.png,file
+Chu-Ko-Nu.png,file
+Circle.png,file
+Circus Maximus.png,file
+Circus.png,file
+Citadel-Atomic era.png,file
+Citadel-Pillaged.png,file
+Citadel-Snow.png,file
+Citadel.png,file
+CitadelT-Atomic era.png,file
+CitadelT-Pillaged.png,file
+CitadelT.png,file
+Cities.png,file
+CitizenManagementTable.kt,file
+Citizenship.png,file
+Citrus+Plantation-Pillaged.png,file
+Citrus+Plantation.png,file
+Citrus.png,file
+City center-Ancient era.png,file
+City center-Atomic era.png,file
+City center-Classical era.png,file
+City center-Future era.png,file
+City center-Industrial era.png,file
+City center-Information era.png,file
+City center-Medieval era.png,file
+City center-Modern era.png,file
+City center-Renaissance era.png,file
+City center.png,file
+City ruins.png,file
+City.kt,file
+CityAmbiencePlayer.kt,file
+CityButton.kt,file
+CityCenter.png,file
+CityCivFilterTests.kt,file
+CityCombatant.kt,file
+CityConnection.png,file
+CityConquestFunctions.kt,file
+CityConquestFunctionsTest.kt,file
+CityConstructions.kt,file
+CityConstructionsTable.kt,file
+CityConstructionsView.kt,file
+CityEspionageManager.kt,file
+CityExpansionManager.kt,file
+CityExpansionManagerTest.kt,file
+CityFocus.kt,file
+CityFounder.kt,file
+CityFounderTest.kt,file
+CityHasAttacked.png,file
+CityLocationTileRanker.kt,file
+CityMapHolder.kt,file
+CityMovingTests.kt,file
+CityOverviewTab.kt,file
+CityOverviewTabColumn.kt,file
+CityPopulationManager.kt,file
+CityPopulationManagerTest.kt,file
+CityPresenter.kt,file
+CityReligionInfoTable.kt,file
+CityReligionManager.kt,file
+CityRenamePopup.kt,file
+CityResources.kt,file
+CityScreen.kt,file
+CityScreen.png,file
+CityScreenCityPickerTable.kt,file
+CityScreenConstructionMenu.kt,file
+CityScreenTileTable.kt,file
+CityState.png,file
+CityStateDiplomacyTable.kt,file
+CityStateFunctions.kt,file
+CityStateIcons,dir
+CityStatePersonality.kt,file
+CityStateType.kt,file
+CityStateTypeStartBiasTests.kt,file
+CityStateTypes.json,file
+CityStateTypes.schema.json,file
+CityStats.kt,file
+CityStatsTable.kt,file
+CityStatus.png,file
+CityTable.kt,file
+CityTest.kt,file
+CityTileGroup.kt,file
+CityTurnManager.kt,file
+CityTurnManagerWltkTest.kt,file
+CityView.kt,file
+Civ V - Gods & Kings,dir
+Civ V - Vanilla,dir
+CivConstructions.kt,file
+CivInfoStatsForNextTurn.kt,file
+CivInfoTransientCache.kt,file
+CivRankingHistory.kt,file
+CivView.kt,file
+Civil Service.png,file
+Civil Society.png,file
+CivilianLandUnit.png,file
+CivilianUnitAutomation.kt,file
+Civilization.kt,file
+Civilopedia.png,file
+CivilopediaCategories.kt,file
+CivilopediaImageGetters.kt,file
+CivilopediaScreen.kt,file
+CivilopediaSearchPopup.kt,file
+CivilopediaText.schema.json,file
+CliInput.kt,file
+ClickableCircle.kt,file
+ClippingImage.kt,file
+Close.png,file
+Coal.png,file
+Coast.png,file
+Coastal Raider.png,file
+Cocoa+Plantation.png,file
+Cocoa.png,file
+Coding-standards.md,file
+Coffee House.png,file
+CollectionExtensions.kt,file
+Collective Rule.png,file
+Color.schema.json,file
+ColorMarkupLabel.kt,file
+Colosseum.png,file
+Colossus.png,file
+Comanche Rider.png,file
+Comanche Riders.png,file
+CombatantView.kt,file
+Combined Arms.png,file
+Combustion.png,file
+Commerce.png,file
+Communism.png,file
+Companion Cavalry-1.png,file
+Companion Cavalry-2.png,file
+Companion Cavalry-Greece.png,file
+Companion Cavalry.png,file
+Compass.png,file
+Composite Bowman-1.png,file
+Composite Bowman-2.png,file
+Composite Bowman.png,file
+Computers.png,file
+ConcaveConvexInner.png,file
+ConcaveConvexOuter.png,file
+ConcaveInner.png,file
+ConcaveOuter.png,file
+Concurrency.kt,file
+Conditionals.kt,file
+ConductTradeMission.png,file
+Conf.kt,file
+ConfirmPopup.kt,file
+Confucianism.png,file
+Conquer a city.png,file
+Conquistador-1.png,file
+Conquistador-2.png,file
+Conquistador-Spain.png,file
+Conquistador.png,file
+ConsoleCityCommands.kt,file
+ConsoleCivCommands.kt,file
+ConsoleDiplomacyCommands.kt,file
+ConsoleGameCommands.kt,file
+ConsoleLauncher.kt,file
+ConsoleLauncher_Config.png,file
+ConsoleParameterType.kt,file
+ConsoleTileCommands.kt,file
+ConsoleTriggerAction.kt,file
+ConsoleUnitCommands.kt,file
+Constabulary.png,file
+Constants.kt,file
+Constitution.png,file
+Construct an improvement.png,file
+ConstructImprovement.png,file
+Construction.png,file
+ConstructionAutomation.kt,file
+ConstructionCircle.png,file
+ConstructionIcons.atlas,file
+ConstructionIcons.png,file
+ConstructionInfoTable.kt,file
+ContextMenuAvailableA.png,file
+ContextMenuAvailableD.png,file
+ConvertCulture.png,file
+ConvertFaith.png,file
+ConvertFood.png,file
+ConvertGold.png,file
+ConvertNothing.png,file
+ConvertScience.png,file
+ConvexConcaveInner.png,file
+ConvexConcaveOuter.png,file
+ConvexInner.png,file
+ConvexOuter.png,file
+Copper.png,file
+CopyToClipboardReceiver.kt,file
+Corner.png,file
+Cossack-1.png,file
+Cossack-2.png,file
+Cossack-Russia.png,file
+Cossack.png,file
+Cotton+Plantation-Pillaged.png,file
+Cotton+Plantation.png,file
+Cotton.png,file
+CountableTests.kt,file
+Countables.kt,file
+Counter.kt,file
+Courthouse.png,file
+Cover.png,file
+Crab.png,file
+CrashHandlingExtensions.kt,file
+CrashScreen.kt,file
+Create a trade route.png,file
+CreateGameFromSettings.kt,file
+Creating-a-UI-skin.md,file
+Creating-a-custom-tileset.md,file
+Credits.md,file
+Cristo Redentor.png,file
+Croatian instructions.md,file
+Croatian.png,file
+Croatian.properties,file
+Crossbowman-1.png,file
+Crossbowman-2.png,file
+Crossbowman.png,file
+Crosshair.png,file
+CrosshairB.png,file
+CrosshatchHexagon.png,file
+Cruiser.png,file
+Cultural Diplomacy.png,file
+Cultural.png,file
+Culture.png,file
+Culture.xcf,file
+Cultured.png,file
+Currency.png,file
+Customs house-Atomic era.png,file
+Customs house-Pillaged.png,file
+Customs house.png,file
+Customs houseT-Atomic era.png,file
+Customs houseT-Pillaged.png,file
+Customs houseT.png,file
+Czech.png,file
+Czech.properties,file
+Death.png,file
+DebugTab.kt,file
+DebugUtils.kt,file
+DeclareWar.kt,file
+DeclareWarPlanEvaluator.kt,file
+DeclareWarTargetAutomation.kt,file
+Deer+Camp-Industrial era.png,file
+Deer+Camp-Pillaged.png,file
+Deer+Camp.png,file
+Deer+CampT-Industrial era.png,file
+Deer+CampT-Pillaged.png,file
+Deer+CampT.png,file
+Deer.png,file
+DefenceTable.kt,file
+DefensivePactTests.kt,file
+Demand.kt,file
+Democracy.png,file
+Demographics.png,file
+Denmark.png,file
+DeprecatedUniques.kt,file
+DeprecatedUniquesTest.kt,file
+DescriptionHelpers.kt,file
+Desert+Farm.png,file
+Desert+Flood plains+Farm.png,file
+Desert+Hill+Fallout.png,file
+Desert+Hill+Fallout2.png,file
+Desert+Hill.png,file
+Desert+Hill2.png,file
+Desert.png,file
+Desert2.png,file
+Desert3.png,file
+Desktop.run.xml,file
+DesktopDisplay.kt,file
+DesktopFont.kt,file
+DesktopGame.kt,file
+DesktopLauncher.kt,file
+DesktopLogBackend.kt,file
+DesktopSaverLoader.kt,file
+Desktop_Build.png,file
+Destroyer-1.png,file
+Destroyer-2.png,file
+Destroyer.png,file
+DetailedStatsPopup.kt,file
+DevConsoleCommand.kt,file
+DevConsolePopup.kt,file
+DevConsoleResponse.kt,file
+Developers,dir
+DiacriticSupport.kt,file
+Difficulties.json,file
+Difficulties.schema.json,file
+Difficulty.kt,file
+Diplomacy.png,file
+DiplomacyAutomation.kt,file
+DiplomacyFunctions.kt,file
+DiplomacyManager.kt,file
+DiplomacyManagerTests.kt,file
+DiplomacyScreen.kt,file
+DiplomacyScreen.png,file
+DiplomacyTurnManager.kt,file
+DiplomacyW.png,file
+Diplomatic.png,file
+DiplomaticStatus.kt,file
+DiplomaticVotePickerScreen.kt,file
+DiplomaticVoteResultScreen.kt,file
+DisbandUnit.png,file
+Discipline.png,file
+Discord.png,file
+DiscordUpdater.kt,file
+Display.kt,file
+DisplayTab.kt,file
+Dockerfile,file
+Dogfighting.png,file
+DollarSign.png,file
+DomainAir.png,file
+DomainLand.png,file
+DomainWater.png,file
+Domination.png,file
+Drama and Poetry.png,file
+Drill.png,file
+Dromon-1.png,file
+Dromon-2.png,file
+Dromon-Byzantium-1.png,file
+Dromon-Byzantium-2.png,file
+Dromon-Byzantium.png,file
+Dromon.png,file
+DropBox.kt,file
+DurationSerializer.kt,file
+Dutch.png,file
+Dutch.properties,file
+Dyes+Plantation-Pillaged.png,file
+Dyes+Plantation.png,file
+Dyes.png,file
+Dynamite.png,file
+Easter Egg 1.png,file
+Easter Egg 2.png,file
+Easter Egg 3.png,file
+Easter Egg 4.png,file
+Easter Egg 5.png,file
+Easter Egg 6.png,file
+Easter Egg 7.png,file
+Easter Egg 8.png,file
+EasterEggFloatingArt.kt,file
+EasterEggRulesets.kt,file
+EasterEggs.atlas,file
+EasterEggs.png,file
+Ecology.png,file
+Economics.png,file
+Edges,dir
+EditFriendScreen.kt,file
+EditorMapHolder.kt,file
+EditorMapHolderMemoryTest.kt,file
+Educated Elite.png,file
+Education.png,file
+Egypt.png,file
+Eiffel Tower.png,file
+El Dorado.png,file
+Electricity.png,file
+Electronics.png,file
+EmbarkedUnit-Civilian-1.png,file
+EmbarkedUnit-Civilian-2.png,file
+EmbarkedUnit-Civilian-Denmark.png,file
+EmbarkedUnit-Civilian-Modern era-1.png,file
+EmbarkedUnit-Civilian-Modern era-2.png,file
+EmbarkedUnit-Civilian-Modern era.png,file
+EmbarkedUnit-Civilian-Polynesia.png,file
+EmbarkedUnit-Civilian-Renaissance era-1.png,file
+EmbarkedUnit-Civilian-Renaissance era-2.png,file
+EmbarkedUnit-Civilian-Renaissance era.png,file
+EmbarkedUnit-Civilian-Spain-Modern era-1.png,file
+EmbarkedUnit-Civilian-Spain-Modern era-2.png,file
+EmbarkedUnit-Civilian-Spain-Modern era.png,file
+EmbarkedUnit-Civilian-Spain-Renaissance era.png,file
+EmbarkedUnit-Civilian.png,file
+EmbarkedUnit-Military-1.png,file
+EmbarkedUnit-Military-2.png,file
+EmbarkedUnit-Military-Denmark.png,file
+EmbarkedUnit-Military-Modern era-1.png,file
+EmbarkedUnit-Military-Modern era-2.png,file
+EmbarkedUnit-Military-Modern era.png,file
+EmbarkedUnit-Military-Polynesia.png,file
+EmbarkedUnit-Military-Renaissance era-1.png,file
+EmbarkedUnit-Military-Renaissance era-2.png,file
+EmbarkedUnit-Military-Renaissance era.png,file
+EmbarkedUnit-Military-Spain-Modern era-1.png,file
+EmbarkedUnit-Military-Spain-Modern era-2.png,file
+EmbarkedUnit-Military-Spain-Modern era.png,file
+EmbarkedUnit-Military-Spain-Renaissance era.png,file
+EmbarkedUnit-Military.png,file
+EmbarkedUnit-Settler-Modern era.png,file
+EmbarkedUnit-Settler-Renaissance era.png,file
+EmbarkedUnit-Settler.png,file
+EmojiIcons,dir
+EmpireOverviewCategories.kt,file
+EmpireOverviewScreen.kt,file
+EmpireOverviewTab.kt,file
+EndpointImplementations.kt,file
+Engineering.png,file
+England.png,file
+English.png,file
+English.properties,file
+EnhanceReligion.png,file
+Enhancer.png,file
+Enter city screen.png,file
+Era.kt,file
+Eras.json,file
+Eras.schema.json,file
+Escort.png,file
+Esperanto.png,file
+Esperanto.properties,file
+Espionage.png,file
+EspionageAutomation.kt,file
+EspionageManager.kt,file
+EspionageOverviewScreen.kt,file
+EspionageTests.kt,file
+EspionageTutorial.png,file
+Ethiopia.png,file
+Evasion.png,file
+Event.kt,file
+EventBus.kt,file
+EventBusTest.kt,file
+EventCircularTriggersTest.kt,file
+Events.json,file
+Events.schema.json,file
+ExclamationMark.png,file
+ExcludedModAuthors.txt,file
+ExpanderTab.kt,file
+Explore.png,file
+ExploredRegion.kt,file
+ExpressionTests.kt,file
+Expressions.kt,file
+Extended Range.png,file
+ExtraImages,dir
+Factory.png,file
+Failing-checks.png,file
+Faith.png,file
+Faith.xcf,file
+Fallback.png,file
+Fallout.png,file
+FantasyHex,dir
+FantasyHex.json,file
+Farm+Wheat.png,file
+Farm-Pillaged.png,file
+Farm.png,file
+FarmD-Pillaged.png,file
+FarmD.png,file
+FarmDH-Pillaged.png,file
+FarmDH.png,file
+FarmG-Pillaged.png,file
+FarmG.png,file
+FarmGH-Pillaged.png,file
+FarmGH.png,file
+FarmP-Pillaged.png,file
+FarmP.png,file
+FarmPH-Pillaged.png,file
+FarmPH.png,file
+FarmS-Pillaged.png,file
+FarmS.png,file
+FarmSH-Pillaged.png,file
+FarmSH.png,file
+FarmT-Pillaged.png,file
+FarmT.png,file
+FarmTH-Pillaged.png,file
+FarmTH.png,file
+Fascism.png,file
+FasterUIDevTesters.kt,file
+FasterUIDevelopment.kt,file
+FasterUIDevelopment.png,file
+FasterUIDevelopment.run.xml,file
+Fertilizer.png,file
+Fighter.png,file
+FileChooser.kt,file
+FileConversions.kt,file
+FileStorage.kt,file
+Filipino.png,file
+Filipino.properties,file
+Finnish.png,file
+Finnish.properties,file
+Fire.png,file
+Fish.png,file
+Fishing Boats-Industrial era.png,file
+Fishing Boats.png,file
+FixedPointMovementTest.kt,file
+FlagIcons,dir
+Flags.atlas,file
+Flags.png,file
+Flight Deck.png,file
+Flight.png,file
+Floating Gardens.png,file
+Flood plains.png,file
+Follower.png,file
+FontFamilyData.kt,file
+FontImplementation.kt,file
+FontMetricsCommon.kt,file
+FontRulesetIcons.kt,file
+Fonts.kt,file
+Food.png,file
+Food.xcf,file
+Footprints.png,file
+Forbidden Palace.png,file
+Force-rating-calculation.md,file
+Foreign Legion-1.png,file
+Foreign Legion-2.png,file
+Foreign Legion-France.png,file
+Foreign Legion.png,file
+ForeignCityView.kt,file
+ForeignCivView.kt,file
+ForeignMapUnitView.kt,file
+Forest.png,file
+ForestG.png,file
+ForestGH.png,file
+ForestGHLow.png,file
+ForestGHUp.png,file
+ForestGLow.png,file
+ForestGUp.png,file
+ForestP.png,file
+ForestPH.png,file
+ForestPHLow.png,file
+ForestPHUp.png,file
+ForestPLow.png,file
+ForestPUp.png,file
+ForestT.png,file
+ForestTH.png,file
+ForestTLow.png,file
+ForestTUp.png,file
+Forge.png,file
+Formation.png,file
+FormattedLine.kt,file
+FormattingExtensions.kt,file
+Fort-Atomic era.png,file
+Fort-Industrial era.png,file
+Fort-Pillaged.png,file
+Fort.png,file
+FortT-Atomic era.png,file
+FortT-Industrial era.png,file
+FortT-Pillaged.png,file
+FortT.png,file
+Fortify.png,file
+FortifyUntilHealed.png,file
+ForwardArrow.png,file
+Found city.png,file
+FoundCity.png,file
+FoundPantheon.png,file
+FoundReligion.png,file
+Founder.png,file
+Fountain of Youth.png,file
+France.png,file
+Free Religion.png,file
+Free Speech.png,file
+Free Thought.png,file
+FreeBuildingTests.kt,file
+Freedom.png,file
+French.png,file
+French.properties,file
+Fresh-Desert,dir
+Fresh-Desert-Lakes-Bottom.png,file
+Fresh-Desert-Lakes-BottomLeft.png,file
+Fresh-Desert-Lakes-BottomRight.png,file
+Fresh-Desert-Lakes-Top.png,file
+Fresh-Desert-Lakes-TopLeft.png,file
+Fresh-Desert-Lakes-TopRight.png,file
+Fresh-Grassland,dir
+Fresh-Grassland-Lakes-Bottom.png,file
+Fresh-Grassland-Lakes-BottomLeft.png,file
+Fresh-Grassland-Lakes-BottomRight.png,file
+Fresh-Grassland-Lakes-Top.png,file
+Fresh-Grassland-Lakes-TopLeft.png,file
+Fresh-Grassland-Lakes-TopRight.png,file
+Fresh-Lakes,dir
+Fresh-Lakes-Desert-Bottom.png,file
+Fresh-Lakes-Desert-BottomLeft.png,file
+Fresh-Lakes-Desert-BottomRight.png,file
+Fresh-Lakes-Desert-Top.png,file
+Fresh-Lakes-Desert-TopLeft.png,file
+Fresh-Lakes-Desert-TopRight.png,file
+Fresh-Lakes-Grassland-Bottom.png,file
+Fresh-Lakes-Grassland-BottomLeft.png,file
+Fresh-Lakes-Grassland-BottomRight.png,file
+Fresh-Lakes-Grassland-Top.png,file
+Fresh-Lakes-Grassland-TopLeft.png,file
+Fresh-Lakes-Grassland-TopRight.png,file
+Fresh-Lakes-Mountain-Bottom.png,file
+Fresh-Lakes-Mountain-BottomLeft.png,file
+Fresh-Lakes-Mountain-BottomRight.png,file
+Fresh-Lakes-Mountain-Top.png,file
+Fresh-Lakes-Mountain-TopLeft.png,file
+Fresh-Lakes-Mountain-TopRight.png,file
+Fresh-Lakes-Plains-Bottom.png,file
+Fresh-Lakes-Plains-BottomLeft.png,file
+Fresh-Lakes-Plains-BottomRight.png,file
+Fresh-Lakes-Plains-Top.png,file
+Fresh-Lakes-Plains-TopLeft.png,file
+Fresh-Lakes-Plains-TopRight.png,file
+Fresh-Lakes-Snow-Bottom.png,file
+Fresh-Lakes-Snow-BottomLeft.png,file
+Fresh-Lakes-Snow-BottomRight.png,file
+Fresh-Lakes-Snow-Top.png,file
+Fresh-Lakes-Snow-TopLeft.png,file
+Fresh-Lakes-Snow-TopRight.png,file
+Fresh-Lakes-Tundra-Bottom.png,file
+Fresh-Lakes-Tundra-BottomLeft.png,file
+Fresh-Lakes-Tundra-BottomRight.png,file
+Fresh-Lakes-Tundra-Top.png,file
+Fresh-Lakes-Tundra-TopLeft.png,file
+Fresh-Lakes-Tundra-TopRight.png,file
+Fresh-Mountain,dir
+Fresh-Mountain-Lakes-Bottom.png,file
+Fresh-Mountain-Lakes-BottomLeft.png,file
+Fresh-Mountain-Lakes-BottomRight.png,file
+Fresh-Plains,dir
+Fresh-Plains-Lakes-Bottom.png,file
+Fresh-Plains-Lakes-BottomLeft.png,file
+Fresh-Plains-Lakes-BottomRight.png,file
+Fresh-Plains-Lakes-Top.png,file
+Fresh-Plains-Lakes-TopLeft.png,file
+Fresh-Plains-Lakes-TopRight.png,file
+Fresh-Snow,dir
+Fresh-Snow-Lakes-Bottom.png,file
+Fresh-Snow-Lakes-BottomLeft.png,file
+Fresh-Snow-Lakes-BottomRight.png,file
+Fresh-Snow-Lakes-Top.png,file
+Fresh-Snow-Lakes-TopLeft.png,file
+Fresh-Snow-Lakes-TopRight.png,file
+Fresh-Tundra,dir
+Fresh-Tundra-Lakes-Bottom.png,file
+Fresh-Tundra-Lakes-BottomLeft.png,file
+Fresh-Tundra-Lakes-BottomRight.png,file
+Fresh-Tundra-Lakes-Top.png,file
+Fresh-Tundra-Lakes-TopLeft.png,file
+Fresh-Tundra-Lakes-TopRight.png,file
+FreshWaterTests.kt,file
+FriendList.kt,file
+FriendPickerList.kt,file
+FriendTable.kt,file
+Frigate-1.png,file
+Frigate-2.png,file
+Frigate-Barbarians.png,file
+Frigate.png,file
+From-code-to-deployment.md,file
+Furs+Camp-Industrial era.png,file
+Furs+Camp-Pillaged.png,file
+Furs+Camp.png,file
+Furs.png,file
+FursT+Camp-Industrial era.png,file
+FursT+Camp-Pillaged.png,file
+FursT+Camp.png,file
+FursT.png,file
+Future Infantry.png,file
+Future Tech.png,file
+GUI.kt,file
+Galician.png,file
+Galician.properties,file
+Galleass-1.png,file
+Galleass-2.png,file
+Galleass.png,file
+Galley.png,file
+Game-Making-Tips.md,file
+GameBasedView.kt,file
+GameContext.kt,file
+GameInfo.kt,file
+GameList.kt,file
+GameOptionsTable.kt,file
+GameParameters.kt,file
+GameResource.kt,file
+GameSerializationTests.kt,file
+GameSettings.kt,file
+GameSettingsMigrations.kt,file
+GameSetupInfo.kt,file
+GameStartScreen.kt,file
+GameStarter.kt,file
+GameView.kt,file
+GameplayTab.kt,file
+Garden.png,file
+Gatling Gun-1.png,file
+Gatling Gun-2.png,file
+Gatling Gun.png,file
+GdxTestRunner.kt,file
+Gems.png,file
+Generic.png,file
+German.png,file
+German.properties,file
+Germany.png,file
+Giant Death Robot-1.png,file
+Giant Death Robot-2.png,file
+Giant Death Robot.png,file
+Giant Easter Egg.png,file
+Giant Pumpkin.png,file
+Github.kt,file
+Github.png,file
+GithubAPI.kt,file
+GithubPreviewImage.jpg,file
+Global.png,file
+GlobalPoliticsDiagramGroup.kt,file
+GlobalPoliticsOverviewTable.kt,file
+GlobalUniques.json,file
+GlobalUniques.kt,file
+GlobalUniques.schema.json,file
+GlobalUniquesTests.kt,file
+Globalization.png,file
+Gold Ore.png,file
+Gold.png,file
+Gold.xcf,file
+GoldGiftingTests.kt,file
+GoldenAgeManager.kt,file
+GoldenAgeManagerTest.kt,file
+Granary.png,file
+Grand Mesa.png,file
+Grand Temple.png,file
+Grassland+Farm.png,file
+Grassland+Forest+Camp.png,file
+Grassland+Forest+Deer+Camp.png,file
+Grassland+Forest+Furs+Camp.png,file
+Grassland+Forest+Lumber mill.png,file
+Grassland+Forest+Truffles+Camp.png,file
+Grassland+Hill+Fallout.png,file
+Grassland+Hill+Fallout2.png,file
+Grassland+Hill+Farm.png,file
+Grassland+Hill+Forest+Camp.png,file
+Grassland+Hill+Forest+Trading post.png,file
+Grassland+Hill.png,file
+Grassland+Hill2.png,file
+Grassland+Jungle+Trading post.png,file
+Grassland.png,file
+Grassland2.png,file
+Grassland3.png,file
+GrasslandForest.png,file
+Great Admiral-1.png,file
+Great Admiral-2.png,file
+Great Admiral-Modern era.png,file
+Great Admiral.png,file
+Great Artist-1.png,file
+Great Artist-2.png,file
+Great Artist-Industrial era-1.png,file
+Great Artist-Industrial era-2.png,file
+Great Artist-Industrial era.png,file
+Great Artist-Modern era.png,file
+Great Artist.png,file
+Great Barrier Reef.png,file
+Great Engineer-1.png,file
+Great Engineer-2.png,file
+Great Engineer-Industrial era-1.png,file
+Great Engineer-Industrial era-2.png,file
+Great Engineer-Industrial era.png,file
+Great Engineer-Modern era.png,file
+Great Engineer.png,file
+Great Firewall.png,file
+Great Galleass.png,file
+Great General-1.png,file
+Great General-2.png,file
+Great General-Industrial era-1.png,file
+Great General-Industrial era-2.png,file
+Great General-Industrial era.png,file
+Great General-Modern era.png,file
+Great General.png,file
+Great Generals.png,file
+Great Merchant-1.png,file
+Great Merchant-2.png,file
+Great Merchant-Industrial era-1.png,file
+Great Merchant-Industrial era-2.png,file
+Great Merchant-Industrial era.png,file
+Great Merchant-Modern era.png,file
+Great Merchant.png,file
+Great Mosque of Djenne.png,file
+Great Musician.png,file
+Great Prophet-1.png,file
+Great Prophet-2.png,file
+Great Prophet-Industrial era-1.png,file
+Great Prophet-Industrial era-2.png,file
+Great Prophet-Industrial era.png,file
+Great Prophet.png,file
+Great Scientist-1.png,file
+Great Scientist-2.png,file
+Great Scientist-Industrial era-1.png,file
+Great Scientist-Industrial era-2.png,file
+Great Scientist-Industrial era.png,file
+Great Scientist-Modern era.png,file
+Great Scientist.png,file
+Great Wall.png,file
+Great War Bomber.png,file
+Great War Infantry-1.png,file
+Great War Infantry-2.png,file
+Great War Infantry.png,file
+Great Writer.png,file
+GreatGeneralImplementation.kt,file
+GreatPersonManager.kt,file
+GreatPersonPickerScreen.kt,file
+GreatPersonPointsBreakdown.kt,file
+GreatPersonPointsBreakdownPopup.kt,file
+Greece.png,file
+Greek.png,file
+Greek.properties,file
+Guard.png,file
+Guided Missile.png,file
+Guiding-Principles.md,file
+Guilds.png,file
+Gunpowder.png,file
+Hagia Sophia.png,file
+Haka War Dance.png,file
+Hakkapeliitta-1.png,file
+Hakkapeliitta-2.png,file
+Hakkapeliitta-Sweden.png,file
+Hakkapeliitta.png,file
+Halloween candy 1.png,file
+Halloween candy 2.png,file
+Halloween candy 3.png,file
+Halloween candy 4.png,file
+Halloween candy 5.png,file
+Hanging Gardens.png,file
+Hanse.png,file
+Happiness.png,file
+Happiness.xcf,file
+Harbor.png,file
+HardenGdxAudio.kt,file
+HeadTowardsEnemyCityAutomation.kt,file
+Heal Instantly.png,file
+Helicopter Gunship-1.png,file
+Helicopter Gunship-2.png,file
+Helicopter Gunship.png,file
+Hermitage.png,file
+Heroic Epic.png,file
+HexMath.kt,file
+HexaRealm,dir
+HexaRealm.json,file
+Hexagon.png,file
+HexagonOutline.png,file
+HexmathTests.kt,file
+HiddenTutorialTask.png,file
+HideMore.png,file
+Hideout.png,file
+Highlight.png,file
+Hill.png,file
+HillForest+Lumber mill.png,file
+HillMarbleQuarry.png,file
+HillMine.png,file
+HillStoneQuarry.png,file
+Himeji Castle.png,file
+Hindi.png,file
+Hindi.properties,file
+Hinduism.png,file
+HolidayDates.kt,file
+HolidayDatesTest.kt,file
+Holy site-Pillaged.png,file
+Holy site.png,file
+Holy siteT-Pillaged.png,file
+Holy siteT.png,file
+Holy.png,file
+Home Sweet Home.png,file
+Honor.png,file
+Hoplite-1.png,file
+Hoplite-2.png,file
+Hoplite-Greece-1.png,file
+Hoplite-Greece-2.png,file
+Hoplite-Greece.png,file
+Hoplite.png,file
+Horse Archer-1.png,file
+Horse Archer-2.png,file
+Horse Archer-Barbarians.png,file
+Horse Archer-The Huns-1.png,file
+Horse Archer-The Huns-2.png,file
+Horse Archer-The Huns.png,file
+Horse Archer.png,file
+Horseback Riding.png,file
+Horseman-1.png,file
+Horseman-2.png,file
+Horseman.png,file
+Horses+Pasture-Industrial era.png,file
+Horses+Pasture-Pillaged.png,file
+Horses+Pasture.png,file
+Horses.png,file
+Hospital.png,file
+Hubble Space Telescope.png,file
+Humanism.png,file
+Hungarian.png,file
+Hungarian.properties,file
+HurryConstruction.png,file
+HurryPolicy.png,file
+HurryResearch.png,file
+Hussar-1.png,file
+Hussar-2.png,file
+Hussar-Austria.png,file
+Hussar.png,file
+HutFarm-Atomic era.png,file
+HutFarm-Atomic era2.png,file
+HutFarm-Atomic era3.png,file
+HutFarm-Industrial era.png,file
+HutFarm-Industrial era2.png,file
+HutFarm-Industrial era3.png,file
+HutFarm.png,file
+HutFarm2.png,file
+HutFarm3.png,file
+HutFarmT-Atomic era.png,file
+HutFarmT-Atomic era2.png,file
+HutFarmT-Industrial era.png,file
+HutFarmT-Industrial era2.png,file
+HutFarmT.png,file
+HutFarmT2.png,file
+HutFarmT3.png,file
+Hwach'a-1.png,file
+Hwach'a-2.png,file
+Hwach'a-Korea.png,file
+Hwach'a.png,file
+Hydro Plant.png,file
+ICivilopediaText.kt,file
+ICombatant.kt,file
+IConstruction.kt,file
+IFasterUITester.kt,file
+IHasUniques.kt,file
+IMediaFinder.kt,file
+INamed.kt,file
+IPreviousScreen.kt,file
+IQuestImplementation.kt,file
+ISSUE_TEMPLATE,dir
+ISortableGridContentProvider.kt,file
+Ice.png,file
+Icon.png,file
+IconCircleGroup.kt,file
+IconTextButton.kt,file
+Icons,dir
+Icons.atlas,file
+Icons.png,file
+IdChecker.kt,file
+IdHelperTests.kt,file
+IdleUnitButton.kt,file
+Ignore terrain cost.png,file
+Illustration.png,file
+ImageAttempter.kt,file
+ImageGetter.kt,file
+ImagePacker.kt,file
+ImageWithCustomSize.kt,file
+Images-and-Audio.md,file
+Images.AbsoluteUnits,dir
+Images.ConstructionIcons,dir
+Images.EasterEggs,dir
+Images.Flags,dir
+Images.Icons,dir
+Images.NationIcons,dir
+Images.PolicyIcons,dir
+Images.ReligionIcons,dir
+Images.Skin,dir
+Images.Tech,dir
+Images.Tilesets,dir
+Images.UnitPromotionIcons,dir
+ImagesToNotAddToGame,dir
+Immortal.png,file
+ImmutableColor.kt,file
+Impi.png,file
+ImprovementDescriptions.kt,file
+ImprovementFunctions.kt,file
+ImprovementIcons,dir
+ImprovementPickerScreen.kt,file
+Improvements.png,file
+Inca.png,file
+Incense+Plantation-Pillaged.png,file
+Incense+Plantation.png,file
+Incense.png,file
+Increase.png,file
+India.png,file
+Indirect Fire.png,file
+Indonesian.png,file
+Indonesian.properties,file
+Industrialization.png,file
+Infantry-1.png,file
+Infantry-2.png,file
+Infantry.png,file
+InfluenceTable.kt,file
+InputDisabling.kt,file
+Inquisitor-1.png,file
+Inquisitor-2.png,file
+Inquisitor-Industrial era-1.png,file
+Inquisitor-Industrial era-2.png,file
+Inquisitor-Industrial era.png,file
+Inquisitor.png,file
+Installing-on-macOS.md,file
+Intentional-departures-from-Civ-V.md,file
+InterceptRange.png,file
+Interception.png,file
+Iron Working.png,file
+Iron.png,file
+Ironclad-1.png,file
+Ironclad-2.png,file
+Ironclad.png,file
+Ironworks.png,file
+Iroquois.png,file
+Islam.png,file
+Italian.png,file
+Italian.properties,file
+Ivory+Camp-Industrial era.png,file
+Ivory+Camp-Pillaged.png,file
+Ivory+Camp.png,file
+Ivory.png,file
+Jaguar-1.png,file
+Jaguar-2.png,file
+Jaguar-Aztecs.png,file
+Jaguar.png,file
+Janissary-1.png,file
+Janissary-2.png,file
+Janissary-The Ottomans.png,file
+Janissary.png,file
+Japan.png,file
+Japanese.png,file
+Japanese.properties,file
+Jet Fighter.png,file
+Jewelry.png,file
+JsonSerializers.kt,file
+Judaism.png,file
+Jungle.png,file
+JungleG.png,file
+JungleGLow.png,file
+JungleGUp.png,file
+JungleP.png,file
+JunglePLow.png,file
+JunglePUp.png,file
+Katun.png,file
+Kazakh.png,file
+Keshik-1.png,file
+Keshik-2.png,file
+Keshik.png,file
+KeyBindingsTab.kt,file
+KeyCapturingButton.kt,file
+KeyCharAndCode.kt,file
+KeyShortcutDispatcher.kt,file
+KeyShortcutDispatcherVeto.kt,file
+KeyShortcutListener.kt,file
+Keyboard.png,file
+KeyboardBinding.kt,file
+KeyboardBindings.kt,file
+KeyboardPanningListener.kt,file
+Khan-1.png,file
+Khan-2.png,file
+Khan-Modern era.png,file
+Khan.png,file
+Knight-1.png,file
+Knight-2.png,file
+Knight.png,file
+Korea.png,file
+Korean.png,file
+Korean.properties,file
+Krakatoa.png,file
+Kremlin.png,file
+Krepost.png,file
+Kris Swordsman.png,file
+LICENSE,file
+Lakes.png,file
+Lancer-1.png,file
+Lancer-2.png,file
+Lancer-Barbarians.png,file
+Lancer.png,file
+LandUnit.png,file
+Landed Elite.png,file
+Landing Party.png,file
+Landmark-Pillaged.png,file
+Landmark.png,file
+LandmarkT-Pillaged.png,file
+LandmarkT.png,file
+Landship-1.png,file
+Landship-2.png,file
+Landship.png,file
+Landsknecht-1.png,file
+Landsknecht-2.png,file
+Landsknecht-Germany.png,file
+Landsknecht.png,file
+LanguagePickerScreen.kt,file
+LanguageTab.kt,file
+LanguageTable.kt,file
+Lasers.png,file
+LastSeenImprovement.kt,file
+Latin.png,file
+Latin.properties,file
+LeaderIntroTable.kt,file
+Leaning Tower of Pisa.png,file
+Legalism.png,file
+Legion-1.png,file
+Legion-2.png,file
+Legion-Rome.png,file
+Legion.png,file
+LibGdx token.txt,file
+Liberty.png,file
+Library.png,file
+Lighthouse.png,file
+LineChart.kt,file
+LineChartTests.kt,file
+Link.png,file
+LinuxX11SaverLoader.kt,file
+Lithuanian.png,file
+Lithuanian.properties,file
+Load.png,file
+LoadGameScreen.kt,file
+LoadGameTest.kt,file
+LoadOrSaveScreen.kt,file
+Loading.png,file
+LoadingImage.kt,file
+LoadingPopup.kt,file
+LoadingScreen.kt,file
+LocalUniqueCache.kt,file
+LocaleCode.kt,file
+LockSmall.png,file
+Locked.png,file
+Log.kt,file
+Logistics.png,file
+LongPriorityQueue.kt,file
+LongPriorityQueueTest.kt,file
+Longbowman-1.png,file
+Longbowman-2.png,file
+Longbowman-England.png,file
+Longbowman.png,file
+Longhouse.png,file
+Longswordsman-1.png,file
+Longswordsman-2.png,file
+Longswordsman-Barbarians.png,file
+Longswordsman.png,file
+Lumber mill-Industrial era.png,file
+Lumber mill-Pillaged.png,file
+Lumber mill.png,file
+Lumber millT-Industrial era.png,file
+Lumber millT-Pillaged.png,file
+Lumber millT.png,file
+LuxuryResourcePlacementLogic.kt,file
+Macedonian.png,file
+Machine Gun-1.png,file
+Machine Gun-2.png,file
+Machine Gun.png,file
+Machinery.png,file
+Machu Picchu.png,file
+MainMenuScreen.kt,file
+MajorCivDiplomacyTable.kt,file
+Making-a-new-Civilization.md,file
+Malay.png,file
+Malay.properties,file
+Malcontent.png,file
+Malcontent.xcf,file
+Maltese.png,file
+Maltese.properties,file
+Mandate Of Heaven.png,file
+Mandekalu Cavalry-1.png,file
+Mandekalu Cavalry-2.png,file
+Mandekalu Cavalry-Songhai.png,file
+Mandekalu Cavalry.png,file
+Manhattan Project.png,file
+Manufactory-Atomic era.png,file
+Manufactory-Industrial era.png,file
+Manufactory-Pillaged.png,file
+Manufactory.png,file
+ManufactoryT-Atomic era.png,file
+ManufactoryT-Industrial era.png,file
+ManufactoryT-Pillaged.png,file
+ManufactoryT.png,file
+Maori Warrior-1.png,file
+Maori Warrior-2.png,file
+Maori Warrior-Polynesia.png,file
+Maori Warrior.png,file
+Map-rendering.md,file
+MapArrowType.kt,file
+MapEditor.png,file
+MapEditorEditSubTabs.kt,file
+MapEditorEditTab.kt,file
+MapEditorFilesScroll.kt,file
+MapEditorGenerateTab.kt,file
+MapEditorLoadTab.kt,file
+MapEditorMainTabs.kt,file
+MapEditorModsTab.kt,file
+MapEditorOptionsTab.kt,file
+MapEditorSaveTab.kt,file
+MapEditorScreen.kt,file
+MapEditorToolsDrawer.kt,file
+MapEditorViewTab.kt,file
+MapEditorWesnothImporter.kt,file
+MapElevationGenerator.kt,file
+MapFileSelectTable.kt,file
+MapGenTileData.kt,file
+MapGenerationRandomness.kt,file
+MapGenerationTests.kt,file
+MapGenerator.kt,file
+MapGeneratorSteps.kt,file
+MapLandmassGenerator.kt,file
+MapOptionsTable.kt,file
+MapOverlayToggleButton.kt,file
+MapOverlayToggleImprovements.png,file
+MapOverlayToggleMovement.png,file
+MapOverlayToggleMovement.xcf,file
+MapOverlayToggleResources.png,file
+MapOverlayToggleResources.xcf,file
+MapOverlayToggleWorkedTiles.png,file
+MapOverlayToggleWorkedTiles.xcf,file
+MapOverlayToggleYields.png,file
+MapOverlayToggleYields.xcf,file
+MapParameters.kt,file
+MapParametersTable.kt,file
+MapPathing.kt,file
+MapRegionResources.kt,file
+MapRegions.kt,file
+MapResourceSetting.kt,file
+MapSaver.kt,file
+MapSize.kt,file
+MapUnit.kt,file
+MapUnitCache.kt,file
+MapUnitCombatant.kt,file
+MapUnitView.kt,file
+MapVisualization.kt,file
+Marauder.png,file
+Marble+Quarry-Industrial era.png,file
+Marble+Quarry-Pillaged.png,file
+Marble+Quarry.png,file
+Marble+QuarryT-Industrial era.png,file
+Marble+QuarryT-Pillaged.png,file
+Marble+QuarryT.png,file
+Marble.png,file
+March.png,file
+Marine-1.png,file
+Marine-2.png,file
+Marine.png,file
+Maritime.png,file
+Market.png,file
+MarkupRenderer.kt,file
+Marsh.png,file
+Masonry.png,file
+Mass Media.png,file
+Mathematics.png,file
+Mausoleum of Halicarnassus.png,file
+Maya.png,file
+MayaCalendar,dir
+MayaCalendar.kt,file
+MeasureDuration.kt,file
+MeasureMemory.kt,file
+Mechanized Infantry-1.png,file
+Mechanized Infantry-2.png,file
+Mechanized Infantry.png,file
+MediaFinderTests.kt,file
+Medic.png,file
+Medical Lab.png,file
+Meet another civilization.jpg,file
+Mehal Sefari-1.png,file
+Mehal Sefari-2.png,file
+Mehal Sefari-Ethiopia.png,file
+Mehal Sefari.png,file
+MemorySnaphots.kt,file
+MenuIcon.png,file
+Mercantile.png,file
+Mercantilism.png,file
+Merchant Navy.png,file
+Merchant Of Venice.png,file
+Meritocracy.png,file
+Metal Casting.png,file
+Metallurgy.png,file
+Militarism.png,file
+Militaristic.png,file
+Military Academy.png,file
+Military Base.png,file
+Military Caste.png,file
+Military Science.png,file
+Military Tradition.png,file
+Mine-Industrial era.png,file
+Mine-Pillaged.png,file
+Mine.png,file
+MineT-Industrial era.png,file
+MineT-Pillaged.png,file
+MineT.png,file
+Minimal,dir
+Minimal.json,file
+Minimap.kt,file
+MinimapHolder.kt,file
+MinimapTile.kt,file
+MinimapTileUtil.kt,file
+Mining.png,file
+MinorCivPlacer.kt,file
+Mint.png,file
+Minuteman-1.png,file
+Minuteman-2.png,file
+Minuteman-America.png,file
+Minuteman.png,file
+Missile Cruiser-1.png,file
+Missile Cruiser-2.png,file
+Missile Cruiser.png,file
+Missionary-1.png,file
+Missionary-2.png,file
+Missionary-Industrial era-1.png,file
+Missionary-Industrial era-2.png,file
+Missionary-Industrial era.png,file
+Missionary.png,file
+Moai-Pillaged.png,file
+Moai.png,file
+Mobile SAM-1.png,file
+Mobile SAM-2.png,file
+Mobile SAM.png,file
+Mobile Tactics.png,file
+Mobility.png,file
+Mod-file-structure,dir
+ModCategories.json,file
+ModCategories.kt,file
+ModCheckTab.kt,file
+ModCheckboxTable.kt,file
+ModCompatibility.kt,file
+ModConstants.kt,file
+ModConstantsTests.kt,file
+ModDecoratedButton.kt,file
+ModInfoAndActionPane.kt,file
+ModManagementOptions.kt,file
+ModManagementScreen.kt,file
+ModOptions.json,file
+ModOptions.kt,file
+ModOptions.schema.json,file
+ModUIData.kt,file
+ModUpdate.png,file
+Modders,dir
+Modern Armor-1.png,file
+Modern Armor-2.png,file
+Modern Armor.png,file
+Mods.md,file
+Mods.png,file
+Mohawk Warrior-1.png,file
+Mohawk Warrior-2.png,file
+Mohawk Warrior-Iroquois.png,file
+Mohawk Warrior.png,file
+Monarchy.png,file
+Monastery.png,file
+Mongolia.png,file
+Monument.png,file
+Morale.png,file
+Mosque.png,file
+MotivationToAttackAutomation.kt,file
+Mount Fuji.png,file
+Mount Kailash.png,file
+Mount Sinai.png,file
+Mountain-1.png,file
+Mountain.png,file
+Mountain2.png,file
+Move an air unit.png,file
+Move unit.png,file
+MoveAutomatedUnits.png,file
+MoveSpies.png,file
+MoveTo.png,file
+Movement.png,file
+MovementCost.kt,file
+Mud Pyramid Mosque.png,file
+Mughal Fort.png,file
+MultiCheckboxTable.kt,file
+MultiFilter.kt,file
+MultiFilterTests.kt,file
+Multiplayer.kt,file
+Multiplayer.md,file
+Multiplayer.png,file
+MultiplayerFiles.kt,file
+MultiplayerGamePreview.kt,file
+MultiplayerHelpers.kt,file
+MultiplayerScreen.kt,file
+MultiplayerSelectBoxHelpers.kt,file
+MultiplayerServer.kt,file
+MultiplayerStatusButton.kt,file
+MultiplayerStatusPopup.kt,file
+MultiplayerTab.kt,file
+MultiplayerTurnCheckWorker.kt,file
+Museum.png,file
+MusicController.kt,file
+MusicControls.kt,file
+MusicMood.kt,file
+MusicTrackChooserFlags.kt,file
+MusicTrackController.kt,file
+Musketeer-1.png,file
+Musketeer-2.png,file
+Musketeer-France.png,file
+Musketeer.png,file
+Musketman-1.png,file
+Musketman-2.png,file
+Musketman-Barbarians.png,file
+Musketman.png,file
+MutableInt.kt,file
+NamedStats.kt,file
+Nanotechnology.png,file
+Naresuan's Elephant-1.png,file
+Naresuan's Elephant-2.png,file
+Naresuan's Elephant-Siam.png,file
+Naresuan's Elephant.png,file
+Nation.kt,file
+NationDescriptions.kt,file
+NationIcons,dir
+NationIcons.atlas,file
+NationIcons.png,file
+NationPicker.png,file
+NationPickerPopup.kt,file
+NationSwap.png,file
+NationTable.kt,file
+National College.png,file
+National Epic.png,file
+National Intelligence Agency.png,file
+National Treasury.png,file
+Nationalism.png,file
+Nations.json,file
+Nations.png,file
+Nations.schema.json,file
+NativeBitmapFontData.kt,file
+NaturalWonder.png,file
+NaturalWonderGenerator.kt,file
+NaturalWonderGeneratorTests.kt,file
+Nau.png,file
+Navajo.properties,file
+Naval Tradition.png,file
+Navigation.png,file
+NeighborDirection.kt,file
+Neuschwanstein.png,file
+New.png,file
+NewGameModCheckHelpers.kt,file
+NewGameScreen.kt,file
+NextTurn.png,file
+NextTurnAction.kt,file
+NextTurnAutomation.kt,file
+NextTurnAutomationTest.kt,file
+NextTurnButton.kt,file
+NextTurnLatencyTest.kt,file
+NextTurnMenu.kt,file
+NextTurnProgress.kt,file
+NextUnit.png,file
+Node.kt,file
+NonTransformGroup.kt,file
+Norwegian Ski Infantry-1.png,file
+Norwegian Ski Infantry-2.png,file
+Norwegian Ski Infantry-Denmark.png,file
+Norwegian Ski Infantry.png,file
+Norwegian.png,file
+Norwegian.properties,file
+NotWorked.png,file
+Notification.kt,file
+NotificationActions.kt,file
+NotificationIcons,dir
+NotificationIcons.kt,file
+Notifications.png,file
+NotificationsOverviewTable.kt,file
+NotificationsScroll.kt,file
+Notre Dame.png,file
+Nuclear Fission.png,file
+Nuclear Fusion.png,file
+Nuclear Missile.png,file
+Nuclear Plant.png,file
+Nuclear Submarine-1.png,file
+Nuclear Submarine-2.png,file
+Nuclear Submarine.png,file
+Nuke.kt,file
+Oasis.png,file
+Observatory.png,file
+Ocean.png,file
+OfferColumnsTable.kt,file
+OffersListScroll.kt,file
+Offshore Platform.png,file
+Oil well-Pillaged.png,file
+Oil well.png,file
+Oil+Offshore Platform.png,file
+Oil+Oil well-Pillaged.png,file
+Oil+Oil well.png,file
+Oil.png,file
+OilS.png,file
+Old Faithful.png,file
+Oligarchy.png,file
+OnClickListener.kt,file
+OnlineMultiplayerEvents.kt,file
+Open the options table.png,file
+Opera House.png,file
+Operational Range.png,file
+Operator.kt,file
+Optics.png,file
+Options.png,file
+OptionsPopup.kt,file
+OptionsPopupHelpers.kt,file
+OptionsPopupPages.kt,file
+OptionsPopupTab.kt,file
+Order.png,file
+Organized Religion.png,file
+Other,dir
+OtherIcons,dir
+OurStatus.png,file
+OverlayButtonData.kt,file
+OverviewPersistableData.kt,file
+Oxford University.png,file
+Pagoda.png,file
+Palace.png,file
+Pantheon.png,file
+PantheonPickerScreen.kt,file
+Panzer-1.png,file
+Panzer-2.png,file
+Panzer-Germany.png,file
+Panzer.png,file
+Paper Maker.png,file
+Paradrop.png,file
+Paratrooper-1.png,file
+Paratrooper-2.png,file
+Paratrooper.png,file
+Parser.kt,file
+Particle Physics.png,file
+ParticleEffectAnimation.kt,file
+ParticleEffectFireworks.kt,file
+ParticleEffectMapFireworks.kt,file
+Pass a turn.png,file
+Pasture-Industrial era.png,file
+Pasture-Pillaged.png,file
+Pasture.png,file
+Pathfinder.png,file
+PathfindingTests.kt,file
+PathingMap.kt,file
+PathingMapAStarPathfinder.kt,file
+PathingMapCache.kt,file
+PathingMapTest.kt,file
+Patronage.png,file
+Pause.png,file
+Pearls.png,file
+Pencil.png,file
+Pentagon.png,file
+Perlin.kt,file
+PerpetualConstruction.kt,file
+Persia.png,file
+Persian Immortal-1.png,file
+Persian Immortal-2.png,file
+Persian Immortal.png,file
+Persian instructions.txt,file
+Persian_(Pinglish-DIN).png,file
+Persian_(Pinglish-DIN).properties,file
+Persian_(Pinglish-UN).png,file
+Persian_(Pinglish-UN).properties,file
+Personalities.json,file
+Personalities.schema.json,file
+Personality.kt,file
+Personality.png,file
+PersonalityValue.kt,file
+Petra.png,file
+Pharmaceuticals.png,file
+Philantropy.png,file
+Philosophy.png,file
+Physics.png,file
+Pick construction.png,file
+Pick technology.png,file
+PickConstruction.png,file
+PickPolicy.png,file
+PickTech.png,file
+PickerPane.kt,file
+PickerScreen.kt,file
+Pictish Courage.png,file
+Pictish Warrior-1.png,file
+Pictish Warrior-2.png,file
+Pictish Warrior-Celts.png,file
+Pictish Warrior.png,file
+Piety.png,file
+Pikeman-1.png,file
+Pikeman-2.png,file
+Pikeman-Barbarians.png,file
+Pikeman.png,file
+Pillage.png,file
+Pillaged.png,file
+Plains+Farm.png,file
+Plains+Forest+Camp.png,file
+Plains+Forest+Lumber mill.png,file
+Plains+Hill+Fallout.png,file
+Plains+Hill+Fallout2.png,file
+Plains+Hill.png,file
+Plains+Hill2.png,file
+Plains+Jungle+Trading post.png,file
+Plains.png,file
+Plains2.png,file
+Plains3.png,file
+PlainsForest.png,file
+PlainsJungle.png,file
+Planned Economy.png,file
+Plantation+Bananas.png,file
+Plantation+Cotton.png,file
+Plantation-Pillaged.png,file
+Plantation.png,file
+Plastics.png,file
+PlatformSaverLoader.kt,file
+PlatformSpecific.kt,file
+Player.kt,file
+PlayerPickerTable.kt,file
+PlayerReadyScreen.kt,file
+PlayerType.kt,file
+Polder-Industrial era.png,file
+Polder-Pillaged.png,file
+Polder.png,file
+Police State.png,file
+Police Station.png,file
+Policies.json,file
+Policies.png,file
+Policies.schema.json,file
+Policy.kt,file
+PolicyBranch.kt,file
+PolicyBranchIcons,dir
+PolicyFilterTests.kt,file
+PolicyIcons,dir
+PolicyIcons.atlas,file
+PolicyIcons.png,file
+PolicyManager.kt,file
+PolicyPickerScreen.kt,file
+PolicyScreen.png,file
+Polish.png,file
+Polish.properties,file
+Politics-diagram-bg.png,file
+Politics-diagram-bg.readme.txt,file
+Politics.png,file
+Polynesia.png,file
+Population.png,file
+Population.xcf,file
+Populism.png,file
+Popup.kt,file
+PopupAlert.kt,file
+Porcelain Tower.png,file
+Porcelain.png,file
+Portrait.kt,file
+Portuguese.png,file
+Portuguese.properties,file
+Pottery.png,file
+Pracinha.png,file
+Present.png,file
+Printing Press.png,file
+Priorities.schema.json,file
+Privacy-Policy.md,file
+Privateer-1.png,file
+Privateer-2.png,file
+Privateer.png,file
+Production.png,file
+Production.xcf,file
+Professional Army.png,file
+Project-structure-and-major-classes.md,file
+Project_Default.xml,file
+Promote.png,file
+Promotion.kt,file
+PromotionButton.kt,file
+PromotionPickerScreen.kt,file
+PromotionScreenColors.kt,file
+PromotionTree.kt,file
+Protectionism.png,file
+Public School.png,file
+Puppet.png,file
+Pyramid.png,file
+Quarry+Marble.png,file
+Quarry+Stone.png,file
+Quarry-Industrial era.png,file
+Quarry-Pillaged.png,file
+Quarry.png,file
+QuarryT-Industrial era.png,file
+QuarryT-Pillaged.png,file
+QuarryT.png,file
+Quest.kt,file
+Quest.png,file
+QuestImplementation.kt,file
+QuestManager.kt,file
+QuestTargetHelpers.kt,file
+QuestTests.kt,file
+Question.png,file
+Quests.json,file
+Quests.schema.json,file
+Quick Study.png,file
+QuickSave.kt,file
+Quickstart.png,file
+Quinquereme-1.png,file
+Quinquereme-2.png,file
+Quinquereme-Carthage.png,file
+Quinquereme.png,file
+README,file
+README.md,file
+Radar.png,file
+Radio.png,file
+Railroad-Pillaged.png,file
+Railroad.png,file
+Railroads.png,file
+Random.png,file
+Randomness.kt,file
+Range.png,file
+RangedStrength.png,file
+RankingType.kt,file
+RankingTypeTests.kt,file
+Rankings.png,file
+Rationalism.png,file
+Reassign worked tiles.png,file
+Recycling Center.png,file
+RedirectOutput.kt,file
+Reduce.png,file
+ReformReligion.png,file
+Reformation.png,file
+Refrigeration.png,file
+Region.kt,file
+RegionStartFinder.kt,file
+Rejuvenation.png,file
+Religion.kt,file
+Religion.png,file
+ReligionAutomation.kt,file
+ReligionIcons,dir
+ReligionIcons.atlas,file
+ReligionIcons.png,file
+ReligionManager.kt,file
+ReligionOverviewTab.kt,file
+ReligionPickerScreenCommon.kt,file
+Religions.json,file
+Religions.png,file
+Religions.schema.json,file
+Religious.png,file
+ReligiousBeliefsPickerScreen.kt,file
+ReligiousStrength.png,file
+ReligiousUnitAutomation.kt,file
+Remove Fallout.png,file
+Remove Forest.png,file
+Remove Heresy.png,file
+Remove Jungle.png,file
+Remove Marsh.png,file
+Remove Railroad.png,file
+Remove Road.png,file
+RemoveHeresy.png,file
+RenderEvent.kt,file
+Repair.png,file
+Replaceable Parts.png,file
+Replay.png,file
+ReplayMap.kt,file
+Representation.png,file
+Republic.png,file
+RequestStructs.kt,file
+Research Lab.png,file
+Resistance.png,file
+ResourceDescriptions.kt,file
+ResourceDiversityTest.kt,file
+ResourceIcons,dir
+ResourceSupplyList.kt,file
+ResourceTests.kt,file
+ResourceType.kt,file
+Resources.png,file
+ResourcesOverviewTab.kt,file
+ResponseStructs.kt,file
+Resume.png,file
+Rider-Barbarians.png,file
+Rifleman-1.png,file
+Rifleman-2.png,file
+Rifleman.png,file
+Rifling.png,file
+River-Bottom.png,file
+River-BottomLeft.png,file
+River-BottomRight.png,file
+RiverGenerator.kt,file
+Road-Pillaged.png,file
+Road.png,file
+RoadBetweenCitiesAutomation.kt,file
+RoadConnection.png,file
+RoadConnection.xcf,file
+RoadStatus.kt,file
+RoadToAutomation.kt,file
+RobotArm.png,file
+RobotHeadRect.png,file
+RobotHeadSquare.png,file
+Robotics.png,file
+Rock of Gibraltar.png,file
+Rocket Artillery-1.png,file
+Rocket Artillery-2.png,file
+Rocket Artillery.png,file
+Rocketry.png,file
+Romanian.png,file
+Romanian.properties,file
+Rome.png,file
+RuinReward.kt,file
+Ruins.json,file
+Ruins.schema.json,file
+RuinsD.png,file
+RuinsG.png,file
+RuinsManager.kt,file
+RuinsT.png,file
+Ruleset.kt,file
+RulesetCache.kt,file
+RulesetErrorList.kt,file
+RulesetName.kt,file
+RulesetObject.kt,file
+RulesetValidator.kt,file
+RulesetValidatorTests.kt,file
+Russia.png,file
+Russian.png,file
+Russian.properties,file
+Rusyn.png,file
+Rusyn.properties,file
+SS Booster-1.png,file
+SS Booster-2.png,file
+SS Booster.png,file
+SS Cockpit-1.png,file
+SS Cockpit-2.png,file
+SS Cockpit.png,file
+SS Engine-1.png,file
+SS Engine-2.png,file
+SS Engine.png,file
+SS Stasis Chamber-1.png,file
+SS Stasis Chamber-2.png,file
+SS Stasis Chamber.png,file
+SVGExport,dir
+Sailing.png,file
+Salt.png,file
+Samurai-1.png,file
+Samurai-2.png,file
+Samurai-Japan.png,file
+Samurai.png,file
+Satellites.png,file
+Satrap's Court.png,file
+SaveGameScreen.kt,file
+Saved-games-and-transients.md,file
+ScalingTableWrapper.kt,file
+ScenarioSelectTable.kt,file
+Scenarios.md,file
+Scenarios.png,file
+Scene2dExtensions.kt,file
+SceneDebugMode.kt,file
+Scholasticism.png,file
+Science.png,file
+Science.xcf,file
+Scientific Revolution.png,file
+Scientific Theory.png,file
+Scientific.png,file
+Score.png,file
+Scout-1.png,file
+Scout-2.png,file
+Scout.png,file
+Scouting.png,file
+ScreenshotGenerationGame,file
+Screenshots,dir
+ScrollableAnimatedMenuPopup.kt,file
+Sea Beggar-1.png,file
+Sea Beggar-2.png,file
+Sea Beggar.png,file
+Seaport.png,file
+Search.png,file
+SecretOptions.png,file
+Secularism.png,file
+See your stats breakdown.png,file
+Send.png,file
+Sentry.png,file
+SerializationTests.kt,file
+ServerFeatureSet.kt,file
+ServerRack.png,file
+SetUp.png,file
+Settings.png,file
+Settler-1.png,file
+Settler-2.png,file
+Settler-Ancient era-1.png,file
+Settler-Ancient era-2.png,file
+Settler-Ancient era.png,file
+Settler-Barbarians.png,file
+Settler-Industrial era-1.png,file
+Settler-Industrial era-2.png,file
+Settler-Industrial era.png,file
+Settler-Medieval era-1.png,file
+Settler-Medieval era-2.png,file
+Settler-Medieval era.png,file
+Settler-Modern era-Barbarians.png,file
+Settler-Modern era.png,file
+Settler.png,file
+ShadowedLabel.kt,file
+Sheep+Pasture-Industrial era.png,file
+Sheep+Pasture-Pillaged.png,file
+Sheep+Pasture.png,file
+Sheep.png,file
+Shield.png,file
+Shinto.png,file
+Ship of the Line-1.png,file
+Ship of the Line-2.png,file
+Ship of the Line.png,file
+Shock.png,file
+ShowMore.png,file
+Shrine.png,file
+Siam.png,file
+Siege Tower.png,file
+Siege.png,file
+Sikhism.png,file
+Silk+Plantation-Pillaged.png,file
+Silk+Plantation.png,file
+Silk.png,file
+Silver.png,file
+SimpleCivilopediaText.kt,file
+SimpleHttp.kt,file
+Simplified_Chinese.png,file
+Simplified_Chinese.properties,file
+Simulation.kt,file
+SimulationStep.kt,file
+Sipahi-1.png,file
+Sipahi-2.png,file
+Sipahi-The Ottomans.png,file
+Sipahi.png,file
+Sistine Chapel.png,file
+Skin.atlas,file
+Skin.json,file
+Skin.png,file
+SkinCache.kt,file
+SkinConfig.kt,file
+SkinStrings.kt,file
+Skins,dir
+Skip.png,file
+Skirmisher.png,file
+Sleep.png,file
+Slinger Withdraw.png,file
+Slinger-1.png,file
+Slinger-2.png,file
+Slinger.png,file
+SmallButtonStyle.kt,file
+SmallUnitButton.kt,file
+Snow+Farm.png,file
+Snow+Hill+Fallout.png,file
+Snow+Hill+Fallout2.png,file
+Snow+Hill.png,file
+Snow+Hill2.png,file
+Snow.png,file
+Snow2.png,file
+Snow3.png,file
+Socialism.png,file
+Solar Plant.png,file
+Songhai.png,file
+SortableGrid.kt,file
+Sortie.png,file
+SoundPlayer.kt,file
+SoundTab.kt,file
+Sovereignty.png,file
+Spaceship Factory.png,file
+Spain.png,file
+Spanish.png,file
+Spanish.properties,file
+Speaker.png,file
+Spearman-1.png,file
+Spearman-2.png,file
+Spearman.png,file
+Specialist.kt,file
+Specialist.png,file
+SpecialistAllocationTable.kt,file
+Specialists.json,file
+Specialists.schema.json,file
+SpecificUnitAutomation.kt,file
+Spectator.png,file
+Speed.kt,file
+Speeds.json,file
+Speeds.schema.json,file
+Spices+Plantation-Pillaged.png,file
+Spices+Plantation.png,file
+Spices.png,file
+Spy.kt,file
+Spy.png,file
+SpyPresenter.kt,file
+Spy_White.png,file
+Sri Pada.png,file
+Stable.png,file
+Stadium.png,file
+StageMouseOverDebug.kt,file
+Star.png,file
+StartGoldenAge.png,file
+StartNormalizer.kt,file
+Stat.kt,file
+StatIcons,dir
+Stats.kt,file
+Stats.schema.json,file
+StatsOverviewTab.kt,file
+Statue of Liberty.png,file
+Statue of Zeus.png,file
+StatusButtons.kt,file
+StatusTable.kt,file
+Stealth Bomber.png,file
+Stealth.png,file
+Steam,dir
+Steam Power.png,file
+Steel.png,file
+Stele.png,file
+Stock Exchange.png,file
+Stone Works.png,file
+Stone+Quarry-Industrial era.png,file
+Stone+Quarry-Pillaged.png,file
+Stone+Quarry.png,file
+Stone+QuarryT-Industrial era.png,file
+Stone+QuarryT-Pillaged.png,file
+Stone+QuarryT.png,file
+Stone.png,file
+StoneD+Quarry-Industrial era.png,file
+StoneD+Quarry-Pillaged.png,file
+StoneD+Quarry.png,file
+StoneD.png,file
+Stonehenge.png,file
+Stop.png,file
+StopEscort.png,file
+StopMove.png,file
+StrategicBonusResourcePlacementLogic.kt,file
+Strength.png,file
+StringExtensions.kt,file
+SubCategoryTable.kt,file
+SubStat.kt,file
+Submarine-1.png,file
+Submarine-2.png,file
+Submarine.png,file
+Sugar+Plantation-Pillaged.png,file
+Sugar+Plantation.png,file
+Sugar.png,file
+SummaryPresenter.kt,file
+Supply.png,file
+Suppression.kt,file
+SuppressiveActivationListener.kt,file
+Survivalism.png,file
+Swap.png,file
+Sweden.png,file
+Swedish.png,file
+Swedish.properties,file
+Swordsman-1.png,file
+Swordsman-2.png,file
+Swordsman-Barbarians.png,file
+Swordsman.png,file
+Sydney Opera House.png,file
+SystemUtils.kt,file
+TabbedPager.kt,file
+Taj Mahal.png,file
+Tank-1.png,file
+Tank-2.png,file
+Tank.png,file
+Taoism.png,file
+TargetHelper.kt,file
+TargetHelperTest.kt,file
+Targeting.png,file
+Tech.atlas,file
+Tech.png,file
+TechButton.kt,file
+TechColumn.kt,file
+TechFilterTests.kt,file
+TechIcons,dir
+TechManager.kt,file
+TechPickerScreen.kt,file
+TechPolicyDiplomacyButtons.kt,file
+TechTree.png,file
+Technology.kt,file
+TechnologyDescriptions.kt,file
+Techs.json,file
+Techs.schema.json,file
+Telecommunications.png,file
+Telegraph.png,file
+Temple of Artemis.png,file
+Temple.png,file
+TemporaryUnique.kt,file
+Tengriism.png,file
+Tercio-1.png,file
+Tercio-2.png,file
+Tercio-Spain.png,file
+Tercio.png,file
+Terrace farm.png,file
+Terracotta Army.png,file
+Terrain.kt,file
+TerrainType.kt,file
+Terrains.json,file
+Terrains.png,file
+Terrains.schema.json,file
+TestGame.kt,file
+TestParcours.kt,file
+TestRunnerFactory.kt,file
+Testing-AI-changes.md,file
+Testing-Android-Builds.md,file
+TextFieldWithFixes.kt,file
+TextSimilarity.kt,file
+TexturePacker.settings,file
+Thai.png,file
+Thai.properties,file
+The Great Library.png,file
+The Great Lighthouse.png,file
+The Huns.png,file
+The Louvre.png,file
+The Maya.png,file
+The Netherlands.png,file
+The Oracle.png,file
+The Ottomans.png,file
+The Pyramids.png,file
+The Wheel.png,file
+Theatre.png,file
+Theocracy.png,file
+Theology.png,file
+ThreatManager.kt,file
+ThreatManagerTests.kt,file
+Tile.kt,file
+TileDescription.kt,file
+TileFilterTests.kt,file
+TileGroup.kt,file
+TileGroupMap.kt,file
+TileHistory.kt,file
+TileIcons,dir
+TileImprovement.kt,file
+TileImprovementConstructionTests.kt,file
+TileImprovementFunctions.kt,file
+TileImprovements.json,file
+TileImprovements.schema.json,file
+TileInfoTable.kt,file
+TileLayer.kt,file
+TileLayerBorders.kt,file
+TileLayerCityButton.kt,file
+TileLayerFeatures.kt,file
+TileLayerMisc.kt,file
+TileLayerOverlay.kt,file
+TileLayerTerrain.kt,file
+TileLayerUnitFlag.kt,file
+TileLayerUnitSprite.kt,file
+TileMap.kt,file
+TileMapLayer.kt,file
+TileMapView.kt,file
+TileNormalizer.kt,file
+TileResource.kt,file
+TileResources.json,file
+TileResources.schema.json,file
+TileSet.kt,file
+TileSetCache.kt,file
+TileSetConfig.kt,file
+TileSetConfig.schema.json,file
+TileSetStrings.kt,file
+TileSets,dir
+TileStatFunctions.kt,file
+TileUniquesTests.kt,file
+TileView.kt,file
+Tiles,dir
+Tilesets.atlas,file
+Tilesets.png,file
+Time.png,file
+TimeExtensions.kt,file
+TimedUniquesTests.kt,file
+Timer.png,file
+Timers.kt,file
+ToastPopup.kt,file
+Tokenizer.kt,file
+Toki_Pona.png,file
+Toki_Pona.properties,file
+TopBorder.png,file
+Total War.png,file
+Trade Unions.png,file
+Trade.kt,file
+TradeAutomation.kt,file
+TradeEvaluation.kt,file
+TradeLogic.kt,file
+TradeOffer.kt,file
+TradeOfferType.kt,file
+TradeOffersList.kt,file
+TradePopup.kt,file
+TradeScreen.png,file
+TradeTable.kt,file
+TradeView.kt,file
+TradesOverviewTab.kt,file
+Trading post-Industrial era.png,file
+Trading post-Pillaged.png,file
+Trading post.png,file
+Trading postT-Industrial era.png,file
+Trading postT-Pillaged.png,file
+Trading postT.png,file
+Tradition.png,file
+Traditional_Chinese.png,file
+Traditional_Chinese.properties,file
+Transform.png,file
+TranslatedSelectBox.kt,file
+Translating,dir
+Translating.md,file
+Translation-generation.md,file
+Translation-mods.md,file
+TranslationEntry.kt,file
+TranslationFileReader.kt,file
+TranslationFileWriter.kt,file
+TranslationTests.kt,file
+"Translations,-mods,-and-modding-freedom-in-Open-Source.md",file
+Translations.kt,file
+Trapping.png,file
+Trebuchet-1.png,file
+Trebuchet-2.png,file
+Trebuchet.png,file
+Triangle.png,file
+Triplane.png,file
+Trireme-1.png,file
+Trireme-2.png,file
+Trireme-Barbarians.png,file
+Trireme.png,file
+Truffles+Camp-Industrial era.png,file
+Truffles+Camp-Pillaged.png,file
+Truffles+Camp.png,file
+Truffles+CampT-Industrial era.png,file
+Truffles+CampT-Pillaged.png,file
+Truffles+CampT.png,file
+Truffles.png,file
+Tun.png,file
+Tundra+Farm.png,file
+Tundra+Forest+Camp+Furs.png,file
+Tundra+Forest+Camp.png,file
+Tundra+Forest+Deer+Camp.png,file
+Tundra+Forest+Lumber mill.png,file
+Tundra+Forest+Truffles+Camp.png,file
+Tundra+Hill+Fallout.png,file
+Tundra+Hill+Fallout2.png,file
+Tundra+Hill.png,file
+Tundra+Hill2.png,file
+Tundra.png,file
+Tundra2.png,file
+Tundra3.png,file
+TundraForest.png,file
+Turkish.png,file
+Turkish.properties,file
+Turn right.png,file
+Turn.png,file
+TurnManager.kt,file
+Turtle Ship-1.png,file
+Turtle Ship-2.png,file
+Turtle Ship.png,file
+Tutorial.kt,file
+TutorialController.kt,file
+TutorialTranslationTests.kt,file
+TutorialTrigger.kt,file
+Tutorials,dir
+Tutorials.json,file
+Tutorials.schema.json,file
+Type-checking.md,file
+Tyrannosaurus.png,file
+UI-development.md,file
+UiElementDocsWriter.kt,file
+Ukrainian.png,file
+Ukrainian.properties,file
+Uluru.png,file
+Unciv icon v6.png,file
+Unciv.ico,file
+Unciv.sh,file
+Unciv128.png,file
+Unciv32.png,file
+UncivExceptions.kt,file
+UncivFiles.kt,file
+UncivGame.kt,file
+UncivJson.kt,file
+UncivKtor.kt,file
+UncivNetworkException.kt,file
+UncivServer.kt,file
+UncivServer.sh,file
+UncivServerFileStorage.kt,file
+UncivSlider.kt,file
+UncivSound.kt,file
+UncivStage.kt,file
+UncivTextField.kt,file
+UncivTooltip.kt,file
+UncivWindowListener.kt,file
+Undo.png,file
+UndoHandler.kt,file
+Unique-parameters.md,file
+Unique-replacement-process.md,file
+Unique.kt,file
+UniqueAutoUpdater.kt,file
+UniqueBuilderScreen.kt,file
+UniqueDocsWriter.kt,file
+UniqueErrorTests.kt,file
+UniqueFlag.kt,file
+UniqueIcons,dir
+UniqueMap.kt,file
+UniqueParameterType.kt,file
+UniqueTarget.kt,file
+UniqueTriggerActivation.kt,file
+UniqueTriggerExecutors.kt,file
+UniqueType.kt,file
+UniqueValidator.kt,file
+Uniques.md,file
+Uniques.schema.json,file
+UnitAction.kt,file
+UnitActionIcons,dir
+UnitActionIcons.atlas,file
+UnitActionModifiers.kt,file
+UnitActions.kt,file
+UnitActionsFromUniques.kt,file
+UnitActionsGreatPerson.kt,file
+UnitActionsPillage.kt,file
+UnitActionsReligion.kt,file
+UnitActionsTable.kt,file
+UnitActionsUpgrade.kt,file
+UnitAttacked.png,file
+UnitAutomation.kt,file
+UnitFilterTests.kt,file
+UnitFlag.png,file
+UnitFlagCivilian.png,file
+UnitFlagCivilianInner.png,file
+UnitFlagEmbark.png,file
+UnitFlagFortify.png,file
+UnitFlagIcons,dir
+UnitFlagSelection.png,file
+UnitFlagSelectionCivilian.png,file
+UnitFlagSelectionEmbark.png,file
+UnitFlagSelectionFortify.png,file
+UnitFormationTests.kt,file
+UnitHasAttacked.png,file
+UnitIconGroup.kt,file
+UnitIcons,dir
+UnitManager.kt,file
+UnitMoved.png,file
+UnitMovement.kt,file
+UnitMovementTests.kt,file
+UnitMoving.png,file
+UnitNameGroup.kt,file
+UnitNameGroups.json,file
+UnitNameGroups.png,file
+UnitNameGroups.schema.json,file
+UnitOverviewTab.kt,file
+UnitOverviewTabColumn.kt,file
+UnitOverviewTabHelpers.kt,file
+UnitPresenter.kt,file
+UnitPromotionIcons,dir
+UnitPromotionIcons.atlas,file
+UnitPromotionIcons.png,file
+UnitPromotions.json,file
+UnitPromotions.kt,file
+UnitPromotions.schema.json,file
+UnitRenamePopup.kt,file
+UnitSupplyTable.kt,file
+UnitTable.kt,file
+UnitTeleported.png,file
+UnitTurnManager.kt,file
+UnitType.kt,file
+UnitTypeIcons,dir
+UnitTypes.json,file
+UnitTypes.png,file
+UnitTypes.schema.json,file
+UnitUniquesTests.kt,file
+UnitUpgradeManager.kt,file
+UnitUpgradeMenu.kt,file
+UnitWithdrew.png,file
+United Front.png,file
+United Nations.png,file
+Units,dir
+Units.json,file
+Units.schema.json,file
+Universal Suffrage.png,file
+University.png,file
+Upgrade.png,file
+UpgradeTests.kt,file
+Uranium.png,file
+UseGoldAutomation.kt,file
+Utopia Project.png,file
+Versioning.kt,file
+VerticalFileListScrollPane.kt,file
+Victory.kt,file
+VictoryManager.kt,file
+VictoryScreen.kt,file
+VictoryScreenCharts.kt,file
+VictoryScreenCivGroup.kt,file
+VictoryScreenCivRankings.kt,file
+VictoryScreenDemographics.kt,file
+VictoryScreenGlobalVictory.kt,file
+VictoryScreenIcons,dir
+VictoryScreenIllustrations.kt,file
+VictoryScreenOurVictory.kt,file
+VictoryScreenReplay.kt,file
+VictoryTypeIcons,dir
+VictoryTypes.json,file
+VictoryTypes.schema.json,file
+Vietnamese.png,file
+Vietnamese.properties,file
+View.kt,file
+ViewExtensions.kt,file
+ViewFriendsListScreen.kt,file
+VirtualMouseButtonKeys.kt,file
+VisibilityTests.kt,file
+Volley.png,file
+WLTK 1.png,file
+WLTK 2.png,file
+WLTK LR.png,file
+WLTK.ogg,file
+WLTKD.png,file
+Walls of Babylon.png,file
+Walls.png,file
+War Chariot-1.png,file
+War Chariot-2.png,file
+War Chariot-Egypt-1.png,file
+War Chariot-Egypt-2.png,file
+War Chariot-Egypt.png,file
+War Chariot.png,file
+War Elephant-1.png,file
+War Elephant-2.png,file
+War Elephant.png,file
+Warrior Code.png,file
+Warrior-1.png,file
+Warrior-2.png,file
+Warrior.png,file
+Wat.png,file
+Water Mill.png,file
+Water-Ocean,dir
+Water-Ocean-Coast-Bottom.png,file
+Water-Ocean-Coast-BottomLeft.png,file
+Water-Ocean-Coast-BottomRight.png,file
+Water-Ocean-Coast-Top.png,file
+Water-Ocean-Coast-TopLeft.png,file
+Water-Ocean-Coast-TopRight.png,file
+WaterUnit.png,file
+WebSocketStructs.kt,file
+WesnothImportMappings.json,file
+Whales+Fishing Boats-Industrial era.png,file
+Whales+Fishing Boats.png,file
+Whales.png,file
+Wheat+Farm-Pillaged.png,file
+Wheat.png,file
+Windmill.png,file
+Wine+Plantation-Pillaged.png,file
+Wine+Plantation.png,file
+Wine.png,file
+Winged Hussar.png,file
+Wolfpack.png,file
+WonderOverviewTab.kt,file
+Wonders.png,file
+Woodsman.png,file
+Work Boats-1.png,file
+Work Boats-2.png,file
+Work Boats-Industrial era-1.png,file
+Work Boats-Industrial era-2.png,file
+Work Boats-Industrial era.png,file
+Work Boats-Modern era.png,file
+Work Boats.png,file
+Worked.png,file
+Worker-1.png,file
+Worker-2.png,file
+Worker-Barbarians-Modern era.png,file
+Worker-Barbarians.png,file
+Worker-Industrial era-1.png,file
+Worker-Industrial era-2.png,file
+Worker-Industrial era.png,file
+Worker-Modern era.png,file
+Worker.png,file
+WorkerAutomation.kt,file
+WorkerAutomationTest.kt,file
+Working.png,file
+Workshop.png,file
+WorldCongressVote.png,file
+WorldMapHolder.kt,file
+WorldMapTileUpdater.kt,file
+WorldScreen.kt,file
+WorldScreen.png,file
+WorldScreenHelp.xcf,file
+WorldScreenMenuPopup.kt,file
+WorldScreenMusicPopup.kt,file
+WorldScreenTopBar.kt,file
+WorldScreenTopBarResources.kt,file
+WorldScreenTopBarStats.kt,file
+WorldTileGroup.kt,file
+World_Screen.png,file
+WrappableLabel.kt,file
+Writing.png,file
+Xmas Tree.png,file
+Xmas decoration 1.png,file
+Xmas decoration 2.png,file
+Xmas decoration 3.png,file
+Xmas decoration 4.png,file
+Xmas decoration 5.png,file
+Xmas decoration 6.png,file
+Xmas decoration 7.png,file
+YearTextUtil.kt,file
+YieldGroup.kt,file
+Zero.png,file
+Zip.kt,file
+ZoomButtonPair.kt,file
+ZoomGestureListener.kt,file
+ZoomableScrollPane.kt,file
+Zoroastrianism.png,file
+Zulu.png,file
+Zulu.properties,file
+actions,dir
+af,dir
+android,dir
+androidBuild.yml,file
+apiv2,dir
+app,dir
+arrow.mp3,file
+artillery.mp3,file
+assetlinks.json,file
+assets,dir
+audio,dir
+automation,dir
+banner.png,file
+basescreen,dir
+battle,dir
+be,dir
+bg,dir
+bn,dir
+bombard.mp3,file
+bombing.mp3,file
+bottombar,dir
+bug-report.yml,file
+build.gradle.kts,file
+buildAndDeploy.yml,file
+buildAndTest.yml,file
+buildMultiplatform.yml,file
+buildSrc,dir
+ca,dir
+cannon.mp3,file
+cavalry.mp3,file
+changelog.md,file
+changelogs,dir
+chat,dir
+checkbox-pressed.9.png,file
+checkbox.9.png,file
+chimes.mp3,file
+choir.mp3,file
+city,dir
+cityAncient.ogg,file
+cityAtomic.ogg,file
+cityClassical.ogg,file
+cityFuture.ogg,file
+cityIndustrial.ogg,file
+cityInformation.ogg,file
+cityMedieval.ogg,file
+cityModern.ogg,file
+cityRenaissance.ogg,file
+citybutton,dir
+cityscreen,dir
+civilization,dir
+civilopediascreen,dir
+click.mp3,file
+client_icon_16.ico,file
+client_icon_256.ico,file
+client_icon_256.png,file
+client_icon_32.ico,file
+client_icon_64.ico,file
+coin.mp3,file
+com,dir
+community_icon.jpg,file
+completionPercentages.properties,file
+components,dir
+config.yml,file
+conflicts.yml,file
+construction.mp3,file
+core,dir
+crashhandling,dir
+crossbow.mp3,file
+cs,dir
+darwin,dir
+de,dir
+debug.keystore,file
+desktop,dir
+detekt-errors.yml,file
+detekt-warnings.yml,file
+detektAnalysis.yml,file
+detekt_config,dir
+dev,dir
+devconsole,dir
+diplomacy,dir
+diplomacyscreen,dir
+discord-rpc.dll,file
+discord_rpc,dir
+docker-compose.yml,file
+dockerPublish.yml,file
+docs,dir
+drawable-hdpi,dir
+drawable-mdpi,dir
+drawable-xhdpi,dir
+drawable-xxhdpi,dir
+drawable-xxxhdpi,dir
+effects,dir
+elephant.mp3,file
+en-US,dir
+eo,dir
+es,dir
+event,dir
+expressions,dir
+extensions,dir
+extraImages,dir
+fastlane,dir
+favicon.png,file
+feature-request.yml,file
+featureGraphic.png,file
+fi,dir
+files,dir
+filter,dir
+fire.mp3,file
+fireworks.p,file
+fonts,dir
+fortify.mp3,file
+fr,dir
+full_description.txt,file
+gdrAttack.mp3,file
+github,dir
+gl,dir
+gradle,dir
+gradle-wrapper.jar,file
+gradle-wrapper.properties,file
+gradle.properties,file
+gradlew,file
+gradlew.bat,file
+horse.mp3,file
+hr,dir
+hu,dir
+ic_launcher-web.png,file
+icon.png,file
+id,dir
+images,dir
+img.png,file
+in,dir
+incrementVersionAndChangelog.mjs,file
+index.md,file
+input,dir
+inspectionProfiles,dir
+it,dir
+ja,dir
+jetgun.mp3,file
+json,dir
+jsons,dir
+keystore.jks,file
+ko,dir
+kotlin,dir
+la,dir
+layers,dir
+libdiscord-rpc.dylib,file
+libdiscord-rpc.so,file
+library_logo_transparent.png,file
+library_logo_transparent_left.png,file
+libs.versions.toml,file
+linux-x86,dir
+linux-x86-64,dir
+linuxFilesForJar,dir
+logic,dir
+lt,dir
+machinegun.mp3,file
+main,dir
+mainmenu,dir
+mainmenuscreen,dir
+managers,dir
+map,dir
+mapeditorscreen,dir
+mapgenerator,dir
+mapregions,dir
+mapunit,dir
+mergeTranslations.mjs,file
+metadata,dir
+metalhit.mp3,file
+minimap,dir
+mipmap-anydpi-v26,dir
+mipmap-hdpi,dir
+mipmap-mdpi,dir
+mipmap-xhdpi,dir
+mipmap-xxhdpi,dir
+mipmap-xxxhdpi,dir
+missile.mp3,file
+mkdocs.yml,file
+models,dir
+modmanager,dir
+movement,dir
+mt,dir
+multiplayer,dir
+multiplayerscreens,dir
+nation,dir
+newgamescreen,dir
+nl,dir
+no,dir
+nonmetalhit.mp3,file
+notification1.mp3,file
+notification2.mp3,file
+nuke.mp3,file
+nuke_long.mp3,file
+nv,dir
+objectdescriptions,dir
+options,dir
+overviewscreen,dir
+packrConfig.json,file
+paper.mp3,file
+phoneScreenshots,dir
+pickerscreens,dir
+pl,dir
+policy.mp3,file
+popups,dir
+pp_firework.png,file
+presenter,dir
+proguard-rules.pro,file
+project.properties,file
+promote.mp3,file
+pt,dir
+pt-BR,dir
+quests,dir
+rectangleWithOutline.9.png,file
+refs,dir
+releasePatch.mjs,file
+res,dir
+resourceplacement,dir
+ro,dir
+roundedEdgeRectangle-mid-border.9.png,file
+roundedEdgeRectangle-mid.9.png,file
+roundedEdgeRectangle-small.9.png,file
+roundedEdgeRectangle.9.png,file
+roundedTopEdgeRectangle-small-border.9.png,file
+roundedTopEdgeRectangle-small.9.png,file
+ru,dir
+rue,dir
+ruleset,dir
+savescreens,dir
+schemas,dir
+screens,dir
+select-box-pressed.9.png,file
+select-box.9.png,file
+server,dir
+settings.gradle.kts,file
+setup.mp3,file
+shipCannonVolley.mp3,file
+shipguns.mp3,file
+short_description.txt,file
+shot.mp3,file
+show_whitespace.png,file
+simulation,dir
+skins,dir
+slider.mp3,file
+sounds,dir
+src,dir
+stale-issues-and-prs.yaml,file
+stats,dir
+status,dir
+storage,dir
+store_page_background.png,file
+strings.xml,file
+styles.xml,file
+sv,dir
+swap.mp3,file
+tabs,dir
+tankshot.mp3,file
+tech,dir
+template.properties,file
+testing,dir
+tests,dir
+th,dir
+throw.mp3,file
+tile,dir
+tilegroups,dir
+tilesets,dir
+tok,dir
+topbar,dir
+torpedo.mp3,file
+tr,dir
+trade,dir
+trailing_space.gif,file
+transients,dir
+translations,dir
+ui,dir
+uk,dir
+unciv,dir
+unciv.desktop,file
+unciv.wxs,file
+uncivbot.yml,file
+uncivicon-playstore.png,file
+uncivicon.png,file
+uncivicon.xml,file
+uncivicon_back.xml,file
+uncivicon_background.xml,file
+uncivicon_fore.png,file
+uncivicon_foreground.png,file
+uncivicon_round.png,file
+uncivicon_round.xml,file
+uncivnotification.png,file
+uncivserver.desktop,file
+unique,dir
+uniques,dir
+uniques.md,file
+unit,dir
+unit-tests.run.xml,file
+upgrade.mp3,file
+utils,dir
+validation,dir
+values,dir
+values-de,dir
+values-fr,dir
+values-ro,dir
+vi,dir
+victoryscreen,dir
+view,dir
+wagon.mp3,file
+whiteDot.png,file
+whoosh.mp3,file
+widgets,dir
+win32-x86,dir
+win32-x86-64,dir
+workflows,dir
+worldmap,dir
+worldscreen,dir
+wrapper,dir
+zh,dir
+zu,dir

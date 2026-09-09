@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.gitignore,file
+.lycheeignore,file
+.vs,dir
+.wsuo,file
+CONTRIBUTING.md,file
+FileContentIndex,dir
+README.md,file
+VSWorkspaceState.json,file
+developer-portfolios,dir
+link-checker.yml,file
+pull_request_template.md,file
+read.lock,file
+slnx.sqlite,file
+v17,dir
+workflows,dir

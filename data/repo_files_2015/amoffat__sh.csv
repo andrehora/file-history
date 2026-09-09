@@ -1,0 +1,13 @@
+name,type
+.coveragerc,file
+.travis.yml,file
+AUTHORS.md,file
+CHANGELOG.md,file
+LICENSE.txt,file
+MANIFEST.in,file
+README.md,file
+requirements-dev.txt,file
+setup.py,file
+sh.py,file
+test.py,file
+tox.ini,file

@@ -1,0 +1,183 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.suo,file
+.vs,dir
+0X0012-WRITEFILE.ipch,file
+0x0001-h.7baf8b17.tlog,dir
+0x0001-h.adc2a89d.tlog,dir
+0x0001-hello_world-x64,dir
+0x0001-hello_world-x64 Debug,dir
+0x0001-hello_world-x64.Build.CppClean.log,file
+0x0001-hello_world-x64.exe,file
+0x0001-hello_world-x64.exe.i64,file
+0x0001-hello_world-x64.exe.recipe,file
+0x0001-hello_world-x64.ilk,file
+0x0001-hello_world-x64.lastbuildstate,file
+0x0001-hello_world-x64.log,file
+0x0001-hello_world-x64.pdb,file
+0x0001-hello_world-x64.sln,file
+0x0001-hello_world-x64.vcxproj,file
+0x0001-hello_world-x64.vcxproj.FileListAbsolute.txt,file
+0x0001-hello_world-x64.vcxproj.filters,file
+0x0001-hello_world-x64.vcxproj.user,file
+0x0001-hello_world-x86,dir
+0x0001-hello_world-x86 Debug,dir
+0x0001-hello_world-x86.Build.CppClean.log,file
+0x0001-hello_world-x86.exe,file
+0x0001-hello_world-x86.exe.i64,file
+0x0001-hello_world-x86.exe.recipe,file
+0x0001-hello_world-x86.ilk,file
+0x0001-hello_world-x86.lastbuildstate,file
+0x0001-hello_world-x86.log,file
+0x0001-hello_world-x86.pdb,file
+0x0001-hello_world-x86.sln,file
+0x0001-hello_world-x86.vcxproj,file
+0x0001-hello_world-x86.vcxproj.FileListAbsolute.txt,file
+0x0001-hello_world-x86.vcxproj.filters,file
+0x0001-hello_world-x86.vcxproj.user,file
+0x0006-d.35dbecd7.tlog,dir
+0x0006-directories,dir
+0x0006-directories-x64 Debug,dir
+0x0006-directories-x86 Debug,dir
+0x0006-directories.exe,file
+0x0006-directories.exe.i64,file
+0x0006-directories.exe.id0,file
+0x0006-directories.exe.id1,file
+0x0006-directories.exe.id2,file
+0x0006-directories.exe.nam,file
+0x0006-directories.exe.recipe,file
+0x0006-directories.exe.til,file
+0x0006-directories.ilk,file
+0x0006-directories.lastbuildstate,file
+0x0006-directories.log,file
+0x0006-directories.pdb,file
+0x0006-directories.sln,file
+0x0006-directories.vcxproj,file
+0x0006-directories.vcxproj.FileListAbsolute.txt,file
+0x0006-directories.vcxproj.filters,file
+0x0006-directories.vcxproj.user,file
+0x0007-copyfile,dir
+0x0007-copyfile-x64 Debug,dir
+0x0007-copyfile-x86 Debug,dir
+0x000b-copyfile.exe,file
+0x000b-copyfile.exe.i64,file
+0x000b-copyfile.exe.recipe,file
+0x000b-copyfile.ilk,file
+0x000b-copyfile.lastbuildstate,file
+0x000b-copyfile.log,file
+0x000b-copyfile.pdb,file
+0x000b-copyfile.sln,file
+0x000b-copyfile.tlog,dir
+0x000b-copyfile.vcxproj,file
+0x000b-copyfile.vcxproj.FileListAbsolute.txt,file
+0x000b-copyfile.vcxproj.filters,file
+0x000b-copyfile.vcxproj.user,file
+0x0010-movefile,dir
+0x0010-movefile-x64 Debug,dir
+0x0010-movefile-x86 Debug,dir
+0x0010-movefile.exe,file
+0x0010-movefile.exe.i64,file
+0x0010-movefile.exe.recipe,file
+0x0010-movefile.ilk,file
+0x0010-movefile.lastbuildstate,file
+0x0010-movefile.log,file
+0x0010-movefile.pdb,file
+0x0010-movefile.sln,file
+0x0010-movefile.tlog,dir
+0x0010-movefile.vcxproj,file
+0x0010-movefile.vcxproj.FileListAbsolute.txt,file
+0x0010-movefile.vcxproj.filters,file
+0x0010-movefile.vcxproj.user,file
+0x0011-c.0598bc6d.tlog,dir
+0x0011-createfile,dir
+0x0011-createfile-x64 Debug,dir
+0x0011-createfile-x86 Debug,dir
+0x0011-createfile.exe,file
+0x0011-createfile.exe.i64,file
+0x0011-createfile.exe.recipe,file
+0x0011-createfile.ilk,file
+0x0011-createfile.lastbuildstate,file
+0x0011-createfile.log,file
+0x0011-createfile.pdb,file
+0x0011-createfile.sln,file
+0x0011-createfile.vcxproj,file
+0x0011-createfile.vcxproj.FileListAbsolute.txt,file
+0x0011-createfile.vcxproj.filters,file
+0x0011-createfile.vcxproj.user,file
+0x0012-writefile,dir
+0x0012-writefile-x64 Debug,dir
+0x0012-writefile-x86 Debug,dir
+0x0012-writefile.c,file
+0x0012-writefile.exe,file
+0x0012-writefile.exe.i64,file
+0x0012-writefile.exe.id2,file
+0x0012-writefile.exe.recipe,file
+0x0012-writefile.exe.til,file
+0x0012-writefile.ilk,file
+0x0012-writefile.lastbuildstate,file
+0x0012-writefile.log,file
+0x0012-writefile.obj,file
+0x0012-writefile.pdb,file
+0x0012-writefile.sln,file
+0x0012-writefile.tlog,dir
+0x0012-writefile.vcxproj,file
+0x0012-writefile.vcxproj.FileListAbsolute.txt,file
+0x0012-writefile.vcxproj.filters,file
+0x0012-writefile.vcxproj.user,file
+0x0013-readfile,dir
+0x0013-readfile-x86 Debug,dir
+0x0013-readfile.exe,file
+0x0013-readfile.exe.i64,file
+0x0013-readfile.exe.recipe,file
+0x0013-readfile.ilk,file
+0x0013-readfile.lastbuildstate,file
+0x0013-readfile.log,file
+0x0013-readfile.pdb,file
+0x0013-readfile.sln,file
+0x0013-readfile.tlog,dir
+0x0013-readfile.vcxproj,file
+0x0013-readfile.vcxproj.FileListAbsolute.txt,file
+0x0013-readfile.vcxproj.filters,file
+0x0013-readfile.vcxproj.user,file
+46657276dd629b55,dir
+5731966346d077,dir
+5c4ac13c5461eb38,dir
+7091a01673dc12dc,dir
+97509ea54a5c4f47,dir
+9840d93d396de15f,dir
+AutoPCH,dir
+Browse.VC.db,file
+CL.command.1.tlog,file
+CL.read.1.tlog,file
+CL.write.1.tlog,file
+DC540 Angels Of Death.png,file
+Debug,dir
+K Background.png,file
+LICENSE,file
+MAIN.ipch,file
+Masm.read.1u.tlog,file
+Masm.write.1u.tlog,file
+README.md,file
+REDAH.png,file
+Reverse Engineering.png,file
+dynamic RE schematic.fzz,file
+dynamic RE schematic.png,file
+ipch,dir
+link.command.1.tlog,file
+link.read.1.tlog,file
+link.write.1.tlog,file
+main.asm,file
+main.c,file
+main.obj,file
+oled and button schematic.fzz,file
+oled and button schematic.png,file
+reversing-for-everyone.pdf,file
+static RE schematic.fzz,file
+static RE schematic.png,file
+v17,dir
+vc142.idb,file
+vc142.pdb,file
+vc143.idb,file
+vc143.pdb,file
+x64,dir

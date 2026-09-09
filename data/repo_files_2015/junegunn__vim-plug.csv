@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.travis.yml,file
+README.md,file
+c.vim,file
+fixtures,dir
+ftplugin,dir
+ftplugin-msg,dir
+plug.png,file
+plug.vim,file
+run,file
+test,dir
+workflow.vader,file

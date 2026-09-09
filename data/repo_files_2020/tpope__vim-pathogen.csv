@@ -1,0 +1,7 @@
+name,type
+.github,dir
+CONTRIBUTING.markdown,file
+FUNDING.yml,file
+README.markdown,file
+autoload,dir
+pathogen.vim,file

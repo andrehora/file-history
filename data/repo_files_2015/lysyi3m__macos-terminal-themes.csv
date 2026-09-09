@@ -1,0 +1,73 @@
+name,type
+Blazer.terminal,file
+Chalkboard.terminal,file
+Dark Pastel.terminal,file
+Desert.terminal,file
+Espresso.terminal,file
+Github.terminal,file
+Hurtado.terminal,file
+IR_Black.terminal,file
+Kibble.terminal,file
+LiquidCarbon.terminal,file
+LiquidCarbonTransparent.terminal,file
+LiquidCarbonTransparentInverse.terminal,file
+Mathias.terminal,file
+Misterioso.terminal,file
+Monokai Soda.terminal,file
+Neopolitan.terminal,file
+NightLion v1.terminal,file
+NightLion v2.terminal,file
+Obsidian.terminal,file
+README.md,file
+Seafoam Pastel.terminal,file
+Solarized Darcula.terminal,file
+Solarized Dark.terminal,file
+Solarized Light.terminal,file
+Symfonic.terminal,file
+Teerb.terminal,file
+Tomorrow Night Blue.terminal,file
+Tomorrow Night Bright.terminal,file
+Tomorrow Night Eighties.terminal,file
+Tomorrow Night.terminal,file
+Tomorrow.terminal,file
+Twilight.terminal,file
+Vaughn.terminal,file
+Zenburn.terminal,file
+blazer.png,file
+chalkboard.png,file
+dark_pastel.png,file
+desert.png,file
+espresso.png,file
+github.png,file
+hurtado.png,file
+idleToes.png,file
+idleToes.terminal,file
+ir_black.png,file
+kibble.png,file
+liquid_carbon.png,file
+liquid_carbon_transparent.png,file
+liquid_carbon_transparent_inverse.png,file
+mathias.png,file
+misterioso.png,file
+monokai_soda.png,file
+neopolitan.png,file
+nightlion_v1.png,file
+nightlion_v2.png,file
+obsidian.png,file
+schemes,dir
+screenshots,dir
+seafoam_pastel.png,file
+solarized_darcula.png,file
+solarized_darcula_with_background.png,file
+solarized_dark.png,file
+solarized_light.png,file
+symfonic.png,file
+teerb.png,file
+tomorrow.png,file
+tomorrow_night.png,file
+tomorrow_night_blue.png,file
+tomorrow_night_bright.png,file
+tomorrow_night_eighties.png,file
+twilight.png,file
+vaughn.png,file
+zenburn.png,file

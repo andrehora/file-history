@@ -1,0 +1,263 @@
+name,type
+.babelrc,file
+.editorconfig,file
+.github,dir
+.gitignore,file
+1_Core,dir
+2_Option,dir
+3_Command,dir
+4_Feature,dir
+5_UIPack,dir
+6_Properties,dir
+Arguments.ts,file
+CHANGELOG.md,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CSSPlugin.js.download,file
+CSSPlugin.min.js.download,file
+Command Finish.ts,file
+Command Pause + Resume.ts,file
+Command Reverse.ts,file
+Command Scroll.ts,file
+Command Stop.ts,file
+Command Tween.ts,file
+Ease.js.download,file
+End Value Caching.ts,file
+End Value Setting.ts,file
+Feature Classname.ts,file
+Feature Colors.ts,file
+Feature Forcefeeding.ts,file
+Feature Promises.ts,file
+Feature Sequences.ts,file
+Feature Value Functions.ts,file
+GreenSock Animation Platform (GSAP) Speed Test.html,file
+GreenSock Animation Platform (GSAP) Speed Test_files,dir
+ISSUE_TEMPLATE.md,file
+LICENSE.md,file
+Normalization property value reordering.ts,file
+Option Begin.ts,file
+Option Complete.ts,file
+Option Delay.ts,file
+Option Duration.ts,file
+Option Easing.ts,file
+Option Fps Limit.ts,file
+Option Loop.ts,file
+Option Progress.ts,file
+Option Queue.ts,file
+Option Repeat.ts,file
+Option Speed.ts,file
+Option Sync.ts,file
+PULL_REQUEST_TEMPLATE.md,file
+Packaged Effect slideUp+Down.ts,file
+Property Display.ts,file
+Property Visibility.ts,file
+README.md,file
+Start Value Calculation.ts,file
+TweenLite.min.js.download,file
+UI Pack Call Options.ts,file
+UI Pack Callbacks.ts,file
+UI Pack In+Out.ts,file
+UI Pack RegisterEffect.ts,file
+UI Pack RunSequence.ts,file
+Unit Calculation.ts,file
+V2_CHANGES.md,file
+Velocity,dir
+_all.ts,file
+_module.ts,file
+actions,dir
+actions.ts,file
+anime.min.js.download,file
+attention_seekers,dir
+attributes.ts,file
+augmentDimension.ts,file
+babel.config.js,file
+back.ts,file
+bezier.ts,file
+blur.ts,file
+borderColor.ts,file
+bounce.ts,file
+bounceIn.ts,file
+bounceInDown.ts,file
+bounceInLeft.ts,file
+bounceInRight.ts,file
+bounceInUp.ts,file
+bounceOut.ts,file
+bounceOutDown.ts,file
+bounceOutLeft.ts,file
+bounceOutRight.ts,file
+bounceOutUp.ts,file
+bouncing_entrances,dir
+bouncing_exits,dir
+bower.json,file
+browserstack-logo-182x96.png,file
+camelCase.ts,file
+clip.ts,file
+colors.ts,file
+complete.ts,file
+constants.ts,file
+css,dir
+css,file
+data.ts,file
+defaults.ts,file
+dimensions.ts,file
+display.ts,file
+docs.ts,file
+dojo.js.download,file
+dot.png,file
+easeljs-0.4.2.min.js.download,file
+easing,dir
+easing.js.download,file
+easings.ts,file
+elastic.ts,file
+fadeIn.ts,file
+fadeInDown.ts,file
+fadeInDownBig.ts,file
+fadeInLeft.ts,file
+fadeInLeftBig.ts,file
+fadeInRight.ts,file
+fadeInRightBig.ts,file
+fadeInUp.ts,file
+fadeInUpBig.ts,file
+fadeOut.ts,file
+fadeOutDown.ts,file
+fadeOutDownBig.ts,file
+fadeOutLeft.ts,file
+fadeOutLeftBig.ts,file
+fadeOutRight.ts,file
+fadeOutRightBig.ts,file
+fadeOutUp.ts,file
+fadeOutUpBig.ts,file
+fading_entrances,dir
+fading_exits,dir
+fakeClass.js,file
+fakeClass.ts,file
+finish.ts,file
+fixColors.ts,file
+flash.ts,file
+flip.ts,file
+flipInX.ts,file
+flipInY.ts,file
+flipOutX.ts,file
+flipOutY.ts,file
+flippers,dir
+getPropertyValue.ts,file
+gsap,dir
+headShake.ts,file
+hinge.ts,file
+img,dir
+index.html,file
+index.ts,file
+jackInTheBox.ts,file
+jello.ts,file
+jquery-3.0.0.min.js.download,file
+jquery-3.2.1.min.js,file
+jquery.gsap.min.js.download,file
+legacy,dir
+lightSpeedIn.ts,file
+lightSpeedOut.ts,file
+lightspeed,dir
+mootools-core-1.4.5-full-compat-yc.js.download,file
+normalisations.ts,file
+normalizations,dir
+normalizations.ts,file
+normalizationsObject.ts,file
+opacity.ts,file
+option.ts,file
+options.ts,file
+package-lock.json,file
+package.json,file
+patch.ts,file
+pauseResume.ts,file
+property.ts,file
+pulse.ts,file
+queue.ts,file
+qunit-2.5.0.css,file
+qunit-2.5.0.js,file
+qunit-assert-close.js,file
+removeNestedCalc.ts,file
+reverse.ts,file
+rollIn.ts,file
+rollOut.ts,file
+rollup.config.js,file
+rotateIn.ts,file
+rotateInDownLeft.ts,file
+rotateInDownRight.ts,file
+rotateInUpLeft.ts,file
+rotateInUpRight.ts,file
+rotateOut.ts,file
+rotateOutDownLeft.ts,file
+rotateOutDownRight.ts,file
+rotateOutUpLeft.ts,file
+rotateOutUpRight.ts,file
+rotating_entrances,dir
+rotating_exits,dir
+rubberBand.ts,file
+scroll.ts,file
+sequences.ts,file
+sequencesObject.ts,file
+setPropertyValue.ts,file
+shake.ts,file
+slideInDown.ts,file
+slideInLeft.ts,file
+slideInRight.ts,file
+slideInUp.ts,file
+slideOutDown.ts,file
+slideOutLeft.ts,file
+slideOutRight.ts,file
+slideOutUp.ts,file
+sliding_entrances,dir
+sliding_exits,dir
+specials,dir
+spring_rk4.ts,file
+src,dir
+src-ui,dir
+state.ts,file
+step.ts,file
+stop.ts,file
+string.ts,file
+style.ts,file
+svg,dir
+swing.ts,file
+tada.ts,file
+test,dir
+test.js,file
+test.js.map,file
+test.ts,file
+tick.ts,file
+tsconfig.json,file
+tslint.json,file
+tween.ts,file
+tweenjs-0.2.0.min.js.download,file
+tweens.ts,file
+types.ts,file
+utilities.ts,file
+utility.ts,file
+velocity.d.ts,file
+velocity.es5.js,file
+velocity.es5.js.map,file
+velocity.js,file
+velocity.js.map,file
+velocity.min.js,file
+velocity.ts,file
+velocity.ui.js,file
+velocity.ui.js.map,file
+velocity.ui.min.js,file
+velocity.ui.ts,file
+velocityFn.ts,file
+version.ts,file
+web-animations-basic.min.js.download,file
+wobble.ts,file
+zepto-1.2.0.min.js,file
+zepto.min.js.download,file
+zoomIn.ts,file
+zoomInDown.ts,file
+zoomInLeft.ts,file
+zoomInRight.ts,file
+zoomInUp.ts,file
+zoomOut.ts,file
+zoomOutDown.ts,file
+zoomOutLeft.ts,file
+zoomOutRight.ts,file
+zoomOutUp.ts,file
+zooming_entrances,dir
+zooming_exits,dir

@@ -1,0 +1,7 @@
+name,type
+.github,dir
+.gitmodules,file
+LICENSE,file
+README.md,file
+issue_template.md,file
+pull_request_template.md,file

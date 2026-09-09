@@ -1,0 +1,8 @@
+name,type
+Readme.md,file
+shadowsocks,file
+shadowsocks-libev,file
+shadowsocks-libev-debian.sh,file
+shadowsocks-libev.sh,file
+shadowsocks-nodejs.sh,file
+shadowsocks.sh,file

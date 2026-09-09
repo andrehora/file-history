@@ -1,0 +1,94 @@
+name,type
+.gitignore,file
+A Multilevel File System for High Assurance.pdf,file
+ASR_INTELLI_2014_cameraReady.pdf,file
+A_Multi-Layered_Approach_to_Security_in_High_Assur.pdf,file
+Approximating Attack Surfaces with Stack Traces.pdf,file
+CONSTRUCTING A HIGH ASSURANCE MAIL GUARD.pdf,file
+ChromeDOP.pdf,file
+Compile-Time Kernel Tailoring.pdf,file
+Design and Verification of Secure Systems.pdf,file
+Evidence of Assurance.pdf,file
+High Assurance Architecture for Distributed Multilevel Security.pdf,file
+How Security Criteria Address Misuse.pdf,file
+METRICS IDENTIFICATION OF ATTACK SURFACES..pdf,file
+README.md,file
+Report on Statistical Disclosure Limitation Methodology.pdf,file
+Security kernel design for a storage system.pdf,file
+TCSEC Summary.pdf,file
+a_logic_of_authentication.pdf,file
+agile-threat-modeling.md,file
+an_attack_surface_metric.pdf,file
+anderson,dir
+anderson-ch1.md,file
+apparmor_original.pdf,file
+applying_take_grant.pdf,file
+assurance,dir
+attack-planning-in-the-real-world.md,file
+attack_graphs,dir
+attack_surface,dir
+banking,dir
+beyondcorp_architecture.png,file
+classic_papers,dir
+cloud,dir
+coinbase.md,file
+comparing_and_applying_security_metrics.pdf,file
+computer_security_in_the_real_world.pdf,file
+confinement_problem.md,file
+dynamic_protection_structures.pdf,file
+formal_model_for_attack_surface.pdf,file
+high_assurance_lawful_intercept.md,file
+high_level_process.png,file
+images,dir
+implementing_access_control_to_protect_patient_data.pdf,file
+inference_control,dir
+jail-design-guide-notes.md,file
+jail_design_guide.pdf,file
+measuring_attack_surface_of_imap_servers.pdf,file
+measuring_attack_surface_of_two_FTP_daemons.pdf,file
+measuring_attack_surface_sap_applications.pdf,file
+measuring_attack_surface_software_architecture.pdf,file
+measuring_relative_attack_surfaces.pdf,file
+measuring_relative_attack_surfaces__slides.pdf,file
+meters,dir
+mit-6858-lec-4-privilege-separation.md,file
+multilateral,dir
+multilevel,dir
+nibaldi.md,file
+obscurity,dir
+operating_systems,dir
+prisons,dir
+privacy_in_clinical_info_systems.pdf,file
+programming_satans_computer.pdf,file
+protocols,dir
+prudent_engineering_practice_for_cryptographic_protocols.pdf,file
+quantifying_and_reducing_kernel_attack_surface.pdf,file
+reliability_of_electronic_payment_systems.pdf,file
+risk_based_attack_surface_approximation.pdf,file
+robustness_principles_for_public_key_protocols.pdf,file
+saltzer_schroeder.md,file
+sandboxing,dir
+sandboxing_applications.pdf,file
+saydjari,dir
+saydjari-ch1.md,file
+saydjari-ch12.md,file
+saydjari-ch16.md,file
+saydjari-ch20.md,file
+saydjari-ch5.md,file
+security_and_privacy_analysis_of_automatic_meter_reading_systems.pdf,file
+security_in_clinical_info_systems.pdf,file
+security_whitepapers_march2018.pdf,file
+tcbs,dir
+technical-guidance-on-prison-planning.md,file
+techniques_for_defeating_high_strength_attackers.md,file
+ten_page_intro_to_trusted_computing.pdf,file
+thirty_years_later.md,file
+threat_modeling,dir
+three_systems_for_cryptographic_protocol_analysis.pdf,file
+time-based-security.md,file
+tsafe.pdf,file
+ucb-tcb-notes.md,file
+understanding_and_evaluating_prison_sysytems.pdf,file
+using_encryption_for_authentication_in_large_networks_of_computers.pdf,file
+walker_spy_ring.pdf,file
+what_is_it,dir

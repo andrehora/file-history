@@ -1,0 +1,118 @@
+name,type
+.travis.yml,file
+Advent 2017.ipynb,file
+Advent of Code.ipynb,file
+Advent-2018.ipynb,file
+BASIC.ipynb,file
+Beal.ipynb,file
+Bike Speed versus Grade.ipynb,file
+Cant-Stop.ipynb,file
+Cheryl-and-Eve.ipynb,file
+Cheryl.ipynb,file
+Coin Flip.ipynb,file
+Convex Hull.ipynb,file
+Countdown.ipynb,file
+Cryptarithmetic.ipynb,file
+Dice Baseball.ipynb,file
+Differentiation.ipynb,file
+Economics.ipynb,file
+Electoral Votes.ipynb,file
+ElectoralVotesCode.ipynb,file
+Euler's Conjecture.ipynb,file
+Fred Buns.ipynb,file
+Gesture Typing.ipynb,file
+Ghost.ipynb,file
+Golomb-Puzzle.ipynb,file
+How To Count Things.ipynb,file
+How to Do Things with Words.ipynb,file
+LICENSE,file
+Life.ipynb,file
+Maze.ipynb,file
+Mean Misanthrope Density.ipynb,file
+NightKing.ipynb,file
+Orderable Cards.ipynb,file
+Palindrome.ipynb,file
+Pickleball.ipynb,file
+Portmantout.ipynb,file
+Probability.ipynb,file
+ProbabilityParadox.ipynb,file
+Project Euler Utils.ipynb,file
+PropositionalLogic.ipynb,file
+README.md,file
+Riddler Battle Royale.ipynb,file
+SET.ipynb,file
+SET.py,file
+Scrabble.ipynb,file
+Sicherman Dice.ipynb,file
+Sierpinski.ipynb,file
+Snobol.ipynb,file
+Socks.ipynb,file
+Sudoku IPython Notebook.ipynb,file
+TSP.ipynb,file
+TwelveBalls.ipynb,file
+WWW.ipynb,file
+advent2016,dir
+advent2017,dir
+beal.py,file
+big.txt,file
+bikerides25.tsv,file
+bikesegments.csv,file
+count_1w.txt,file
+count_2w.txt,file
+data,dir
+dist-climb-time.csv,file
+docex.py,file
+enable1.txt,file
+evs.html,file
+ibol.py,file
+input1.txt,file
+input10.txt,file
+input11.txt,file
+input12.txt,file
+input13.txt,file
+input16.txt,file
+input18.txt,file
+input19.txt,file
+input2.txt,file
+input20.txt,file
+input21.txt,file
+input22.txt,file
+input23.txt,file
+input24.txt,file
+input3.txt,file
+input4.txt,file
+input5.txt,file
+input6.txt,file
+input7.txt,file
+input8.txt,file
+input9.txt,file
+ipynb,dir
+latlong.htm,file
+lettercount.py,file
+like.jpg,file
+lis.py,file
+lispy.py,file
+lispytest.py,file
+money.png,file
+ngrams,dir
+ngrams.py,file
+pal.py,file
+pal2.py,file
+pal3.ipynb,file
+pal3.py,file
+parse.py,file
+py,dir
+py2html.py,file
+requirements.txt,file
+spell.py,file
+sudoku-easy50.txt,file
+sudoku-hardest.txt,file
+sudoku-top95.txt,file
+sudoku.py,file
+testaccum.py,file
+text,dir
+tools.md,file
+xkcd-Name-Dominoes.ipynb,file
+xkcd1313-part2.ipynb,file
+xkcd1313.ipynb,file
+yaptu.py,file

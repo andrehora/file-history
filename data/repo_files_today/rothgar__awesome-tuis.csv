@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+README.md,file
+awesome_bot.yaml,file
+banner.png,file
+img,dir
+pull_request_template.md,file
+readme_pr_repo_first_commit.py,file
+readme_pr_repo_first_commit.yml,file
+src,dir
+workflows,dir

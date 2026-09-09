@@ -1,0 +1,218 @@
+name,type
+.cocoadocs.yml,file
+.codecov.yml,file
+.env,file
+.env.default,file
+.env.deploy,file
+.env.ios10_xcode8,file
+.env.ios11_xcode9,file
+.env.ios11_xcode91,file
+.env.ios11_xcode92,file
+.env.ios11_xcode93,file
+.env.ios11_xcode94,file
+.env.ios12_xcode10,file
+.env.ios8_xcode7,file
+.env.ios9_xcode7,file
+.env.macos,file
+.env.osx_10.11_xcode7,file
+.env.tvos12_xcode10,file
+.env.tvos9_xcode7,file
+.gitignore,file
+.travis.yml,file
+ADN.net,dir
+ADNNetServerTrustChain,dir
+AFAppDotNetAPIClient.h,file
+AFAppDotNetAPIClient.m,file
+AFAutoPurgingImageCache.h,file
+AFAutoPurgingImageCache.m,file
+AFAutoPurgingImageCacheTests.m,file
+AFCompatibilityMacros.h,file
+AFCompoundResponseSerializerTests.m,file
+AFHTTPRequestSerializationTests.m,file
+AFHTTPResponseSerializationTests.m,file
+AFHTTPSessionManager.h,file
+AFHTTPSessionManager.m,file
+AFHTTPSessionManagerTests.m,file
+AFImageDownloader.h,file
+AFImageDownloader.m,file
+AFImageDownloaderTests.m,file
+AFImageResponseSerializerTests.m,file
+AFJSONSerializationTests.m,file
+AFNetworkActivityIndicatorManager.h,file
+AFNetworkActivityIndicatorManager.m,file
+AFNetworkActivityManagerTests.m,file
+AFNetworkReachabilityManager.h,file
+AFNetworkReachabilityManager.m,file
+AFNetworkReachabilityManagerTests.m,file
+AFNetworking,dir
+AFNetworking Example.entitlements,file
+AFNetworking Example.xcodeproj,dir
+AFNetworking iOS.xcscheme,file
+AFNetworking macOS.xcscheme,file
+AFNetworking tvOS Example-Bridging-Header.h,file
+AFNetworking tvOS Example.xcodeproj,dir
+AFNetworking tvOS.xcscheme,file
+AFNetworking watchOS,dir
+AFNetworking watchOS.xcscheme,file
+AFNetworking.h,file
+AFNetworking.podspec,file
+AFNetworking.xcodeproj,dir
+AFNetworking.xcworkspace,dir
+AFPropertyListRequestSerializerTests.m,file
+AFPropertyListResponseSerializerTests.m,file
+AFSecurityPolicy.h,file
+AFSecurityPolicy.m,file
+AFSecurityPolicyTests.m,file
+AFTestCase.h,file
+AFTestCase.m,file
+AFUIActivityIndicatorViewTests.m,file
+AFUIButtonTests.m,file
+AFUIImageViewTests.m,file
+AFUIRefreshControlTests.m,file
+AFUIWebViewTests.m,file
+AFURLRequestSerialization.h,file
+AFURLRequestSerialization.m,file
+AFURLResponseSerialization.h,file
+AFURLResponseSerialization.m,file
+AFURLSessionManager.h,file
+AFURLSessionManager.m,file
+AFURLSessionManagerTests.m,file
+AFXMLDocumentResponseSerializerTests.m,file
+AFXMLParserResponseSerializerTests.m,file
+AltName.cer,file
+Amazon Root CA 1.cer,file
+Amazon.cer,file
+App Icon & Top Shelf Image.brandassets,dir
+App Icon - Large.imagestack,dir
+App Icon - Small.imagestack,dir
+AppDelegate.h,file
+AppDelegate.m,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+Assets.xcassets,dir
+Back.imagestacklayer,dir
+Base.lproj,dir
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+CONTRIBUTING_CH.md,file
+Certificates,dir
+Classes,dir
+Content.imageset,dir
+Contents.json,file
+Controllers,dir
+Equifax_Secure_Certificate_Authority_Root.cer,file
+Example,dir
+ExtensionDelegate.h,file
+ExtensionDelegate.m,file
+Fastfile,file
+Framework,dir
+Front.imagestacklayer,dir
+GeoTrust_Global_CA-cross.cer,file
+GeoTrust_Global_CA_Root.cer,file
+GlobalTimelineViewController.h,file
+GlobalTimelineViewController.m,file
+Google.com,dir
+GoogleComServerTrustChainPath1,dir
+GoogleComServerTrustChainPath2,dir
+GoogleInternetAuthorityG2.cer,file
+Gravatar.swift,file
+HTTPBin.org,dir
+HTTPBinOrgServerTrustChain,dir
+Icon-40.png,file
+Icon-40@2x.png,file
+Icon-40@3x.png,file
+Icon-60@2x.png,file
+Icon-60@3x.png,file
+Icon-76.png,file
+Icon-76@2x.png,file
+Icon-Small.png,file
+Icon-Small@2x.png,file
+Icon-Small@3x.png,file
+Info.plist,file
+Interface.storyboard,file
+InterfaceController.h,file
+InterfaceController.m,file
+LICENSE,file
+LaunchImage.launchimage,dir
+Launchscreen.storyboard,file
+Main.storyboard,file
+MainInterface.storyboard,file
+MainMenu.xib,file
+Middle.imagestacklayer,dir
+Models,dir
+Networking Extensions,dir
+NoDomains.cer,file
+Post.h,file
+Post.m,file
+PostTableViewCell.h,file
+PostTableViewCell.m,file
+Prefix.pch,file
+README.md,file
+README__ignoredByTemplate__,file
+Resources,dir
+SelfSigned,dir
+Starfield Services Root Certificate Authority - G2.cer,file
+Tests,dir
+Tests-Prefix.pch,file
+Today Extension Example,dir
+TodayViewController.h,file
+TodayViewController.m,file
+Top Shelf Image Wide.imageset,dir
+Top Shelf Image.imageset,dir
+UIActivityIndicatorView+AFNetworking.h,file
+UIActivityIndicatorView+AFNetworking.m,file
+UIButton+AFNetworking.h,file
+UIButton+AFNetworking.m,file
+UIImage+AFNetworking.h,file
+UIImageView+AFNetworking.h,file
+UIImageView+AFNetworking.m,file
+UIKit+AFNetworking,dir
+UIKit+AFNetworking.h,file
+UIProgressView+AFNetworking.h,file
+UIProgressView+AFNetworking.m,file
+UIRefreshControl+AFNetworking.h,file
+UIRefreshControl+AFNetworking.m,file
+UIWebView+AFNetworking.h,file
+UIWebView+AFNetworking.m,file
+User.h,file
+User.m,file
+ViewController.swift,file
+Views,dir
+adn.cer,file
+adn_0.cer,file
+adn_1.cer,file
+adn_2.cer,file
+contents.xcworkspacedata,file
+digicert_ca_3.cer,file
+en.lproj,dir
+fastlane,dir
+foobar.com.cer,file
+google.com.cer,file
+googlecom_0.cer,file
+googlecom_1.cer,file
+googlecom_2.cer,file
+httpbin_0.cer,file
+httpbin_1.cer,file
+httpbin_2.cer,file
+httpbin_3.cer,file
+httpbinorg_03172020.cer,file
+iOS Example,dir
+iOS Example.xcscheme,file
+iOS Today Extension Example.xcscheme,file
+logo.png,file
+macOS Example,dir
+macOS Example.xcscheme,file
+main.m,file
+module.modulemap,file
+profile-image-placeholder.imageset,dir
+profile-image-placeholder.png,file
+profile-image-placeholder@2x.png,file
+project.pbxproj,file
+root_ca.cer,file
+tvOS Example,dir
+tvOS Example.xcscheme,file
+watchOS Example,dir
+watchOS Example Extension,dir
+watchOS Example.xcscheme,file
+xcschemes,dir
+xcshareddata,dir

@@ -1,0 +1,7 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+check.yml,file
+workflows,dir

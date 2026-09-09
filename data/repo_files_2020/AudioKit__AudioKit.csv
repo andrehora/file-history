@@ -1,0 +1,2332 @@
+name,type
+.github,dir
+.gitignore,file
+.jazzy.yaml,file
+.swift-version,file
+.swiftlint.yml,file
+.travis.yml,file
+32-bit,dir
+3D Panner.xcplaygroundpage,dir
+4tracks.mid,file
+64-bit,dir
+80s Synth.mp3,file
+ADC 2018.xcplaygroundpage,dir
+ADSR.cpp,file
+ADSR.h,file
+ADSREnvelope.cpp,file
+ADSREnvelope.hpp,file
+AK3DPanner.swift,file
+AK4,dir
+AKADSRView.swift,file
+AKAUPresetBuilder.swift,file
+AKAbstractPlayer.swift,file
+AKAmplitudeEnvelope.mm,file
+AKAmplitudeEnvelope.swift,file
+AKAmplitudeEnvelopeAudioUnit.swift,file
+AKAmplitudeEnvelopeDSP.hpp,file
+AKAmplitudeEnvelopeTests.swift,file
+AKAmplitudeTap.swift,file
+AKAmplitudeTracker.swift,file
+AKAmplitudeTrackerAudioUnit.h,file
+AKAmplitudeTrackerAudioUnit.mm,file
+AKAmplitudeTrackerDSPKernel.hpp,file
+AKAppleSampler+SoundFont.swift,file
+AKAppleSampler+getAUPresetXML.swift,file
+AKAppleSampler.swift,file
+AKAppleSequencer.swift,file
+AKAppleSequencerTests.swift,file
+AKAudioFile+ConvenienceInitializers.swift,file
+AKAudioFile+Peripherals.swift,file
+AKAudioFile+Processing.swift,file
+AKAudioFile+ProcessingAsynchronously.swift,file
+AKAudioFile+Utilities.swift,file
+AKAudioFile.swift,file
+AKAudioPlayer.swift,file
+AKAudioUnit.h,file
+AKAudioUnit.mm,file
+AKAudioUnitBase.h,file
+AKAudioUnitBase.mm,file
+AKAudioUnitInstrument.swift,file
+AKAudioUnitManager+Utilities.swift,file
+AKAudioUnitManager.swift,file
+AKAutoPanner.swift,file
+AKAutoPannerAudioUnit.swift,file
+AKAutoPannerDSP.hpp,file
+AKAutoPannerDSP.mm,file
+AKAutoWah.swift,file
+AKAutoWahAudioUnit.swift,file
+AKAutoWahDSP.hpp,file
+AKAutoWahDSP.mm,file
+AKAutoWahTests.swift,file
+AKAutomatable.swift,file
+AKBalancer.swift,file
+AKBalancerAudioUnit.h,file
+AKBalancerAudioUnit.mm,file
+AKBalancerDSPKernel.hpp,file
+AKBandPassButterworthFilter.swift,file
+AKBandPassButterworthFilterAudioUnit.swift,file
+AKBandPassButterworthFilterDSP.hpp,file
+AKBandPassButterworthFilterDSP.mm,file
+AKBandPassButterworthFilterTests.swift,file
+AKBandRejectButterworthFilter.swift,file
+AKBandRejectButterworthFilterAudioUnit.swift,file
+AKBandRejectButterworthFilterDSP.hpp,file
+AKBandRejectButterworthFilterDSP.mm,file
+AKBandRejectButterworthFilterTests.swift,file
+AKBankAudioUnit.h,file
+AKBankAudioUnit.mm,file
+AKBankDSPKernel.hpp,file
+AKBitCrusher.swift,file
+AKBitCrusherAudioUnit.swift,file
+AKBitCrusherDSP.hpp,file
+AKBitCrusherDSP.mm,file
+AKBitCrusherTests.swift,file
+AKBluetoothMIDIButton.swift,file
+AKBooster,dir
+AKBooster.entitlements,file
+AKBooster.swift,file
+AKBoosterAudioUnit.swift,file
+AKBoosterDSP.hpp,file
+AKBoosterDSP.mm,file
+AKBoosterTests.swift,file
+AKBoosterViewController.swift,file
+AKBoosterViewController.xib,file
+AKBrownianNoise.swift,file
+AKBrownianNoiseAudioUnit.swift,file
+AKBrownianNoiseDSP.hpp,file
+AKBrownianNoiseDSP.mm,file
+AKBrownianNoiseTests.swift,file
+AKButton.swift,file
+AKCallbackInstrument.swift,file
+AKCallbackInstrumentAudioUnit.h,file
+AKCallbackInstrumentAudioUnit.mm,file
+AKCallbackInstrumentDSPKernel.hpp,file
+AKChorus.swift,file
+AKChorusAudioUnit.swift,file
+AKChorusDSP.cpp,file
+AKChorusDSP.h,file
+AKChorusGUI.cpp,file
+AKChorusGUI.h,file
+AKChorusGUI.rc,file
+AKChorusParams.h,file
+AKChorusVST,dir
+AKChorusVST.vcxproj,file
+AKChorusVST.vcxproj.filters,file
+AKChorus_Params.h,file
+AKChorus_Plugin.cpp,file
+AKChorus_Plugin.exp,file
+AKChorus_Plugin.h,file
+AKChorus_Plugin.plist,file
+AKChorus_Prefix.pch,file
+AKChorus_UIView.h,file
+AKChorus_UIView.m,file
+AKChorus_UIView.plist,file
+AKChorus_UIView.xib,file
+AKChorus_ViewFactory.h,file
+AKChorus_ViewFactory.m,file
+AKChowningReverb,dir
+AKChowningReverb.entitlements,file
+AKChowningReverb.swift,file
+AKChowningReverbAudioUnit.swift,file
+AKChowningReverbDSP.hpp,file
+AKChowningReverbDSP.mm,file
+AKChowningReverbTests.swift,file
+AKChowningReverbViewController.swift,file
+AKChowningReverbViewController.xib,file
+AKClarinet.swift,file
+AKClarinetAudioUnit.swift,file
+AKClarinetDSP.hpp,file
+AKClarinetDSP.mm,file
+AKClip.swift,file
+AKClipMerger.swift,file
+AKClipPlayer.swift,file
+AKClipRecorder.swift,file
+AKClipper.swift,file
+AKClipperAudioUnit.swift,file
+AKClipperDSP.hpp,file
+AKClipperDSP.mm,file
+AKClipperTests.swift,file
+AKCoarseFineSlider.swift,file
+AKColor.swift,file
+AKCombFilterReverb.mm,file
+AKCombFilterReverb.swift,file
+AKCombFilterReverbAudioUnit.swift,file
+AKCombFilterReverbDSP.hpp,file
+AKComponent.swift,file
+AKCompressor.swift,file
+AKCompressorTests.swift,file
+AKConnection.swift,file
+AKConverter.swift,file
+AKConvolution.swift,file
+AKConvolutionAudioUnit.swift,file
+AKConvolutionDSP.hpp,file
+AKConvolutionDSP.mm,file
+AKCoreSampler.cpp,file
+AKCoreSampler.hpp,file
+AKCoreSynth.cpp,file
+AKCoreSynth.hpp,file
+AKCostelloReverb.swift,file
+AKCostelloReverbAudioUnit.swift,file
+AKCostelloReverbDSP.hpp,file
+AKCostelloReverbDSP.mm,file
+AKCostelloReverbPresets.swift,file
+AKCostelloReverbTests.swift,file
+AKCustomUgen.swift,file
+AKCustomUgenFunction.h,file
+AKCustomUgenInfo.h,file
+AKDCBlock.swift,file
+AKDCBlockAudioUnit.swift,file
+AKDCBlockDSP.hpp,file
+AKDCBlockDSP.mm,file
+AKDCBlockTests.swift,file
+AKDSPBase.hpp,file
+AKDSPBase.mm,file
+AKDSPKernel.hpp,file
+AKDSPKernel.mm,file
+AKDecimator.swift,file
+AKDecimatorTests.swift,file
+AKDelay.swift,file
+AKDelayPresets.swift,file
+AKDelayTests.swift,file
+AKDevice.swift,file
+AKDiskStreamer.swift,file
+AKDiskStreamerAudioUnit.h,file
+AKDiskStreamerAudioUnit.mm,file
+AKDiskStreamerDSPKernel.hpp,file
+AKDiskStreamerTests.swift,file
+AKDistortion.swift,file
+AKDistortionPresets.swift,file
+AKDistortionTests.swift,file
+AKDrip.swift,file
+AKDripAudioUnit.swift,file
+AKDripDSP.hpp,file
+AKDripDSP.mm,file
+AKDrumSynths.swift,file
+AKDryWetMixer.swift,file
+AKDualButton.swift,file
+AKDuration.swift,file
+AKDynaRageCompressor.swift,file
+AKDynaRageCompressorAudioUnit.h,file
+AKDynaRageCompressorAudioUnit.mm,file
+AKDynaRageCompressorDSPKernel.hpp,file
+AKDynaRageCompressorDSPKernel.mm,file
+AKDynaRageCompressorTests.swift,file
+AKDynamicPlayer.swift,file
+AKDynamicRangeCompressor.swift,file
+AKDynamicRangeCompressorAudioUnit.swift,file
+AKDynamicRangeCompressorDSP.hpp,file
+AKDynamicRangeCompressorDSP.mm,file
+AKDynamicRangeCompressorTests.swift,file
+AKDynamicsProcessor.swift,file
+AKDynamicsProcessorTests.swift,file
+AKEffectVSTs.sln,file
+AKEqualizerFilter.swift,file
+AKEqualizerFilterAudioUnit.swift,file
+AKEqualizerFilterDSP.hpp,file
+AKEqualizerFilterDSP.mm,file
+AKEqualizerFilterTests.swift,file
+AKError.swift,file
+AKExpander.swift,file
+AKExpanderTests.swift,file
+AKExponentialParameterRamp.hpp,file
+AKFFTTap.swift,file
+AKFMOscillator.swift,file
+AKFMOscillatorAudioUnit.swift,file
+AKFMOscillatorBank.swift,file
+AKFMOscillatorBankAudioUnit.h,file
+AKFMOscillatorBankAudioUnit.mm,file
+AKFMOscillatorBankDSPKernel.hpp,file
+AKFMOscillatorBankTests.swift,file
+AKFMOscillatorDSP.hpp,file
+AKFMOscillatorDSP.mm,file
+AKFMOscillatorFilterSynth.swift,file
+AKFMOscillatorFilterSynthAudioUnit.h,file
+AKFMOscillatorFilterSynthAudioUnit.mm,file
+AKFMOscillatorFilterSynthDSPKernel.hpp,file
+AKFMOscillatorPresets.swift,file
+AKFMOscillatorTests.swift,file
+AKFader.swift,file
+AKFaderAudioUnit.swift,file
+AKFaderDSP.hpp,file
+AKFaderDSP.mm,file
+AKFilterSynthAudioUnit.h,file
+AKFilterSynthAudioUnit.mm,file
+AKFilterSynthDSPKernel.hpp,file
+AKFlanger.swift,file
+AKFlangerAudioUnit.swift,file
+AKFlangerDSP.cpp,file
+AKFlangerDSP.h,file
+AKFlangerGUI.cpp,file
+AKFlangerGUI.h,file
+AKFlangerGUI.rc,file
+AKFlangerParams.h,file
+AKFlangerVST,dir
+AKFlangerVST.vcxproj,file
+AKFlangerVST.vcxproj.filters,file
+AKFlanger_Params.h,file
+AKFlanger_Plugin.cpp,file
+AKFlanger_Plugin.exp,file
+AKFlanger_Plugin.h,file
+AKFlanger_Plugin.plist,file
+AKFlanger_Prefix.pch,file
+AKFlanger_UIView.h,file
+AKFlanger_UIView.m,file
+AKFlanger_UIView.plist,file
+AKFlanger_UIView.xib,file
+AKFlanger_ViewFactory.h,file
+AKFlanger_ViewFactory.m,file
+AKFlatFrequencyResponseReverb.swift,file
+AKFlatFrequencyResponseReverbAudioUnit.swift,file
+AKFlatFrequencyResponseReverbDSP.hpp,file
+AKFlatFrequencyResponseReverbDSP.mm,file
+AKFlatFrequencyResponseReverbTests.swift,file
+AKFlute.swift,file
+AKFluteAudioUnit.swift,file
+AKFluteDSP.hpp,file
+AKFluteDSP.mm,file
+AKFormantFilter.swift,file
+AKFormantFilterAudioUnit.swift,file
+AKFormantFilterDSP.hpp,file
+AKFormantFilterDSP.mm,file
+AKFormantFilterTests.swift,file
+AKFrequencyTracker.swift,file
+AKFrequencyTrackerAudioUnit.h,file
+AKFrequencyTrackerAudioUnit.mm,file
+AKFrequencyTrackerDSPKernel.hpp,file
+AKGeneratorAudioUnitBase.h,file
+AKGeneratorAudioUnitBase.mm,file
+AKHighPassButterworthFilter.swift,file
+AKHighPassButterworthFilterAudioUnit.swift,file
+AKHighPassButterworthFilterDSP.hpp,file
+AKHighPassButterworthFilterDSP.mm,file
+AKHighPassButterworthFilterTests.swift,file
+AKHighPassFilter.swift,file
+AKHighPassFilterTests.swift,file
+AKHighShelfFilter.swift,file
+AKHighShelfFilterTests.swift,file
+AKHighShelfParametricEqualizerFilter.swift,file
+AKHighShelfParametricEqualizerFilterAudioUnit.swift,file
+AKHighShelfParametricEqualizerFilterDSP.hpp,file
+AKHighShelfParametricEqualizerFilterDSP.mm,file
+AKHighShelfParametricEqualizerFilterTests.swift,file
+AKInterop.h,file
+AKKeyboardView.swift,file
+AKKorgLowPassFilter.swift,file
+AKKorgLowPassFilterAudioUnit.swift,file
+AKKorgLowPassFilterDSP.hpp,file
+AKKorgLowPassFilterDSP.mm,file
+AKKorgLowPassFilterTests.swift,file
+AKLazyTap.h,file
+AKLazyTap.m,file
+AKLinearParameterRamp.hpp,file
+AKLiveViewController.swift,file
+AKLowPassButterworthFilter.swift,file
+AKLowPassButterworthFilterAudioUnit.swift,file
+AKLowPassButterworthFilterDSP.hpp,file
+AKLowPassButterworthFilterDSP.mm,file
+AKLowPassButterworthFilterTests.swift,file
+AKLowPassFilter.swift,file
+AKLowPassFilterTests.swift,file
+AKLowShelfFilter.swift,file
+AKLowShelfFilterTests.swift,file
+AKLowShelfParametricEqualizerFilter.swift,file
+AKLowShelfParametricEqualizerFilterAudioUnit.swift,file
+AKLowShelfParametricEqualizerFilterDSP.hpp,file
+AKLowShelfParametricEqualizerFilterDSP.mm,file
+AKLowShelfParametricEqualizerFilterTests.swift,file
+AKMIDI+Receiving.swift,file
+AKMIDI+Sending.swift,file
+AKMIDI+VirtualPorts.swift,file
+AKMIDI.swift,file
+AKMIDIBeatObserver.swift,file
+AKMIDICallbackInstrument.swift,file
+AKMIDIClockListener.swift,file
+AKMIDIControl.swift,file
+AKMIDIEndpointInfo.swift,file
+AKMIDIEvent.swift,file
+AKMIDIFile.swift,file
+AKMIDIFileChunk.swift,file
+AKMIDIFileChunkEvent.swift,file
+AKMIDIFileHeaderChunk.swift,file
+AKMIDIFileTrack.swift,file
+AKMIDIFileTrackChunk.swift,file
+AKMIDIInstrument.swift,file
+AKMIDIListener.swift,file
+AKMIDIMessage.swift,file
+AKMIDIMetaEventType.swift,file
+AKMIDIMonoPolyListener.swift,file
+AKMIDINode.swift,file
+AKMIDINoteData.swift,file
+AKMIDIObserverMaster.swift,file
+AKMIDIOmniListener.swift,file
+AKMIDIPlayer.swift,file
+AKMIDIPlaygroundView.swift,file
+AKMIDISampler.swift,file
+AKMIDIStatus.swift,file
+AKMIDISystemCommand.swift,file
+AKMIDISystemRealTimeListener.swift,file
+AKMIDISystemRealTimeObserver.swift,file
+AKMIDITempoListener.swift,file
+AKMIDITempoObserver.swift,file
+AKMIDITimeout.swift,file
+AKMIDITransformer.swift,file
+AKMandolin.swift,file
+AKMandolinAudioUnit.h,file
+AKMandolinAudioUnit.mm,file
+AKMandolinDSPKernel.hpp,file
+AKMandolinDSPKernel.mm,file
+AKMandolinPresets.swift,file
+AKMetalBar.swift,file
+AKMetalBarAudioUnit.swift,file
+AKMetalBarDSP.hpp,file
+AKMetalBarDSP.mm,file
+AKMetronome.swift,file
+AKMicrophone.swift,file
+AKMicrophoneTracker.swift,file
+AKMicrophoneTrackerEngine.h,file
+AKMicrophoneTrackerEngine.m,file
+AKMixer.swift,file
+AKModalResonanceFilter.swift,file
+AKModalResonanceFilterAudioUnit.swift,file
+AKModalResonanceFilterDSP.hpp,file
+AKModalResonanceFilterDSP.mm,file
+AKModalResonanceFilterTests.swift,file
+AKModulatedDelay.cpp,file
+AKModulatedDelay.hpp,file
+AKModulatedDelayDSP.hpp,file
+AKModulatedDelayDSP.mm,file
+AKModulatedDelay_Typedefs.h,file
+AKMoogLadder.swift,file
+AKMoogLadderAudioUnit.swift,file
+AKMoogLadderDSP.hpp,file
+AKMoogLadderDSP.mm,file
+AKMoogLadderPresets.swift,file
+AKMoogLadderTests.swift,file
+AKMorphingOscillator.swift,file
+AKMorphingOscillatorAudioUnit.swift,file
+AKMorphingOscillatorBank,dir
+AKMorphingOscillatorBank.entitlements,file
+AKMorphingOscillatorBank.swift,file
+AKMorphingOscillatorBankAudioUnit.h,file
+AKMorphingOscillatorBankAudioUnit.mm,file
+AKMorphingOscillatorBankDSPKernel.hpp,file
+AKMorphingOscillatorBankTests.swift,file
+AKMorphingOscillatorDSP.hpp,file
+AKMorphingOscillatorDSP.mm,file
+AKMorphingOscillatorFilterSynth.swift,file
+AKMorphingOscillatorFilterSynthAudioUnit.h,file
+AKMorphingOscillatorFilterSynthAudioUnit.mm,file
+AKMorphingOscillatorFilterSynthDSPKernel.hpp,file
+AKMorphingOscillatorTests.swift,file
+AKMorphingOscillatorViewController.swift,file
+AKMorphingOscillatorViewController.xib,file
+AKMusicTrack+Events.swift,file
+AKMusicTrack+Load.swift,file
+AKMusicTrack.swift,file
+AKMusicTrackTests.swift,file
+AKNode.swift,file
+AKNodeFFTPlot.swift,file
+AKNodeOutputPlot.swift,file
+AKNodeRecorder.swift,file
+AKNotifications.swift,file
+AKNudger.swift,file
+AKOfflineRenderAudioUnit.h,file
+AKOfflineRenderNode.swift,file
+AKOfflineRendererAudioUnit.mm,file
+AKOperation.swift,file
+AKOperationEffect.swift,file
+AKOperationEffectAudioUnit.h,file
+AKOperationEffectAudioUnit.mm,file
+AKOperationEffectDSPKernel.hpp,file
+AKOperationGenerator.swift,file
+AKOperationGeneratorAudioUnit.h,file
+AKOperationGeneratorAudioUnit.mm,file
+AKOperationGeneratorDSPKernel.hpp,file
+AKOscillator.swift,file
+AKOscillatorAudioUnit.swift,file
+AKOscillatorBank.storyboard,file
+AKOscillatorBank.swift,file
+AKOscillatorBankAudioUnit.h,file
+AKOscillatorBankAudioUnit.mm,file
+AKOscillatorBankDSPKernel.hpp,file
+AKOscillatorBankExtension,dir
+AKOscillatorBankExtension.entitlements,file
+AKOscillatorBankTests.swift,file
+AKOscillatorBankViewController.swift,file
+AKOscillatorBankViewController.xib,file
+AKOscillatorDSP.hpp,file
+AKOscillatorDSP.mm,file
+AKOscillatorExtension,dir
+AKOscillatorFilterSynth.swift,file
+AKOscillatorFilterSynthAudioUnit.h,file
+AKOscillatorFilterSynthAudioUnit.mm,file
+AKOscillatorFilterSynthDSPKernel.hpp,file
+AKOscillatorTests.swift,file
+AKOutputWaveformPlot.swift,file
+AKPWMOscillator.swift,file
+AKPWMOscillatorAudioUnit.swift,file
+AKPWMOscillatorBank.swift,file
+AKPWMOscillatorBankAudioUnit.h,file
+AKPWMOscillatorBankAudioUnit.mm,file
+AKPWMOscillatorBankDSPKernel.hpp,file
+AKPWMOscillatorBankTests.swift,file
+AKPWMOscillatorDSP.hpp,file
+AKPWMOscillatorDSP.mm,file
+AKPWMOscillatorFilterSynth.swift,file
+AKPWMOscillatorFilterSynthAudioUnit.h,file
+AKPWMOscillatorFilterSynthAudioUnit.mm,file
+AKPWMOscillatorFilterSynthDSPKernel.hpp,file
+AKPWMOscillatorTests.swift,file
+AKPWMOscillatorViewController.swift,file
+AKPanner.swift,file
+AKPannerAudioUnit.swift,file
+AKPannerDSP.hpp,file
+AKPannerDSP.mm,file
+AKPannerTests.swift,file
+AKParameter.swift,file
+AKParameterAutomation.h,file
+AKParameterAutomation.m,file
+AKParameterRamp.hpp,file
+AKParameterRampBase.hpp,file
+AKPeakLimiter.swift,file
+AKPeakLimiterTests.swift,file
+AKPeakingParametricEqualizerFilter.swift,file
+AKPeakingParametricEqualizerFilterAudioUnit.swift,file
+AKPeakingParametricEqualizerFilterDSP.hpp,file
+AKPeakingParametricEqualizerFilterDSP.mm,file
+AKPeakingParametricEqualizerFilterTests.swift,file
+AKPeriodicFunction.swift,file
+AKPhaseDistortionOscillator.swift,file
+AKPhaseDistortionOscillatorAudioUnit.swift,file
+AKPhaseDistortionOscillatorBank.swift,file
+AKPhaseDistortionOscillatorBankAudioUnit.h,file
+AKPhaseDistortionOscillatorBankAudioUnit.mm,file
+AKPhaseDistortionOscillatorBankDSPKernel.hpp,file
+AKPhaseDistortionOscillatorBankExtension,dir
+AKPhaseDistortionOscillatorBankExtension.entitlements,file
+AKPhaseDistortionOscillatorBankTests.swift,file
+AKPhaseDistortionOscillatorDSP.hpp,file
+AKPhaseDistortionOscillatorDSP.mm,file
+AKPhaseDistortionOscillatorFilterSynth.swift,file
+AKPhaseDistortionOscillatorFilterSynthAudioUnit.h,file
+AKPhaseDistortionOscillatorFilterSynthAudioUnit.mm,file
+AKPhaseDistortionOscillatorFilterSynthDSPKernel.hpp,file
+AKPhaseDistortionOscillatorTests.swift,file
+AKPhaseDistortionOscillatorViewController.swift,file
+AKPhaseDistortionOscillatorViewController.xib,file
+AKPhaseLockedVocoder.swift,file
+AKPhaseLockedVocoderAudioUnit.swift,file
+AKPhaseLockedVocoderDSP.hpp,file
+AKPhaseLockedVocoderDSP.mm,file
+AKPhaser.swift,file
+AKPhaserAudioUnit.swift,file
+AKPhaserDSP.hpp,file
+AKPhaserDSP.mm,file
+AKPhoneView.swift,file
+AKPinkNoise.swift,file
+AKPinkNoiseAudioUnit.swift,file
+AKPinkNoiseDSP.hpp,file
+AKPinkNoiseDSP.mm,file
+AKPinkNoiseTest.swift,file
+AKPitchShifter.swift,file
+AKPitchShifterAudioUnit.swift,file
+AKPitchShifterDSP.hpp,file
+AKPitchShifterDSP.mm,file
+AKPitchShifterTests.swift,file
+AKPlayer+Buffering.swift,file
+AKPlayer+Playback.swift,file
+AKPlayer.swift,file
+AKPlaygroundLoop.swift,file
+AKPlaygroundResources.swift,file
+AKPlaygroundUgens.swift,file
+AKPlaygroundView.swift,file
+AKPlaygroundViewController.swift,file
+AKPluckedString.swift,file
+AKPluckedStringAudioUnit.swift,file
+AKPluckedStringDSP.hpp,file
+AKPluckedStringDSP.mm,file
+AKPresetLoaderView.swift,file
+AKPresetManager.h,file
+AKPresetManager.m,file
+AKPropertyControl.swift,file
+AKRenderTap.h,file
+AKRenderTap.m,file
+AKResonantFilter.swift,file
+AKResonantFilterAudioUnit.swift,file
+AKResonantFilterDSP.hpp,file
+AKResonantFilterDSP.mm,file
+AKResonantFilterTests.swift,file
+AKResourceAudioFileLoaderView.swift,file
+AKReverb.swift,file
+AKReverb2.swift,file
+AKReverbTests.swift,file
+AKRhinoGuitarProcessor.swift,file
+AKRhinoGuitarProcessorAudioUnit.h,file
+AKRhinoGuitarProcessorAudioUnit.mm,file
+AKRhinoGuitarProcessorDSPKernel.hpp,file
+AKRhinoGuitarProcessorDSPKernel.mm,file
+AKRhinoGuitarProcessorTests.swift,file
+AKRhodesPiano.swift,file
+AKRhodesPianoAudioUnit.swift,file
+AKRhodesPianoDSP.hpp,file
+AKRhodesPianoDSP.mm,file
+AKRingModulator.swift,file
+AKRingModulatorTests.swift,file
+AKRolandTB303Filter.swift,file
+AKRolandTB303FilterAudioUnit.swift,file
+AKRolandTB303FilterDSP.hpp,file
+AKRolandTB303FilterDSP.mm,file
+AKRolandTB303FilterTests.swift,file
+AKRollingOutputPlot.swift,file
+AKRotaryKnob.swift,file
+AKSampler,dir
+AKSampler AUv2 Plugin.xcodeproj,dir
+AKSampler+SFZ.swift,file
+AKSampler.md,file
+AKSampler.swift,file
+AKSampler.xcscheme,file
+AKSamplerAudioUnit.swift,file
+AKSamplerDSP.cpp,file
+AKSamplerDSP.h,file
+AKSamplerDSP.hpp,file
+AKSamplerDSP.mm,file
+AKSamplerDemo,dir
+AKSamplerGUI.cpp,file
+AKSamplerGUI.h,file
+AKSamplerGUI.rc,file
+AKSamplerMetronome.h,file
+AKSamplerMetronome.m,file
+AKSamplerParams.h,file
+AKSamplerVST,dir
+AKSamplerVST.sln,file
+AKSamplerVST.vcxproj,file
+AKSamplerVST.vcxproj.filters,file
+AKSampler_Params.h,file
+AKSampler_Plugin.cpp,file
+AKSampler_Plugin.exp,file
+AKSampler_Plugin.h,file
+AKSampler_Plugin.plist,file
+AKSampler_Prefix.pch,file
+AKSampler_Typedefs.h,file
+AKSampler_UIView.h,file
+AKSampler_UIView.m,file
+AKSampler_UIView.plist,file
+AKSampler_UIView.xib,file
+AKSampler_ViewFactory.h,file
+AKSampler_ViewFactory.m,file
+AKScheduledAction.swift,file
+AKSequencer.swift,file
+AKSequencerDSPKernel.hpp,file
+AKSequencerEngine.h,file
+AKSequencerEngine.mm,file
+AKSequencerTrack.swift,file
+AKSettings.swift,file
+AKShaker.swift,file
+AKShakerAudioUnit.swift,file
+AKShakerDSP.hpp,file
+AKShakerDSP.mm,file
+AKSlider.swift,file
+AKSoundpipeDSPBase.hpp,file
+AKSoundpipeKernel.hpp,file
+AKSpeechSynthesizer.swift,file
+AKSporthStack+Internal.h,file
+AKSporthStack.h,file
+AKSporthStack.mm,file
+AKStepper.swift,file
+AKStereoDelay,dir
+AKStereoDelay.jucer,file
+AKStereoDelay.swift,file
+AKStereoDelayAudioUnit.swift,file
+AKStereoDelayDSP.hpp,file
+AKStereoDelayDSP.mm,file
+AKStereoFieldLimiter.swift,file
+AKStereoFieldLimiterAudioUnit.swift,file
+AKStereoFieldLimiterDSP.hpp,file
+AKStereoFieldLimiterDSP.mm,file
+AKStereoFieldLimiterTests.swift,file
+AKStereoInput.swift,file
+AKStereoOperation.swift,file
+AKStringResonator.swift,file
+AKStringResonatorAudioUnit.swift,file
+AKStringResonatorDSP.hpp,file
+AKStringResonatorDSP.mm,file
+AKStringResonatorTests.swift,file
+AKSynth.swift,file
+AKSynthAudioUnit.swift,file
+AKSynthDSP.hpp,file
+AKSynthDSP.mm,file
+AKTable+AKAudioFile.swift,file
+AKTable+AdditiveSynthesis.swift,file
+AKTable.swift,file
+AKTableTests.swift,file
+AKTableView.swift,file
+AKTanhDistortion,dir
+AKTanhDistortion.entitlements,file
+AKTanhDistortion.swift,file
+AKTanhDistortionAudioUnit.swift,file
+AKTanhDistortionDSP.hpp,file
+AKTanhDistortionDSP.mm,file
+AKTanhDistortionTests.swift,file
+AKTelephoneView.swift,file
+AKTestCase.swift,file
+AKTestTriggers.h,file
+AKTestTriggers.m,file
+AKTester.swift,file
+AKTesterAudioUnit.h,file
+AKTesterAudioUnit.mm,file
+AKTesterDSPKernel.hpp,file
+AKThreePoleLowpassFilter.swift,file
+AKThreePoleLowpassFilterAudioUnit.swift,file
+AKThreePoleLowpassFilterDSP.hpp,file
+AKThreePoleLowpassFilterDSP.mm,file
+AKThreePoleLowpassFilterTests.swift,file
+AKTimePitch.swift,file
+AKTimeSignature.swift,file
+AKTimeline.c,file
+AKTimeline.h,file
+AKTimelineTap.h,file
+AKTimelineTap.m,file
+AKTiming.swift,file
+AKToneComplementFilter.swift,file
+AKToneComplementFilterAudioUnit.swift,file
+AKToneComplementFilterDSP.hpp,file
+AKToneComplementFilterDSP.mm,file
+AKToneComplementFilterTests.swift,file
+AKToneFilter.swift,file
+AKToneFilterAudioUnit.swift,file
+AKToneFilterDSP.hpp,file
+AKToneFilterDSP.mm,file
+AKToneFilterTests.swift,file
+AKTremolo.mm,file
+AKTremolo.swift,file
+AKTremoloAudioUnit.swift,file
+AKTremoloDSP.hpp,file
+AKTremoloTests.swift,file
+AKTubularBells.swift,file
+AKTubularBellsAudioUnit.swift,file
+AKTubularBellsDSP.hpp,file
+AKTubularBellsDSP.mm,file
+AKTuningTable+Brun.swift,file
+AKTuningTable+CombinationProductSet.swift,file
+AKTuningTable+EqualTemperament.swift,file
+AKTuningTable+NorthIndianRaga.swift,file
+AKTuningTable+RecurrenceRelation.swift,file
+AKTuningTable+Scala.swift,file
+AKTuningTable+Wilson.swift,file
+AKTuningTable.swift,file
+AKTuningTableBase.swift,file
+AKTweaker.swift,file
+AKVariSpeed.swift,file
+AKVariableDelay.swift,file
+AKVariableDelayAudioUnit.swift,file
+AKVariableDelayDSP.hpp,file
+AKVariableDelayDSP.mm,file
+AKVariableDelayTests.swift,file
+AKView.swift,file
+AKVocalTract.mm,file
+AKVocalTract.swift,file
+AKVocalTractAudioUnit.swift,file
+AKVocalTractDSP.hpp,file
+AKVocalTractTests.swift,file
+AKWaveTable.swift,file
+AKWaveTableAudioUnit.h,file
+AKWaveTableAudioUnit.mm,file
+AKWaveTableDSPKernel.hpp,file
+AKWaveTableTests.swift,file
+AKWaveform.swift,file
+AKWhiteNoise.swift,file
+AKWhiteNoiseAudioUnit.swift,file
+AKWhiteNoiseDSP.hpp,file
+AKWhiteNoiseDSP.mm,file
+AKWhiteNoiseTests.swift,file
+AKZitaReverb.swift,file
+AKZitaReverbAudioUnit.swift,file
+AKZitaReverbDSP.hpp,file
+AKZitaReverbDSP.mm,file
+AKZitaReverbTests.swift,file
+AU Common,dir
+AUBase,dir
+AUBase.cpp,file
+AUBase.h,file
+AUBaseHelper.cpp,file
+AUBaseHelper.h,file
+AUBuffer.cpp,file
+AUBuffer.h,file
+AUDispatch.cpp,file
+AUDispatch.h,file
+AUEffectBase.cpp,file
+AUEffectBase.h,file
+AUInputElement.cpp,file
+AUInputElement.h,file
+AUInstrumentBase,dir
+AUInstrumentBase.cpp,file
+AUInstrumentBase.h,file
+AUMIDIBase.cpp,file
+AUMIDIBase.h,file
+AUMIDIDefs.h,file
+AUMIDIEffectBase.cpp,file
+AUMIDIEffectBase.h,file
+AUOutputElement.cpp,file
+AUOutputElement.h,file
+AUPlugInDispatch.cpp,file
+AUPlugInDispatch.h,file
+AUPublic,dir
+AUScopeElement.cpp,file
+AUScopeElement.h,file
+AUSilentTimeout.h,file
+AUv2 Chorus Plugin.xcodeproj,dir
+AUv2 Flanger Plugin.xcodeproj,dir
+AVAudioBufferConvenience.swift,file
+AVAudioEngine+Extensions.swift,file
+AVAudioTimeShim.swift,file
+Acid Bass.mp3,file
+Acid Drums.mp3,file
+Acid Full Dry.mp3,file
+Acid Full.mp3,file
+Acid Synth Dry.mp3,file
+AdjustableDelayLine.cpp,file
+AdjustableDelayLine.hpp,file
+African.mp3,file
+Amplitude Envelope,dir
+Amplitude Envelope.xcplaygroundpage,dir
+Amplitude Tap,dir
+Amplitude Tracker,dir
+AnalogSynthX,dir
+Analysis,dir
+Analysis.playground,dir
+App Icon & Top Shelf Image.brandassets,dir
+App Icon - Large.imagestack,dir
+App Icon - Small.imagestack,dir
+AppDelegate.h,file
+AppDelegate.m,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+Apple Code,dir
+Apple Reverb,dir
+Apple Sampler,dir
+Apple Sequencer,dir
+AppleSamplerDemo,dir
+Application.swift,file
+Array.h,file
+Array.hpp,file
+Assets.xcassets,dir
+Asymp.cpp,file
+Asymp.h,file
+Audio,dir
+Audio File,dir
+Audio Player.xcplaygroundpage,dir
+AudioEngineUnit.h,file
+AudioEngineUnit.m,file
+AudioKit,dir
+AudioKit For iOS.xcodeproj,dir
+AudioKit For macOS.xcodeproj,dir
+AudioKit For tvOS.xcodeproj,dir
+AudioKit Operation-Based Effect,dir
+AudioKit Operation-Based Generator,dir
+AudioKit for macOS,dir
+AudioKit+SafeConnections.swift,file
+AudioKit+StartStop.swift,file
+AudioKit+Status.swift,file
+AudioKit+Testing.swift,file
+AudioKit-iOS.xcscheme,file
+AudioKit-macOS.xcscheme,file
+AudioKit-tvOS.xcscheme,file
+AudioKit.h,file
+AudioKit.podspec.json.tmpl,file
+AudioKit.swift,file
+AudioKitAudioUnits,dir
+AudioKitAudioUnits.xcodeproj,dir
+AudioKitCore,dir
+AudioKitExtensions,dir
+AudioKitExtensions.xcodeproj,dir
+AudioKitHelpers+Approximation.swift,file
+AudioKitHelpers.swift,file
+AudioKitMan.imageset,dir
+AudioKitMan.png,file
+AudioKitPlaygrounds,dir
+AudioKitPlaygrounds.h,file
+AudioKitPlaygrounds.xcodeproj,dir
+AudioKitUI,dir
+AudioKitUI.h,file
+AudioKitUI.xcscheme,file
+AudioUnit Host,dir
+AudioUnit+Helpers.swift,file
+AudioUnitCreation.md,file
+AudioUnitGenericView.swift,file
+AudioUnitGenericWindow.swift,file
+AudioUnitGenericWindow.xib,file
+AudioUnitIcon-1024.png,file
+AudioUnitIcon-128.png,file
+AudioUnitIcon-16.png,file
+AudioUnitIcon-256.png,file
+AudioUnitIcon-32.png,file
+AudioUnitIcon-512.png,file
+AudioUnitIcon-64.png,file
+AudioUnitManager,dir
+AudioUnitManager+Effects.swift,file
+AudioUnitManager+MIDI.swift,file
+AudioUnitManager+Player.swift,file
+AudioUnitManager.swift,file
+AudioUnitManager.xcodeproj,dir
+AudioUnitManager.xcscheme,file
+AudioUnitParamSlider.swift,file
+AudioUnitToolbarController.swift,file
+AudioUnitToolbarController.xib,file
+AudioUnitViewController.swift,file
+AudioUnitViewController.xib,file
+AudioUnits,dir
+Audiobus,dir
+Audiobus+MIDI.swift,file
+Audiobus.swift,file
+Audiobus.txt,file
+AudiobusCompatibleSequencer.swift,file
+AudiobusMIDISender,dir
+AudiobusMIDISender-BridgingHeader.h,file
+AudiobusMIDISender.entitlements,file
+AudiobusMIDISender.xcodeproj,dir
+AudiobusMIDISender.xcworkspace,dir
+Aurora.sp,file
+Auto Panner,dir
+Auto Wah,dir
+Auto Wah Wah.xcplaygroundpage,dir
+AutoPan Operation.xcplaygroundpage,dir
+AutoWah Operation.xcplaygroundpage,dir
+Automation,dir
+BPM+StatisticalTools.swift,file
+Back.imagestacklayer,dir
+Balancer,dir
+Balancing Nodes.xcplaygroundpage,dir
+Band Pass Butterworth Filter,dir
+Band Pass Butterworth Filter.xcplaygroundpage,dir
+Band Reject Butterworth Filter,dir
+Band Reject Butterworth Filter.xcplaygroundpage,dir
+BandedWG.cpp,file
+BandedWG.h,file
+Bank,dir
+Base.lproj,dir
+Basics.playground,dir
+BeeThree.cpp,file
+BeeThree.h,file
+Bell.wav,file
+BiQuad.cpp,file
+BiQuad.h,file
+Bit Crush Effect.xcplaygroundpage,dir
+Bit Crush Operation.xcplaygroundpage,dir
+Bit Crusher,dir
+Blit.cpp,file
+Blit.h,file
+BlitSaw.cpp,file
+BlitSaw.h,file
+BlitSquare.cpp,file
+BlitSquare.h,file
+BlowBotl.cpp,file
+BlowBotl.h,file
+BlowHole.cpp,file
+BlowHole.h,file
+Booster,dir
+BowTable.h,file
+Bowed.cpp,file
+Bowed.h,file
+Brass.cpp,file
+Brass.h,file
+Brownian Noise,dir
+Buffer.swift,file
+BufferedAudioBus.hpp,file
+BufferedAudioUnit.h,file
+BufferedAudioUnit.m,file
+CAAUMIDIMap.cpp,file
+CAAUMIDIMap.h,file
+CAAUMIDIMapManager.cpp,file
+CAAUMIDIMapManager.h,file
+CAAtomic.h,file
+CAAtomicStack.h,file
+CAAudioChannelLayout.cpp,file
+CAAudioChannelLayout.h,file
+CAAudioChannelLayoutObject.cpp,file
+CAAutoDisposer.h,file
+CABufferList.cpp,file
+CABufferList.h,file
+CAByteOrder.h,file
+CADebugMacros.cpp,file
+CADebugMacros.h,file
+CADebugPrintf.cpp,file
+CADebugPrintf.h,file
+CADebugger.cpp,file
+CADebugger.h,file
+CAException.h,file
+CAGuard.cpp,file
+CAGuard.h,file
+CAHostTimeBase.cpp,file
+CAHostTimeBase.h,file
+CALogMacros.h,file
+CAMath.h,file
+CAMutex.cpp,file
+CAMutex.h,file
+CAReferenceCounted.h,file
+CAStreamBasicDescription.cpp,file
+CAStreamBasicDescription.h,file
+CAThreadSafeList.h,file
+CAVectorUnit.cpp,file
+CAVectorUnit.h,file
+CAVectorUnitTypes.h,file
+CAXException.cpp,file
+CAXException.h,file
+CDelay.cpp,file
+CDelay.h,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+COPYING,file
+CUI.h,file
+Callback Instrument,dir
+Callback Instrument.xcplaygroundpage,dir
+Chatting.sp,file
+CheckError.swift,file
+Chorus,dir
+Chorus and Flanger,dir
+Chorus.cpp,file
+Chorus.h,file
+Chorus.xcplaygroundpage,dir
+Chowning Reverb,dir
+Circular Buffer,dir
+Clarinet,dir
+Clarinet.cpp,file
+Clarinet.h,file
+Clarinet.xcplaygroundpage,dir
+ClipPlayer,dir
+Clipper,dir
+Clipper.xcplaygroundpage,dir
+ClosureMenuItem.swift,file
+Comb Filter Reverb,dir
+Comb Filter Reverb.xcplaygroundpage,dir
+CombFilter.cpp,file
+CombFilter.h,file
+Common,dir
+CompareViewController.swift,file
+Complex Distortion,dir
+ComponentBase.cpp,file
+ComponentBase.h,file
+Compressor,dir
+Compressor.cpp,file
+Compressor.h,file
+Compressor.xcplaygroundpage,dir
+Conductor.swift,file
+Connecting Nodes Part 2.xcplaygroundpage,dir
+Connecting Nodes.xcplaygroundpage,dir
+Constants.swift,file
+Content.imageset,dir
+ContentView.swift,file
+Contents.json,file
+Contents.swift,file
+Convolution,dir
+Convolution.xcplaygroundpage,dir
+Core,dir
+CoreAudio,dir
+CoreMIDI Design.svg,file
+Costello Reverb,dir
+Costello Reverb Operation.xcplaygroundpage,dir
+Costello Reverb.xcplaygroundpage,dir
+Crystalline.sp,file
+Cubic.h,file
+CustomTableViewCells,dir
+DC Block,dir
+DLLExports.def,file
+DPDConstants.swift,file
+DPDKeyboardListener.swift,file
+DPDUIView+Extension.swift,file
+DSPKernel.hpp,file
+DSPKernel.mm,file
+D_Loop_01.mid,file
+D_Loop_02.mid,file
+D_Loop_03.mid,file
+D_Loop_04.mid,file
+D_Loop_05.mid,file
+D_mixolydian_01.mid,file
+D_mixolydian_02.mid,file
+D_mixolydian_03.mid,file
+D_mixolydian_04.mid,file
+D_mixolydian_05.mid,file
+D_mixolydian_tripletFeel_01.mid,file
+D_mixolydian_tripletFeel_02.mid,file
+D_mixolydian_tripletFeel_03.mid,file
+Decimator,dir
+Decimator.xcplaygroundpage,dir
+Default-568h@2x.png,file
+Delay,dir
+Delay.cpp,file
+Delay.h,file
+Delay.xcplaygroundpage,dir
+DelayA.cpp,file
+DelayA.h,file
+DelayAPF.cpp,file
+DelayAPF.h,file
+DelayL.cpp,file
+DelayL.h,file
+Dev.playground,dir
+Developer,dir
+Development.xcplaygroundpage,dir
+Devices.swift,file
+Devoloop,dir
+Disk Streamer,dir
+Distant Intelligence.sp,file
+Distortion,dir
+Distortion.xcplaygroundpage,dir
+Drawbar Organ.xcplaygroundpage,dir
+DrawbarsOscillator.cpp,file
+DrawbarsOscillator.hpp,file
+Drip,dir
+Dripping Sounds.xcplaygroundpage,dir
+DropDown,dir
+DropDown+Appearance.swift,file
+DropDown.h,file
+DropDown.swift,file
+DropDown.xcodeproj,dir
+DropDown.xcscheme,file
+DropDownCell.swift,file
+DropDownCell.xib,file
+Drum Sequencer.xcplaygroundpage,dir
+Drum Synthesizers.xcplaygroundpage,dir
+Drum Synths,dir
+Drummer.cpp,file
+Drummer.h,file
+Drums,dir
+Drums Dry.mp3,file
+Drums.mp3,file
+Drums.xcodeproj,dir
+Drums.xcplaygroundpage,dir
+DrumsSwiftUI,dir
+DrumsSwiftUI.xcodeproj,dir
+Dry Wet Mixer,dir
+Dry Wet Mixer.xcplaygroundpage,dir
+Dummy.swift,file
+DynArray.h,file
+DynArray.hpp,file
+DynaRage Tube Compressor,dir
+DynaRage Tube Compressor.xcplaygroundpage,dir
+Dynamic Range Compressor,dir
+Dynamics,dir
+Dynamics Processor,dir
+Dynamics Processor.xcplaygroundpage,dir
+EZAudio,dir
+EZAudio.h,file
+EZAudio.m,file
+EZAudioDevice.h,file
+EZAudioDevice.m,file
+EZAudioDevice.swift,file
+EZAudioDisplayLink.h,file
+EZAudioDisplayLink.m,file
+EZAudioFFT.h,file
+EZAudioFFT.m,file
+EZAudioFile.h,file
+EZAudioFile.m,file
+EZAudioFileMarker.h,file
+EZAudioFileMarker.m,file
+EZAudioFloatConverter.h,file
+EZAudioFloatConverter.m,file
+EZAudioFloatData.h,file
+EZAudioFloatData.m,file
+EZAudioPlayer.h,file
+EZAudioPlayer.m,file
+EZAudioPlot.h,file
+EZAudioPlot.m,file
+EZAudioUtilities.h,file
+EZAudioUtilities.m,file
+EZMicrophone.h,file
+EZMicrophone.m,file
+EZOutput.h,file
+EZOutput.m,file
+EZPlot.h,file
+EZPlot.m,file
+EZRecorder.h,file
+EZRecorder.m,file
+Echo.cpp,file
+Echo.h,file
+Editing Audio Files.xcplaygroundpage,dir
+Effect.h,file
+Effects,dir
+Effects.playground,dir
+Engine.swift,file
+EnsembleOscillator.cpp,file
+EnsembleOscillator.hpp,file
+Enums,dir
+Envelope.cpp,file
+Envelope.h,file
+Envelope.hpp,file
+EnvelopeGeneratorBase.cpp,file
+EnvelopeGeneratorBase.hpp,file
+Envelopes,dir
+Environment,dir
+Equalisator.cpp,file
+Equalisator.h,file
+Equalizer Filter,dir
+ExampleSearchPaths.png,file
+Examples,dir
+Exception Catcher,dir
+ExceptionCatcher.h,file
+ExceptionCatcher.m,file
+ExceptionCatcher.swift,file
+Expander,dir
+Expander.xcplaygroundpage,dir
+Exporting files.xcplaygroundpage,dir
+ExtendingAudioKit,dir
+ExtendingAudioKit-Bridging-Header.h,file
+ExtendingAudioKit.entitlements,file
+ExtendingAudioKitUsingFramework.xcodeproj,dir
+ExtendingAudioKitUsingSource.xcodeproj,dir
+Extensions,dir
+Extensions.swift,file
+FAQ.md,file
+FFT Analysis.xcplaygroundpage,dir
+FFT Tap,dir
+FFTReal,dir
+FFTReal.h,file
+FFTReal.hpp,file
+FFTRealFixLen.h,file
+FFTRealFixLen.hpp,file
+FFTRealFixLenParam.h,file
+FFTRealPassDirect.h,file
+FFTRealPassDirect.hpp,file
+FFTRealPassInverse.h,file
+FFTRealPassInverse.hpp,file
+FFTRealSelect.h,file
+FFTRealSelect.hpp,file
+FFTRealUseTrigo.h,file
+FFTRealUseTrigo.hpp,file
+FM Oscillator,dir
+FM Oscillator Bank,dir
+FM Oscillator Bank.xcplaygroundpage,dir
+FM Oscillator Filter Synth,dir
+FM Oscillator Operation.xcplaygroundpage,dir
+FM Oscillator.xcplaygroundpage,dir
+FM Piano.wav,file
+FM.cpp,file
+FM.h,file
+FMVoices.cpp,file
+FMVoices.h,file
+FUNDING.yml,file
+Faded Red.colorset,dir
+Fader,dir
+Fatten Effect.xcplaygroundpage,dir
+FileConverter,dir
+FileConverter.entitlements,file
+FileConverter.swift,file
+FileConverter.xcodeproj,dir
+FileLoadVC.swift,file
+FileLoop.cpp,file
+FileLoop.h,file
+FileRead.cpp,file
+FileRead.h,file
+FileWrite.cpp,file
+FileWrite.h,file
+FileWvIn.cpp,file
+FileWvIn.h,file
+FileWvOut.cpp,file
+FileWvOut.h,file
+Filter Envelope.xcplaygroundpage,dir
+Filter Polysynths,dir
+Filter Section Example.xcplaygroundpage,dir
+Filter Synth,dir
+Filter.h,file
+FilterCell.swift,file
+FilterCell.xib,file
+FilterEffects,dir
+FilterEffects-BridgingHeader.h,file
+FilterEffects.entitlements,file
+FilterEffects.xcodeproj,dir
+FilterEffects.xcscheme,file
+FilterEffects.xcworkspace,dir
+Filters,dir
+Filters.playground,dir
+Fir.cpp,file
+Fir.h,file
+Flanger,dir
+Flanger.xcplaygroundpage,dir
+FlangerAndChorus,dir
+FlangerAndChorus.xcodeproj,dir
+FlangerAndChorus.xcscheme,file
+Flat Frequency Response Reverb,dir
+Flat Frequency Response Reverb Operation.xcplaygroundpage,dir
+Flat Frequency Response Reverb.xcplaygroundpage,dir
+Flute,dir
+Flute.cpp,file
+Flute.h,file
+Flute.xcplaygroundpage,dir
+FontColor.colorset,dir
+FormSwep.cpp,file
+FormSwep.h,file
+Formant Filter,dir
+Formant Filter.xcplaygroundpage,dir
+Frameworks,dir
+FreeVerb.cpp,file
+FreeVerb.h,file
+Frequency Tracker,dir
+Front.imagestacklayer,dir
+Function.h,file
+FunctionDiscoveryKeys_devpkey.h,file
+FunctionTable.cpp,file
+FunctionTable.hpp,file
+GeneralSysexCommunicationsManger.swift,file
+Generator.h,file
+Generators,dir
+Granulate.cpp,file
+Granulate.h,file
+Graphic Equalizer.xcplaygroundpage,dir
+Guitar Processors,dir
+Guitar.cpp,file
+Guitar.h,file
+Guitar.mp3,file
+HelloOSC,dir
+HelloOSC.touchosc,file
+HelloOSC.xcodeproj,dir
+HelloOSC.xcscheme,file
+HelloOSC.xcworkspace,dir
+HelloObjectiveC,dir
+HelloObjectiveC-Bridging-Header.h,file
+HelloObjectiveC.xcodeproj,dir
+HelloObjectiveC.xcscheme,file
+HelloWorld,dir
+HelloWorld.xcodeproj,dir
+HelloWorld.xcscheme,file
+Helpers,dir
+HevyMetl.cpp,file
+HevyMetl.h,file
+High Pass Butterworth Filter,dir
+High Pass Butterworth Filter.xcplaygroundpage,dir
+High Pass Filter,dir
+High Pass Filter Operation.xcplaygroundpage,dir
+High Pass Filter.xcplaygroundpage,dir
+High Shelf Filter,dir
+High Shelf Filter.xcplaygroundpage,dir
+High Shelf Parametric Equalizer Filter,dir
+IDEWorkspaceChecks.plist,file
+ISSUE_TEMPLATE.md,file
+Icon-60@2x.png,file
+Icon-60@3x-1.png,file
+Icon-60@3x.png,file
+Icon-76.png,file
+Icon-76@2x.png,file
+Icon-83.5@2x.png,file
+Icon-App-20x20@1x.png,file
+Icon-App-20x20@2x.png,file
+Icon-App-20x20@3x.png,file
+Icon-App-29x29@1x.png,file
+Icon-App-29x29@2x.png,file
+Icon-App-29x29@3x.png,file
+Icon-App-40x40@1x.png,file
+Icon-App-40x40@2x.png,file
+Icon-App-40x40@3x.png,file
+Icon-App-57x57@1x.png,file
+Icon-App-57x57@2x.png,file
+Icon-App-60x60@2x.png,file
+Icon-App-60x60@3x.png,file
+Icon-App-72x72@1x.png,file
+Icon-App-72x72@2x.png,file
+Icon-App-76x76@1x.png,file
+Icon-App-76x76@2x.png,file
+Icon-App-83.5x83.5@2x.png,file
+Icon-Small-50x50@1x.png,file
+Icon-Small-50x50@2x.png,file
+Iir.cpp,file
+Iir.h,file
+Impulse Responses,dir
+InetWvIn.h,file
+InetWvOut.h,file
+Influx.sp,file
+Info.plist,file
+Input,dir
+InputDeviceTableViewController.swift,file
+Instrmnt.h,file
+InstrumentPlayer.swift,file
+Instruments,dir
+Instruments.xcodeproj,dir
+Internals,dir
+Introduction and Hello World.xcplaygroundpage,dir
+ItunesArtwork@2x.png,file
+JCRev.cpp,file
+JCRev.h,file
+JPM072-Iyo-Bushi.mid,file
+JetTable.h,file
+K5000SysexMessages.swift,file
+Korg Low Pass Filter,dir
+Korg Low Pass Filter Operation.xcplaygroundpage,dir
+Korg Low Pass Filter.xcplaygroundpage,dir
+LICENSE,file
+LICENSE.txt,file
+LPFCombFilter.cpp,file
+LPFCombFilter.h,file
+LaunchImage.launchimage,dir
+LaunchScreen.storyboard,file
+Lazy Tap,dir
+LentPitShift.cpp,file
+LentPitShift.h,file
+LinearRamper.hpp,file
+Listeners,dir
+Lo-Fi Synth.mp3,file
+LocalMIDIFiles,dir
+LockFreeFIFO.h,file
+Logger.swift,file
+LoopbackRecording,dir
+LoopbackRecording.xcodeproj,dir
+Low Pass Butterworth Filter,dir
+Low Pass Butterworth Filter.xcplaygroundpage,dir
+Low Pass Filter,dir
+Low Pass Filter Operation.xcplaygroundpage,dir
+Low Pass Filter.xcplaygroundpage,dir
+Low Shelf Filter,dir
+Low Shelf Filter.xcplaygroundpage,dir
+Low Shelf Parametric Equalizer Filter,dir
+Low-Frequency Oscillating of Parameters.xcplaygroundpage,dir
+MIDI,dir
+MIDI CI Sysex Messages.swift,file
+MIDI Chord Generator.xcplaygroundpage,dir
+MIDI Connection Manager.swift,file
+MIDI Input.xcplaygroundpage,dir
+MIDI Output.xcplaygroundpage,dir
+MIDI Scale Quantizer.xcplaygroundpage,dir
+MIDI+Extensions.swift,file
+MIDIByte+Sysex.swift,file
+MIDIControlHandler.h,file
+MIDIFile,dir
+MIDIFileEditAndSync,dir
+MIDIFileEditAndSync.xcodeproj,dir
+MIDIFilter.swift,file
+MIDIFilterVC.swift,file
+MIDIHelper.swift,file
+MIDINoteDataCellTableViewCell.swift,file
+MIDINoteDataCellTableViewCell.xib,file
+MIDINoteDataVC.swift,file
+MIDIPacket+Extensions.swift,file
+MIDIPacket+SequenceType.swift,file
+MIDIPacketList+SequenceType.swift,file
+MIDISendVC.swift,file
+MIDISenderVC.swift,file
+MIDIUtility,dir
+MIDIUtility.xcodeproj,dir
+MIDIUtility.xcscheme,file
+MIDIWord+Sysex.swift,file
+Mac AUv2 Plugin,dir
+Mac AUv2 Plugins,dir
+MacOSCommandLineDev,dir
+MacOSCommandLineDev.xcscheme,file
+Main.storyboard,file
+MainInterface.storyboard,file
+MainViewController.swift,file
+Mandolin,dir
+Mandolin.cpp,file
+Mandolin.h,file
+Mandolin.xcplaygroundpage,dir
+Math,dir
+MenuButton.swift,file
+Mesh2D.cpp,file
+Mesh2D.h,file
+Messager.cpp,file
+Messager.h,file
+Metal Bar,dir
+Metronome,dir
+Metronome.xcplaygroundpage,dir
+MetronomeSamplerSync,dir
+MetronomeSamplerSync.xcodeproj,dir
+Microphone Tracker,dir
+MicrophoneAnalysis,dir
+MicrophoneAnalysis.xcodeproj,dir
+MicrophoneAnalysis.xcscheme,file
+Microtonality,dir
+Microtonality.xcplaygroundpage,dir
+Middle.imagestacklayer,dir
+MidiFileIn.cpp,file
+MidiFileIn.h,file
+MigrationGuide.md,file
+MikeFilter.cpp,file
+MikeFilter.h,file
+Mixer,dir
+Mixing,dir
+Mixing Nodes.xcplaygroundpage,dir
+ModDelay.svg,file
+Modal Resonance Filter,dir
+Modal Resonance Filter Operation.xcplaygroundpage,dir
+Modal Resonance Filter.xcplaygroundpage,dir
+Modal.cpp,file
+Modal.h,file
+ModalBar.cpp,file
+ModalBar.h,file
+Modulate.cpp,file
+Modulate.h,file
+ModulatedDelay,dir
+ModulatedDelayEffects.md,file
+ModulatedDelay_Defines.h,file
+Modulation,dir
+Moog Ladder,dir
+Moog Ladder Filter Operation.xcplaygroundpage,dir
+Moog Ladder Filter.xcplaygroundpage,dir
+Moog.cpp,file
+Moog.h,file
+Morphing Oscillator,dir
+Morphing Oscillator Bank,dir
+Morphing Oscillator Bank.xcplaygroundpage,dir
+Morphing Oscillator Filter Synth,dir
+Morphing Oscillator.xcplaygroundpage,dir
+Morphing Synth,dir
+Multi-tap Delay.xcplaygroundpage,dir
+MultiDelay Example.xcplaygroundpage,dir
+MultiStageFilter.cpp,file
+MultiStageFilter.hpp,file
+MultitouchGestureRecognizer.swift,file
+Music,dir
+MusicDeviceBase.cpp,file
+MusicDeviceBase.h,file
+Mutex.h,file
+NRev.cpp,file
+NRev.h,file
+Node FFT Plot.xcplaygroundpage,dir
+Node Output Plot.xcplaygroundpage,dir
+Nodes,dir
+Noise,dir
+Noise Generators.xcplaygroundpage,dir
+Noise Operations.xcplaygroundpage,dir
+Noise.cpp,file
+Noise.h,file
+Non-Audio Tutorial.xcplaygroundpage,dir
+Numeric.swift,file
+NumericConversions.swift,file
+OSCSender,dir
+OSCSender.entitlements,file
+Offline,dir
+OfflineRender,dir
+OnePole.cpp,file
+OnePole.h,file
+OnePoleLPF.cpp,file
+OnePoleLPF.h,file
+OneZero.cpp,file
+OneZero.h,file
+Operations,dir
+Organ.wav,file
+OscSinCos.h,file
+OscSinCos.hpp,file
+Oscillator,dir
+Oscillator Bank,dir
+Oscillator Bank.xcplaygroundpage,dir
+Oscillator Filter Synth,dir
+Oscillator Synth.xcplaygroundpage,dir
+Oscillator.xcplaygroundpage,dir
+Oscillators,dir
+OtherBases,dir
+Output Waveform Plot.xcplaygroundpage,dir
+Output.swift,file
+OutputSplitter,dir
+OutputSplitter.entitlements,file
+OutputSplitter.xcodeproj,dir
+PRCRev.cpp,file
+PRCRev.h,file
+PULL_REQUEST_TEMPLATE.md,file
+PWM Filter Synth,dir
+PWM Oscillator,dir
+PWM Oscillator Bank,dir
+PWM Oscillator Bank.xcplaygroundpage,dir
+PWM Oscillator.xcplaygroundpage,dir
+PWM Synth,dir
+Packets,dir
+PadColor.colorset,dir
+Pages,dir
+Panner,dir
+Parameter Rampers,dir
+Parameter Ramping.xcplaygroundpage,dir
+ParameterRamper.cpp,file
+ParameterRamper.hpp,file
+Particles,dir
+Peak Limiter,dir
+Peak Limiter.xcplaygroundpage,dir
+Peaking Parametric Equalizer Filter,dir
+Pedestrians.xcplaygroundpage,dir
+PercFlut.cpp,file
+PercFlut.h,file
+Phase Distortion Filter Synth,dir
+Phase Distortion Oscillator,dir
+Phase Distortion Oscillator Bank,dir
+Phase Distortion Oscillator Bank.xcplaygroundpage,dir
+Phase Distortion Oscillator.xcplaygroundpage,dir
+Phase-Locked Vocoder,dir
+Phase-Locked Vocoder.xcplaygroundpage,dir
+Phaser,dir
+Phaser.xcplaygroundpage,dir
+Phasor Operation.xcplaygroundpage,dir
+Phonemes.cpp,file
+Phonemes.h,file
+Physical Models,dir
+Pink Noise,dir
+PinkNoise.wav,file
+PitShift.cpp,file
+PitShift.h,file
+Pitch Shift Operation.xcplaygroundpage,dir
+Pitch Shifter,dir
+Pitch Shifter.xcplaygroundpage,dir
+Playback,dir
+Playback Speed.xcplaygroundpage,dir
+Playback.playground,dir
+Player,dir
+Players,dir
+Playgrounds,dir
+Playgrounds to Production.xcplaygroundpage,dir
+Plucked String,dir
+Plucked String Operation.xcplaygroundpage,dir
+Plucked String.xcplaygroundpage,dir
+Plucked.cpp,file
+Plucked.h,file
+Plugin DSP,dir
+Plugin GUI,dir
+PluginEditor.cpp,file
+PluginEditor.h,file
+PluginProcessor.cpp,file
+PluginProcessor.h,file
+PluginsVsExtensions.md,file
+Podfile,file
+PoleZero.cpp,file
+PoleZero.h,file
+Polysynths,dir
+PreparingSampleSets.md,file
+Preview Assets.xcassets,dir
+Preview Content,dir
+Processing Audio File Asynchronously.xcplaygroundpage,dir
+PublicUtility,dir
+README,file
+README.dataset,dir
+README.md,file
+RageProcessor.cpp,file
+RageProcessor.h,file
+Random Number Generators,dir
+RandomClips,dir
+RandomClips.entitlements,file
+RandomClips.xcodeproj,dir
+Reading and Writing Audio Files.xcplaygroundpage,dir
+Recorder,dir
+Recorder.xcodeproj,dir
+Recorder.xcscheme,file
+Recording Nodes.xcplaygroundpage,dir
+ReedTable.h,file
+Render Tap,dir
+Resonant Filter Operation.xcplaygroundpage,dir
+Resonant Filter.xcplaygroundpage,dir
+ResonantFilter,dir
+ResonantLowPassFilter.cpp,file
+ResonantLowPassFilter.hpp,file
+Resonate.cpp,file
+Resonate.h,file
+Resources,dir
+Reverb,dir
+Reverb.xcplaygroundpage,dir
+Rhino,dir
+Rhino Guitar Processor.xcplaygroundpage,dir
+Rhodes Piano,dir
+Rhodey.cpp,file
+Rhodey.h,file
+Ring Modulator,dir
+Ring Modulator.xcplaygroundpage,dir
+RingBuffer.swift,file
+Roland TB-303 Filter,dir
+Roland TB-303 Filter.xcplaygroundpage,dir
+Rolling Output Plot.xcplaygroundpage,dir
+RtAudio.h,file
+RtMidi.h,file
+RtWvIn.h,file
+RtWvOut.h,file
+SDBooster,dir
+SDBooster.swift,file
+SDBoosterAudioUnit.swift,file
+SDBoosterDSP.hpp,file
+SDBoosterDSP.mm,file
+SDSustainer.swift,file
+SKINImsg.h,file
+SKINItbl.h,file
+STK,dir
+Sample Player.xcplaygroundpage,dir
+SampleBuffer.cpp,file
+SampleBuffer.hpp,file
+SampleOscillator.hpp,file
+Sampler,dir
+Sampler Instruments,dir
+Sampler.cpp,file
+Sampler.h,file
+Sampler.xcplaygroundpage,dir
+SamplerDemo,dir
+SamplerDemo.xcodeproj,dir
+SamplerDemo.xcscheme,file
+SamplerVoice.cpp,file
+SamplerVoice.hpp,file
+Samplers,dir
+Samplers.md,file
+Samples,dir
+Sandbox.swift,file
+Sawtooth Wave Oscillator Operation.xcplaygroundpage,dir
+Saxofony.cpp,file
+Saxofony.h,file
+SceneDelegate.swift,file
+Scheale.sp,file
+Segment Operations.xcplaygroundpage,dir
+SenderSynth,dir
+SenderSynth-BridgingHeader.h,file
+SenderSynth.entitlements,file
+SenderSynth.xcodeproj,dir
+SenderSynth.xcscheme,file
+SenderSynth.xcworkspace,dir
+Sequence.swift,file
+Sequencer,dir
+Sequencer.xcplaygroundpage,dir
+SequencerDemo,dir
+SequencerDemo.xcodeproj,dir
+SequencerDemo.xcscheme,file
+SequencerManager.swift,file
+SequencerSettingsVC.swift,file
+Sequencing,dir
+Shaker,dir
+Shaker.xcplaygroundpage,dir
+Shakers.cpp,file
+Shakers.h,file
+Simple Delay,dir
+Simple Keyboard.sp,file
+Simple.cpp,file
+Simple.h,file
+SimpleAudioUnit,dir
+SimpleAudioUnit.entitlements,file
+SimpleAudioUnit.xcodeproj,dir
+SimplePlayEngine.swift,file
+SineWave.cpp,file
+SineWave.h,file
+SingWave.cpp,file
+SingWave.h,file
+Sitar.cpp,file
+Sitar.h,file
+Skeleton.aupreset,file
+Skini.cpp,file
+Skini.h,file
+Smooth Delay Operation.xcplaygroundpage,dir
+Socket.h,file
+SongProcessor,dir
+Soundpipe,dir
+SoundpipeExtension,dir
+Sounds,dir
+Source,dir
+Speech Synthesizer,dir
+SpeechSynthesizer,dir
+SpeechSynthesizer.entitlements,file
+SpeechSynthesizer.xcodeproj,dir
+Sphere.cpp,file
+Sphere.h,file
+Splitting Nodes.xcplaygroundpage,dir
+Sporth,dir
+Sporth Based Effect.xcplaygroundpage,dir
+Sporth Based Generator.xcplaygroundpage,dir
+Sporth Custom Effect.xcplaygroundpage,dir
+Sporth Custom Ugens,dir
+Stereo Delay,dir
+Stereo Delay Operation.xcplaygroundpage,dir
+Stereo Field Limiter,dir
+Stereo Field Limiter.xcplaygroundpage,dir
+Stereo Operation.xcplaygroundpage,dir
+Stereo Panning.xcplaygroundpage,dir
+StereoDelay.cpp,file
+StereoDelay.hpp,file
+StifKarp.cpp,file
+StifKarp.h,file
+Stk.cpp,file
+Stk.h,file
+String Resonator,dir
+String Resonator.xcplaygroundpage,dir
+Strings.mp3,file
+StyleGuide.md,file
+Supporting Files,dir
+SustainPedalLogic.cpp,file
+SustainPedalLogic.hpp,file
+Synchronization,dir
+Synth,dir
+Synth.mp3,file
+SynthElement.cpp,file
+SynthElement.h,file
+SynthEvent.h,file
+SynthNote.cpp,file
+SynthNote.h,file
+SynthNoteList.cpp,file
+SynthNoteList.h,file
+SynthVoice.cpp,file
+SynthVoice.hpp,file
+Synthesis.playground,dir
+TPCircularBuffer+AudioBufferList.c,file
+TPCircularBuffer+AudioBufferList.h,file
+TPCircularBuffer+Unit.c,file
+TPCircularBuffer+Unit.h,file
+TPCircularBuffer.c,file
+TPCircularBuffer.h,file
+TRACE.h,file
+Table,dir
+Table Of Contents.xcplaygroundpage,dir
+Tables.xcplaygroundpage,dir
+Tanh Distortion,dir
+Tanh Distortion.xcplaygroundpage,dir
+TapDelay.h,file
+TapTempo.swift,file
+Taps,dir
+Telephone.xcplaygroundpage,dir
+TemplateAUPreset.h,file
+TestCases,dir
+Testing,dir
+Tests,dir
+Thread.h,file
+Three Pole Low Pass Filter,dir
+Three-Pole Low Pass Filter.xcplaygroundpage,dir
+Time Pitch Stretching,dir
+Time Stretching and Pitch Shifting.xcplaygroundpage,dir
+Time.swift,file
+Timeline,dir
+Timeline Tap,dir
+TipsAndTricks.md,file
+Tone Complement Filter,dir
+Tone Filter,dir
+Tone and Tone Complement Filters.xcplaygroundpage,dir
+Top Shelf Image.imageset,dir
+TrackCell.swift,file
+TrackCell.xib,file
+Tracking Amplitude.xcplaygroundpage,dir
+Tracking Frequency of Audio File.xcplaygroundpage,dir
+Tracking Frequency.xcplaygroundpage,dir
+Tracking Microphone Input.xcplaygroundpage,dir
+Tracking With Microphone Tracker.xcplaygroundpage,dir
+Tremolo,dir
+Tremolo.xcplaygroundpage,dir
+TubeBell.cpp,file
+TubeBell.h,file
+Tubular Bells,dir
+Tubular Bells.xcplaygroundpage,dir
+Twang.cpp,file
+Twang.h,file
+TwoPole.cpp,file
+TwoPole.h,file
+TwoZero.cpp,file
+TwoZero.h,file
+UI,dir
+User Interface,dir
+Using Functions Part 2.xcplaygroundpage,dir
+Using Functions.xcplaygroundpage,dir
+Utilities,dir
+Utility,dir
+VERSION,file
+VST2_SDK,dir
+Variable Delay,dir
+Variable Delay Operation.xcplaygroundpage,dir
+Variable Delay.xcplaygroundpage,dir
+Vector3D.h,file
+ViewController.h,file
+ViewController.m,file
+ViewController.swift,file
+ViewControllers,dir
+Vocal Tract,dir
+Vocal Tract Operation.xcplaygroundpage,dir
+Vocal Tract.xcplaygroundpage,dir
+VocalTractTests.swift,file
+VoicForm.cpp,file
+VoicForm.h,file
+Voicer.cpp,file
+Voicer.h,file
+WavPack5FileFormat.pdf,file
+WavPack5LibraryDoc.pdf,file
+WavPack5PortingGuide.pdf,file
+Wave Table,dir
+WaveStack.cpp,file
+WaveStack.hpp,file
+Wavpack,dir
+WavpackDLL,dir
+Whistle.cpp,file
+Whistle.h,file
+White Noise,dir
+Windows VST Plugins,dir
+Windows VST2 Plugin,dir
+Wurley.cpp,file
+Wurley.h,file
+WvIn.h,file
+WvOut.h,file
+XY Pad.xcplaygroundpage,dir
+Zita Reverb,dir
+_kiss_fft_guts.h,file
+add.swift,file
+adsr.c,file
+adsrEnvelope.swift,file
+ahh.raw,file
+allpass.c,file
+alphabet.mp3,file
+atone.c,file
+autoWah.swift,file
+autoWahTests.swift,file
+autowah.c,file
+bal.c,file
+bar.c,file
+base.c,file
+basic.c,file
+basicSamples,dir
+bass_drum_C1.wav,file
+bassdrum.raw,file
+bassloop.wav,file
+biquad.c,file
+biscale.c,file
+bitcrush.c,file
+bitcrush.swift,file
+bitcrushTests.swift,file
+bitwise.c,file
+blsaw.c,file
+blsquare.c,file
+bltriangle.c,file
+bpm.c,file
+britestk.raw,file
+brown.c,file
+brownianNoise.swift,file
+build_frameworks.sh,file
+build_packages.sh,file
+butbp.c,file
+butbr.c,file
+buthp.c,file
+butlp.c,file
+cellularAutomatonComp.mid,file
+changed.c,file
+changelog.txt,file
+cheeb-bd.wav,file
+cheeb-ch.wav,file
+cheeb-hat.wav,file
+cheeb-snr.wav,file
+cheeb-stick.wav,file
+clamp.c,file
+clap_D#1.wav,file
+click.wav,file
+clip.c,file
+clip.swift,file
+clipTests.swift,file
+clock.c,file
+closed_hi_hat_F#1.wav,file
+comb.c,file
+common_utils.c,file
+compressor.c,file
+contents.xcplayground,file
+contents.xcworkspacedata,file
+contributing.md,file
+conv.c,file
+count.c,file
+count.swift,file
+counting.mp3,file
+cowbell1.raw,file
+crashcym.raw,file
+crossfade.c,file
+dcBlock.swift,file
+dcBlockTests.swift,file
+dcblock.c,file
+decorr_tables.h,file
+decorr_utils.c,file
+def.h,file
+delay.c,file
+delay.swift,file
+delayTests.swift,file
+device.xcconfig,file
+diode.c,file
+dish.wav,file
+dist.c,file
+distort.swift,file
+distortTests.swift,file
+distribute_built_frameworks.sh_example,file
+divide.swift,file
+dmetro.c,file
+docs,dir
+dope.raw,file
+dr_wav,dir
+dr_wav.c,file
+dr_wav.h,file
+drip.c,file
+drumLoop.caf,file
+drumSimp.exs,file
+drumloop.wav,file
+dsound.h,file
+dtrig.c,file
+dust.c,file
+eee.raw,file
+entropy_utils.c,file
+eqfil.c,file
+eval.c,file
+expon.c,file
+external,dir
+extra1.c,file
+extra2.c,file
+f.c,file
+faust,dir
+fft,dir
+fft.c,file
+fftwrapper.c,file
+fix-framework.sh,file
+fix_paths.sed,file
+fm.c,file
+fmOscillator.swift,file
+fmOscillatorTests.swift,file
+fof.c,file
+fofilt.c,file
+fog.c,file
+fold.c,file
+foo.c,file
+fosc.c,file
+frere-jacques.mid,file
+ftbl.c,file
+ftmap.c,file
+ftsum.c,file
+func.c,file
+funkyWow.exs,file
+fwavblnk.raw,file
+fwavblnk_raw.h,file
+gbuzz.c,file
+gen_composite.c,file
+gen_eval.c,file
+gen_file.c,file
+gen_line.c,file
+gen_padsynth.c,file
+gen_rand.c,file
+gen_sine.c,file
+gen_sinesum.c,file
+gen_sporth.c,file
+gen_vals.c,file
+ginclude.h,file
+growl.c,file
+growl.h,file
+guitar.wav,file
+guitarloop.wav,file
+h,dir
+halfwave.raw,file
+hash.c,file
+helpers,dir
+hexany_1_45_135_225.scl,file
+hi_tom_D2.wav,file
+highPassButterworthFilter.swift,file
+highPassButterworthFilterTests.swift,file
+highPassFilter.swift,file
+highPassFilterTests.swift,file
+hihatcym.raw,file
+hilbert.c,file
+iOS,dir
+iOSDevelopment,dir
+iOSDevelopment-Bridging-Header.h,file
+iOSDevelopment.xcodeproj,dir
+iOSTestSuite,dir
+iOSTestSuite.xcodeproj,dir
+iOSTestSuite.xcscheme,file
+iOSTestSuiteTests,dir
+iTunesArtwork.imageset,dir
+iTunesArtwork@1x.png,file
+iTunesArtwork@2x.png,file
+iTunesArtwork@3x.png,file
+impuls10.raw,file
+impuls20.raw,file
+impuls40.raw,file
+in.c,file
+include,dir
+incr.c,file
+increment.swift,file
+ini.c,file
+ini.h,file
+inih,dir
+input_devices.jpg,file
+ios,dir
+jcrev.c,file
+jitter.c,file
+jitter.swift,file
+kLtz.sp,file
+kiss_fft.c,file
+kiss_fft.h,file
+kiss_fftr.c,file
+kiss_fftr.h,file
+kissfft,dir
+korgLowPassFilter.swift,file
+korgLowPassFilterTests.swift,file
+leadloop.wav,file
+lib,dir
+libsndfile,dir
+libsndfile-1.lib,file
+license.txt,file
+line.c,file
+lo_tom_F1.wav,file
+load.c,file
+loadfile.c,file
+lowPassButterworthFilter.swift,file
+lowPassButterworthFilterTests.swift,file
+lowPassFilter.swift,file
+lowPassFilterTests.swift,file
+lpf18.c,file
+macOS,dir
+macOSDevelopment,dir
+macOSDevelopment-Bridging-Header.h,file
+macOSDevelopment.playground,dir
+macOSDevelopment.xcodeproj,dir
+macOSDevelopment.xcscheme,file
+macOSTestSuite,dir
+macOSTestSuite.entitlements,file
+macOSTestSuite.xcodeproj,dir
+macOSTestSuite.xcscheme,file
+macOSTestSuiteTests,dir
+main.m,file
+main.swift,file
+mand1.raw,file
+mand10.raw,file
+mand11.raw,file
+mand12.raw,file
+mand2.raw,file
+mand3.raw,file
+mand4.raw,file
+mand5.raw,file
+mand6.raw,file
+mand7.raw,file
+mand8.raw,file
+mand9.raw,file
+mand_raw.h,file
+mandpluk.raw,file
+mark.c,file
+marmstk1.raw,file
+max.swift,file
+maygate.c,file
+maytrig.c,file
+md5.c,file
+md5.h,file
+metro.c,file
+metronome.swift,file
+microphone_analysis.jpg,file
+mid_tom_B1.wav,file
+min.swift,file
+mincer.c,file
+mixer.swift,file
+mixloop.wav,file
+modalResonanceFilter.swift,file
+modalResonanceFilterTests.swift,file
+mode.c,file
+modules,dir
+moogLadderFilter.swift,file
+moogLadderFilterTests.swift,file
+moogladder.c,file
+morphingOscillator.swift,file
+morphingOscillatorTests.swift,file
+multiply.swift,file
+nes-syn1.exs,file
+noise-wht2.wav,file
+noise.c,file
+noisyRez.exs,file
+nsmp.c,file
+ooo.raw,file
+open_filename.c,file
+open_hi_hat_A#1.wav,file
+open_legacy.c,file
+open_raw.c,file
+open_utils.c,file
+osc.c,file
+oscmorph.c,file
+oscmorph2d.c,file
+p.c,file
+pack.c,file
+pack_dns.c,file
+pack_dsd.c,file
+pack_floats.c,file
+pack_utils.c,file
+padsynth.c,file
+pan.c,file
+pan.swift,file
+pan2.c,file
+panst.c,file
+pareq.c,file
+parse.c,file
+paulstretch.c,file
+pdhalf.c,file
+peaklim.c,file
+peksblnk.raw,file
+periodicTrigger.swift,file
+phaser.c,file
+phasor.c,file
+phasor.swift,file
+phasorTests.swift,file
+pinkNoise.swift,file
+pinkNoiseTests.swift,file
+pinknoise.c,file
+pitchShift.swift,file
+pitchamdf.c,file
+playground.xcworkspace,dir
+pluck.c,file
+pluckedString.swift,file
+pluckedStringTests.swift,file
+pluginconstants.h,file
+pluginobjects.cpp,file
+plumber.c,file
+plumber.h,file
+poney.mp3,file
+port.c,file
+portamento.swift,file
+posc3.c,file
+ppksblnk.raw,file
+print.c,file
+progress.c,file
+project.pbxproj,file
+prop.c,file
+pshift.c,file
+ptrack.c,file
+push-pod.sh,file
+rand.c,file
+randh.c,file
+randi.c,file
+randmt.c,file
+random.c,file
+randomNumberPulse.swift,file
+randomVertexPulse.swift,file
+rawwaves,dir
+read_words.c,file
+ref.c,file
+render.c,file
+reson.c,file
+resonantFilter.swift,file
+resonantFilterTests.swift,file
+resource.h,file
+resources,dir
+reverberateWithChowning.swift,file
+reverberateWithChowningTests.swift,file
+reverberateWithCombFilter.swift,file
+reverberateWithCombFilterTests.swift,file
+reverberateWithCostello.swift,file
+reverberateWithCostelloTests.swift,file
+reverberateWithFlatFrequencyResponse.swift,file
+reverberateWithFlatFrequencyResponseTests.swift,file
+reverse.c,file
+revsc.c,file
+ridecymb.raw,file
+rms.c,file
+rpt.c,file
+rspline.c,file
+samphold.c,file
+saturator.c,file
+save.swift,file
+saw220-ana1.wav,file
+saw220.wav,file
+sawPad1.exs,file
+sawPiano1.exs,file
+sawtooth.swift,file
+sawtoothTests.swift,file
+sawtoothWave.swift,file
+sawtoothWaveTests.swift,file
+say.c,file
+scale.c,file
+scale.swift,file
+scrambler.c,file
+sdelay.c,file
+segment.swift,file
+seqDemo.mid,file
+silence.raw,file
+simulator-travis.xcconfig,file
+simulator.xcconfig,file
+sineWave.swift,file
+sineWaveTests.swift,file
+sineblnk.raw,file
+sinechirp.wav,file
+sinewave.raw,file
+sinewave_raw.h,file
+slice.c,file
+slist.c,file
+smoothDelay.swift,file
+smoothDelayTests.swift,file
+smoothdelay.c,file
+snardrum.raw,file
+snare_D1.wav,file
+sndfile.h,file
+sndfile.hh,file
+sndwarp.c,file
+snglpeak.raw,file
+soundcard.h,file
+soundpipe.h,file
+soundpipeextension.h,file
+source,dir
+sporth.c,file
+sporth.h,file
+sqr220.wav,file
+sqrTone1.exs,file
+square.swift,file
+squareTests.swift,file
+squareWave.swift,file
+squareWaveTests.swift,file
+srand.c,file
+src,dir
+stack.c,file
+stairwell.wav,file
+streson.c,file
+stringResonator.swift,file
+stringResonatorTests.swift,file
+subtract.swift,file
+switch.c,file
+t.c,file
+tabread.c,file
+tadsr.c,file
+tag_utils.c,file
+tags.c,file
+talkbox.c,file
+tambourn.raw,file
+tblrec.c,file
+tbvcf.c,file
+tdiv.c,file
+tenv.c,file
+tenv2.c,file
+tenvx.c,file
+test,dir
+test.c,file
+test.h,file
+tevent.c,file
+tgate.c,file
+threePoleLowPassFilter.swift,file
+threePoleLowPassFilterTests.swift,file
+thresh.c,file
+tick.c,file
+timer.c,file
+tin.c,file
+tog.c,file
+tomhidrm.raw,file
+tomlowdr.raw,file
+tommiddr.raw,file
+tone.c,file
+tphasor.c,file
+trackedAmplitude.swift,file
+trand.c,file
+travis.sh,file
+triangle.swift,file
+triangleTests.swift,file
+triangleWave.swift,file
+triangleWaveTests.swift,file
+triggeredWithEnvelope.swift,file
+tseg.c,file
+tseq.c,file
+tvOS,dir
+twopeaks.raw,file
+ugens,dir
+ugens.h,file
+unpack.c,file
+unpack3.c,file
+unpack3.h,file
+unpack3_open.c,file
+unpack3_seek.c,file
+unpack_dsd.c,file
+unpack_floats.c,file
+unpack_seek.c,file
+unpack_utils.c,file
+v.c,file
+variableDelay.swift,file
+variableDelayTests.swift,file
+vdelay.c,file
+voc.c,file
+vocalTract.swift,file
+vocoder.c,file
+vocwrapper.c,file
+vocwrapper.h,file
+waveset.c,file
+wavin.c,file
+wavout.c,file
+wavpack.h,file
+wavpack_local.h,file
+wavpack_version.h,file
+wavpackdll.lib,file
+whiteNoise.swift,file
+whiteNoiseTests.swift,file
+win,dir
+wpkorg35.c,file
+write_words.c,file
+writecode.c,file
+xcschemes,dir
+xcshareddata,dir
+zeros.c,file
+zitarev.c,file

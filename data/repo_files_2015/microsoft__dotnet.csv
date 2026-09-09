@@ -1,0 +1,8 @@
+name,type
+LICENSE,file
+README.md,file
+docs,dir
+dotnet-consumer-projects.md,file
+dotnet-developer-projects.md,file
+enabling-the-latest-ryujit.md,file
+testing-with-ryujit.md,file

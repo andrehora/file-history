@@ -1,0 +1,11 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+config.yml,file
+forbid-issues.md,file
+generated-pr.yml,file
+ipfs-p2p-file-system.pdf,file
+stale.yml,file
+workflows,dir

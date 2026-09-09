@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+TEMPLATE.md,file
+all.js,file
+configuring.md,file
+index.js,file
+lib,dir
+package.json,file
+rules,dir
+rules.json,file
+tests,dir
+unit,dir
+yarn.lock,file

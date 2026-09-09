@@ -1,0 +1,991 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+20xCulture5 - Copy.png,file
+20xFood5 - Copy.png,file
+20xGold5 - Copy.png,file
+20xHappiness5 - Copy.png,file
+20xPopulation5 - Copy.png,file
+20xProduction5 - Copy.png,file
+20xScience5 - Copy.png,file
+Academy.png,file
+Accuracy.png,file
+Acoustics.png,file
+Acquire.png,file
+Agriculture.png,file
+Air Repair.png,file
+Aircraft.png,file
+AlertPopup.kt,file
+Alhambra.png,file
+Aluminum.png,file
+Ambush.png,file
+America.png,file
+Ancient ruins.png,file
+AndroidLauncher.kt,file
+AndroidManifest.xml,file
+Angkor Wat.png,file
+Animal Husbandry.png,file
+Anti-Aircraft Gun.png,file
+Anti-Tank Gun.png,file
+Apollo Program.png,file
+AppIcon.appiconset,dir
+Aqueduct.png,file
+Arabia.png,file
+Archaeology.png,file
+Archer.png,file
+Archery.png,file
+Architecture.png,file
+Aristocracy.png,file
+Armory.png,file
+Artillery.png,file
+Astronomy.png,file
+Atoll.png,file
+Atomic Theory.png,file
+Automation.kt,file
+B17.png,file
+BFS.kt,file
+Babylon.png,file
+BackArrow.png,file
+Ballista.png,file
+Ballistics.png,file
+Bananas.png,file
+Bank.png,file
+Banking.png,file
+Banner.png,file
+Barbarian encampment.png,file
+Barracks.png,file
+Barrage.png,file
+Barringer Crater.png,file
+BaseUnit.kt,file
+BasicTests.kt,file
+Battle.kt,file
+BattleDamage.kt,file
+BattleTable.kt,file
+Battleship.png,file
+Bazaar.png,file
+Berserker.png,file
+Big Ben.png,file
+Biology.png,file
+Blitz.png,file
+Boarding Party.png,file
+Bombardment.png,file
+Bomber.png,file
+Bowman.png,file
+Brandenburg Gate.png,file
+Broadcast Tower.png,file
+Bronze Working.png,file
+Brute.png,file
+BuildLongRoadAction.kt,file
+Building.kt,file
+BuildingIcons,dir
+Buildings.json,file
+Burial Tomb.png,file
+CN Tower.png,file
+CODE_OF_CONDUCT.md,file
+Calendar.png,file
+Camel Archer.png,file
+CameraStageBaseScreen.kt,file
+Camp.png,file
+Cannon.png,file
+Caravel.png,file
+Castle.png,file
+Catapult.png,file
+Cattle.png,file
+Cavalry.png,file
+Cerro de Potosi.png,file
+Charge.png,file
+Chariot Archer.png,file
+Chemistry.png,file
+Chichen Itza.png,file
+China.png,file
+Chivalry.png,file
+Chu-Ko-Nu.png,file
+Circle.png,file
+Circus Maximus.png,file
+Circus.png,file
+Citadel.png,file
+Citizenship.png,file
+City ruins.png,file
+City.png,file
+CityButton.kt,file
+CityCombatant.kt,file
+CityConnection.png,file
+CityConstructions.kt,file
+CityExpansionManager.kt,file
+CityInfo.kt,file
+CityInfoTable.kt,file
+CityOverlay.png,file
+CityScreen.kt,file
+CityScreenCityPickerTable.kt,file
+CityScreenTileTable.kt,file
+CityState.png,file
+CityStateType.kt,file
+CityStats.kt,file
+CityTileGroup.kt,file
+City_Center_(Civ6).png,file
+CivInfoStats.kt,file
+CivInfoTransientUpdater.kt,file
+Civil Service.png,file
+Civil Society.png,file
+CivilianLandUnit.png,file
+CivilizationInfo.kt,file
+CivilopediaScreen.kt,file
+Close.png,file
+Coal.png,file
+Coast+Oil well.png,file
+Coast.png,file
+Coastal Raider.png,file
+Collective Rule.png,file
+Colosseum.png,file
+Colossus.png,file
+Combined Arms.png,file
+Combustion.png,file
+Companion Cavalry.png,file
+Compass.png,file
+Computers.png,file
+Conquistador.png,file
+Constants.kt,file
+Constitution.png,file
+Construction.png,file
+ConstructionAutomation.kt,file
+ConstructionsTable.kt,file
+Contents.json,file
+Cossack.png,file
+Cotton.png,file
+Counter.kt,file
+Courthouse.png,file
+Cover.png,file
+CrashController.kt,file
+CrashReport.kt,file
+CrashReportSender.kt,file
+Credits.md,file
+Cristo Redentor.png,file
+Crossbowman.png,file
+Crosshair.png,file
+CrosshatchHexagon.png,file
+Cruiser.png,file
+Culture.png,file
+Currency.png,file
+Customs house.png,file
+Czech.png,file
+Czech.properties,file
+Deer.png,file
+Default,dir
+Default-1024w-1366h@2x~ipad.png,file
+Default-375w-667h@2x.png,file
+Default-414w-736h@3x.png,file
+Default-568h@2x.png,file
+Default.png,file
+Default@2x.png,file
+Default@2x~ipad.png,file
+Default~ipad.png,file
+Democracy.png,file
+Desert+City.png,file
+Desert+Fallout.png,file
+Desert+Farm.png,file
+Desert+Flood plains+Farm.png,file
+Desert+Flood plains+Trading post.png,file
+Desert+Flood plains.png,file
+Desert+Oasis.png,file
+Desert+Trading post.png,file
+Desert.png,file
+DesktopLauncher.kt,file
+Destroyer.png,file
+Difficulties.json,file
+Difficulty.kt,file
+DiplomacyManager.kt,file
+DiplomacyManagerTests.kt,file
+DiplomacyScreen.kt,file
+DiplomaticStatus.kt,file
+DisbandUnit.png,file
+Discipline.png,file
+Drill.png,file
+DropBox.kt,file
+Dutch.png,file
+Dutch.properties,file
+Dyes.png,file
+Dynamite.png,file
+Ecology.png,file
+Economics.png,file
+Education.png,file
+Egypt.png,file
+Eiffel Tower.png,file
+El Dorado.png,file
+Electricity.png,file
+Electronics.png,file
+EmpireOverviewScreen.kt,file
+Engineering.png,file
+England.png,file
+English.png,file
+English.properties,file
+Entrepreneurship.png,file
+Evasion.png,file
+ExpanderTab.kt,file
+Extended Range.png,file
+ExtraImages,dir
+FUNDING.yml,file
+Factory.png,file
+FalloutOverlay.png,file
+FantasyHex,dir
+Farm.png,file
+Fascism.png,file
+Feature graphic.png,file
+Fertilizer.png,file
+Fighter.png,file
+Fire.png,file
+Fish.png,file
+Fishing Boats.png,file
+FlagIcons,dir
+Flight.png,file
+Flood plainsOverlay.png,file
+Fonts.kt,file
+Food.png,file
+Forbidden Palace.png,file
+Foreign Legion.png,file
+ForestOverlay.png,file
+Forge.png,file
+Formation.png,file
+Fort.png,file
+Fountain of Youth.png,file
+France.png,file
+Free Religion.png,file
+Free Speech.png,file
+Free Thought.png,file
+French.png,file
+French.properties,file
+Frigate.png,file
+Furs.png,file
+Future Tech.png,file
+Galleass.png,file
+Galley.png,file
+Game Making Tips.md,file
+GameInfo.kt,file
+GameParameters.kt,file
+GameSaver.kt,file
+GameSettings.kt,file
+GameSettingsOld.json,file
+GameSpeed.kt,file
+GameStarter.kt,file
+Gatling Gun.png,file
+GdxTestRunner.java,file
+Gems.png,file
+German.png,file
+German.properties,file
+Germany.png,file
+Gold.png,file
+GoldenAgeManager.kt,file
+Granary.png,file
+Grand Mesa.png,file
+Grassland+City.png,file
+Grassland+Fallout.png,file
+Grassland+Farm.png,file
+Grassland+Forest+Aluminum.png,file
+Grassland+Forest+Camp.png,file
+Grassland+Forest+Coal.png,file
+Grassland+Forest+Gold.png,file
+Grassland+Forest+Iron.png,file
+Grassland+Forest+Lumber mill.png,file
+Grassland+Forest+Silver.png,file
+Grassland+Forest.png,file
+Grassland+Jungle+Camp.png,file
+Grassland+Jungle+Trading post.png,file
+Grassland+Jungle.png,file
+Grassland+Marsh.png,file
+Grassland+Trading post.png,file
+Grassland.png,file
+Great Artist.png,file
+Great Barrier Reef.png,file
+Great Engineer.png,file
+Great General.png,file
+Great Merchant.png,file
+Great Scientist.png,file
+Great Wall.png,file
+Great War Bomber.png,file
+Great War Infantry.png,file
+GreatPeopleNames.json,file
+GreatPersonManager.kt,file
+GreatPersonPickerScreen.kt,file
+Greece.png,file
+Guilds.png,file
+Gunpowder.png,file
+Gzip.kt,file
+Hagia Sophia.png,file
+Haka War Dance.png,file
+Hanging Gardens.png,file
+Hanse.png,file
+Happiness.png,file
+Harbor.png,file
+Heal Instantly.png,file
+Helicopter.png,file
+Hermitage.png,file
+HexMath.kt,file
+Hexagon.png,file
+Hill+Camp.png,file
+Hill+City.png,file
+Hill+Fallout.png,file
+Hill+Forest+Camp.png,file
+Hill+Forest+Lumber mill.png,file
+Hill+Forest.png,file
+Hill+Mine.png,file
+Hill+Quarry.png,file
+Hill+Terrace Farm.png,file
+Hill.png,file
+HillOverlay.png,file
+Himeji Castle.png,file
+Hoplite.png,file
+Horseback Riding.png,file
+Horseman.png,file
+Horses.png,file
+Hospital.png,file
+Hubble Space Telescope.png,file
+Humanism.png,file
+Hwach'a.png,file
+Hydro Plant.png,file
+ICombatant.kt,file
+IConstruction.kt,file
+INamed.kt,file
+IOSLauncher.java,file
+ISSUE_TEMPLATE,dir
+Icon.png,file
+IconCircleGroup.kt,file
+IdleUnitButton.kt,file
+ImageGetter.kt,file
+Images,dir
+ImagesToNotAddToGame,dir
+ImprovementIcons,dir
+ImprovementPickerScreen.kt,file
+Incense.png,file
+India.png,file
+Indirect Fire.png,file
+Indonesian.png,file
+Indonesian.properties,file
+Industrialization.png,file
+Infantry.png,file
+Info.plist.xml,file
+InterceptRange.png,file
+Interception.png,file
+Iron Working.png,file
+Iron.png,file
+Ironclad.png,file
+Ironworks.png,file
+Iroquois.png,file
+Italian.png,file
+Italian.properties,file
+Ivory.png,file
+Jaguar.png,file
+Janissary.png,file
+Japan.png,file
+Jet Fighter.png,file
+JsonParser.kt,file
+JungleOverlay.png,file
+Keshik.png,file
+Khan.png,file
+Knight.png,file
+Korea.png,file
+Korean.png,file
+Korean.properties,file
+Krakatoa.png,file
+Kremlin.png,file
+Krepost.png,file
+LICENSE,file
+Lakes.png,file
+LakesOverlay.png,file
+Lancer.png,file
+LandUnit.png,file
+Landed Elite.png,file
+Landmark.png,file
+Landship.png,file
+Landsknecht.png,file
+LanguagePickerScreen.kt,file
+Lasers.png,file
+Leaning Tower of Pisa.png,file
+Legalism.png,file
+Legion.png,file
+LibGdx token.txt,file
+Library.png,file
+Lighthouse.png,file
+LoadGameScreen.kt,file
+LoadMapScreen.kt,file
+Logistics.png,file
+Longbowman.png,file
+Longhouse.png,file
+Longswordsman.png,file
+Lumber mill.png,file
+Machine Gun.png,file
+Machinery.png,file
+Machu Picchu.png,file
+Malay.png,file
+Malay.properties,file
+Malcontent.png,file
+Mandate Of Heaven.png,file
+Mandekalu Cavalry.png,file
+Manhattan Project.png,file
+Manufactory.png,file
+Maori Warrior.png,file
+MapDownloadTable.kt,file
+MapEditorMenuPopup.kt,file
+MapEditorScreen.kt,file
+MapGenerator.kt,file
+MapParameters.kt,file
+MapParametersTable.kt,file
+MapSaver.kt,file
+MapUnit.kt,file
+MapUnitAction.kt,file
+MapUnitCombatant.kt,file
+Marble.png,file
+March.png,file
+Marine.png,file
+Market.png,file
+MarshOverlay.png,file
+Masonry.png,file
+Mass Media (retired).png,file
+Mathematics.png,file
+Mechanized Infantry.png,file
+Media.xcassets,dir
+Medic.png,file
+Medical Lab.png,file
+MenuIcon.png,file
+Mercantilism.png,file
+Meritocracy.png,file
+Metal Casting.png,file
+Metallurgy.png,file
+Militarism.png,file
+Military Academy.png,file
+Military Caste.png,file
+Military Science.png,file
+Military Tradition.png,file
+Mine.png,file
+Minimap.kt,file
+Mining.png,file
+Mint.png,file
+Minuteman.png,file
+Moai.png,file
+Mobile Tactics.png,file
+Mobility.png,file
+Modern Armor.png,file
+Mohawk Warrior.png,file
+Monarchy.png,file
+Monastery.png,file
+Monument.png,file
+Mount Fuji.png,file
+Mountain.png,file
+MountainOverlay.png,file
+Movement.png,file
+Mughal Fort.png,file
+Museum.png,file
+Musketeer.png,file
+Musketman.png,file
+NamedStats.kt,file
+Nanotechnology.png,file
+Naresuan's Elephant.png,file
+Nation.kt,file
+NationIcons,dir
+NationTable.kt,file
+National College.png,file
+Nations,dir
+Nations.json,file
+Nations_Italian.json,file
+Nations_Korean.json,file
+Nations_Polish.json,file
+Nations_Simplified_Chinese.json,file
+Nations_Ukrainian.json,file
+NativeFont.kt,file
+NativeFontAndroid.kt,file
+NativeFontDesktop.kt,file
+NativeFontListener.kt,file
+NativeFontPaint.kt,file
+NaturalWonderOverlay.png,file
+Navigation.png,file
+Neuschwanstein.png,file
+NewGameScreen.kt,file
+NewGameScreenOptionsTable.kt,file
+NextTurnAutomation.kt,file
+Norwegian Ski Infantry.png,file
+Notification.kt,file
+NotificationsScroll.kt,file
+Notre Dame.png,file
+Nuclear Fission.png,file
+Nuclear Missile.png,file
+Nuclear Plant.png,file
+OasisOverlay.png,file
+Observatory.png,file
+Ocean.png,file
+OfferColumnsTable.kt,file
+OffersListScroll.kt,file
+Oil well.png,file
+Oil.png,file
+Old Faithful.png,file
+Oligarchy.png,file
+Opera House.png,file
+Operational Range.png,file
+Optics.png,file
+Organized Religion.png,file
+OtherIcons,dir
+Oxford University.png,file
+Palace.png,file
+Panzer.png,file
+Paper Maker.png,file
+Paratrooper.png,file
+Particle Physics.png,file
+Pasture.png,file
+Pasture2.png,file
+PatreonImage.png,file
+Patronage.png,file
+Pearls.png,file
+Pentagon.png,file
+Perlin.kt,file
+Persia.png,file
+Persian Immortal.png,file
+Pharmaceuticals.png,file
+Philosophy.png,file
+Physics.png,file
+PickerScreen.kt,file
+Pikeman.png,file
+Pillage.png,file
+Plains+City.png,file
+Plains+Fallout.png,file
+Plains+Farm.png,file
+Plains+Forest+Camp.png,file
+Plains+Forest+Lumber mill.png,file
+Plains+Forest.png,file
+Plains+Jungle+Trading post.png,file
+Plains+Jungle.png,file
+Plains+Trading post.png,file
+Plains.png,file
+Plantation.png,file
+Plastics.png,file
+Player.kt,file
+PlayerPickerTable.kt,file
+PlayerReadyScreen.kt,file
+PlayerType.kt,file
+Polder.png,file
+Police State.png,file
+Policies.json,file
+Policy.kt,file
+PolicyBranch.kt,file
+PolicyIcons,dir
+PolicyManager.kt,file
+PolicyPickerScreen.kt,file
+Polish.png,file
+Polish.properties,file
+Polynesia.png,file
+Population.png,file
+PopulationManager.kt,file
+Populism.png,file
+PopupAlert.kt,file
+PopupTable.kt,file
+Porcelain Tower.png,file
+Portuguese.png,file
+Portuguese.properties,file
+Pottery.png,file
+Printing Press.png,file
+Production.png,file
+Professional Army.png,file
+Promo graphic.png,file
+Promotion.kt,file
+PromotionPickerScreen.kt,file
+Protectionism.png,file
+Public School.png,file
+Puppet.png,file
+Quarry.png,file
+README.md,file
+Radar.png,file
+Radio.png,file
+Railroad.png,file
+Range.png,file
+RangedStrength.png,file
+Reformation.png,file
+Refrigeration.png,file
+Rejuvenation.png,file
+Replaceable Parts.png,file
+Representation.png,file
+Republic.png,file
+Research Lab.png,file
+Resistance.png,file
+ResourceIcons,dir
+ResourceType.kt,file
+Rifleman.png,file
+Rifling.png,file
+River-Bottom.png,file
+River-BottomLeft.png,file
+River-BottomRight.png,file
+River-Top.png,file
+River-TopLeft.png,file
+River-TopRight.png,file
+Road.png,file
+RoadStatus.kt,file
+Robotics.png,file
+Rock of Gibraltar.png,file
+Rocket Artillery.png,file
+Rocketry.png,file
+Romanian.png,file
+Romanian.properties,file
+Rome.png,file
+Ruleset.kt,file
+Russia.png,file
+Russian.png,file
+Russian.properties,file
+SS Booster.png,file
+SS Cockpit.png,file
+SS Engine.png,file
+SS Stasis Chamber.png,file
+Sailing.png,file
+Samurai.png,file
+Satellites.png,file
+Satrap's Court.png,file
+SaveGameScreen.kt,file
+Science.png,file
+ScienceVictoryManager.kt,file
+Scientific Revolution.png,file
+Scientific Theory.png,file
+Scout.png,file
+Scouting.png,file
+Seaport.png,file
+Secularism.png,file
+Sentry.png,file
+Settler.png,file
+Sheep.png,file
+Shield.png,file
+Ship of the Line.png,file
+Shock.png,file
+Siam.png,file
+Siege.png,file
+Silk.png,file
+Silver.png,file
+Simplified_Chinese.png,file
+Simplified_Chinese.properties,file
+Sipahi.png,file
+Sistine Chapel.png,file
+Sleep.png,file
+Slinger.png,file
+Solar Plant.png,file
+Songhai.png,file
+Sortie.png,file
+Sounds.kt,file
+Sovereignty.png,file
+Spaceship Factory.png,file
+Spain.png,file
+Spanish.png,file
+Spanish.properties,file
+Spearman.png,file
+Specialist.png,file
+SpecificUnitAutomation.kt,file
+Spices.png,file
+Stable.png,file
+Stadium.png,file
+Star.png,file
+Stat.kt,file
+StatIcons,dir
+Stats.kt,file
+Statue of Liberty.png,file
+Stealth Bomber.png,file
+Steam Power.png,file
+Steel.png,file
+Stock Exchange.png,file
+Stone Works.png,file
+Stone.png,file
+Stonehenge.png,file
+Stop.png,file
+Strength.png,file
+StringAction.kt,file
+Submarine.png,file
+Sugar.png,file
+Swordsman.png,file
+Sydney Opera House.png,file
+TableBackground.png,file
+Taj Mahal.png,file
+Tank.png,file
+Targeting I (air).png,file
+Targeting.png,file
+TechButton.kt,file
+TechColumn.kt,file
+TechEra.kt,file
+TechIcons,dir
+TechManager.kt,file
+TechPickerScreen.kt,file
+Technology.kt,file
+Techs.json,file
+Temple.png,file
+Tercio.png,file
+Terracotta Army.png,file
+Terrain.kt,file
+TerrainType.kt,file
+Terrains.json,file
+Thai.png,file
+Thai.properties,file
+The Great Library.png,file
+The Great Lighthouse.png,file
+The Louvre.png,file
+The Oracle.png,file
+The Ottomans.png,file
+The Pyramids.png,file
+The Wheel.png,file
+Theatre.png,file
+Theocracy.png,file
+Theology.png,file
+TileClicked.png,file
+TileEditorOptionsTable.kt,file
+TileGroup.kt,file
+TileGroupIcons.kt,file
+TileGroupMap.kt,file
+TileImprovement.kt,file
+TileImprovements.json,file
+TileInfo.kt,file
+TileInfoTable.kt,file
+TileLayout.png,file
+TileMap.kt,file
+TileMapHolder.kt,file
+TileResource.kt,file
+TileResources.json,file
+TileSetStrings.kt,file
+TileSets,dir
+Tiles,dir
+TopBorder.png,file
+Total War.png,file
+Trade Unions.png,file
+Trade.kt,file
+TradeEvaluation.kt,file
+TradeLogic.kt,file
+TradeOffer.kt,file
+TradeOffersList.kt,file
+TradePopup.kt,file
+TradeTable.kt,file
+TradeType.kt,file
+Trading post.png,file
+Traditional_Chinese.png,file
+Traditional_Chinese.properties,file
+TranslationEntry.kt,file
+TranslationFileReader.kt,file
+TranslationTests.kt,file
+Translations.kt,file
+Trapping.png,file
+Trebuchet.png,file
+Triplane.png,file
+Trireme.png,file
+Tundra+Camp.png,file
+Tundra+City.png,file
+Tundra+Fallout.png,file
+Tundra+Forest+Camp.png,file
+Tundra+Forest+Lumber mill.png,file
+Tundra+Forest.png,file
+Tundra+Trading post.png,file
+Tundra.png,file
+Turtle Ship.png,file
+Tutorial.kt,file
+TutorialController.kt,file
+TutorialMiner.kt,file
+TutorialMinerTests.kt,file
+TutorialRender.kt,file
+TutorialTranslationTests.kt,file
+Tutorials,dir
+Tutorials_Czech.json,file
+Tutorials_English.json,file
+Tutorials_French.json,file
+Tutorials_Italian.json,file
+Tutorials_Korean.json,file
+Tutorials_Polish.json,file
+Tutorials_Russian.json,file
+Tutorials_Simplified_Chinese.json,file
+Tutorials_Traditional_Chinese.json,file
+Tutorials_Ukrainian.json,file
+Ukrainian.png,file
+Ukrainian.properties,file
+Unciv icon v3 for google play.png,file
+Unciv icon v3.png,file
+Unciv icon v4 Simplified 32.png,file
+Unciv icon v4 Simplified.png,file
+Unciv icon v4.png,file
+Unciv.sh,file
+UncivCrashReportSender.kt,file
+UncivGame.kt,file
+UnitActions.kt,file
+UnitActionsTable.kt,file
+UnitAutomation.kt,file
+UnitContextMenu.kt,file
+UnitGroup.kt,file
+UnitIcons,dir
+UnitMovementAlgorithms.kt,file
+UnitPromotionIcons,dir
+UnitPromotions.json,file
+UnitPromotions.kt,file
+UnitSelected.png,file
+UnitTable.kt,file
+UnitType.kt,file
+Units,dir
+Units.json,file
+Universal Suffrage.png,file
+University.png,file
+Uranium.png,file
+VictoryManager.kt,file
+VictoryScreen.kt,file
+Volley.png,file
+Walls of Babylon.png,file
+Walls.png,file
+War Chariot.png,file
+War Elephant.png,file
+Warrior Code.png,file
+Warrior.png,file
+Wat.png,file
+WaterUnit.png,file
+Whales.png,file
+Wheat.png,file
+Windmill.png,file
+Wine.png,file
+Wolfpack.png,file
+Woodsman.png,file
+Work Boats.png,file
+Worker.png,file
+WorkerAutomation.kt,file
+Workshop.png,file
+WorldScreen.kt,file
+WorldScreenMenuTable.kt,file
+WorldScreenOptionsTable.kt,file
+WorldScreenTopBar.kt,file
+WorldTileGroup.kt,file
+Writing.png,file
+YesNoPopupTable.kt,file
+YieldGroup.kt,file
+Zero.png,file
+action,dir
+android,dir
+app,dir
+app-store-icon-1024@1x.png,file
+arrow.mp3,file
+assets,dir
+automation,dir
+battle,dir
+bottombar,dir
+bug_report.md,file
+build.gradle,file
+chimes.mp3,file
+choir.mp3,file
+city,dir
+cityscreen,dir
+civTableBackground.png,file
+civilization,dir
+click.mp3,file
+coin.mp3,file
+com,dir
+completionPercentages.properties,file
+core,dir
+darwin,dir
+data,dir
+debug.keystore,file
+desktop,dir
+diplomacy,dir
+discord-rpc.dll,file
+discord_rpc,dir
+docs,dir
+drawable-hdpi,dir
+drawable-mdpi,dir
+drawable-xhdpi,dir
+drawable-xxhdpi,dir
+drawable-xxxhdpi,dir
+extraImages,dir
+feature_request.md,file
+flat-earth-ui.atlas,file
+flat-earth-ui.json,file
+flat-earth-ui.png,file
+font-button-export.fnt,file
+font-export.fnt,file
+font-title-export.fnt,file
+fortify.mp3,file
+game.atlas,file
+game.png,file
+game2.png,file
+gradle,dir
+gradle-wrapper.jar,file
+gradle-wrapper.properties,file
+gradlew,file
+gradlew.bat,file
+horse.mp3,file
+ic_launcher-web.png,file
+ios,dir
+ipad-app-icon-76@1x.png,file
+ipad-app-icon-76@2x.png,file
+ipad-notifications-icon-20@1x.png,file
+ipad-notifications-icon-20@2x.png,file
+ipad-pro-app-icon-83.5@2x.png,file
+ipad-settings-icon-29@1x.png,file
+ipad-settings-icon-29@2x.png,file
+ipad-spotlight-icon-40@1x.png,file
+ipad-spotlight-icon-40@2x.png,file
+iphone-app-icon-60@2x.png,file
+iphone-app-icon-60@3x.png,file
+iphone-notification-icon-20@2x.png,file
+iphone-notification-icon-20@3x.png,file
+iphone-spotlight-icon-40@2x.png,file
+iphone-spotlight-icon-40@3x.png,file
+iphone-spotlight-settings-icon-29@2x.png,file
+iphone-spotlight-settings-icon-29@3x.png,file
+java,dir
+jsons,dir
+keystore.jks,file
+libdiscord-rpc.dylib,file
+libdiscord-rpc.so,file
+libgdxImage.png,file
+linux-x86-64,dir
+linuxFilesForJar,dir
+logic,dir
+machinegun.mp3,file
+map,dir
+mapeditor,dir
+metadata,dir
+metalhit.mp3,file
+models,dir
+mods,dir
+music,dir
+myFirstMod,dir
+nativefont,dir
+newgamescreen,dir
+nonmetalhit.mp3,file
+optionstable,dir
+packrConfig.json,file
+paper.mp3,file
+pickerscreens,dir
+policy.mp3,file
+proguard-rules.pro,file
+project.properties,file
+promote.mp3,file
+res,dir
+road.png,file
+robovm.properties,file
+robovm.xml,file
+ruleset,dir
+saves,dir
+settings.gradle,file
+setup.mp3,file
+shot.mp3,file
+skin,dir
+sounds,dir
+src,dir
+stats,dir
+strings.xml,file
+styles.xml,file
+tech,dir
+template.properties,file
+testing,dir
+tests,dir
+thatched-villagers.mp3,file
+throw.mp3,file
+tile,dir
+tilegroups,dir
+trade,dir
+translations,dir
+translationsByLanguage,dir
+tutorials,dir
+ui,dir
+unciv,dir
+unciv.desktop,file
+uncivicon2.png,file
+unit,dir
+upgrade.mp3,file
+utils,dir
+values,dir
+whiteDot.png,file
+whoosh.mp3,file
+win32-x86,dir
+win32-x86-64,dir
+worldscreen,dir
+wrapper,dir

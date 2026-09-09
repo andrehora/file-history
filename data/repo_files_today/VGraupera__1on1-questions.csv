@@ -1,0 +1,12 @@
+name,type
+.github,dir
+LICENSE,file
+README.ja_JP.md,file
+README.md,file
+index.js,file
+main.js,file
+package.json,file
+push.yml,file
+questions.json,file
+test.js,file
+workflows,dir

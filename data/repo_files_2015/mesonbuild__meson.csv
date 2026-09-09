@@ -1,0 +1,338 @@
+name,type
+.gitattributes,file
+.gitignore,file
+1 basic,dir
+1 boost,dir
+1 pkg-config,dir
+1 project not first,dir
+1 simple,dir
+1 trivial,dir
+10 man install,dir
+10 out of bounds,dir
+11 object arithmetic,dir
+11 subdir,dir
+12 data,dir
+12 string arithmetic,dir
+13 array arithmetic,dir
+13 pch,dir
+14 cpp pch,dir
+14 invalid option name,dir
+15 mixed pch,dir
+16 configure file,dir
+17 if,dir
+18 else,dir
+19 comparison,dir
+2 cpp,dir
+2 external library,dir
+2 gtest,dir
+2 library,dir
+2 missing file,dir
+2 modules,dir
+2 multiple files,dir
+2 nsstring,dir
+2 sharedlib,dir
+2 subdir,dir
+2 winmain,dir
+20 array,dir
+21 includedir,dir
+22 header in file list,dir
+23 global arg,dir
+24 target arg,dir
+25 object extraction,dir
+26 endian,dir
+27 library versions,dir
+28 config subdir,dir
+29 pipeline,dir
+3 cpp,dir
+3 dep,dir
+3 gmock,dir
+3 linker script,dir
+3 missing subdir,dir
+3 module procedure,dir
+3 objc++,dir
+3 resource,dir
+3 static,dir
+3 staticlib,dir
+30 pipeline,dir
+31 find program,dir
+32 multiline string,dir
+33 try compile,dir
+34 compiler id,dir
+35 sizeof,dir
+36 define10,dir
+37 has header,dir
+38 run program,dir
+39 tryrun,dir
+4 extdep static lib,dir
+4 missing meson.build,dir
+4 qt5,dir
+4 self dependency,dir
+4 shared,dir
+4 winmaincpp,dir
+40 logic ops,dir
+41 elif,dir
+42 string formatting,dir
+43 has function,dir
+44 has member,dir
+45 alignment,dir
+46 library chain,dir
+47 options,dir
+48 test args,dir
+49 subproject,dir
+5 linkstatic,dir
+5 misplaced option,dir
+5 protocol buffers,dir
+50 subproject options,dir
+51 pkgconfig-gen,dir
+52 custom install dirs,dir
+53 subproject subproject,dir
+54 same file name,dir
+55 file grabber,dir
+56 custom target,dir
+57 custom target chain,dir
+58 run target,dir
+59 object generator,dir
+6 gettext,dir
+6 linkshared,dir
+6 missing incdir,dir
+60 install script,dir
+61 custom target source output,dir
+62 exe static shared,dir
+63 array methods,dir
+64 custom header generator,dir
+65 multiple generators,dir
+66 install subdir,dir
+67 foreach,dir
+68 number arithmetic,dir
+69 string arithmetic,dir
+7 gir,dir
+7 go to subproject,dir
+7 mixed,dir
+70 array arithmetic,dir
+71 arithmetic bidmas,dir
+8 flex,dir
+8 install,dir
+8 recursive,dir
+9 header install,dir
+9 missing extra file,dir
+COPYING,file
+POTFILES,file
+Simple.java,file
+TestRes.resx,file
+a,dir
+a.c,file
+authors.txt,file
+autotools2meson.py,file
+b,dir
+b.c,file
+backends.py,file
+bar.2,file
+bob.c,file
+bob.h,file
+bob.map,file
+build.py,file
+c.c,file
+class1.vala,file
+class2.vala,file
+cmake2meson.py,file
+cmd_args.c,file
+com,dir
+commandrunner.py,file
+common,dir
+compilers.py,file
+config.h.in,file
+contributing.txt,file
+coredata.py,file
+cpplib.cpp,file
+cppmain.cpp,file
+create_release.sh,file
+cross,dir
+csharp,dir
+d1,dir
+d2,dir
+data,dir
+data.dat,file
+data1.dat,file
+data2.dat,file
+data_source.txt,file
+datafile.cat,file
+datafile.dat,file
+de.po,file
+defs.proto,file
+delwithsuffix.py,file
+dependencies.py,file
+depfixer.py,file
+dummy.dat,file
+dummy.txt,file
+environment.py,file
+envvars.c,file
+failing,dir
+fi.po,file
+file.c,file
+foo.1,file
+fortran,dir
+frameworks,dir
+func.c,file
+func.h,file
+func_pch.c,file
+generator.py,file
+gioprog.vala,file
+gmocktest.cc,file
+golib.c,file
+golib.h,file
+grabber.bat,file
+grabber.sh,file
+grabber2.bat,file
+header.h,file
+hello.bat,file
+hello.sh,file
+helper.cs,file
+include,dir
+input.def,file
+input_src.dat,file
+install_meson.py,file
+installed_files.txt,file
+interpreter.py,file
+intlmain.c,file
+intltest.pot,file
+java,dir
+lexer.l,file
+lib.c,file
+lib1.c,file
+lib2.c,file
+lib3.c,file
+libfile.c,file
+linkexe.cc,file
+linuxlike,dir
+main.c,file
+main.cc,file
+main.cpp,file
+main.h,file
+main.vala,file
+mainWindow.cpp,file
+mainWindow.h,file
+mainWindow.ui,file
+main_pch.cc,file
+makeheader.py,file
+man,dir
+manualinclude.cpp,file
+manualinclude.h,file
+meson,dir
+meson.1,file
+meson.build,file
+meson.el,file
+meson.lang,file
+meson.py,file
+meson_install.py,file
+meson_options.txt,file
+meson_test.py,file
+mesonconf.1,file
+mesonconf.py,file
+mesongui.1,file
+mesongui.py,file
+mesonintrospect.py,file
+mesonlib.py,file
+mesonmain.ui,file
+mesonrunner.ui,file
+mesonstart.ui,file
+mlog.py,file
+mocinclude.cpp,file
+mparser.py,file
+my_compiler.py,file
+my_compiler2.py,file
+mygen.py,file
+myinstall.sh,file
+ninjabackend.py,file
+nolinkexe.cc,file
+obj_generator.py,file
+objc,dir
+optinterpreter.py,file
+osx,dir
+parser.y,file
+pch,dir
+po,dir
+prebuilt object,dir
+prog.1,file
+prog.c,file
+prog.cc,file
+prog.cpp,file
+prog.cs,file
+prog.f90,file
+prog.f95,file
+prog.h,file
+prog.hh,file
+prog.m,file
+prog.mm,file
+prog.rs,file
+prog.vala,file
+prog1.c,file
+prog2.c,file
+prog3.c,file
+prog_pch.c,file
+prog_pch.cc,file
+q5core.cpp,file
+readme.txt,file
+resprog.cs,file
+rootdir.h,file
+run_cross_test.py,file
+run_tests.py,file
+rust,dir
+rustrunner.py,file
+sample.h,file
+script.sh,file
+scripts,dir
+selfdep.f90,file
+shar.c,file
+shlib.c,file
+simple.c,file
+simple.f95,file
+simple.h,file
+simpletest.c,file
+something.txt,file
+source.c,file
+source.in,file
+sourceforge,dir
+src,dir
+srcgen.c,file
+stat.c,file
+stringprog.m,file
+stuff.f95,file
+stuff.qrc,file
+stuff.rs,file
+sub,dir
+sub1,dir
+sub2,dir
+suba.c,file
+subb.c,file
+subc.c,file
+subdefs.h,file
+subdir,dir
+subdir.h,file
+subdir2,dir
+subdir3,dir
+sublib,dir
+sublib.c,file
+subprog.c,file
+subproject,dir
+subprojects,dir
+symbolextractor.py,file
+test cases,dir
+test.cc,file
+test.txt,file
+thing.png,file
+thing2.png,file
+tools,dir
+trivial.c,file
+trivial.cc,file
+ubuntu-armhf.txt,file
+ubuntu-mingw.txt,file
+user.c,file
+vala,dir
+vanished.h,file
+vanishing,dir
+vanishing.1,file
+vanishing.dat,file
+vanishing_subdir,dir
+vs2010backend.py,file
+windows,dir
+xcodebackend.py,file

@@ -1,0 +1,13 @@
+name,type
+.gitattributes,file
+.github,dir
+CONTRIBUTING.md,file
+LICENSE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+VOUCHED.td,file
+assets,dir
+lint.yaml,file
+logo.svg,file
+vouch-check-pr.yaml,file
+workflows,dir

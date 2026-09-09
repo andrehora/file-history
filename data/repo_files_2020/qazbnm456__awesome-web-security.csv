@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+.vscode,dir
+CONTRIBUTING.md,file
+README-jp.md,file
+README-zh.md,file
+README.md,file
+code-of-conduct.md,file
+settings.json,file
+validate.yml,file
+workflows,dir

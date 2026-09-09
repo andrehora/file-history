@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.python-version,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+code-of-conduct.md,file
+contributing.md,file
+dependabot.yml,file
+requirements.txt,file
+security-zizmor.yml,file
+stargazers.yml,file
+workflows,dir

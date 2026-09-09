@@ -1,0 +1,17 @@
+name,type
+DanielFoa,dir
+JonathanMork,dir
+LICENSE,file
+README.wiki,file
+bin,dir
+brief.yaml,file
+company,dir
+data,dir
+download,dir
+family,dir
+graph.yaml,file
+jpg,dir
+make.py,file
+pdf,dir
+person,dir
+portrait.png,file

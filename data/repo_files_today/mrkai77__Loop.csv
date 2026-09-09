@@ -1,0 +1,314 @@
+name,type
+.github,dir
+.gitignore,file
+.swiftformat,file
+1.grid.svg,file
+103985728.jpeg,file
+60551230.jpeg,file
+AI_POLICY.md,file
+AXUIElement+Extensions.swift,file
+AboutConfiguration.swift,file
+Accent Color,dir
+AccentColorConfiguration.swift,file
+AccentColorController.swift,file
+AccentColorOption.swift,file
+AccessibilityManager.swift,file
+ActionPreview.swift,file
+ActiveEventMonitor.swift,file
+ActivePanel.swift,file
+AdvancedConfiguration.swift,file
+Angle+Extensions.swift,file
+AnimationConfiguration.swift,file
+App,dir
+App Icons,dir
+AppDelegate+UNNotifications.swift,file
+AppDelegate.swift,file
+AppIcon-Black Hole.appiconset,dir
+AppIcon-Black Hole.icon,dir
+AppIcon-Black.appiconset,dir
+AppIcon-Black.icon,dir
+AppIcon-Classic.icon,dir
+AppIcon-Daylight.appiconset,dir
+AppIcon-Developer.icon,dir
+AppIcon-Holo.appiconset,dir
+AppIcon-Holo.icon,dir
+AppIcon-Keycap.appiconset,dir
+AppIcon-Keycap.icon,dir
+AppIcon-Loop Master.appiconset,dir
+AppIcon-Loop Master.icon,dir
+AppIcon-Meta Loop.appiconset,dir
+AppIcon-Meta Loop.icon,dir
+AppIcon-Neon.appiconset,dir
+AppIcon-Rose Pine.appiconset,dir
+AppIcon-Rose Pine.icon,dir
+AppIcon-Summer.appiconset,dir
+AppIcon-Summer.icon,dir
+AppIcon-Synthwave Sunset.appiconset,dir
+AppIcon-Synthwave Sunset.icon,dir
+AppIcon-White.appiconset,dir
+AppIcon-White.icon,dir
+Assets,dir
+Assets.xcassets,dir
+BackupManager.swift,file
+BaseEventTapMonitor.swift,file
+Behavior,dir
+BehaviorConfiguration.swift,file
+Binding+Extensions.swift,file
+Bundle+Extensions.swift,file
+BundleUtilities.swift,file
+Buttons 2.png,file
+CGEvent+Extensions.swift,file
+CGEventFlags+Extensions.swift,file
+CGGeometry+Extensions.swift,file
+CGKeyCode+Extensions.swift,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+ChangelogParser.swift,file
+ChangelogSectionView.swift,file
+ChecksumVerifier.swift,file
+Classic.png,file
+Config.xcconfig,file
+Contents.json,file
+Core,dir
+Credits,dir
+Custom Window Sizes,dir
+CustomActionConfigurationView.swift,file
+CustomWindowActionAnchor.swift,file
+CustomWindowActionPositionMode.swift,file
+CustomWindowActionSizeMode.swift,file
+CustomWindowActionUnit.swift,file
+CycleActionConfigurationView.swift,file
+CycleActionCoordinator.swift,file
+CycleActionCoordinatorTests.swift,file
+CycleProgressStore.swift,file
+CycleProgressStoreTests.swift,file
+Cycles.mp4,file
+DataPatcher.swift,file
+Defaults+Extensions.swift,file
+DirectionPickerView.swift,file
+DirectionSelectorCircleSegment.swift,file
+DirectionSelectorSquareSegment.swift,file
+DirectionalNavigationUtility.swift,file
+DoubleClickTimer.swift,file
+Event Monitoring,dir
+EventMonitorProtocol.swift,file
+EventTapThread.swift,file
+ExcludedAppsConfiguration.swift,file
+ExportOptions.plist,file
+Extensions,dir
+FUNDING.yml,file
+FileManager+Extensions.swift,file
+Frame 2.png,file
+GitHub-Mark-ea2971cee799.png,file
+HTTPClient.swift,file
+Helpers,dir
+ISSUE_TEMPLATE,dir
+Icon,dir
+Icon.swift,file
+IconConfiguration.swift,file
+IconManager.swift,file
+IconView.swift,file
+Info.plist,file
+InfoPlist.strings,file
+Int64+Extensions.swift,file
+InternetAccessPolicy.plist,file
+Keybind Recorder,dir
+KeybindItemView.swift,file
+KeybindResolver.swift,file
+KeybindResolverTests.swift,file
+KeybindTrigger.swift,file
+Keybinds,dir
+KeybindsConfigurationView.swift,file
+Keyboard Shortcuts.mp4,file
+Keycorder.swift,file
+LICENSE,file
+LaunchAtLoginManager.swift,file
+LocalEventMonitor.swift,file
+Localizable.xcstrings,file
+LocalizationSorter.swift,file
+Loop,dir
+Loop (GH ACTIONS).xcscheme,file
+Loop Logo.png,file
+Loop.entitlements,file
+Loop.xcodeproj,dir
+Loop.xcscheme,file
+LoopApp.swift,file
+LoopDockTile,dir
+LoopDockTilePlugin.swift,file
+LoopManager.swift,file
+LoopSupportPaths.swift,file
+LoopTests,dir
+LoopUpdaterHelper,dir
+MiddleClickTrigger.swift,file
+Migration,dir
+Migrator.swift,file
+Modal Views,dir
+MouseInteractionObserver.swift,file
+NSColor+Extensions.swift,file
+NSScreen+Extensions.swift,file
+Observers,dir
+OperatingSystemVersion+Extensions.swift,file
+OverlappingKeybindCycleTests.swift,file
+PULL_REQUEST_TEMPLATE,dir
+Padding Configuration,dir
+PaddingConfiguration.swift,file
+PaddingConfigurationView.swift,file
+PaddingPreview.swift,file
+PassiveEventMonitor.swift,file
+PickerList.swift,file
+PickerListEventMonitorManager.swift,file
+Preview Theming.mov,file
+Preview Window,dir
+Preview.mp4,file
+PreviewConfiguration.swift,file
+PreviewController.swift,file
+PreviewStartingPosition.swift,file
+PreviewView.swift,file
+PreviewViewModel.swift,file
+Private APIs,dir
+PrivateApis.swift,file
+PrivilegedInstaller.swift,file
+PrivilegedInstallerError.swift,file
+PrivilegedInstallerProtocol.swift,file
+PrivilegedInstallerService.swift,file
+README.md,file
+Radial Menu,dir
+Radial Menu Theming.mp4,file
+Radial Menu.mp4,file
+Radial Menu.png,file
+RadialLayout.swift,file
+RadialMenuAction.swift,file
+RadialMenuActionItemView.swift,file
+RadialMenuActionPickerView.swift,file
+RadialMenuActionsGuide.swift,file
+RadialMenuConfigurationView.swift,file
+RadialMenuController.swift,file
+RadialMenuView.swift,file
+RadialMenuViewModel.swift,file
+RectangleCornerRadii+Extensions.swift,file
+RectangleTranslationLayer.swift,file
+ResizeContext.swift,file
+Resources,dir
+SLSWindowTags.swift,file
+ScreenUtility.swift,file
+ScreenView.swift,file
+Selected Resize.png,file
+Settings,dir
+Settings Window,dir
+SettingsContentView.swift,file
+SettingsTab.swift,file
+SettingsWindowManager.swift,file
+ShakeEffect.swift,file
+Shared,dir
+SkyLightBridgedSPI.swift,file
+SkyLightSymbolLoader.swift,file
+SkyLightToolBelt.swift,file
+Stars (Exclusion).png,file
+Stash.mp4,file
+StashActionConfigurationView.swift,file
+StashDirection.swift,file
+StashManager.swift,file
+StashedWindowInfo.swift,file
+StashedWindowStore.swift,file
+Stashing,dir
+SystemInfo.swift,file
+SystemWindowManager.swift,file
+TheLoopTimes.swift,file
+Theming,dir
+TriggerDelayTimer.swift,file
+TriggerKeyTimeoutTimer.swift,file
+TriggerKeycorder.swift,file
+UNNotification+Extensions.swift,file
+URLCommandHandler.swift,file
+UpdateChecker.swift,file
+UpdateDownloader.swift,file
+UpdateInstaller.swift,file
+UpdateView.swift,file
+Updater,dir
+Updater.swift,file
+UpdaterAuthorizationCoordinator.swift,file
+UpdaterModels.swift,file
+Utilities,dir
+VersionDisplay.swift,file
+View+Extensions.swift,file
+Views,dir
+VisualEffectView.swift,file
+WallpaperImageFetcher.swift,file
+WallpaperProcessor.swift,file
+Window,dir
+Window Action,dir
+Window Action Indicators,dir
+Window Management,dir
+Window Manipulation,dir
+Window.swift,file
+WindowAction+Defaults.swift,file
+WindowAction+Image.swift,file
+WindowAction.swift,file
+WindowActionCache.swift,file
+WindowActionEngine.swift,file
+WindowActionIndicator.swift,file
+WindowActionIndicatorService.swift,file
+WindowDirection+LocalizedString.swift,file
+WindowDirection+Snapping.swift,file
+WindowDirection.swift,file
+WindowDragManager.swift,file
+WindowEngine.swift,file
+WindowFrameResolver.swift,file
+WindowRecords.swift,file
+WindowTransformAnimation.swift,file
+WindowUtility+FocusNavigation.swift,file
+WindowUtility.swift,file
+ZipExtractor.swift,file
+appicon_1024.png,file
+appicon_128.png,file
+appicon_16.png,file
+appicon_256.png,file
+appicon_32.png,file
+appicon_512.png,file
+appicon_64.png,file
+ar.lproj,dir
+assets,dir
+bug-report.yml,file
+config.yml,file
+crowdin-download.yml,file
+crowdin-upload.yml,file
+crowdin.yml,file
+de.lproj,dir
+dev-build.yml,file
+en.lproj,dir
+es.lproj,dir
+feature-request.yml,file
+fr.lproj,dir
+github.imageset,dir
+graphics,dir
+icon.json,file
+it.lproj,dir
+ja.lproj,dir
+jace.imageset,dir
+kai.imageset,dir
+kai.jpg,file
+kami.imageset,dir
+ko.lproj,dir
+lint.yml,file
+loop.svg,file
+loop.symbolset,dir
+loop_demo.gif,file
+main.swift,file
+menubarIcon.imageset,dir
+menubarIcon.png,file
+menubarIcon@2x.png,file
+menubarIcon@3x.png,file
+nl-BE.lproj,dir
+pl.lproj,dir
+project.pbxproj,file
+pt-BR.lproj,dir
+pull_request_template.md,file
+reset_build_number.sh,file
+ru.lproj,dir
+set_build_number.sh,file
+suggest-icon.yml,file
+workflows,dir
+xcschemes,dir
+xcshareddata,dir
+zh-Hans.lproj,dir
+zh-Hant.lproj,dir

@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+CHANGELOG,file
+CODEOWNERS,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+SECURITY.md,file
+bug_report.md,file
+dynamic-readme.yml,file
+dynamic-security.yml,file
+mac,file
+pull_request_template.md,file
+workflows,dir

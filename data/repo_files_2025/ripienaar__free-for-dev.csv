@@ -1,0 +1,7 @@
+name,type
+.github,dir
+CNAME,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+index.html,file
+logo.webp,file

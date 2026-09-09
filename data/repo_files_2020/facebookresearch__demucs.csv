@@ -1,0 +1,179 @@
+name,type
+.gitignore,file
+AM Contra - Heart Peripheral.json.gz,file
+Al James - Schoolboy Facination.json.gz,file
+Angels In Amplifiers - I'm Alright.json.gz,file
+Arise - Run Run Run.json.gz,file
+BKS - Bulldozer.json.gz,file
+BKS - Too Much.json.gz,file
+Ben Carrigan - We'll Talk About It All Tonight.json.gz,file
+Bobby Nobody - Stitch Up.json.gz,file
+Buitraker - Revo X.json.gz,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Carlos Gonzalez - A Place For Us.json.gz,file
+Cristina Vane - So Easy.json.gz,file
+Detsky Sad - Walkie Talkie.json.gz,file
+Enda Reilly - Cur An Long Ag Seol.json.gz,file
+Forkupines - Semantics.json.gz,file
+Georgia Wonder - Siren.json.gz,file
+Girls Under Glass - We Feel Alright.json.gz,file
+Hollow Ground - Ill Fate.json.gz,file
+IRM2,dir
+James Elder & Mark M Thompson - The English Actor.json.gz,file
+Juliet's Rescue - Heartbeats.json.gz,file
+LICENSE,file
+Little Chicago's Finest - My Own.json.gz,file
+Louis Cressy Band - Good Time.json.gz,file
+Lyndsey Ollard - Catching Up.json.gz,file
+M.E.R.C. Music - Knockout.json.gz,file
+MDenseLSTM.png,file
+MMDenseLSTM,dir
+Moosmusic - Big Dummy Shake.json.gz,file
+Motor Tapes - Shore.json.gz,file
+Mu - Too Bright.json.gz,file
+Nerve 9 - Pray For The Rain.json.gz,file
+OpenUnmix,dir
+PR - Happy Daze.json.gz,file
+PR - Oh No.json.gz,file
+Punkdisco - Oral Hygiene.json.gz,file
+README.md,file
+Raft Monk - Tiring.json.gz,file
+Sambasevam Shanmugam - Kaathaadi.json.gz,file
+Secretariat - Borderline.json.gz,file
+Secretariat - Over The Top.json.gz,file
+Side Effects Project - Sing With Me.json.gz,file
+Signe Jakobsen - What Have You Done To Me.json.gz,file
+Skelpolu - Resurrection.json.gz,file
+Speak Softly - Broken Man.json.gz,file
+Speak Softly - Like Horses.json.gz,file
+The Doppler Shift - Atrophy.json.gz,file
+The Easton Ellises (Baumi) - SDRNR.json.gz,file
+The Easton Ellises - Falcon 69.json.gz,file
+The Long Wait - Dark Horses.json.gz,file
+The Mountaineering Club - Mallory.json.gz,file
+The Sunshine Garcia Band - For I Am The Moon.json.gz,file
+Timboz - Pony.json.gz,file
+Tom McKenzie - Directions.json.gz,file
+Triviul feat. The Fiend - Widow.json.gz,file
+WaveUNet,dir
+We Fell From The Sky - Not You.json.gz,file
+Zeno - Signs.json.gz,file
+__init__.py,file
+__main__.py,file
+audio.py,file
+augment.py,file
+baselines,dir
+channels=64,dir
+channels=64.json,file
+channels=80,dir
+channels=80.json,file
+compressed.py,file
+context=1,dir
+context=1.json,file
+default,dir
+default.json,file
+demucs,dir
+demucs.png,file
+description.md,file
+dora.py,file
+environment-cpu.yml,file
+environment-cuda.yml,file
+evals,dir
+glu=False,dir
+glu=False.json,file
+logs,dir
+lr=0.0005,dir
+lr=0.0005 channels=64,dir
+lr=0.0005 channels=64.json,file
+lr=0.0005 channels=80,dir
+lr=0.0005 channels=80.json,file
+lr=0.0005.json,file
+lstm_layers=0,dir
+lstm_layers=0.json,file
+model.py,file
+mse=True,dir
+mse=True.json,file
+parser.py,file
+raw.py,file
+raw=musdb_raw_44_allstems,dir
+raw=musdb_raw_44_allstems samples=80000 seed=43 tasnet=True split_valid=True X=10,dir
+raw=musdb_raw_44_allstems samples=80000 seed=43 tasnet=True split_valid=True X=10.json,file
+raw=musdb_raw_44_allstems samples=80000 seed=44 tasnet=True split_valid=True X=10,dir
+raw=musdb_raw_44_allstems samples=80000 seed=44 tasnet=True split_valid=True X=10.json,file
+raw=musdb_raw_44_allstems samples=80000 seed=45 tasnet=True split_valid=True X=10,dir
+raw=musdb_raw_44_allstems samples=80000 seed=45 tasnet=True split_valid=True X=10.json,file
+raw=musdb_raw_44_allstems samples=80000 seed=46 tasnet=True split_valid=True X=10,dir
+raw=musdb_raw_44_allstems samples=80000 seed=46 tasnet=True split_valid=True X=10.json,file
+raw=musdb_raw_44_allstems samples=80000 tasnet=True split_valid=True X=10,dir
+raw=musdb_raw_44_allstems samples=80000 tasnet=True split_valid=True X=10.json,file
+raw=musdb_raw_44_allstems seed=43,dir
+raw=musdb_raw_44_allstems seed=43.json,file
+raw=musdb_raw_44_allstems seed=44,dir
+raw=musdb_raw_44_allstems seed=44.json,file
+raw=musdb_raw_44_allstems seed=45,dir
+raw=musdb_raw_44_allstems seed=45.json,file
+raw=musdb_raw_44_allstems seed=46,dir
+raw=musdb_raw_44_allstems seed=46.json,file
+raw=musdb_raw_44_allstems.json,file
+rescale=0.0,dir
+rescale=0.0 glu=False,dir
+rescale=0.0 glu=False.json,file
+rescale=0.0.json,file
+rescale=0.01,dir
+rescale=0.01.json,file
+rescale=0.05,dir
+rescale=0.05.json,file
+result_table.py,file
+results,dir
+rewrite=False,dir
+rewrite=False.json,file
+run.py,file
+run_slurm.py,file
+samples=80000 epochs=180 tasnet=True split_valid=True X=10,dir
+samples=80000 epochs=180 tasnet=True split_valid=True X=10.json,file
+samples=80000 seed=43 epochs=180 tasnet=True split_valid=True X=10,dir
+samples=80000 seed=43 epochs=180 tasnet=True split_valid=True X=10.json,file
+samples=80000 seed=44 epochs=180 tasnet=True split_valid=True X=10,dir
+samples=80000 seed=44 epochs=180 tasnet=True split_valid=True X=10.json,file
+samples=80000 seed=45 epochs=180 tasnet=True split_valid=True X=10,dir
+samples=80000 seed=45 epochs=180 tasnet=True split_valid=True X=10.json,file
+samples=80000 seed=46 epochs=180 tasnet=True split_valid=True X=10,dir
+samples=80000 seed=46 epochs=180 tasnet=True split_valid=True X=10.json,file
+seed=43,dir
+seed=43 channels=64,dir
+seed=43 channels=64.json,file
+seed=43 channels=80,dir
+seed=43 channels=80.json,file
+seed=43 lr=0.0005,dir
+seed=43 lr=0.0005 channels=64,dir
+seed=43 lr=0.0005 channels=64.json,file
+seed=43 lr=0.0005 channels=80,dir
+seed=43 lr=0.0005 channels=80.json,file
+seed=43 lr=0.0005.json,file
+seed=43.json,file
+seed=44,dir
+seed=44 channels=64,dir
+seed=44 channels=64.json,file
+seed=44 channels=80,dir
+seed=44 channels=80.json,file
+seed=44 lr=0.0005,dir
+seed=44 lr=0.0005 channels=64,dir
+seed=44 lr=0.0005 channels=64.json,file
+seed=44 lr=0.0005 channels=80,dir
+seed=44 lr=0.0005 channels=80.json,file
+seed=44 lr=0.0005.json,file
+seed=44.json,file
+seed=45,dir
+seed=45.json,file
+seed=46,dir
+seed=46.json,file
+separate.py,file
+setup.cfg,file
+tasnet.py,file
+test,dir
+test.py,file
+train.py,file
+utils.py,file
+valid_table.py,file
+waveunet.png,file

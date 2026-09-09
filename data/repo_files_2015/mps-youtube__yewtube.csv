@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+CHANGELOG,file
+CONTRIBUTING,file
+LICENSE,file
+README.rst,file
+VERSION,file
+__init__.py,file
+main.py,file
+mps_youtube,dir
+mpsyt,file
+setup.cfg,file
+setup.py,file
+terminalsize.py,file
+test,dir
+test_main.py,file

@@ -1,0 +1,81 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+Latin Hypercube Sampling.ipynb,file
+"Lime - basic usage, two class case.ipynb",file
+Lime - multiclass.ipynb,file
+Lime with Recurrent Neural Networks.ipynb,file
+MANIFEST.in,file
+README.md,file
+Submodular Pick examples.ipynb,file
+Tutorial - Faces and GradBoost.ipynb,file
+Tutorial - Image Classification Keras.ipynb,file
+Tutorial - MNIST and RF.ipynb,file
+Tutorial - continuous and categorical features.ipynb,file
+Tutorial - images - Pytorch.ipynb,file
+Tutorial - images.ipynb,file
+Tutorial_H2O_continuous_and_cat.ipynb,file
+Using lime for regression.ipynb,file
+__init__.py,file
+adult.csv,file
+bar_chart.js,file
+benchmark,dir
+binder,dir
+blog_post.md,file
+bundle.js,file
+bundle.js.map,file
+cat_mouse.jpg,file
+citation.bib,file
+co2_data.csv,file
+conf.py,file
+data,dir
+discretize.py,file
+doc,dir
+dogs.png,file
+environment.yml,file
+exceptions.py,file
+explanation.js,file
+explanation.py,file
+generic_utils.py,file
+image_from_paper.png,file
+imagenet_class_index.json,file
+images,dir
+images.png,file
+index.rst,file
+js,dir
+lime,dir
+lime.png,file
+lime.rst,file
+lime_base.py,file
+lime_image.py,file
+lime_tabular.py,file
+lime_text.py,file
+main.js,file
+multiclass.png,file
+mushroom_data.csv,file
+notebooks,dir
+package.json,file
+predict_proba.js,file
+predicted_value.js,file
+scikit_image.py,file
+setup.cfg,file
+setup.py,file
+style.css,file
+submodular_pick.py,file
+table_perf.py,file
+tabular.png,file
+test_discretize.py,file
+test_generic_utils.py,file
+test_lime_tabular.py,file
+test_lime_text.py,file
+test_scikit_image.py,file
+test_table.html,file
+tests,dir
+text_perf.py,file
+twoclass.png,file
+utils,dir
+video_screenshot.png,file
+webpack.config.js,file
+wrappers,dir

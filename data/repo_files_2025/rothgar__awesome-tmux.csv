@@ -1,0 +1,6 @@
+name,type
+.github,dir
+.gitignore,file
+README.md,file
+awesome_bot.yaml,file
+workflows,dir

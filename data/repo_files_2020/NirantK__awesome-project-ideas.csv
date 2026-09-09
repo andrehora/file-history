@@ -1,0 +1,6 @@
+name,type
+.gitignore,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+_config.yml,file

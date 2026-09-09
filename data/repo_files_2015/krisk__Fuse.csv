@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+books.json,file
+bower.json,file
+build.sh,file
+fuse-test.js,file
+fuse.js,file
+fuse.min.js,file
+package.json,file
+src,dir
+test,dir
+users.json,file

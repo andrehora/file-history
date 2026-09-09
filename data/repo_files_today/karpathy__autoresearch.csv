@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.python-version,file
+README.md,file
+analysis.ipynb,file
+prepare.py,file
+program.md,file
+progress.png,file
+pyproject.toml,file
+train.py,file
+uv.lock,file

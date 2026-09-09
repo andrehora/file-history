@@ -1,0 +1,9 @@
+name,type
+LICENSE,file
+README.md,file
+autorecon.py,file
+config,dir
+global-patterns.toml,file
+port-scan-profiles.toml,file
+requirements.txt,file
+service-scans.toml,file

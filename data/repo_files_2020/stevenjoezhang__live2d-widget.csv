@@ -1,0 +1,16 @@
+name,type
+LICENSE,file
+README.md,file
+assets,dir
+autoload.js,file
+browserstack.svg,file
+demo,dir
+demo1.html,file
+demo2.html,file
+live2d.min.js,file
+screenshot-1.png,file
+screenshot-2.png,file
+screenshot-3.png,file
+waifu-tips.js,file
+waifu-tips.json,file
+waifu.css,file

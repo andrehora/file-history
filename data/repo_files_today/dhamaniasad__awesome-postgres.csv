@@ -1,0 +1,7 @@
+name,type
+.github,dir
+.travis.yml,file
+CONTRIBUTING.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file

@@ -1,0 +1,12 @@
+name,type
+.github,dir
+Dockerfile,file
+LICENSE,file
+README.md,file
+action.yml,file
+ci.yml,file
+entrypoint.sh,file
+images,dir
+output-result.png,file
+ssh-workflow.png,file
+workflows,dir

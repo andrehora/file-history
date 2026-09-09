@@ -1,0 +1,6 @@
+name,type
+.github,dir
+.gitmodules,file
+FUNDING.yml,file
+LICENSE.txt,file
+README.md,file

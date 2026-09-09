@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+CNAME,file
+Makefile,file
+PULL_REQUEST_TEMPLATE.md,file
+code-of-conduct.md,file
+contributing.md,file
+docs,dir
+favicon.ico,file
+img,dir
+license,file
+mkdocs.yml,file
+readme.md,file
+terminals_are_sexy.sh,file

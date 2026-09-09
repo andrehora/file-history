@@ -1,0 +1,125 @@
+name,type
+.github,dir
+AI Studio vibe-coder.txt,file
+Agent CLI Prompt 2025-08-07.txt,file
+Agent Prompt 2.0.txt,file
+Agent Prompt 2025-09-03.txt,file
+Agent Prompt v1.0.txt,file
+Agent Prompt v1.2.txt,file
+Agent Prompt.txt,file
+Agent Tools v1.0.json,file
+Agent Tools.json,file
+Agent loop.txt,file
+Amp,dir
+Anthropic,dir
+Antigravity,dir
+Augment Code,dir
+Bolt,dir
+Builder Prompt.txt,file
+Builder Tools.json,file
+Chat Prompt.txt,file
+Claude Code,dir
+Claude Code 2.0.txt,file
+Claude Fable 5.txt,file
+Claude Sonnet 4.6.txt,file
+Claude Sonnet 5 Tools.txt,file
+Claude Sonnet 5.txt,file
+Claude for Chrome,dir
+Cline,dir
+Cluely,dir
+CodeBuddy Prompts,dir
+Codex CLI,dir
+Comet Assistant,dir
+Craft Prompt.txt,file
+Cursor Prompts,dir
+Decision-making prompt.txt,file
+DeepWiki Prompt.txt,file
+Default Prompt.txt,file
+Devin AI,dir
+DocumentAction.txt,file
+Emergent,dir
+Enterprise Prompt.txt,file
+ExplainAction.txt,file
+FUNDING.yml,file
+Fast Prompt.txt,file
+Gemini,dir
+Gemini CLI,dir
+Google,dir
+Junie,dir
+Kiro,dir
+LICENSE.md,file
+Leap.new,dir
+Lovable,dir
+Lumo,dir
+Manus Agent Tools & Prompt,dir
+MessageAction.txt,file
+Mode_Clasifier_Prompt.txt,file
+Modules.txt,file
+NotionAi,dir
+Open Source prompts,dir
+Orchids.app,dir
+Perplexity,dir
+PlaygroundAction.txt,file
+Poke,dir
+Poke agent.txt,file
+Poke_p1.txt,file
+Poke_p2.txt,file
+Poke_p3.txt,file
+Poke_p4.txt,file
+Poke_p5.txt,file
+Poke_p6.txt,file
+PreviewAction.txt,file
+Prompt Wave 11.txt,file
+Prompt.txt,file
+Prompts.txt,file
+Qoder,dir
+Quest Action.txt,file
+Quest Design.txt,file
+README.md,file
+Replit,dir
+RooCode,dir
+Same.dev,dir
+Sonnet 4.5 Prompt.txt,file
+Spec_Prompt.txt,file
+System Prompt.txt,file
+System.txt,file
+Tools Wave 11.txt,file
+Tools.json,file
+Trae,dir
+Traycer AI,dir
+VSCode Agent,dir
+Vibe_Prompt.txt,file
+Warp.dev,dir
+Windsurf,dir
+Xcode,dir
+Z.ai Code,dir
+assets,dir
+chat-titles.txt,file
+claude-4-sonnet-agent-prompts.txt,file
+claude-4-sonnet-tools.json,file
+claude-4-sonnet.yaml,file
+claude-sonnet-4.txt,file
+dia,dir
+gemini-2.5-pro.txt,file
+google-gemini-cli-system-prompt.txt,file
+gpt-4.1.txt,file
+gpt-4o.txt,file
+gpt-5-agent-prompts.txt,file
+gpt-5-mini.txt,file
+gpt-5-tools.json,file
+gpt-5.txt,file
+gpt-5.yaml,file
+latitude-dark.png,file
+nes-tab-completion.txt,file
+openai-codex-cli-system-prompt-20250820.txt,file
+phase_mode_prompts.txt,file
+phase_mode_tools.json,file
+plan_mode_prompts,file
+plan_mode_tools.json,file
+planning-mode.txt,file
+prompt.txt,file
+tembo-dark.png,file
+tembo-light.png,file
+tools.json,file
+v0 Prompts and Tools,dir
+view-thread-yaml.png,file

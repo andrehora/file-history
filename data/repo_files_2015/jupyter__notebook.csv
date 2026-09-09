@@ -1,0 +1,328 @@
+name,type
+.gitignore,file
+.mailmap,file
+404.html,file
+ANSI Test.ipynb,file
+Beat Frequencies.ipynb,file
+CSS Reference.ipynb,file
+Connecting with the Qt Console.ipynb,file
+Converting Notebooks With nbconvert.ipynb,file
+Custom Keyboard Shortcuts.ipynb,file
+Custom Widget - Hello World.ipynb,file
+Date Picker Widget.ipynb,file
+Dockerfile,file
+Exploring Graphs.ipynb,file
+Export As (nbconvert).html,file
+Export As (nbconvert).ipynb,file
+Factoring.ipynb,file
+File Upload Widget.ipynb,file
+FrontendKernel.graffle,dir
+FrontendKernel.png,file
+IPython,dir
+Image Browser.ipynb,file
+Image Processing.ipynb,file
+Importing Notebooks.ipynb,file
+Index.ipynb,file
+Interactive Widgets,dir
+JavaScript Notebook Extensions.ipynb,file
+Lorenz Differential Equations.ipynb,file
+MultilanguageKernels.graffle,file
+MultilanguageKernels.png,file
+Nonblocking Console.ipynb,file
+Notebook,dir
+Notebook Basics.ipynb,file
+ParallelKernels.graffle,file
+ParallelKernels.png,file
+README.md,file
+Running Code.ipynb,file
+Running the Notebook Server.ipynb,file
+Test Output Callbacks.ipynb,file
+Typesetting Equations.ipynb,file
+Using Interact.ipynb,file
+Using nbconvert as a Library.ipynb,file
+Variable Inspector.ipynb,file
+VizInteractCompute.graffle,file
+VizInteractCompute.png,file
+What is the IPython Notebook.ipynb,file
+Widget Basics.ipynb,file
+Widget Events.ipynb,file
+Widget List.ipynb,file
+Widget Styling.ipynb,file
+WidgetArch.graffle,file
+WidgetArch.png,file
+WidgetModelView.graffle,file
+WidgetModelView.png,file
+Working With Markdown Cells.ipynb,file
+__init__.py,file
+__main__.py,file
+_static,dir
+about.js,file
+actions.js,file
+allow76.py,file
+altuploadform.less,file
+animation.m4v,file
+ansicolors.less,file
+api_handlers.py,file
+auth,dir
+base,dir
+cell.js,file
+cell.less,file
+celltoolbar.js,file
+celltoolbar.less,file
+celltoolbarpresets,dir
+clusterlist.js,file
+clustermanager.py,file
+clusters,dir
+codecell.js,file
+codecell.less,file
+codemirror-ipython.js,file
+codemirror-ipythongfm.js,file
+codemirror.less,file
+comm.js,file
+command_mode.png,file
+completer.js,file
+completer.less,file
+config,dir
+config.js,file
+console,dir
+contents,dir
+contents.js,file
+contexthint.js,file
+css,dir
+custom,dir
+custom.css,file
+custom.js,file
+dashboard_nav.js,file
+dashboard_running_tab.png,file
+data.plist,file
+default.js,file
+deletecell.js,file
+dialog.js,file
+display_image.js,file
+docs,dir
+dualmode.js,file
+dualmode_arrows.js,file
+dualmode_cellinsert.js,file
+dualmode_cellmode.js,file
+dualmode_clipboard.js,file
+dualmode_execute.js,file
+dualmode_markdown.js,file
+dualmode_merge.js,file
+edit,dir
+edit.html,file
+edit.less,file
+edit_mode.png,file
+editor.js,file
+empty_arrow_keys.js,file
+error.html,file
+error.less,file
+eventful.py,file
+events.js,file
+example.js,file
+examples,dir
+execute_code.js,file
+exporters,dir
+favicon.ico,file
+filemanager.py,file
+files,dir
+flexbox.less,file
+git-hooks,dir
+handlers.py,file
+highlight-refs.less,file
+highlight.js,file
+highlight.less,file
+html,dir
+image1.png,file
+images,dir
+index.rst,file
+init.js,file
+inject_js.js,file
+install-hooks.sh,file
+interaction.py,file
+interrupt.js,file
+iptest.py,file
+iptestcontroller.py,file
+ipython.less,file
+ipython.min.css,file
+ipython_logo.png,file
+ipython_security.asc,file
+isolated_svg.js,file
+js,dir
+jsdoc_config.json,file
+jsdoc_plugin.js,file
+kernel.js,file
+kernellist.js,file
+kernelmanager.py,file
+kernels,dir
+kernelselector.js,file
+kernelselector.less,file
+kernelspecs,dir
+keyboard.js,file
+keyboardmanager.js,file
+launchnotebook.py,file
+less,dir
+list_pyfiles.ipy,file
+list_subdirs.ipy,file
+log.py,file
+login.html,file
+login.less,file
+login.py,file
+loginmain.js,file
+loginwidget.js,file
+logo.png,file
+logout.html,file
+logout.less,file
+logout.py,file
+logoutmain.js,file
+main.js,file
+maintoolbar.js,file
+manager.js,file
+manager.py,file
+markdown.js,file
+mathjaxutils.js,file
+menubar.js,file
+menubar.less,file
+menubar_toolbar.png,file
+merge_cells_api.js,file
+misc.js,file
+mixins.less,file
+mynotebook.ipynb,file
+namespace.js,file
+nbconvert,dir
+nbconvert.rst,file
+nbconvert_arch.png,file
+nbextensions.py,file
+nbformat.rst,file
+nbpackage,dir
+nbs,dir
+newnotebook.js,file
+notebook,dir
+notebook.html,file
+notebook.js,file
+notebook.less,file
+notebook.rst,file
+notebookapp.py,file
+notebooklist.js,file
+notificationarea.js,file
+notificationarea.less,file
+notifications.js,file
+notificationwidget.js,file
+notificationwidget.less,file
+other.ipynb,file
+output.js,file
+outputarea.js,file
+outputarea.less,file
+override.css,file
+page.html,file
+page.js,file
+page.less,file
+pager.js,file
+pager.less,file
+post-checkout,file
+post-merge,file
+prompt_numbers.js,file
+public_server.rst,file
+python.py,file
+python_logo.svg,file
+qt,dir
+quickhelp.js,file
+quickhelp.less,file
+rawcell.js,file
+renderedhtml.less,file
+roundtrip.js,file
+safe_append_output.js,file
+save.js,file
+savewidget.js,file
+savewidget.less,file
+scrollmanager.js,file
+security,dir
+security.js,file
+security.rst,file
+serialize.js,file
+services,dir
+session.js,file
+sessionlist.js,file
+sessionmanager.py,file
+sessions,dir
+setup.py,file
+setupbase.py,file
+shutdown.js,file
+slideshow.js,file
+source,dir
+static,dir
+style,dir
+style.less,file
+style.min.css,file
+style_noapp.less,file
+tasks.py,file
+templates,dir
+terminado.js,file
+terminal,dir
+terminal.html,file
+terminal.less,file
+terminallist.js,file
+test_app.py,file
+test_config_api.py,file
+test_contents_api.py,file
+test_files.py,file
+test_hist.sqlite,file
+test_interaction.py,file
+test_io.py,file
+test_kernels_api.py,file
+test_kernelspecs_api.py,file
+test_manager.py,file
+test_nbconvert_api.py,file
+test_nbconvert_handlers.py,file
+test_nbextensions.py,file
+test_notebookapp.py,file
+test_paths.py,file
+test_serialize.py,file
+test_sessionmanager.py,file
+test_sessions_api.py,file
+test_tree_handler.py,file
+test_utils.py,file
+testing,dir
+tests,dir
+textcell.js,file
+textcell.less,file
+toolbar.js,file
+toolbar.less,file
+tools,dir
+tooltip.js,file
+tooltip.less,file
+tour.js,file
+tree,dir
+tree.html,file
+tree.less,file
+util.js,file
+utils,dir
+utils.js,file
+utils.py,file
+variables.less,file
+widget.js,file
+widget.py,file
+widget_bool.js,file
+widget_bool.py,file
+widget_box.js,file
+widget_box.py,file
+widget_button.js,file
+widget_button.py,file
+widget_float.js,file
+widget_float.py,file
+widget_image.js,file
+widget_image.py,file
+widget_int.js,file
+widget_int.py,file
+widget_link.js,file
+widget_link.py,file
+widget_output.js,file
+widget_output.py,file
+widget_selection.js,file
+widget_selection.py,file
+widget_selectioncontainer.js,file
+widget_selectioncontainer.py,file
+widget_string.js,file
+widget_string.py,file
+widgets,dir
+widgets.less,file
+zmqhandlers.py,file

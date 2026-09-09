@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.npmignore,file
+22.gif,file
+HISTORY.md,file
+LICENSE.md,file
+README.md,file
+back.gif,file
+bin,dir
+example,dir
+gifify,file
+index.js,file
+movie.ass,file
+movie.mp4,file
+package.json,file
+screencast.gif,file
+yarn.lock,file

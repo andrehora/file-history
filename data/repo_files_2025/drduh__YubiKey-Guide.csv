@@ -1,0 +1,15 @@
+name,type
+.github,dir
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+diceware-vt.patch,file
+flake.lock,file
+flake.nix,file
+media,dir
+passphrase.csv,file
+passphrase.html,file
+reset-yubikey,file
+schema_gpg.png,file
+schema_gpg.pptx,file
+switch-to-backup-yubikey,file

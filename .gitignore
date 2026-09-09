@@ -1,8 +1,3 @@
-# Script output. Every script reads and writes under data/; data.js is built
-# from it and is tracked, since the page loads it.
-data/
-*.csv
-
 # Python
 __pycache__/
 *.py[cod]

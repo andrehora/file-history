@@ -1,0 +1,409 @@
+name,type
+.github,dir
+.gitignore,file
+00. foundations.md,file
+00. why C++ and how ML frameworks work.md,file
+01. AI for finance.md,file
+01. arrays and hashing.md,file
+01. classical machine learning.md,file
+01. counting.md,file
+01. differential calculus.md,file
+01. digital signal processing.md,file
+01. discrete maths.md,file
+01. fundamentals.md,file
+01. geometric deep learning.md,file
+01. hardware fundamentals.md,file
+01. image fundamentals.md,file
+01. linguistic foundations.md,file
+01. linux and CMD.md,file
+01. matrix properties.md,file
+01. multimodal representations.md,file
+01. perception.md,file
+01. quantisation.md,file
+01. quantum machine learning.md,file
+01. systems design fundamentals.md,file
+01. vector spaces.md,file
+02. ARM and NEON.md,file
+02. automatic speech recognition.md,file
+02. cloud computing.md,file
+02. computer architecture.md,file
+02. convolutional networks.md,file
+02. efficient architectures.md,file
+02. git and repository management.md,file
+02. gradient machine learning.md,file
+02. graph theory.md,file
+02. integral calculus.md,file
+"02. linked lists, stacks, and queues.md",file
+02. matrix types.md,file
+02. measures.md,file
+02. neuromorphic computing.md,file
+02. probability concepts.md,file
+02. protein design.md,file
+02. robot learning.md,file
+02. text processing and classic NLP.md,file
+02. vector properties.md,file
+02. vision language models.md,file
+03. codebase design.md,file
+03. datacentres in space.md,file
+03. deep learning.md,file
+03. distributions.md,file
+03. drug discovery.md,file
+03. embeddings and sequence models.md,file
+03. graph neural networks.md,file
+03. image and video tokenisation.md,file
+03. large scale infrastructure.md,file
+03. multivariate calculus.md,file
+03. norms and metrics.md,file
+03. object detection and segmentation.md,file
+03. operating systems.md,file
+03. operations.md,file
+03. sampling.md,file
+03. serving and batching.md,file
+03. text to speech and voice.md,file
+03. trees.md,file
+03. vision-language-action models.md,file
+03. x86 and AVX.md,file
+04. GPU architecture and CUDA.md,file
+04. ML systems design.md,file
+04. agentic systems.md,file
+04. bayesian.md,file
+04. concurrency and parallelism.md,file
+04. cross-modal generation.md,file
+04. decentralised AI.md,file
+04. edge inference.md,file
+04. function approximation.md,file
+04. graph attention networks.md,file
+04. graphs.md,file
+04. hypothesis testing.md,file
+04. linear transformations.md,file
+04. products.md,file
+04. reinforcement learning.md,file
+04. self-driving.md,file
+04. speaker and audio analysis.md,file
+04. testing and quality assurance.md,file
+04. transformers and language models.md,file
+04. vision transformers and generation.md,file
+05. 3d graph networks.md,file
+05. ML design examples.md,file
+05. advanced text generation.md,file
+05. basis and duality.md,file
+05. brain machine interfaces.md,file
+05. decompositions.md,file
+05. deployment and devops.md,file
+05. distributed deep learning.md,file
+05. healthcare.md,file
+05. inference.md,file
+05. information theory.md,file
+05. optimisation.md,file
+05. programming languages.md,file
+05. scaling and deployment.md,file
+05. sorting and search.md,file
+05. source separation and noise.md,file
+05. space and extreme robotics.md,file
+"05. triton, TPUs and pallax.md",file
+05. unified multimodal architectures.md,file
+05. video and 3D vision.md,file
+06. RISC-V and embedded systems.md,file
+07. vulkan compute and cross-platform GPU.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+ab_testing.svg,file
+action_tokenisation.svg,file
+activation_functions.svg,file
+actor_critic.svg,file
+additive_inverse.svg,file
+amdahl_serial_bottleneck.svg,file
+any_to_any_architectures.svg,file
+area_under_curve.svg,file
+asr_pipeline.svg,file
+attention_alignment.svg,file
+attention_captioning.svg,file
+attention_sparsity_patterns.svg,file
+audio_spectrogram_transformer.svg,file
+audio_visual_correspondence.svg,file
+audio_waveform.svg,file
+autonomous_driving_stack.svg,file
+bag_of_words.svg,file
+basis_transform.svg,file
+bayes_components.svg,file
+beamforming.svg,file
+bernoulli_binomial.svg,file
+bert_mlm.svg,file
+bev_fusion_pipeline.svg,file
+bidirectional_rnn.svg,file
+bio_tagging.svg,file
+cache_aside_pattern.svg,file
+cap_theorem.svg,file
+central_limit_theorem.svg,file
+chain_rule.svg,file
+chapter 01 - vectors,dir
+chapter 02 - matrices,dir
+chapter 03 - calculus,dir
+chapter 04 - statistics,dir
+chapter 05 - probability,dir
+chapter 06 - machine learning,dir
+chapter 07 - computational linguistics,dir
+chapter 08 - computer vision,dir
+chapter 09 - audio and speech,dir
+chapter 10 - multimodal learning,dir
+chapter 11 - autonomous systems,dir
+chapter 12 - graph neural networks,dir
+chapter 13 - computing and OS,dir
+chapter 14 - data structures and algorithms,dir
+chapter 15 - production software engineering,dir
+chapter 16 - SIMD and GPU programming,dir
+chapter 17 - AI inference,dir
+chapter 18 - ML systems design,dir
+chapter 19 - applied AI,dir
+chapter 20 - bleeding edge AI,dir
+clip_contrastive_matrix.svg,file
+cloud_service_layers.svg,file
+cnn_convolution.svg,file
+cocktail_party.svg,file
+codebook_collapse.svg,file
+cofactor.svg,file
+column_space.svg,file
+common_distributions.svg,file
+commutativity.svg,file
+compilation_pipeline.svg,file
+concurrency_vs_parallelism.svg,file
+conditional_probability.svg,file
+confidence_interval.svg,file
+conformer_block.svg,file
+constituency_tree.svg,file
+container_vs_vm.svg,file
+continuous_vs_discrete_tokens.svg,file
+contrastive_temperature.svg,file
+conv_tasnet.svg,file
+convex_nonconvex.svg,file
+correlation_scatter.svg,file
+counting_outfits.svg,file
+cpu_pipeline.svg,file
+critical_points.svg,file
+crnn_ocr_pipeline.svg,file
+cross_modal_generation_overview.svg,file
+ctc_alignment.svg,file
+dalle_autoregressive_pipeline.svg,file
+data_model_parallelism.svg,file
+deadlock_cycle.svg,file
+decision_tree_split.svg,file
+deeplab_aspp.svg,file
+densenet_block.svg,file
+dependency_tree.svg,file
+deploy-docs.yml,file
+depthwise_separable_conv.svg,file
+detection_boxes.svg,file
+determinant.svg,file
+difference_quotient.svg,file
+diffusion_process.svg,file
+distribution_shift_bc.svg,file
+distribution_types.svg,file
+distributivity.svg,file
+dit_architecture.svg,file
+dot_product.svg,file
+dual_vs_fusion_encoder.svg,file
+earth_mars_delay.svg,file
+efficientnet_scaling.svg,file
+eigenvector.svg,file
+ensemble_methods.svg,file
+faster_rcnn.svg,file
+fcos_detection.svg,file
+feature_store.svg,file
+five_geometric_domains.svg,file
+flamingo_architecture.svg,file
+focal_loss.svg,file
+fpn_pyramid.svg,file
+fraud_detection_pipeline.svg,file
+fusion_strategies.svg,file
+gat_attention_weights.svg,file
+gaussian_elimination.svg,file
+generation_evaluation_metrics.svg,file
+gpu_cluster_topology.svg,file
+grad_cam.svg,file
+gradient_contour.svg,file
+gradient_descent_landscape.svg,file
+graph_adjacency_matrix.svg,file
+graph_laplacian_smoothness.svg,file
+grounding_coordinate_tokens.svg,file
+hifi_gan_generator.svg,file
+hmm_structure.svg,file
+human_vectors.svg,file
+hypothesis_test.svg,file
+ieee754_float.svg,file
+image_histogram.svg,file
+image_pyramid.svg,file
+image_tokenisation_overview.svg,file
+image_tokeniser_comparison.svg,file
+images,dir
+inception_module.svg,file
+index.ts,file
+instructpix2pix_pipeline.svg,file
+invariance_vs_equivariance.svg,file
+javascripts,dir
+joint_embedding_space.svg,file
+kl_divergence.svg,file
+kmeans_clustering.svg,file
+lagrange_multiplier.svg,file
+lidar_time_of_flight.svg,file
+line_equation.svg,file
+linear_regression_fit.svg,file
+llava_architecture.svg,file
+llms.txt,file
+lms_adaptive_filter.svg,file
+load_balancer.svg,file
+logo.png,file
+lora_decomposition.svg,file
+lu_decomposition.svg,file
+magnitude_direction.svg,file
+markov_chain.svg,file
+mask_rcnn.svg,file
+mathjax.js,file
+matrix_rank.svg,file
+matrix_trace.svg,file
+mcp,dir
+mdp_agent_loop.svg,file
+mel_filterbank.svg,file
+memory_hierarchy.svg,file
+message_passing_gnn.svg,file
+mfcc_pipeline.svg,file
+mha_gqa_mqa.svg,file
+microservices_architecture.svg,file
+mkdocs.yml,file
+ml_lifecycle.svg,file
+mla_vs_gqa.svg,file
+mle_vs_map.svg,file
+moe_layer.svg,file
+moe_routing.svg,file
+moments_shape.svg,file
+monte_carlo_pi.svg,file
+morpheme_tree.svg,file
+multimodal_action_distribution.svg,file
+multimodal_agent_loop.svg,file
+multimodal_overview.svg,file
+multimodal_tokenisation_sequence.svg,file
+multimodal_world_model.svg,file
+naive_bayes_classify.svg,file
+newtons_method.svg,file
+normal_empirical.svg,file
+normalization_types.svg,file
+occupancy_vs_bbox.svg,file
+ocr_free_document_understanding.svg,file
+open_vs_closed_loop.svg,file
+optical_flow.svg,file
+optimizer_memory.svg,file
+optimizer_muon.svg,file
+optimizer_trajectories.svg,file
+orthogonal_vectors.svg,file
+over_smoothing_gnn.svg,file
+p_np_complexity.svg,file
+package.json,file
+paged_attention.svg,file
+parallel_vectors.svg,file
+partial_derivative.svg,file
+pca.svg,file
+permutation_vs_combination.svg,file
+pid_response.svg,file
+pinhole_camera.svg,file
+polynomial_buildup.svg,file
+precision_formats_memory.svg,file
+process_states.svg,file
+pyodide-runner.css,file
+pyodide-runner.js,file
+quantisation_granularity.svg,file
+quartiles_boxplot.svg,file
+rag_architecture.svg,file
+random_variable.svg,file
+receptive_field.svg,file
+recommendation_pipeline.svg,file
+reflection.svg,file
+residual_quantisation.svg,file
+resnet_block.svg,file
+retrieval_recall_at_k.svg,file
+reynolds_flocking.svg,file
+rgb_channels.svg,file
+ring_allreduce.svg,file
+rlhf_pipeline.svg,file
+rnn_lstm_cell.svg,file
+robot_arm_fk.svg,file
+rope_rotation.svg,file
+rotation.svg,file
+sae_autonomy_levels.svg,file
+sampling_aliasing.svg,file
+sampling_methods.svg,file
+scalar_multiplication.svg,file
+scaling.svg,file
+scaling_laws.svg,file
+scaling_vlms_comparison.svg,file
+se3_equivariance.svg,file
+semantic_segmentation.svg,file
+sensor_comparison.svg,file
+seq2seq_architecture.svg,file
+shared_autonomy_spectrum.svg,file
+shared_backbone_multimodal.svg,file
+shearing.svg,file
+sigmoid_logistic.svg,file
+sim_to_real.svg,file
+sobel_edges.svg,file
+social_network_matrix.svg,file
+sparse_attention_patterns.svg,file
+sparse_dense.svg,file
+speaker_diarisation.svg,file
+speaker_verification.svg,file
+spectrogram_stft.svg,file
+speculative_decoding.svg,file
+src,dir
+ssm_dual_view.svg,file
+stable_diffusion_architecture.svg,file
+stack_vs_heap.svg,file
+staged_multimodal_training.svg,file
+static_vs_continuous_batching.svg,file
+stylesheets,dir
+subspaces.svg,file
+surprisal_entropy.svg,file
+svd.svg,file
+svm_margin.svg,file
+swarm_consensus.svg,file
+swin_shifted_windows.svg,file
+tacotron2_architecture.svg,file
+tangent_line.svg,file
+taylor_approximation.svg,file
+tcp_ip_layers.svg,file
+td_update.svg,file
+temporal_compression_strategies.svg,file
+text_diffusion.svg,file
+text_to_audio_pipeline.svg,file
+text_to_video_pipeline.svg,file
+textcnn_architecture.svg,file
+tokenisation_comparison.svg,file
+training_memory_breakdown.svg,file
+transformer_block.svg,file
+transformer_paradigms.svg,file
+tsconfig.json,file
+tts_pipeline.svg,file
+type_errors.svg,file
+unet_architecture.svg,file
+unified_multimodal_overview.svg,file
+unified_vision_language_tokens.svg,file
+variance_spread.svg,file
+vector_3d.svg,file
+vector_addition.svg,file
+vector_equality.svg,file
+venn_diagram.svg,file
+vgg_architecture.svg,file
+video_3d_vqvae.svg,file
+visual_token_pipeline.svg,file
+vit_pipeline.svg,file
+vla_architecture.svg,file
+vlm_taxonomy.svg,file
+voice_conversion_pipeline.svg,file
+vqa_pipeline.svg,file
+vqgan_training.svg,file
+vqvae_architecture.svg,file
+wav2vec2_pretraining.svg,file
+word2vec_architectures.svg,file
+workflows,dir
+xvector_architecture.svg,file
+yolo_grid.svg,file
+zero_shot_classification.svg,file
+zero_vector.svg,file

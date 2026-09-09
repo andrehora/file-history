@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+canvas.py,file
+chat_interface.py,file
+gradio_app.py,file
+lib_omost,dir
+memory_management.py,file
+pipeline.py,file
+requirements.txt,file

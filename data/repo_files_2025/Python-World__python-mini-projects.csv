@@ -1,0 +1,977 @@
+name,type
+.DS_Store,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.nojekyll,file
+.replit,file
+1.jpg,file
+2.jpg,file
+2021-11-17.log,file
+2021-11-17.txt,file
+3.jpg,file
+4.jpg,file
+5.jpg,file
+6.jpg,file
+7.jpg,file
+8.jpg,file
+Alarm clock,dir
+All_links_from_given_webpage,dir
+Ascii_art,dir
+Audio-book.py,file
+AudioBook,dir
+Baidu_POI_crawl,dir
+Battery_notification,dir
+Bill.PNG,file
+Billing_system,dir
+Bouncing_ball_simulator,dir
+CODE_OF_CONDUCT.md,file
+Calculate_age,dir
+Captcha_Genrator,dir
+Captcha_Genrator.py,file
+Capture_Video_Frames,dir
+Carnival.ogg,file
+Check_website_connectivity,dir
+ChelseaMarketsr.ttf,file
+Cli_todo,dir
+Compute_IoU,dir
+Compute_IoU.py,file
+Convert_JPEG_to_PNG,dir
+Convert_JSON_to_CSV,dir
+Convert_XML_To_JSON,dir
+Convert_a_image_to_pdf,dir
+Convert_numbers_to_word,dir
+Countdown_timer,dir
+CountryCodeData.xlsx,file
+Create_a_script_to_encrypt_files_and_folder,dir
+Create_a_simple_stopwatch,dir
+Create_calculator_app,dir
+Crusade.ogg,file
+Currency_converter,dir
+Customer_loan_repayment_problem,dir
+Decimal_to_binary_convertor_and_vice_versa,dir
+DejaVuSanssr.ttf,file
+Diff_Util,dir
+Digital Clock.PNG,file
+Digital_clock,dir
+Dns_record,dir
+Dominant_color,dir
+Download_images_from_website,dir
+Drowsiness detection,dir
+Duplicate files remover,dir
+EasyVideoPlayer,dir
+EasyVideoPlayer.py,file
+Easy_cartoonify,dir
+Encrypt_and_decrypt_text,dir
+Enhanced_Capture_Video_Frames_Test,file
+Enhanced_Currency_converter,file
+Extract_zip_files,dir
+Fetch HTTP status code,dir
+Fetch_and_store_tweets,dir
+Fetch_current_weather,dir
+Fetch_open_ports,dir
+Find_imdb_rating,dir
+Find_out_hostname_and_ip_address,dir
+GUI Rock-Paper-Scissors Game,dir
+Games,dir
+Geocoding,dir
+Get_meta_information_of_images,dir
+Get_wifi_password,dir
+Hashing_passwords,dir
+Hello,dir
+Hello.py,file
+Hostname_IPaddress.py,file
+ISSUE_TEMPLATE.md,file
+Image_watermark,dir
+Images,dir
+Instagram_profile,dir
+InstgramProfile.py,file
+Internet_connection_check,dir
+JPGtoPNG.py,file
+LICENSE,file
+Language_translator,dir
+Leap_Year_Checker,dir
+MasterMind,dir
+Mastermind_GUIinterface.py,file
+Merge_csv_files,dir
+Merge_pdfs,dir
+Movie Information Scraper,dir
+Multi_language_OCR,dir
+Network Usage Tracker,dir
+News_website_scraper,dir
+Notebooks,dir
+Number_guessing_game,dir
+One_month_into_the_MLH_Fellowship.txt,file
+One_stop_guide_to_Google_Summer_of_Code.txt,file
+Organized_download_folder_with_different_categories,dir
+PDF to MP3,dir
+PDF__TO__MP3.py,file
+PNGtoJPG.py,file
+PULL_REQUEST_TEMPLATE.md,file
+Password_generator,dir
+Plagarism_checker,dir
+PowerOptions.py,file
+Py_carbon_clips,dir
+Python_auto_draw,dir
+Qr_code_generator,dir
+QuizGame.py,file
+README.MD,file
+README.md,file
+README_TEMPLATE.md,file
+Random_Wikipedia_Article,dir
+Random_password_generator,dir
+Random_word_from_list,dir
+Random_word_from_list.py,file
+Readme.md,file
+Recursive_password_generator,dir
+Reduce_image_file_size,dir
+Renaissance.ogg,file
+Rock-Paper-Scissors Game.py,file
+RockPaperScissors_Game,dir
+Rock_Paper_Scissors_Game.py,file
+S3_File_Upload,dir
+Scrape_Hacker_News,dir
+Scrape_quotes,dir
+Scraping Medium Articles,dir
+Screenshot.png,file
+Screenshot_20200910-134857.png,file
+Send_email_from_csv,dir
+Sending_mail.py,file
+Set_Alarm,dir
+Shot.png,file
+Shutdown_or_restart_your_device,dir
+Sine_Wave,dir
+Snake Game,dir
+Snapshot_of_given_website,dir
+Solver_linear_equations,dir
+Space_bullet_shooter_game,dir
+SpeakingDictionary.py,file
+Speaking_Dictionary,dir
+Speech_to_text,dir
+SpeedGameBgm.mp3,file
+Speed_Game,dir
+Spell_checker,dir
+Split_File,dir
+Split_a_video_file_by_given_time_period,dir
+Split_folder_into_subfolders,dir
+Store_emails_in_csv,dir
+String_search_from_multiple_files,dir
+Terminal_Based_Hangman_Game,dir
+Terminal_progress_bar_with_images_resizing,dir
+Text_to_speech,dir
+Textfile_analysis,dir
+The_Pros_and_Cons_of_Open_Source_Software.txt,file
+Tic_tac_toe,dir
+Tic_tac_toe_with_ai,dir
+Time_to_load_website,dir
+Todo_app,dir
+Unique_words_in_a_file,dir
+Unstructured Supplemenrary  Service Data,dir
+Variations.ogg,file
+Web_page_summation,dir
+Web_scraping_a_youtube_comment,dir
+Website_blocker,dir
+Wifi_windows_password_displayer,dir
+Wikipedia_search_wordcloud,dir
+WishList,dir
+Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper,dir
+Write_script_to_compress_folder_and_files,dir
+Write_script_to_move_files_into_alphabetically_ordered_folder,dir
+XKCD_downloader,dir
+Zip_Bruter,dir
+__init__.py,file
+__pycache__,dir
+_config.yml,file
+abc.txt,file
+ad 2.png,file
+ad.png,file
+ae 2.png,file
+ae.png,file
+aes_encode.py,file
+af 2.png,file
+af.png,file
+ag 2.png,file
+ag.png,file
+ai 2.png,file
+ai.png,file
+al 2.png,file
+al.png,file
+alarm.py,file
+alarm.wav,file
+alarm_clock.py,file
+am 2.png,file
+am.png,file
+animated_barchart.ipynb,file
+ao 2.png,file
+ao.png,file
+app.py,file
+aq 2.png,file
+aq.png,file
+ar 2.png,file
+ar.png,file
+as 2.png,file
+as.png,file
+assets,dir
+at 2.png,file
+at.png,file
+au 2.png,file
+au.png,file
+author_utils.py,file
+aw 2.png,file
+aw.png,file
+ax 2.png,file
+ax.png,file
+az 2.png,file
+az.png,file
+ba 2.png,file
+ba.png,file
+background-img.jpg,file
+background_linux.py,file
+background_windows.py,file
+ball.png,file
+ball_bounce.py,file
+base.html,file
+battery.py,file
+bb 2.png,file
+bb.png,file
+bd 2.png,file
+bd.png,file
+be 2.png,file
+be.png,file
+bf 2.png,file
+bf.png,file
+bg 2.png,file
+bg.png,file
+bg.wav,file
+bh 2.png,file
+bh.png,file
+bi 2.png,file
+bi.png,file
+biling_system.py,file
+birthDateToCurrentAge.py,file
+bj 2.png,file
+bj.png,file
+bl 2.png,file
+bl.png,file
+blank.yml,file
+bm 2.png,file
+bm.png,file
+bn 2.png,file
+bn.png,file
+bo 2.png,file
+bo.png,file
+bot.py,file
+bq 2.png,file
+bq.png,file
+br 2.png,file
+br.png,file
+bs 2.png,file
+bs.png,file
+bt 2.png,file
+bt.png,file
+bullet.png,file
+bulletout.wav,file
+bulletshoot.wav,file
+bv 2.png,file
+bv.png,file
+bw 2.png,file
+bw.png,file
+by 2.png,file
+by.png,file
+bz 2.png,file
+bz.png,file
+ca 2.png,file
+ca.png,file
+calculate.py,file
+calculator.py,file
+capture_screenshot,dir
+capture_video_frames.py,file
+cat.py,file
+cat_command,dir
+cc 2.png,file
+cc.png,file
+cc.py,file
+cd 2.png,file
+cd.png,file
+cf 2.png,file
+cf.png,file
+cg 2.png,file
+cg.png,file
+ch 2.png,file
+ch.png,file
+chatbot,dir
+check_connectivity.py,file
+ci 2.png,file
+ci.png,file
+ck 2.png,file
+ck.png,file
+cl 2.png,file
+cl.png,file
+cli.py,file
+cli_proxy_tester,dir
+cm 2.png,file
+cm.png,file
+cn 2.png,file
+cn.png,file
+co 2.png,file
+co.png,file
+comparison.py,file
+config.ini,file
+conversion.py,file
+convert pdf to text,dir
+convert.py,file
+convertDynamic.py,file
+convertUI.py,file
+convert_Imgs,dir
+convert_dictionary_to_python_object,dir
+convert_image_to_pdf.py,file
+convert_png_images_to_ico_format,dir
+converter.py,file
+converter1.py,file
+converter_GUI.py,file
+converter_terminal.py,file
+correct.png,file
+cr 2.png,file
+cr.png,file
+credentials.txt,file
+css,dir
+cu 2.png,file
+cu.png,file
+cv 2.png,file
+cv.png,file
+cw 2.png,file
+cw.png,file
+cx 2.png,file
+cx.png,file
+cy 2.png,file
+cy.png,file
+cz 2.png,file
+cz.png,file
+datasets_137197_325031_test_Y3wMUE5_7gLdaTN.csv,file
+dct.py,file
+de 2.png,file
+de.png,file
+deceased.gif,file
+decimal_to_binary.py,file
+demo.gif,file
+detect_align_faces,dir
+diff.py,file
+diff_util.jpg,file
+digital_clock.py,file
+dj 2.png,file
+dj.png,file
+dk 2.png,file
+dk.png,file
+dm 2.png,file
+dm.png,file
+dns_record.py,file
+do 2.png,file
+do.png,file
+docs,dir
+dork_search_google,dir
+download GeeksForGeeks articles,dir
+downloader.py,file
+dreamy_nights.ogg,file
+drowsiness detection.py,file
+duplicatefileremover.py,file
+dz 2.png,file
+dz.png,file
+easy_cartoonify.py,file
+ec 2.png,file
+ec.png,file
+ee 2.png,file
+ee.png,file
+eg 2.png,file
+eg.png,file
+eh 2.png,file
+eh.png,file
+emails.csv,file
+encrypt.py,file
+ens.png,file
+equation.PNG,file
+er 2.png,file
+er.png,file
+es 2.png,file
+es.png,file
+et 2.png,file
+et.png,file
+example.jpg,file
+example.png,file
+export_mysql_data_to_csv.py,file
+export_mysql_to_csv_send_to_wocom,dir
+extract_zip_files.py,file
+fetch_current_weather.py,file
+fetch_http_status_code.py,file
+fetch_open_port.py,file
+fetch_store_tweet.py,file
+fi 2.png,file
+fi.png,file
+file-sortor.py,file
+file.txt,file
+file1.txt,file
+file2.txt,file
+file3.txt,file
+files,dir
+find-color.py,file
+find_IMDb_rating.py,file
+findstring.py,file
+fj 2.png,file
+fj.png,file
+fk 2.png,file
+fk.png,file
+fm 2.png,file
+fm.png,file
+fo 2.png,file
+fo.png,file
+folder1,dir
+fonts,dir
+fr 2.png,file
+fr.png,file
+front.png,file
+ga 2.png,file
+ga.png,file
+gb 2.png,file
+gb-eng 2.png,file
+gb-eng.png,file
+gb-nir 2.png,file
+gb-nir.png,file
+gb-sct 2.png,file
+gb-sct.png,file
+gb-wls 2.png,file
+gb-wls.png,file
+gb.png,file
+gd 2.png,file
+gd.png,file
+ge 2.png,file
+ge.png,file
+generate_qrcode.py,file
+generator.py,file
+geocoding.py,file
+get_links.py,file
+get_meta_from_pic.py,file
+gf 2.png,file
+gf.png,file
+gg 2.png,file
+gg.png,file
+gh 2.png,file
+gh.png,file
+gi 2.png,file
+gi.png,file
+gl 2.png,file
+gl.png,file
+gm 2.png,file
+gm.png,file
+gn 2.png,file
+gn.png,file
+gp 2.png,file
+gp.png,file
+gps_utils.py,file
+gq 2.png,file
+gq.png,file
+gr 2.png,file
+gr.png,file
+gs 2.png,file
+gs.png,file
+gt 2.png,file
+gt.png,file
+gu 2.png,file
+gu.png,file
+gw 2.png,file
+gw.png,file
+gy 2.png,file
+gy.png,file
+haar cascade files,dir
+haarcascade_frontalface_alt.xml,file
+haarcascade_lefteye_2splits.xml,file
+haarcascade_righteye_2splits.xml,file
+halloween.png,file
+hangman.py,file
+hashing_passwords.py,file
+hello.txt,file
+hk 2.png,file
+hk.png,file
+hm 2.png,file
+hm.png,file
+hn 2.png,file
+hn.png,file
+home.JPG,file
+hr 2.png,file
+hr.png,file
+ht 2.png,file
+ht.png,file
+hu 2.png,file
+hu.png,file
+icond.png,file
+id 2.png,file
+id.png,file
+ie 2.png,file
+ie.png,file
+il 2.png,file
+il.png,file
+im 2.png,file
+im.png,file
+image.png,file
+images,dir
+img,dir
+img2.png,file
+in 2.png,file
+in.png,file
+index.html,file
+index.php,file
+input.jpeg,file
+input.jpg,file
+input.json,file
+input.png,file
+input.xml,file
+internet_connection_check.py,file
+io 2.png,file
+io.png,file
+ipinfo,dir
+iq 2.png,file
+iq.png,file
+ir 2.png,file
+ir.png,file
+is 2.png,file
+is.png,file
+it 2.png,file
+it.png,file
+je 2.png,file
+je.png,file
+jm 2.png,file
+jm.png,file
+jo 2.png,file
+jo.png,file
+jp 2.png,file
+jp.png,file
+ke 2.png,file
+ke.png,file
+kg 2.png,file
+kg.png,file
+kh 2.png,file
+kh.png,file
+ki 2.png,file
+ki.png,file
+km 2.png,file
+km.png,file
+kn 2.png,file
+kn.png,file
+kp 2.png,file
+kp.png,file
+kr 2.png,file
+kr.png,file
+kw 2.png,file
+kw.png,file
+ky 2.png,file
+ky.png,file
+kz 2.png,file
+kz.png,file
+la 2.png,file
+la.png,file
+lakhau_hajarau.mp3,file
+lb 2.png,file
+lb.png,file
+lc 2.png,file
+lc.png,file
+leapyear.py,file
+li 2.png,file
+li.png,file
+linearEquations.py,file
+lk 2.png,file
+lk.png,file
+loan-prediction-problem.ipynb,file
+logo.ico,file
+logo.png,file
+lr 2.png,file
+lr.png,file
+ls 2.png,file
+ls.png,file
+lsb.py,file
+lt 2.png,file
+lt.png,file
+lu 2.png,file
+lu.png,file
+lv 2.png,file
+lv.png,file
+ly 2.png,file
+ly.png,file
+ma 2.png,file
+ma.png,file
+macOS,dir
+mails.csv,file
+main.css,file
+main.py,file
+make_art.py,file
+mc 2.png,file
+mc.png,file
+md 2.png,file
+md.png,file
+me 2.png,file
+me.png,file
+merge_csv_files.py,file
+merge_pdfs.py,file
+mergedPdf.pdf,file
+mergedPdf1.pdf,file
+mf 2.png,file
+mf.png,file
+mg 2.png,file
+mg.png,file
+mh 2.png,file
+mh.png,file
+mk 2.png,file
+mk.png,file
+ml 2.png,file
+ml.png,file
+mm 2.png,file
+mm.png,file
+mn 2.png,file
+mn.png,file
+mo 2.png,file
+mo.png,file
+model.py,file
+moneycontrol_scrapper.py,file
+morning_calm.ogg,file
+movieInfoScraper.py,file
+mozart_wakes.ogg,file
+mp 2.png,file
+mp.png,file
+mq 2.png,file
+mq.png,file
+mr 2.png,file
+mr.png,file
+ms 2.png,file
+ms.png,file
+mt 2.png,file
+mt.png,file
+mu 2.png,file
+mu.png,file
+multi_language_OCR.py,file
+musics,dir
+mv 2.png,file
+mv.png,file
+mw 2.png,file
+mw.png,file
+mx 2.png,file
+mx.png,file
+my 2.png,file
+my.png,file
+mz 2.png,file
+mz.png,file
+na 2.png,file
+na.png,file
+naruto_first.jpg,file
+naruto_first.png,file
+naruto_last.jpg,file
+naruto_last.png,file
+nc 2.png,file
+nc.png,file
+ne 2.png,file
+ne.png,file
+network_usage_tracker.py,file
+new_horizon.ogg,file
+nextpage.JPG,file
+nf 2.png,file
+nf.png,file
+ng 2.png,file
+ng.png,file
+ni 2.png,file
+ni.png,file
+nl 2.png,file
+nl.png,file
+no 2.png,file
+no.png,file
+np 2.png,file
+np.png,file
+nr 2.png,file
+nr.png,file
+nu 2.png,file
+nu.png,file
+nz 2.png,file
+nz.png,file
+om 2.png,file
+om.png,file
+output,dir
+output-2.PNG,file
+output-2.png,file
+output.PNG,file
+output.csv,file
+output.ico,file
+output.json,file
+output.png,file
+output.txt,file
+pa 2.png,file
+pa.png,file
+password_generator.py,file
+pe 2.png,file
+pe.png,file
+pf 2.png,file
+pf.png,file
+pg 2.png,file
+pg.png,file
+ph 2.png,file
+ph.png,file
+pic.png,file
+pk 2.png,file
+pk.png,file
+pl 2.png,file
+pl.png,file
+pl4.png,file
+plag.py,file
+pm 2.png,file
+pm.png,file
+pn 2.png,file
+pn.png,file
+pr 2.png,file
+pr.png,file
+prepare.py,file
+profilepic.py,file
+progress_bar_ with_images_resizing.py,file
+projects,dir
+proxytest.py,file
+ps 2.png,file
+ps.png,file
+pt 2.png,file
+pt.png,file
+pw 2.png,file
+pw.png,file
+py 2.png,file
+py.png,file
+pyautoguidemo.gif,file
+python-app.yml,file
+python-auto-draw.py,file
+python-password-generator.py,file
+python.txt,file
+qa 2.png,file
+qa.png,file
+quote_scraper.py,file
+racing_barchart_animation,dir
+random_password_gen.py,file
+re 2.png,file
+re.png,file
+readme.md,file
+reduce_image_size.py,file
+requirements.txt,file
+requirementsALL.txt,file
+resized_output_image.jpg,file
+result.JPG,file
+ro 2.png,file
+ro.png,file
+rs 2.png,file
+rs.png,file
+ru 2.png,file
+ru.png,file
+rw 2.png,file
+rw.png,file
+sa 2.png,file
+sa.png,file
+sample.PNG,file
+sample.mp3,file
+samplePdf1.pdf,file
+samplePdf1.txt,file
+samplePdf2.pdf,file
+sample_image.png,file
+sample_output.png,file
+sb 2.png,file
+sb.png,file
+sc 2.png,file
+sc.png,file
+scrap-img.py,file
+scraped_articles,dir
+scraping_medium.py,file
+screenshot.PNG,file
+screenshot.jpg,file
+screenshot.py,file
+screenshot1.jpeg,file
+screenshot2.png,file
+script_execution.jpg,file
+sd 2.png,file
+sd.png,file
+se 2.png,file
+se.png,file
+sg 2.png,file
+sg.png,file
+sh 2.png,file
+sh.png,file
+shot.png,file
+si 2.png,file
+si.png,file
+simple-bot.py,file
+sine_wave.py,file
+sj 2.png,file
+sj.png,file
+sk 2.png,file
+sk.png,file
+sl 2.png,file
+sl.png,file
+sm 2.png,file
+sm.png,file
+sn 2.png,file
+sn.png,file
+snake_game.py,file
+snapshot_of_given_website.py,file
+so 2.png,file
+so.png,file
+space_bullet_shooter.py,file
+spacegame.png,file
+speech_to_text.py,file
+spell_checker.py,file
+split_and_copy.py,file
+split_files.py,file
+sr 2.png,file
+sr.png,file
+ss 2.png,file
+ss.png,file
+st 2.png,file
+st.png,file
+static,dir
+steganography,dir
+step-1.PNG,file
+step-1.png,file
+step-2.PNG,file
+step-2.png,file
+step-3.PNG,file
+step-3.png,file
+step-4.PNG,file
+step-4.png,file
+step-5.PNG,file
+step-5.png,file
+step-6.PNG,file
+step-6.png,file
+step-7.png,file
+step-9.png,file
+stopwatch.py,file
+store_emails.py,file
+style.css,file
+summarize.py,file
+sv 2.png,file
+sv.png,file
+sx 2.png,file
+sx.png,file
+sy 2.png,file
+sy.png,file
+sz 2.png,file
+sz.png,file
+tc 2.png,file
+tc.png,file
+td 2.png,file
+td.png,file
+telegram_bot,dir
+temp,dir
+templates,dir
+test.db,file
+test.py,file
+test_cat.txt,file
+text1.txt,file
+text2.txt,file
+text3.txt,file
+text_file.txt,file
+text_to_morse_code,dir
+text_to_morse_code.py,file
+textfile_analysis.py,file
+tf 2.png,file
+tf.png,file
+tg 2.png,file
+tg.png,file
+th 2.png,file
+th.png,file
+the_four_seasons.ogg,file
+tic-tac-toe-AI.py,file
+tic_tac_toe.png,file
+tic_tac_toe.py,file
+time_to_load_website.py,file
+tj 2.png,file
+tj.png,file
+tk 2.png,file
+tk.png,file
+tl 2.png,file
+tl.png,file
+tm 2.png,file
+tm.png,file
+tn 2.png,file
+tn.png,file
+to 2.png,file
+to.png,file
+todo.py,file
+todo.txt,file
+tr 2.png,file
+tr.png,file
+train.py,file
+translator.py,file
+tt 2.png,file
+tt.png,file
+tv 2.png,file
+tv.png,file
+tw 2.png,file
+tw.png,file
+txtToSpeech.py,file
+tz 2.png,file
+tz.png,file
+ua 2.png,file
+ua.png,file
+ug 2.png,file
+ug.png,file
+um 2.png,file
+um.png,file
+unique.py,file
+url_qrcode.png,file
+us 2.png,file
+us.png,file
+ussdtim.py,file
+util.cpython-37.pyc,file
+util.cpython-38.pyc,file
+util.py,file
+utils,dir
+utils.py,file
+uy 2.png,file
+uy.png,file
+uz 2.png,file
+uz.png,file
+va 2.png,file
+va.png,file
+vc 2.png,file
+vc.png,file
+ve 2.png,file
+ve.png,file
+vg 2.png,file
+vg.png,file
+vi 2.png,file
+vi.png,file
+videosplitter.py,file
+vn 2.png,file
+vn.png,file
+voice.mp3,file
+vu 2.png,file
+vu.png,file
+watermark.py,file
+webscrapindcomment.py,file
+website_blocker.py,file
+website_status.csv,file
+website_unblocker.py,file
+websites.txt,file
+wf 2.png,file
+wf.png,file
+whatsapp_Bot,dir
+wifi.py,file
+wiki-search-cloud.py,file
+wiki_random.py,file
+windows,dir
+wordcloud.png,file
+words.json,file
+workflows,dir
+wrong.png,file
+ws 2.png,file
+ws.png,file
+xk 2.png,file
+xk.png,file
+xkcd_dowloader.py,file
+ye 2.png,file
+ye.png,file
+yt 2.png,file
+yt.png,file
+za 2.png,file
+za.png,file
+zipbruter.py,file
+zipfiles.py,file
+zm 2.png,file
+zm.png,file
+zw 2.png,file
+zw.png,file

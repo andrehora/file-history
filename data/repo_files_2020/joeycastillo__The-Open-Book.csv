@@ -1,0 +1,56 @@
+name,type
+.gitignore,file
+E-Book Wing A1 Rev 04.brd,file
+E-Book Wing A1 Rev 04.sch,file
+E-Book Wing Rev B.brd,file
+E-Book Wing Rev B.sch,file
+E-Book Wing Rev C.brd,file
+E-Book Wing Rev C.sch,file
+Examples,dir
+LICENSE.md,file
+Open Book A1 Rev 01.brd,file
+Open Book A1 Rev 01.sch,file
+Open Book A1 Rev 02.brd,file
+Open Book A1 Rev 02.sch,file
+Open Book A1 Rev 03.brd,file
+Open Book A1 Rev 03.sch,file
+Open Book A1 Rev 04.brd,file
+Open Book A1 Rev 04.sch,file
+Open Book Feather,dir
+OpenBook.cpp,file
+OpenBook.h,file
+OpenBook_IL0398.cpp,file
+OpenBook_IL0398.h,file
+Open_Book_Heart_Of_Darkness_TensorFlow,dir
+Open_Book_Heart_Of_Darkness_TensorFlow.ino,file
+Open_Book_Quotes_Demo,dir
+Open_Book_Quotes_Demo.ino,file
+Open_Book_Screen_Test,dir
+Open_Book_Screen_Test.ino,file
+README.md,file
+arduino_audio_provider.cpp,file
+arduino_command_responder.cpp,file
+arduino_main.cpp,file
+audio_provider.h,file
+bitmap.h,file
+board.jpg,file
+book-rev1.jpg,file
+command_responder.h,file
+eBook Feather Wing,dir
+feature_provider.cpp,file
+feature_provider.h,file
+images,dir
+library.properties,file
+main_functions.h,file
+menu.h,file
+micro_features_micro_features_generator.cpp,file
+micro_features_micro_features_generator.h,file
+micro_features_micro_model_settings.cpp,file
+micro_features_micro_model_settings.h,file
+micro_features_tiny_conv_micro_features_model_data.cpp,file
+micro_features_tiny_conv_micro_features_model_data.h,file
+recognize_commands.cpp,file
+recognize_commands.h,file
+src,dir
+text.h,file
+wing-rev2.jpg,file

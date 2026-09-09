@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE,file
+MANIFEST,file
+README.md,file
+pytest.ini,file
+setup.py,file
+tests.py,file
+tox.ini,file
+tqdm.py,file

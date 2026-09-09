@@ -1,0 +1,25 @@
+name,type
+.gitignore,file
+311-service-requests.csv,file
+A quick tour of IPython Notebook.ipynb,file
+Chapter 1 - Reading from a CSV.ipynb,file
+Chapter 2 - Selecting data & finding the most common complaint type.ipynb,file
+"Chapter 3 - Which borough has the most noise complaints? (or, more selecting data).ipynb",file
+Chapter 4 - Find out on which weekday people bike the most with groupby and aggregate.ipynb,file
+Chapter 5 - Combining dataframes and scraping Canadian weather data.ipynb,file
+Chapter 6 - String operations! Which month was the snowiest?.ipynb,file
+Chapter 7 - Cleaning up messy data.ipynb,file
+Chapter 8 - How to deal with timestamps.ipynb,file
+Chapter 9 - Loading data from SQL databases.ipynb,file
+README.md,file
+bikes.csv,file
+cookbook,dir
+data,dir
+function-completion.png,file
+images,dir
+popularity-contest,file
+tab-4-times.png,file
+tab-once.png,file
+tab-twice.png,file
+weather_2012.csv,file
+weather_2012.sqlite,file

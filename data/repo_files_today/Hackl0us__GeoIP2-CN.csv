@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+build.sh,file
+dedup.c,file
+go.mod,file
+go.sum,file
+ip2cidr.go,file
+main.go,file
+periodical-update.yaml,file
+verify,dir
+verify_ip.go,file
+workflows,dir

@@ -1,0 +1,161 @@
+name,type
+.gitignore,file
+.md,file
+Alex Chen.md,file
+Alex Harper.md,file
+Alex Thomson.md,file
+Avery Lancaster.md,file
+Carllm.md,file
+Contract with Apex Reinsurance for Rellm.md,file
+Contract with Belvedere Insurance for Markellm.md,file
+Contract with BrightWay Solutions for Markellm.md,file
+Contract with EverGuard Insurance for Rellm.md,file
+Contract with GreenField Holdings for Markellm.md,file
+Contract with GreenValley Insurance for Homellm.md,file
+Contract with Greenstone Insurance for Homellm.md,file
+Contract with Pinnacle Insurance Co. for Homellm.md,file
+Contract with Roadway Insurance Inc. for Carllm.md,file
+Contract with Stellar Insurance Co. for Rellm.md,file
+Contract with TechDrive Insurance for Carllm.md,file
+Contract with Velocity Auto Solutions for Carllm.md,file
+Day 3 using gemini.ipynb,file
+Emily Carter.md,file
+Emily Tran.md,file
+Gemini-api.ipynb,file
+Guide to Jupyter.ipynb,file
+Homellm.md,file
+Intermediate Python.ipynb,file
+Jordan Blake.md,file
+Jordan K. Bishop.md,file
+LICENSE,file
+Markellm.md,file
+Maxine Thompson.md,file
+Oliver Spencer.md,file
+README.md,file
+Rellm.md,file
+SETUP-PC.md,file
+SETUP-PC.pdf,file
+SETUP-linux.md,file
+SETUP-linux.pdf,file
+SETUP-mac.md,file
+SETUP-mac.pdf,file
+Samantha Greene.md,file
+Samuel Trenton.md,file
+TTS_STT.ipynb,file
+Week1-Challenge-Brochure-Translation.ipynb,file
+Week1-Challenge-LocalGPT.ipynb,file
+Week2_Day2_AddGeminModel.ipynb,file
+about.md,file
+agent.py,file
+agents,dir
+business.jpg,file
+careers.md,file
+community-contributions,dir
+company,dir
+contracts,dir
+dataset_generator.ipynb,file
+day 5 personal tutor.ipynb,file
+day-1-Stock-data-analysis.ipynb,file
+day-1-generate-cover-letter-from-cv.ipynb,file
+day-1-research-paper-summarizer-using -openai-api.ipynb,file
+day-1-to-do-list using-ollama.ipynb,file
+day1-article-pdf-reader.ipynb,file
+day1-azure-aws-ollama.ipynb,file
+day1-gpt-llama-gemini-together.ipynb,file
+day1-selenium-for-javascript-sites.ipynb,file
+day1-webscraping-selenium-for-javascript.ipynb,file
+day1-with-3way.ipynb,file
+day1.ipynb,file
+day1_first_llm_videotranscript_summary.ipynb,file
+day2 EXERCISE.ipynb,file
+day2 SOLUTION.ipynb,file
+day2-gemini.ipynb,file
+day2.0.ipynb,file
+day2.1.ipynb,file
+day2.2.ipynb,file
+day2.3.ipynb,file
+day2.4.ipynb,file
+day2.ipynb,file
+day3 - extended for Obsidian files and separate ingestion.ipynb,file
+day3 and 4.ipynb,file
+day3-gemini.ipynb,file
+day3-refine-user-query-by-llama.ipynb,file
+day3.ipynb,file
+day3.upsell.ipynb,file
+day4 - taking advantage of separate ingestion.ipynb,file
+day4-airlines-project-fullyCustomize.ipynb,file
+day4-handle-multiple-tool-call.ipynb,file
+day4-results.ipynb,file
+day4-with-discount-tool.ipynb,file
+day4.5.ipynb,file
+day4.ipynb,file
+day5 company brochure.ipynb,file
+day5-MultiLingual-MultiTone.ipynb,file
+day5-improved-comments-spanish.ipynb,file
+day5-results.ipynb,file
+day5-stream.ipynb,file
+day5.ipynb,file
+day5_with_Gradio.ipynb,file
+deal_agent_framework.py,file
+deals.py,file
+diagnostics.ipynb,file
+diagnostics.py,file
+employees,dir
+ensemble_agent.py,file
+environment.yml,file
+extras,dir
+frontier_agent.py,file
+hello.py,file
+human_input.csv,file
+human_output.csv,file
+important.jpg,file
+items.py,file
+keep_warm.py,file
+knowledge-base,dir
+lite.ipynb,file
+llama.py,file
+loaders.py,file
+log_utils.py,file
+memory.json,file
+messaging_agent.py,file
+optimized.cpp,file
+overview.md,file
+planning_agent.py,file
+price_is_right.py,file
+price_is_right_final.py,file
+pricer_ephemeral.py,file
+pricer_service.py,file
+pricer_service2.py,file
+products,dir
+prototype_trader.ipynb,file
+random_forest_agent.py,file
+requirements.txt,file
+resources.jpg,file
+resume.txt,file
+scanner_agent.py,file
+simple.cpp,file
+solutions,dir
+specialist_agent.py,file
+task1.ipynb,file
+testing.py,file
+thankyou.jpg,file
+trades_claude.py,file
+trades_gemini.py,file
+trades_gpt-4o.py,file
+trading,dir
+troubleshooting.ipynb,file
+voyage.jpg,file
+week1,dir
+week1 EXERCISE.ipynb,file
+week1 SOLUTION.ipynb,file
+week1-collaborative-approach-two-llms.ipynb,file
+week2,dir
+week2 EXERCISE.ipynb,file
+week2_multimodal_chatbot_with_audio.ipynb,file
+week3,dir
+week4,dir
+week4-day4-challenge.ipynb,file
+week5,dir
+week6,dir
+week7,dir
+week8,dir

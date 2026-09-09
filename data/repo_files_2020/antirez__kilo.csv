@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+LICENSE,file
+Makefile,file
+README.md,file
+TODO,file
+kilo.c,file

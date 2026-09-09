@@ -1,0 +1,11 @@
+name,type
+.vscode,dir
+LICENSE,file
+README.j2.md,file
+README.md,file
+The_GAN_Zoo.jpg,file
+cumulative_gans.jpg,file
+gans.tsv,file
+requirements.txt,file
+settings.json,file
+update.py,file

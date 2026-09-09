@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+CONTRIBUTE.md,file
+IMPLEMENTATION_STATUS.md,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+README.md,file
+REQUIREMENTS.md,file
+img,dir
+ipfs-alpha-video.png,file
+ipfs-cap2pfs,dir
+ipfs-p2p-file-system.pdf,file
+ipfs-talk.png,file
+papers,dir
+pt_BR,dir
+translations,dir

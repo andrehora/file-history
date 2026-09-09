@@ -1,0 +1,10 @@
+name,type
+README.md,file
+aliases,file
+gemrc,file
+gitconfig,file
+install.sh,file
+rspec,file
+tm_properties,file
+vimrc,file
+zshrc,file

@@ -1,0 +1,11 @@
+name,type
+.github,dir
+ARCHIVE.md,file
+CITATION.cff,file
+CONTRIBUTING.md,file
+DISCOVERIES.md,file
+LICENSE,file
+README.md,file
+awesome-lint.yml,file
+link-check.yml,file
+workflows,dir

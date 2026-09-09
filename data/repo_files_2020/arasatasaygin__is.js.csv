@@ -1,0 +1,17 @@
+name,type
+.editorconfig,file
+.eslintignore,file
+.eslintrc.js,file
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+bower.json,file
+index.html,file
+is.js,file
+is.min.js,file
+package.json,file
+test,dir
+test.js,file

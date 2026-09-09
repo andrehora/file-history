@@ -1,0 +1,189 @@
+name,type
+.gitignore,file
+.travis.yml,file
+AboutViewController.h,file
+AboutViewController.m,file
+AboutViewController.xib,file
+Acceptance Tests,dir
+Acceptance Tests copy-Info.plist,file
+Acceptance Tests-Info.plist,file
+Acceptance Tests-Prefix.pch,file
+AccessibilityIdentifierTests.m,file
+Add Category Linker Flags.png,file
+Add Header Search Paths.png,file
+Add KIF Preprocessor Macro.png,file
+Add Library Sheet.png,file
+Add Library.png,file
+Added KIF to Project.png,file
+Additions,dir
+AnimationViewController.m,file
+AppDelegate.h,file
+AppDelegate.m,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+Base.lproj,dir
+BasicCalculatorTests.m,file
+BasicCalculatorViewController.h,file
+BasicCalculatorViewController.m,file
+BasicCalculatorViewController.xib,file
+CGGeometry-KIFAdditions.h,file
+CGGeometry-KIFAdditions.m,file
+Calculator,dir
+Calculator-Info.plist,file
+Calculator-Prefix.pch,file
+Calculator.xcodeproj,dir
+Calculator.xcscheme,file
+CascadingFailureTests.m,file
+Classes,dir
+CollectionViewController.m,file
+CollectionViewTests.m,file
+CompositionTests.m,file
+Contents.json,file
+Create Workspace.png,file
+Default-568h@2x.png,file
+Default.png,file
+Default@2x.png,file
+Documentation,dir
+Duplicate Target Confirmation.png,file
+Duplicate Target.png,file
+Examples,dir
+ExistTests.m,file
+GestureTests.m,file
+GestureViewController.m,file
+HomeViewController.h,file
+HomeViewController.m,file
+HomeViewController.xib,file
+IdentifierTests,dir
+Images,dir
+Images.xcassets,dir
+Info.plist,file
+InfoPlist.strings,file
+IntegrationTestCases.m,file
+KIF Documentation.xcscheme,file
+KIF Tests,dir
+KIF Tests-Info.plist,file
+KIF Tests-Prefix.pch,file
+KIF XCTests-Prefix.pch,file
+KIF-OCUnit.xcscheme,file
+KIF-Prefix.pch,file
+KIF-XCTestPrefix.pch,file
+KIF.h,file
+KIF.podspec,file
+KIF.xcodeproj,dir
+KIF.xcscheme,file
+KIFSystemTestActor.h,file
+KIFSystemTestActor.m,file
+KIFTestActor.h,file
+KIFTestActor.m,file
+KIFTestCase.h,file
+KIFTestCase.m,file
+KIFTestStepValidation.h,file
+KIFTestStepValidation.m,file
+KIFTypist.h,file
+KIFTypist.m,file
+KIFUITestActor+EXAddition.h,file
+KIFUITestActor+EXAddition.m,file
+KIFUITestActor-ConditionalTests.h,file
+KIFUITestActor-ConditionalTests.m,file
+KIFUITestActor-IdentifierTests.h,file
+KIFUITestActor-IdentifierTests.m,file
+KIFUITestActor.h,file
+KIFUITestActor.m,file
+LICENSE,file
+LandscapeTests.m,file
+LaunchScreen.xib,file
+LoadableCategory.h,file
+LongPressTests.m,file
+Main.storyboard,file
+MainStoryboard.storyboard,file
+MainWindow.xib,file
+MasterViewController.swift,file
+ModalViewTests.m,file
+MultiFingerTests.m,file
+NSBundle-KIFAdditions.h,file
+NSBundle-KIFAdditions.m,file
+NSError-KIFAdditions.h,file
+NSError-KIFAdditions.m,file
+NSException-KIFAdditions.h,file
+NSException-KIFAdditions.m,file
+NSFileManager-KIFAdditions.h,file
+NSFileManager-KIFAdditions.m,file
+PickerController.m,file
+PickerTests.m,file
+README.md,file
+Rename Product.png,file
+Rename Target.png,file
+RootViewController.h,file
+RootViewController.m,file
+RootViewController.xib,file
+ScrollViewController.m,file
+ScrollViewTests.m,file
+SearchFieldTests.m,file
+SenTestCase-KIFAdditions.h,file
+SenTestCase-KIFAdditions.m,file
+ShowHideViewController.m,file
+Simple App.png,file
+SimpleObjCTest.m,file
+SimpleSwiftTest.swift,file
+SpecificControlTests.m,file
+SystemAlertTests.m,file
+SystemAlertViewController.m,file
+SystemTests.m,file
+TableViewController.m,file
+TableViewTests.m,file
+TapViewController.m,file
+TappingTests.m,file
+Test Action Composition.md,file
+Test Host,dir
+Test Host-Info.plist,file
+Test Host-Prefix.pch,file
+TestSuiteViewController.m,file
+Testable,dir
+Testable Swift,dir
+Testable Swift.xcodeproj,dir
+Testable Swift.xcscheme,file
+Testable SwiftTests,dir
+Testable SwiftTests-Bridging-Header.h,file
+Testable-Info.plist,file
+Testable-Prefix.pch,file
+Testable.xccheckout,file
+Testable.xcodeproj,dir
+Testable.xcscheme,file
+Testable.xcworkspace,dir
+TestableAppDelegate.h,file
+TestableAppDelegate.m,file
+Testable_SwiftTests.swift,file
+TypingTests.m,file
+UIAccessibilityElement-KIFAdditions.h,file
+UIAccessibilityElement-KIFAdditions.m,file
+UIApplication-KIFAdditions.h,file
+UIApplication-KIFAdditions.m,file
+UIAutomationHelper.h,file
+UIAutomationHelper.m,file
+UIScrollView-KIFAdditions.h,file
+UIScrollView-KIFAdditions.m,file
+UITableView-KIFAdditions.h,file
+UITableView-KIFAdditions.m,file
+UITouch-KIFAdditions.h,file
+UITouch-KIFAdditions.m,file
+UIView-KIFAdditions.h,file
+UIView-KIFAdditions.m,file
+UIWindow-KIFAdditions.h,file
+UIWindow-KIFAdditions.m,file
+WaitForAbscenceTests.m,file
+WaitForAnimationTests.m,file
+WaitForTappableViewTests.m,file
+WaitForViewTests.m,file
+WebViewController.m,file
+WebViewTests.m,file
+XCTestCase-KIFAdditions.h,file
+XCTestCase-KIFAdditions.m,file
+contents.xcworkspacedata,file
+en.lproj,dir
+index.html,file
+main.m,file
+page2.html,file
+project.pbxproj,file
+project.xcworkspace,dir
+xcschemes,dir
+xcshareddata,dir

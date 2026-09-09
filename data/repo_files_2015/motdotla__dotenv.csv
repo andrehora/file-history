@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.env,file
+.eslintrc,file
+.gitignore,file
+.travis.yml,file
+Contributing.md,file
+README.md,file
+dotenv.png,file
+gulpfile.js,file
+lib,dir
+main.js,file
+package.json,file
+test,dir

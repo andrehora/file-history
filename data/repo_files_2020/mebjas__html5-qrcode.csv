@@ -1,0 +1,13 @@
+name,type
+README.md,file
+bootstrap.min.css,file
+html5-qrcode.js,file
+html5-qrcode.min.js,file
+index.html,file
+jquery.js,file
+jsqrcode-combined.js,file
+jsqrcode-combined.min.js,file
+minified,dir
+no.png,file
+sample,dir
+yes.png,file

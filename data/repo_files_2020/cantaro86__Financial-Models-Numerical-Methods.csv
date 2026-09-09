@@ -1,0 +1,54 @@
+name,type
+.gitignore,file
+1.1 Black-Scholes numerical methods.ipynb,file
+1.2 SDE simulations and statistics.ipynb,file
+1.3 Fourier transform methods.ipynb,file
+1.4 SDE - Heston model.ipynb,file
+2.1 Black-Scholes PDE and sparse matrices.ipynb,file
+2.2 Exotic options.ipynb,file
+2.3 American Options.ipynb,file
+"3.1 Merton jump-diffusion, PIDE method.ipynb",file
+"3.2 Variance Gamma model, PIDE method.ipynb",file
+3.3 Pricing with the NIG Process.ipynb,file
+4.1 Option pricing with transaction costs.ipynb,file
+5.1 Linear regression - Kalman filter.ipynb,file
+A.1 Solution of linear equations.ipynb,file
+"A.2 Optimize and speed up the code. (SOR algorithm, Cython and C).ipynb",file
+BS_SOR_main.c,file
+BS_pricer.py,file
+BS_sor,file
+C,dir
+CF.py,file
+Kalman_filter.py,file
+LICENSE,file
+Makefile,file
+Merton_pricer.py,file
+NIG_pricer.py,file
+PDE_solver.c,file
+PDE_solver.h,file
+Parameters.py,file
+Processes.py,file
+README.md,file
+SOR.c,file
+SOR.h,file
+Solvers.py,file
+TC_pricer.py,file
+VG_pricer.py,file
+cost_utils.py,file
+cython,dir
+cython_Heston.cpython-36m-x86_64-linux-gnu.so,file
+cython_Heston.cpython-37m-x86_64-linux-gnu.so,file
+cython_Heston.pyx,file
+cython_functions.c,file
+cython_functions.cpython-36m-x86_64-linux-gnu.so,file
+cython_functions.cpython-37m-x86_64-linux-gnu.so,file
+cython_functions.pyx,file
+data,dir
+docker_start_notebook.py,file
+functions,dir
+historical_data.csv,file
+latex,dir
+mainSOR.c,file
+probabilities.py,file
+requirements.txt,file
+setup.py,file

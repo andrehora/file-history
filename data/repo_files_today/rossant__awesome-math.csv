@@ -1,0 +1,15 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+build_toc.py,file
+config.yml,file
+maintenance.yml,file
+resource.yml,file
+scripts,dir
+validate.py,file
+validate.yml,file
+workflows,dir

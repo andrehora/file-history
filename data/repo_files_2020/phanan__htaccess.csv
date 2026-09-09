@@ -1,0 +1,15 @@
+name,type
+.editorconfig,file
+.github,dir
+CONTRIBUTING.md,file
+FUNDING.yml,file
+French,dir
+German,dir
+Italian,dir
+Japanese,dir
+LICENSE,file
+Portuguese-BR,dir
+README.md,file
+Russian,dir
+Slovak,dir
+Translations,dir

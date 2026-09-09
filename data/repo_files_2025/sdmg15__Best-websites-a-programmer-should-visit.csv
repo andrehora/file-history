@@ -1,0 +1,10 @@
+name,type
+.travis.yml,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+_config.yml,file
+package.json,file
+pull_request_template.md,file
+white_listed_sites.txt,file

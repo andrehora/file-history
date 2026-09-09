@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+Disco_Diffusion.ipynb,file
+Disco_Diffusion_v3_1_[w_SLIP_&_DangoCutn].ipynb,file
+"Disco_Diffusion_v4_1_[w_Video_Inits,_Recovery_&_DDIM_Sharpen].ipynb",file
+Dockerfile,file
+LICENSE,file
+QoL_MP_Diffusion_v2_[w_Secondary_Model_v2].ipynb,file
+README.md,file
+archive,dir
+disco.py,file
+disco_utils.py,file
+disco_xform_utils.py,file
+docker,dir
+main,dir
+prep,dir

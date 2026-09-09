@@ -1,0 +1,11 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+bootstrap.php,file
+composer.json,file
+phpunit.xml.dist,file
+tests,dir

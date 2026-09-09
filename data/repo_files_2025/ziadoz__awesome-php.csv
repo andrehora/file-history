@@ -1,0 +1,10 @@
+name,type
+.editorconfig,file
+.github,dir
+CODE-OF-CONDUCT.md,file
+COLLABORATING.md,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+awesomebot.yml,file
+workflows,dir

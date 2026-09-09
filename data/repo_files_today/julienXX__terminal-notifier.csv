@@ -1,0 +1,59 @@
+name,type
+.github,dir
+.gitignore,file
+.rspec,file
+.rubocop.yml,file
+.ruby-version,file
+AppDelegate.h,file
+AppDelegate.m,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Gemfile,file
+ISSUE_TEMPLATE.md,file
+InfoPlist.strings,file
+LICENSE,file
+LICENSE.md,file
+Makefile,file
+README.markdown,file
+Rakefile,file
+Ruby,dir
+Terminal Notifier,dir
+Terminal Notifier-Info.plist,file
+Terminal Notifier-Prefix.pch,file
+Terminal Notifier.xcodeproj,dir
+Terminal Notifier.xcscheme,file
+Terminal.icns,file
+action.png,file
+assets,dir
+bin,dir
+build.yml,file
+cli.rb,file
+contentImage.png,file
+contents.xcworkspacedata,file
+custom-icon.png,file
+doctor.sh,file
+en.lproj,dir
+grab.m,file
+lib,dir
+main.m,file
+message.png,file
+project.pbxproj,file
+project.xcworkspace,dir
+reply.png,file
+ruby.yml,file
+screenshots.sh,file
+spec,dir
+spec_helper.rb,file
+subtitle.png,file
+terminal-notifier,dir
+terminal-notifier,file
+terminal-notifier.gemspec,file
+terminal-notifier.rb,file
+terminal-notifier_spec.rb,file
+tests,dir
+title.png,file
+tools,dir
+version.rb,file
+workflows,dir
+xcschemes,dir
+xcshareddata,dir

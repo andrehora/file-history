@@ -1,0 +1,57 @@
+name,type
+!example.txt,file
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.gitmodules,file
+100.ico,file
+Bulgarian.ini,file
+CHANGELOG.md,file
+Catalan.ini,file
+Chinese (Simplified).ini,file
+Chinese (Simplified2).ini,file
+Chinese (Traditional).ini,file
+Chinese (Traditional2).ini,file
+Dutch.ini,file
+French.ini,file
+German.ini,file
+History.txt,file
+Hungarian.ini,file
+Indonesian.ini,file
+Italiano.ini,file
+Japanese.ini,file
+Kazakh.ini,file
+Korean.ini,file
+LICENSE,file
+License.txt,file
+Persian.ini,file
+Polski.ini,file
+Portuguese (Brazil).ini,file
+Portuguese.ini,file
+README.md,file
+Readme.txt,file
+Russian.ini,file
+Serbian.ini,file
+Slovak.ini,file
+Spanish.ini,file
+Spanish2.ini,file
+Spanish3.ini,file
+Swedish.ini,file
+Turkish.ini,file
+Ukrainian.ini,file
+app.hpp,file
+bin,dir
+build.bat,file
+build_resources.bat,file
+i18n,dir
+main.cpp,file
+main.hpp,file
+manifest.xml,file
+memreduct.lng,file
+memreduct.sln,file
+memreduct.vcxproj,file
+memreduct.vcxproj.filters,file
+res,dir
+resource.hpp,file
+resource.rc,file
+src,dir

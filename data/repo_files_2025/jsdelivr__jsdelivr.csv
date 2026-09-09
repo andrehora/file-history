@@ -1,0 +1,20 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+01-bug_report.md.deprecated,file
+01-bug_report.yml,file
+02-feature_request.md.deprecated,file
+02-feature_request.yml,file
+03-increase_package_size.yml,file
+03-request_to_increase_package_size_limit.md.deprecated,file
+04-other.md.deprecated,file
+04-other.yml,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+LICENSE.md,file
+Privacy Policy.md,file
+README.md,file
+Sub-Processors.md,file
+Terms of Use.md,file
+config.yml,file

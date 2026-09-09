@@ -1,0 +1,5 @@
+name,type
+.prettierrc,file
+didact.js,file
+package.json,file
+readme.md,file

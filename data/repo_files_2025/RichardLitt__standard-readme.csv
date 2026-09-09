@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.remarkrc,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+README.zh-CN.md,file
+cat.sh,file
+example-readmes,dir
+maximal-readme.md,file
+minimal-readme.md,file
+package-lock.json,file
+package.json,file
+spec.md,file
+spec.zh-CN.md,file

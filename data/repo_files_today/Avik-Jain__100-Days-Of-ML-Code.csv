@@ -1,0 +1,44 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+50_Startups.csv,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Code,dir
+Data.csv,file
+Day 1.jpg,file
+Day 11 K-NN.md,file
+Day 12.jpg,file
+Day 13 SVM.md,file
+Day 1_Data PreProcessing.md,file
+Day 2.jpg,file
+Day 23.jpg,file
+Day 25 Decision Tree.md,file
+Day 3.jpg,file
+Day 33.jpg,file
+Day 34 Random_Forest.md,file
+Day 4.jpg,file
+Day 43.jpg,file
+Day 54.jpg,file
+Day 6 Logistic Regression.md,file
+Day 7.jpg,file
+Day2_Simple_Linear_Regression.md,file
+Day3_Multiple_Linear_Regression.md,file
+ISSUE_TEMPLATE,dir
+Info-graphs,dir
+LICENSE,file
+Other Docs,dir
+README.md,file
+Social_Network_Ads.csv,file
+_config.yml,file
+bug_report.md,file
+data.PNG,file
+datasets,dir
+ets.png,file
+feature_request.md,file
+readme.md,file
+studentscores.csv,file
+test.png,file
+testing.png,file
+training.png,file

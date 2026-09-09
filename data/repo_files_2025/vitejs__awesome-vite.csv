@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+assets,dir
+cleanup.mjs,file
+contributing.md,file
+lint.yml,file
+logo.svg,file
+package.json,file
+pull_request_template.md,file
+scripts,dir
+workflows,dir

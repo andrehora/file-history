@@ -1,0 +1,6 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+README.md,file
+links.yml,file
+workflows,dir

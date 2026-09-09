@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+auth,dir
+auth.go,file
+build-all.sh,file
+cli,dir
+cli.go,file
+config,dir
+config.go,file
+drive.go,file
+gdrive,dir
+gdrive.go,file
+generic.go,file
+upload.sh,file
+util,dir

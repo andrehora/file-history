@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+benchmark.js,file
+index.js,file
+license,file
+logo.png,file
+logo.svg,file
+package.json,file
+readme.md,file
+test.js,file

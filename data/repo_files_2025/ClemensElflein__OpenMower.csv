@@ -1,0 +1,273 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+.piopm,file
+0001_intergalactic-comm-scifi-8238.mp3,file
+0001_success_02-68338.mp3,file
+0002_success_02-68338.mp3,file
+0003_scifi_ruined_environment.mp3,file
+0004_computer-heart.mp3,file
+0005_evil-robot-or-spaceship.mp3,file
+0007_montage-machine.mp3,file
+0008_r2d2-sfx.mp3,file
+0009_Minion-Fire-Alarm.mp3,file
+0012_Pink-Panther.mp3,file
+0013_Highway-to-Hell.mp3,file
+0014_Alarm01.mp3,file
+0015_Alarm02.mp3,file
+"001_Hallo, ich bin Steve.mp3",file
+"001_Hi, I am Steve, your.mp3",file
+0020_gps-poor.mp3,file
+0021_gps-acceptable.mp3,file
+0022_gps-good.mp3,file
+002_open mower erfolgreich gestartet.mp3,file
+002_open mower start up .mp3,file
+003_Initialisiere Roboter Betriebssystem.mp3,file
+003_Initializing robot o.mp3,file
+004_Starte Aufzeichnung des Lageplans.mp3,file
+004_Starting map area re.mp3,file
+005_Warte auf RTK-GPS Signal.mp3,file
+005_waiting for rtk gps .mp3,file
+006_Berechne Abmessungen des Lageplans.mp3,file
+006_calculating map dime.mp3,file
+007_initiate mowing sequ.mp3,file
+008_Stop-Taste gedrueckt.mp3,file
+008_stop button.mp3,file
+009_Not-Aus durch Rad Hebesensor.mp3,file
+009_emergency wheel lift.mp3,file
+01,dir
+0100_SingingInTheRain_Remix.mp3,file
+0101_ItsRainingAgain_Supertramp.mp3,file
+0102_OnlyHappyWhenItRains_Cover.mp3,file
+"010_rain detected, headi.mp3",file
+011_open mower has compl.mp3,file
+"012_Vorsicht, autonomer Maehroboter im Einsatz.mp3",file
+"012_stay back, autononou.mp3",file
+"013_Au-weia, schon wieder.mp3",file
+"013_ups, I did it again.mp3",file
+"014_Hallo, ich bin Tobi,.mp3",file
+"015_Hi, I am Tobi, your .mp3",file
+016_ROS startup successful.mp3,file
+016_Start des Roboter Betriebssystems erfolgreich.mp3,file
+017_Das Roboter Betriebssystem wurde gestoppt.mp3,file
+017_ROS stopped.mp3,file
+018_Der Raspberry Pai wurde herunter gefahren.mp3,file
+018_RPI shut down and powered off.mp3,file
+019_Die IMU Initialisierung ist fehlgeschlagen.mp3,file
+019_IMU initialization failed.mp3,file
+0200_Minions Fart.mp3,file
+0201_Sheep-Lamb-Bah-B.mp3,file
+0202_Cow-Mooing-C.mp3,file
+0203_wet-fart.mp3,file
+0204_vegan-fart-voice.mp3,file
+0205_Burp-A2.mp3,file
+020_down.mp3,file
+020_leiser.mp3,file
+021_lauter.mp3,file
+021_up.mp3,file
+022_Switched to english language.mp3,file
+022_auf deutsche sprache umgestellt.mp3,file
+023_Emergency cleared.mp3,file
+023_Notaus aufgehoben.mp3,file
+024_Emergency triggered by ROS.mp3,file
+024_Not-Aus durch ROS.mp3,file
+025_Emergency triggered by collision sensor.mp3,file
+025_Not-Aus durch Kollisionssensor.mp3,file
+0300_MamaImComingHome_Demo.mp3,file
+0301_ComingHome_Remix.mp3,file
+0302_SweetHomeAlabama.mp3,file
+0303_Darth-Vader.mp3,file
+49,dir
+74ALVC164245DGG,dir
+74ALVC164245DGG_11.dcm,file
+74ALVC164245DGG_11.lib,file
+74ALVC164245DGG_11.mod,file
+Arduino.kicad_sch,file
+Arduino.pretty,dir
+Arduino_Uno_Shield.kicad_mod,file
+Changelog.md,file
+Crystal_SMD_HC49-US.kicad_mod,file
+DC-DC-XL4016.kicad_mod,file
+DockStation,dir
+F1206.kicad_mod,file
+F1206_L3.2-W1.7-H0.6.wrl,file
+FUNDING.yml,file
+FastCRC,dir
+FastCRC.h,file
+FastCRC_cpu.h,file
+FastCRC_tables.h,file
+FastCRChw.cpp,file
+FastCRCsw.cpp,file
+Firmware,dir
+Fuseholder5x20_horiz_open_inline_Type-I.kicad_mod,file
+GPS.kicad_sch,file
+GPSConfig,dir
+GPSGroundPlane,dir
+GPSGroundPlane-v_0_9_u1.zip,file
+GoogleTTS_Strings.txt,file
+HDR-SMD_40P-P2.54-F-LS-2X20P-R4.wrl,file
+HDR-SMD_40P-P2.54-V-F-R2-C20-S8.8-EH.kicad_mod,file
+Hardware,dir
+JY901.cpp,file
+JY901.h,file
+JY901_I2C,dir
+JY901_SERIAL,dir
+LEVEL_SHIFTER.kicad_sch,file
+LGA-14_2.5X3X0.86_.kicad_mod,file
+LICENCE.md,file
+LICENSE,file
+LM2596S_MODULE.kicad_mod,file
+LSM6DSO,dir
+LSM6DSOTR,dir
+LSM6DSOTR.dcm,file
+LSM6DSOTR.lib,file
+LSM6DSOTR.mod,file
+LSM6DSOTR.stp,file
+Legal.md,file
+LowLevel,dir
+Lubluelu_Drive_Motor.xml,file
+MAX2040,dir
+MAX2040.dcm,file
+MAX2040.kicad_mod,file
+MAX2040.lib,file
+MAX2040.mod,file
+MAXIM_90-100129.step,file
+MCU_Module.kicad_sym,file
+MCU_RaspberryPi_and_Boards.dcm,file
+MCU_RaspberryPi_and_Boards.lib,file
+MCU_RaspberryPi_and_Boards.pretty,dir
+MPU9250,dir
+Module.pretty,dir
+MyModules.kicad_sym,file
+MyModules.lib,file
+MyModules.pretty,dir
+OpenMowerMainboard,dir
+OpenMowerMainboard.kibot.yaml,file
+OpenMowerMainboard.kicad_pcb,file
+OpenMowerMainboard.kicad_pro,file
+OpenMowerMainboard.kicad_sch,file
+OpenMowerMainboardLib.kicad_sym,file
+PinHeader_1x04_P2.54mm_Horizontal.kicad_mod,file
+README,file
+"README-Sound, DFPIS5V.md",file
+README.md,file
+RP-Pico Libraries,dir
+RP-PicoW Libraries,dir
+RP2040-QFN-56.kicad_mod,file
+RPi_Hat.lib,file
+RPi_Pico_SMD_TH.kicad_mod,file
+RaspberryPi.kicad_sch,file
+RaspberryPiConfig,dir
+Raspberry_Pi_Pico_AddOn.kicad_mod,file
+Raspberry_Pi_Pico_SMT_THT.kicad_mod,file
+Raspberry_Pi_Pico_THT.kicad_mod,file
+Robot.txt,file
+RobotConnectors.kicad_sch,file
+SHK20L.kicad_mod,file
+SOP50P810X120-48N.kicad_mod,file
+SOP65P640X120-14N.kicad_mod,file
+SOT95P280X145-5N.kicad_mod,file
+SW-SMD_MK-11C04-G013.kicad_mod,file
+SW-SMD_MK-11C04-G013.wrl,file
+SW-TH_DA-01BP.kicad_mod,file
+SW-TH_DA-01BP_L3.6-W10.0-H9.9-P2.54.wrl,file
+SerialRedirect,dir
+SerialRedirect.ino,file
+SerialRedirect.ino.rpipico.uf2,file
+TSC101CILT,dir
+TSC101CILT.dcm,file
+TSC101CILT.lib,file
+TSC101CILT.mod,file
+TXS0104EPWR,dir
+TXS0104EPWR.dcm,file
+TXS0104EPWR.lib,file
+TXS0104EPWR.mod,file
+TerminalBlock_WAGO_236-404_1x04_P5.00mm_45Degree.kicad_mod,file
+TestMPU9250,dir
+WT901.kicad_mod,file
+WT901_I2C,dir
+WT901_SERIAL,dir
+WTV020.kicad_mod,file
+WTV020.pretty,dir
+XL4016E1 8A Buck Converter.STEP,file
+YardForce_Classic_Drive_App.xml,file
+YardForce_Classic_Drive_Motor.xml,file
+YardForce_Classic_Mower_App.xml,file
+YardForce_Classic_Mower_Motor.xml,file
+YardForce_SA650ECO_Drive_Motor.xml,file
+YardForce_SA650ECO_Mower_Motor.xml,file
+arduino.lib,file
+bin,dir
+bom.ini,file
+ci.yaml,file
+clion_cmake_settings.png,file
+config.txt,file
+configs,dir
+datatypes.h,file
+dcdc.kicad_sch,file
+debug.h,file
+dfplayer-clone_cut-pin.png,file
+ene9ba_footprint.pretty,dir
+ene9ba_library.kicad_sym,file
+ene9ba_library.lib,file
+escs.kicad_sch,file
+example_dataset.png,file
+fp-lib-table,file
+img,dir
+imu,dir
+imu.cpp,file
+imu.h,file
+imu.kicad_sch,file
+include,dir
+keywords.txt,file
+lcsc.3dshapes,dir
+lcsc.kicad_sym,file
+lcsc.pretty,dir
+lib,dir
+library.json,file
+library.properties,file
+mag_calibration,dir
+main.cpp,file
+mainboard.jpg,file
+mosfet_switch.kicad_sch,file
+mower_PowerDeviceCarrier.kibot.yaml,file
+mower_PowerDeviceCarrier.kicad_pcb,file
+mower_PowerDeviceCarrier.kicad_pro,file
+mower_PowerDeviceCarrier.kicad_sch,file
+mower_buttons,dir
+mp3,dir
+opamps.kicad_sch,file
+open_mower_app_1.jpg,file
+open_mower_app_2.jpg,file
+open_mower_header.jpg,file
+open_mower_mainboard.jpg,file
+pico.kicad_sch,file
+pins.h,file
+platformio.ini,file
+plot_mag.gnuplot,file
+plot_mag.sh,file
+press_home.sh,file
+press_s1.sh,file
+press_s2.sh,file
+press_start.sh,file
+rain_sensor.kicad_sch,file
+redirect_serial.sh,file
+scripts,dir
+sound_module.kicad_sch,file
+soundfiles,dir
+soundsystem.cpp,file
+soundsystem.h,file
+src,dir
+start_openocd.sh,file
+sym-lib-table,file
+test,dir
+ui_board.cpp,file
+ui_board.h,file
+upload_firmware.sh,file
+utils,dir
+workflows,dir
+xESC,dir
+xESC2.kicad_mod,file
+xESC2.kicad_sym,file
+xESC2.pretty,dir

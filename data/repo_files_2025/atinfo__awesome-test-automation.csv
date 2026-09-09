@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+CONTRIBUTING.md,file
+README.md,file
+automation-and-testing-as-service.md,file
+c#-test-automation.md,file
+general-purpose-test-automation-tools.md,file
+java-test-automation.md,file
+javascript-test-automation.md,file
+kotlin-test-automation.md,file
+mobile-test-automation.md,file
+php-test-automation.md,file
+python-test-automation.md,file
+ruby-test-automation.md,file

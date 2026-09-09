@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.rst,file
+README_CN.rst,file
+download.py,file
+papers.txt,file
+resource_urls,dir
+url_checker.py,file

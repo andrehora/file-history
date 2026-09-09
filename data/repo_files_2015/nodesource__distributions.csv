@@ -1,0 +1,15 @@
+name,type
+LICENSE.md,file
+README.md,file
+deb,dir
+package,dir
+package.json,file
+rpm,dir
+server.js,file
+setup,file
+setup_dev,file
+test,dir
+test,file
+test-docker.sh,file
+test.js,file
+test.sh,file

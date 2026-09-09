@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+Makefile,file
+README.md,file
+actions,dir
+git-standup,file
+installer.sh,file
+package.json,file
+shellcheck,file
+shfmt,file
+snap,dir
+snapcraft.yaml,file

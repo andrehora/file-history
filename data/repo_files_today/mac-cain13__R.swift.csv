@@ -1,0 +1,390 @@
+name,type
+#column,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.rswiftignore,file
+@@.strings,file
+A Nested Folder,dir
+ADuplicateCellView.xib,file
+AccentColor.colorset,dir
+AccessibilityIdentifier+Generator.swift,file
+App,dir
+App Icon - Large.imagestack,dir
+App Icon - Small.imagestack,dir
+App.swift,file
+App.xcscheme,file
+AppDelegate.swift,file
+AppIcon-1.png,file
+AppIcon-2.png,file
+AppIcon-3.png,file
+AppIcon.appiconset,dir
+AppIcon.png,file
+AppTests,dir
+AppTests.swift,file
+Array+Extensions.swift,file
+AssetCatalog+Generator.swift,file
+AssetCatalog+Parser.swift,file
+AssetCatalog.swift,file
+AssetCatalogMergedNamespaces.swift,file
+Assets.xcassets,dir
+AveriaLibre-B.ttf,file
+AveriaLibre-BI.ttf,file
+AveriaLibre-L.ttf,file
+AveriaLibre.ttf,file
+Back.imagestacklayer,dir
+Bar,dir
+Bar.swift,file
+Bar.xcscheme,file
+Base.lproj,dir
+Brand Assets.brandassets,dir
+BrightWhite.colorset,dir
+BuildPhaseExample.png,file
+Bundle+Extensions.swift,file
+CellCollectionView.xib,file
+CellView.xib,file
+Circular.imageset,dir
+ClipAssets.xcassets,dir
+ColorResource+Integrations.swift,file
+ColorResource.swift,file
+Colors.jpg,file
+Colors@2x.jpg,file
+Colors@2x~ipad.jpg,file
+Colors@3x.jpg,file
+Colors~ipad@2x.jpg,file
+Complication.complicationset,dir
+Config.swift,file
+Conflicting.imageset,dir
+Content.imageset,dir
+ContentView.swift,file
+Contents.json,file
+Contribute.md,file
+CustomImport.png,file
+CustomSegue.swift,file
+DataResource+Integrations.swift,file
+DataResource.swift,file
+DemoRenameImage.gif,file
+DemoUseImage.gif,file
+DeploymentTarget+Parser.swift,file
+DeploymentTarget.swift,file
+Documentation,dir
+Duplicate,dir
+Duplicate#.strings,file
+Duplicate.json,file
+Duplicate.storyboard,file
+Duplicate.strings,file
+Duplicate.xib,file
+DuplicateCellView.xib,file
+Examples,dir
+Examples.md,file
+ExplicitCustomModule.png,file
+ExplicitInclude.ignoreme.png,file
+ExtensionDelegate.swift,file
+Extensions,dir
+Extra Large.imageset,dir
+FileResource+Generator.swift,file
+FileResource+Integrations.swift,file
+FileResource+Parser.swift,file
+FileResource.swift,file
+FileSystemSynchronized,dir
+FileSystemSynchronized.xcodeproj,dir
+Files,dir
+FilesTests.swift,file
+FirstViewController.swift,file
+Folder,dir
+Folder1,dir
+Folder2,dir
+Folder3 copy,dir
+Folder3 copy 2,dir
+FontResource+Generator.swift,file
+FontResource+Integrations.swift,file
+FontResource+Parser.swift,file
+FontResource.swift,file
+Fonts,dir
+FontsTests.swift,file
+Foo,dir
+Foo.swift,file
+Foo.xcscheme,file
+FormatPart+Extensions.swift,file
+Front.imagestacklayer,dir
+GdyBkltter1911.ttf,file
+GeneratedId.swift,file
+Generic.strings,file
+Generic.stringsdict,file
+Glob.swift,file
+GlobTests.swift,file
+Graphic Bezel.imageset,dir
+Graphic Circular.imageset,dir
+Graphic Corner.imageset,dir
+Graphic Extra Large.imageset,dir
+Graphic Large Rectangular.imageset,dir
+Group1,dir
+IDEWorkspaceChecks.plist,file
+IgnoreFile.swift,file
+IgnoreTests.swift,file
+Ignoring.md,file
+ImageResource+Integrations.swift,file
+ImageResource+Parser.swift,file
+ImageResource.swift,file
+ImageStackAsset.imagestack,dir
+ImageTests.swift,file
+Images,dir
+Images.xcassets,dir
+Images2.xcassets,dir
+Info.plist,file
+InfoPlistTests.swift,file
+Inner,dir
+Inner group,dir
+Integrations,dir
+Interface.storyboard,file
+InterfaceController.swift,file
+Keep.dont.ignoreme.png,file
+Keyboard Focus Indicator color.colorset,dir
+LaunchImage.launchimage,dir
+LaunchScreen.storyboard,file
+LaunchScreen.xib,file
+License,file
+LocaleReference+Generator.swift,file
+LocaleReference.swift,file
+Localizable.strings,file
+Localized,dir
+LocalizedStringApp,dir
+LocalizedStringApp Dutch.xcscheme,file
+LocalizedStringApp English (GB).xcscheme,file
+LocalizedStringApp English.xcscheme,file
+LocalizedStringApp French (Canada).xcscheme,file
+LocalizedStringApp French.xcscheme,file
+LocalizedStringApp Turkish.xcscheme,file
+LocalizedStringApp.xcodeproj,dir
+LocalizedStringApp.xcscheme,file
+LocalizedStringAppTests,dir
+LocalizedStringAppTests.swift,file
+Main.storyboard,file
+MainTests.swift,file
+MainUI,dir
+MainUI.entitlements,file
+MainUIApp.swift,file
+ManualBuildPhaseExample.png,file
+Media.xcassets,dir
+Middle.imagestacklayer,dir
+Migration.md,file
+Modular.imageset,dir
+ModuleReference.swift,file
+My Red.colorset,dir
+My View.xib,file
+MyColor.colorset,dir
+MySiriIntents.intentdefinition,file
+MySiriIntents.strings,file
+MyStoryboard.storyboard,file
+MyStoryboard.strings,file
+MyViewController.swift,file
+NameCatalog.swift,file
+Namespace,dir
+Namespace 1,dir
+Namespace 2,dir
+Namespace-,dir
+NamespacedSubfolders.png,file
+Nib+Generator.swift,file
+Nib+Parser.swift,file
+NibParserDelegateTests.swift,file
+NibReference+Integrations.swift,file
+NibResource.swift,file
+NibTests.swift,file
+Nogeeen,dir
+Not dupe.colorset,dir
+NotificationController.swift,file
+Package.resolved,file
+Package.swift,file
+Plugins,dir
+Podfile,file
+Podfile.lock,file
+Preview Assets.xcassets,dir
+Preview Content,dir
+ProjectResources.swift,file
+PropertyList+Parser.swift,file
+PropertyListResource+Generator.swift,file
+PropertyListResource.swift,file
+PushNotificationPayload.apns,file
+QandA.md,file
+R.swift.podspec,file
+README.md,file
+Readme.md,file
+References.storyboard,file
+Relative To Project,dir
+RelativeToProject.xib,file
+ResourceApp,dir
+ResourceApp-tvOS,dir
+ResourceApp-tvOS.xcscheme,file
+ResourceApp-watchOS,dir
+ResourceApp-watchOS (Notification).xcscheme,file
+ResourceApp-watchOS-Extension,dir
+ResourceApp-watchOS.xcscheme,file
+ResourceApp.xcodeproj,dir
+ResourceApp.xcscheme,file
+ResourceApp.xcworkspace,dir
+ResourceAppTests,dir
+ResourceAppTests-tvOS,dir
+ResourceAppTests-tvOS.xcscheme,file
+ResourceAppTests.swift,file
+ResourceParsingError.swift,file
+Resources,dir
+Reusable.swift,file
+ReuseIdentifier+Generator.swift,file
+ReuseIdentifier+Integrations.swift,file
+Root.plist,file
+Root.strings,file
+RswiftAppWithStaticFrameworks,dir
+RswiftAppWithStaticFrameworks.xcodeproj,dir
+RswiftCore.swift,file
+RswiftGenerateInternalResources,dir
+RswiftGenerateInternalResources.swift,file
+RswiftGeneratePublicResources,dir
+RswiftGeneratePublicResources.swift,file
+RswiftGenerateResourcesCommand,dir
+RswiftGenerateResourcesCommand.swift,file
+RswiftGenerators,dir
+RswiftGeneratorsTests,dir
+RswiftModifyXcodePackages,dir
+RswiftModifyXcodePackages.swift,file
+RswiftParsers,dir
+RswiftParsersTests,dir
+RswiftResources,dir
+RswiftSPMInstallation.mp4,file
+RswiftUI,dir
+RswiftUI.xcodeproj,dir
+RswiftUIApp.swift,file
+RswiftUIAppClip,dir
+RswiftUIAppClip.entitlements,file
+RswiftUIAppClipApp.swift,file
+RtvApp,dir
+RtvApp.xcodeproj,dir
+RunBuildToolPluginsBlank.png,file
+RunBuildToolPluginsRswift.png,file
+RunXcodeModifyPackages.png,file
+RwatchApp,dir
+RwatchApp.xcodeproj,dir
+SceneDelegate.swift,file
+Second.imageset,dir
+SecondViewController.swift,file
+Secondary.storyboard,file
+Segue+Generator.swift,file
+SegueIdentifier+Integrations.swift,file
+SegueIdentifiers.storyboard,file
+SegueTests.swift,file
+Settings.bundle,dir
+Settings.strings,file
+Settings.stringsdict,file
+Shared,dir
+Sky.tiff,file
+Slightly transparant.colorset,dir
+Some Folder,dir
+Some.json,file
+SourceTreeURLs.swift,file
+Sources,dir
+Specials.storyboard,file
+Storyboard+Generator.swift,file
+Storyboard+Parser.swift,file
+StoryboardReference+Integrations.swift,file
+StoryboardReference.swift,file
+StoryboardResource.swift,file
+StoryboardTests.swift,file
+String+Extensions.swift,file
+StringParam+Extensions.swift,file
+StringParam.swift,file
+StringResource+Integrations.swift,file
+StringResource.swift,file
+Strings,dir
+StringsTable+Generator.swift,file
+StringsTable+Parser.swift,file
+StringsTable.swift,file
+StringsTests.swift,file
+Struct.swift,file
+StructMembersBuilder.swift,file
+Subdir,dir
+SupplementaryElement.xib,file
+SupportedExtensions.swift,file
+SwiftIdentifier.swift,file
+SwiftSyntax,dir
+TabBarItem.storyboard,file
+Tests,dir
+The App Icon.png,file
+TheAppClip,dir
+TheAppClip.entitlements,file
+TheAppClipApp.swift,file
+TheAppIcon.imageset,dir
+Top Shelf Image Wide.imageset,dir
+Top Shelf Image.imageset,dir
+TypeReference+Extensions.swift,file
+TypeReference+Generator.swift,file
+TypeReference.swift,file
+URL+Extensions.swift,file
+Unifiable.swift,file
+User.png,file
+User1.png,file
+User@white.png,file
+User@white@2x.png,file
+User@white@3x.png,file
+Utilitarian.imageset,dir
+ValidationError.swift,file
+ValidationTests.swift,file
+View.xib,file
+ViewController.swift,file
+WhitespaceReuseIdentifer.xib,file
+XcodeProject+Generator.swift,file
+Xcodeproj.swift,file
+Xib with ViewController.xib,file
+__FILE__,file
+allWhiteSmall.png,file
+associatedtype,file
+ca.lproj,dir
+checks.yml,file
+conflicting,dir
+contents.xcworkspacedata,file
+copy_bundles.sh,file
+duplicate.storyboard,file
+duplicate.xib,file
+duplicateJson,file
+eerste.imageset,dir
+eight.strings,file
+en-GB.lproj,dir
+en.lproj,dir
+es.lproj,dir
+first nested.imageset,dir
+first.imageset,dir
+first.pdf,file
+five.strings,file
+four.strings,file
+fr-CA.lproj,dir
+fr.lproj,dir
+hand three.png,file
+hand-two.png,file
+hand.ignoreme.imageset,dir
+hand.ignoreme.png,file
+hand2 three.png,file
+hand2-two.png,file
+hand3 three.png,file
+hand3-two.png,file
+hello.txt,file
+icon.ignoreme.png,file
+ja.lproj,dir
+nine.strings,file
+nl.lproj,dir
+one.strings,file
+person.png,file
+project.pbxproj,file
+project.xcworkspace,dir
+release.yml,file
+rswift,dir
+second nested.imageset,dir
+second.imageset,dir
+second.pdf,file
+seven.strings,file
+six.strings,file
+swiftpm,dir
+ten.stringsdict,file
+third.imageset,dir
+three.strings,file
+two.strings,file
+workflows,dir
+xcschemes,dir
+xcshareddata,dir

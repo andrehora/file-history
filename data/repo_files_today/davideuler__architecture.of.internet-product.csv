@@ -1,0 +1,176 @@
+name,type
+.gitmodules,file
+1.Google.Facebook.eBay.Amazon,dir
+2004.07213 Toward Trustworthy AI Development - Mechanisms for Supporting Verifiable Claims.pdf,file
+2005.14165 Language Models are Few-Shot Learners.pdf,file
+2013_PyCon_awesome_Big_Data_algorithms.pdf,file
+20140114-webinar-get-more-out-of-mongodb-with-tokumx-140319063324-phpapp02.pptx,file
+2112.10752 High-Resolution Image Synthesis with Latent Diffusion Models.pdf,file
+2203.02155 Training language models to follow instructions with human feedback.pdf,file
+2209.00796 Diffusion Models - A Comprehensive Survey of Methods and Applications.pdf,file
+2210.10760 Scaling Laws for Reward Model Overoptimization.pdf,file
+2303.10420 A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models.pdf,file
+2306.04542 On the Design Fundamentals of Diffusion Models - A Survey.pdf,file
+4+1view-architecture.pdf,file
+8.13-Best-Tech-Papers,dir
+9.50-favorite-technical-papers,dir
+A Few Billion Lines of Code Later - Using Static Analysis to Find Bugs in the Real World - ACM - 2010 (BLOC-coverity).pdf,file
+A Few Billion Lines of Code Later.html,file
+A Few Useful Things to Know about Machine Learning cacm12.pdf,file
+A Field Guide to Boxology - Preliminary Classification of Architectural Styles for Software Systems.pdf,file
+A Laboratory For Teaching Object-Oriented Thinking.pdf,file
+A pragmatic view of the system architect.pdf,file
+Amazon Aurora - Design Considerations for High Throughput Cloud-Native Relational Databases-p1041-verbitski.pdf,file
+An Experimental Evaluation of The Assumption of Independence in MultiVersion Programming.pdf,file
+An Introduction to Software Architecture.pdf,file
+An introduction_to_software_arch.pdf,file
+Arguments and results.pdf,file
+Availability in Globally Distributed Storage Systems.pdf,file
+Big Ball of Mud.pdf,file
+Buffer Pool Implementation InnoDB vs Oracle.pdf,file
+Building_Go_Web_Application.pdf,file
+CIDR15_Paper16.pdf,file
+CMU-CS-95-113.pdf,file
+Can Programming Be Liberated from the von Neumann Style.pdf,file
+Canopy An End-to-End Performance Tracing And Analysis System-sosp17-final14.pdf,file
+ChatGPT-LLM-Diffusion,dir
+Citrusleaf-- A Real-Time NoSQL DB which Preserves ACID vldb2011.pdf,file
+Codis-intro.pdf,file
+DALL_E_3_System_Card.pdf,file
+Data Structures and Algorithms for  Big Databases.pdf,file
+Design to deployment at Google.pdf,file
+DownloadDocumentFile.pdf,file
+EntrepreneurialInnovationGoogle.pdf,file
+F.10 papers for architect,dir
+F.10 papers for programmer,dir
+FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf,file
+Frederick_Brooks_87-No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering.pdf,file
+Functional Design Patterns.pdf,file
+GDD_pydp_python_design_patterns.pdf,file
+GPT-4_vs_GPT-35_A_Concise_Showdown.pdf,file
+Go_To_Considered_Harmful.txt,file
+Golang,dir
+Google Sibyl- A system for large scale supervised machine learning chandra.pdf,file
+Google-Large Scale Deep Learning-Jeff-Dean-CIKM-keynote-Nov2014.pdf,file
+Google-What-does-it-take-to-make-Google-work-at-scale.pdf,file
+HTTP 2.0 - Tokyo.pdf,file
+"Harvest, Yield, and Scalable Tolerant Systems .pdf",file
+Haskell in the Large.pdf,file
+Hints for Computer System Design - Microsoft.pdf,file
+Hints for computer system design.pdf,file
+How Complex Systems Fail.pdf,file
+Inside BeansDB.pdf,file
+Instagram web-service-at-instagram.pdf,file
+Interface Design for Spark Community by Reynold Xin.pdf,file
+Introducing ChatGPT.pdf,file
+Introduction to kubernetes - yangzhangxian.pptx,file
+Kafka.pdf,file
+Kruchten 2006 architecture 10 years.pdf,file
+LaSC-4-3-pp223-242.pdf,file
+Lamport_82-The_Byzantine_Generals_Problem.pdf,file
+Large-Scale Automated Refactoring Using ClangMR.pdf,file
+Learn_Basic_Ansible_using_Docker.ppt,file
+Learn_Docker_in_90mins.ppt,file
+Lessons learned on language model safety and misuse.pdf,file
+Life-Beyond-Distributed-Transactions.pdf,file
+Linux Profiling at Netflix.pdf,file
+Linux System and Performance Monitoring (Darren Hoch).pdf,file
+Lisp Good NewsBad News How to Win Big.pdf,file
+Meet GPT-3. It Has Learned to Code (and Blog and Argue). - The New York Times.pdf,file
+Memory-and-C++-debugging-at-EA-2015.pptx,file
+"Netflix Culture, Freedom and Responsibility.pptx",file
+NeurIPS-2022-training-language-models-to-follow-instructions-with-human-feedback-Paper-Conference.pdf,file
+No Silver Bullet Essence and Accidents of Software Engineering.pdf,file
+OceanBase1.pdf,file
+"On understanding types, data abstraction, and polymorphism.pdf",file
+On_the_Design_and_Development_of_Program.pdf,file
+Online Asynchronous Schema Change in F1.pdf,file
+OpenAI InstructGPT-Aligning language models to follow instructions.pdf,file
+Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf,file
+Programmin_In_Large_versus_In_Small-Kron.pdf,file
+Programming as an Experience The Inspiration for Self.pdf,file
+README.md,file
+Reflections on Trusting Trust.pdf,file
+Searching for Build Debt - Experiences Managing Technical Debt at Google.pdf,file
+Security Keys - Practical Cryptographic Second Factors for the Modern Web.pdf,file
+Software Architecture in Inductrial Applications.pdf,file
+Spanner Google Globally-Distributed Database.pdf,file
+Spark - Unified Big Data Analytics Pipeline.pdf,file
+Spark A-Web-Application-for-Interactive-Data-Analysis-with-Spark-Romain-Rigaux.pdf,file
+Step by Step visual introduction to Diffusion Models _ Medium.pdf,file
+Still All on One Server - Perforce at Scale.pdf,file
+The Byzantine Generals Problem.pdf,file
+The Coming-of-Age of Software Architecture Research.pdf,file
+The Next 700 Programming Languages.pdf,file
+The Open-Closed Principle.pdf,file
+The_Modular_Structure_of_Complex_Systems.pdf,file
+Think-In-Go.pdf,file
+Tools for Advanced Prototyping for Mobile Apps.pdf,file
+Toward Scalable Systems for Big Data Analytics.pdf,file
+UCB-lattice-tr.pdf,file
+Unreliable Failure Detectors for Reliable Distributed Systems-p225-chandra.pdf,file
+Video generation models as world simulators.pdf,file
+Whitepaper_NoSQL_Tech_Comparison_Report.pdf,file
+Who Needs an Architect.pdf,file
+Zab High-performance broadcast for primary-backup systems.html,file
+Zab High-performance broadcast for primary-backup systems.pdf,file
+a note on distributed computing.pdf,file
+amazon-dynamo-sosp2007.pdf,file
+amazon_dynamo_sosp2007.pdf,file
+architecture-qq-group.png,file
+axiomatic-basis-computer-programming.pdf,file
+big-challenges.pdf,file
+bigballofmud.pdf,file
+bigtable-osdi06.pdf,file
+blast.pdf,file
+borg.pdf,file
+chatgpt-feedback-contest.pdf,file
+chubby-osdi06.pdf,file
+criteria_for_modularization.pdf,file
+dapper.pdf,file
+design-container-based-systems.pdf,file
+download.html,file
+eBay Architecture(Tony Ng) 2011- Tony NG.pdf,file
+ebay_2006_architecture.pdf,file
+ebay_2009_arch_Best Practices for Scaling Websites Lessons from eBay.pdf,file
+ebay_2010_Principles and Patterns of eBay Architecture.ppt,file
+ebay_2010_RandyShoup_More Best Practices For Large Scale WebSites Lessons From EBay.pdf,file
+eurosys07.pdf,file
+facebook_architecture.pdf,file
+facebook_performance_caching-dc.pdf,file
+favorite-technical-papers.html,file
+fibjs.pdf,file
+foundation-for-the-study-of-software-arch.pdf,file
+fundamental-concepts-in-programming-languages.pdf,file
+gfs.pdf,file
+hamilton.pdf,file
+hotedge-2018-preprint.pdf,file
+ieee std 1471-2000.pdf,file
+login_dec14_02_ward.pdf,file
+mapreduce.pdf,file
+mature-optimization.epub,file
+memcache-fb.pdf,file
+memcachedasaserviceusingdocker-130410163221-phpapp02.pdf,file
+mesos.pdf,file
+modstructure.ppt,file
+mysql-mongo-for-mysql-dba-webinar.pdf,file
+omega.pdf,file
+on the criteria to be used in decomposing systems into modules.txt,file
+online learning algorithm-taoshuai.pptx,file
+outofthetarpit.pdf,file
+p558-lamport.pdf,file
+paxos-made-simple.pdf,file
+paxos_made_live.pdf,file
+pygrunn2014.pdf,file
+qconbeijing-20140426am-luoqiwu.pdf,file
+raft.pdf,file
+recursive.pdf,file
+rules_of_ml.pdf,file
+sofsem10.pdf,file
+state of gpt.pdf,file
+swim.pdf,file
+techreport.pdf,file
+time-clocks.pdf,file
+unix_timesharing_system.pdf,file
+vldb.pdf,file
+wormhole.pdf,file

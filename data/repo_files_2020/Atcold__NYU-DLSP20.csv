@@ -1,0 +1,49 @@
+name,type
+.gitignore,file
+00 - Logic neurons.pdf,file
+00 - ML taxonomy.pdf,file
+00-logic_neuron_programming.ipynb,file
+01 - Spiral classification.pdf,file
+01-tensor_tutorial.ipynb,file
+02 - CNN.pdf,file
+02-space_stretching.ipynb,file
+03 - Salsa.pdf,file
+03-autograd_tutorial.ipynb,file
+04 - RNN.pdf,file
+04-spiral_classification.ipynb,file
+05 - Generative models.pdf,file
+05-regression.ipynb,file
+06 - How to present.pdf,file
+06-convnet.ipynb,file
+07 - Regularisation.pdf,file
+07-listening_to_kernels.ipynb,file
+08 - Bayesian NN.pdf,file
+08-seq_classification.ipynb,file
+09 - Controller learning.pdf,file
+09-echo_data.ipynb,file
+10-autoencoder.ipynb,file
+11-VAE.ipynb,file
+12-regularization.ipynb,file
+13-bayesian_nn.ipynb,file
+14-truck_backer-upper.ipynb,file
+README.md,file
+a-projections.ipynb,file
+adder_circuit.png,file
+apt.txt,file
+assignments,dir
+car-trailer-k.png,file
+car-trailer-w.png,file
+environment.yml,file
+extra,dir
+half-adder_circuit.png,file
+hw1.pdf,file
+hw1_solutions.pdf,file
+hw2.pdf,file
+plot_lib.py,file
+res,dir
+score.png,file
+sequential_tasks.py,file
+slides,dir
+tikz_guide.pdf,file
+win_xp_shutdown.wav,file
+x-or_circuit.png,file

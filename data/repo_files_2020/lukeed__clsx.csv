@@ -1,0 +1,16 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.travis.yml,file
+bench,dir
+chrome.png,file
+classnames.js,file
+clsx.d.ts,file
+firefox.png,file
+index.js,file
+license,file
+package.json,file
+readme.md,file
+safari.png,file
+src,dir
+test,dir

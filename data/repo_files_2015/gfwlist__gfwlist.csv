@@ -1,0 +1,7 @@
+name,type
+addChecksum.pl,file
+checkRules.py,file
+gfwlist.txt,file
+lookup.sh,file
+sendGFWList.sh,file
+validateChecksum.pl,file

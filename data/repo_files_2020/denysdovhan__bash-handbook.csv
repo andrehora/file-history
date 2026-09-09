@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.npmignore,file
+README.md,file
+bin,dir
+cmd.js,file
+ko-KR,dir
+package-lock.json,file
+package.json,file
+pt-BR,dir
+translations,dir
+zh-CN,dir
+zh-TW,dir

@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitmodules,file
+LICENSE,file
+README.md,file
+dracula-pro.png,file
+issue_template.md,file
+pull_request_template.md,file
+stale.yml,file
+themes,dir
+workflows,dir

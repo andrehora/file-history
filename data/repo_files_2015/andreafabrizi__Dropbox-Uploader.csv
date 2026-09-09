@@ -1,0 +1,6 @@
+name,type
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+dropShell.sh,file
+dropbox_uploader.sh,file

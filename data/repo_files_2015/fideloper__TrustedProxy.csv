@@ -1,0 +1,17 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.gitkeep,file
+.travis.yml,file
+Fideloper,dir
+LICENSE.md,file
+Proxy,dir
+ProxyServiceProvider.php,file
+ProxyServiceProviderTest.php,file
+composer.json,file
+config,dir
+config.php,file
+phpunit.xml.dist,file
+readme.md,file
+src,dir
+tests,dir

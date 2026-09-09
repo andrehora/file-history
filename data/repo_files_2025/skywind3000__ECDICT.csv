@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+dictutils.py,file
+ecdict.csv,file
+ecdict.mini.csv,file
+lemma.en.txt,file
+linguist.py,file
+resemble.txt,file
+stardict.7z,file
+stardict.py,file
+wordroot.txt,file

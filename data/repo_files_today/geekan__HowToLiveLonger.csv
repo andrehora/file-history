@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+README_en.md,file
+auto-translate.yml,file
+workflows,dir

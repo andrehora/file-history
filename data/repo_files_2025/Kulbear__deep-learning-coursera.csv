@@ -1,0 +1,139 @@
+name,type
+.gitignore,file
+1-hot-vector.png,file
+1Dgrad_kiank.png,file
+2layerNN_kiank.png,file
+Building a Recurrent Neural Network - Step by Step - v2.ipynb,file
+Building your Deep Neural Network - Step by Step.ipynb,file
+Convolution model - Application - v1.ipynb,file
+Convolution model - Step by Step - v1.ipynb,file
+Convolution_schematic.gif,file
+Convolutional Neural Networks,dir
+Deep Neural Network - Application.ipynb,file
+Dinosaurus Island -- Character level language model final - v3.ipynb,file
+Emojify - v2.ipynb,file
+Gradient Checking.ipynb,file
+"Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization",dir
+Improvise a Jazz Solo with an LSTM Network - v1.ipynb,file
+Initialization.ipynb,file
+Keras - Tutorial - Happy House v1.ipynb,file
+LICENSE,file
+LSTM.png,file
+LSTM_rnn.png,file
+LlayerNN_kiank.png,file
+LogReg_kiank.png,file
+Logistic Regression with a Neural Network mindset.ipynb,file
+NDgrad_kiank.png,file
+Neural Networks and Deep Learning,dir
+Neural machine translation with attention - v2.ipynb,file
+Operations on word vectors - v2.ipynb,file
+Optimization methods.ipynb,file
+PAD.png,file
+Planar data classification with one hidden layer.ipynb,file
+README.md,file
+RNN.png,file
+Regularization.ipynb,file
+Residual Networks - v1.ipynb,file
+SIGNS.png,file
+Sequence Models,dir
+Structuring Machine Learning Projects,dir
+Tensorflow Tutorial.ipynb,file
+Trigger word detection - v1.ipynb,file
+Week 1 Quiz - Bird recognition in the city of Peacetopia (case study).md,file
+Week 1 Quiz - Introduction to deep learning.md,file
+Week 1 Quiz - Practical aspects of deep learning.md,file
+Week 2 Quiz - Autonomous driving (case study).md,file
+Week 2 Quiz - Neural Network Basics.md,file
+Week 2 Quiz - Optimization algorithms.md,file
+"Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks.md",file
+Week 3 Quiz - Shallow Neural Networks.md,file
+Week 4 Quiz - Key concepts on Deep Neural Networks.md,file
+a_pool.png,file
+attn_mechanism.png,file
+attn_model.png,file
+ave-pool.png,file
+ave_pool1.png,file
+average_pool.png,file
+backprop_kiank.png,file
+classification_kiank.png,file
+clip.png,file
+conv.png,file
+conv1.png,file
+conv_kiank.mp4,file
+conv_nn.png,file
+convblock_kiank.png,file
+cosine_sim.png,file
+cost.jpg,file
+data_set.png,file
+dataset_kiank.png,file
+date_attention.png,file
+date_attention2.png,file
+dictionary_to_vector.png,file
+dino.jpg,file
+dinos3.png,file
+dropout1_kiank.mp4,file
+dropout2_kiank.mp4,file
+emb_kiank.png,file
+embedding1.png,file
+emo_model.png,file
+emojifier-v2.png,file
+emojifierv1.png,file
+emojify_model.png,file
+emojiss.png,file
+equalize10.png,file
+field_kiank.png,file
+final outline.png,file
+grad_summary.png,file
+hands.png,file
+happy-house.jpg,file
+house-members.png,file
+idblock2_kiank.png,file
+idblock3_kiank.png,file
+image_1.png,file
+images,dir
+imvectorkiank.png,file
+initial_state.png,file
+jazz.jpg,file
+kiank_minibatch.png,file
+kiank_partition.png,file
+kiank_sgd.png,file
+kiank_shuffle.png,file
+label_diagram.png,file
+linearback_kiank.png,file
+lookup.png,file
+mangosaurus.jpeg,file
+max_pool.png,file
+max_pool1.png,file
+mn_backward.png,file
+model.png,file
+model_architecture_kiank.png,file
+model_trigger.png,file
+music_gen.png,file
+music_generation.png,file
+my_image.jpg,file
+neutral.png,file
+neutralize.png,file
+neutralize_kiank.png,file
+onehot.png,file
+ones_reference.png,file
+opt_momentum.png,file
+poorly_trained_model.png,file
+resnet_kiank.png,file
+rnn1.png,file
+rnn_cell_backprop.png,file
+rnn_step_forward.png,file
+rnn_utils.py,file
+sgd.gif,file
+sgd_bad.gif,file
+shakespeare.jpg,file
+signs_data_kiank.png,file
+skip_connection_kiank.png,file
+sound.png,file
+spectrogram.png,file
+table.png,file
+thumbs_up.jpg,file
+train_label.png,file
+train_reference.png,file
+vanishing_grad_kiank.png,file
+vert_horiz_kiank.png,file
+woebot.png,file

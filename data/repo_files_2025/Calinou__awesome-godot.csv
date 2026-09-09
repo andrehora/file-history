@@ -1,0 +1,11 @@
+name,type
+.editorconfig,file
+.github,dir
+.pre-commit-config.yaml,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+check-urls.yml,file
+dependabot.yml,file
+godot-logo.svg,file
+workflows,dir

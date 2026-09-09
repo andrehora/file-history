@@ -1,0 +1,9 @@
+name,type
+CHANGELOG.md,file
+PRIVACY_POLICY.md,file
+README.md,file
+_.config.yml,file
+_layouts,dir
+default.html,file
+docs,dir
+version.json,file

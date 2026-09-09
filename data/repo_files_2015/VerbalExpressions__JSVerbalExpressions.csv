@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.npmignore,file
+.travis.yml,file
+Gruntfile.js,file
+LICENSE,file
+README.md,file
+VerbalExpressions.js,file
+bower.json,file
+index.html,file
+lib,dir
+package.json,file
+qunit.css,file
+qunit.js,file
+test,dir
+teste.html,file
+tests.js,file

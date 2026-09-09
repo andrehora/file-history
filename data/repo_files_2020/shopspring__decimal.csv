@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+decimal-go.go,file
+decimal.go,file
+decimal_test.go,file
+go.mod,file
+rounding.go,file

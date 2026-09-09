@@ -1,0 +1,347 @@
+name,type
+3024 Day.terminal,file
+3024 Night.terminal,file
+3024_day.png,file
+3024_night.png,file
+AdventureTime.terminal,file
+Afterglow.terminal,file
+Alabaster.terminal,file
+AlienBlood.terminal,file
+Alucard.terminal,file
+Argonaut.terminal,file
+Arthur.terminal,file
+AtelierSulphurpool.terminal,file
+Atom One Light.terminal,file
+Atom.terminal,file
+Ayu Mirage.terminal,file
+Batman.terminal,file
+Belafonte Day.terminal,file
+Belafonte Night.terminal,file
+Bifrost.terminal,file
+BirdsOfParadise.terminal,file
+Blazer.terminal,file
+Borland.terminal,file
+Bright Lights.terminal,file
+Broadcast.terminal,file
+Brogrammer.terminal,file
+C64.terminal,file
+CLRS.terminal,file
+Chalice Dark.terminal,file
+Chalice.terminal,file
+Chalk.terminal,file
+Chalkboard.terminal,file
+Ciapre.terminal,file
+Cobalt Neon.terminal,file
+Cobalt2.terminal,file
+CrayonPonyFish.terminal,file
+Dark Pastel.terminal,file
+Darkside.terminal,file
+Desert.terminal,file
+DimmedMonokai.terminal,file
+DotGov.terminal,file
+Dracula.terminal,file
+Dumbledore.terminal,file
+Duotone Dark.terminal,file
+ENCOM.terminal,file
+Earthsong.terminal,file
+Elemental.terminal,file
+Espresso Libre.terminal,file
+Espresso.terminal,file
+Fideloper.terminal,file
+FishTank.terminal,file
+Flat.terminal,file
+Flatland.terminal,file
+Floraverse.terminal,file
+FrontEndDelight.terminal,file
+FunForrest.terminal,file
+Galaxy.terminal,file
+Github.terminal,file
+Glacier.terminal,file
+GoaBase.terminal,file
+Grape.terminal,file
+Grass.terminal,file
+Gruber Darker.terminal,file
+Hardcore.terminal,file
+Harper.terminal,file
+Highway.terminal,file
+Hipster Green.terminal,file
+Homebrew.terminal,file
+Hurtado.terminal,file
+Hybrid.terminal,file
+IC_Green_PPL.terminal,file
+IC_Orange_PPL.terminal,file
+IR_Black.terminal,file
+Jackie Brown.terminal,file
+Japanesque.terminal,file
+Jellybeans.terminal,file
+JetBrains Darcula.terminal,file
+Kibble.terminal,file
+Later This Evening.terminal,file
+Lavandula.terminal,file
+LiquidCarbon.terminal,file
+LiquidCarbonTransparent.terminal,file
+LiquidCarbonTransparentInverse.terminal,file
+Man Page.terminal,file
+Mariana.terminal,file
+Material.terminal,file
+MaterialDark.terminal,file
+Mathias.terminal,file
+Medallion.terminal,file
+Misterioso.terminal,file
+Molokai.terminal,file
+MonaLisa.terminal,file
+Monokai Pro (Filter Spectrum).terminal,file
+Monokai Soda.terminal,file
+N0tch2k.terminal,file
+Neopolitan.terminal,file
+Neutron.terminal,file
+Night Owl.terminal,file
+NightLion v1.terminal,file
+NightLion v2.terminal,file
+Nova.terminal,file
+Novel.terminal,file
+Obsidian.terminal,file
+Ocean.terminal,file
+OceanicMaterial.terminal,file
+Ollie.terminal,file
+Parasio Dark.terminal,file
+PaulMillr.terminal,file
+PencilDark.terminal,file
+PencilLight.terminal,file
+Piatto Light.terminal,file
+Pnevma.terminal,file
+Pro.terminal,file
+README.md,file
+Red Alert.terminal,file
+Red Sands.terminal,file
+Relaxed.terminal,file
+Renault Style Light.terminal,file
+Renault Style.terminal,file
+Rippedcasts.terminal,file
+Royal.terminal,file
+SeaShells.terminal,file
+Seafoam Pastel.terminal,file
+Seti.terminal,file
+Shaman.terminal,file
+Slate.terminal,file
+Smyck.terminal,file
+Snazzy.terminal,file
+SoftServer.terminal,file
+Solarized Darcula.terminal,file
+Solarized Dark (patched).terminal,file
+Solarized Dark Higher Contrast.terminal,file
+Solarized Dark.terminal,file
+Solarized Light.terminal,file
+Source Code X.terminal,file
+SpaceGray Eighties Dull.terminal,file
+SpaceGray Eighties.terminal,file
+SpaceGray.terminal,file
+Spacedust.terminal,file
+Spiderman.terminal,file
+Spring.terminal,file
+Square.terminal,file
+Sundried.terminal,file
+Symfonic.terminal,file
+Tango Dark.terminal,file
+Tango Light.terminal,file
+Teerb.terminal,file
+Thayer Bright.terminal,file
+The Hulk.terminal,file
+Tomorrow Night Blue.terminal,file
+Tomorrow Night Bright.terminal,file
+Tomorrow Night Eighties.terminal,file
+Tomorrow Night.terminal,file
+Tomorrow.terminal,file
+ToyChest.terminal,file
+Treehouse.terminal,file
+Twilight.terminal,file
+Ubuntu.terminal,file
+Unikitty.terminal,file
+Urple.terminal,file
+VS Code Dark Plus.terminal,file
+VS Code Light Plus.terminal,file
+Vaughn.terminal,file
+VibrantInk.terminal,file
+WarmNeon.terminal,file
+Wez.terminal,file
+WildCherry.terminal,file
+Wombat.terminal,file
+Wryan.terminal,file
+Zenburn.terminal,file
+adventuretime.png,file
+afterglow.png,file
+alabaster.png,file
+alienblood.png,file
+alucard.png,file
+argonaut.png,file
+arthur.png,file
+ateliersulphurpool.png,file
+atom.png,file
+atomonelight.png,file
+ayu Light.terminal,file
+ayu.png,file
+ayu.terminal,file
+ayu_light.png,file
+ayu_mirage.png,file
+batman.png,file
+belafonte_day.png,file
+belafonte_night.png,file
+bifrost.png,file
+birdsofparadise.png,file
+blazer.png,file
+borland.png,file
+bright_lights.png,file
+broadcast.png,file
+brogrammer.png,file
+c64.png,file
+chalice.png,file
+chalice_dark.png,file
+chalk.png,file
+chalkboard.png,file
+ciapre.png,file
+clrs.png,file
+cobalt2.png,file
+cobalt_neon.png,file
+crayonponyfish.png,file
+dark_pastel.png,file
+darkside.png,file
+desert.png,file
+dimmedmonokai.png,file
+dotgov.png,file
+dracula.png,file
+dumbledore.png,file
+duotone_dark.png,file
+earthsong.png,file
+elemental.png,file
+encom.png,file
+espresso.png,file
+espresso_libre.png,file
+fideloper.png,file
+fishtank.png,file
+flat.png,file
+flatland.png,file
+floraverse.png,file
+frontenddelight.png,file
+funforrest.png,file
+galaxy.png,file
+github.png,file
+glacier.png,file
+goabase.png,file
+grape.png,file
+grass.png,file
+gruber_darker.png,file
+gruvbox.png,file
+gruvbox.terminal,file
+hardcore.png,file
+harper.png,file
+highway.png,file
+hipster_green.png,file
+homebrew.png,file
+hurtado.png,file
+hybrid.png,file
+ic_green_ppl.png,file
+ic_orange_ppl.png,file
+idleToes.terminal,file
+idletoes.png,file
+ir_black.png,file
+iterm2terminal.swift,file
+jackie_brown.png,file
+japanesque.png,file
+jellybeans.png,file
+jetbrains_darcula.png,file
+kibble.png,file
+later_this_evening.png,file
+lavandula.png,file
+liquidcarbon.png,file
+liquidcarbontransparent.png,file
+liquidcarbontransparentinverse.png,file
+man_page.png,file
+mariana.png,file
+material.png,file
+materialdark.png,file
+mathias.png,file
+medallion.png,file
+misterioso.png,file
+molokai.png,file
+monalisa.png,file
+monokai_pro__filter_spectrum_.terminal.png,file
+monokai_soda.png,file
+n0tch2k.png,file
+neopolitan.png,file
+neutron.png,file
+night_owl.png,file
+nightlion_v1.png,file
+nightlion_v2.png,file
+nova.png,file
+novel.png,file
+obsidian.png,file
+ocean.png,file
+oceanicmaterial.png,file
+ollie.png,file
+parasio_dark.png,file
+paulmillr.png,file
+pencildark.png,file
+pencillight.png,file
+piatto_light.png,file
+pnevma.png,file
+preview.sh,file
+pro.png,file
+red_alert.png,file
+red_sands.png,file
+relaxed.png,file
+renault_style.png,file
+renault_style_light.png,file
+rippedcasts.png,file
+royal.png,file
+screenshots,dir
+seafoam_pastel.png,file
+seashells.png,file
+seti.png,file
+shaman.png,file
+slate.png,file
+smyck.png,file
+snazzy.png,file
+softserver.png,file
+solarized_darcula.png,file
+solarized_dark.png,file
+solarized_dark___patched.png,file
+solarized_dark_higher_contrast.png,file
+solarized_light.png,file
+source_code_x.png,file
+spacedust.png,file
+spacegray.png,file
+spacegray_eighties.png,file
+spacegray_eighties_dull.png,file
+spiderman.png,file
+spring.png,file
+square.png,file
+sundried.png,file
+symfonic.png,file
+tango_dark.png,file
+tango_light.png,file
+teerb.png,file
+thayer_bright.png,file
+the_hulk.png,file
+themes,dir
+tomorrow.png,file
+tomorrow_night.png,file
+tomorrow_night_blue.png,file
+tomorrow_night_bright.png,file
+tomorrow_night_eighties.png,file
+tools,dir
+toychest.png,file
+treehouse.png,file
+twilight.png,file
+ubuntu.png,file
+unikitty.png,file
+urple.png,file
+vaughn.png,file
+vibrantink.png,file
+vs_code_dark_plus.png,file
+vs_code_light_plus.png,file
+warmneon.png,file
+wez.png,file
+wildcherry.png,file
+wombat.png,file
+wryan.png,file
+zenburn.png,file

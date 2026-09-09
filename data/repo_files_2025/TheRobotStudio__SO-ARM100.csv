@@ -1,0 +1,100 @@
+name,type
+.gitignore,file
+Alternative_Leader_Controllers,dir
+Base.STL,file
+CAD_SW_2018,dir
+CHANGELOG.md,file
+CMakeLists.txt,file
+End_Servo.STL,file
+FD1.9.8-EN_200923.zip,file
+Feetech_Software,dir
+Fixed_Gripper.STL,file
+Fixed_Jaw.STL,file
+Follower,dir
+Forearm.STL,file
+Gauge_0.STL,file
+Gauge_tight_1.STL,file
+Gauges,dir
+Humeral_Elbow.STL,file
+Individual,dir
+LICENSE,file
+Leader,dir
+Leader_And_Follower.jpg,file
+Lego_Size_Test_02_minuspoint1.STL,file
+Lego_Size_Test_02_zero.STL,file
+Lower_Arm.STL,file
+Moving Jaw.STL,file
+Moving_Jaw.STL,file
+Print_Follower_SO_ARM100_08k_Ender.STL,file
+Print_Follower_SO_ARM100_08k_UP_BambuLabA1Mini_part1.STL,file
+Print_Follower_SO_ARM100_08k_UP_BambuLabA1Mini_part2.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-4.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Base_08q-5.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Moving_Jaw_08d-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Rotation_Pitch_08i-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-2.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-4.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - WaveShare_Mounting_Plate_01d-3.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Wrist_Roll_08c-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa - Wrist_Roll_Pitch_08i-1.STL,file
+Print_Follower_SO_ARM100_08k_UP_Prusa.STL,file
+Print_Leader_SO_ARM100_08k_Ender.STL,file
+Print_Leader_SO_ARM100_08k_UP_BambuLabA1Mini_part1.stl,file
+Print_Leader_SO_ARM100_08k_UP_BambuLabA1Mini_part2.stl,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-3.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-4.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Base_08q-5.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Rotation_Pitch_08i-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-3.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - SO_ARM100_08k-4.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Trigger_04e-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - WaveShare_Mounting_Plate_01d-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_05m_Leader_02ba-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_05m_Leader_02ba-2.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa - Wrist_Roll_Pitch_08i-1.STL,file
+Print_Leader_SO_ARM100_08k_UP_Prusa.STL,file
+README.md,file
+Readme,file
+Rotation_Pitch.STL,file
+SO_5DOF_ARM100_05d.SLDASM,dir
+SO_5DOF_ARM100_05d.SLDASM.csv,file
+SO_5DOF_ARM100_05d.SLDASM.urdf,file
+SO_5DOF_ARM100_08k.STEP,file
+SO_5DOF_ARM100_08k.zip,file
+SO_5DOF_ARM100_8j_URDF.SLDASM,dir
+SO_5DOF_ARM100_8j_URDF.SLDASM.csv,file
+SO_5DOF_ARM100_8j_URDF.SLDASM.urdf,file
+SO_7DOF_ARM100_08h_HL_01d_URDF_01.SLDASM,dir
+SO_7DOF_ARM100_08h_HL_01d_URDF_01.SLDASM.csv,file
+SO_7DOF_ARM100_08h_HL_01d_URDF_01.SLDASM.urdf,file
+STEP,dir
+Shoulder_Pitch_Yaw.STL,file
+Shoulder_Rotation_Pitch.STL,file
+Small_Leader_Test_01a.STL,file
+Trigger_04h.STL,file
+Trigger_Test_01a.zip,file
+URDF,dir
+Upper_Arm.STL,file
+Upper_Humeral.STL,file
+Wrist_Pitch_Roll.STL,file
+Wrist_Roll_Yaw.STL,file
+Wrist_Yaw_Pitch.STL,file
+config,dir
+display.launch,file
+export.log,file
+gazebo.launch,file
+joint_names_SO_5DOF_ARM100_05d.SLDASM.yaml,file
+joint_names_SO_5DOF_ARM100_8j_URDF.SLDASM.yaml,file
+joint_names_SO_7DOF_ARM100_08h_HL_01d_URDF_01.SLDASM.yaml,file
+launch,dir
+media,dir
+meshes,dir
+package.xml,file
+readme,file
+stl_files_for_3dprinting,dir
+urdf,dir

@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+FUNDING.yml,file
+FileSaver.js,file
+FileSaver.min.js,file
+FileSaver.min.js.map,file
+LICENSE.md,file
+README.md,file
+bower.json,file
+dist,dir
+package-lock.json,file
+package.json,file
+src,dir

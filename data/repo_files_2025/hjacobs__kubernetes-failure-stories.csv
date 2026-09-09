@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.markdownlintrc,file
+.travis.yml,file
+Dockerfile,file
+Makefile,file
+README.md,file
+favicon.png,file
+index.html,file
+site,dir
+start.sh,file
+template.html,file
+update.py,file

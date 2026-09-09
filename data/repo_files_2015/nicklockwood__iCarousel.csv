@@ -1,0 +1,503 @@
+name,type
+.gitignore,file
+<UIBarButtonSystemItem> add.png,file
+<UIBarButtonSystemItem> add@2x.png,file
+<UIBarButtonSystemItem> reply.png,file
+<UIBarButtonSystemItem> reply@2x.png,file
+<UINavigationBar> back-highlighted.png,file
+<UINavigationBar> back-highlighted@2x.png,file
+<UINavigationBar> back.png,file
+<UINavigationBar> back@2x.png,file
+<UIPopoverView> arrow-bottom.png,file
+<UIPopoverView> arrow-bottom@2x.png,file
+<UIPopoverView> arrow-left.png,file
+<UIPopoverView> arrow-left@2x.png,file
+<UIPopoverView> arrow-right.png,file
+<UIPopoverView> arrow-right@2x.png,file
+<UIPopoverView> arrow-top.png,file
+<UIPopoverView> arrow-top@2x.png,file
+<UIPopoverView> background.png,file
+<UIPopoverView> background@2x.png,file
+<UIRoundedRectButton> highlighted.png,file
+<UIRoundedRectButton> highlighted@2x.png,file
+<UIRoundedRectButton> normal.png,file
+<UIRoundedRectButton> normal@2x.png,file
+<UIScreen> grabber.png,file
+<UIScreen> grabber@2x.png,file
+<UITabBar> background.png,file
+<UITabBar> background@2x.png,file
+<UITabBar> item.png,file
+<UITabBar> item@2x.png,file
+<UIToolbar> button-highlighted.png,file
+<UIToolbar> button-highlighted@2x.png,file
+<UIToolbar> button.png,file
+<UIToolbar> button@2x.png,file
+ABUnknownPersonViewController.h,file
+ABUnknownPersonViewController.m,file
+ALAsset.h,file
+ALAsset.m,file
+ALAssetRepresentation.h,file
+ALAssetRepresentation.m,file
+ALAssetsFilter.h,file
+ALAssetsFilter.m,file
+ALAssetsGroup.h,file
+ALAssetsGroup.m,file
+ALAssetsLibrary.h,file
+ALAssetsLibrary.m,file
+AVAudioPlayer.h,file
+AVAudioPlayer.m,file
+AVAudioSession.h,file
+AVAudioSession.m,file
+AVFoundation,dir
+AVFoundation.h,file
+AVFoundation.xcodeproj,dir
+AVFoundation_Prefix.pch,file
+AddressBookUI,dir
+AddressBookUI.h,file
+AddressBookUI.xcodeproj,dir
+AddressBookUI_Prefix.pch,file
+Advanced iOS Demo,dir
+AppDelegate.h,file
+AppDelegate.m,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+AppKitIntegration.h,file
+AssetsLibrary,dir
+AssetsLibrary.h,file
+AssetsLibrary.xcodeproj,dir
+AssetsLibrary_Prefix.pch,file
+AsyncImageView,dir
+AsyncImageView.h,file
+AsyncImageView.m,file
+Base.lproj,dir
+Basic iOS Example,dir
+Buttons Demo,dir
+Chameleon,dir
+Chameleon Demo,dir
+Classes,dir
+Contents.json,file
+Controls,dir
+Controls Demo,dir
+ControlsDemo.xcscheme,file
+Credits.rtf,file
+Default-568h@2x.png,file
+Downloads & Effects,dir
+Dynamic Downloads,dir
+Dynamic Image Effects,dir
+Dynamic View Reflections,dir
+Events,dir
+Examples,dir
+FXImageView,dir
+FXImageView.h,file
+FXImageView.m,file
+Fading Demo,dir
+IMG_0150.jpg,file
+IMG_0154.jpg,file
+IMG_0163.jpg,file
+IMG_0169.jpg,file
+IMG_0170.jpg,file
+IMG_0173.jpg,file
+IMG_0174.jpg,file
+IMG_0180.jpg,file
+IMG_0181.jpg,file
+IMG_0184.jpg,file
+IMG_0197.jpg,file
+Images.plist,file
+Images.xcassets,dir
+Info.plist,file
+InfoPlist.strings,file
+ItemView.xib,file
+LICENCE.md,file
+LICENSE,file
+Lake,dir
+LaunchImage.launchimage,dir
+Libraries,dir
+MFMailComposeViewController.h,file
+MFMailComposeViewController.m,file
+MFMessageComposeViewController.h,file
+MFMessageComposeViewController.m,file
+MPMediaPlayback.h,file
+MPMoviePlayerController.h,file
+MPMoviePlayerController.m,file
+MPMusicPlayerController.h,file
+MPMusicPlayerController.m,file
+Mac Demo,dir
+MacAppDelegate.h,file
+MacAppDelegate.m,file
+Main.storyboard,file
+MainMenu.xib,file
+MainStoryboard.storyboard,file
+MainWindow.xib,file
+MediaPlayer,dir
+MediaPlayer.h,file
+MediaPlayer.xcodeproj,dir
+MediaPlayer_Prefix.pch,file
+MessageUI,dir
+MessageUI.h,file
+MessageUI.xcodeproj,dir
+MessageUI_Prefix.pch,file
+Multiple Carousels,dir
+MultipleCarousels-Info.plist,file
+MultipleCarousels-Prefix.pch,file
+MultipleCarousels.xcodeproj,dir
+MultipleCarousels.xcscheme,file
+NSFetchedResultsController.h,file
+NSFetchedResultsController.m,file
+NSIndexPath+UITableView.h,file
+NSIndexPath+UITableView.m,file
+Nested Carousels,dir
+No Nib Demo,dir
+Offsets Demo,dir
+Options Demo,dir
+Paging Example,dir
+README.md,file
+ReflectionView,dir
+ReflectionView.h,file
+ReflectionView.m,file
+Resources,dir
+SKPayment.h,file
+SKPayment.m,file
+SKPaymentQueue.h,file
+SKPaymentQueue.m,file
+SKPaymentTransaction.h,file
+SKPaymentTransaction.m,file
+SKProduct.h,file
+SKProduct.m,file
+SKProductsRequest.h,file
+SKProductsRequest.m,file
+SKProductsResponse.h,file
+SKProductsResponse.m,file
+SKRequest.h,file
+SKRequest.m,file
+Scrolling,dir
+StoreKit,dir
+StoreKit.h,file
+StoreKit.xcodeproj,dir
+StoreKit_Prefix.pch,file
+Storyboard Demo,dir
+StoryboardExample,dir
+StoryboardExample-Info.plist,file
+StoryboardExample-Prefix.pch,file
+StoryboardExample.xcodeproj,dir
+Swift Example,dir
+SwiftExample,dir
+SwiftExample-Bridging-Header.h,file
+SwiftExample.xcodeproj,dir
+Tables Demo,dir
+Tests,dir
+UIAcceleration.h,file
+UIAcceleration.m,file
+UIAccelerometer.h,file
+UIAccelerometer.m,file
+UIAccessibility.h,file
+UIAccessibility.m,file
+UIAccessibilityElement.h,file
+UIAccessibilityElement.m,file
+UIAction.h,file
+UIAction.m,file
+UIActionSheet.h,file
+UIActionSheet.m,file
+UIActionSheetAppKitIntegration.h,file
+UIActivityIndicatorView.h,file
+UIActivityIndicatorView.m,file
+UIAlertView.h,file
+UIAlertView.m,file
+UIAppearance.h,file
+UIAppearanceInstance.h,file
+UIAppearanceInstance.m,file
+UIAppearanceProperty.h,file
+UIAppearanceProperty.m,file
+UIAppearanceProxy.h,file
+UIAppearanceProxy.m,file
+UIApplication+UIPrivate.h,file
+UIApplication.h,file
+UIApplication.m,file
+UIApplicationAppKitIntegration.h,file
+UIApplicationDelegate.h,file
+UIBackgroundTask.h,file
+UIBackgroundTask.m,file
+UIBarButtonItem.h,file
+UIBarButtonItem.m,file
+UIBarItem.h,file
+UIBarItem.m,file
+UIBezierPath.h,file
+UIBezierPath.m,file
+UIBulletGlyphGenerator.h,file
+UIBulletGlyphGenerator.m,file
+UIButton.h,file
+UIButton.m,file
+UIColor+UIPrivate.h,file
+UIColor.h,file
+UIColor.m,file
+UIColorAppKitIntegration.h,file
+UIColorRep.h,file
+UIColorRep.m,file
+UIControl+UIPrivate.h,file
+UIControl.h,file
+UIControl.m,file
+UIControlAction.h,file
+UIControlAction.m,file
+UICustomNSClipView.h,file
+UICustomNSClipView.m,file
+UICustomNSTextView.h,file
+UICustomNSTextView.m,file
+UIDataDetectors.h,file
+UIDatePicker.h,file
+UIDatePicker.m,file
+UIDevice.h,file
+UIDevice.m,file
+UIEvent+UIPrivate.h,file
+UIEvent.h,file
+UIEvent.m,file
+UIFont+UIPrivate.h,file
+UIFont.h,file
+UIFont.m,file
+UIFontAppKitIntegration.h,file
+UIGeometry.h,file
+UIGeometry.m,file
+UIGestureRecognizer+UIPrivate.h,file
+UIGestureRecognizer.h,file
+UIGestureRecognizer.m,file
+UIGestureRecognizerSubclass.h,file
+UIGraphics.h,file
+UIGraphics.m,file
+UIImage+FX.h,file
+UIImage+FX.m,file
+UIImage+UIPrivate.h,file
+UIImage+UIPrivate.m,file
+UIImage.h,file
+UIImage.m,file
+UIImageAppKitIntegration.h,file
+UIImageAppKitIntegration.m,file
+UIImagePickerController.h,file
+UIImagePickerController.m,file
+UIImageRep.h,file
+UIImageRep.m,file
+UIImageView+UIPrivate.h,file
+UIImageView.h,file
+UIImageView.m,file
+UIInputController.h,file
+UIInputController.m,file
+UIInterface.h,file
+UIInterface.m,file
+UIInternalMovieView.h,file
+UIInternalMovieView.m,file
+UIKey+UIPrivate.h,file
+UIKey.h,file
+UIKey.m,file
+UIKit,dir
+UIKit.h,file
+UIKit.xcodeproj,dir
+UIKitView.h,file
+UIKitView.m,file
+UIKit_Prefix.pch,file
+UILabel.h,file
+UILabel.m,file
+UILongPressGestureRecognizer.h,file
+UILongPressGestureRecognizer.m,file
+UIMenuController.h,file
+UIMenuController.m,file
+UIMenuItem.h,file
+UIMenuItem.m,file
+UINSClipView.h,file
+UINSClipView.m,file
+UINavigationBar+UIPrivate.h,file
+UINavigationBar.h,file
+UINavigationBar.m,file
+UINavigationController.h,file
+UINavigationController.m,file
+UINavigationItem+UIPrivate.h,file
+UINavigationItem.h,file
+UINavigationItem.m,file
+UINibLoading.h,file
+UINibLoading.m,file
+UINinePartImage.h,file
+UINinePartImage.m,file
+UIPageControl.h,file
+UIPageControl.m,file
+UIPanGestureRecognizer.h,file
+UIPanGestureRecognizer.m,file
+UIPasteboard.h,file
+UIPasteboard.m,file
+UIPhotosAlbum.h,file
+UIPhotosAlbum.m,file
+UIPickerView.h,file
+UIPickerView.m,file
+UIPinchGestureRecognizer.h,file
+UIPinchGestureRecognizer.m,file
+UIPopoverController+UIPrivate.h,file
+UIPopoverController.h,file
+UIPopoverController.m,file
+UIPopoverNSWindow.h,file
+UIPopoverNSWindow.m,file
+UIPopoverOverlayNSView.h,file
+UIPopoverOverlayNSView.m,file
+UIPopoverView.h,file
+UIPopoverView.m,file
+UIProgressView.h,file
+UIProgressView.m,file
+UIResponder.h,file
+UIResponder.m,file
+UIResponderAppKitIntegration.h,file
+UIResponderAppKitIntegration.m,file
+UIRotationGestureRecognizer.h,file
+UIRotationGestureRecognizer.m,file
+UIRoundedRectButton.h,file
+UIRoundedRectButton.m,file
+UIScreen+UIPrivate.h,file
+UIScreen.h,file
+UIScreen.m,file
+UIScreenAppKitIntegration.h,file
+UIScreenAppKitIntegration.m,file
+UIScreenMode+UIPrivate.h,file
+UIScreenMode.h,file
+UIScreenMode.m,file
+UIScrollView+UIPrivate.h,file
+UIScrollView.h,file
+UIScrollView.m,file
+UIScrollViewAnimation.h,file
+UIScrollViewAnimation.m,file
+UIScrollViewAnimationDeceleration.h,file
+UIScrollViewAnimationDeceleration.m,file
+UIScrollViewAnimationScroll.h,file
+UIScrollViewAnimationScroll.m,file
+UIScrollWheelGestureRecognizer.h,file
+UIScrollWheelGestureRecognizer.m,file
+UIScroller.h,file
+UIScroller.m,file
+UISearchBar.h,file
+UISearchBar.m,file
+UISearchDisplayController.h,file
+UISearchDisplayController.m,file
+UISegmentedControl.h,file
+UISegmentedControl.m,file
+UISlider.h,file
+UISlider.m,file
+UISplitViewController.h,file
+UISplitViewController.m,file
+UIStringDrawing.h,file
+UIStringDrawing.m,file
+UISwipeGestureRecognizer.h,file
+UISwipeGestureRecognizer.m,file
+UISwitch.h,file
+UISwitch.m,file
+UITabBar.h,file
+UITabBar.m,file
+UITabBarController.h,file
+UITabBarController.m,file
+UITabBarItem.h,file
+UITabBarItem.m,file
+UITableView.h,file
+UITableView.m,file
+UITableViewCell+UIPrivate.h,file
+UITableViewCell.h,file
+UITableViewCell.m,file
+UITableViewCellSeparator.h,file
+UITableViewCellSeparator.m,file
+UITableViewController.h,file
+UITableViewController.m,file
+UITableViewSection.h,file
+UITableViewSection.m,file
+UITableViewSectionLabel.h,file
+UITableViewSectionLabel.m,file
+UITapGestureRecognizer.h,file
+UITapGestureRecognizer.m,file
+UITextField.h,file
+UITextField.m,file
+UITextInputTraits.h,file
+UITextLayer.h,file
+UITextLayer.m,file
+UITextView.h,file
+UITextView.m,file
+UIThreePartImage.h,file
+UIThreePartImage.m,file
+UIToolbar.h,file
+UIToolbar.m,file
+UIToolbarButton.h,file
+UIToolbarButton.m,file
+UITouch+UIPrivate.h,file
+UITouch.h,file
+UITouch.m,file
+UITransitionView.h,file
+UITransitionView.m,file
+UIView+UIPrivate.h,file
+UIView.h,file
+UIView.m,file
+UIViewAdapter.h,file
+UIViewAdapter.m,file
+UIViewAnimationGroup.h,file
+UIViewAnimationGroup.m,file
+UIViewBlockAnimationDelegate.h,file
+UIViewBlockAnimationDelegate.m,file
+UIViewController+UIPrivate.h,file
+UIViewController.h,file
+UIViewController.m,file
+UIViewLayoutManager.h,file
+UIViewLayoutManager.m,file
+UIWebView.h,file
+UIWebView.m,file
+UIWindow+UIPrivate.h,file
+UIWindow.h,file
+UIWindow.m,file
+ViewController.h,file
+ViewController.m,file
+ViewController.swift,file
+ViewController.xib,file
+WorkspaceSettings.xcsettings,file
+background.imageset,dir
+background.png,file
+contents.xcworkspacedata,file
+en.lproj,dir
+iCarousel,dir
+iCarousel.h,file
+iCarousel.m,file
+iCarousel.podspec.json,file
+iCarouselButtonsDemo-Info.plist,file
+iCarouselButtonsDemo-Prefix.pch,file
+iCarouselButtonsDemo.xcodeproj,dir
+iCarouselButtonsDemo.xcscheme,file
+iCarouselChameleonDemo,dir
+iCarouselChameleonDemo-Info.plist,file
+iCarouselChameleonDemo-Prefix.pch,file
+iCarouselChameleonDemo.xcodeproj,dir
+iCarouselControlsDemo.xcodeproj,dir
+iCarouselExample,dir
+iCarouselExample-Info.plist,file
+iCarouselExample-Prefix.pch,file
+iCarouselExample.xcodeproj,dir
+iCarouselExample.xcscheme,file
+iCarouselExampleAppDelegate.h,file
+iCarouselExampleAppDelegate.m,file
+iCarouselExampleViewController.h,file
+iCarouselExampleViewController.m,file
+iCarouselExampleViewController.xib,file
+iCarouselMac,dir
+iCarouselMac-Info.plist,file
+iCarouselMac-Prefix.pch,file
+iCarouselMac.xcodeproj,dir
+iCarouselMac.xcscheme,file
+iCarouselMacAppDelegate.h,file
+iCarouselMacAppDelegate.m,file
+iCarouselNoNibDemo-Info.plist,file
+iCarouselNoNibDemo-Prefix.pch,file
+iCarouselNoNibDemo.xcodeproj,dir
+iCarouselNoNibDemo.xcscheme,file
+iCarouselOptionsDemo.xcodeproj,dir
+iCarouselOptionsDemo.xcscheme,file
+iCarouselReflectionsDemo-Info.plist,file
+iCarouselReflectionsDemo-Prefix.pch,file
+iCarouselReflectionsDemo.xcodeproj,dir
+iCarouselReflectionsDemo.xcscheme,file
+iCarouselTest-Info.plist,file
+iCarouselTest-Prefix.pch,file
+iCarouselTest.xcodeproj,dir
+iCarouselWindowController.h,file
+iCarouselWindowController.m,file
+main.m,file
+page.imageset,dir
+page.png,file
+placeholder.png,file
+project.pbxproj,file
+project.xcworkspace,dir
+xcschemes,dir
+xcshareddata,dir

@@ -1,0 +1,13 @@
+name,type
+.gitattributes,file
+.github,dir
+.travis.yml,file
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+build,dir
+main.sh,file
+requirements.txt,file
+validate_format.py,file
+validate_links.py,file

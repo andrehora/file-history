@@ -1,0 +1,84 @@
+name,type
+.gitmodules,file
+1.Google.Facebook.eBay.Amazon,dir
+2013_PyCon_awesome_Big_Data_algorithms.pdf,file
+20140114-webinar-get-more-out-of-mongodb-with-tokumx-140319063324-phpapp02.pptx,file
+A Few Useful Things to Know about Machine Learning cacm12.pdf,file
+A Laboratory For Teaching Object-Oriented Thinking.pdf,file
+An Experimental Evaluation of The Assumption of Independence in MultiVersion Programming.pdf,file
+An Introduction to Software Architecture.pdf,file
+Arguments and results.pdf,file
+Big Ball of Mud.pdf,file
+Buffer Pool Implementation InnoDB vs Oracle.pdf,file
+Building_Go_Web_Application.pdf,file
+CMU-CS-95-113.pdf,file
+Can Programming Be Liberated from the von Neumann Style.pdf,file
+Citrusleaf-- A Real-Time NoSQL DB which Preserves ACID vldb2011.pdf,file
+Codis-intro.pdf,file
+Data Structures and Algorithms for  Big Databases.pdf,file
+F.10 papers for architect,dir
+F.10 papers for programmer,dir
+Functional Design Patterns.pdf,file
+GDD_pydp_python_design_patterns.pdf,file
+Go_To_Considered_Harmful.txt,file
+Golang,dir
+Google Sibyl- A system for large scale supervised machine learning chandra.pdf,file
+Google-Large Scale Deep Learning-Jeff-Dean-CIKM-keynote-Nov2014.pdf,file
+Google-What-does-it-take-to-make-Google-work-at-scale.pdf,file
+HTTP 2.0 - Tokyo.pdf,file
+"Harvest, Yield, and Scalable Tolerant Systems .pdf",file
+Haskell in the Large.pdf,file
+How Complex Systems Fail.pdf,file
+Inside BeansDB.pdf,file
+Instagram web-service-at-instagram.pdf,file
+Interface Design for Spark Community by Reynold Xin.pdf,file
+Introduction to kubernetes - yangzhangxian.pptx,file
+LaSC-4-3-pp223-242.pdf,file
+Learn_Basic_Ansible_using_Docker.ppt,file
+Learn_Docker_in_90mins.ppt,file
+Linux Profiling at Netflix.pdf,file
+Linux System and Performance Monitoring (Darren Hoch).pdf,file
+Lisp Good NewsBad News How to Win Big.pdf,file
+Memory-and-C++-debugging-at-EA-2015.pptx,file
+"Netflix Culture, Freedom and Responsibility.pptx",file
+No Silver Bullet Essence and Accidents of Software Engineering.pdf,file
+OceanBase1.pdf,file
+"On understanding types, data abstraction, and polymorphism.pdf",file
+Programming as an Experience The Inspiration for Self.pdf,file
+README.md,file
+Reflections on Trusting Trust.pdf,file
+Spark - Unified Big Data Analytics Pipeline.pdf,file
+Spark A-Web-Application-for-Interactive-Data-Analysis-with-Spark-Romain-Rigaux.pdf,file
+The Byzantine Generals Problem.pdf,file
+The Next 700 Programming Languages.pdf,file
+The Open-Closed Principle.pdf,file
+Think-In-Go.pdf,file
+Tools for Advanced Prototyping for Mobile Apps.pdf,file
+Toward Scalable Systems for Big Data Analytics.pdf,file
+Whitepaper_NoSQL_Tech_Comparison_Report.pdf,file
+Who Needs an Architect.pdf,file
+a note on distributed computing.pdf,file
+amazon_dynamo_sosp2007.pdf,file
+architecture-qq-group.png,file
+axiomatic-basis-computer-programming.pdf,file
+big-challenges.pdf,file
+eBay Architecture(Tony Ng) 2011- Tony NG.pdf,file
+ebay_2006_architecture.pdf,file
+ebay_2009_arch_Best Practices for Scaling Websites Lessons from eBay.pdf,file
+ebay_2010_Principles and Patterns of eBay Architecture.ppt,file
+ebay_2010_RandyShoup_More Best Practices For Large Scale WebSites Lessons From EBay.pdf,file
+facebook_architecture.pdf,file
+facebook_performance_caching-dc.pdf,file
+fibjs.pdf,file
+fundamental-concepts-in-programming-languages.pdf,file
+ieee std 1471-2000.pdf,file
+mature-optimization.epub,file
+memcache-fb.pdf,file
+memcachedasaserviceusingdocker-130410163221-phpapp02.pdf,file
+mysql-mongo-for-mysql-dba-webinar.pdf,file
+on the criteria to be used in decomposing systems into modules.txt,file
+online learning algorithm-taoshuai.pptx,file
+pygrunn2014.pdf,file
+qconbeijing-20140426am-luoqiwu.pdf,file
+recursive.pdf,file
+time-clocks.pdf,file

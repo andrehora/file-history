@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.linkspector.yml,file
+ISSUE_TEMPLATE,dir
+README.md,file
+Terms_and_Conditions,dir
+auto_reply.yml,file
+config.yml,file
+general-issue.yml,file
+linkchecker.yml,file
+terms_and_conditions_for_companies.md,file
+terms_and_conditions_for_individuals.md,file
+validate-issues.yaml,file
+workflows,dir
+zama-bounty-program--proposition.md,file

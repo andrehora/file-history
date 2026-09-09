@@ -1,0 +1,15 @@
+name,type
+.circleci,dir
+.codeclimate.yml,file
+.github,dir
+CODE_OF_CONDUCT.md,file
+Contributing.md,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+Writing_Plugins.md,file
+config.yml,file
+git-process-output.zsh,file
+zpa.config,file
+zsh-plugin-assessor,dir
+zsh-plugin-assessor,file

@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+.logo,dir
+.tmux.conf,file
+.tmux.conf.local,file
+LICENSE,file
+LICENSE.MIT,file
+LICENSE.WTFPLv2,file
+README.md,file
+funding.yml,file
+logomark+wordmark.svg,file
+logomark.svg,file

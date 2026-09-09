@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+LICENSE.md,file
+Makefile,file
+README.md,file
+lazyload.js,file
+lazyload.min.js,file
+lazyload.min.js.map,file
+package.json,file

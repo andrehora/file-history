@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CHANGES,file
+LICENSE.md,file
+README.md,file
+amdWeb.js,file
+amdWebGlobal.js,file
+commonjsAdapter.js,file
+commonjsStrict.js,file
+commonjsStrictGlobal.js,file
+jqueryPlugin.js,file
+nodeAdapter.js,file
+package.json,file
+returnExports.js,file
+returnExportsGlobal.js,file
+templates,dir

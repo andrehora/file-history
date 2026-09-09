@@ -1,0 +1,6 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+contributing.md,file

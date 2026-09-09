@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+__init__.py,file
+demo.ipynb,file
+engine.py,file
+gout.svg,file
+micrograd,dir
+moon_mlp.png,file
+nn.py,file
+puppy.jpg,file
+setup.py,file
+test,dir
+test_engine.py,file
+trace_graph.ipynb,file

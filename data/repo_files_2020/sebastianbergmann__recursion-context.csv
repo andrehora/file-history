@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+Context.php,file
+ContextTest.php,file
+Exception.php,file
+FUNDING.yml,file
+InvalidArgumentException.php,file
+LICENSE,file
+README.md,file
+build.xml,file
+composer.json,file
+phpunit.xml,file
+src,dir
+tests,dir

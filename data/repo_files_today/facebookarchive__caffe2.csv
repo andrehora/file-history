@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+.gitmodules,file
+.jenkins,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+NOTICE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+build.sh,file
+caffe2,dir
+test.sh,file

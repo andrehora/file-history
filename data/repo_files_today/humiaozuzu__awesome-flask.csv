@@ -1,0 +1,16 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+add-item.yml,file
+archived.md,file
+broken-link.yml,file
+ci.yml,file
+config.yml,file
+flask-icon.svg,file
+link-check.yml,file
+lychee.toml,file
+pull_request_template.md,file
+workflows,dir

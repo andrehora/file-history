@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.tool-versions,file
+CONTRIBUTING.md,file
+LICENSE.txt,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+awesome-bot.yml,file
+workflows,dir

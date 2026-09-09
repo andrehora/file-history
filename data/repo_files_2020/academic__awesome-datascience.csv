@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.travis.yml,file
+Algorithms.md,file
+DataScienceMethodology.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+ToDo-List.md,file
+contributing.md,file
+githubGroups.md,file

@@ -1,0 +1,2670 @@
+name,type
+.babelrc.js,file
+.claude,dir
+.codecov.yaml,file
+.commitlintrc.yaml,file
+.cursor,dir
+.dockerignore,file
+.eslintignore,file
+.eslintrc.js,file
+.gitattributes,file
+.gitbook,dir
+.gitbook.yaml,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.gitpod.Dockerfile,file
+.gitpod.yml,file
+.golangci.bck.yml,file
+.golangci.yml,file
+.helmdocsignore,file
+.helmignore,file
+.npmrc,file
+.nvmrc,file
+.pre-commit-config.yaml,file
+.prettierignore,file
+.prow,dir
+.prow.yaml,file
+.readthedocs.yml,file
+.releaserc.js,file
+.secrets.baseline,file
+01-Install-postgres-tls-using-helm.ipynb,file
+01-Install.ipynb,file
+01-init-pgvector.sql,file
+01-project-provisioning.md,file
+01.1-start-keycloak.ipynb,file
+01.2-setup-keycloak.ipynb,file
+01.3-setup-feast.ipynb,file
+01_Credit_Risk_Data_Prep.ipynb,file
+02-Client.ipynb,file
+02-Demo.ipynb,file
+02-Install-feast.ipynb,file
+02-persistence.md,file
+02-registry_server.ipynb,file
+02_Deploying_the_Feature_Store.ipynb,file
+03-Uninstall.ipynb,file
+03-online_server.ipynb,file
+03-serving-and-observability.md,file
+03_Credit_Risk_Model_Training.ipynb,file
+04-offline_server.ipynb,file
+04-registry-topology.md,file
+04-uninstall.ipynb,file
+04_Credit_Risk_Model_Serving.ipynb,file
+05-security.md,file
+05_Credit_Risk_Cleanup.ipynb,file
+06-batch-and-jobs.md,file
+07-openlineage-and-materialization.md,file
+08-mlflow-integration.md,file
+1-setup-operator-rbac.ipynb,file
+2-client-rbac-test-pod.ipynb,file
+3-client-rbac-test-local.ipynb,file
+3-uninstall.ipynb,file
+ADOPTERS.md,file
+ADR-0001-feature-services.md,file
+ADR-0002-component-refactor.md,file
+ADR-0003-on-demand-transformations.md,file
+ADR-0004-entity-join-key-mapping.md,file
+ADR-0005-stream-transformations.md,file
+ADR-0006-kubernetes-operator.md,file
+ADR-0007-unified-feature-transformations.md,file
+ADR-0008-feature-view-versioning.md,file
+ADR-0009-contribution-extensibility.md,file
+ADR-0010-vector-database-integration.md,file
+ADR-0011-data-quality-monitoring.md,file
+ADR-0012-label-view.md,file
+ADR-TEMPLATE.md,file
+AGENTS.md,file
+ActiveLearningTab.tsx,file
+AddToCatalogModal.tsx,file
+Aggregation.proto,file
+Aggregation_pb2.py,file
+Aggregation_pb2.pyi,file
+Aggregation_pb2_grpc.py,file
+AnnotateTab.tsx,file
+App.css,file
+ApplicationProperties.java,file
+ApplicationPropertiesModule.java,file
+AuthContext.tsx,file
+AzureRegistryFile.java,file
+BaseLayout.astro,file
+BatchSourcePropertiesView.tsx,file
+BatchUploadTab.tsx,file
+BlogLayout.astro,file
+CHANGELOG.md,file
+CLAUDE.md,file
+CNAME,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Chart.yaml,file
+ClassificationMethod.tsx,file
+ClickHouse.svg,file
+CommandPalette.tsx,file
+ComputeEngineIcon.tsx,file
+Connector.proto,file
+Connector_pb2.py,file
+Connector_pb2.pyi,file
+Connector_pb2_grpc.py,file
+ConsumingFeatureServicesList.tsx,file
+CreateDatasetForm.tsx,file
+CurlGeneratorTab.tsx,file
+DataFormat.proto,file
+DataFormat_pb2.py,file
+DataFormat_pb2.pyi,file
+DataFormat_pb2_grpc.py,file
+DataGenerator.java,file
+DataModeContext.tsx,file
+DataQuery.tsx,file
+DataSource.proto,file
+DataSourceCatalog.tsx,file
+DataSourceCustomTabLoadingWrapper.tsx,file
+DataSourceFormModal.tsx,file
+DataSourceIcon.tsx,file
+DataSourceIndexEmptyState.tsx,file
+DataSourceInstance.tsx,file
+DataSourceOverviewTab.tsx,file
+DataSourceRawData.tsx,file
+DataSource_pb2.py,file
+DataSource_pb2.pyi,file
+DataSource_pb2_grpc.py,file
+DataSourcesListingTable.tsx,file
+DataTab.tsx,file
+DatasetCatalogBrowser.tsx,file
+DatasetCustomTabLoadingWrapper.tsx,file
+DatasetExpectationsTab.tsx,file
+DatasetFeaturesTable.tsx,file
+DatasetIcon.tsx,file
+DatasetInstance.tsx,file
+DatasetJoinKeysTable.tsx,file
+DatasetOverviewTab.tsx,file
+DatasetRawData.tsx,file
+DatasetSampleTab.tsx,file
+DatasetUsageTab.tsx,file
+DatasetsCardGrid.tsx,file
+DatasetsIndexEmptyState.tsx,file
+DatasetsListingTable.tsx,file
+DatastoreTable.proto,file
+DatastoreTable_pb2.py,file
+DatastoreTable_pb2.pyi,file
+DatastoreTable_pb2_grpc.py,file
+DemoCustomTab.tsx,file
+Dockerfile,file
+Dockerfile.binary,file
+Dockerfile.binary.release,file
+Dockerfile.builder.yarn,file
+Dockerfile.builder.yum,file
+Dockerfile.dev,file
+Dockerfile.sdist,file
+Dockerfile.sdist.release,file
+DocumentLabelingCustomTabLoadingWrapper.tsx,file
+DocumentLabelingTab.tsx,file
+EditDatasetModal.tsx,file
+EntitiesListingTable.tsx,file
+Entity.proto,file
+EntityCustomTabLoadingWrapper.tsx,file
+EntityFormMethod.tsx,file
+EntityFormModal.tsx,file
+EntityIcon.tsx,file
+EntityIndexEmptyState.tsx,file
+EntityInstance.tsx,file
+EntityKey.proto,file
+EntityKeySerializer.java,file
+EntityKeySerializerV2.java,file
+EntityKey_pb2.py,file
+EntityKey_pb2.pyi,file
+EntityKey_pb2_grpc.py,file
+EntityOverviewTab.tsx,file
+EntityRawData.tsx,file
+Entity_pb2.py,file
+Entity_pb2.pyi,file
+Entity_pb2_grpc.py,file
+EuiCustomLink.tsx,file
+ExplorePanel.tsx,file
+ExportButton.tsx,file
+FeastClient.java,file
+FeastClientTest.java,file
+FeastIconBlue.tsx,file
+FeastRagRetriever.png,file
+FeastUI.tsx,file
+FeastUISansProviders.test.tsx,file
+FeastUISansProviders.tsx,file
+FeastWordMark.tsx,file
+Feature.java,file
+Feature.proto,file
+FeatureCustomTabLoadingWrapper.tsx,file
+FeatureFieldEditor.tsx,file
+FeatureFlagsContext.ts,file
+FeatureIcon.tsx,file
+FeatureInstance.tsx,file
+FeatureListPage.tsx,file
+FeatureMetricsDetail.tsx,file
+FeatureMetricsTable.tsx,file
+FeatureMonitoringTab.tsx,file
+FeatureOverviewTab.tsx,file
+FeatureRawData.tsx,file
+FeatureService.proto,file
+FeatureServiceCustomTabLoadingWrapper.tsx,file
+FeatureServiceFormModal.tsx,file
+FeatureServiceIcon.tsx,file
+FeatureServiceIndexEmptyState.tsx,file
+FeatureServiceInstance.tsx,file
+FeatureServiceListingTable.tsx,file
+FeatureServiceMetricsPanel.tsx,file
+FeatureServiceOverviewTab.tsx,file
+FeatureServiceRawData.tsx,file
+FeatureService_pb2.py,file
+FeatureService_pb2.pyi,file
+FeatureService_pb2_grpc.py,file
+FeatureTable.proto,file
+FeatureTable_pb2.py,file
+FeatureTable_pb2.pyi,file
+FeatureTable_pb2_grpc.py,file
+FeatureUtil.java,file
+FeatureView.proto,file
+FeatureViewEdgesList.tsx,file
+FeatureViewFormModal.tsx,file
+FeatureViewIcon.tsx,file
+FeatureViewIndexEmptyState.tsx,file
+FeatureViewInstance.tsx,file
+FeatureViewLineageTab.tsx,file
+FeatureViewListingTable.tsx,file
+FeatureViewMetricsPanel.tsx,file
+FeatureViewProjection.proto,file
+FeatureViewProjectionDisplayPanel.tsx,file
+FeatureViewProjection_pb2.py,file
+FeatureViewProjection_pb2.pyi,file
+FeatureViewProjection_pb2_grpc.py,file
+FeatureViewRawData.tsx,file
+FeatureViewUsagePanel.tsx,file
+FeatureViewVersion.proto,file
+FeatureViewVersion_pb2.py,file
+FeatureViewVersion_pb2.pyi,file
+FeatureViewVersion_pb2_grpc.py,file
+FeatureViewVersionsTab.tsx,file
+FeatureView_pb2.py,file
+FeatureView_pb2.pyi,file
+FeatureView_pb2_grpc.py,file
+Feature_pb2.py,file
+Feature_pb2.pyi,file
+Feature_pb2_grpc.py,file
+FeaturesInServiceDisplay.tsx,file
+FeaturesListDisplay.tsx,file
+FeaturesTest.java,file
+Field.proto,file
+Field_pb2.py,file
+Field_pb2.pyi,file
+Field_pb2_grpc.py,file
+FormModal.tsx,file
+GSRegistryFile.java,file
+GlobalSearchShortcut.tsx,file
+Groups_Namespaces_Auth_implmentation_summary.md,file
+GrpcMonitoringContext.java,file
+GrpcMonitoringInterceptor.java,file
+GrpcServer.proto,file
+GrpcServer_pb2.py,file
+GrpcServer_pb2.pyi,file
+GrpcServer_pb2_grpc.py,file
+HealthService.proto,file
+HealthServiceController.java,file
+HistogramChart.tsx,file
+HomeIcon.tsx,file
+ISSUE_TEMPLATE,dir
+Index.tsx,file
+InfraObject.proto,file
+InfraObject_pb2.py,file
+InfraObject_pb2.pyi,file
+InfraObject_pb2_grpc.py,file
+InstrumentationConfigModule.java,file
+IntegrationsTab.tsx,file
+JobStatusPanel.tsx,file
+JobsIcon.tsx,file
+LICENSE,file
+LabelBrowseTab.tsx,file
+LabelView.proto,file
+LabelViewIcon.tsx,file
+LabelViewInstance.tsx,file
+LabelViewLineageTab.tsx,file
+LabelViewOverviewTab.tsx,file
+LabelView_pb2.py,file
+LabelView_pb2.pyi,file
+LabelView_pb2_grpc.py,file
+Layout.tsx,file
+LineageEventsList.tsx,file
+LineageJobsList.tsx,file
+LocalRegistryFile.java,file
+MANIFEST.in,file
+MSSQL.svg,file
+Makefile,file
+Metrics.java,file
+MetricsFilters.tsx,file
+MonitoringContext.ts,file
+NameDescriptionOwnerFields.tsx,file
+Navigation.astro,file
+NoMatch.tsx,file
+NoProjectGuard.tsx,file
+OWNERS,file
+ObjectsCountStats.tsx,file
+OnDemandFeatureView.proto,file
+OnDemandFeatureViewCustomTabLoadingWrapper.tsx,file
+OnDemandFeatureViewInstance.tsx,file
+OnDemandFeatureViewOverviewTab.tsx,file
+OnDemandFeatureView_pb2.py,file
+OnDemandFeatureView_pb2.pyi,file
+OnDemandFeatureView_pb2_grpc.py,file
+OnlineRetriever.java,file
+OnlineServingGrpcServiceV2.java,file
+OnlineServingServiceTest.java,file
+OnlineServingServiceV2.java,file
+OnlineTransformationService.java,file
+OpenLineageGraph.tsx,file
+PROJECT,file
+Permission.proto,file
+PermissionFormModal.tsx,file
+Permission_pb2.py,file
+Permission_pb2.pyi,file
+Permission_pb2_grpc.py,file
+PermissionsDisplay.tsx,file
+PermissionsIcon.tsx,file
+Policy.proto,file
+Policy_pb2.py,file
+Policy_pb2.pyi,file
+Policy_pb2_grpc.py,file
+PrecomputedFeatureVector.proto,file
+PrecomputedFeatureVector_pb2.py,file
+PrecomputedFeatureVector_pb2.pyi,file
+PrecomputedFeatureVector_pb2_grpc.py,file
+Project.proto,file
+ProjectListContext.ts,file
+ProjectOverviewPage.tsx,file
+ProjectSelector.test.tsx,file
+ProjectSelector.tsx,file
+Project_pb2.py,file
+Project_pb2.pyi,file
+Project_pb2_grpc.py,file
+ProtoFeature.java,file
+QualityDashboardTab.tsx,file
+README.md,file
+README.md.gotmpl,file
+README.md.jinja2,file
+RagLabelingMethod.tsx,file
+Redis.proto,file
+RedisClient.java,file
+RedisClientAdapter.java,file
+RedisClusterClient.java,file
+RedisClusterStoreConfig.java,file
+RedisHashDecoder.java,file
+RedisKeyGenerator.java,file
+RedisOnlineRetriever.java,file
+RedisStoreConfig.java,file
+Redis_pb2.py,file
+Redis_pb2.pyi,file
+Redis_pb2_grpc.py,file
+RegisterDatasetModal.tsx,file
+Registry.java,file
+Registry.proto,file
+RegistryConfigModule.java,file
+RegistryFile.java,file
+RegistryPathContext.ts,file
+RegistryRefreshContext.ts,file
+RegistryRepository.java,file
+RegistrySearch.tsx,file
+RegistryServer.proto,file
+RegistryServer_pb2.py,file
+RegistryServer_pb2.pyi,file
+RegistryServer_pb2_grpc.py,file
+RegistryVisualization.test.tsx,file
+RegistryVisualization.tsx,file
+RegistryVisualizationTab.tsx,file
+Registry_pb2.py,file
+Registry_pb2.pyi,file
+Registry_pb2_grpc.py,file
+RegularFeatureViewCustomTabLoadingWrapper.tsx,file
+RegularFeatureViewInstance.tsx,file
+RegularFeatureViewOverviewTab.tsx,file
+RequestDataDisplayPanel.tsx,file
+RequestDataSourceSchemaTable.tsx,file
+RequestHelper.java,file
+RequestHelperTest.java,file
+RequestUtil.java,file
+RequestUtilTest.java,file
+RootProjectSelectionPage.tsx,file
+Row.java,file
+S3RegistryFile.java,file
+SECURITY.md,file
+SKILL.md,file
+SUMMARY.md,file
+SavedDataset.proto,file
+SavedDataset_pb2.py,file
+SavedDataset_pb2.pyi,file
+SavedDataset_pb2_grpc.py,file
+SearchTokensList.tsx,file
+SecurityConfig.java,file
+ServerModule.java,file
+ServingBaseTests.java,file
+ServingBenchmarkIT.java,file
+ServingEnvironment.java,file
+ServingGuiceApplication.java,file
+ServingRedisAzureRegistryIT.java,file
+ServingRedisGSRegistryIT.java,file
+ServingRedisLocalRegistryIT.java,file
+ServingRedisS3RegistryIT.java,file
+ServingService.proto,file
+ServingServiceV2.java,file
+ServingServiceV2Module.java,file
+ServingService_pb2.py,file
+ServingService_pb2.pyi,file
+ServingService_pb2_grpc.py,file
+Sidebar.tsx,file
+SpecRetrievalException.java,file
+SqliteTable.proto,file
+SqliteTable_pb2.py,file
+SqliteTable_pb2.pyi,file
+SqliteTable_pb2_grpc.py,file
+StatsPanel.tsx,file
+Storage.svg,file
+Store.proto,file
+Store_pb2.py,file
+Store_pb2.pyi,file
+Store_pb2_grpc.py,file
+StreamFeatureView.proto,file
+StreamFeatureViewCustomTabLoadingWrapper.tsx,file
+StreamFeatureViewInstance.tsx,file
+StreamFeatureViewOverviewTab.tsx,file
+StreamFeatureView_pb2.py,file
+StreamFeatureView_pb2.pyi,file
+StreamFeatureView_pb2_grpc.py,file
+TRIAGE_LIST.md,file
+TabsRegistryContext.tsx,file
+TagSearch.tsx,file
+TagsDisplay.tsx,file
+TagsEditor.tsx,file
+TestUtils.java,file
+ThemeContext.tsx,file
+ThemeToggle.tsx,file
+TimeSeriesAnalysis.tsx,file
+TrainingExportTab.tsx,file
+Transformation.proto,file
+TransformationService.java,file
+TransformationService.proto,file
+TransformationServiceIT.java,file
+TransformationService_pb2.py,file
+TransformationService_pb2.pyi,file
+TransformationService_pb2_grpc.py,file
+Transformation_pb2.py,file
+Transformation_pb2.pyi,file
+Transformation_pb2_grpc.py,file
+ValidationProfile.proto,file
+ValidationProfile_pb2.py,file
+ValidationProfile_pb2.pyi,file
+ValidationProfile_pb2_grpc.py,file
+Value.proto,file
+ValueTypeSelect.tsx,file
+Value_pb2.py,file
+Value_pb2.pyi,file
+Value_pb2_grpc.py,file
+[slug].astro,file
+__init__.py,file
+_helpers.tpl,file
+_ingress.yaml,file
+a-state-of-feast.md,file
+action.py,file
+action.yml,file
+actions,dir
+adding-a-new-offline-store.md,file
+adding-or-reusing-tests.md,file
+adding-support-for-a-new-online-store.md,file
+admin_user_deployment.yaml,file
+admin_user_deployment_tls.yaml,file
+admin_user_resources.yaml,file
+adr,dir
+adyen.png,file
+aerospike-benchmark-infrastructure-cost.png,file
+aerospike-benchmark-p99-latency-entity-growth.png,file
+aerospike-benchmark-p99-latency-feature-growth.png,file
+aerospike-benchmark-success-rate-rps-wide-requests.png,file
+aerospike-benchmark-success-rate-rps.png,file
+aerospike-feast-benchmark-harness-results.md,file
+aerospike-feast-now-available.md,file
+aerospike.md,file
+aerospike.py,file
+aerospike_online_store,dir
+aerospike_overrides_and_hooks,dir
+aerospike_repo_configuration.py,file
+agent.py,file
+agent_feature_store,dir
+aggregation,dir
+aks.tf,file
+algorithms,dir
+alpha-feature-view-versioning.md,file
+alpha-static-artifacts.md,file
+alpha-vector-database.md,file
+alpha-web-ui.md,file
+amazon-web-services.md,file
+annotations.yaml,file
+announcing-feast-0-11.md,file
+api,dir
+app.py,file
+application-it.properties,file
+application-override.yaml,file
+application.yml,file
+apply_permissions.py,file
+apply_progress.py,file
+apply_rag_data.py,file
+arch.png,file
+architecture,dir
+arrow.py,file
+arrow_error_handler.py,file
+arrow_flight_auth_interceptor.py,file
+arrow_flight_token_extractor.py,file
+arrow_table_value.py,file
+artifacts.lock.yaml,file
+assets,dir
+astro.config.mjs,file
+athena,dir
+athena.md,file
+athena.py,file
+athena_offline_store,dir
+athena_repo_configuration.py,file
+athena_source.py,file
+austin_bikeshare.bikeshare_stations.avro,file
+auth,dir
+auth_client_manager.py,file
+auth_manager.py,file
+auth_model.py,file
+auth_permissions_util.py,file
+auth_type.py,file
+authz,dir
+authz.go,file
+authz_manager.md,file
+authz_types.go,file
+auto_assign.yml,file
+aws,dir
+aws_lambda,dir
+aws_utils.py,file
+azure,dir
+azure.md,file
+azure_registry_store.py,file
+azure_synapse.png,file
+babelTransform.js,file
+backends,dir
+banner.txt,file
+base.py,file
+base_config.py,file
+base_feature_view.py,file
+base_registry.py,file
+basefeatureview.go,file
+bases,dir
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (1).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (2) (1) (1).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (2) (1) (2).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (2) (1).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (2) (2).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (2).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1) (3).svg,file
+basic-architecture-diagram (3) (3) (3) (3) (3) (3) (1) (1) (1).svg,file
+basic.config.yaml,file
+basic_read_write_test.py,file
+batch-feature-view.md,file
+batch_engine_rbac.go,file
+batch_engine_rbac_test.go,file
+batch_feature_view.py,file
+batch_retrieval_results.png,file
+benchmarks,dir
+beta-on-demand-feature-view.md,file
+bigquery.md,file
+bigquery.png,file
+bigquery.py,file
+bigquery_source.py,file
+bigtable.md,file
+bigtable.png,file
+bigtable.py,file
+bikeshare_feature_set.yaml,file
+bikeshare_schema.json,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (1).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (1) (1).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (1) (2).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (1) (3).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (1).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (2).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2) (3).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (2).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (3).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1) (4).svg,file
+blank-diagram-4 (4) (4) (4) (4) (4) (4) (4) (4) (2) (1) (1) (1) (1).svg,file
+blog,dir
+boilerplate.go.txt,file
+bookings.csv,file
+bootstrap.py,file
+bug_report.md,file
+build-a-training-dataset.md,file
+build.js,file
+build_wheels.yml,file
+building-streaming-features.md,file
+bump_file_versions.py,file
+bundle,dir
+bundle.Dockerfile,file
+caching_registry.py,file
+capital_one.png,file
+cassandra,dir
+cassandra.md,file
+cassandra.png,file
+cassandra.py,file
+cassandra_online_store,dir
+cassandra_online_store.py,file
+cassandra_repo_configuration.py,file
+castai.png,file
+catalog,dir
+changelogs,dir
+charts,dir
+chat,dir
+check-init-py.sh,file
+check-skip-tests,dir
+check_skip_tests.yml,file
+chunker.py,file
+ci-kernel.png,file
+ci.png,file
+city_wikipedia_summaries_with_embeddings.parquet,file
+cleanup_ci.py,file
+cleanup_feast.sh,file
+cli,dir
+cli.py,file
+cli_options.py,file
+cli_repo_creator.py,file
+cli_utils.py,file
+clickhouse,dir
+clickhouse.md,file
+clickhouse.py,file
+clickhouse_config.py,file
+clickhouse_offline_store,dir
+clickhouse_repo_configuration.py,file
+clickhouse_source.py,file
+client,dir
+client.go,file
+client.ipynb,file
+client.py,file
+client_auth_token.py,file
+cloudflare.png,file
+cmd,dir
+codebase-structure.md,file
+codegen.py,file
+codegen_utils.py,file
+colab_logo_32px.png,file
+column_mapping_test_entity.csv,file
+column_mapping_test_feature.csv,file
+common,dir
+community,dir
+community.md,file
+compatibility.md,file
+compile-templates.py,file
+component,dir
+component_metadata.yaml,file
+components,dir
+compose.yaml,file
+compute-engine,dir
+compute-engine.md,file
+compute-engines,dir
+compute.py,file
+compute_engines,dir
+compute_engines.py,file
+concept_hierarchy (1) (1).png,file
+concept_hierarchy (1).png,file
+concepts,dir
+conf.py,file
+config,dir
+config.py,file
+config.yaml,file
+configmap.yaml,file
+configuration.md,file
+conflict_policy.py,file
+conflict_resolver.py,file
+conftest.py,file
+connection_utils.py,file
+connectors,dir
+constants.py,file
+consumer.py,file
+context.py,file
+contexts,dir
+contrib,dir
+contributing.md,file
+controller,dir
+core,dir
+couchbase,dir
+couchbase.md,file
+couchbase.py,file
+couchbase.svg,file
+couchbase_columnar_repo_configuration.py,file
+couchbase_offline_store,dir
+couchbase_online_store,dir
+couchbase_repo_configuration.py,file
+couchbase_source.py,file
+couchbase_utils.py,file
+coverage,dir
+crd,dir
+crd-ref-templates,dir
+create-a-feature-repository.md,file
+createEnvironmentHash.js,file
+create_cx_profile_table.sql,file
+create_drivers_table.sql,file
+create_orders_table.sql,file
+creating-a-custom-compute-engine.md,file
+creating-a-custom-provider.md,file
+credentials.py,file
+credit-risk-end-to-end,dir
+credit_history.json,file
+credit_history.parquet,file
+credit_history_sample.csv,file
+credit_score_project,dir
+cronjob.go,file
+cssTransform.js,file
+custom-tabs,dir
+customer_driver_pairs.csv,file
+customer_features.sql,file
+customer_stats.csv,file
+customers.csv,file
+customizing-feast,dir
+dag,dir
+dask.md,file
+dask.py,file
+dask.svg,file
+data,dir
+data-ingestion.md,file
+data-source-demo-tab,dir
+data-source-icons.tsx,file
+data-source-types,dir
+data-source-types.py,file
+data-sources,dir
+data-systems-fraud-2x.jpg,file
+data-tab,dir
+data-workflow.svg,file
+data.json,file
+data_creator.py,file
+data_format.py,file
+data_generator.py,file
+data_source.py,file
+data_source_creator.py,file
+data_source_template.jinja2,file
+data_source_test_creator.py,file
+data_source_types_test.go,file
+data_sources,dir
+data_sources.py,file
+dataframe.py,file
+dataproc.tf,file
+dataset-demo-tab,dir
+dataset.md,file
+dataset_job_manager.py,file
+dataset_utils.py,file
+datastore.md,file
+datastore.py,file
+datastore_online_example (1) (1).png,file
+datastore_online_example (1).png,file
+datastore_online_example.monopic,file
+datastore_online_example.png,file
+datatypes,dir
+dbt,dir
+dbt+feast.png,file
+dbt-integration-tests.yml,file
+dbt-integration.md,file
+dbt_import.py,file
+dbt_project.yml,file
+decision.py,file
+decorator.py,file
+default,dir
+definitions.py,file
+delete-namespace.yaml,file
+demo-custom-tabs,dir
+demo-notebooks.md,file
+demo.jpg,file
+demo.json,file
+demos.py,file
+denormalized.md,file
+deploy-a-feature-store.md,file
+deploy-website.yml,file
+deployment,dir
+deployment.png,file
+deployment.yaml,file
+dev,dir
+dev_featuretable.csv,file
+development-guide.md,file
+diff,dir
+discord.png,file
+dist,dir
+doc_embedder.py,file
+docker,dir
+docker-compose,dir
+docker-compose-redis-it.yml,file
+docker-compose.yml,file
+docker_smoke_tests.yml,file
+docling-demo.ipynb,file
+docling-quickstart.ipynb,file
+docs,dir
+doctest,dir
+document-labeling-tab,dir
+document_embeddings.parquet,file
+document_labeling.py,file
+document_metadata.parquet,file
+download-maven-cache.sh,file
+dqm,dir
+dqm.md,file
+dqm_job_manager.py,file
+dragonfly.md,file
+dragonfly.svg,file
+driver-ranking-with-feast.md,file
+driver-stats-on-snowflake.md,file
+driver_dataframe.png,file
+driver_features.csv,file
+driver_features.sql,file
+driver_hourly_stats.csv,file
+driver_repo.py,file
+driver_stats.parquet,file
+driver_stats_with_string.parquet,file
+driver_test_data.py,file
+duckdb.md,file
+duckdb.png,file
+duckdb.py,file
+duckdb_repo_configuration.py,file
+dynamo_table_creator.py,file
+dynamodb.avif,file
+dynamodb.md,file
+dynamodb.py,file
+dynamodb_online_example.monopic,file
+dynamodb_online_example.png,file
+dynamodbonlinestore.go,file
+dynamodbonlinestore_test.go,file
+e2e,dir
+e2e_suite_test.go,file
+e2e_test.go,file
+e2e_test_validation.py,file
+eks-config.yaml,file
+eks.tf,file
+elasticsearch.md,file
+elasticsearch.py,file
+elasticsearch_online_store,dir
+elasticsearch_repo_configuration.py,file
+embedded,dir
+embedded_go,dir
+embedder.py,file
+emitter.py,file
+empty_feature_repo.py,file
+empty_registry.json,file
+emr.tf,file
+encodeSearchQueryString.ts,file
+end_to_end_lineage.png,file
+enforcer.py,file
+entities,dir
+entities.py,file
+entity-demo-tab,dir
+entity-less-historical-features-retrieval.md,file
+entity-reserialization-of-from-v2-to-v3.md,file
+entity.go,file
+entity.md,file
+entity.py,file
+entity_dataframe.png,file
+entity_df_builder.py,file
+entity_template.jinja2,file
+entrypoint.sh,file
+env.d.ts,file
+env.js,file
+environment-setup.md,file
+errors.go,file
+errors.py,file
+example-config.ts,file
+example-feast-ui-config.ts,file
+example.py,file
+example_feature_repo_1.py,file
+example_feature_repo_2.py,file
+example_feature_repo_with_bfvs.py,file
+example_feature_repo_with_driver_stats_feature_view.py,file
+example_feature_repo_with_duplicated_featureview_names.py,file
+example_feature_repo_with_entity_join_key.py,file
+example_feature_repo_with_feature_service.py,file
+example_feature_repo_with_feature_service_2.py,file
+example_feature_repo_with_feature_service_3.py,file
+example_feature_repo_with_inline_batch_source.py,file
+example_feature_repo_with_inline_stream_source.py,file
+example_feature_repo_with_project_1.py,file
+example_feature_repo_with_stream_source.py,file
+example_feature_repo_with_ttl_0.py,file
+example_rag_feature_repo.py,file
+example_repo.py,file
+example_repo_duplicate_data_source_names.py,file
+example_repos,dir
+examples,dir
+exception,dir
+expedia.png,file
+experian.webp,file
+facets.py,file
+factory.py,file
+faiss.md,file
+faiss_online_store.py,file
+faq.md,file
+faster-feature-transformations-in-feast.md,file
+favicon.ico,file
+favicon.svg,file
+feast,dir
+feast,file
+feast-0-10-announcement.md,file
+feast-0-13-adds-on-demand-transforms-feature-servers-and-feature-views-without-entities.md,file
+feast-0-14-adds-aws-lambda-feature-servers.md,file
+feast-0-18-adds-snowflake-support-and-data-quality-monitoring.md,file
+feast-0-20-adds-api-and-connector-improvements.md,file
+feast-0.9-vs-feast-0.10+.md,file
+feast-agents-mcp.md,file
+feast-architecture,dir
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (1).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (1).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (2).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (3).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (4).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (5).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1) (6).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (1).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (2).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (3).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (4).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (5).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2) (6).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (2).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (3).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (4).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (5).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (6).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1) (7).svg,file
+feast-architecture-diagrams (1) (1) (1) (2) (3) (4) (3) (1) (1) (1) (1).svg,file
+feast-benchmarks.md,file
+feast-cli-commands.md,file
+feast-components.md,file
+feast-components.mdc,file
+feast-data-quality-monitoring.md,file
+feast-dbt-integration.md,file
+feast-demo-quickstart.ipynb,file
+feast-denormalized.png,file
+feast-dev,dir
+feast-docs-overview-diagram-1.png,file
+feast-docs-overview-diagram-1.svg,file
+feast-docs-overview-diagram-2 (5) (1) (1).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1) (1).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1) (2).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1) (3).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1) (4).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1) (5).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (1).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (2).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (3).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (4).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2) (5).svg,file
+feast-docs-overview-diagram-2 (5) (1) (2).svg,file
+feast-docs-overview-diagram-2 (5) (1) (3).svg,file
+feast-docs-overview-diagram-2 (5) (1) (4).svg,file
+feast-docs-overview-diagram-2 (5) (1) (5).svg,file
+feast-docs-overview-diagram-2 (5) (1) (6).svg,file
+feast-docs-overview-diagram-2 (5) (1).svg,file
+feast-docs-overview-diagram.png,file
+feast-docs-overview-diagram.svg,file
+feast-dqm-monitoring-hero.png,file
+feast-dqm-ui-all-features.png,file
+feast-dqm-ui-categorical-feature.png,file
+feast-dqm-ui-numeric-feature.png,file
+feast-favicon-300x300.png,file
+feast-favicon-36x36.png,file
+feast-feature-server,dir
+feast-feature-server-monitoring.md,file
+feast-feature-versioning-hero.png,file
+feast-features-ui.png,file
+feast-hierarchy.png,file
+feast-icon-blue.svg,file
+feast-icon-grey.svg,file
+feast-icon-white.svg,file
+feast-ignore.md,file
+feast-joins-pytorch-ecosystem.md,file
+feast-joins-the-linux-foundation-for-ai-data.md,file
+feast-landing-page-blog-post-feature-df.png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (1).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (1).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (2).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (3).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (4).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (5).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1) (6).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (1).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (2).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (3).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (4).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (5).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2) (6).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (2).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (3).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (4).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (5).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (6).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3) (7).png,file
+feast-landing-page-blog-post-page-5 (1) (1) (1) (2) (2) (5) (7) (7) (3).png,file
+feast-launches-rbac.md,file
+feast-marchitecture-211014.png,file
+feast-mcp-agent-workflow-prod.png,file
+feast-mcp-agent-workflow.png,file
+feast-mcp-agent.png,file
+feast-metrics-dashboard-overview.png,file
+feast-metrics-hero.png,file
+feast-metrics-odfv-latency.png,file
+feast-mlflow-kubeflow.md,file
+feast-mlflow-kubeflow.png,file
+feast-mlflow-native-integration.md,file
+feast-mlflow-native-integration.png,file
+feast-offline-store-sox-metrics.md,file
+feast-on-aws-1-.png,file
+feast-on-aws-2-.png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (2).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (3).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (4).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (5).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (6).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (4).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (5).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (6).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (4).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (5).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (6).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (7).png,file
+feast-on-aws-3- (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2).png,file
+feast-on-kubernetes.md,file
+feast-online-and-offline-store-data-model.png,file
+feast-online-server-performance-tuning.md,file
+feast-openai-compat-flow.png,file
+feast-openai-compatible-api.md,file
+feast-openlineage-integration.md,file
+feast-operator,dir
+feast-operator-controller-manager-metrics-service_v1_service.yaml,file
+feast-operator-featurestore-editor-role_rbac.authorization.k8s.io_v1_clusterrole.yaml,file
+feast-operator-featurestore-viewer-role_rbac.authorization.k8s.io_v1_clusterrole.yaml,file
+feast-operator-metrics-reader_rbac.authorization.k8s.io_v1_clusterrole.yaml,file
+feast-operator.clusterserviceversion.yaml,file
+feast-oracle-offline-store.md,file
+feast-oracle-offline-store.png,file
+feast-overview.png,file
+feast-ray-distributed-processing.md,file
+feast-ray-llm-posttrain.md,file
+feast-registry-nginx.yaml,file
+feast-release-0-12-adds-aws-redshift-and-dynamodb-stores.md,file
+feast-skills-maintenance.md,file
+feast-skills-maintenance.mdc,file
+feast-snowflake-gcp-aws,dir
+feast-supports-vector-database.md,file
+feast-testing,dir
+feast-tutorial-arch.png,file
+feast-types.md,file
+feast-ui.mdc,file
+feast-unity-catalog-integration.md,file
+feast-user-guide,dir
+feast.aggregation.rst,file
+feast.aggregation.tiling.rst,file
+feast.api.registry.rest.rst,file
+feast.api.registry.rst,file
+feast.api.rst,file
+feast.cli.rst,file
+feast.dbt.rst,file
+feast.dev_featurestores.yaml,file
+feast.diff.rst,file
+feast.dqm.profilers.rst,file
+feast.dqm.rst,file
+feast.embedded_go.rst,file
+feast.infra.common.rst,file
+feast.infra.compute_engines.algorithms.rst,file
+feast.infra.compute_engines.kubernetes.rst,file
+feast.infra.compute_engines.local.backends.rst,file
+feast.infra.compute_engines.local.rst,file
+feast.infra.compute_engines.rst,file
+feast.infra.compute_engines.snowflake.rst,file
+feast.infra.compute_engines.spark.rst,file
+feast.infra.contrib.rst,file
+feast.infra.feature_servers.local_process.rst,file
+feast.infra.feature_servers.multicloud.rst,file
+feast.infra.feature_servers.rst,file
+feast.infra.materialization.contrib.rst,file
+feast.infra.materialization.kubernetes.rst,file
+feast.infra.materialization.rst,file
+feast.infra.mcp_servers.rst,file
+feast.infra.offline_stores.contrib.athena_offline_store.rst,file
+feast.infra.offline_stores.contrib.athena_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.clickhouse_offline_store.rst,file
+feast.infra.offline_stores.contrib.clickhouse_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.couchbase_offline_store.rst,file
+feast.infra.offline_stores.contrib.couchbase_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.mssql_offline_store.rst,file
+feast.infra.offline_stores.contrib.mssql_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.postgres_offline_store.rst,file
+feast.infra.offline_stores.contrib.postgres_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.rst,file
+feast.infra.offline_stores.contrib.spark_offline_store.rst,file
+feast.infra.offline_stores.contrib.spark_offline_store.tests.rst,file
+feast.infra.offline_stores.contrib.trino_offline_store.connectors.rst,file
+feast.infra.offline_stores.contrib.trino_offline_store.rst,file
+feast.infra.offline_stores.contrib.trino_offline_store.test_config.rst,file
+feast.infra.offline_stores.contrib.trino_offline_store.tests.rst,file
+feast.infra.offline_stores.rst,file
+feast.infra.online_stores.cassandra_online_store.rst,file
+feast.infra.online_stores.contrib.cassandra_online_store.rst,file
+feast.infra.online_stores.contrib.couchbase_online_store.rst,file
+feast.infra.online_stores.contrib.hazelcast_online_store.rst,file
+feast.infra.online_stores.contrib.hbase_online_store.rst,file
+feast.infra.online_stores.contrib.mysql_online_store.rst,file
+feast.infra.online_stores.contrib.rst,file
+feast.infra.online_stores.couchbase_online_store.rst,file
+feast.infra.online_stores.elasticsearch_online_store.rst,file
+feast.infra.online_stores.hazelcast_online_store.rst,file
+feast.infra.online_stores.hbase_online_store.rst,file
+feast.infra.online_stores.milvus_online_store.rst,file
+feast.infra.online_stores.mongodb_online_store.rst,file
+feast.infra.online_stores.mysql_online_store.rst,file
+feast.infra.online_stores.postgres_online_store.rst,file
+feast.infra.online_stores.qdrant_online_store.rst,file
+feast.infra.online_stores.rst,file
+feast.infra.registry.contrib.azure.rst,file
+feast.infra.registry.contrib.rst,file
+feast.infra.registry.rst,file
+feast.infra.rst,file
+feast.infra.transformation_servers.rst,file
+feast.infra.utils.clickhouse.rst,file
+feast.infra.utils.couchbase.rst,file
+feast.infra.utils.postgres.rst,file
+feast.infra.utils.rst,file
+feast.infra.utils.snowflake.registry.rst,file
+feast.infra.utils.snowflake.rst,file
+feast.infra.utils.snowflake.snowpark.rst,file
+feast.lineage.rst,file
+feast.openlineage.rst,file
+feast.permissions.auth.rst,file
+feast.permissions.client.rst,file
+feast.permissions.rst,file
+feast.permissions.server.rst,file
+feast.protos.feast.core.rst,file
+feast.protos.feast.registry.rst,file
+feast.protos.feast.rst,file
+feast.protos.feast.serving.rst,file
+feast.protos.feast.storage.rst,file
+feast.protos.feast.types.rst,file
+feast.protos.rst,file
+feast.rst,file
+feast.tf,file
+feast.transformation.rst,file
+feast.ui.rst,file
+feast.yaml,file
+feast10,dir
+feast_config_credit_scoring.yaml,file
+feast_config_driver_ranking.yaml,file
+feast_config_rhoai.yaml,file
+feast_fraudlent_architecture.png,file
+feast_hero_010.png,file
+feast_icon-black.png,file
+feast_integration_test_crs,dir
+feast_logo.png,file
+feast_marchitecture.png,file
+feast_model_inference_architecture.png,file
+feast_native_lineage.png,file
+feast_object.py,file
+feast_persona_diagram.png,file
+feast_ray_architecture.png,file
+feastversion,dir
+feature-definitions.md,file
+feature-demo-tab,dir
+feature-monitoring.md,file
+feature-repo.md,file
+feature-repository,dir
+feature-repository.md,file
+feature-retrieval.md,file
+feature-server,dir
+feature-server.md,file
+feature-servers,dir
+feature-service-demo-tab,dir
+feature-services,dir
+feature-store-components.svg,file
+feature-store-diagram.svg,file
+feature-store-feature-image.webp,file
+feature-store-yaml.md,file
+feature-transformation-latency.md,file
+feature-transformation.md,file
+feature-view-versioning.md,file
+feature-view.md,file
+feature-views,dir
+feature.py,file
+featureView,dir
+feature_builder.py,file
+feature_dag.png,file
+feature_definitions.py,file
+feature_logging.py,file
+feature_records.py,file
+feature_repo,dir
+feature_repos,dir
+feature_request.md,file
+feature_resolver.py,file
+feature_server.py,file
+feature_server_docker_smoke.py,file
+feature_server_utils.py,file
+feature_servers,dir
+feature_service.py,file
+feature_service_template.jinja2,file
+feature_services.py,file
+feature_store.py,file
+feature_store.yaml,file
+feature_store.yaml.template,file
+feature_store_client_configs_gen.py,file
+feature_store_offline.yaml,file
+feature_store_online.yaml,file
+feature_store_registry.yaml,file
+feature_template.jinja2,file
+feature_view.py,file
+feature_view_projection.py,file
+feature_view_template.jinja2,file
+feature_view_utils.py,file
+feature_views.py,file
+features,dir
+features.py,file
+featureservice.go,file
+featureserviceschema.go,file
+featureserviceschema_test.go,file
+featurestore.go,file
+featurestore_controller.go,file
+featurestore_controller_cronjob_test.go,file
+featurestore_controller_db_store_test.go,file
+featurestore_controller_ephemeral_test.go,file
+featurestore_controller_kubernetes_auth_test.go,file
+featurestore_controller_loglevel_test.go,file
+featurestore_controller_namespace_registry_test.go,file
+featurestore_controller_objectstore_test.go,file
+featurestore_controller_oidc_auth_test.go,file
+featurestore_controller_packaged_test.go,file
+featurestore_controller_pvc_test.go,file
+featurestore_controller_test.go,file
+featurestore_controller_test_utils_test.go,file
+featurestore_controller_tls_test.go,file
+featurestore_controller_volume_volumemount_test.go,file
+featurestore_editor_role.yaml,file
+featurestore_packaged_types_test.go,file
+featurestore_test.go,file
+featurestore_types.go,file
+featurestore_types_test.go,file
+featurestore_v1alpha1_scheduling_test.go,file
+featurestore_viewer_role.yaml,file
+featureview.go,file
+featureviewprojection.go,file
+federated-feature-store.md,file
+field.go,file
+field.py,file
+file.md,file
+file.py,file
+fileTransform.js,file
+file_source.py,file
+file_utils.py,file
+filelogsink.go,file
+files_to_bump.txt,file
+filter_models.py,file
+firebase_online_example.monopic,file
+firebase_online_example.png,file
+flags_helper.py,file
+flexible_coyote,dir
+flink,dir
+flink.md,file
+flink_transformation.py,file
+foo_provider.py,file
+foo_registry_store.py,file
+fork_pr_integration_tests_aws.yml,file
+fork_pr_integration_tests_gcp.yml,file
+fork_pr_integration_tests_snowflake.yml,file
+fork_workflows,dir
+forms,dir
+fraud-detection.md,file
+fs_sqldb_azuredeploy.json,file
+fs_synapse_azuredeploy.json,file
+future-of-feast.md,file
+gcp,dir
+gcs.go,file
+gcs.md,file
+gcs.py,file
+ge_profiler.py,file
+genai.md,file
+generate_protos.py,file
+get-semantic-release-version,dir
+getHttpsConfig.js,file
+getting-started,dir
+github-mark-32px.png,file
+gitignore,file
+gke.tf,file
+global.css,file
+go,dir
+go-feature-server-benchmarks.md,file
+go-feature-server.md,file
+go.mod,file
+go.sum,file
+go_integration_test_utils.go,file
+google-cloud-platform.md,file
+governance.md,file
+graphics,dir
+groupversion_info.go,file
+grpc,dir
+grpc.py,file
+grpc_client_auth_interceptor.py,file
+grpc_error_interceptor.py,file
+grpc_server.go,file
+grpc_server.py,file
+grpc_server_test.go,file
+grpc_token_extractor.py,file
+gv_details.tpl,file
+gv_list.tpl,file
+hack,dir
+handler,dir
+handler.go,file
+handler_types.go,file
+handlers.ts,file
+hazelcast,dir
+hazelcast.md,file
+hazelcast.png,file
+hazelcast.py,file
+hazelcast_online_store,dir
+hazelcast_online_store.py,file
+hazelcast_repo_configuration.py,file
+hbase,dir
+hbase.md,file
+hbase.py,file
+hbase_online_store,dir
+hbase_repo_configuration.py,file
+hbase_utils.py,file
+hdfs,dir
+hdfs.md,file
+hdfs_registry_store.py,file
+health,dir
+hello_fresh.png,file
+helm,dir
+helm.tf,file
+helpers.py,file
+hermeto-generic-artifacts.sh,file
+high_level_hierarchy_redis.png,file
+hooks,dir
+hooks.py,file
+how-danny-chiao-is-keeping-feast-simple.md,file
+how-to-guides,dir
+http_auth_requests_wrapper.py,file
+http_server.go,file
+http_server.py,file
+http_server_test.go,file
+hybrid.md,file
+hybrid_offline_store.py,file
+hybrid_online_store,dir
+hybrid_online_store.py,file
+hybrid_online_store_repo_configuration.py,file
+iam.tf,file
+ibis.py,file
+ibm.png,file
+iceberg.md,file
+iceberg_catalog,dir
+iceberg_rest_client.py,file
+iceberg_source.py,file
+identity.py,file
+image (1).png,file
+image (10) (1) (1).png,file
+image (10) (1).png,file
+image (10).png,file
+image (11).png,file
+image (12).png,file
+image (13).png,file
+image (14).png,file
+image (15).png,file
+image (16).png,file
+image (17).png,file
+image (18).png,file
+image (19).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2) (1) (1).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2) (1) (2).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2) (1).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2) (2).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3).png,file
+image (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2).png,file
+image (2).png,file
+image (20).png,file
+image (21).png,file
+image (22).png,file
+image (23).png,file
+image (24).png,file
+image (25).png,file
+image (26).png,file
+image (27).png,file
+image (28).png,file
+image (29).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (1).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (1) (1).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (1) (2).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (1) (3).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (1).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (2).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2) (3).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (2).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (3).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1) (4).png,file
+image (3) (2) (2) (4) (4) (4) (4) (4) (4) (3) (1).png,file
+image (3).png,file
+image (30).png,file
+image (31).png,file
+image (32).png,file
+image (33).png,file
+image (34).png,file
+image (35).png,file
+image (36).png,file
+image (37).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (1).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (1).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (2).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (3).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (4).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (5).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1) (6).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (1).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (2).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (3).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (4).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (5).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2) (6).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (2).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (3).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (4).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (5).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (6).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3) (7).png,file
+image (4) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (3) (3) (3) (3).png,file
+image (4).png,file
+image (5).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (1).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (1).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (2).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (3).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (4).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (5).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (6).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1) (7).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (1).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (2).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (3).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (4).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (5).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (6).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2) (7).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (3).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (4).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (5).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (6).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (7).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (8).png,file
+image (6) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1).png,file
+image (6).png,file
+image (7).png,file
+image (8).png,file
+image (9).png,file
+image.png,file
+image_utils.py,file
+images,dir
+importer.py,file
+index.astro,file
+index.css,file
+index.html,file
+index.rst,file
+index.ts,file
+index.tsx,file
+inference.py,file
+infra,dir
+infra_diff.py,file
+infra_object.py,file
+ingress.yaml,file
+init-job.yaml,file
+init-scripts,dir
+init.sql,file
+install-feast.md,file
+install-google-cloud-sdk.sh,file
+install-helm.sh,file
+install.yaml,file
+install_feast.sh,file
+instrumentation.yaml,file
+integration,dir
+integration_test_repo_config.py,file
+interceptors,dir
+internal,dir
+intra_comm_authentication_client_manager.py,file
+issue_label_bot.yaml,file
+it,dir
+java,dir
+java-demo,dir
+jest,dir
+jest.config.js,file
+job.py,file
+joined_dataframe.png,file
+k8s,dir
+k8s_engine.py,file
+k8s_materialization_job.py,file
+k8s_materialization_task.py,file
+kafka.md,file
+kafka.tf,file
+key-benefit.svg,file
+key_encoding_utils.py,file
+kind-quickstart,dir
+kinesis.md,file
+kubeflow-and-feast-with-david-aronchick.md,file
+kubeflow-fraud-detection-e2e-cover.jpg,file
+kubeflow-fraud-detection-e2e-pipeline.png,file
+kubeflow-fraud-detection-e2e.md,file
+kubernetes,dir
+kubernetes_auth_client_manager.py,file
+kubernetes_auth_setup.md,file
+kubernetes_token_parser.py,file
+kustomization.yaml,file
+kustomizeconfig.yaml,file
+label-view.md,file
+label-views,dir
+label_view.py,file
+label_views.py,file
+labeling,dir
+lambda.md,file
+lambda_engine.py,file
+language.md,file
+latency.png,file
+layouts,dir
+leader_election_role.yaml,file
+leader_election_role_binding.yaml,file
+lineage,dir
+lineage.py,file
+lineage_server.py,file
+lineage_till_training.png,file
+lint_pr.yml,file
+linter.yml,file
+load-data-into-the-online-store.md,file
+load_cx_profile_data.sql,file
+load_drivers_data.sql,file
+load_orders_data.sql,file
+loan_table.parquet,file
+loan_table_sample.csv,file
+local,dir
+local.go,file
+local.md,file
+local_feast_tests,dir
+local_node.py,file
+local_process,dir
+localhost.crt,file
+localhost.key,file
+localhost.pem,file
+log4j2.xml,file
+logger.go,file
+logger.py,file
+logger_test.go,file
+logging,dir
+logo.svg,file
+logo192.png,file
+logo512.png,file
+logos,dir
+machine-learning-data-stack-for-real-time-fraud-prediction-using-feast-on-gcp.md,file
+main,dir
+main.go,file
+main.py,file
+main_test.go,file
+maintainers.md,file
+manager,dir
+manager.yaml,file
+manager_config_patch.yaml,file
+manager_metrics_patch.yaml,file
+manifest.json,file
+manifests,dir
+manual_tests.py,file
+mapper.py,file
+mappers.py,file
+markdown,dir
+master_only.yml,file
+matcher.py,file
+materialization,dir
+materialization_job.py,file
+materialize.py,file
+materialize.sh,file
+mcp-feature-server.md,file
+mcp_config.py,file
+mcp_feature_store,dir
+mcp_server.py,file
+mcp_servers,dir
+media,dir
+memory.properties,file
+memorybuffer.go,file
+memorybuffer_test.go,file
+mergedFVTypes.ts,file
+metadata,dir
+metadata.md,file
+metadata_samples.parquet,file
+metrics,dir
+metrics.go,file
+metrics.py,file
+metrics_auth_role.yaml,file
+metrics_auth_role_binding.yaml,file
+metrics_calculator.py,file
+metrics_reader_role.yaml,file
+metrics_service.yaml,file
+metrics_test.go,file
+milvus,dir
+milvus-quickstart.ipynb,file
+milvus-rag.png,file
+milvus.md,file
+milvus.png,file
+milvus.py,file
+milvus_example.py,file
+milvus_online_store,dir
+milvus_repo_configuration.py,file
+milvus_tutorial,dir
+minimal,dir
+minio-dev.yaml,file
+minio.env,file
+mlflow-feast-feature-selection-metrics.png,file
+mlflow-feature-selection-comparison.png,file
+mlflow-feature-selection-run.png,file
+mlflow-feature-selection-ui.png,file
+mlflow-integration.md,file
+mlflow.md,file
+mlflow.py,file
+mlflow_dashboard.png,file
+mlflow_discover.go,file
+mlflow_featurelist.png,file
+mlflow_integration,dir
+mock_utils.py,file
+mockito-extensions,dir
+mocks,dir
+mode.py,file
+model,dir
+model-inference.md,file
+model.py,file
+model_metadata.png,file
+model_resolver.py,file
+models,dir
+models.py,file
+modules.js,file
+modules.rst,file
+mongodb-feast-integration.md,file
+mongodb-feature-stores.png,file
+mongodb.md,file
+mongodb.py,file
+mongodb_offline_store,dir
+mongodb_online_store,dir
+mongodb_repo_configuration.py,file
+monitor.py,file
+monitor.yaml,file
+monitoring,dir
+monitoring-quickstart.ipynb,file
+monitoring.py,file
+monitoring.svg,file
+monitoring_service.py,file
+monitoring_utils.py,file
+msk.tf,file
+mssql.md,file
+mssql.py,file
+mssql_offline_store,dir
+mssql_repo_configuration.py,file
+mssqlserver_source.py,file
+multicloud,dir
+mutations,dir
+my_training_ds.parquet,file
+mypy-daemon.sh,file
+mysql.md,file
+mysql.py,file
+mysql.svg,file
+mysql_online_store,dir
+mysql_registry_store.go,file
+mysql_registry_store_test.go,file
+mysql_repo_configuration.py,file
+names.py,file
+namespace-registry.md,file
+namespace_registry.go,file
+new_branch_part_1.png,file
+new_branch_part_2.png,file
+new_branch_part_3.png,file
+new_branch_part_4.png,file
+new_branch_part_5.png,file
+nightly-ci.yml,file
+nightly_python_sdk_release.yml,file
+nlp_test_data.py,file
+node.py,file
+nodes.py,file
+notebooks,dir
+nvidia.png,file
+odh,dir
+odh-operator-parameters.md,file
+offline,dir
+offline-binary-build.sh,file
+offline-binary-release-build.sh,file
+offline-build.sh,file
+offline-feature-server.md,file
+offline-release-build.sh,file
+offline-store.md,file
+offline-stores,dir
+offline_client,dir
+offline_server,dir
+offline_server.py,file
+offline_store,dir
+offline_store.py,file
+offline_store_format.md,file
+offline_store_operational_metrics.png,file
+offline_stores,dir
+offline_utils.py,file
+offlinestoresink.go,file
+oidc,dir
+oidc_authentication_client_manager.py,file
+oidc_service.py,file
+oidc_token_parser.py,file
+olm.config.yaml,file
+on_demand_feature_view.py,file
+on_demand_feature_view_repo.py,file
+on_demand_feature_views.py,file
+ondemand-fv-demo-tab,dir
+ondemandfeatureview.go,file
+online-server-performance-tuning.md,file
+online-store.md,file
+online-stores,dir
+online_feature_store.yaml.template,file
+online_features.go,file
+online_features_service.py,file
+online_response.py,file
+online_retrieval_results.png,file
+online_store,dir
+online_store.db,file
+online_store.py,file
+online_store.tf,file
+online_store_creator.py,file
+online_store_for_pg.db,file
+online_store_format.md,file
+online_stores,dir
+online_write_benchmark.py,file
+onlineserving,dir
+onlinestore,dir
+onlinestore.go,file
+onlinestore_test.go,file
+open-telemetry.md,file
+openlineage,dir
+openlineage-integration,dir
+openlineage-secret_v1_secret.yaml,file
+openlineage.md,file
+openlineage1.png,file
+openlineage2.png,file
+openlineage_demo.py,file
+openlineage_discovery.go,file
+opentelemetry.md,file
+operation.png,file
+operator-e2e-integration-tests.yml,file
+operator-e2e-tests,file
+operator-postgres-tls-demo,dir
+operator-quickstart,dir
+operator-rbac,dir
+operator-rbac-openshift-tls,dir
+operator_pr.yml,file
+oracle.md,file
+oracle.py,file
+oracle_offline_store,dir
+oracle_source.py,file
+orchestrator.py,file
+org.mockito.plugins.MockMaker,file
+otel,dir
+otel-collector-config.yaml,file
+otel-collector.yaml,file
+otel-sm.yaml,file
+outputs.tf,file
+overlays,dir
+overview.md,file
+package-lock.json,file
+package.json,file
+pages,dir
+pandas_backend.py,file
+pandas_transformation.py,file
+params.env,file
+params.yaml,file
+parseEntityRelationships.ts,file
+parseIndirectRelationships.ts,file
+parser.py,file
+parsers,dir
+part1-load-data.ipynb,file
+part2-register-features.ipynb,file
+part3-train-and-deploy-with-feast.ipynb,file
+passthrough_provider.py,file
+patches,dir
+paths.js,file
+performance-test-for-python-based-feast-feature-server.md,file
+permission.md,file
+permission.py,file
+permissionUtils.ts,file
+permissions,dir
+permissions.py,file
+permissions_apply.py,file
+permissions_with_groups_namespaces.py,file
+persistentCache,dir
+pgvector_example.py,file
+pgvector_repo_configuration.py,file
+pgvector_tutorial,dir
+pixi,dir
+pixi.lock,file
+pixi.toml,file
+plan.py,file
+plugins.yaml,file
+podman.png,file
+podman_local,dir
+point-in-time-joins.md,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (1).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (1).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (2).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (3).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (4).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (5).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (6).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1) (7).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (1).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (2).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (3).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (4).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (5).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (6).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2) (7).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (2).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (3).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (4).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (5).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (6).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (7).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3) (8).png,file
+point_in_time_join (1) (2) (2) (3) (3) (3) (3).png,file
+polars_backend.py,file
+policy.py,file
+pom.xml,file
+postgres,dir
+postgres.md,file
+postgres.png,file
+postgres.py,file
+postgres.webp,file
+postgres.yaml,file
+postgres_config.py,file
+postgres_offline_store,dir
+postgres_online_store,dir
+postgres_repo_configuration.py,file
+postgres_source.py,file
+postgresonlinestore.go,file
+postgresonlinestore_test.go,file
+pr_duckdb_integration_tests.yml,file
+pr_integration_tests.yml,file
+pr_local_integration_tests.yml,file
+pr_ray_integration_tests.yml,file
+pr_registration_integration_tests.yml,file
+pr_remote_rbac_integration_tests.yml,file
+pr_website_build.yml,file
+prepare_data.py,file
+previous-version,dir
+previous_version_suite_test.go,file
+previous_version_test.go,file
+processor.py,file
+product_features.sql,file
+product_stats.csv,file
+production-deployment-topologies.md,file
+production-kube.png,file
+production-lambda.png,file
+production-simple.png,file
+production-spark-bytewax.png,file
+production-spark.png,file
+profiler.py,file
+profilers,dir
+profiles.yml,file
+project,dir
+project.md,file
+project.py,file
+project_metadata.py,file
+projects-list.json,file
+projects.py,file
+prometheus,dir
+prometheus.yaml,file
+properties,dir
+property_diff.py,file
+proto,dir
+proto_json.py,file
+proto_registry_utils.py,file
+proto_utils.py,file
+protoc-gen-doc-markdown.tmpl,file
+protos,dir
+provider.md,file
+provider.py,file
+provider.tf,file
+providers,dir
+public,dir
+publish-docker-image.sh,file
+publish-java-sdk.sh,file
+publish.yml,file
+publish_helm_charts.yml,file
+publish_images.yml,file
+publish_python_sdk.yml,file
+publish_versioned_docs.py,file
+publish_web_ui.yml,file
+pull_request_template.md,file
+push-helm-charts.sh,file
+push-vs-pull-model.md,file
+push.md,file
+push_source_template.jinja2,file
+py.typed,file
+py3.10-ci-requirements.txt,file
+py3.10-minimal-requirements.txt,file
+py3.10-minimal-sdist-requirements-build.txt,file
+py3.10-minimal-sdist-requirements.txt,file
+py3.10-requirements.txt,file
+py3.11-ci-requirements.txt,file
+py3.11-minimal-requirements.txt,file
+py3.11-minimal-sdist-requirements-build.txt,file
+py3.11-minimal-sdist-requirements.txt,file
+py3.11-requirements.txt,file
+py3.12-ci-requirements.txt,file
+py3.12-minimal-requirements.txt,file
+py3.12-minimal-sdist-requirements-build.txt,file
+py3.12-minimal-sdist-requirements.txt,file
+py3.12-requirements.txt,file
+pyproject.toml,file
+pytest.ini,file
+python,dir
+python-feature-server.md,file
+python-helm-demo,dir
+python_transformation.py,file
+pytorch_nlp,dir
+qdrant.md,file
+qdrant.py,file
+qdrant.svg,file
+qdrant_online_store,dir
+qdrant_repo_configuration.py,file
+queries,dir
+quickstart,dir
+quickstart.ipynb,file
+quickstart.md,file
+rag,dir
+rag-docling,dir
+rag-retriever,dir
+rag-with-docling.md,file
+rag-with-feast.md,file
+rag_feast.ipynb,file
+rag_feast_docembedder.ipynb,file
+rag_registry.db,file
+rag_registry.json,file
+rag_retriever.py,file
+rag_test_utils.py,file
+ragproject_repo.py,file
+ray,dir
+ray-llm-posttrain,dir
+ray.md,file
+ray.py,file
+ray_initializer.py,file
+ray_offline_store,dir
+ray_offline_store_reader.py,file
+ray_rag,dir
+ray_repo_configuration.py,file
+ray_shared_utils.py,file
+ray_source.py,file
+ray_transformation.py,file
+rbac,dir
+rbac-architecture.jpg,file
+rbac-local,dir
+rbac-remote,dir
+rbac-role-based-access-controls.md,file
+rbac.jpg,file
+rbac.md,file
+rbac.yaml,file
+rbac_templates,dir
+rds.tf,file
+react-app-env.d.ts,file
+read-features-from-the-online-store.md,file
+readonly_user_deployment.yaml,file
+readonly_user_deployment_tls.yaml,file
+readonly_user_resources.yaml,file
+real-time-credit-scoring-on-aws.md,file
+red_hat.png,file
+redis,dir
+redis-10.5.6.tgz,file
+redis-cluster.sh,file
+redis-screenshot.png,file
+redis.md,file
+redis.png,file
+redis.py,file
+redis.tf,file
+redis.yaml,file
+redis_online_example (1) (1).png,file
+redis_online_example (1).png,file
+redis_online_example.png,file
+redisonlinestore.go,file
+redisonlinestore_test.go,file
+redshift.md,file
+redshift.png,file
+redshift.py,file
+redshift_source.py,file
+ref.md,file
+reference,dir
+references,dir
+registered_model_with_feature_service.png,file
+registration,dir
+registration-inferencing.md,file
+registries,dir
+registry,dir
+registry-permissions.md,file
+registry-rest-api-tests.yml,file
+registry-server.md,file
+registry.db,file
+registry.go,file
+registry.md,file
+registry.py,file
+registry.svg,file
+registry_diff.py,file
+registry_lineage.py,file
+registry_server.py,file
+registry_store.py,file
+registry_test.go,file
+registrystore.go,file
+reguar-fv-demo-tab,dir
+related_image_fs_patch.tmpl,file
+related_image_fs_patch.yaml,file
+release,dir
+release-patch.sh,file
+release-process.md,file
+release.yml,file
+remote-offline-store,dir
+remote-offline-store.md,file
+remote.md,file
+remote.py,file
+repo_config.go,file
+repo_config.py,file
+repo_config_test.go,file
+repo_configuration.py,file
+repo_contents.py,file
+repo_operations.py,file
+repoconfig.go,file
+repoconfig_test.go,file
+request_source_template.jinja2,file
+requirements,dir
+requirements.txt,file
+requirements.yaml,file
+resource,dir
+resources,dir
+rest,dir
+rest.py,file
+restApi.ts,file
+restApiClient.ts,file
+rest_api,dir
+rest_error_handler.py,file
+rest_registry_server.py,file
+rest_token_extractor.py,file
+rest_utils.py,file
+retrieval-and-rag.md,file
+retrieval_task.py,file
+retriever,dir
+rfc-feature-view-versioning.md,file
+rhoai,dir
+rhoai-quickstart,dir
+ride-hailing.png,file
+ridgeline.js,file
+road-to-feast-1-0.md,file
+road2.png,file
+roadmap.md,file
+robinhood.png,file
+robots.txt,file
+rocket.png,file
+role.yaml,file
+role_binding.yaml,file
+rollup.config.js,file
+route.yaml,file
+rpms.lock.yaml,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (1).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (1).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (2).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1) (3).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (1).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (2).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (2).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (4).jpg,file
+rsz_untitled23 (2) (2) (2) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3).jpg,file
+rules,dir
+run_demo.sh,file
+running-feast-in-production.md,file
+s3.go,file
+s3.md,file
+s3.py,file
+s3.tf,file
+salesforce.png,file
+sample.png,file
+sample_manifest.json,file
+samples,dir
+saved-data-sets,dir
+saved_dataset.py,file
+saved_dataset_template.jinja2,file
+saved_datasets.py,file
+scaffolding,dir
+scaling-feast-feature-server.md,file
+scaling-feast.md,file
+scaling.go,file
+scaling_test.go,file
+schema.yml,file
+score.py,file
+scorecard,dir
+screen-shot-2021-08-23-at-2.35.18-pm.png,file
+scripts,dir
+scylladb.md,file
+scylladb.py,file
+scylladb.svg,file
+scylladb_online_store,dir
+sdk,dir
+search.py,file
+seatgeek.svg,file
+secret.yaml,file
+security.yml,file
+security_manager.py,file
+seeds,dir
+serde.py,file
+serve.py,file
+server,dir
+server_commons.go,file
+server_resources.yaml,file
+service,dir
+service-monitor.yaml,file
+service.go,file
+service.yaml,file
+service_account.yaml,file
+service_monitor.go,file
+service_monitor_test.go,file
+services,dir
+services.go,file
+services_test.go,file
+services_types.go,file
+serving,dir
+serving-2.svg,file
+serving-client,dir
+serving-feature-store-1.svg,file
+serving.go,file
+serving_test.go,file
+setup-common-functions.sh,file
+setupProxy.js,file
+setupTests.ts,file
+setup_data.py,file
+setup_it.py,file
+shopify.png,file
+singlestore.md,file
+singlestore.png,file
+singlestore.py,file
+singlestore_online_store,dir
+singlestore_repo_configuration.py,file
+skills,dir
+smoke_tests.yml,file
+snowflake,dir
+snowflake.md,file
+snowflake.png,file
+snowflake.py,file
+snowflake_engine.py,file
+snowflake_materialization_job.py,file
+snowflake_python_udfs_creation.sql,file
+snowflake_python_udfs_deletion.sql,file
+snowflake_source.py,file
+snowflake_table_creation.sql,file
+snowflake_table_deletion.sql,file
+snowflake_udfs.py,file
+snowflake_utils.py,file
+snowpark,dir
+source,dir
+sox_compliance_and_access.png,file
+sox_offline_store_audit_logs.png,file
+space.jpg,file
+spark,dir
+spark.md,file
+spark.png,file
+spark.py,file
+spark_application,dir
+spark_application.md,file
+spark_application.yaml,file
+spark_kafka_processor.py,file
+spark_offline_store,dir
+spark_repo_configuration.py,file
+spark_source.py,file
+spark_transformation.py,file
+sparkop.tf,file
+specs,dir
+sql,dir
+sql.md,file
+sql.py,file
+sql_transformation.py,file
+sqlite.md,file
+sqlite.png,file
+sqlite.py,file
+sqliteonlinestore.go,file
+sqliteonlinestore_test.go,file
+src,dir
+ssl_ca_trust_store_setup.py,file
+ssl_certifcates_util.py,file
+stale.yml,file
+start.js,file
+starting-feast-servers-tls-mode.md,file
+static,dir
+static_artifacts.py,file
+statistics-sources (1).png,file
+statistics-sources (2) (1) (1).png,file
+statistics-sources (2) (1) (2).png,file
+statistics-sources (2) (1) (3).png,file
+statistics-sources (2) (1) (4).png,file
+statistics-sources (2) (1).png,file
+statistics-sources (2) (2).png,file
+statistics-sources (2) (3).png,file
+statistics-sources (2) (4).png,file
+statistics-sources (2).png,file
+statistics-sources (3).png,file
+statistics-sources (4).png,file
+statistics-sources.png,file
+storage,dir
+storage-2.svg,file
+storage.tf,file
+store.py,file
+stream-feature-view.md,file
+stream-fv-demo-tab,dir
+stream-processor.md,file
+stream_feature_view.py,file
+stream_feature_views.py,file
+stream_processor.py,file
+streaming-feature-engineering-with-denormalized.md,file
+structuring-repos.md,file
+styles,dir
+substrait_transformation.py,file
+suite_test.go,file
+support.py,file
+supported_async_methods.py,file
+table-formats.md,file
+table_format.py,file
+tags.md,file
+templates,dir
+tensorflow_metadata,dir
+terraform,dir
+test,dir
+test-document.txt,file
+test-end-to-end.sh,file
+test-java-serving.sh,file
+test-utils.tsx,file
+test.js,file
+test.py,file
+test_aerospike_online_retrieval.py,file
+test_aggregation_ops.py,file
+test_all.py,file
+test_api_rest_registry.py,file
+test_api_rest_registry_server.py,file
+test_arrow_error_decorator.py,file
+test_auth_registry_server.py,file
+test_authentication_client_manager_factory.py,file
+test_backend_factory.py,file
+test_benchmark_universal_online_retrieval.py,file
+test_bigquery.py,file
+test_bigquery_non_entity_mode.py,file
+test_bigquery_partition_pruning_benchmark.py,file
+test_cassandra_online_store.py,file
+test_cli.py,file
+test_cli_apply_duplicates.py,file
+test_cli_chdir.py,file
+test_clickhouse.py,file
+test_client.py,file
+test_compute.py,file
+test_compute_correctness.py,file
+test_compute_dag.py,file
+test_config,dir
+test_consumer.py,file
+test_credentials.py,file
+test_dask_non_entity.py,file
+test_data_sources.py,file
+test_dataframe.py,file
+test_dbt_integration.py,file
+test_dbt_project,dir
+test_decision.py,file
+test_decorator.py,file
+test_demos.py,file
+test_dependency_conflicts.py,file
+test_doc_embedder.py,file
+test_dqm_validation.py,file
+test_dynamodb_online_store.py,file
+test_dynamodb_plan.py,file
+test_dynamodb_versioning.py,file
+test_e2e_local.py,file
+test_entity.py,file
+test_eq_cross_type.py,file
+test_errors.py,file
+test_factory.py,file
+test_faiss_versioning.py,file
+test_feature.py,file
+test_feature_builder.py,file
+test_feature_freshness.py,file
+test_feature_logging.py,file
+test_feature_resolution_cache.py,file
+test_feature_server.py,file
+test_feature_server_async.py,file
+test_feature_server_utils.py,file
+test_feature_service.py,file
+test_feature_store.py,file
+test_feature_validation.py,file
+test_feature_view_state.py,file
+test_feature_view_versioning.py,file
+test_feature_views.py,file
+test_file_registry.py,file
+test_filter_by_created_timestamp.py,file
+test_filter_models.py,file
+test_flink_compute_engine.py,file
+test_flink_dependencies.py,file
+test_groups_namespaces_auth.py,file
+test_grpc_server_write_protos.py,file
+test_helpers.py,file
+test_http_session_manager.py,file
+test_hybrid_offline_store.py,file
+test_hybrid_online_store.py,file
+test_ibis.py,file
+test_iceberg_duckdb.py,file
+test_iceberg_source.py,file
+test_iceberg_spark.py,file
+test_identity.py,file
+test_image_utils.py,file
+test_inference.py,file
+test_inference_unit_tests.py,file
+test_infra_diff.py,file
+test_init.py,file
+test_k8s.py,file
+test_key_encoding_benchmarks.py,file
+test_key_encoding_utils.py,file
+test_label_view.py,file
+test_lambda.py,file
+test_lineage_server.py,file
+test_local_compute_engine.py,file
+test_local_feature_store.py,file
+test_local_job.py,file
+test_log_creator.py,file
+test_mapper.py,file
+test_materialization_job.py,file
+test_materialize_version_forwarding.py,file
+test_mcp_feature_server.py,file
+test_mcp_server.py,file
+test_metrics.py,file
+test_metrics_calculator.py,file
+test_milvus_varchar_max_length.py,file
+test_milvus_versioning.py,file
+test_mlflow_integration.py,file
+test_mode.py,file
+test_mongodb.py,file
+test_mongodb_online_retrieval.py,file
+test_mongodb_vector_search.py,file
+test_monitoring_integration.py,file
+test_mysql_versioning.py,file
+test_nodes.py,file
+test_non_entity_mode.py,file
+test_offline_server.py,file
+test_offline_store.py,file
+test_offline_write.py,file
+test_oidc_auth_client.py,file
+test_oidc_token_passthrough.py,file
+test_on_demand_feature_view.py,file
+test_on_demand_feature_view_aggregation.py,file
+test_on_demand_feature_view_input_schema.py,file
+test_on_demand_pandas_transformation.py,file
+test_on_demand_python_transformation.py,file
+test_online_retrieval.py,file
+test_online_store_base.py,file
+test_online_writes.py,file
+test_pandas_transformation.py,file
+test_parser.py,file
+test_permission.py,file
+test_persist.py,file
+test_policy.py,file
+test_postgres.py,file
+test_postgres_versioning.py,file
+test_precomputed_feature_vectors.py,file
+test_processor.py,file
+test_project.py,file
+test_proto_json.py,file
+test_proto_registry_utils.py,file
+test_provider.py,file
+test_publish_versioned_docs.py,file
+test_push_features_to_offline_store.py,file
+test_push_features_to_online_store.py,file
+test_python_fetch.py,file
+test_rag_retriever.py,file
+test_ray_source.py,file
+test_redis.py,file
+test_redis_versioning.py,file
+test_redshift.py,file
+test_registry.py,file
+test_registry_diff.py,file
+test_registry_lineage.py,file
+test_registry_rest_api.py,file
+test_registry_server_commit_refresh.py,file
+test_registry_server_proto.py,file
+test_registry_string_config.py,file
+test_remote_online_store.py,file
+test_remote_registry.py,file
+test_remote_registry_mtls.py,file
+test_repo_config.py,file
+test_repo_operations.py,file
+test_repo_operations_validate_feast_project_name.py,file
+test_resource_scheduling.py,file
+test_rest_error_decorator.py,file
+test_retrieval_job_dataframe.py,file
+test_s3_custom_endpoint.py,file
+test_scylladb_online_store.py,file
+test_search_api.py,file
+test_security_manager.py,file
+test_serialization_version.py,file
+test_skip_validation.py,file
+test_snowflake.py,file
+test_snowflake_compute_engine.py,file
+test_snowflake_registry.py,file
+test_snowflake_udfs.py,file
+test_snowflake_utils.py,file
+test_source_feature_views.py,file
+test_spark.py,file
+test_spark_application.py,file
+test_spark_bfv_compute_on_read.py,file
+test_spark_materialization_engine.py,file
+test_spark_offline_store_pull_all.py,file
+test_spark_persist.py,file
+test_spark_staging_filesystem.py,file
+test_spark_table_format_integration.py,file
+test_spark_transformation.py,file
+test_spark_utils.py,file
+test_sql_registry.py,file
+test_sql_transformation.py,file
+test_sqlite_plan.py,file
+test_store.py,file
+test_stream_feature_view.py,file
+test_table_format.py,file
+test_teardown.py,file
+test_token_extractor.py,file
+test_token_parser.py,file
+test_topo_sort.py,file
+test_trino_queries.py,file
+test_trino_type_map.py,file
+test_type_map.py,file
+test_types.py,file
+test_udf_rehydrate.py,file
+test_ui_server.py,file
+test_unit_feature_store.py,file
+test_universal_cli.py,file
+test_universal_e2e.py,file
+test_universal_historical_retrieval.py,file
+test_universal_materialization.py,file
+test_universal_odfv_feature_inference.py,file
+test_universal_online.py,file
+test_universal_online_types.py,file
+test_universal_registry.py,file
+test_universal_types.py,file
+test_update_metadata_fields.py,file
+test_user.py,file
+test_util.go,file
+test_utils.py,file
+test_utils_entity_maps.py,file
+test_vector_store.py,file
+test_vector_store_utils.py,file
+test_versioning.py,file
+test_workflow.py,file
+test_wrappers.py,file
+testdata,dir
+tests,dir
+the-future-of-feast.md,file
+the-road-to-feast-1-0.md,file
+third-party-integrations.md,file
+third_party,dir
+tile_subtraction.py,file
+tiling,dir
+tiling.md,file
+timestamp.ts,file
+tls.go,file
+tls_bootstrap.go,file
+tls_bootstrap_test.go,file
+tls_test.go,file
+token_extractor.py,file
+token_parser.py,file
+topo.py,file
+torch_wrapper.py,file
+train_sft.py,file
+training_dataset_sample.parquet,file
+transactions.csv,file
+transformation,dir
+transformation-1.svg,file
+transformation-service,dir
+transformation.go,file
+transformation_server.py,file
+transformation_servers,dir
+transformation_service.go,file
+trino.md,file
+trino.png,file
+trino.py,file
+trino_offline_store,dir
+trino_queries.py,file
+trino_repo_configuration.py,file
+trino_source.py,file
+trino_type_map.py,file
+tsconfig.build-lib.json,file
+tsconfig.json,file
+tutorials,dir
+tutorials-overview,dir
+twitter.webp,file
+type-system.md,file
+type.tpl,file
+type_map.py,file
+type_members.tpl,file
+type_test_utils.py,file
+typeconversion.go,file
+typeconversion_test.go,file
+types,dir
+types.py,file
+types.ts,file
+uc_client.py,file
+uc_provider.py,file
+udf_rehydrate.py,file
+ui,dir
+ui.png,file
+ui.py,file
+ui_server.py,file
+unauthorized_user_deployment.yaml,file
+unauthorized_user_deployment_tls.yaml,file
+unauthorized_user_resources.yaml,file
+unit,dir
+unit_tests.yml,file
+unity_catalog_source.py,file
+universal,dir
+unset_prerelease.py,file
+untitled-23-.jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (1).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (1).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (2).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (3).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (4).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (5).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (6).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1) (7).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (1).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (2).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (3).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (4).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (5).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (6).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2) (7).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (2).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (3).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (4).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (5).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (6).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (7).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1) (8).jpg,file
+untitled-25-1- (2) (2) (2) (3) (3) (3) (3) (3) (3) (1).jpg,file
+untitled-26-1-.jpg,file
+update_stable_branch.yml,file
+upgrade,dir
+upgrade_suite_test.go,file
+upgrade_test.go,file
+upload.py,file
+use-cases.md,file
+useAnnotationConfig.ts,file
+useDataSourceMutations.ts,file
+useDemoQuery.tsx,file
+useDocumentLabelingQuery.tsx,file
+useDocumentTitle.ts,file
+useEntityMutations.ts,file
+useFCOExploreSuggestions.ts,file
+useFeatureServiceMutations.ts,file
+useFeatureViewEdgesByEntity.ts,file
+useFeatureViewMutations.ts,file
+useLoadComputeEngine.ts,file
+useLoadDataSource.ts,file
+useLoadDataSourcesREST.ts,file
+useLoadDataset.ts,file
+useLoadEntitiesREST.ts,file
+useLoadEntity.ts,file
+useLoadFeature.ts,file
+useLoadFeatureModels.ts,file
+useLoadFeatureService.ts,file
+useLoadFeatureUsage.ts,file
+useLoadFeatureView.ts,file
+useLoadFeatureViewsREST.ts,file
+useLoadLabelView.ts,file
+useLoadMlflowRuns.ts,file
+useLoadOpenLineageGraph.ts,file
+useLoadRegistry.ts,file
+useLoadRelationshipsData.ts,file
+useLoadRunHistory.ts,file
+useMatchSubpath.ts,file
+useMonitoringApi.ts,file
+usePermissionMutations.ts,file
+useRegistryRefresh.ts,file
+useResourceQuery.ts,file
+useSearchInputWithTags.ts,file
+useTagsAggregation.ts,file
+user.py,file
+user_token_provisioning.md,file
+util,dir
+util.go,file
+util_test.go,file
+utils,dir
+utils.go,file
+utils.py,file
+uv-run.sh,file
+v1,dir
+v1_default_featurestore.yaml,file
+v1_featurestore.yaml,file
+v1_featurestore_all_openshift_non_tls.yaml,file
+v1_featurestore_all_remote_servers.yaml,file
+v1_featurestore_db_persistence.yaml,file
+v1_featurestore_gcs.yaml,file
+v1_featurestore_git.yaml,file
+v1_featurestore_git_repopath.yaml,file
+v1_featurestore_git_token.yaml,file
+v1_featurestore_init.yaml,file
+v1_featurestore_kubernetes_auth.yaml,file
+v1_featurestore_lineage_server.yaml,file
+v1_featurestore_materialization_openlineage.yaml,file
+v1_featurestore_mcp.yaml,file
+v1_featurestore_objectstore_persistence.yaml,file
+v1_featurestore_oidc_auth.yaml,file
+v1_featurestore_openlineage_consumer.yaml,file
+v1_featurestore_packaged.yaml,file
+v1_featurestore_postgres_db_volumes_tls.yaml,file
+v1_featurestore_postgres_tls_volumes_ca_env.yaml,file
+v1_featurestore_pvc_persistence.yaml,file
+v1_featurestore_scaling_hpa.yaml,file
+v1_featurestore_scaling_static.yaml,file
+v1_featurestore_services_loglevel.yaml,file
+v1_featurestore_serving.yaml,file
+v1_featurestore_with_ui.yaml,file
+v1_remote_registry_featurestore.yaml,file
+v1alpha1,dir
+v1alpha1_default_featurestore.yaml,file
+v1alpha1_remote_registry_featurestore.yaml,file
+validate-helm-chart-publish.sh,file
+validate-helm-chart-versions.sh,file
+validate-release.sh,file
+validation_references.py,file
+valkey.md,file
+value.py,file
+value_type.py,file
+values.yaml,file
+variables.tf,file
+vector_store.py,file
+vector_store_utils.py,file
+version.go,file
+version.py,file
+version_utils.py,file
+versioning-policy.md,file
+vnet.tf,file
+wait.py,file
+walmart.png,file
+webpack,dir
+webpack.config.js,file
+webpackDevServer.config.js,file
+website,dir
+what-is-a-feature-store.md,file
+what-is-a-feature-store.png,file
+workflow.png,file
+workflows,dir
+write-patterns.md,file
+yarn.lock,file
+zipcode_table.parquet,file
+zipcode_table_sample.csv,file
+zz_generated.deepcopy.go,file

@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+cli,dir
+crypto-js.min.js,file
+example.html,file
+index.html,file
+index.js,file
+kryptojs-3.1.9-1-lib.js,file
+package-lock.json,file
+package.json,file
+password_template.html,file

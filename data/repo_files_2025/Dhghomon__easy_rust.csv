@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+Easy_Rust_sample_image.png,file
+LICENSE,file
+Learn_Rust_in_a_Month_of_Lunches.png,file
+Makefile,file
+README.md,file
+book.toml,file
+createBookFromReadme.sh,file
+createGithubPagesFromReadme.sh,file
+createPdfFromReadme.sh,file
+github-pages.yml,file
+pdf_metadata.yaml,file
+workflows,dir

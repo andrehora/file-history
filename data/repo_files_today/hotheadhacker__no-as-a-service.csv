@@ -1,0 +1,14 @@
+name,type
+.devcontainer.json,file
+.dockerignore,file
+Dockerfile,file
+LICENSE,file
+README.md,file
+assets,dir
+image.png,file
+imgs,dir
+index.js,file
+naas-with-no-logo-bunny.png,file
+naas.jpg,file
+package.json,file
+reasons.json,file

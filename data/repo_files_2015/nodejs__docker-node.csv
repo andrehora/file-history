@@ -1,0 +1,8 @@
+name,type
+0.10,dir
+0.11,dir
+0.8,dir
+Dockerfile,file
+README.md,file
+onbuild,dir
+slim,dir

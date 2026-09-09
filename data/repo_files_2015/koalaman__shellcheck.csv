@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+AST.hs,file
+Analytics.hs,file
+Data.hs,file
+LICENSE,file
+Options.hs,file
+Parser.hs,file
+README.md,file
+Setup.hs,file
+ShellCheck,dir
+ShellCheck.cabal,file
+Simple.hs,file
+shellcheck.1.md,file
+shellcheck.hs,file
+test,dir

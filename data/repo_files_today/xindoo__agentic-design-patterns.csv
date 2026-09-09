@@ -1,0 +1,100 @@
+name,type
+.github,dir
+.gitignore,file
+AGENTS.md,file
+Agentic Design Patterns.md,file
+Appendix A_ Advanced Prompting Techniques.md,file
+Appendix B - AI Agentic Interactions_ From GUI to Real world environment.md,file
+Appendix C - Quick overview of Agentic Frameworks.md,file
+Appendix D - Building an Agent with AgentSpace (on-line only).md,file
+Appendix E - AI Agents on the CLI.md,file
+Appendix F  - Under the Hood_ An Inside Look at the Agents' Reasoning Engines.md,file
+Appendix G -  Coding agents.md,file
+CLAUDE.md,file
+CNAME,file
+CONTRIBUTING.md,file
+Chapter 10_ Model Context Protocol (MCP).md,file
+Chapter 11_ Goal Setting and Monitoring.md,file
+Chapter 12_ Exception Handling and Recovery.md,file
+Chapter 13_ Human-in-the-Loop.md,file
+Chapter 14_ Knowledge Retrieval (RAG).md,file
+Chapter 15_ Inter-Agent Communication (A2A).md,file
+Chapter 16_ Resource-Aware Optimization.md,file
+Chapter 17_ Reasoning Techniques.md,file
+Chapter 18_ Guardrails_Safety Patterns.md,file
+Chapter 19_ Evaluation and Monitoring.md,file
+Chapter 1_ Prompt Chaining.md,file
+Chapter 20_ Prioritization.md,file
+Chapter 21_ Exploration and Discovery.md,file
+Chapter 2_ Routing.md,file
+Chapter 3_ Parallelization.md,file
+Chapter 4_ Reflection.md,file
+Chapter 5_ Tool Use.md,file
+Chapter 6_ Planning.md,file
+Chapter 7_ Multi-Agent Collaboration.md,file
+Chapter 8_ Memory Management.md,file
+Chapter 9_ Learning and Adaptation.md,file
+Conclusion.md,file
+Frequently Asked Questions_ Agentic Design Patterns.md,file
+Gemfile,file
+Glossary.md,file
+Index of Terms.md,file
+OPTIMIZE_README.md,file
+Online contribution - Frequently Asked Questions_ Agentic Design Patterns.md,file
+PROJECT_STRUCTURE.md,file
+README.md,file
+SUMMARY.md,file
+_config.yml,file
+_includes,dir
+_layouts,dir
+appendix-a,dir
+appendix-b,dir
+appendix-d,dir
+appendix-g,dir
+bilingual,dir
+bilingual.html,file
+chapter-1,dir
+chapter-10,dir
+chapter-11,dir
+chapter-12,dir
+chapter-13,dir
+chapter-14,dir
+chapter-15,dir
+chapter-16,dir
+chapter-17,dir
+chapter-18,dir
+chapter-19,dir
+chapter-2,dir
+chapter-20,dir
+chapter-21,dir
+chapter-3,dir
+chapter-4,dir
+chapter-5,dir
+chapter-6,dir
+chapter-7,dir
+chapter-8,dir
+chapter-9,dir
+chapters,dir
+cover.png,file
+default.html,file
+generate-pdf.yml,file
+glossary.md,file
+image1.png,file
+image2.png,file
+image3.png,file
+image4.png,file
+image5.png,file
+image6.png,file
+image7.png,file
+images,dir
+index.md,file
+navigation-bilingual.html,file
+navigation-en.html,file
+navigation.html,file
+original,dir
+pandoc-listings.tex,file
+process_latex_chars.py,file
+progress.md,file
+scripts,dir
+translation-guide.md,file
+workflows,dir

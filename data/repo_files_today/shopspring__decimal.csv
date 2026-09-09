@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+ci.yml,file
+const.go,file
+const_test.go,file
+decimal-go.go,file
+decimal.go,file
+decimal_bench_test.go,file
+decimal_go124_test.go,file
+decimal_test.go,file
+go.mod,file
+rounding.go,file
+workflows,dir

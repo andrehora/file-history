@@ -1,0 +1,8 @@
+name,type
+.github,dir
+PULL_REQUEST_TEMPLATE.md,file
+banner.png,file
+check-for-deprecation.sh,file
+contributing.md,file
+media,dir
+readme.md,file

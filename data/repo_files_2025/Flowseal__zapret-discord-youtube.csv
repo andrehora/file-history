@@ -1,0 +1,27 @@
+name,type
+.gitignore,file
+.service,dir
+LICENSE.txt,file
+README.md,file
+WinDivert.dll,file
+WinDivert64.sys,file
+bin,dir
+check_updates.bat,file
+cygwin1.dll,file
+discord.bat,file
+general (ALT).bat,file
+general (ALT2).bat,file
+general (ALT3).bat,file
+general (ALT4).bat,file
+general (ALT5).bat,file
+general.bat,file
+ipset-discord.txt,file
+list-discord.txt,file
+list-general.txt,file
+quic_initial_www_google_com.bin,file
+service_goodbye_discord.bat,file
+service_install.bat,file
+service_remove.bat,file
+tls_clienthello_www_google_com.bin,file
+version.txt,file
+winws.exe,file

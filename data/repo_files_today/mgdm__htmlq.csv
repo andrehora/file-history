@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.gitignore,file
+Cargo.lock,file
+Cargo.toml,file
+LICENSE.md,file
+README.md,file
+build.yml,file
+cli.rs,file
+flake.lock,file
+flake.nix,file
+link.rs,file
+main.rs,file
+pretty_print.rs,file
+src,dir
+tests,dir
+workflows,dir

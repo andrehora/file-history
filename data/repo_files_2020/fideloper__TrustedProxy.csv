@@ -1,0 +1,15 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+LICENSE.md,file
+TrustProxies.php,file
+TrustedProxyServiceProvider.php,file
+TrustedProxyTest.php,file
+composer.json,file
+config,dir
+phpunit.xml.dist,file
+readme.md,file
+src,dir
+tests,dir
+trustedproxy.php,file

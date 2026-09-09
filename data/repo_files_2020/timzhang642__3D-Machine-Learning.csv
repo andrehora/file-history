@@ -1,0 +1,65 @@
+name,type
+3D Bounding Box Estimation Using Deep Learning and Geometry.png,file
+3D Object Recognition Based on Volumetric Representation Using Convolutional Neural Networks.png,file
+3D-RCNN- Instance-level 3D Object Reconstruction via Render-and-Compare (2018 CVPR).jpeg,file
+3DCNN-DQN-RNN.png,file
+A Coarse-to-Fine Indoor Layout Estimation (CFILE) Method (2016).png,file
+A Point Set Generation Network for 3D Object Reconstruction from a Single Image (2017).jpeg,file
+A Probabilistic Model for Component-Based Shape Synthesis.png,file
+A fully end-to-end deep learning approach for real-time simultaneous 3D reconstruction and material recognition (2017).png,file
+AI2-Thor.jpeg,file
+Appearance Modeling via Proxy-to-Image Alignment.png,file
+Automatic 3D Indoor Scene Modeling from Single Panorama (2018 CVPR).jpeg,file
+Complete 3D Scene Parsing from Single RGBD Image.jpeg,file
+Core55.png,file
+DeLay-Robust Spatial Layout Estimation for Cluttered Indoor Scenes.png,file
+Deep Generative Modeling for Scene Synthesis via Hybrid Representations (2018).jpeg,file
+Deep Marching Cubes.png,file
+Escape From Cells.png,file
+Exploring Generative 3D Shapes Using Autoencoder Networks.jpeg,file
+Feedback Networks.png,file
+Generic 3D Representation via Pose Estimation and Matching.jpeg,file
+Gibson Environment- Real-World Perception for Embodied Agents (2018 CVPR) .jpeg,file
+Global-to-Local Generative Model for 3D Shapes.jpg,file
+Interchangeable Components for Hands-On Assembly Based Modeling.png,file
+InteriorNet.jpg,file
+Joint Material and Illumination Estimation from Photo Sets in the Wild.jpeg,file
+Learning Informative Edge Maps for Indoor Scene Layout Prediction.png,file
+Learning Material-Aware Local Descriptors for 3D Shapes (2018).jpeg,file
+Learning Part-based Templates from Large Collections of 3D Shapes.png,file
+Learning View Priors for Single-view 3D Reconstruction.png,file
+Matryoshka Networks- Predicting 3D Geometry via Nested Shape Layers (2018 CVPR).jpeg,file
+Modeling Uncertainty in Deep Learning for Camera Relocalization.jpeg,file
+Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation.png,file
+Object Detection in 3D Scenes Using CNNs in Multi-view Images.png,file
+OctNetFusion- Learning Depth Fusion from Data.jpeg,file
+PCPNET Learning Local Shape Properties from Raw Point Clouds (2017).jpeg,file
+PCPNet.jpeg,file
+Pix3D - Dataset and Methods for Single-Image 3D Shape Modeling (2018 CVPR).png,file
+PointGrid- A Deep Network for 3D Shape Understanding (2018).jpeg,file
+PointNet++- Deep Hierarchical Feature Learning on Point Sets in a Metric Space.png,file
+Predicting Complete 3D Models of Indoor Scenes.png,file
+Princeton Shape Benchmark (2003).jpeg,file
+README.md,file
+Recovering the Spatial Layout of Cluttered Rooms.png,file
+Relative Camera Pose Estimation Using Convolutional Neural Networks.png,file
+Robust camera pose estimation by viewpoint classification using deep learning.jpeg,file
+SEGCloud.png,file
+SPLATNet- Sparse Lattice Networks for Point Cloud Processing.jpeg,file
+Scaling CNN Reconstruction.png,file
+SceneSuggest -Context-driven 3D Scene Design (2017).png,file
+Semantic Segmentation of Indoor Point Clouds using Convolutional Neural Networks.png,file
+Structure Recovery by Part Assembly.png,file
+Synthesizing Open Worlds with Constraints using Locally Annealed Reversible Jump MCMC (2012).jpeg,file
+Tag Disentangled Generative Adversarial Networks for Object Image Re-rendering.jpeg,file
+Texture Synthesis Using Convolutional Neural Networks.jpeg,file
+The Clutterpalette- An Interactive Tool for Detailing Indoor Scenes.png,file
+Three-Dimensional Object Detection and Layout Prediction using Clouds of Oriented Gradients.png,file
+Viewpoints and Keypoints.jpeg,file
+Visual Object Networks- Image Generation with Disentangled 3D Representation (2018).jpeg,file
+Weakly supervised 3D Reconstruction with Adversarial Constraint (2017).jpeg,file
+a-square-net-min.jpg,file
+a.jpg,file
+decomposition_new.png,file
+imgs,dir
+pixels-voxels-views-rgb2mesh.png,file

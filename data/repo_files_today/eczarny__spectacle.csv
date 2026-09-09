@@ -1,0 +1,220 @@
+name,type
+.gitignore,file
+.travis.yml,file
+10.9 Crash Fix.imageset,dir
+Base.lproj,dir
+CONTRIBUTING.md,file
+Cartfile,file
+Cartfile.resolved,file
+Certificates,dir
+Contents.json,file
+Credits.rtf,file
+Defaults.plist,file
+IDEWorkspaceChecks.plist,file
+Images.xcassets,dir
+Info.plist,file
+InfoPlist.strings,file
+LICENSE.md,file
+Localizable.strings,file
+Localizations,dir
+Property Lists,dir
+README.md,file
+Resources,dir
+Scripts,dir
+Security & Privacy System Preferences Original.scpt,file
+Security & Privacy System Preferences.scpt,file
+Security & Privacy.imageset,dir
+Security & Privacy.png,file
+Security & Privacy@2x.png,file
+Sources,dir
+Spectacle,dir
+Spectacle 128.png,file
+Spectacle 128@2x.png,file
+Spectacle 16.png,file
+Spectacle 16@2x.png,file
+Spectacle 256.png,file
+Spectacle 256@2x.png,file
+Spectacle 32.png,file
+Spectacle 32@2x.png,file
+Spectacle 512.png,file
+Spectacle 512@2x.png,file
+Spectacle Status Item.imageset,dir
+Spectacle Status Item.png,file
+Spectacle Status Item@2x.png,file
+Spectacle-1.png,file
+Spectacle-10.png,file
+Spectacle-11.png,file
+Spectacle-12.png,file
+Spectacle-13.png,file
+Spectacle-14.png,file
+Spectacle-15.png,file
+Spectacle-16.png,file
+Spectacle-17.png,file
+Spectacle-18.png,file
+Spectacle-19.png,file
+Spectacle-2.png,file
+Spectacle-20.png,file
+Spectacle-21.png,file
+Spectacle-22.png,file
+Spectacle-23.png,file
+Spectacle-24.png,file
+Spectacle-25.png,file
+Spectacle-26.png,file
+Spectacle-27.png,file
+Spectacle-28.png,file
+Spectacle-29.png,file
+Spectacle-3.png,file
+Spectacle-30.png,file
+Spectacle-31.png,file
+Spectacle-32.png,file
+Spectacle-33.png,file
+Spectacle-34.png,file
+Spectacle-35.png,file
+Spectacle-36.png,file
+Spectacle-37.png,file
+Spectacle-38.png,file
+Spectacle-39.png,file
+Spectacle-4.png,file
+Spectacle-40.png,file
+Spectacle-41.png,file
+Spectacle-42.png,file
+Spectacle-43.png,file
+Spectacle-44.png,file
+Spectacle-45.png,file
+Spectacle-46.png,file
+Spectacle-47.png,file
+Spectacle-48.png,file
+Spectacle-5.png,file
+Spectacle-6.png,file
+Spectacle-7.png,file
+Spectacle-8.png,file
+Spectacle-9.png,file
+Spectacle.appiconset,dir
+Spectacle.strings,file
+Spectacle.xcodeproj,dir
+Spectacle.xcscheme,file
+Spectacle.xib,file
+SpectacleAccessibilityElement.h,file
+SpectacleAccessibilityElement.m,file
+SpectacleAppDelegate.h,file
+SpectacleAppDelegate.m,file
+SpectacleBestEffortWindowMover.h,file
+SpectacleBestEffortWindowMover.m,file
+SpectacleBottomHalfWindowCalculation.js,file
+SpectacleBottomHalfWindowCalculationSpec.m,file
+SpectacleCenterWindowCalculation.js,file
+SpectacleCenterWindowCalculationSpec.m,file
+SpectacleDefaultShortcutHelpers.h,file
+SpectacleDefaultShortcutHelpers.m,file
+SpectacleFullscreenWindowCalculation.js,file
+SpectacleFullscreenWindowCalculationSpec.m,file
+SpectacleHistory.h,file
+SpectacleHistory.m,file
+SpectacleHistoryItem.h,file
+SpectacleHistoryItem.m,file
+SpectacleJavaScriptEnvironment.h,file
+SpectacleJavaScriptEnvironment.m,file
+SpectacleLargerWindowCalculation.js,file
+SpectacleLargerWindowCalculationSpec.m,file
+SpectacleLeftHalfWindowCalculation.js,file
+SpectacleLeftHalfWindowCalculationSpec.m,file
+SpectacleLoginItemHelper.h,file
+SpectacleLoginItemHelper.m,file
+SpectacleLowerLeftWindowCalculation.js,file
+SpectacleLowerLeftWindowCalculationSpec.m,file
+SpectacleLowerRightWindowCalculation.js,file
+SpectacleLowerRightWindowCalculationSpec.m,file
+SpectacleMacros.h,file
+SpectacleMigratingShortcutStorage.h,file
+SpectacleMigratingShortcutStorage.m,file
+SpectacleNextDisplayWindowCalculation.js,file
+SpectacleNextDisplayWindowCalculationSpec.m,file
+SpectacleNextOrPreviousDisplay.js,file
+SpectacleNextOrPreviousThirds.js,file
+SpectacleNextThirdWindowCalculation.js,file
+SpectacleNextThirdWindowCalculationSpec.m,file
+SpectaclePreferencesController.h,file
+SpectaclePreferencesController.m,file
+SpectaclePreferencesWindow.strings,file
+SpectaclePreferencesWindow.xib,file
+SpectaclePreviousDisplayWindowCalculation.js,file
+SpectaclePreviousDisplayWindowCalculationSpec.m,file
+SpectaclePreviousThirdWindowCalculation.js,file
+SpectaclePreviousThirdWindowCalculationSpec.m,file
+SpectacleQuantizedWindowMover.h,file
+SpectacleQuantizedWindowMover.m,file
+SpectacleRegisteredShortcutValidator.h,file
+SpectacleRegisteredShortcutValidator.m,file
+SpectacleRightHalfWindowCalculation.js,file
+SpectacleRightHalfWindowCalculationSpec.m,file
+SpectacleScreenDetectionResult.h,file
+SpectacleScreenDetectionResult.m,file
+SpectacleScreenDetector.h,file
+SpectacleScreenDetector.m,file
+SpectacleShortcut.h,file
+SpectacleShortcut.m,file
+SpectacleShortcutHolder.h,file
+SpectacleShortcutHolder.m,file
+SpectacleShortcutJSONStorage.h,file
+SpectacleShortcutJSONStorage.m,file
+SpectacleShortcutKeyBindings.h,file
+SpectacleShortcutKeyBindings.m,file
+SpectacleShortcutKeyBindingsSpec.m,file
+SpectacleShortcutManager.h,file
+SpectacleShortcutManager.m,file
+SpectacleShortcutRecorder.h,file
+SpectacleShortcutRecorder.m,file
+SpectacleShortcutRecorderDelegate.h,file
+SpectacleShortcutSpec.m,file
+SpectacleShortcutStorage.h,file
+SpectacleShortcutStorageMigrationDestination.h,file
+SpectacleShortcutTranslations.h,file
+SpectacleShortcutTranslations.m,file
+SpectacleShortcutTranslationsSpec.m,file
+SpectacleShortcutUserDefaultsStorage.h,file
+SpectacleShortcutUserDefaultsStorage.m,file
+SpectacleShortcutValidation.h,file
+SpectacleShortcutValidation.m,file
+SpectacleShortcutValidator.h,file
+SpectacleSmallerWindowCalculation.js,file
+SpectacleSmallerWindowCalculationSpec.m,file
+SpectacleSpecs,dir
+SpectacleStandardWindowMover.h,file
+SpectacleStandardWindowMover.m,file
+SpectacleTopHalfWindowCalculation.js,file
+SpectacleTopHalfWindowCalculationSpec.m,file
+SpectacleUpperLeftWindowCalculation.js,file
+SpectacleUpperLeftWindowCalculationSpec.m,file
+SpectacleUpperRightWindowCalculation.js,file
+SpectacleUpperRightWindowCalculationSpec.m,file
+SpectacleUtilities.h,file
+SpectacleUtilities.m,file
+SpectacleWindowAction.h,file
+SpectacleWindowAction.m,file
+SpectacleWindowCalculationHelpers.js,file
+SpectacleWindowMover.h,file
+SpectacleWindowPositionCalculationRegistry.h,file
+SpectacleWindowPositionCalculationRegistry.m,file
+SpectacleWindowPositionCalculationResult.h,file
+SpectacleWindowPositionCalculationResult.m,file
+SpectacleWindowPositionCalculator.h,file
+SpectacleWindowPositionCalculator.m,file
+SpectacleWindowPositionManager.h,file
+SpectacleWindowPositionManager.m,file
+SpectacleWindowPositionManagerSpec.m,file
+SpectacleWindowSizeAdjuster.js,file
+Supporting Files,dir
+Window Position Calculations,dir
+contents.xcworkspacedata,file
+dsa_public.pem,file
+en.lproj,dir
+es.lproj,dir
+fi.lproj,dir
+fr.lproj,dir
+it.lproj,dir
+main.m,file
+project.pbxproj,file
+project.xcworkspace,dir
+pt.lproj,dir
+xcschemes,dir
+xcshareddata,dir

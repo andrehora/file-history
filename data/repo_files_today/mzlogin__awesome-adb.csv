@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+README.en.md,file
+README.md,file
+aapt.md,file
+am.md,file
+assets,dir
+dumpsys.md,file
+pm.md,file
+related,dir
+title.png,file
+toc.png,file
+uiautomator.md,file

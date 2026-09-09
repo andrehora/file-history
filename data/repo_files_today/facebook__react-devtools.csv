@@ -1,0 +1,6 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+issues-have-been-disabled.md,file

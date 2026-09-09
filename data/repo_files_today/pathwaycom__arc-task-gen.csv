@@ -1,0 +1,15 @@
+name,type
+.gitattributes,file
+.gitignore,file
+LICENSE,file
+Pathway_ARC-AGI_result_chart.png,file
+README.md,file
+assets,dir
+describe_eval_tasks.py,file
+generate_tasks.py,file
+generate_tasks_stratified.py,file
+instructions.md,file
+label_eval_tasks.py,file
+pixi.lock,file
+pixi.toml,file
+visualize_tasks.py,file

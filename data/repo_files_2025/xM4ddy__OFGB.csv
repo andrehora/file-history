@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+App.xaml,file
+App.xaml.cs,file
+AssemblyInfo.cs,file
+Assets,dir
+LICENSE,file
+MainWindow.xaml,file
+MainWindow.xaml.cs,file
+OFGB.csproj,file
+OFGB.png,file
+OFGB.sln,file
+README.md,file
+dark.xaml,file
+icon.ico,file

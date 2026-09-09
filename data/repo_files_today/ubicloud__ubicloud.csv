@@ -1,0 +1,2243 @@
+name,type
+--confirm 2c0j48 ai api-key ak2c0j48r8kj4nharh6yagf3eb destroy.txt,file
+--confirm foo ai api-key ak2c0j48r8kj4nharh6yagf3eb destroy.txt,file
+--confirm foo fw eu-central-h1_test-ps-default destroy.txt,file
+--confirm foo kc eu-central-h1_test-kc destroy-nodepool test-kc-np2.txt,file
+--confirm foo kc eu-central-h1_test-kc destroy.txt,file
+--confirm foo lb eu-central-h1_test-lb destroy.txt,file
+--confirm foo pg eu-central-h1_test-pg destroy.txt,file
+--confirm foo ps eu-central-h1_test-ps destroy.txt,file
+--confirm foo sk spk destroy.txt,file
+--confirm foo vm eu-central-h1_test-vm destroy.txt,file
+--confirm sk684jk5sa027g4mmr3rrwmakr sk sk684jk5sa027g4mmr3rrwmakr destroy.txt,file
+--confirm spk sk sk684jk5sa027g4mmr3rrwmakr destroy.txt,file
+--confirm spk sk spk destroy.txt,file
+--confirm test-lb lb eu-central-h1_test-lb destroy.txt,file
+--confirm test-pg pg eu-central-h1_test-pg destroy.txt,file
+--confirm test-ps ps eu-central-h1_test-ps destroy.txt,file
+--confirm test-ps-default fw eu-central-h1_test-ps-default destroy.txt,file
+--confirm test-vm vm eu-central-h1_test-vm destroy.txt,file
+.by-session-setup.rb,file
+.dockerignore,file
+.editorconfig,file
+.github,dir
+.gitignore,file
+.herb.yml,file
+.rspec,file
+.rubocop.yml,file
+.spectral.yml,file
+.txt,file
+00-namespace.yaml,file
+20230117_tables.rb,file
+20230315_rodauth.rb,file
+20230315_tables.rb,file
+20230322_add_ssh_users.rb,file
+20230323_add_vm_display.rb,file
+20230328_networking.rb,file
+20230404_ipsec.rb,file
+20230413_add_vmhost_sizes.rb,file
+20230415_add_vm_allocation_counters.rb,file
+20230425_ssh_generation.rb,file
+20230517_authorization.rb,file
+20230605_ipv6_ndp_support.rb,file
+20230613_hugepages.rb,file
+20230615_add_ipv4.rb,file
+20230619_add_ipv4_hetzner_api.rb,file
+20230620_storage.rb,file
+20230705_storage_encryption.rb,file
+20230706_add_private_subnet_ipv4.rb,file
+20230713_add_user_name.rb,file
+20230714_not_unique_project_name.rb,file
+20230717_set_stack_default.rb,file
+20230720_add_storage_cap.rb,file
+20230721_add_project_provider.rb,file
+20230721_pages.rb,file
+20230721_remove_default_ids.rb,file
+20230722_add_nic.rb,file
+20230725_add_billing_rate.rb,file
+20230727_add_primary_keys_to_applied_tags.rb,file
+20230727_soft_delete_models.rb,file
+20230731_add_enable_ip4.rb,file
+20230802_change_mac_type.rb,file
+20230804_host_reboot.rb,file
+20230805_billing_records.rb,file
+20230806_invoices.rb,file
+20230807_add_visible_to_project.rb,file
+20230807_update_billing.rb,file
+20230808_add_ipv4_billing.rb,file
+20230809_allow_nil_encr_key.rb,file
+20230809_drop_billing_rate.rb,file
+20230810_add_billing_info.rb,file
+20230810_add_last_rekey_time.rb,file
+20230811_add_nic_rekey_payload.rb,file
+20230814_add_vm_deleting.rb,file
+20230820_add_tag_to_page.rb,file
+20230823_split_vm_size.rb,file
+20230824_add_tunnel_nic_const.rb,file
+20230825_add_sshable_user.rb,file
+20230829_restrict_project_id.rb,file
+20230830_add_credits_to_project.rb,file
+20230831_add_dates_to_invoice.rb,file
+20230901_github_runner.rb,file
+20230914_add_exponential_backoff.rb,file
+20230914_multiple_billing_records_per_resource.rb,file
+20230919_add_branch_to_github_runner.rb,file
+20230919_add_vm_pool.rb,file
+20230920_add_vm_created_at.rb,file
+20230926_postgres.rb,file
+20230928_minio.rb,file
+20231004_add_host_data_center.rb,file
+20231014_arm64.rb,file
+20231015_make_vm_unique_to_runner.rb,file
+20231016_runner_allow_null_vm.rb,file
+20231018_dns_zones.rb,file
+20231019_dns_servers.rb,file
+20231020_add_cert_to_pg.rb,file
+20231023_rotate_pg_certificates.rb,file
+20231024_add_created_at.rb,file
+20231025_add_purge_to_dns_zones.rb,file
+20231026_rename_postgres_server.rb,file
+20231027_add_storage_to_vm_pool.rb,file
+20231102_add_details_to_page.rb,file
+20231102_make_active_page_tag_unique.rb,file
+20231106_postgres_server.rb,file
+20231107_add_basic_fw.rb,file
+20231107_add_total_dies.rb,file
+20231107_postgres_timeline.rb,file
+20231108_postgres_backups.rb,file
+20231109_postgres_restore.rb,file
+20231116_project_flag.rb,file
+20231122_add_account_suspend.rb,file
+20231122_spdk_upgrade.rb,file
+20231123_bdev_ubi.rb,file
+20231124_project_billable.rb,file
+20231125_drop_runner_columns.rb,file
+20231125_runner_job_data.rb,file
+20231128_skip_sync.rb,file
+20231129_delete_total_nodes.rb,file
+20231130_postgres_earliest_backup.rb,file
+20231202_concurrency_safe_dns_zones.rb,file
+20231203_add_latest_backup_started_at_to_timeline.rb,file
+20231203_drop_last_ineffective_check_at.rb,file
+20231204_drop_last_backup_started_at.rb,file
+20231205_add_fw_rule_port.rb,file
+20231207_add_pg_blob_str_id.rb,file
+20231207_storage_device.rb,file
+20231208_drop_pg_foreign_key_constraints.rb,file
+20231209_webauthn_name.rb,file
+20231218_minio_drive_rename.rb,file
+20231222_minio_scale_out.rb,file
+20231227_add_minio_pool_vm_size.rb,file
+20231227_remove_minio_cluster_red_cols.rb,file
+20240108_add_arch_to_vm_pool.rb,file
+20240112_rename_server_name.rb,file
+20240118_core_constraint.rb,file
+20240121_move_fw_rules.rb,file
+20240122_pg_resource_fw_rules.rb,file
+20240123_add_storage_flags_to_vm_pool.rb,file
+20240123_remove_fwrules_ps_rel.rb,file
+20240125_add_minio_certs.rb,file
+20240208_add_postgres_lsn_monitor.rb,file
+20240209_postgres_multiple_servers.rb,file
+20240210_postgres_ha.rb,file
+20240213_allow_using_same_billing_rate.rb,file
+20240220_postgres_hostname_version.rb,file
+20240305_add_runner_core_limit.rb,file
+20240311_add_globally_blocked_dnsname.rb,file
+20240314_encrypt_vm_pool_tuples.rb,file
+20240320_add_vm_provision_timestamps.rb,file
+20240326_add_spdk_cpu_count.rb,file
+20240409_move_firewall_to_subnet.rb,file
+20240412_add_multiple_fw_to_subnet.rb,file
+20240417_github_repository.rb,file
+20240417_rename_tag_location_names.rb,file
+20240418_add_semaphore_strand_index.rb,file
+20240419_add_constratins_for_volume_device.rb,file
+20240422_add_usage_alerts.rb,file
+20240422_drop_vmh_storage_gib_cols.rb,file
+20240423_add_fraud_columns.rb,file
+20240423_add_spdk_hugepages.rb,file
+20240424_drop_project_provider.rb,file
+20240425_remove_fw_vm_id.rb,file
+20240507_pci_device.rb,file
+20240509_boot_image.rb,file
+20240516_boot_image_size_gib.rb,file
+20240528_github_default_branch.rb,file
+20240529_fix_broken_index.rb,file
+20240529_github_cache.rb,file
+20240628_pg_metric_destinations.rb,file
+20240701_load_balancer.rb,file
+20240702_load_balancer_health_probes.rb,file
+20240705_change_runner_core_limit.rb,file
+20240711_add_severity_to_page.rb,file
+20240711_attach_subnets_and_firewall_to_pg_resource.rb,file
+20240720_project_quota.rb,file
+20240721_drop_runner_core_limit.rb,file
+20240722_add_project_reputation.rb,file
+20240723_add_acme_cert.rb,file
+20240730_add_firewall_location.rb,file
+20240731_firewall_location_not_null.rb,file
+20240801_add_load_balancer_cert.rb,file
+20240805_add_lb_health_prob_detaching.rb,file
+20240826_drop_earliest_backup_completed_at.rb,file
+20240827_add_project_invitation.rb,file
+20240913_add_preauth_columns.rb,file
+20240918_make_invitation_email_citex.rb,file
+20240924_add_postgres_flavor.rb,file
+20240925_api_key.rb,file
+20240925_managed_policies.rb,file
+20240926_inference_endpoint.rb,file
+20240930_cert_allow_null_dns_zone.rb,file
+20241007_lb_custom_hostname.rb,file
+20241011_add_lantern_as_flavor.rb,file
+20241014_add_connected_subnet.rb,file
+20241022_add_postgres_version.rb,file
+20241030_add_inference_endpoint_gpu_count.rb,file
+20241106_add_lb_stack.rb,file
+20241120_add_storage_rate_limits.rb,file
+20241121_add_os_info.rb,file
+20241122_add_transparent_cache.rb,file
+20241204_vm_add_vcpus_memory.rb,file
+20241204_vm_enforce_vcpus_memory.rb,file
+20241213_archived_record.rb,file
+20241214_access_tag_hyper_tag_project_index.rb,file
+20241215_authorization_refactor.rb,file
+20241221_add_social_login.rb,file
+20241224_member_action_tag_inference_endpoint_view.rb,file
+20241230_archived_record_trigger.rb,file
+20241231_inference_endpoint_tags.rb,file
+20250101_update_project_quotas.rb,file
+20250108_drop_deleted_record.rb,file
+20250109_rename_action_type_inference_token_to_api_key.rb,file
+20250110_add_kubernetes_models.rb,file
+20250113_vm_host_slice.rb,file
+20250114_project_id_columns_for_models.rb,file
+20250115_project_id_name_indexes.rb,file
+20250116_fix_usage_alert_unique_index.rb,file
+20250117_project_id_not_null.rb,file
+20250118_drop_applied_tag_foreign_key.rb,file
+20250119_add_vm_host_cpus.rb,file
+20250119_insert_vm_host_cpus.rb,file
+20250120_access_tag_null_changes.rb,file
+20250121_enable_transparent_cache_by_default.rb,file
+20250121_kubernetes_tags.rb,file
+20250123_vm_host_allow_slices.rb,file
+20250124_vm_add_cpulimits.rb,file
+20250127_add_lb_vms_id.rb,file
+20250128_make_lbvms_id_not_null.rb,file
+20250130_create_host_provider_table.rb,file
+20250130_kubernetes_vm_size.rb,file
+20250131_drop_hetzner_host.rb,file
+20250209_add_inference_endpoint_limits.rb,file
+20250211_add_neg_ttl_to_dns_zone.rb,file
+20250212_add_provider_locations.rb,file
+20250224_add_unix_devices.rb,file
+20250227_id_based_locations.rb,file
+20250228_project_id_location_indexes_to_id.rb,file
+20250229_drop_text_location_col.rb,file
+20250303_add_private_location.rb,file
+20250313_add_valid_vat.rb,file
+20250317_inference_endpoint_external.rb,file
+20250318_add_aws_subnet_resources.rb,file
+20250318_add_maintenance_window.rb,file
+20250320_add_vm_pool_id_index.rb,file
+20250320_zadd_vm_pool_id_where_not_null_index.rb,file
+20250321_add_runner_allocation_timestamp.rb,file
+20250324_add_loadbalancer_ports.rb,file
+20250325_remove_old_load_balancer_fields.rb,file
+20250327_gen_ubid_uuid.rb,file
+20250329_add_docker_mirror_usage.rb,file
+20250402_default_backfill_strand_lease.rb,file
+20250402_zstrand_lease_not_null.rb,file
+20250408_add_nic_aws_resource.rb,file
+20250424_inference_router.rb,file
+20250425_victoria_metrics_resource.rb,file
+20250429_add_vm_host_family.rb,file
+20250430_github_allocator_preference.rb,file
+20250501_discount_code.rb,file
+20250501_github_runner_billed_vm_size.rb,file
+20250506_audit_log.rb,file
+20250512_archived_record_maintenance.rb,file
+20250519_inference_router_target_automation.rb,file
+20250526_add_pg_fw_desc.rb,file
+20250529_gen_timestamp_ubid_uuid.rb,file
+20250605_add_postgres_timeline_aws.rb,file
+20250610_add_cached_earliest_backup_time.rb,file
+20250610_ipv4_address.rb,file
+20250611_vhost_block_backend.rb,file
+20250617_add_aws_ami.rb,file
+20250623_add_services_lb_to_kubernetes_cluster.rb,file
+20250624_remove_ios_per_sec.rb,file
+20250626_add_created_at_2.rb,file
+20250629_update_aws_ami.rb,file
+20250630_oidc_provider.rb,file
+20250701_add_pg_configs.rb,file
+20250704_add_aws_instance.rb,file
+20250705_add_network_instance_id_column.rb,file
+20250705_update_pg_aws_ami.rb,file
+20250708_locked_domain.rb,file
+20250715_locked_domain_citext.rb,file
+20250716_admin_accounts.rb,file
+20250716_admin_password_hashes.rb,file
+20250721_archived_record_maintenance.rb,file
+20250723_add_aws_amis_with_cloudwatch.rb,file
+20250728_otp_unlock.rb,file
+20250729_postgres_tags.rb,file
+20250805_ec2_dns_name_info.rb,file
+20250806_add_aws_eu_west_1.rb,file
+20250807_add_subnet_info_to_nic_aws_resource.rb,file
+20250819_add_kubernetes_node_model.rb,file
+20250822_drop_subnet_id_on_private_subnet_aws_resource.rb,file
+20250825_create_kubernetes_node_objects.rb,file
+20250828_drop_old_join_tables_of_kubernetes_vms.rb,file
+20250829_add_state_to_kubernetes_node.rb,file
+20250905_add_storage_volume_vring_workers.rb,file
+20250908_backfill_vring_workers_and_add_constraint.rb,file
+20250909_ssh_public_keys.rb,file
+20250922_archived_record_maintenance.rb,file
+20251001_add_loadbalancer_cert_flag.rb,file
+20251006_change_local_vetho_ip_type.rb,file
+20251007_add_postgres_server_version.rb,file
+20251008_add_ist_location.rb,file
+20251008_backfill_postgres_versions.rb,file
+20251009_add_github_custom_label.rb,file
+20251009_add_pg_unified_aws_amis.rb,file
+20251009_add_runner_actual_label.rb,file
+20251009_remove_postgres_resource_version.rb,file
+20251015_vm_specific_firewalls.rb,file
+20251016_add_public_aws_regions.rb,file
+20251017_remove_pg_version_enum.rb,file
+20251020_postgres_cert_auth.rb,file
+20251021_add_pg18.rb,file
+20251022_add_pg_18_amis.rb,file
+20251023_firewall_rule_description.rb,file
+20251023_vm_init_script.rb,file
+20251030_remove_pg_resource_fw_rules.rb,file
+20251103_update_pg_amis.rb,file
+20251104_add_stack_to_lb_vm_port.rb,file
+20251105_add_index_lbp_lbvm_stack.rb,file
+20251106_drop_index_lbp_lbvm.rb,file
+20251107_add_load_balancer_vm_port_entries_with_stack.rb,file
+20251107_drop_load_balancer_vm_port_with_nil_stack.rb,file
+20251110_gpu_partition.rb,file
+20251112_drop_blob_storage_id.rb,file
+20251112_nic_entity_mac_nil_allow.rb,file
+20251118_add_nic_state.rb,file
+20251119_nic_state_not_null.rb,file
+20251124_encrypted_vm_init_script.rb,file
+20251125_location_dns_suffix.rb,file
+20251125_vm_init_script_null_swap.rb,file
+20251126_drop_unencrypted_vm_init_script.rb,file
+20251130_add_firewall_protocol.rb,file
+20251201_add_byoc_locations.rb,file
+20251202_aws_iam_auth.rb,file
+20251204_add_eu_west_1_pg18_amis.rb,file
+20251205_sync_pg_aws_amis_with_prod.rb,file
+20251206_add_location_azs.rb,file
+20251209_add_limited_reputation.rb,file
+20251211_add_walg_daemon_amis.rb,file
+20251222_remove_unused_updated_at.rb,file
+20260110_add_hugepage_above_zero_constraint.rb,file
+20260113_add_kubernetes_etcd_backup.rb,file
+20260115_account_default_project.rb,file
+20260119_pg_physical_slot_ready.rb,file
+20260120_update_pg_amis.rb,file
+20260126_update_pg_amis.rb,file
+20260127_update_pg_amis.rb,file
+20260202_add_pg_init_script.rb,file
+20260202_k8s_external_connectivity.rb,file
+20260204_add_aws_subnet.rb,file
+20260205_update_pg_amis.rb,file
+20260209_replace_burstable_with_hobby_in_pg.rb,file
+20260213_update_pg_amis.rb,file
+20260216_add_column_is_representative.rb,file
+20260216_add_index_for_is_representative.rb,file
+20260216_drop_index_for_representative_at.rb,file
+20260216_drop_postgres_server_representative_at_column.rb,file
+20260216_resource_id_index_for_postgres_server.rb,file
+20260217_add_gcp_provider.rb,file
+20260218_add_nic_gcp_resource.rb,file
+20260218_add_pg_gce_image.rb,file
+20260218_update_pg_amis.rb,file
+20260226_rhizome_installation.rb,file
+20260227_add_cache_scope_protected_to_github_installation.rb,file
+20260305_add_firewall_priority_columns.rb,file
+20260305_add_firewall_priority_index.rb,file
+20260306_validate_firewall_priority_constraint.rb,file
+20260309_audit_log_permissions.rb,file
+20260313_add_backup_period_hours.rb,file
+20260313_github_premium_default.rb,file
+20260314_add_client_ca_to_postgres.rb,file
+20260317_github_repository_last_cache_purged_at.rb,file
+20260317_machine_image.rb,file
+20260317_oidc_provider_group_prefix.rb,file
+20260318_drop_storage_skip_sync.rb,file
+20260318_rename_location_aws_az_to_location_az.rb,file
+20260319_billing_record_tags.rb,file
+20260319_drop_location_aws_az_view.rb,file
+20260320_add_location_az_new_index.rb,file
+20260320_billing_record_tags_index.rb,file
+20260320_drop_location_az_old_index.rb,file
+20260320_make_location_az_zone_id_nullable.rb,file
+20260320_update_pg_amis.rb,file
+20260324_drop_unused_authentication_audit_logs.rb,file
+20260325_authentication_audit_logs.rb,file
+20260327_add_storage_volume_track_written.rb,file
+20260327_postgres_resource_private_subnet_id_fkey.rb,file
+20260330_add_vhost_block_backend_version_code.rb,file
+20260330_pg_physical_slot_ready_id.rb,file
+20260331_2026_partitions.rb,file
+20260331_drop_physical_slot.rb,file
+20260331_drop_vhost_block_backend_version.rb,file
+20260402_add_gcp_vpc.rb,file
+20260403_dns_zone_foreign_key.rb,file
+20260403_project_invitation_inviter_id_index.rb,file
+20260403_project_quota_foreign_key.rb,file
+20260404_project_invitation_foreign_keys.rb,file
+20260406_drop_storage_encrypted_from_vm_pool.rb,file
+20260407_drop_archived_record_2025_partitions.rb,file
+20260408_rename_location_credential_to_aws.rb,file
+20260409_drop_location_credential.rb,file
+20260409_update_pg_amis.rb,file
+20260410_update_pg_amis.rb,file
+20260414_add_postgres_log_destination.rb,file
+20260415_machine_image_authorization.rb,file
+20260416_resource_discount.rb,file
+20260417_backfill_postgres_billing_slot_tags.rb,file
+20260421_add_vm_gcp_resource.rb,file
+20260429_add_latest_backup_size_in_gib.rb,file
+20260501_page_root_resource.rb,file
+20260504_allowed_oidc_provider_domain.rb,file
+20260506_add_nic_is_management.rb,file
+20260508_add_kubernetes_etcd_backup_created_at.rb,file
+20260511_strip_user_config_quotes.rb,file
+20260512_parseable_resource.rb,file
+20260519_add_ps_location.rb,file
+20260519_cert_private_hostnames.rb,file
+20260521_dup_tcp_firewall_rules_to_udp.rb,file
+20260526_add_security_group_id_columns.rb,file
+20260526_backfill_security_group_ids.rb,file
+20260526_dns_record_zone_not_null.rb,file
+20260526_presigned_load_balancer_certs.rb,file
+20260527_drop_security_group_id.rb,file
+20260527_load_balancer_hostname_version.rb,file
+20260528_drop_nic_gcp_resource_address_name.rb,file
+20260529_postgres_hostname_version_text.rb,file
+20260601_finalize_billing_records_at_old_rates.rb,file
+20260601_migrate_vmcores_to_vmvcpu.rb,file
+20260603_add_kubernetes_cluster_kubeconfig.rb,file
+20260608_add_gcp_dedicated_subnet_vpcs_columns.rb,file
+20260608_add_gcp_vpc_dedicated_partial_uidx.rb,file
+20260608_add_gcp_vpc_shared_partial_uidx.rb,file
+20260608_backfill_location_nexus_strands.rb,file
+20260608_drop_gcp_vpc_full_unique_constraint.rb,file
+20260609_add_gcp_us_east4_location.rb,file
+20260609_add_machine_image_version_metal_status.rb,file
+20260609_backfill_machine_image_version_metal_status.rb,file
+20260609_drop_machine_image_version_metal_enabled.rb,file
+20260611_update_postgres_images.rb,file
+20260615_drop_archived_record_2026_partitions.rb,file
+20260616_pgbouncer_auth.sql,file
+20260616_system_roles.sql,file
+20260617_add_failed_miv_metal_status.rb,file
+20260617_backfill_miv_metal_nexus_strands.rb,file
+20260624_load_balancer_hostname_version_default_2.rb,file
+20260625_add_miv_metal_pinned_source_vm.rb,file
+20260625_boot_image_version_not_null.rb,file
+20260626_update_postgres_images.rb,file
+20260630_add_postgres_maintenance_window_days_and_scope.rb,file
+20260630_add_use_eip_to_nic_aws_resource.rb,file
+20260630_postgres_hostname_version_default_v3.rb,file
+20260702_add_rekey_v2_columns.rb,file
+20260709_update_postgres_images.rb,file
+20260710_add_gcp_europe_west3_location.rb,file
+20260713_add_version_to_kubernetes_nodepool.rb,file
+20260714_add_kubernetes_nodepool_name_unique_index.rb,file
+20260715_backfill_kubernetes_nodepool_version.rb,file
+20260716_remote_storage_server.rb,file
+20260721_add_column_is_representative_to_victoria_metrics_server.rb,file
+20260722_add_index_for_victoria_metrics_server_is_representative.rb,file
+20260723_add_postgres_disk_usage_monitor.rb,file
+20260723_fix_invalid_location_ubids.rb,file
+20260728_drop_private_subnet_rekey_protocol.rb,file
+20260729_make_port_range_not_null.rb,file
+20260730_create_run_command.rb,file
+20260731_delete_stale_assigned_host_addresses.rb,file
+20260803_create_vm_host_inventory.rb,file
+20260803_delete_leaseweb_connectivity_addresses.rb,file
+20260805_add_minio_cluster_server_cert.rb,file
+20260805_create_provider_ip_range.rb,file
+20260807_gcp_sa_auth.rb,file
+20260807_pg_metric_destination_auth_options.rb,file
+20260812_update_postgres_images.rb,file
+20260819_drop_k8s_connectivity_check_target.rb,file
+20260820_create_page_snooze.rb,file
+20260821_update_postgres_images.rb,file
+20260824_drop_archived_record_partitions_2026_05_06_07.rb,file
+20260825_add_github_runner_installation_id_index.rb,file
+20260825_add_numa_node_to_vm_host_cpu.rb,file
+20260825_github_runner_location.rb,file
+20260826_add_github_installation_installation_id_index.rb,file
+20260826_github_runner_location_required_if_vm.rb,file
+20260827_add_kubernetes_cluster_csi_config.rb,file
+20260828_vm_hypervisor.rb,file
+20260831_add_io_to_vm_host_cpu.rb,file
+20260831_backfill_vm_host_cpu_io.rb,file
+20260831_drop_spdk_from_vm_host_cpu.rb,file
+20260901_add_page_resource_id.rb,file
+20260901_add_page_resource_id_index.rb,file
+20260901_finalize_billing_records_at_old_rates.rb,file
+20260904_update_postgres_images.rb,file
+991-pg-logs-throttle.conf,file
+BeVietnamPro,dir
+BillingInfo.erb,file
+BillingRecord.erb,file
+COMMIT_MESSAGES.md,file
+DEVELOPERS.md,file
+Dockerfile,file
+Gemfile,file
+Gemfile.lock,file
+GithubRunner.erb,file
+LICENSE,file
+MIT-LICENSE,file
+OFL.txt,file
+OidcProvider.erb,file
+Page.erb,file
+PaymentMethod.erb,file
+PostgresResource.erb,file
+PostgresServer.erb,file
+PostgresTimeline.erb,file
+Procfile,file
+Project.erb,file
+README.md,file
+Rakefile,file
+Regular.ttf,file
+SECURITY.md,file
+SemiBold.ttf,file
+VmHost.erb,file
+access-control.erb,file
+access_control_entry.rb,file
+access_control_entry_spec.rb,file
+access_control_model_tag.rb,file
+access_control_model_tag_spec.rb,file
+access_control_spec.rb,file
+account,dir
+account.rb,file
+account_identity.rb,file
+account_spec.rb,file
+action.yml,file
+action_tag.rb,file
+action_tag_spec.rb,file
+action_type.rb,file
+action_type_spec.rb,file
+actions,dir
+actions-setup.erb,file
+adapter,dir
+adapter.rb,file
+add-bearer-metric-destination.rb,file
+add-bearer-metric-destination_spec.rb,file
+add-cert-auth-user.rb,file
+add-cert-auth-user_spec.rb,file
+add-config-entries.rb,file
+add-config-entries_spec.rb,file
+add-firewall-rule.rb,file
+add-firewall-rule_spec.rb,file
+add-metric-destination.rb,file
+add-metric-destination_spec.rb,file
+add-otlp-log-destination.rb,file
+add-otlp-log-destination_spec.rb,file
+add-pgbouncer-config-entries.rb,file
+add-pgbouncer-config-entries_spec.rb,file
+add-rule.rb,file
+add-rule_spec.rb,file
+add-syslog-log-destination.rb,file
+add-syslog-log-destination_spec.rb,file
+add_to_fstab,file
+addon.rb,file
+address.rb,file
+address_spec.rb,file
+admin,dir
+admin_list.erb,file
+admin_spec.rb,file
+ai,dir
+ai api-key ak2c0j48r8kj4nharh6yagf3eb destroy -f.txt,file
+ai api-key ak2c0j48r8kj4nharh6yagf3eb destroy.txt,file
+ai api-key ak2c0j48r8kj4nharh6yagf3eb show.txt,file
+ai api-key badc0j48r8kj4nharh6yagf3eb show.txt,file
+ai api-key create.txt,file
+ai api-key list -N.txt,file
+ai api-key list.txt,file
+ai endpoint list -N.txt,file
+ai endpoint list -f invalid.txt,file
+"ai endpoint list -f name,hf-model,url.txt",file
+ai endpoint list.txt,file
+ai.rb,file
+ai.yml,file
+ai_models.yml,file
+al,dir
+al.rb,file
+allocator.rb,file
+allocator_spec.rb,file
+api,dir
+api-key,dir
+api-key.rb,file
+api.rb,file
+api_key,dir
+api_key.rb,file
+api_key_spec.rb,file
+app.css,file
+app.erb,file
+app.js,file
+apply-io-throttle,file
+apply-metering-config,file
+arch,file
+arch.rb,file
+arch_class.rb,file
+arch_class_spec.rb,file
+archive-storage-volume,file
+archive-url,file
+archived_record.rb,file
+archived_record_by_id.erb,file
+archived_record_spec.rb,file
+assets,dir
+assigned_host_address.rb,file
+assigned_host_address_spec.rb,file
+assigned_vm_address.rb,file
+assigned_vm_address_spec.rb,file
+attach-subnet.rb,file
+attach-subnet_spec.rb,file
+attach-vm.rb,file
+attach-vm_spec.rb,file
+audit_log.erb,file
+audit_log.rb,file
+audit_log_spec.rb,file
+auth,dir
+auth_spec.rb,file
+authentication_audit_log.erb,file
+authentication_audit_log_spec.rb,file
+authorization.rb,file
+authorization_spec.rb,file
+aws,dir
+aws-cleanup-e2e,dir
+aws.rb,file
+aws_instance.rb,file
+aws_instance_spec.rb,file
+aws_spec.rb,file
+aws_subnet.rb,file
+aws_subnet_spec.rb,file
+backfill-wal-archive,file
+backup-etcd,file
+backup_restore.erb,file
+base.rb,file
+base_machine_images.rb,file
+base_machine_images_spec.rb,file
+base_model.rb,file
+base_spec.rb,file
+basic.svg,file
+billing.erb,file
+billing.rb,file
+billing_info.rb,file
+billing_info_spec.rb,file
+billing_rate.rb,file
+billing_rate_spec.rb,file
+billing_rates,dir
+billing_record.rb,file
+billing_record_spec.rb,file
+billing_resource.rb,file
+billing_resource_spec.rb,file
+billing_spec.rb,file
+billing_warning.erb,file
+bin,dir
+boot_image.rb,file
+boot_image_spec.rb,file
+bootstrap_rhizome.rb,file
+bootstrap_rhizome_spec.rb,file
+build-node-image,file
+build.yml,file
+build_node_image.rb,file
+build_node_image_spec.rb,file
+button.erb,file
+ca-certificates.rb,file
+ca-certificates_spec.rb,file
+cache,dir
+cache.erb,file
+capacity_manager.rb,file
+capacity_manager_spec.rb,file
+casting_config_helpers.rb,file
+cert.rb,file
+cert_nexus.rb,file
+cert_nexus_spec.rb,file
+cert_server.rb,file
+cert_server_setup.rb,file
+cert_server_setup_spec.rb,file
+cert_server_spec.rb,file
+cert_spec.rb,file
+change_login.erb,file
+change_password.erb,file
+charts.erb,file
+check-needed-openapi-paths,file
+check_domain_blacklist.rb,file
+check_domain_blacklist_spec.rb,file
+check_for_parameters,file
+check_usage_alerts.rb,file
+check_usage_alerts_spec.rb,file
+checkbox.erb,file
+ci.yml,file
+cla.yml,file
+cleanup.rb,file
+clec,dir
+cli,dir
+cli-ci.yml,file
+cli-commands,dir
+cli.erb,file
+cli.rb,file
+cli_config.ru,file
+cli_spec.rb,file
+client.rb,file
+client_spec.rb,file
+clog.rb,file
+clog_spec.rb,file
+close_account.erb,file
+cloud_hypervisor.rb,file
+cloud_hypervisor_spec.rb,file
+cloudflare_client.rb,file
+cloudflare_client_spec.rb,file
+cloudflare_turnstile.erb,file
+cloudify_server,file
+clover.rb,file
+clover_admin.rb,file
+clover_error.rb,file
+clover_web_spec.rb,file
+cogs.erb,file
+collapsible_table.erb,file
+collect-pg-metrics,file
+command.rb,file
+committee_spec.rb,file
+common,dir
+components,dir
+config,dir
+config.erb,file
+config.rb,file
+config.ru,file
+config_card.erb,file
+config_spec.rb,file
+configure,file
+configure-hugepages,file
+configure-logs,file
+configure-minio,file
+confirm.txt,file
+connect.rb,file
+connect_spec.rb,file
+connected_subnet.rb,file
+connected_subnet_spec.rb,file
+connected_subnets.rb,file
+connected_subnets_spec.rb,file
+connection.erb,file
+connection_checkout_telemetry.rb,file
+connection_checkout_telemetry_spec.rb,file
+content.erb,file
+content_generator.rb,file
+context.rb,file
+controller_service.rb,file
+controller_service_spec.rb,file
+converge_postgres_resource.rb,file
+converge_postgres_resource_spec.rb,file
+convert-encrypted-dek-to-vhost-backend-conf,file
+copyable_content.erb,file
+coverage_helper.rb,file
+create-backup-credentials.rb,file
+create-backup-credentials_spec.rb,file
+create-client-cert-keypair.rb,file
+create-client-cert-keypair_spec.rb,file
+create-nodepool.rb,file
+create-read-replica.rb,file
+create-read-replica_spec.rb,file
+create-version.rb,file
+create.erb,file
+create.rb,file
+create_account.erb,file
+create_gpu_request_access.erb,file
+create_nodepool_spec.rb,file
+create_spec.rb,file
+create_version.erb,file
+create_version_spec.rb,file
+crypt_swap_setup.rb,file
+crypt_swap_setup_spec.rb,file
+crypto.rb,file
+crypto_spec.rb,file
+csi,dir
+csi-build.yml,file
+csi_config_validator.rb,file
+csi_config_validator_spec.rb,file
+csi_pb.rb,file
+csi_services_pb.rb,file
+csidriver-crd.yaml,file
+css,dir
+customer_usage.erb,file
+daemonizer,file
+daemonizer2,file
+daily-ci.yml,file
+dashboard.erb,file
+datepicker.erb,file
+db.rb,file
+db_spec.rb,file
+default_quotas.yml,file
+delete-firewall-rule.rb,file
+delete-firewall-rule_spec.rb,file
+delete-log-destination.rb,file
+delete-log-destination_spec.rb,file
+delete-metric-destination.rb,file
+delete-metric-destination_spec.rb,file
+delete-old-serial-logs,file
+delete-rule.rb,file
+delete-rule_spec.rb,file
+delete_button.erb,file
+delete_cache_entries.rb,file
+delete_cache_entries_spec.rb,file
+demo,dir
+dependabot.yml,file
+dependency_error.rb,file
+desktop.erb,file
+destroy-nodepool.rb,file
+destroy-version.rb,file
+destroy.rb,file
+destroy_github_installation.rb,file
+destroy_github_installation_spec.rb,file
+destroy_nodepool_spec.rb,file
+destroy_spec.rb,file
+destroy_version_spec.rb,file
+detach-subnet.rb,file
+detach-subnet_spec.rb,file
+detach-vm.rb,file
+detach-vm_spec.rb,file
+dev-aws-sweep,file
+device_resolver.rb,file
+disable-ssl-certificate.rb,file
+disable-ssl-certificate_spec.rb,file
+disconnect.rb,file
+disconnect_spec.rb,file
+discount_code.erb,file
+discount_code.rb,file
+discount_code_spec.rb,file
+disk-full-check,file
+disk_full_check_spec.rb,file
+dispatcher.rb,file
+dispatcher_spec.rb,file
+dns_checker.rb,file
+dns_checker_spec.rb,file
+dns_record.rb,file
+dns_record_spec.rb,file
+dns_server.rb,file
+dns_server_spec.rb,file
+dns_zone,dir
+dns_zone.rb,file
+dns_zone_nexus.rb,file
+dns_zone_nexus_spec.rb,file
+dns_zone_spec.rb,file
+doc,dir
+docker-compose.yml,file
+download-boot-image,file
+download-cloud-hypervisor,file
+download-firmware,file
+download-lb-cert,file
+download_boot_image.rb,file
+download_boot_image_spec.rb,file
+download_button.erb,file
+download_cloud_hypervisor.rb,file
+download_cloud_hypervisor_spec.rb,file
+download_firmware.rb,file
+download_firmware_spec.rb,file
+e2e,file
+e2e.yml,file
+e2e_test_cases.yml,file
+email,dir
+email_renderer.rb,file
+empty.svg,file
+empty_state.erb,file
+enable-ssl-certificate.rb,file
+enable-ssl-certificate_spec.rb,file
+encrypt-swap,file
+endpoint,dir
+endpoint.rb,file
+error.erb,file
+error.txt,file
+errors.rb,file
+etcd_backup_nexus.rb,file
+etcd_backup_nexus_spec.rb,file
+execute,dir
+expire_project_invitations.rb,file
+expire_project_invitations_spec.rb,file
+export-network-metrics,file
+extras,dir
+favicon.ico,file
+features,dir
+firewall,dir
+firewall.rb,file
+firewall_concurrency_spec.rb,file
+firewall_rule.erb,file
+firewall_rule.rb,file
+firewall_rule_spec.rb,file
+firewall_rules.rb,file
+firewall_rules_spec.rb,file
+firewall_spec.rb,file
+flash_message.erb,file
+font,dir
+form,dir
+format-storage-disks,file
+free_quota.erb,file
+free_quota.rb,file
+free_quotas.yml,file
+fw,dir
+fw eu-central-h1_default-eu-central-h1-default add-rule -e a 10.10.10.0.txt,file
+fw eu-central-h1_default-eu-central-h1-default add-rule -s a 10.10.10.0.txt,file
+fw eu-central-h1_default-eu-central-h1-default add-rule foo.txt,file
+fw eu-central-h1_default-eu-central-h1-default delete-rule fr7cv7h5bz324maazy93ykn8s4.txt,file
+fw eu-central-h1_default-eu-central-h1-default detach-subnet psfzm9e26xky5m9ggetw4dpqe2.txt,file
+fw eu-central-h1_default-eu-central-h1-default modify-rule fra7jvrz94be7qy8qrq8n1jrp1.txt,file
+fw eu-central-h1_default-eu-central-h1-default show -f bad.txt,file
+"fw eu-central-h1_default-eu-central-h1-default show -f firewall-rules -r id,cidr.txt",file
+fw eu-central-h1_default-eu-central-h1-default show -f firewall-rules -r port-range.txt,file
+"fw eu-central-h1_default-eu-central-h1-default show -f id,name,location,description.txt",file
+"fw eu-central-h1_default-eu-central-h1-default show -f private-subnets -p id,name,state,location.txt",file
+"fw eu-central-h1_default-eu-central-h1-default show -f private-subnets -p net4,net6,nics.txt",file
+"fw eu-central-h1_default-eu-central-h1-default show -f private-subnets -p nics -n id,name,vm-name.txt",file
+"fw eu-central-h1_default-eu-central-h1-default show -f private-subnets -p nics -n private-ipv4,private-ipv6.txt",file
+"fw eu-central-h1_default-eu-central-h1-default show -f private-subnets,firewall-rules.txt",file
+fw eu-central-h1_default-eu-central-h1-default show -n bad.txt,file
+fw eu-central-h1_default-eu-central-h1-default show -p bad.txt,file
+fw eu-central-h1_default-eu-central-h1-default show -r bad.txt,file
+fw eu-central-h1_default-eu-central-h1-default show.txt,file
+fw eu-central-h1_test-ps-default attach-subnet psfzm9e26xky5m9ggetw4dpqe2.txt,file
+fw eu-central-h1_test-ps-default destroy -f.txt,file
+fw eu-central-h1_test-ps-default destroy invalid.txt,file
+fw eu-central-h1_test-ps-default destroy.txt,file
+fw eu-central-h1_test2-fw create -d test2-fw-description.txt,file
+fw eu-central-h1_test2-fw create invalid.txt,file
+fw eu-central-h1_test2-fw create.txt,file
+fw fw4gj2v4h1fe3q28q0hnf7g8n1 show.txt,file
+fw list -N.txt,file
+fw list -f invalid.txt,file
+fw list -f location.txt,file
+"fw list -l eu-central-h1 -N -f name,id.txt",file
+"fw list -l eu-central-h1 -f name,id.txt",file
+fw list -l eu-central-h1.txt,file
+"fw list -l eu-north-h1 -N -f name,id.txt",file
+"fw list -l eu-north-h1 -f name,id.txt",file
+fw list -l eu-north-h1.txt,file
+fw list invalid.txt,file
+fw list.txt,file
+fw show eu-central-h1_default-eu-central-h1-default.txt,file
+fw.rb,file
+gcp,dir
+gcp-cleanup-e2e,dir
+gcp.rb,file
+gcp_database_auth.rb,file
+gcp_database_auth_spec.rb,file
+gcp_firewall_architecture.md,file
+gcp_firewall_policy.rb,file
+gcp_lro.rb,file
+gcp_lro_spec.rb,file
+gcp_spec.rb,file
+gcp_vpc.rb,file
+gcp_vpc_spec.rb,file
+general.rb,file
+generate_env,file
+generate_gcp_instance_availability.rb,file
+generate_instance_availability.rb,file
+get-logs.rb,file
+get-logs_spec.rb,file
+gh,dir
+gh installation list arg.txt,file
+gh installation list.txt,file
+gh installation test-installation-name list-repositories arg.txt,file
+gh installation test-installation-name list-repositories.txt,file
+gh installation test-installation-name_test-repository-name list-repositories.txt,file
+gh list-cache-entries test-installation-name_test-repository-name.txt,file
+gh test-installation-name list-cache-entries.txt,file
+gh test-installation-name_test-repository-name list-cache-entries arg.txt,file
+gh test-installation-name_test-repository-name list-cache-entries.txt,file
+gh test-installation-name_test-repository-name remove-cache-entry gejszqw0k8z24k4bzt4ynyctg2 arg.txt,file
+gh test-installation-name_test-repository-name remove-cache-entry.txt,file
+gh test-installation-name_test-repository-name_extra list-cache-entries.txt,file
+gh.rb,file
+github,dir
+github.rb,file
+github.yml,file
+github_cache_entry.rb,file
+github_cache_entry_spec.rb,file
+github_custom_label.rb,file
+github_custom_label_spec.rb,file
+github_installation.rb,file
+github_installation_spec.rb,file
+github_repository.rb,file
+github_repository_nexus.rb,file
+github_repository_nexus_spec.rb,file
+github_repository_spec.rb,file
+github_runner.rb,file
+github_runner_labels.yml,file
+github_runner_nexus.rb,file
+github_runner_nexus_spec.rb,file
+github_runner_spec.rb,file
+github_runner_usage.erb,file
+github_spec.rb,file
+globally_blocked_dnsname.rb,file
+globally_blocked_dnsname_spec.rb,file
+go.mod,file
+golden-file-commands,dir
+golden-files,dir
+golden_files_spec.rb,file
+gpu_partition.rb,file
+gpu_partition_spec.rb,file
+group.erb,file
+ha_postgres_resource.rb,file
+ha_postgres_resource_spec.rb,file
+header_signer.rb,file
+header_signer_spec.rb,file
+health_monitor_methods.rb,file
+heartbeat.rb,file
+heartbeat_spec.rb,file
+help -r vm.txt,file
+help -r.txt,file
+help -ru vm.txt,file
+help -ru.txt,file
+help -u vm.txt,file
+help -u.txt,file
+help help.txt,file
+help invalid.txt,file
+help vm list.txt,file
+help vm.txt,file
+help.rb,file
+help.txt,file
+help_spec.rb,file
+helpers,dir
+hero-clipboard-document.svg,file
+hero-eye-slash.svg,file
+hero-eye.svg,file
+hetzner,dir
+hetzner_apis.rb,file
+hetzner_apis_spec.rb,file
+hetzner_server.rb,file
+hetzner_server_spec.rb,file
+hidden.erb,file
+hidden_class.rb,file
+hidden_model.rb,file
+high_availability.erb,file
+host,dir
+host_nexus.rb,file
+host_nexus_spec.rb,file
+host_provider.rb,file
+host_provider_spec.rb,file
+hosting,dir
+htcat_setup.rb,file
+htcat_setup_spec.rb,file
+hugepages_setup.rb,file
+hugepages_setup_spec.rb,file
+hypervisor.rb,file
+hypervisor_spec.rb,file
+icon.erb,file
+icon_with_text.erb,file
+icons,dir
+identical-timestamps.svg,file
+identity_service.rb,file
+identity_service_spec.rb,file
+index.cache,file
+index.erb,file
+inference,dir
+inference.rb,file
+inference_api_key.rb,file
+inference_api_key_spec.rb,file
+inference_endpoint,dir
+inference_endpoint.rb,file
+inference_endpoint_nexus.rb,file
+inference_endpoint_nexus_spec.rb,file
+inference_endpoint_replica.rb,file
+inference_endpoint_replica_nexus.rb,file
+inference_endpoint_replica_nexus_spec.rb,file
+inference_endpoint_replica_spec.rb,file
+inference_endpoint_spec.rb,file
+inference_playground.rb,file
+inference_playground_spec.rb,file
+inference_router.rb,file
+inference_router_config.json,file
+inference_router_model.rb,file
+inference_router_model_spec.rb,file
+inference_router_nexus.rb,file
+inference_router_nexus_spec.rb,file
+inference_router_replica.rb,file
+inference_router_replica_nexus.rb,file
+inference_router_replica_nexus_spec.rb,file
+inference_router_replica_spec.rb,file
+inference_router_spec.rb,file
+inference_router_target.rb,file
+inference_router_target_nexus.rb,file
+inference_router_target_nexus_spec.rb,file
+inference_router_target_spec.rb,file
+init-cluster,file
+init_db.sh,file
+initialize-database-from-backup,file
+initialize-empty-database,file
+install,file
+install-metrics-server,file
+install-node-exporter,file
+install-prometheus,file
+install_dnsmasq.rb,file
+install_dnsmasq_spec.rb,file
+install_minio,file
+install_os.rb,file
+install_os_spec.rb,file
+install_rhizome.rb,file
+install_rhizome_spec.rb,file
+installation,dir
+installation.rb,file
+instance_availability.yml,file
+instance_availability_file.rb,file
+instance_availability_file_spec.rb,file
+invalid.txt,file
+invoice.erb,file
+invoice.rb,file
+invoice_generator.rb,file
+invoice_generator_spec.rb,file
+invoice_spec.rb,file
+io_throttle.rb,file
+io_throttle_spec.rb,file
+ips-v4_spec.rb,file
+ipsec_tunnel.rb,file
+ipsec_tunnel_spec.rb,file
+item.erb,file
+join-node,file
+js,dir
+k8s.yml,file
+kc,dir
+kc eu-central-h1_test-kc create -c 1 -w bad.txt,file
+kc eu-central-h1_test-kc create -c a.txt,file
+kc eu-central-h1_test-kc create invalid.txt,file
+kc eu-central-h1_test-kc create-nodepool foo_bar standard-2 2.txt,file
+kc eu-central-h1_test-kc create-nodepool test-kc-np3 standard-2 -1.txt,file
+kc eu-central-h1_test-kc create-nodepool test-kc-np3 standard-2 2.9.txt,file
+kc eu-central-h1_test-kc create-nodepool test-kc-np3 standard-2 2.txt,file
+kc eu-central-h1_test-kc create-nodepool test-kc-np3.txt,file
+kc eu-central-h1_test-kc destroy -f.txt,file
+kc eu-central-h1_test-kc destroy invalid.txt,file
+kc eu-central-h1_test-kc destroy-nodepool -f foo_bar.txt,file
+kc eu-central-h1_test-kc destroy-nodepool -f test-kc-np2.txt,file
+kc eu-central-h1_test-kc destroy-nodepool test-kc-np2.txt,file
+kc eu-central-h1_test-kc destroy.txt,file
+kc eu-central-h1_test-kc kubeconfig bad.txt,file
+kc eu-central-h1_test-kc kubeconfig.txt,file
+kc eu-central-h1_test-kc resize-nodepool foo_bar 3.txt,file
+kc eu-central-h1_test-kc resize-nodepool something 5.txt,file
+kc eu-central-h1_test-kc resize-nodepool something.txt,file
+kc eu-central-h1_test-kc resize-nodepool test-kc-np -1.txt,file
+kc eu-central-h1_test-kc resize-nodepool test-kc-np 2.9.txt,file
+kc eu-central-h1_test-kc resize-nodepool test-kc-np 8.txt,file
+kc eu-central-h1_test-kc retire-node kc-np-vm.txt,file
+kc eu-central-h1_test-kc show -f bad.txt,file
+"kc eu-central-h1_test-kc show -f id,name,location,display-state,cp-node-count.txt",file
+"kc eu-central-h1_test-kc show -f node-size,version,nodepools,cp-vms.txt",file
+"kc eu-central-h1_test-kc show -n id,name,node-count.txt",file
+"kc eu-central-h1_test-kc show -n node-size,vms.txt",file
+"kc eu-central-h1_test-kc show -v id,name,state,location,size,unix-user,storage-size-gib.txt",file
+"kc eu-central-h1_test-kc show -v ip6,ip4-enabled,ip4.txt",file
+kc eu-central-h1_test-kc show.txt,file
+kc eu-central-h1_test-kc upgrade-nodepool foo_bar.txt,file
+kc eu-central-h1_test-kc upgrade-nodepool something.txt,file
+kc eu-central-h1_test-kc upgrade-nodepool test-kc-np.txt,file
+kc eu-central-h1_test-kc upgrade.txt,file
+kc kcnzrctjjg4j4g6eqvdsvzthwp show.txt,file
+kc list -N.txt,file
+kc list -f invalid.txt,file
+kc list -f location.txt,file
+"kc list -l eu-central-h1 -N -f name,id.txt",file
+"kc list -l eu-central-h1 -f name,id.txt",file
+kc list -l eu-central-h1.txt,file
+"kc list -l eu-north-h1 -N -f name,id.txt",file
+"kc list -l eu-north-h1 -f name,id.txt",file
+kc list -l eu-north-h1.txt,file
+kc list invalid.txt,file
+kc list.txt,file
+kc.rb,file
+kek_pipe.rb,file
+kek_pipe_spec.rb,file
+kms_key_decryptor.rb,file
+kms_key_decryptor_spec.rb,file
+kubeconfig.rb,file
+kubernetes,dir
+kubernetes-cluster,dir
+kubernetes-csi-ci.yml,file
+kubernetes.rb,file
+kubernetes_base.rb,file
+kubernetes_build_node_image.rb,file
+kubernetes_build_node_image_spec.rb,file
+kubernetes_client.rb,file
+kubernetes_client_spec.rb,file
+kubernetes_cluster.rb,file
+kubernetes_cluster_nexus.rb,file
+kubernetes_cluster_nexus_spec.rb,file
+kubernetes_cluster_spec.rb,file
+kubernetes_etcd_backup.rb,file
+kubernetes_etcd_backup_spec.rb,file
+kubernetes_firewall.rb,file
+kubernetes_firewall_spec.rb,file
+kubernetes_install_prometheus.rb,file
+kubernetes_install_prometheus_spec.rb,file
+kubernetes_node.rb,file
+kubernetes_node_image.erb,file
+kubernetes_node_images.rb,file
+kubernetes_node_images_spec.rb,file
+kubernetes_node_nexus.rb,file
+kubernetes_node_nexus_spec.rb,file
+kubernetes_node_spec.rb,file
+kubernetes_nodepool.rb,file
+kubernetes_nodepool_nexus.rb,file
+kubernetes_nodepool_nexus_spec.rb,file
+kubernetes_nodepool_spec.rb,file
+kubernetes_sanitize_node_image.rb,file
+kubernetes_sanitize_node_image_spec.rb,file
+kubernetes_spec.rb,file
+kubernetes_state_label.erb,file
+kubernetes_upgrade.rb,file
+kubernetes_upgrade_spec.rb,file
+kv_data_card.erb,file
+large-values.svg,file
+layout.erb,file
+layouts,dir
+lb,dir
+lb 1bvp8yk1karj4ngwhtgrfh6esd show.txt,file
+lb eu-central-h1_test-lb attach-vm foo_vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb attach-vm vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb destroy -f.txt,file
+lb eu-central-h1_test-lb destroy.txt,file
+lb eu-central-h1_test-lb detach-vm vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb disable-ssl-certificate.txt,file
+lb eu-central-h1_test-lb enable-ssl-certificate.txt,file
+lb eu-central-h1_test-lb show -f bad.txt,file
+"lb eu-central-h1_test-lb show -f id,name,state,location,hostname,algorithm.txt",file
+"lb eu-central-h1_test-lb show -f src-port,dst-port,subnet,vms.txt",file
+"lb eu-central-h1_test-lb show -f stack,health-check-endpoint,health-check-protocol.txt",file
+lb eu-central-h1_test-lb show.txt,file
+lb eu-central-h1_test-lb update bad 1234 54321 _up2 true vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb update hash_based 1234 54321 _up2 bad vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb update hash_based 1234 54321 _up2 false vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb update hash_based 1234 54321 _up2 true.txt,file
+lb eu-central-h1_test-lb update https 54321 a _up2 false vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test-lb update https a 54321 _up2 true vmdzyppz6j166jh5e9t2dwrfas.txt,file
+lb eu-central-h1_test2-lb create -a bad psfzm9e26xky5m9ggetw4dpqe2 12345 54321.txt,file
+lb eu-central-h1_test2-lb create -c bad psfzm9e26xky5m9ggetw4dpqe2 12345 54321.txt,file
+lb eu-central-h1_test2-lb create -p bad psfzm9e26xky5m9ggetw4dpqe2 12345 54321.txt,file
+lb eu-central-h1_test2-lb create -s bad psfzm9e26xky5m9ggetw4dpqe2 12345 54321.txt,file
+lb eu-central-h1_test2-lb create psfzm9e26xky5m9ggetw4dpqe2 12345 54321.txt,file
+lb eu-central-h1_test2-lb create psfzm9e26xky5m9ggetw4dpqe2 54321 a.txt,file
+lb eu-central-h1_test2-lb create psfzm9e26xky5m9ggetw4dpqe2 a 54321.txt,file
+lb eu-central-h1_test2-lb create.txt,file
+lb list -N.txt,file
+lb list -N=1 invalid.txt,file
+lb list -f invalid.txt,file
+"lb list -f src-port,dst-port,hostname.txt",file
+"lb list -l eu-central-h1 -N -f name,id.txt",file
+"lb list -l eu-central-h1 -f name,id.txt",file
+lb list -l eu-central-h1.txt,file
+"lb list -l eu-north-h1 -N -f name,id.txt",file
+"lb list -l eu-north-h1 -f name,id.txt",file
+lb list -l eu-north-h1.txt,file
+lb list invalid.txt,file
+lb list.txt,file
+lb.rb,file
+learn_cpu.rb,file
+learn_cpu_spec.rb,file
+learn_hypervisor.rb,file
+learn_hypervisor_spec.rb,file
+learn_memory.rb,file
+learn_memory_spec.rb,file
+learn_network.rb,file
+learn_network_spec.rb,file
+learn_numa_node.rb,file
+learn_numa_node_spec.rb,file
+learn_os.rb,file
+learn_os_spec.rb,file
+learn_pci.rb,file
+learn_pci_spec.rb,file
+learn_storage.rb,file
+learn_storage_spec.rb,file
+leaseweb,dir
+leaseweb_apis.rb,file
+leaseweb_apis_spec.rb,file
+leaseweb_netplan.rb,file
+leaseweb_netplan_spec.rb,file
+leaseweb_networking_setup.rb,file
+leaseweb_networking_setup_spec.rb,file
+lib,dir
+list-backups.rb,file
+list-cache-entries.rb,file
+list-repositories.rb,file
+list-servers.rb,file
+list-servers_spec.rb,file
+list-versions.rb,file
+list.rb,file
+list_spec.rb,file
+list_versions_spec.rb,file
+load_balancer,dir
+load_balancer.rb,file
+load_balancer_cert.rb,file
+load_balancer_nexus.rb,file
+load_balancer_nexus_spec.rb,file
+load_balancer_port.rb,file
+load_balancer_port_spec.rb,file
+load_balancer_remove_vm.rb,file
+load_balancer_remove_vm_spec.rb,file
+load_balancer_spec.rb,file
+load_balancer_vm.rb,file
+load_balancer_vm_port.rb,file
+load_balancer_vm_port_spec.rb,file
+load_balancer_vm_spec.rb,file
+loader.rb,file
+local_e2e.erb,file
+local_e2e_loop.rb,file
+local_e2e_loop_spec.rb,file
+location,dir
+location.rb,file
+location_az.rb,file
+location_az_spec.rb,file
+location_credential_aws.rb,file
+location_credential_aws_spec.rb,file
+location_credential_gcp.rb,file
+location_credential_gcp_spec.rb,file
+location_nexus.rb,file
+location_nexus_spec.rb,file
+location_spec.rb,file
+locked_domain.rb,file
+lockout,file
+lockout-hba,file
+log_dna_batcher.rb,file
+log_dna_batcher_spec.rb,file
+log_vm_host_utilizations.rb,file
+log_vm_host_utilizations_spec.rb,file
+login.erb,file
+login_field.erb,file
+login_method.erb,file
+logo-lantern.png,file
+logo-paradedb.png,file
+logo-primary.png,file
+logo-white.png,file
+logs.erb,file
+machine_image,dir
+machine_image.rb,file
+machine_image.yml,file
+machine_image_error.rb,file
+machine_image_spec.rb,file
+machine_image_store.rb,file
+machine_image_store_spec.rb,file
+machine_image_version.rb,file
+machine_image_version_metal.rb,file
+machine_image_version_metal_spec.rb,file
+machine_image_version_spec.rb,file
+machine_image_version_state_label.erb,file
+maintain_presigned_certs.rb,file
+maintain_presigned_load_balancer_certs.rb,file
+maintain_presigned_load_balancer_certs_spec.rb,file
+maintain_presigned_postgres_certs.rb,file
+maintain_presigned_postgres_certs_spec.rb,file
+manifests,dir
+many-points.svg,file
+mesh_connectivity_checker.rb,file
+mesh_connectivity_checker_spec.rb,file
+metal,dir
+metrics-collector,file
+metrics-server.yaml,file
+metrics.rb,file
+metrics_charts.erb,file
+metrics_target_methods.rb,file
+metrics_target_methods_spec.rb,file
+metrics_target_resource.rb,file
+metrics_target_resource_spec.rb,file
+mi,dir
+mi.rb,file
+migrate,dir
+migrate,file
+migrate_spdk_vm_to_ubiblk.rb,file
+migrate_spdk_vm_to_ubiblk_spec.rb,file
+minio,dir
+minio_cluster.rb,file
+minio_cluster_nexus.rb,file
+minio_cluster_nexus_spec.rb,file
+minio_cluster_spec.rb,file
+minio_pool.rb,file
+minio_pool_nexus.rb,file
+minio_pool_nexus_spec.rb,file
+minio_pool_spec.rb,file
+minio_server.rb,file
+minio_server_nexus.rb,file
+minio_server_nexus_spec.rb,file
+minio_server_spec.rb,file
+minio_setup.rb,file
+minio_setup_spec.rb,file
+mise.local.toml.template,file
+mise.lock,file
+mise.toml,file
+missing.txt,file
+mobile.erb,file
+model,dir
+model.rb,file
+model_adapter.rb,file
+model_hiding.rb,file
+modify-firewall-rule.rb,file
+modify-firewall-rule_spec.rb,file
+modify-rule.rb,file
+modify-rule_spec.rb,file
+modify.rb,file
+modify_spec.rb,file
+monitor,file
+monitor-ci.yml,file
+monitor_resource_stub.rb,file
+monitor_resource_type.rb,file
+monitor_resource_type_spec.rb,file
+monitor_runner.rb,file
+monitor_runner_spec.rb,file
+monitor_smoke_test.rb,file
+monitorable_resource.rb,file
+monitorable_resource_spec.rb,file
+move_vm.rb,file
+move_vm_spec.rb,file
+multifactor,dir
+net_addr_sequel.rb,file
+net_http.rb,file
+net_ssh.rb,file
+net_ssh_spec.rb,file
+network.rb,file
+network_metering,dir
+network_metering.rb,file
+network_metering_spec.rb,file
+network_spec.rb,file
+networking,dir
+networking.erb,file
+nexus.rb,file
+nexus_spec.rb,file
+nic.rb,file
+nic_aws_resource.rb,file
+nic_aws_resource_spec.rb,file
+nic_gcp_resource.rb,file
+nic_gcp_resource_spec.rb,file
+nic_nexus.rb,file
+nic_nexus_spec.rb,file
+nic_spec.rb,file
+node_exporter_setup.rb,file
+node_exporter_setup_spec.rb,file
+node_service.rb,file
+node_service_spec.rb,file
+nodeplugin-clusterrole.yaml,file
+nodeplugin-clusterrolebinding.yaml,file
+nodeplugin-daemonset.yaml,file
+nodeplugin-serviceaccount.yaml,file
+nodepool,dir
+nodepools.erb,file
+nodes.erb,file
+notifications.erb,file
+object,dir
+object.erb,file
+object_action.erb,file
+object_info.rb,file
+object_metatag.rb,file
+object_metatag_spec.rb,file
+object_tag.rb,file
+object_tag_spec.rb,file
+objects.erb,file
+oidc_auth_spec.rb,file
+oidc_login.erb,file
+oidc_provider.rb,file
+oidc_provider_spec.rb,file
+omniauth_oidc.rb,file
+openapi,dir
+openapi.yml,file
+openapi_format.yml,file
+openrouter.json,file
+option.rb,file
+option_spec.rb,file
+option_tree_filter.rb,file
+option_tree_filter_spec.rb,file
+option_tree_generator.rb,file
+options_spec.rb,file
+order_analytics_queries.sql,file
+order_analytics_read_queries.sql,file
+otel_batcher.rb,file
+otel_batcher_spec.rb,file
+otel_log_config-golden.yaml,file
+otel_log_config.rb,file
+otel_log_config_spec.rb,file
+otp_auth.erb,file
+otp_auth_code_field.erb,file
+otp_disable.erb,file
+otp_setup.erb,file
+otp_unlock.erb,file
+otp_unlock_not_available.erb,file
+overrider.rb,file
+overrider_spec.rb,file
+overrider_test,dir
+overview.erb,file
+package-lock.json,file
+package.json,file
+page.rb,file
+page_header.erb,file
+page_nexus.rb,file
+page_nexus_spec.rb,file
+page_snooze.rb,file
+page_snooze_spec.rb,file
+page_spec.rb,file
+pagination.rb,file
+pagination_spec.rb,file
+parseable,dir
+parseable_resource.rb,file
+parseable_resource_nexus.rb,file
+parseable_resource_nexus_spec.rb,file
+parseable_resource_spec.rb,file
+parseable_server.rb,file
+parseable_server_nexus.rb,file
+parseable_server_nexus_spec.rb,file
+parseable_server_spec.rb,file
+parseable_setup.rb,file
+parseable_setup_spec.rb,file
+partnership_notice.erb,file
+password_field.erb,file
+payment_method.rb,file
+payment_method_spec.rb,file
+pci_device.rb,file
+pci_device_spec.rb,file
+personal_access_token.rb,file
+pg,dir
+pg eu-central-h1_test-pg -U bar pg_dump.txt,file
+pg eu-central-h1_test-pg -U bar pg_dumpall.txt,file
+pg eu-central-h1_test-pg -U bar psql.txt,file
+pg eu-central-h1_test-pg -X pg_dump.txt,file
+pg eu-central-h1_test-pg -d foo pg_dump.txt,file
+pg eu-central-h1_test-pg -d foo pg_dumpall.txt,file
+pg eu-central-h1_test-pg -d foo psql.txt,file
+pg eu-central-h1_test-pg add-config-entries key.txt,file
+pg eu-central-h1_test-pg add-config-entries key=value key2.txt,file
+pg eu-central-h1_test-pg add-config-entries key=value.txt,file
+pg eu-central-h1_test-pg add-config-entries.txt,file
+pg eu-central-h1_test-pg add-firewall-rule 1.2.3.0_24.txt,file
+pg eu-central-h1_test-pg add-firewall-rule.txt,file
+pg eu-central-h1_test-pg add-metric-destination foo bar https:__md.example.com.txt,file
+pg eu-central-h1_test-pg add-metric-destination.txt,file
+pg eu-central-h1_test-pg add-pgbouncer-config-entries key.txt,file
+pg eu-central-h1_test-pg add-pgbouncer-config-entries key=value key2.txt,file
+pg eu-central-h1_test-pg add-pgbouncer-config-entries key=value.txt,file
+pg eu-central-h1_test-pg add-pgbouncer-config-entries.txt,file
+pg eu-central-h1_test-pg delete-firewall-rule frpqgkgjd09y4pnjaq2pkeacam.txt,file
+pg eu-central-h1_test-pg delete-firewall-rule.txt,file
+pg eu-central-h1_test-pg delete-metric-destination et2t1bswsqz21m7j7njfjbp901.txt,file
+pg eu-central-h1_test-pg delete-metric-destination.txt,file
+pg eu-central-h1_test-pg destroy -f.txt,file
+pg eu-central-h1_test-pg destroy invalid.txt,file
+pg eu-central-h1_test-pg destroy.txt,file
+pg eu-central-h1_test-pg list-backups.txt,file
+pg eu-central-h1_test-pg modify -t bad.txt,file
+pg eu-central-h1_test-pg pg_dump -a.txt,file
+pg eu-central-h1_test-pg pg_dump.txt,file
+pg eu-central-h1_test-pg pg_dumpall -a.txt,file
+pg eu-central-h1_test-pg pg_dumpall.txt,file
+pg eu-central-h1_test-pg psql -a.txt,file
+pg eu-central-h1_test-pg psql.txt,file
+pg eu-central-h1_test-pg remove-config-entries.txt,file
+pg eu-central-h1_test-pg remove-pgbouncer-config-entries.txt,file
+pg eu-central-h1_test-pg reset-superuser-password foo123BAR456.txt,file
+pg eu-central-h1_test-pg reset-superuser-password.txt,file
+pg eu-central-h1_test-pg restart.txt,file
+pg eu-central-h1_test-pg restore.txt,file
+"pg eu-central-h1_test-pg show -f firewall-rules,metric-destinations,ca-certificates.txt",file
+"pg eu-central-h1_test-pg show -f ha-type,flavor,connection-string,primary,earliest-restore-time.txt",file
+pg eu-central-h1_test-pg show -f id.txt,file
+"pg eu-central-h1_test-pg show -f maintenance-window-start-at,read-replica,parent,read-replicas.txt",file
+"pg eu-central-h1_test-pg show -f name,state,location,vm-size,storage-size-gib,version,tags.txt",file
+pg eu-central-h1_test-pg show invalid.txt,file
+pg eu-central-h1_test-pg show-config.txt,file
+pg eu-central-h1_test-pg show-default-config.txt,file
+pg eu-central-h1_test-pg show-pgbouncer-config.txt,file
+pg eu-central-h1_test-pg show-upgrade-status.txt,file
+pg eu-central-h1_test-pg show.txt,file
+pg eu-central-h1_test-pg upgrade.txt,file
+pg eu-central-h1_test2-pg create -s bad -S 64.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -f bad.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -f lantern.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -h bad.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -h sync.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -t bad.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -v 17.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64 -v bad.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S 64.txt,file
+pg eu-central-h1_test2-pg create -s standard-2 -S bad.txt,file
+pg eu-central-h1_test2-pg create -s standard-4 -S 128.txt,file
+pg eu-central-h1_test2-pg create invalid.txt,file
+pg list -N.txt,file
+pg list -f invalid.txt,file
+pg list -f location.txt,file
+"pg list -f name,id,version,flavor.txt",file
+"pg list -l eu-central-h1 -N -f name,id.txt",file
+"pg list -l eu-central-h1 -f name,id.txt",file
+pg list -l eu-central-h1.txt,file
+"pg list -l eu-north-h1 -N -f name,id.txt",file
+"pg list -l eu-north-h1 -f name,id.txt",file
+pg list -l eu-north-h1.txt,file
+pg list invalid.txt,file
+pg list.txt,file
+pg pgvm1qb9gwct1mqmay7m54yma5 show.txt,file
+pg-lantern.png,file
+pg-logs-throttle,dir
+pg-metering-export.service,file
+pg-metering-export.timer,file
+pg-metering.service,file
+pg-paradedb.png,file
+pg-ubicloud.png,file
+pg.rb,file
+pg_auto_constraint_validations.cache,file
+pg_aws_ami.rb,file
+pg_aws_ami_spec.rb,file
+pg_bouncer_setup.rb,file
+pg_bouncer_setup_spec.rb,file
+pg_dump.rb,file
+pg_dump.txt,file
+pg_dumpall.rb,file
+pg_dumpall.txt,file
+pg_dumpall_spec.rb,file
+pg_gce_image.rb,file
+pg_gce_image_spec.rb,file
+pg_state_label.erb,file
+ph,dir
+playground.erb,file
+policy_select.erb,file
+polymorphic_foreign_key_checker.rb,file
+polymorphic_foreign_key_checker_spec.rb,file
+post,dir
+post-installation-script,file
+postgres,dir
+postgres.rb,file
+postgres_aws.yml,file
+postgres_base.rb,file
+postgres_capabilities_spec.rb,file
+postgres_config.rb,file
+postgres_config_spec.rb,file
+postgres_config_validator.rb,file
+postgres_config_validator_schema.rb,file
+postgres_config_validator_schema_spec.rb,file
+postgres_config_validator_spec.rb,file
+postgres_exporter_queries.yml,file
+postgres_exporter_queries_yml_spec.rb,file
+postgres_extensions.rb,file
+postgres_firewall.rb,file
+postgres_firewall_rule.rb,file
+postgres_firewall_spec.rb,file
+postgres_gcp.yml,file
+postgres_init_script.rb,file
+postgres_init_script_spec.rb,file
+postgres_lockout.rb,file
+postgres_lockout_spec.rb,file
+postgres_log_destination.rb,file
+postgres_log_destination_spec.rb,file
+postgres_metal.yml,file
+postgres_metric_destination.rb,file
+postgres_metric_destination_spec.rb,file
+postgres_monitor_db.sql,file
+postgres_resource.rb,file
+postgres_resource_nexus.rb,file
+postgres_resource_nexus_spec.rb,file
+postgres_resource_spec.rb,file
+postgres_server.rb,file
+postgres_server_aws_nic_migration.rb,file
+postgres_server_nexus.rb,file
+postgres_server_nexus_spec.rb,file
+postgres_server_spec.rb,file
+postgres_setup.rb,file
+postgres_setup_spec.rb,file
+postgres_spec.rb,file
+postgres_timeline.rb,file
+postgres_timeline_nexus.rb,file
+postgres_timeline_nexus_spec.rb,file
+postgres_timeline_spec.rb,file
+postgres_upgrade.rb,file
+postgres_upgrade_spec.rb,file
+prep_host.rb,file
+prep_host_spec.rb,file
+presigned_certs.erb,file
+private-location,dir
+private_location.rb,file
+private_location_spec.rb,file
+private_subnet,dir
+private_subnet.rb,file
+private_subnet_aws_resource.rb,file
+private_subnet_aws_resource_spec.rb,file
+private_subnet_firewall.rb,file
+private_subnet_spec.rb,file
+production_check,file
+prog,dir
+progress_bar.erb,file
+project,dir
+project.rb,file
+project_discount_code.rb,file
+project_discount_code_spec.rb,file
+project_invitation.rb,file
+project_quota.rb,file
+project_quota_spec.rb,file
+project_spec.rb,file
+project_switcher.erb,file
+prometheus-rbac.yaml,file
+promote,file
+promote-read-replica.rb,file
+promote-read-replica_spec.rb,file
+provider,dir
+provider_apis.rb,file
+provider_apis_spec.rb,file
+provider_dispatcher.rb,file
+provider_ip_range.rb,file
+provider_ip_range_spec.rb,file
+provision_kubernetes_node.rb,file
+provision_kubernetes_node_spec.rb,file
+provisioner-clusterrole.yaml,file
+provisioner-clusterrolebinding.yaml,file
+provisioner-deployment.yaml,file
+provisioner-role.yaml,file
+provisioner-rolebinding.yaml,file
+provisioner-serviceaccount.yaml,file
+pry,file
+ps,dir
+"ps eu-central-h1_default-eu-central-h1 show -f firewalls -w id,name.txt",file
+"ps eu-central-h1_default-eu-central-h1 show -f firewalls,nics.txt",file
+ps eu-central-h1_default-eu-central-h1 show -f firewalls.txt,file
+"ps eu-central-h1_default-eu-central-h1 show -f id,name,state,location,net4,net6.txt",file
+"ps eu-central-h1_default-eu-central-h1 show -f nics -n id,name.txt",file
+"ps eu-central-h1_default-eu-central-h1 show -f nics -n private-ipv4,private-ipv6,vm-name.txt",file
+"ps eu-central-h1_default-eu-central-h1 show -w description,location,path.txt",file
+"ps eu-central-h1_default-eu-central-h1 show -w firewall-rules -r id,cidr.txt",file
+ps eu-central-h1_default-eu-central-h1 show -w firewall-rules -r port-range.txt,file
+ps eu-central-h1_default-eu-central-h1 show -w firewall-rules.txt,file
+ps eu-central-h1_default-eu-central-h1 show.txt,file
+ps eu-central-h1_test-ps connect psfzm3e26xky5m9ggetw4dpqe2.txt,file
+ps eu-central-h1_test-ps connect psfzm9e26xky5m9ggetw4dpqe2.txt,file
+ps eu-central-h1_test-ps destroy -f.txt,file
+ps eu-central-h1_test-ps destroy invalid.txt,file
+ps eu-central-h1_test-ps destroy.txt,file
+ps eu-central-h1_test-ps disconnect foo2.txt,file
+ps eu-central-h1_test-ps disconnect psfzm3e26xky5m9ggetw4dpqe2.txt,file
+ps eu-central-h1_test2-ps create -f fw4gj2v4h1fe3q28q0hnf7g8n1.txt,file
+ps eu-central-h1_test2-ps create invalid.txt,file
+ps eu-central-h1_test2-ps create.txt,file
+ps list -N.txt,file
+ps list -f invalid.txt,file
+ps list -f location.txt,file
+"ps list -f name,id,net4,net6.txt",file
+"ps list -l eu-central-h1 -N -f name,id.txt",file
+"ps list -l eu-central-h1 -f name,id.txt",file
+ps list -l eu-central-h1.txt,file
+"ps list -l eu-north-h1 -N -f name,id.txt",file
+"ps list -l eu-north-h1 -f name,id.txt",file
+ps list -l eu-north-h1.txt,file
+ps list invalid.txt,file
+ps list.txt,file
+ps psfzm9e26xky5m9ggetw4dpqe2 show.txt,file
+ps.rb,file
+ps_state_label.erb,file
+psql.rb,file
+psql.txt,file
+psql_pg_dump_spec.rb,file
+public,dir
+puma_config.rb,file
+rack.rb,file
+radio_small_cards.erb,file
+rake-task-runner,file
+read_replica.erb,file
+reboot-host,file
+recovery_auth.erb,file
+recovery_codes.erb,file
+recycle.rb,file
+recycle_spec.rb,file
+redeliver_github_failures.rb,file
+redeliver_github_failures_spec.rb,file
+redocly.yml,file
+regen-screenshots,file
+register.erb,file
+rekey_nic_tunnel.rb,file
+rekey_nic_tunnel_spec.rb,file
+remote_storage_server,dir
+remote_storage_server.rb,file
+remote_storage_server_spec.rb,file
+remove-all-cache-entries.rb,file
+remove-all-cache-entries_spec.rb,file
+remove-cache-entry.rb,file
+remove-cache-entry_spec.rb,file
+remove-cert-auth-user.rb,file
+remove-cert-auth-user_spec.rb,file
+remove-config-entries.rb,file
+remove-config-entries_spec.rb,file
+remove-pgbouncer-config-entries.rb,file
+remove-pgbouncer-config-entries_spec.rb,file
+remove_boot_image.rb,file
+remove_boot_image_spec.rb,file
+remove_boot_images.erb,file
+remove_boot_images_confirm.erb,file
+remove_spdk.rb,file
+remove_spdk_spec.rb,file
+rename.rb,file
+rename_object.erb,file
+rename_object_input.erb,file
+rename_spec.rb,file
+renew-certs,file
+repartitioner.rb,file
+repartitioner_spec.rb,file
+replica_setup.rb,file
+replica_setup_spec.rb,file
+require_e2e.yml,file
+reset-superuser-password.rb,file
+reset-superuser-password_spec.rb,file
+reset_password.erb,file
+reset_password_request.erb,file
+resize-nodepool.rb,file
+resize.erb,file
+resolve_globally_blocked_dnsnames.rb,file
+resolve_globally_blocked_dnsnames_spec.rb,file
+resource_creation_form.erb,file
+resource_discount.rb,file
+resource_discount_spec.rb,file
+resource_methods.rb,file
+resource_methods_spec.rb,file
+respirate,file
+respirate-ci.yml,file
+respirate_smoke_test.rb,file
+restart,file
+restart.rb,file
+restart_spec.rb,file
+restarter,file
+restore.rb,file
+restore_spec.rb,file
+retire-node.rb,file
+revealable_content.erb,file
+rhizome,dir
+rhizome.yml,file
+rhizome_installation.rb,file
+rhizome_installation_spec.rb,file
+rodauth,dir
+rollout_boot_image.rb,file
+rollout_boot_image_spec.rb,file
+rollout_rhizome.rb,file
+rollout_rhizome_spec.rb,file
+rollout_semaphore.rb,file
+rollout_semaphore_spec.rb,file
+rollouts.erb,file
+rotate_kek.rb,file
+rotate_kek_spec.rb,file
+rotate_ssh_key.rb,file
+rotate_ssh_key_spec.rb,file
+routes,dir
+ruby,dir
+ruby_lsp,dir
+ruby_sdk_spec.rb,file
+run_command.rb,file
+run_command_nexus.rb,file
+run_command_nexus_spec.rb,file
+run_command_spec.rb,file
+runner.erb,file
+runpod_client.rb,file
+runpod_client_spec.rb,file
+runtime,dir
+runtime.rb,file
+s3_audit_batcher.rb,file
+s3_audit_batcher_spec.rb,file
+sanitize-node-image,file
+scheduling,dir
+schema.cache,file
+scp.rb,file
+scp.txt,file
+scp_spec.rb,file
+sdk,dir
+search.erb,file
+search.rb,file
+search_spec.rb,file
+section.erb,file
+select.erb,file
+sem_snap.rb,file
+sem_snap_spec.rb,file
+semaphore.rb,file
+semaphore_methods.rb,file
+semaphore_spec.rb,file
+serial-log.rb,file
+serial-log_spec.rb,file
+serial_log.erb,file
+serializers,dir
+service_helper.rb,file
+set-latest.rb,file
+set-maintenance-window.rb,file
+set-maintenance-window_spec.rb,file
+set_latest_spec.rb,file
+setting.erb,file
+settings.erb,file
+setup-cert-server,file
+setup-clover,dir
+setup-cni,file
+setup-grafana,file
+setup-hugepages,file
+setup-leaseweb-networking,file
+setup-nftables.rb,file
+setup-node-exporter,file
+setup-remote-storage-server,file
+setup-replica,file
+setup-slice,file
+setup-spdk,file
+setup-sysstat,file
+setup-vhost-block-backend,file
+setup-vm,file
+setup_dns_server_vm.rb,file
+setup_dns_server_vm_spec.rb,file
+setup_grafana.rb,file
+setup_grafana_spec.rb,file
+setup_hugepages.rb,file
+setup_hugepages_spec.rb,file
+setup_log_aggregation.rb,file
+setup_log_aggregation_spec.rb,file
+setup_minio.rb,file
+setup_minio_spec.rb,file
+setup_networking.rb,file
+setup_networking_spec.rb,file
+setup_nftables.rb,file
+setup_nftables_spec.rb,file
+setup_node_exporter.rb,file
+setup_node_exporter_spec.rb,file
+setup_spdk.rb,file
+setup_spdk_spec.rb,file
+setup_sysstat.rb,file
+setup_sysstat_spec.rb,file
+setup_vhost_block_backend.rb,file
+setup_vhost_block_backend_spec.rb,file
+setup_vm_host.erb,file
+sftp.rb,file
+sftp.txt,file
+sftp_spec.rb,file
+show-config.rb,file
+show-default-config.rb,file
+show-pgbouncer-config.rb,file
+show-upgrade-status.rb,file
+show-upgrade-status_spec.rb,file
+show.erb,file
+show.rb,file
+show_errors_spec.rb,file
+show_spec.rb,file
+sidebar,dir
+single-point.svg,file
+sk,dir
+sk list -N.txt,file
+sk list.txt,file
+sk sk684jk5sa027g4mmr3rrwmakr destroy -f.txt,file
+sk sk684jk5sa027g4mmr3rrwmakr rename spk2.txt,file
+sk sk684jk5sa027g4mmr3rrwmakr show.txt,file
+"sk sk684jk5sa027g4mmr3rrwmakr update ""b b"".txt",file
+sk spk destroy -f.txt,file
+sk spk destroy.txt,file
+sk spk rename spk2.txt,file
+sk spk show.txt,file
+"sk spk update ""b b"".txt",file
+"sk spk2 create ""b b"".txt",file
+sk spk_ show.txt,file
+sk.rb,file
+slice_setup.rb,file
+slice_setup_spec.rb,file
+snoozed_pages.erb,file
+social_button.erb,file
+social_buttons.erb,file
+spdk-migration-helper,file
+spdk_installation.rb,file
+spdk_installation_spec.rb,file
+spdk_path.rb,file
+spdk_rpc.rb,file
+spdk_rpc_spec.rb,file
+spdk_setup.rb,file
+spdk_setup_spec.rb,file
+spec,dir
+spec_helper.rb,file
+ssh-public-key,dir
+ssh.rb,file
+ssh.txt,file
+ssh_key.rb,file
+ssh_key_spec.rb,file
+ssh_public_key.rb,file
+ssh_public_key_spec.rb,file
+ssh_spec.rb,file
+sshable.rb,file
+sshable_spec.rb,file
+start.rb,file
+start_spec.rb,file
+state_label.erb,file
+static_cache.cache,file
+step_timeline.erb,file
+stop-vm,file
+stop.rb,file
+stop_spec.rb,file
+storage,dir
+storage-dump-metadata,file
+storage-key-tool,file
+storage-restart-daemon,file
+storage_archive.rb,file
+storage_archive_spec.rb,file
+storage_device.rb,file
+storage_device_spec.rb,file
+storage_disk_formatter.rb,file
+storage_disk_formatter_spec.rb,file
+storage_key_encryption.rb,file
+storage_key_encryption_key.rb,file
+storage_key_encryption_key_spec.rb,file
+storage_key_encryption_spec.rb,file
+storage_path.rb,file
+storage_volume.rb,file
+storage_volume_spec.rb,file
+storageclass.yaml,file
+strand.rb,file
+strand_spec.rb,file
+stress_up,file
+stripe_client.rb,file
+structured_data_card.erb,file
+stuck_volume_detector.rb,file
+stuck_volume_detector_spec.rb,file
+subject_tag.rb,file
+subject_tag_spec.rb,file
+submenu.erb,file
+submit_button.erb,file
+subnet_nexus.rb,file
+subnet_nexus_concurrency_spec.rb,file
+subnet_nexus_spec.rb,file
+success.txt,file
+svg_chart-golden-files,dir
+svg_chart.erb,file
+svg_chart.rb,file
+svg_chart_spec.rb,file
+system_parser.rb,file
+system_parser_spec.rb,file
+systemd,dir
+tabbar.erb,file
+table.erb,file
+table_card.erb,file
+tag-list.erb,file
+tag.erb,file
+tailwind.config.js,file
+tailwind.css,file
+take-backup,file
+teardown_log_aggregation.rb,file
+teardown_log_aggregation_spec.rb,file
+tee_client.rb,file
+tee_client_spec.rb,file
+test,dir
+test.rb,file
+test2.rb,file
+test_smoke_spec.rb,file
+testdata,dir
+text.erb,file
+textarea.erb,file
+thawed_mock.rb,file
+thread_printer.rb,file
+thread_printer_spec.rb,file
+toggle_form.erb,file
+token.erb,file
+token.rb,file
+token_spec.rb,file
+topbar.erb,file
+trigger-e2e.yml,file
+two_factor_auth.erb,file
+two_factor_manage.erb,file
+ubi,file
+ubi-csi-server,file
+ubi-csi.gemspec,file
+ubi.go,file
+ubi_admin,dir
+ubi_cli.rb,file
+ubi_cni.rb,file
+ubi_cni_spec.rb,file
+ubi_csi,dir
+ubi_csi.rb,file
+ubicloud,dir
+ubicloud.gemspec,file
+ubicloud.rb,file
+ubicni,file
+ubicsi,dir
+ubid.rb,file
+ubid_spec.rb,file
+unarchive_postgres_resource.rb,file
+unarchive_postgres_resource_spec.rb,file
+update-description.rb,file
+update-description_spec.rb,file
+update.rb,file
+update_firewall_rules.rb,file
+update_firewall_rules_spec.rb,file
+update_ipv6.rb,file
+update_ipv6_spec.rb,file
+update_load_balancer_node.rb,file
+update_load_balancer_node_spec.rb,file
+update_spec.rb,file
+upgrade,file
+upgrade-nodepool.rb,file
+upgrade.erb,file
+upgrade.rb,file
+upgrade_kubernetes_node.rb,file
+upgrade_kubernetes_node_spec.rb,file
+upgrade_nodepool_spec.rb,file
+upgrade_postgres_resource.rb,file
+upgrade_postgres_resource_spec.rb,file
+upgrade_spec.rb,file
+usage_alert.rb,file
+usage_alert_spec.rb,file
+user-tabbar.erb,file
+user.erb,file
+user.rb,file
+util.rb,file
+util_spec.rb,file
+v1,dir
+validate,file
+validate_vat.rb,file
+validate_vat_spec.rb,file
+validation,dir
+validation.rb,file
+validation_spec.rb,file
+value_content.erb,file
+vendor,dir
+verify_account.erb,file
+verify_account_resend.erb,file
+verify_login_change.erb,file
+version.rb,file
+version.txt,file
+version_metal_nexus.rb,file
+version_metal_nexus_spec.rb,file
+versions.erb,file
+vhost_block_backend.rb,file
+vhost_block_backend_spec.rb,file
+victoria_metrics,dir
+victoria_metrics_resource.rb,file
+victoria_metrics_resource_nexus.rb,file
+victoria_metrics_resource_nexus_spec.rb,file
+victoria_metrics_resource_spec.rb,file
+victoria_metrics_server.rb,file
+victoria_metrics_server_nexus.rb,file
+victoria_metrics_server_nexus_spec.rb,file
+victoria_metrics_server_spec.rb,file
+victoria_metrics_setup.rb,file
+victoria_metrics_setup_spec.rb,file
+views,dir
+vm,dir
+vm eu-central-h1_test-vm -4 scp -r local-path :remote-path.txt,file
+vm eu-central-h1_test-vm -4 scp :remote-path local-path.txt,file
+vm eu-central-h1_test-vm -4 sftp.txt,file
+vm eu-central-h1_test-vm -4 ssh.txt,file
+vm eu-central-h1_test-vm -6 scp -r local-path :remote-path.txt,file
+vm eu-central-h1_test-vm -6 scp :remote-path local-path.txt,file
+vm eu-central-h1_test-vm -6 sftp -A.txt,file
+vm eu-central-h1_test-vm -6 ssh.txt,file
+vm eu-central-h1_test-vm -X sftp.txt,file
+vm eu-central-h1_test-vm -u foo scp -r local-path :remote-path.txt,file
+vm eu-central-h1_test-vm -u foo scp :remote-path local-path invalid.txt,file
+vm eu-central-h1_test-vm -u foo scp :remote-path local-path.txt,file
+vm eu-central-h1_test-vm -u foo sftp.txt,file
+vm eu-central-h1_test-vm -u foo ssh.txt,file
+vm eu-central-h1_test-vm destroy -f.txt,file
+vm eu-central-h1_test-vm destroy invalid.txt,file
+vm eu-central-h1_test-vm destroy.txt,file
+vm eu-central-h1_test-vm restart.txt,file
+vm eu-central-h1_test-vm scp -r :remote-path local-path.txt,file
+vm eu-central-h1_test-vm scp -r local-path :remote-path.txt,file
+vm eu-central-h1_test-vm scp :remote-path local-path.txt,file
+vm eu-central-h1_test-vm scp local-path :remote-path.txt,file
+vm eu-central-h1_test-vm sftp -A.txt,file
+vm eu-central-h1_test-vm sftp.txt,file
+"vm eu-central-h1_test-vm show -f firewalls -w description,location,path.txt",file
+"vm eu-central-h1_test-vm show -f firewalls -w firewall-rules -r id,cidr.txt",file
+vm eu-central-h1_test-vm show -f firewalls -w firewall-rules -r port-range.txt,file
+vm eu-central-h1_test-vm show -f firewalls -w firewall-rules.txt,file
+"vm eu-central-h1_test-vm show -f firewalls -w id,name.txt",file
+vm eu-central-h1_test-vm show -f firewalls.txt,file
+"vm eu-central-h1_test-vm show -f id,name,state,location,size,unix-user,storage-size-gib.txt",file
+vm eu-central-h1_test-vm show -f invalid.txt,file
+"vm eu-central-h1_test-vm show -f ip6,ip4-enabled,ip4,private-ipv4,private-ipv6,subnet.txt",file
+vm eu-central-h1_test-vm show.txt,file
+vm eu-central-h1_test-vm ssh -A -- cmd arg.txt,file
+vm eu-central-h1_test-vm ssh -A --.txt,file
+vm eu-central-h1_test-vm ssh cmd arg.txt,file
+vm eu-central-h1_test-vm ssh cmd.txt,file
+vm eu-central-h1_test-vm ssh.txt,file
+"vm eu-central-h1_test2-vm create  -s bad ""a a"".txt",file
+"vm eu-central-h1_test2-vm create ""# a"".txt",file
+"vm eu-central-h1_test2-vm create ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -6 ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -S 80 ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -S bad ""a a"".txt",file
+"vm eu-central-h1_test2-vm create -b bad ""a a"".txt",file
+"vm eu-central-h1_test2-vm create -b debian-12 ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -p psfzm9e26xky5m9ggetw4dpqe2 ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -s standard-4 ""ssh-rsa pk"".txt",file
+"vm eu-central-h1_test2-vm create -u foo ""ssh-rsa pk"".txt",file
+vm eu-central-h1_test2-vm create a.txt,file
+vm eu-central-h1_test2-vm create.txt,file
+vm eu-central-h1_vmdzyppz6j166jh5e9t2dwrfas show.txt,file
+vm list -N.txt,file
+vm list -f location.txt,file
+"vm list -f name,id,ip4,ip6.txt",file
+"vm list -l eu-central-h1 -N -f name,id.txt",file
+"vm list -l eu-central-h1 -f name,id.txt",file
+vm list -l eu-central-h1.txt,file
+"vm list -l eu-north-h1 -f name,id.txt",file
+vm list -l eu-north-h1.txt,file
+vm list invalid.txt,file
+vm list.txt,file
+vm vmdzyppz6j166jh5e9t0dwrfa show.txt,file
+vm vmdzyppz6j166jh5e9t0dwrfas show.txt,file
+vm vmdzyppz6j166jh5e9t2dwrfas show.txt,file
+vm vmdzyppz6j166jh5e9t2dwrfasa show.txt,file
+vm-stats,file
+vm.rb,file
+vm_aws.yml,file
+vm_by_ipv4.erb,file
+vm_gcp.yml,file
+vm_gcp_resource.rb,file
+vm_gcp_resource_spec.rb,file
+vm_group.rb,file
+vm_group_spec.rb,file
+vm_host.rb,file
+vm_host_cpu.rb,file
+vm_host_inventory.rb,file
+vm_host_inventory_spec.rb,file
+vm_host_slice.rb,file
+vm_host_slice_nexus.rb,file
+vm_host_slice_nexus_spec.rb,file
+vm_host_slice_spec.rb,file
+vm_host_slices.rb,file
+vm_host_slices_spec.rb,file
+vm_host_spec.rb,file
+vm_host_usage.erb,file
+vm_init_script.rb,file
+vm_init_script_spec.rb,file
+vm_metal.yml,file
+vm_path.rb,file
+vm_path_spec.rb,file
+vm_pool.rb,file
+vm_pool_spec.rb,file
+vm_setup.rb,file
+vm_setup_spec.rb,file
+vm_sourced_machine_images.rb,file
+vm_sourced_machine_images_spec.rb,file
+vm_spec.rb,file
+vm_state_label.erb,file
+vm_stats.rb,file
+vm_stats_spec.rb,file
+vm_storage_volume.rb,file
+vm_storage_volume_spec.rb,file
+vms.erb,file
+vnet,dir
+vpc_nexus.rb,file
+vpc_nexus_spec.rb,file
+vpc_update_firewall_rules.rb,file
+vpc_update_firewall_rules_spec.rb,file
+wal_archive_backfill.rb,file
+wal_archive_backfill_spec.rb,file
+walg_config.rb,file
+walg_config_spec.rb,file
+web,dir
+web.rb,file
+webauthn_auth.erb,file
+webauthn_remove.erb,file
+webauthn_setup.erb,file
+webhook,dir
+webhook_github.rb,file
+with-formatter.svg,file
+with-nonce.svg,file
+workflows,dir
+zero-values.svg,file
+zizmor.yml,file

@@ -1,0 +1,374 @@
+name,type
+.github,dir
+.gitignore,file
+.must_build,file
+7za.exe,file
+AMD Radeon.txt,file
+ARK Survival Evolved (Asia) - Tencent.txt,file
+ARK Survival Evolved (US) - Tencent.txt,file
+AboutForm.Designer.cs,file
+AboutForm.cs,file
+AboutForm.resx,file
+Adobe Creative Cloud (No Apps).txt,file
+Age of Empires IV.json,file
+AioDNS.cs,file
+AioDNSConfig.cs,file
+Among Us - UU.txt,file
+App.config,file
+App.manifest,file
+Arguments.cs,file
+AssemblyInfo.cs,file
+Asset.cs,file
+Bandwidth.cs,file
+Based.cpp,file
+Based.h,file
+Battlefield V - Tencent.txt,file
+Battlenet.txt,file
+BindingForm.cs,file
+Black Desert (Taiwan) - Tencent.txt,file
+Black Desert (US) - Tencent.txt,file
+Bypass LAN and China.txt,file
+Bypass LAN and Vivox.txt,file
+Bypass LAN.txt,file
+COD18.json,file
+Configuration.cs,file
+Constants.cs,file
+Controllers,dir
+CopyLink.png,file
+Counter-Strike Global Offensive -UU-.txt,file
+Cube 2 Sauerbraten.txt,file
+CyberDuck.txt,file
+DLsite PlayDRM.txt,file
+DNSController.cs,file
+DNSHandler.cpp,file
+DNSHandler.h,file
+DOOM Eternal.txt,file
+Dead by Daylight - Tencent.txt,file
+DelayTestHelper.cs,file
+Destiny 2 - Tencent.txt,file
+Destiny 2 - UU.txt,file
+Discord (with Steam Apps).txt,file
+Discord.txt,file
+DnsUtils.cs,file
+EA Desktop Games (with EA Desktop).txt,file
+EA Desktop Games.txt,file
+EA Desktop.txt,file
+EVE Online - Tencent.txt,file
+EVE Online.txt,file
+Enums,dir
+Escape From Tarkov (HK) - UU.txt,file
+Escape From Tarkov.txt,file
+Etterna.txt,file
+EventHandler.cpp,file
+EventHandler.h,file
+Faceit AC.txt,file
+Fall Guys Ultimate Knockout - UU.txt,file
+Fastly.txt,file
+Firewall.cs,file
+Flags.cs,file
+FodyWeavers.xml,file
+Forms,dir
+Forza Horizon 4 - Tencent.txt,file
+Forza Motorsport 7 - Tencent.txt,file
+ForzaHorizon 4.txt,file
+Game,dir
+Geforce Experience.txt,file
+Git.txt,file
+GitHubRelease,dir
+GitHubRelease.cs,file
+GitHubUser.cs,file
+Global.cs,file
+Global.json,file
+GlobalBypassIPForm.Designer.cs,file
+GlobalBypassIPForm.cs,file
+Google Drive Backup and Sync.txt,file
+Grand Theft Auto V - Tencent.txt,file
+Grand Theft Auto V - UU.txt,file
+Grand Theft Auto V.txt,file
+Guard.cs,file
+Halo The Master Chief Collection.txt,file
+IController.cs,file
+IModeController.cs,file
+IPEventHandler.cpp,file
+IPEventHandler.h,file
+ISSUE_TEMPLATE,dir
+IServerController.cs,file
+IServerUtil.cs,file
+Insurgency Sandstorm - Tencent.txt,file
+Interfaces,dir
+Interops,dir
+JetBrains ToolBox.txt,file
+JsonConverter,dir
+KcpConfig.cs,file
+LICENSE,file
+League of Legends (Japan) (with Riot Games).txt,file
+League of Legends (Taiwan) (with Garena).txt,file
+League of Legends (US).txt,file
+LogForm.Designer.cs,file
+LogForm.cs,file
+LogForm.resx,file
+LogLevel.cs,file
+MainController.cs,file
+MainForm.Designer.cs,file
+MainForm.cs,file
+MainForm.resx,file
+Maple Story (Taiwan) - UU.txt,file
+MessageBoxX.cs,file
+MessageException.cs,file
+Minecraft (Java).txt,file
+Minecraft Bedrock (Win10 UWP).txt,file
+Mode.cs,file
+ModeConverterWithTypeDiscriminator.cs,file
+ModeEditorUtils.cs,file
+ModeFeature.cs,file
+ModeForms,dir
+ModeHelper.cs,file
+ModeService.cs,file
+ModeType.cs,file
+Models,dir
+Modes,dir
+Multi Theft Auto (MTA).txt,file
+NBA 2K21 - UU.txt,file
+NFController.cs,file
+NOTICE.txt,file
+NVIDIA Corporation.json,file
+NatTypeTestResult.cs,file
+NatTypeTester.txt,file
+NativeMethods.cs,file
+NativeMethods.txt,file
+NetRoute.cs,file
+Netch,dir
+Netch.csproj,file
+Netch.ico,file
+Netch.png,file
+Netch.sln,file
+NetchTrayIcon.png,file
+NetworkInterfaceUtils.cs,file
+Nexon Games.txt,file
+Nexon.txt,file
+NodeJS With NVM.txt,file
+NumberRange.cs,file
+OSU.txt,file
+Origin Games.txt,file
+Origin.txt,file
+Other,dir
+PVZ Battle for Neighborville.json,file
+PcapController.cs,file
+Phasmophobia - UU.txt,file
+PlayerUnknown's Battlegrounds - Tencent.txt,file
+PlayerUnknown's Battlegrounds - UU.txt,file
+PlayerUnknown's Battlegrounds Lite.txt,file
+PortHelper.cs,file
+ProcessForm.Designer.cs,file
+ProcessForm.cs,file
+ProcessForm.resx,file
+ProcessMode,dir
+ProcessMode.cs,file
+Profile.cs,file
+Program.cs,file
+Properties,dir
+RAGE Multiplayer.txt,file
+README.md,file
+RayCity (Thailand) (Dark RayCity).txt,file
+RayCity (Thailand) (Rebirth RayCity).txt,file
+Redirector,dir
+Redirector.cpp,file
+Redirector.cs,file
+Redirector.vcxproj,file
+Redirector.vcxproj.filters,file
+RedirectorConfig.cs,file
+RedirectorTester,dir
+RedirectorTester.cs,file
+RedirectorTester.csproj,file
+Release.cs,file
+Resources,dir
+Resources.Designer.cs,file
+Resources.resx,file
+Rockstar Games Launcher.txt,file
+RouteForm.Designer.cs,file
+RouteForm.cs,file
+RouteForm.resx,file
+RouteHelper,dir
+RouteHelper.cpp,file
+RouteHelper.cs,file
+RouteHelper.vcxproj,file
+RouteHelper.vcxproj.filters,file
+RouteUtils.cs,file
+SSDJObject.cs,file
+SSDServerJObject.cs,file
+SSH,dir
+SSHForm.cs,file
+SSHServer.cs,file
+SSHUtil.cs,file
+San Andreas Multiplayer (SA-MP).txt,file
+Scum - Tencent.txt,file
+Scum - UU.txt,file
+Sea of Thieves - Tencent.txt,file
+Sea of Thieves - UU.txt,file
+Server.cs,file
+ServerConverterWithTypeDiscriminator.cs,file
+ServerForm.cs,file
+ServerHelper.cs,file
+Servers,dir
+Services,dir
+Setting.cs,file
+SettingForm.Designer.cs,file
+SettingForm.cs,file
+SettingForm.resx,file
+Settings,dir
+Shadowsocks,dir
+ShadowsocksConfig.cs,file
+ShadowsocksController.cs,file
+ShadowsocksForm.cs,file
+ShadowsocksR,dir
+ShadowsocksRController.cs,file
+ShadowsocksRForm.cs,file
+ShadowsocksRServer.cs,file
+ShadowsocksRUtil.cs,file
+ShadowsocksServer.cs,file
+ShadowsocksUtil.cs,file
+ShareLink.cs,file
+ShareMode,dir
+ShareMode.cs,file
+ShareModels,dir
+Socks5,dir
+Socks5Controller.cs,file
+Socks5Form.cs,file
+Socks5Server.cs,file
+Socks5ServerTestUtils.cs,file
+Socks5Util.cs,file
+SocksHelper.cpp,file
+SocksHelper.h,file
+State.cs,file
+StatusText.cs,file
+Steam Games (with Steam).txt,file
+Steam Games.txt,file
+Steam.txt,file
+Storage,dir
+StringExtension.cs,file
+Subscription.cs,file
+SubscriptionForm.Designer.cs,file
+SubscriptionForm.cs,file
+SubscriptionForm.resx,file
+SubscriptionUtil.cs,file
+SuffixVersion.cs,file
+SyncGlobalCheckBox.cs,file
+SystemInfo.cs,file
+TCPHandler.cpp,file
+TCPHandler.h,file
+TUNConfig.cs,file
+TUNController.cs,file
+TUNTAP,dir
+TagItem.cs,file
+Tests,dir
+Tests.csproj,file
+Tom Clancy's Rainbow Six Siege - UU.txt,file
+Tom Clancy's Rainbow Six Siege.txt,file
+Trojan,dir
+TrojanConfig.cs,file
+TrojanController.cs,file
+TrojanForm.cs,file
+TrojanServer.cs,file
+TrojanUtil.cs,file
+TunMode,dir
+TunMode.cs,file
+Ubisoft Connect.txt,file
+Unity Asset Store for Unity.txt,file
+Unity Hub.txt,file
+UpdateChecker.cs,file
+Updater.cs,file
+Utils,dir
+Utils.cpp,file
+Utils.cs,file
+Utils.h,file
+V2ray,dir
+V2rayConfig.cs,file
+V2rayConfigUtils.cs,file
+V2rayController.cs,file
+V2rayNJObject.cs,file
+V2rayUtils.cs,file
+VLESS,dir
+VLESSForm.cs,file
+VLESSServer.cs,file
+VLESSUtil.cs,file
+VMess,dir
+VMessForm.cs,file
+VMessServer.cs,file
+VMessUtil.cs,file
+VMware.txt,file
+VRChat.txt,file
+Valorant.txt,file
+VersionUtil.cs,file
+Visual Studio Code.txt,file
+WaitGroup.cpp,file
+WaitGroup.h,file
+Warframe.txt,file
+WebUtil.cs,file
+WireGuard,dir
+WireGuardForm.cs,file
+WireGuardServer.cs,file
+WireGuardUtil.cs,file
+World of Warships.txt,file
+Xftp 6.txt,file
+Xshell 6.txt,file
+_Archive,dir
+aiodns,dir
+aiodns.conf,file
+bug_report.yml,file
+bug_report.zh-CN.yml,file
+build.ps1,file
+build.yml,file
+chnip,dir
+chnsite,dir
+clean.ps1,file
+cloak,dir
+common.props,file
+config.yml,file
+delete.png,file
+dependabot.yml,file
+deps.ps1,file
+dnsproxy,dir
+edit.png,file
+fa-IR,file
+feature_request.yml,file
+feature_request.zh-CN.yml,file
+geoip,dir
+geosite,dir
+global.json,file
+go.mod,file
+go.sum,file
+i18N.cs,file
+i18n,dir
+include,dir
+ja-JP,file
+jetbrains.svg,file
+lib,dir
+main.go,file
+mode,dir
+nfapi.dll,file
+nfapi.h,file
+nfapi.lib,file
+nfdriver.h,file
+nfdriver.sys,file
+nfevents.h,file
+pcap2socks,dir
+pcap2socks-Tencent.txt,file
+pcap2socks-UU.txt,file
+qBittorrent.txt,file
+release.yml,file
+runtimeconfig.template.json,file
+sha256.ps1,file
+speed.png,file
+stale.yml,file
+static,dir
+stun.txt,file
+tun2socks,dir
+tun2socks.bin,file
+tun2socks.cs,file
+v2ray-core,dir
+v2ray-plugin,dir
+v2ray-sn,dir
+wintun,dir
+workflows,dir
+zh-CN,file
+zh-TW,file

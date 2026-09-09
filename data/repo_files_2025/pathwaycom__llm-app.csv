@@ -1,0 +1,85 @@
+name,type
+.dockerignore,file
+.env.example,file
+.github,dir
+.gitignore,file
+.streamlit,dir
+.vscode,dir
+20230203_alphabet_10K.pdf,file
+2023q2-alphabet-earnings-release.pdf,file
+Always up-to-date Vector Data Indexing pipeline _ Pathway.pdf,file
+Build an LLM App _ Pathway.pdf,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Dockerfile,file
+FY22_Q4_Consolidated_Financial_Statements.pdf,file
+FY23_Q1_Consolidated_Financial_Statements.pdf,file
+FY23_Q2_Consolidated_Financial_Statements.pdf,file
+FY23_Q3_Consolidated_Financial_Statements.pdf,file
+Google_Drive_logo.png,file
+ISSUE_TEMPLATE,dir
+IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.pdf,file
+LICENSE,file
+Launching Pathway + LlamaIndex.pdf,file
+Meta-03-31-2023-Exhibit-99-1-FINAL-v2.pdf,file
+README.md,file
+Realtime Classification with Nearest Neighbors (1_2) _ Pathway.pdf,file
+Realtime Twitter Analysis App _ Pathway.pdf,file
+Unstructured_to_SQL_diagram.png,file
+Use LLMs to Ingest Raw Text into DB _ Pathway.pdf,file
+__init__.py,file
+adaptive-rag,dir
+ai-slides-diagram.svg,file
+app.py,file
+app.yaml,file
+arxiv 2307.13116.pdf,file
+assets,dir
+aws-fargate-logo.svg,file
+azure-logo.svg,file
+banner.png,file
+bug_report.yml,file
+config.toml,file
+config.yml,file
+data,dir
+demo-document-indexing,dir
+demo-question-answering,dir
+docker-compose.yml,file
+drive_alert,dir
+drive_alert_demo.gif,file
+examples,dir
+favicon.ico,file
+files-for-indexing,dir
+gcp-logo.svg,file
+goog-exhibit-99-1-q1-2023-19.pdf,file
+gpt4o.gif,file
+gpt4o_with_pathway_comparison.gif,file
+gpt_4o_multimodal_rag,dir
+init-db.sql,file
+nginx,dir
+nginx.conf,file
+pathway_slides_ai_search,dir
+pipelines,dir
+postgres,dir
+private-rag,dir
+private_rag.png,file
+pull_request_template.md,file
+pw.io.http _ Pathway.pdf,file
+pyproject.toml,file
+python-lint.yml,file
+quarterly_earnings,dir
+render.png,file
+requirements.txt,file
+server.py,file
+settings.json,file
+setup.cfg,file
+sharepoint.png,file
+slides_ai_search,dir
+static,dir
+streamlit_chat.png,file
+ui,dir
+ui.py,file
+unstructured_to_sql_demo.gif,file
+unstructured_to_sql_on_the_fly,dir
+us-state-of-gen-ai-report.pdf,file
+video-th.png,file
+workflows,dir

@@ -1,0 +1,11 @@
+name,type
+.gitattributes,file
+.github,dir
+CONTRIBUTING.md,file
+LICENSE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+assets,dir
+lint.yaml,file
+logo.svg,file
+workflows,dir

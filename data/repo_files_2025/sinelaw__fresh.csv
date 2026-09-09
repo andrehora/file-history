@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+Cargo.toml,file
+README.md,file
+ci.yml,file
+dependabot.yml,file
+main.rs,file
+src,dir
+workflows,dir

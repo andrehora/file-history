@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+README.md,file
+asdf,dir
+asdf,file
+asdf.sh,file
+ballad-of-asdf.md,file
+bin,dir
+creating-package-sources.md,file
+docs,dir
+docs.sh,file
+lib,dir
+utils.sh,file

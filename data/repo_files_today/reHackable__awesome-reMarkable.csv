@@ -1,0 +1,8 @@
+name,type
+.github,dir
+Awesome.png,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+ci.yml,file
+workflows,dir

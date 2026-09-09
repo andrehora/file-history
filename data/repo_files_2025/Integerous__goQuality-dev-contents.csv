@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitignore,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+posts.yml,file
+question.yml,file
+remove-content.yml,file
+slide.yml,file
+video.yml,file

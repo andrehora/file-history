@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.gitignore,file
+.npmignore,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+keyframes.ts,file
+model.ts,file
+package-lock.json,file
+package.json,file
+render.ts,file
+rollup.config.js,file
+rough-notation.ts,file
+src,dir
+tsconfig.json,file
+tslint.json,file

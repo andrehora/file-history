@@ -1,0 +1,16 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.npmrc,file
+.travis.yml,file
+cli.js,file
+fixture.js,file
+funding.yml,file
+interactive.js,file
+license,file
+package.json,file
+readme.md,file
+screenshot.svg,file
+test.js,file

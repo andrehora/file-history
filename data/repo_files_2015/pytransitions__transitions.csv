@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE,file
+MANIFEST,file
+README.md,file
+__init__.py,file
+core.py,file
+setup.cfg,file
+setup.py,file
+test_transitions.py,file
+tests,dir
+transitions,dir
+version.py,file

@@ -1,0 +1,8 @@
+name,type
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+docs,dir
+index.html,file
+script.js,file

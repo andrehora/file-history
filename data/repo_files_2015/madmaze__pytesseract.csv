@@ -1,0 +1,9 @@
+name,type
+MANIFEST.in,file
+README.md,file
+__init__.py,file
+pytesseract.py,file
+setup.py,file
+src,dir
+test-european.jpg,file
+test.png,file

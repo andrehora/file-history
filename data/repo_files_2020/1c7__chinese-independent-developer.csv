@@ -1,0 +1,7 @@
+name,type
+.github,dir
+README-Programmer-Edition.md,file
+README-en.md,file
+README.md,file
+_config.yml,file
+issue_template.md,file

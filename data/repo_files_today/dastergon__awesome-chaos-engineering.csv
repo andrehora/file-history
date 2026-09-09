@@ -1,0 +1,7 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+lychee.yml,file
+workflows,dir

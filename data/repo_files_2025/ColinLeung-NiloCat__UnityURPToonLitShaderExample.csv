@@ -1,0 +1,9 @@
+name,type
+LICENSE,file
+NiloInvLerpRemap.hlsl,file
+NiloOutlineUtil.hlsl,file
+NiloZOffset.hlsl,file
+README.md,file
+SimpleURPToonLitOutlineExample.shader,file
+SimpleURPToonLitOutlineExample_LightingEquation.hlsl,file
+SimpleURPToonLitOutlineExample_Shared.hlsl,file

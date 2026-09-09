@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+LICENCE,file
+README.md,file
+autoload,dir
+autoload.go,file
+cmd,dir
+cmd.go,file
+equals.env,file
+exported.env,file
+fixtures,dir
+godotenv,dir
+godotenv.go,file
+godotenv_test.go,file
+plain.env,file
+quoted.env,file
+wercker.yml,file

@@ -1,0 +1,15 @@
+name,type
+01-telemetry-and-privacy.md,file
+02-hidden-features-and-codenames.md,file
+03-undercover-mode.md,file
+04-remote-control-and-killswitches.md,file
+05-future-roadmap.md,file
+README.md,file
+README_CN.md,file
+README_JA.md,file
+README_KR.md,file
+docs,dir
+en,dir
+ja,dir
+ko,dir
+zh,dir

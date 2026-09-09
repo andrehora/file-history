@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+__init__.py,file
+setup.py,file
+undetected_chromedriver,dir

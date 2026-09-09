@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+README.md,file
+geek-time-ad.jpg,file
+image,dir
+preview.jpg,file
+sdk-manager-proxy-settings.png,file
+static,dir

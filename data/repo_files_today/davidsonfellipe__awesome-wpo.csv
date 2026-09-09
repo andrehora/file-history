@@ -1,0 +1,16 @@
+name,type
+.circleci,dir
+.github,dir
+ARTICLES.md,file
+CODE_OF_CONDUCT.md,file
+COURSES.md,file
+INTERVIEWS.md,file
+LICENSE,file
+MEETUPS.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+TALKS.md,file
+config.yml,file
+contributing.md,file
+package.json,file
+pnpm-lock.yaml,file

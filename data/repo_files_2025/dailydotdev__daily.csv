@@ -1,0 +1,21 @@
+name,type
+---bug-report.yml,file
+---feature-request.yaml,file
+.github,dir
+.gitignore,file
+App Icon - White.png,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+Logo - Black (1).jpg,file
+README.md,file
+assets,dir
+close-inactive-tickets.yml,file
+cover.png,file
+daily in development mode.png,file
+docker-compose-up.gif,file
+github repo banner with browser.png,file
+github repo star graphic.png,file
+github-repo-logo.gif,file
+logo.png,file
+setting up,dir
+workflows,dir

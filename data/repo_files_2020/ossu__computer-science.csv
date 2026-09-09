@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+FAQ.md,file
+LICENSE,file
+PROJECTS.md,file
+README.md,file
+REQUIREMENTS.md,file
+courses.md,file
+curriculum_guidelines.md,file
+extras,dir
+readings.md,file

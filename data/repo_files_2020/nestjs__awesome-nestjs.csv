@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+.yo-rc.json,file
+README.md,file
+code-of-conduct.md,file
+contributing.md,file
+package.json,file
+yarn.lock,file

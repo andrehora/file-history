@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+architect.js,file
+dist,dir
+gulpfile.js,file
+layer.js,file
+network.js,file
+neuron.js,file
+package.json,file
+src,dir
+synaptic.js,file
+test,dir
+trainer.js,file

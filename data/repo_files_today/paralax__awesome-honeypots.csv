@@ -1,0 +1,7 @@
+name,type
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+README_CN.md,file
+awesome-check.py,file

@@ -1,0 +1,9 @@
+name,type
+LICENSE,file
+README.md,file
+action.html,file
+alert.html,file
+billing.html,file
+inlined,dir
+styles.css,file
+templates,dir

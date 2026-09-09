@@ -1,0 +1,11 @@
+name,type
+.github,dir
+Dockerfile,file
+LICENSE,file
+README.md,file
+action-test,dir
+action.yml,file
+entrypoint.sh,file
+structured.yaml,file
+test-services.yml,file
+workflows,dir

@@ -1,0 +1,11 @@
+name,type
+.circleci,dir
+.gitattributes,file
+.github,dir
+.gitignore,file
+README.adoc,file
+codespell.txt,file
+config.yml,file
+dependabot.yml,file
+spell_checking.yml,file
+workflows,dir

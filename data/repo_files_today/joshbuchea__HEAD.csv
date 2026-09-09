@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.prettierignore,file
+DEPRECATED.md,file
+FUNDING.yml,file
+README.md,file
+sync-readme.yml,file
+workflows,dir

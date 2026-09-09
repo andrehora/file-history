@@ -1,0 +1,437 @@
+name,type
+.breakpoints,file
+.cache,dir
+.classpath,file
+.gitignore,file
+.idea,dir
+.project,file
+.replit,file
+.settings,dir
+.upm,dir
+01-flow-of-program.md,file
+01-git,dir
+02-first-java.md,file
+02-intro to programming,dir
+03-conditionals-loops.md,file
+03-flow of program,dir
+04-functions.md,file
+04-introduction to java,dir
+05-arrays.md,file
+05-first-java-program,dir
+06-conditions-loops,dir
+06-searching.md,file
+07-methods,dir
+07-sorting.md,file
+08-arrays,dir
+08-strings.md,file
+09-linear search,dir
+09-patterns.md,file
+10-binary search,dir
+10-recursion.md,file
+11-bitwise.md,file
+11-sorting,dir
+12-math.md,file
+12-strings,dir
+13-complexities.md,file
+13-patterns,dir
+14-oop.md,file
+14-recursion,dir
+15-complexity,dir
+15-linkedlist.md,file
+16-math,dir
+16-stack-queue.md,file
+17-oop,dir
+17-trees.md,file
+18-heaps.md,file
+18-linkedlist,dir
+19-stacks-n-queues,dir
+1D_arrays.png,file
+20-trees,dir
+21-StringBuffer,dir
+22-large numbers,dir
+23-file handling,dir
+24-heaps,dir
+25-hashmaps,dir
+26-advance-sorting,dir
+27-huffman-coding,dir
+28-sqrt-decomposition,dir
+2D_arrays.png,file
+A.java,file
+AVL,dir
+AVL.java,file
+Abstraction Vs Encapsulation.png,file
+Advance questions,dir
+Advance questions 2.pdf,file
+Advance questions 3.pdf,file
+Advance questions.pdf,file
+Akra bazzi.pdf,file
+AllPaths.java,file
+ArrayListExample.java,file
+Arrays.pdf,file
+Ascii.java,file
+B.java,file
+BFS.java,file
+BS.java,file
+BST.java,file
+Backtracking - Questions.pdf,file
+Backtracking.pdf,file
+Basic.java,file
+Basics.java,file
+Binary Search - Questions.pdf,file
+Binary Search.pdf,file
+BinarySearch.java,file
+BinarySearchSQRT.java,file
+BinaryTree.java,file
+Bitwise Operator .pdf,file
+Bitwise.pdf,file
+Box.java,file
+BoxColor.java,file
+BoxPrice.java,file
+BoxWeight.java,file
+Brake.java,file
+Bubble Sort.pdf,file
+CDPlayer.java,file
+CLL.java,file
+Calculator.java,file
+Car.java,file
+CaseCheck.java,file
+Ceiling.java,file
+ChangeValue.java,file
+Circle.java,file
+CircularQueue.java,file
+ColNoFixed.java,file
+Comparison.java,file
+Complexity Analysis.pdf,file
+Conditionals-Loops.pdf,file
+Conditionals.java,file
+Conditionals_And_Loops.pdf,file
+CountNums.java,file
+CountSort,dir
+CountSort.pdf,file
+CountZeros.java,file
+CustomArrayList.java,file
+CustomGenArrayList.java,file
+CustomQueue.java,file
+CustomStack.java,file
+Cyclic Sort.pdf,file
+CyclicSort.java,file
+DFS.java,file
+DLL.java,file
+Daughter.java,file
+Demo.java,file
+Dice.java,file
+DigitProduct.java,file
+DigitSum.java,file
+Divide and conquer .pdf,file
+DoubleLinkedList.java,file
+DynamicQueue.java,file
+DynamicStack.java,file
+ElecticEngine.java,file
+Engine.java,file
+EvenDigits.java,file
+Fact.java,file
+Factorial.java,file
+Factors.java,file
+Fibo.java,file
+File handling.pdf,file
+Find.java,file
+FindAllDuplicates.java,file
+FindAllMissing.java,file
+FindDuplicate.java,file
+FindMin.java,file
+FindUnique.java,file
+FirstAndLastPosition.java,file
+First_Java_Program_Notes.pdf,file
+FlipImage.java,file
+Floor.java,file
+FlowOfProgram.png,file
+Flow_Of_Program_Notes.pdf,file
+GCD_LCM.java,file
+GenericInterface.java,file
+Git GitHub Notes.pdf.pdf,file
+Git__GitHub_102_modified.pdf,file
+Greeting.java,file
+Handwritten Notes on Insertion Sort.pdf.pdf,file
+Handwritten notes Flow of program.pdf,file
+Handwritten notes Introduction to Java.pdf,file
+Handwritten notes Introduction to Programming Languages.pdf,file
+Handwritten notes Lecture 5.pdf,file
+Handwritten notes on Binary Search.pdf,file
+Handwritten notes on Linear search.pdf,file
+Handwritten notes on Selection sort.pdf.pdf,file
+Handwritten notes on arrays and arraylist.pdf,file
+Handwritten notes on bubble sort.pdf.pdf,file
+Handwritten notes on functions and methods.pdf,file
+Handwritten notes switch cases.pdf,file
+HashMapFinal.java,file
+Hashmaps introduction,dir
+Hashmaps introduction.pdf,file
+Heap.java,file
+Heaps - 1.pdf,file
+HuffmanCoder.java,file
+HuffmanEncoding.pdf,file
+Human.java,file
+InBuiltExamples.java,file
+InfiniteArray.java,file
+InnerClasses.java,file
+Input.java,file
+Inputs.java,file
+Insertion Sort.pdf,file
+InterviewQuestions.java,file
+Intro_to_Programming_Notes.pdf,file
+Introduction to RECURSION in detail hand written notes..pdf,file
+Introduction to programming.pdf,file
+Introduction_to_Java_Notes.pdf,file
+Java Intro.png,file
+KarpRabin,dir
+KarpRabin.java,file
+KarpRabin.pdf,file
+KthSmallest.java,file
+KthSmallest2.java,file
+LL.java,file
+LambdaFunctions.java,file
+LargeNumbers.pdf,file
+Largest.java,file
+LargestAreaHistogram.java,file
+Linear Search.pdf,file
+LinkedList - Questions.pdf,file
+LinkedList.pdf,file
+Loops.java,file
+MagicNumber.java,file
+Main.java,file
+Maths.pdf,file
+Max.java,file
+MaxWealth.java,file
+Maze.java,file
+Media.java,file
+Merge Sort.pdf,file
+MergeSort.java,file
+Message.java,file
+Methods.java,file
+Methods.pdf,file
+MissingNumber.java,file
+MissingPositive.java,file
+Mountain.java,file
+MultiAL.java,file
+MultiDimension.java,file
+MyException.java,file
+NKnights.java,file
+NQueens.java,file
+NestedSwitch.java,file
+NewtonSQRT.java,file
+NiceCar.java,file
+NoOfDigits.java,file
+NotSubClass.java,file
+Nto1.java,file
+Numbers.java,file
+NumbersExample.java,file
+NumbersExampleRecursion.java,file
+OOP - 2.pdf,file
+OOP - 3.pdf,file
+OOP - 4.pdf,file
+OOP - 6.pdf,file
+OOP - 7.pdf,file
+OOP - 8.pdf,file
+OOP-1.pdf,file
+ObjectDemo.java,file
+ObjectPrint.java,file
+OddEven.java,file
+Operators.java,file
+OrderAgnosticBS.java,file
+Output.java,file
+Overloading.java,file
+Palin.java,file
+Palindrome.java,file
+Parent.java,file
+Parent2.java,file
+PassingExample.java,file
+PassinginFunctions.java,file
+PathSum.java,file
+Patterns.pdf,file
+Performance.java,file
+Permutations.java,file
+PhonePad.java,file
+PowOfTwo.java,file
+Power.java,file
+PowerEngine.java,file
+PreIn.java,file
+PrettyPrinting.java,file
+Prime.java,file
+Primitives.java,file
+Questions,dir
+Questions.java,file
+Questions.pdf,file
+QueueMain.java,file
+QueueUsingStack.java,file
+QueueUsingStackRemove.java,file
+Quick Sort.pdf,file
+QuickSort.java,file
+RBS.java,file
+README.md,file
+Radix sort.pdf,file
+RadixSort,dir
+RandomString.java,file
+RangeXOR.java,file
+Recursion - 1.pdf,file
+Recursion - Arrays.pdf,file
+Recursion - Easy.pdf,file
+Recursion - Numbers & Dice.pdf,file
+Recursion - Patterns.pdf,file
+Recursion - Permutations.pdf,file
+Recursion - Subsets & Strings.pdf,file
+Reverse.java,file
+RotationCount.java,file
+RowColMatrix.java,file
+SB.java,file
+SD.java,file
+SYLLABUS.md,file
+Scope.java,file
+SearchIn2DArray.java,file
+SearchInMountain.java,file
+SearchInRange.java,file
+SearchInStrings.java,file
+Segment trees,dir
+SegmentTree.java,file
+Seive.java,file
+Selection Sort.pdf,file
+SetBits.java,file
+SetMismatch.java,file
+Shadowing.java,file
+Shapes.java,file
+Singleton.java,file
+SmallestLetter.java,file
+Son.java,file
+Sorted.java,file
+SortedMatrix.java,file
+SplitArray.java,file
+Square.java,file
+StackException.java,file
+StackMain.java,file
+Stacks and Queues.pdf,file
+StaticBlock.java,file
+Steps.java,file
+Stream.java,file
+StringBuffer.pdf,file
+StringExample.java,file
+Strings in detail .pdf,file
+Strings.pdf,file
+Student.java,file
+SubClass.java,file
+SubSeq.java,file
+SubSet.java,file
+SudokuSolver.java,file
+Sum.java,file
+Swap.java,file
+Temperature.java,file
+Time and space notes,dir
+Tree questions.pdf,file
+Trees - 1.pdf,file
+Trees - 2 (AVL).pdf,file
+Trees - 3 (Segment).pdf,file
+Triangle.java,file
+TwoNodeSwap.java,file
+TwoStacks.java,file
+TwoSum.java,file
+TypeCasting.java,file
+ValidParenMinAdd.java,file
+ValidParenthesis.java,file
+VarArgs.java,file
+VerticalTraversal.java,file
+WildcardExample.java,file
+WordLadder.java,file
+WrapperExample.java,file
+__replit_disk_meta.json,file
+a,dir
+abstract.txt,file
+abstractDemo,dir
+access,dir
+access_control.txt,file
+arraylist.png,file
+arrays,dir
+assignments,dir
+b,dir
+backtracking,dir
+basics_of_time_complexity.png,file
+big omega.pdf,file
+big-oh notation .pdf,file
+big_O.png,file
+bitwise,dir
+classes.txt,file
+cloning,dir
+code,dir
+code.iml,file
+collections,dir
+com,dir
+comparing,dir
+constructors_this_finalize.txt,file
+cyclic_sort_notes.pdf,file
+description.html,file
+easy,dir
+encodings.xml,file
+enumExamples,dir
+env.json,file
+exceptionHandling,dir
+extendDemo,dir
+extendDemo2,dir
+first-idea-program,dir
+first-idea-program.iml,file
+first-tutorial,dir
+function calls internal working.png,file
+generics,dir
+git-cheat-sheet-education.pdf,file
+heaps-1,dir
+inheritance,dir
+inheritance.txt,file
+interface.txt,file
+interfaces,dir
+intro,dir
+intro-to-programming.png,file
+introduction,dir
+java-access-modifiers-table-1.png,file
+kunal,dir
+lectures,dir
+linear recurrence .pdf,file
+literals.txt,file
+little oh.pdf,file
+little omega.pdf,file
+maths,dir
+misc.xml,file
+modules.stamp,file
+modules.xml,file
+nested,dir
+new-file.txt,file
+nix,dir
+note.txt,file
+notes,dir
+notes.pdf,file
+notes.txt,file
+org.eclipse.jdt.apt.core.prefs,file
+org.eclipse.jdt.core.prefs,file
+org.eclipse.m2e.core.prefs,file
+overloading.txt,file
+overriding.txt,file
+packages,dir
+packages.txt,file
+patterns,dir
+placeholders_list.txt,file
+polymorphism,dir
+project-template.xml,file
+properties,dir
+questions,dir
+recursive algorithm .pdf,file
+replit,dir
+singleton,dir
+sorting,dir
+space complexity .pdf,file
+src,dir
+static.txt,file
+staticExample,dir
+store.json,file
+strings,dir
+switch,dir
+switch.iml,file
+switch.png,file
+time complexity .pdf,file
+type_conversion&casting.txt,file
+uiDesigner.xml,file
+vcs.xml,file

@@ -1,0 +1,6 @@
+name,type
+.dockerignore,file
+Dockerfile,file
+Procfile,file
+README.md,file
+nginx.tmpl,file

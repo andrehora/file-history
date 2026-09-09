@@ -1,0 +1,12 @@
+name,type
+.github,dir
+CHANGELOG.md,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+README.md,file
+SOURCE_CODE.md,file
+bug_report.md,file
+feature_request.md,file
+question.md,file

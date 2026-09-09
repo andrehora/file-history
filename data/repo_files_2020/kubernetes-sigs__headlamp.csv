@@ -1,0 +1,7 @@
+name,type
+.golangci.yml,file
+README.md,file
+backend,dir
+go.mod,file
+go.sum,file
+server.go,file

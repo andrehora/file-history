@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+Gulpfile.js,file
+LICENSE.md,file
+README.md,file
+bower.json,file
+dist,dir
+package.json,file
+scrollReveal.js,file
+scrollReveal.min.js,file

@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.npmignore,file
+22.gif,file
+README.md,file
+bin,dir
+example,dir
+gifify,file
+index.js,file
+movie.ass,file
+movie.mp4,file
+package.json,file
+screencast.gif,file

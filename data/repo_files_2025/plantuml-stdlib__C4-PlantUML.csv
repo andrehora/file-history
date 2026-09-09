@@ -1,0 +1,107 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+.scripts,dir
+.vscode,dir
+C4.code-snippets,file
+C4.puml,file
+C4CoreDiagrams.md,file
+C4_Component Diagram Sample - bigbankplc.puml,file
+C4_Component.puml,file
+C4_Container Diagram Sample - bigbankplc-icons.puml,file
+C4_Container Diagram Sample - bigbankplc-styles.puml,file
+C4_Container Diagram Sample - bigbankplc.puml,file
+C4_Container Diagram Sample - message bus.puml,file
+C4_Container Diagram Sample - techtribesjs.puml,file
+C4_Container.puml,file
+C4_Context Diagram Sample - bigbankplc-landscape.puml,file
+C4_Context Diagram Sample - bigbankplc.puml,file
+C4_Context Diagram Sample - enterprise.puml,file
+C4_Context.puml,file
+C4_Deployment Diagram Sample - bigbankplc-details.puml,file
+C4_Deployment Diagram Sample - bigbankplc.puml,file
+C4_Deployment.puml,file
+C4_Dynamic Diagram Sample - bigbankplc.puml,file
+C4_Dynamic Diagram Sample - message bus - old format.puml,file
+C4_Dynamic Diagram Sample - message bus.puml,file
+C4_Dynamic.puml,file
+C4_Sequence Diagram Sample - bigbankplc.puml,file
+C4_Sequence Diagram Sample - complex.puml,file
+C4_Sequence.puml,file
+HowToCreateANewRelease.md,file
+LICENSE,file
+LayoutOptions.md,file
+README.md,file
+TestAllAddTags.puml,file
+TestAllElementsWithLegend.puml,file
+TestAllPlantUmlElements.puml,file
+TestBoundaryTagSupport.puml,file
+TestEmptyLabel.puml,file
+TestFloatingLegend.puml,file
+TestLabelsWithLineBreak.puml,file
+TestLayDirections.puml,file
+TestLayoutLandscape.puml,file
+TestLayoutLandscapeDynamic.puml,file
+TestLegend.puml,file
+TestLegendDetailsNone.puml,file
+TestLegendDetailsNormal.puml,file
+TestLegendDetailsSmall.puml,file
+TestLegendHidden.puml,file
+TestLegendSprite.puml,file
+TestLegendTitle.puml,file
+TestPersonOutline.puml,file
+TestPersonPortrait.puml,file
+TestPredefinedSprites.puml,file
+TestProperty.puml,file
+TestRelations.puml,file
+TestRelationsDynamic.puml,file
+TestRelationsTags.puml,file
+TestSequenceSkinparams.puml,file
+TestSketchStyle.puml,file
+TestSystemPersonSupportType.puml,file
+TestTagSupportsSprite.puml,file
+TestTagSupportsSpriteTechn.puml,file
+TestThemeC4_All.puml,file
+TestThemeC4_FirstTest.puml,file
+TestThemeC4_united.puml,file
+TestThemeSupport.puml,file
+TestThemeTemplate.puml,file
+TestVersion.puml,file
+Themes.md,file
+c4_live_template.zip,file
+images,dir
+intellij,dir
+intellij_c4plantum_live_template1.gif,file
+intellij_c4plantum_live_template2.gif,file
+percy,dir
+plantuml_stdlib_info.txt,file
+puml-theme-C4Language_chinese.puml,file
+puml-theme-C4Language_danish.puml,file
+puml-theme-C4Language_dutch.puml,file
+puml-theme-C4Language_english.puml,file
+puml-theme-C4Language_french.puml,file
+puml-theme-C4Language_german.puml,file
+puml-theme-C4Language_italian.puml,file
+puml-theme-C4Language_japanese.puml,file
+puml-theme-C4Language_korean.puml,file
+puml-theme-C4Language_portuguese.puml,file
+puml-theme-C4Language_russian.puml,file
+puml-theme-C4Language_spanish.puml,file
+puml-theme-C4Language_ukrainian.puml,file
+puml-theme-C4_FirstTest.puml,file
+puml-theme-C4_blue.puml,file
+puml-theme-C4_brown.puml,file
+puml-theme-C4_green.puml,file
+puml-theme-C4_sandstone.puml,file
+puml-theme-C4_superhero.puml,file
+puml-theme-C4_united.puml,file
+puml-theme-C4_violet.puml,file
+readme_release_header.txt,file
+run-percy-tests.yml,file
+samples,dir
+stale.yml,file
+themes,dir
+transform_files.py,file
+vscode_c4plantuml_snippets.gif,file
+workflows,dir

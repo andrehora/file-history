@@ -1,0 +1,111 @@
+name,type
+Awesome Oscillator backtest.py,file
+Bollinger Bands Pattern Recognition backtest.py,file
+Dual Thrust backtest.py,file
+Heikin-Ashi backtest.py,file
+LICENSE,file
+London Breakout backtest.py,file
+MACD Oscillator backtest.py,file
+Monte Carlo backtest.py,file
+Monte Carlo project,dir
+Oil Money CAD.py,file
+Oil Money NOK.py,file
+Oil Money RUB.py,file
+Oil Money Trading backtest.py,file
+Oil Money project,dir
+Options Straddle backtest.py,file
+Ore Money project,dir
+Pair trading backtest.py,file
+Parabolic SAR backtest.py,file
+README.md,file
+RSI Pattern Recognition backtest.py,file
+awesome asset.png,file
+awesome ma.png,file
+awesome oscillator.png,file
+awesome positions.png,file
+bollinger bands bottom w pattern.png,file
+bollinger bands positions.png,file
+brent crude nokjpy.csv,file
+cad after.png,file
+cad before.png,file
+cad crude.png,file
+cad currency.png,file
+cad elbow.png,file
+cad groups.png,file
+cad kmeans.gif,file
+cad model.png,file
+cad silhouette.png,file
+cad wcs in aud.png,file
+cad wcs in usd.png,file
+data,dir
+dual thrust positions.png,file
+ge accuracy.png,file
+ge simulation.png,file
+ge simulation2.png,file
+ge versus.png,file
+heikin-ashi asset value.png,file
+heikin-ashi positions.png,file
+iron ore audeur.csv,file
+iron ore brlaud.csv,file
+iron ore production,dir
+iron ore production bubble map.csv,file
+iron ore production bubble map.png,file
+iron ore production bubble map.py,file
+iron ore uahusd.csv,file
+london breakout positions.png,file
+london breakout thresholds.png,file
+macd oscillator.png,file
+macd positions.png,file
+nok EG failed.png,file
+nok asset value.png,file
+nok brent crude.png,file
+nok correlation.png,file
+nok fitted vs actual.png,file
+nok model summary.png,file
+nok oil money positions.png,file
+nok profit distribution.png,file
+nok profit heatmap.png,file
+nok trading asset.png,file
+nok trading positions.png,file
+nok trend.png,file
+nok vs brent.png,file
+nok vs gdp.png,file
+nok vs ir.png,file
+nvda simulation.png,file
+nvda versus.png,file
+oil production,dir
+oil production bubble map.png,file
+oil production choropleth.PNG,file
+oil production choropleth.csv,file
+oil production choropleth.py,file
+oil production cost curve.csv,file
+oil production cost curve.png,file
+oil production cost curve.py,file
+options straddle payoff diagram.png,file
+pair trading asset.png,file
+pair trading eg two step.PNG,file
+pair trading positions.png,file
+parabolic sar positions.png,file
+portfolio.xlsx,file
+preview,dir
+rsi head-shoulder pattern.png,file
+rsi oscillator.png,file
+rsi pattern oscillator.png,file
+rsi pattern positions.png,file
+rsi positions.png,file
+rub 2015 positions.png,file
+rub 2016 positions.png,file
+rub 2017 positions.png,file
+rub 2017- trend.png,file
+rub 2018 positions.png,file
+rub model -2016.png,file
+rub model 2017-.png,file
+rub ols -2016.PNG,file
+rub ols 2017-.PNG,file
+rub stepwise1.png,file
+rub stepwise2.png,file
+stoxx50.xlsx,file
+urals crude rubaud.csv,file
+wcs crude cadaud.csv,file
+worldmapshape.json,file
+xkcd_curve_fitting.png,file

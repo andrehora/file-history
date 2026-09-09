@@ -1,0 +1,23 @@
+name,type
+.gitignore,file
+CONTRIBUTING.md,file
+Common problems.md,file
+List-Of-Colorschemes.md,file
+List-Of-Plugins.md,file
+Miscellaneous.md,file
+PLUGINS.md,file
+README.md,file
+Technical quirks.md,file
+bracketed-paste.md,file
+chapter,dir
+chinese_linter.vim,file
+contents,dir
+editing-huge-files-is-slow.md,file
+editing-small-files-is-slow.md,file
+function-search-undo.md,file
+map-capslock-to-control.md,file
+minimal-vimrc.vim,file
+standard-plugins.md,file
+tools,dir
+vim-distributions.md,file
+why-hjkl-for-navigation.md,file

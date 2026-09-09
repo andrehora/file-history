@@ -1,0 +1,15 @@
+name,type
+LICENSE,file
+README.md,file
+aliases,file
+config,file
+git_setup.sh,file
+gitconfig,file
+install.sh,file
+irbrc,file
+keybindings.json,file
+pryrc,file
+rspec,file
+settings.json,file
+zprofile,file
+zshrc,file

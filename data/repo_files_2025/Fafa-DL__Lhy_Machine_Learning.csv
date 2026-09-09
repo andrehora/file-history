@@ -1,0 +1,242 @@
+name,type
+00 Colab&Pytorch,dir
+01 Introduction,dir
+01 Introductionof Deep Learning,dir
+02 Deep Learning,dir
+02 What to do if my network fails to train,dir
+03 Images input,dir
+03 Self-Attention,dir
+04 Sequence as input,dir
+05 Sequence to sequence,dir
+05 Transformer,dir
+06 GAN,dir
+06 Generation,dir
+07 Recent Advance of Self-supervised learning for NLP,dir
+07 Self-Supervised Learning,dir
+07 Self-supervised learning for Speech and Image,dir
+08 Auto-encoder Anomaly Detection,dir
+08 Explainable AI&Adversarial Attack,dir
+09 Domain Adaptation,dir
+09 Explainable AI,dir
+1.txt,file
+10 Attack,dir
+10 RL,dir
+11 Adaptation,dir
+12 Life-Long&Compression,dir
+12 RL,dir
+13 Meta Learning,dir
+13 Network Compression,dir
+14 Life-long Learning,dir
+15 Meta Learning,dir
+2021 ML,dir
+2022 ML,dir
+2022ML_HW3_Image_Classification.ipynb,file
+2023 ML,dir
+2023_hw12_RL_slides_english_version .pptx,file
+AI-interaction-v3.pdf,file
+AIexpAI-v5.pdf,file
+ARandNAR (v2).pdf,file
+Adversarial Attack.pptx,file
+Anomaly Detection (v9).pdf,file
+Attacks-in-NLP-Draft.pdf,file
+BERT train (v8).pdf,file
+BP.pdf,file
+ChatGPT (v6).pptx,file
+ChatGPT Question (v2).pdf,file
+ChatGPT SSL (v4).pdf,file
+ChatGPT basic (v5).pdf,file
+Classification.pdf,file
+Colab,dir
+Colab Tutorial,dir
+Colab_Tutorial.pdf,file
+DDPM (v7).pdf,file
+DL.pdf,file
+DiffusionModel (v2).pdf,file
+EnvironmentSetup.pdf,file
+FLOW.pdf,file
+FrugalGPT-v2.pdf,file
+GAN (v3).pdf,file
+GANtheory (v2).pdf,file
+GNN.pdf,file
+GPT3 (v6).pdf,file
+GPT4 (v3).pdf,file
+Google_Colab_Tutorial.ipynb,file
+Google_Colab_Tutorial.pdf,file
+Google_Colab_Tutorial_2023.ipynb,file
+HW DATA.txt,file
+HW01,dir
+HW01.ipynb,file
+HW01.pdf,file
+HW02,dir
+HW02-1.ipynb,file
+HW02-2.ipynb,file
+HW02.pdf,file
+HW03,dir
+HW03.ipynb,file
+HW03.pdf,file
+HW04,dir
+HW04.ipynb,file
+HW04.pdf,file
+HW05,dir
+HW05.ipynb,file
+HW05.pdf,file
+HW05_ZH.ipynb,file
+HW06,dir
+HW06.ipynb,file
+HW06.pdf,file
+HW07,dir
+HW07.ipynb,file
+HW07.pdf,file
+HW08,dir
+HW08.ipynb,file
+HW08.pdf,file
+HW09,dir
+HW09.ipynb,file
+HW09.pdf,file
+HW1 Regression,dir
+HW10,dir
+HW10 Attack,dir
+HW10.ipynb,file
+HW10.pdf,file
+HW11,dir
+HW11 Adaptation,dir
+HW11.pdf,file
+HW11_EN.ipynb,file
+HW11_ZH.ipynb,file
+HW12,dir
+HW12 Reinforcement Learning,dir
+HW12_EN.ipynb,file
+HW12_EN.pdf,file
+HW12_ZH.ipynb,file
+HW12_ZH.pdf,file
+HW13,dir
+HW13 Network Compression,dir
+HW13.ipynb,file
+HW13.pdf,file
+HW14,dir
+HW14 Life-long Learning,dir
+HW14.ipynb,file
+HW14.pdf,file
+HW14_lifelong_learning.ipynb,file
+HW15,dir
+HW15 Meta Learning,dir
+HW15.ipynb,file
+HW15.pdf,file
+HW2 Classification,dir
+HW3 CNN,dir
+HW3_CNN.ipynb,file
+HW4 Self attention,dir
+HW5 Transformer,dir
+HW6 Generative Model,dir
+HW7 BERT,dir
+HW8 Auto-encoder,dir
+HW9 Explainable AI,dir
+HW9_ExplainableAI.ipynb,file
+HW9_XAI.ipynb,file
+Homework 14  Regularization-based  Lifelong Learning.pdf,file
+ImageGeneration (v3).pdf,file
+LLM-plan-v5.pdf,file
+LLM.pdf,file
+LargeLM-v7.pdf,file
+Lecture Schedule.jpg,file
+Logistic Regression.pdf,file
+ML basic (v8).pdf,file
+ML2021Spring_HW1.ipynb,file
+ML2021_HW15_Meta_Learning.ipynb,file
+ML2021_HW4.ipynb,file
+ML2022 HW15 Meta Learning.pdf,file
+ML2022Spring_HW1.ipynb,file
+ML2022Spring_HW14.ipynb,file
+ML2022Spring_HW2.ipynb,file
+ML2022Spring_HW7.ipynb,file
+ML2022Spring_HW8.ipynb,file
+ML2022_HW15_Meta_Learning.ipynb,file
+ML2022_hw10.ipynb,file
+ML2023Spring_HW1.ipynb,file
+ML2023Spring_HW2.ipynb,file
+ML2023Spring_HW8.ipynb,file
+ML2023_HW10_sample_code.ipynb,file
+ML2023_HW15_Meta_Learning.ipynb,file
+ML2023_HW3_ImageClassification.ipynb,file
+ML2023_HW7_Question_Answering.ipynb,file
+ML2023_hw04.ipynb,file
+ML_2023_hw12_reinforcement_learning.ipynb,file
+ML_HW6.ipynb,file
+Machine Learning HW10 Adversarial Attack.pdf,file
+Machine Learning HW13.pdf,file
+Machine Learning HW3 - Image Classification.pdf,file
+Machine Learning HW4.pdf,file
+Machine Learning HW6.pdf,file
+Machine Learning HW9.pdf,file
+Machine Learning Homework 8 Anomaly Detection.pdf,file
+Meta1 (v6).pdf,file
+Meta2 (v4).pdf,file
+More Meta (v6).pdf,file
+More self-supervised (v2).pdf,file
+Multi (v2).pdf,file
+NewBing (v4).pdf,file
+Non-Autoregressive Sequence Generation.pdf,file
+Optimization.pdf,file
+PLM.pdf,file
+PPO (v3).pdf,file
+Pointer.pdf,file
+PoorChatGPT-v2.pdf,file
+Prompt (v3).pdf,file
+PyTorch Tutorial,dir
+Pytorch,dir
+Pytorch_Tutorial.ipynb,file
+Pytorch_Tutorial_1.pdf,file
+Pytorch_Tutorial_2.ipynb,file
+Pytorch_Tutorial_2.pdf,file
+QLearning (v2).pdf,file
+README.md,file
+RL (v6).pdf,file
+RNN.pdf,file
+Regression.pdf,file
+SHARE_MLSpring2021_HW2_1.ipynb,file
+SHARE_MLSpring2021_HW2_2.ipynb,file
+SSL_speech_image (v9).pdf,file
+Special Structure (v6).pdf,file
+StableDiffusion (v2).pdf,file
+TextGame (v2).pdf,file
+ThinkMore-v2.pdf,file
+VAE.pdf,file
+WGAN (v2).pdf,file
+covid.test.csv,file
+covid.train.csv,file
+dim reduction (v5).pdf,file
+fGAN.pdf,file
+hw04.ipynb,file
+hw10_adversarial_attack.ipynb,file
+hw11_domain_adaptation.ipynb,file
+hw11_domain_adaptation_(en).ipynb,file
+hw11_domain_adaptation_en.ipynb,file
+hw11_slides (ML2022).pdf,file
+hw12_RL_slides_english_version.pdf,file
+hw12_reinforcement_learning_chinese_version.ipynb,file
+hw12_reinforcement_learning_english_version.ipynb,file
+hw13_Network_Compression.ipynb,file
+hw2_slides 2022.pdf,file
+hw6-diffusion-model.ipynb,file
+hw6_GAN.ipynb,file
+hw7_bert.ipynb,file
+hw7_slides.pdf,file
+hw8_slides.pdf,file
+hw9_xai.ipynb,file
+introduction (v2).pdf,file
+ml2022spring_hw13_samplecode.ipynb,file
+ml2023_hw05.ipynb,file
+ml2023_hw14_sample_code.ipynb,file
+ml2023spring-hw1.zip,file
+ml2023spring-hw8.zip,file
+ml2023spring_hw13_samplecode.ipynb,file
+regression (v16).pdf,file
+rule (v2).pdf,file
+rule.pdf,file
+sampleSubmission.csv,file
+theory (v7).pdf,file
+tsne (v2).pdf,file
+validation.pdf,file
+whydeep (v3).pdf,file
+word2vec (v3).pdf,file
+xformer (v6).pdf,file

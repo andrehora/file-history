@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE,file
+MANIFEST.in,file
+README.rst,file
+scripts,dir
+setup.cfg,file
+setup.py,file
+source.py,file
+speedtest-cli.1,file
+speedtest.py,file
+tests,dir
+tox.ini,file

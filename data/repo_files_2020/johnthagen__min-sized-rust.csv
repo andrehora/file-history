@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+Cargo.lock,file
+Cargo.toml,file
+README.md,file
+Xargo.toml,file
+main.rs,file
+no_main,dir
+no_std,dir
+panic_immediate_abort,dir
+src,dir
+xargo,dir

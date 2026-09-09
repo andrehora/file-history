@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.gitignore,file
+CODEOWNERS,file
+CONTRIBUTING.md,file
+README.md,file
+awesome_bot.yml,file
+pull_request_template.md,file
+workflows,dir

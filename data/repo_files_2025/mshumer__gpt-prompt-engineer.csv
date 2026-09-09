@@ -1,0 +1,12 @@
+name,type
+Claude_3_5_Sonnet_to_gpt_4o_mini_Conversion.ipynb,file
+Instruct_Prompt_>_Base_Model_Prompt_Converter.ipynb,file
+LICENSE,file
+Llama_3_1_405B_>_8B_Conversion.ipynb,file
+README.md,file
+XL_to_XS_conversion.ipynb,file
+claude_prompt_engineer.ipynb,file
+gpt_planner.ipynb,file
+gpt_prompt_engineer.ipynb,file
+gpt_prompt_engineer_Classification_Version.ipynb,file
+opus_to_haiku_conversion.ipynb,file

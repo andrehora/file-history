@@ -1,0 +1,71 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+.service,dir
+ACTIVE_DISCORD_UDP.bin,file
+ACTIVE_GAME_UDP.bin,file
+ISSUE_TEMPLATE,dir
+LICENSE.txt,file
+README.md,file
+WinDivert.dll,file
+WinDivert64.sys,file
+bin,dir
+bug_report.yml,file
+check_updates.enabled,file
+comment.yml,file
+cygwin1.dll,file
+general (ALT).bat,file
+general (ALT10).bat,file
+general (ALT11).bat,file
+general (ALT12).bat,file
+general (ALT13).bat,file
+general (ALT2).bat,file
+general (ALT3).bat,file
+general (ALT4).bat,file
+general (ALT5).bat,file
+general (ALT6).bat,file
+general (ALT7).bat,file
+general (ALT8).bat,file
+general (ALT9).bat,file
+general (EXP).bat,file
+general (FAKE TLS AUTO ALT).bat,file
+general (FAKE TLS AUTO ALT2).bat,file
+general (FAKE TLS AUTO ALT3).bat,file
+general (FAKE TLS AUTO).bat,file
+general (SIMPLE FAKE ALT).bat,file
+general (SIMPLE FAKE ALT2).bat,file
+general (SIMPLE FAKE).bat,file
+general.bat,file
+github-bot.yml,file
+hosts,file
+ipset-all.txt,file
+ipset-all.txt.backup,file
+ipset-exclude.txt,file
+ipset-service.txt,file
+list-exclude.txt,file
+list-general.txt,file
+list-google.txt,file
+lists,dir
+quic_initial_4pda_to.bin,file
+quic_initial_5ka_ru.bin,file
+quic_initial_rutube_ru.bin,file
+quic_initial_steamcommunity_com.bin,file
+quic_initial_tencent_com.bin,file
+quic_initial_www_google_com.bin,file
+release.yml,file
+service.bat,file
+stale.yml,file
+stun.bin,file
+stun2.bin,file
+targets.txt,file
+test zapret.ps1,file
+tls_clienthello_4pda_to.bin,file
+tls_clienthello_5ka_ru.bin,file
+tls_clienthello_max_ru.bin,file
+tls_clienthello_sochi_park.bin,file
+tls_clienthello_www_google_com.bin,file
+utils,dir
+version.txt,file
+winws.exe,file
+workflows,dir

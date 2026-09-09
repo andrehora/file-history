@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+CONTRIBUTING.markdown,file
+FUNDING.yml,file
+README.markdown,file
+commentary.txt,file
+commentary.vim,file
+doc,dir
+plugin,dir

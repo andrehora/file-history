@@ -1,0 +1,17 @@
+name,type
+README.md,file
+adr_template_by_jeff_tyree_and_art_akerman.md,file
+adr_template_by_michael_nygard.md,file
+adr_template_for_alexandrian_pattern.md,file
+adr_template_for_business_case.md,file
+adr_template_madr.md,file
+adr_template_using_planguage.md,file
+css-framework.md,file
+environment-variable-configuration.md,file
+examples,dir
+metrics-monitors-alerts.md,file
+microsoft-azure-devops.md,file
+monorepo-vs-multirepo.md,file
+programming-languages.md,file
+secrets-storage.md,file
+timestamp-format.md,file

@@ -1,0 +1,11 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+Dangerfile,file
+Gemfile,file
+LICENSE,file
+README.md,file
+img,dir
+main.yml,file
+splash.jpg,file
+workflows,dir

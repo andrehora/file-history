@@ -1,0 +1,394 @@
+name,type
+.coffee.internal.sed,file
+.editorconfig,file
+.github,dir
+.gitignore,file
+.releaserc.json,file
+AllocTest,dir
+AllocTest.cs,file
+AllocTest.cs.meta,file
+AllocTest.meta,file
+AllocTest.unity,file
+AllocTest.unity.meta,file
+Assets,dir
+AudioManager.asset,file
+BlurMode.cs,file
+BlurMode.cs.meta,file
+Builtin,dir
+Builtin.meta,file
+Burn.prefab,file
+Burn.prefab.meta,file
+CHANGELOG.md,file
+CHANGELOG.md.meta,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CarterOne-Regular SDF - Mobile.mat,file
+CarterOne-Regular SDF - Mobile.mat.meta,file
+CarterOne-Regular SDF.asset,file
+CarterOne-Regular SDF.asset.meta,file
+CarterOne-Regular SMOOTH.asset,file
+CarterOne-Regular SMOOTH.asset.meta,file
+CarterOne-Regular.ttf,file
+CarterOne-Regular.ttf.meta,file
+Cloner.cs,file
+Cloner.cs.meta,file
+ClusterInputManager.asset,file
+Coffee.UIEffect.Editor.asmdef,file
+Coffee.UIEffect.Editor.asmdef.meta,file
+Coffee.UIEffect.R.dll,file
+Coffee.UIEffect.R.dll.meta,file
+Coffee.UIEffect.asmdef,file
+Coffee.UIEffect.asmdef.meta,file
+ColorMode.cs,file
+ColorMode.cs.meta,file
+Common,dir
+Common.meta,file
+ComponentExtensions.cs,file
+ComponentExtensions.cs.meta,file
+ContextProcessor.cs,file
+ContextProcessor.cs.meta,file
+Converter.cs,file
+Converter.cs.meta,file
+Default Style Sheet.asset,file
+Default Style Sheet.asset.meta,file
+Demo,dir
+Demo.meta,file
+Demos,dir
+Demos.meta,file
+Dissolve.prefab,file
+Dissolve.prefab.meta,file
+DynamicsManager.asset,file
+Editor,dir
+Editor.meta,file
+EditorBuildSettings.asset,file
+EditorSettings.asset,file
+EffectArea.cs,file
+EffectArea.cs.meta,file
+EffectMode.cs,file
+EffectMode.cs.meta,file
+EffectPlayer.cs,file
+EffectPlayer.cs.meta,file
+EmojiOne Attribution.txt,file
+EmojiOne Attribution.txt.meta,file
+EmojiOne.asset,file
+EmojiOne.asset.meta,file
+EmojiOne.json,file
+EmojiOne.json.meta,file
+EmojiOne.png,file
+EmojiOne.png.meta,file
+Enums,dir
+Enums.cs,file
+Enums.cs.meta,file
+Enums.meta,file
+Extensions,dir
+Extensions.meta,file
+FUNDING.yml,file
+FastAction.cs,file
+FastAction.cs.meta,file
+Floor Cement.jpg,file
+Floor Cement.jpg.meta,file
+Fonts,dir
+Fonts & Materials,dir
+Fonts & Materials.meta,file
+Fonts.meta,file
+FrameCache.cs,file
+FrameCache.cs.meta,file
+Fruit Jelly (B&W).jpg,file
+Fruit Jelly (B&W).jpg.meta,file
+GradationTest,dir
+GradationTest.meta,file
+GradationTest.unity,file
+GradationTest.unity.meta,file
+GradientUtil.cs,file
+GradientUtil.cs.meta,file
+GraphicsSettings.asset,file
+Hidden-TMP_Bitmap-Mobile-UIEffect-Unity6.shader,file
+Hidden-TMP_Bitmap-Mobile-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_Bitmap-Mobile-UIEffect.shader,file
+Hidden-TMP_Bitmap-Mobile-UIEffect.shader.meta,file
+Hidden-TMP_Bitmap-UIEffect-Unity6.shader,file
+Hidden-TMP_Bitmap-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_Bitmap-UIEffect.shader,file
+Hidden-TMP_Bitmap-UIEffect.shader.meta,file
+Hidden-TMP_SDF-Mobile-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-Mobile-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-Mobile-UIEffect.shader,file
+Hidden-TMP_SDF-Mobile-UIEffect.shader.meta,file
+Hidden-TMP_SDF-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-UIEffect.shader,file
+Hidden-TMP_SDF-UIEffect.shader.meta,file
+ISSUE_TEMPLATE,dir
+I_am_Unity-Chan-512.png,file
+I_am_Unity-Chan-512.png.meta,file
+ImportSample.cs,file
+ImportSample.cs.meta,file
+InputManager.asset,file
+Internal,dir
+Internal.meta,file
+LICENSE.md,file
+LICENSE.md.meta,file
+Legacy,dir
+Legacy-UIDissolve.prefab,file
+Legacy-UIDissolve.prefab.meta,file
+Legacy-UIShiny.prefab,file
+Legacy-UIShiny.prefab.meta,file
+Legacy.meta,file
+LiberationSans - OFL.txt,file
+LiberationSans - OFL.txt.meta,file
+LiberationSans SDF - Drop Shadow.mat,file
+LiberationSans SDF - Drop Shadow.mat.meta,file
+LiberationSans SDF - Fallback.asset,file
+LiberationSans SDF - Fallback.asset.meta,file
+LiberationSans SDF - Outline.mat,file
+LiberationSans SDF - Outline.mat.meta,file
+LiberationSans SDF.asset,file
+LiberationSans SDF.asset.meta,file
+LiberationSans.ttf,file
+LiberationSans.ttf.meta,file
+LineBreaking Following Characters.txt,file
+LineBreaking Following Characters.txt.meta,file
+LineBreaking Leading Characters.txt,file
+LineBreaking Leading Characters.txt.meta,file
+Logging.cs,file
+Logging.cs.meta,file
+MaterialRepository.cs,file
+MaterialRepository.cs.meta,file
+Melt.prefab,file
+Melt.prefab.meta,file
+MemorySettings.asset,file
+MeshExtensions.cs,file
+MeshExtensions.cs.meta,file
+MinimalResourceSettings.json,file
+Misc.cs,file
+Misc.cs.meta,file
+NanoMonitor.asset,file
+NanoMonitor.asset.meta,file
+NanoMonitor.prefab,file
+NanoMonitor.prefab.meta,file
+NavMeshAreas.asset,file
+ObjectPool.cs,file
+ObjectPool.cs.meta,file
+ObjectRepository.cs,file
+ObjectRepository.cs.meta,file
+Obsolete,dir
+Obsolete.meta,file
+ObsoleteMonoBehavior.cs,file
+ObsoleteMonoBehavior.cs.meta,file
+PackageManagerSettings.asset,file
+Packages,dir
+PerformanceTest,dir
+PerformanceTest.meta,file
+PerformanceTest.unity,file
+PerformanceTest.unity.meta,file
+Physics2DSettings.asset,file
+PowerRangeAttribute.cs,file
+PowerRangeAttribute.cs.meta,file
+PreloadedProjectSettings.cs,file
+PreloadedProjectSettings.cs.meta,file
+PresetManager.asset,file
+ProjectSettings,dir
+ProjectSettings.asset,file
+ProjectSettings.meta,file
+ProjectVersion.txt,file
+QualitySettings.asset,file
+README.md,file
+README.md.meta,file
+ReadMe,dir
+ReadMe.meta,file
+ReadMe.unity,file
+ReadMe.unity.meta,file
+ReadMe_Inspector.unity,file
+ReadMe_Inspector.unity.meta,file
+Resources,dir
+Resources.meta,file
+Runtime,dir
+Runtime.meta,file
+Samples,file
+Samples.meta,file
+Samples~,dir
+SceneTemplateSettings.json,file
+Scratch.prefab,file
+Scratch.prefab.meta,file
+ShaderVariantRegistry.cs,file
+ShaderVariantRegistry.cs.meta,file
+Shaders,dir
+Shaders.meta,file
+ShadowStyle.cs,file
+ShadowStyle.cs.meta,file
+ShadowUtil.cs,file
+ShadowUtil.cs.meta,file
+Shiny.prefab,file
+Shiny.prefab.meta,file
+Soft Outline.prefab,file
+Soft Outline.prefab.meta,file
+Sprite Assets,dir
+Sprite Assets.meta,file
+Sprites,dir
+Sprites.meta,file
+Style Sheets,dir
+Style Sheets.meta,file
+TMP Settings.asset,file
+TMP Settings.asset.meta,file
+TMP_Bitmap-Custom-Atlas.shader,file
+TMP_Bitmap-Custom-Atlas.shader.meta,file
+TMP_Bitmap-Mobile.shader,file
+TMP_Bitmap-Mobile.shader.meta,file
+TMP_Bitmap.shader,file
+TMP_Bitmap.shader.meta,file
+TMP_SDF Overlay.shader,file
+TMP_SDF Overlay.shader.meta,file
+TMP_SDF SSD.shader,file
+TMP_SDF SSD.shader.meta,file
+TMP_SDF-Mobile Masking.shader,file
+TMP_SDF-Mobile Masking.shader.meta,file
+TMP_SDF-Mobile Overlay.shader,file
+TMP_SDF-Mobile Overlay.shader.meta,file
+TMP_SDF-Mobile SSD.shader,file
+TMP_SDF-Mobile SSD.shader.meta,file
+TMP_SDF-Mobile.shader,file
+TMP_SDF-Mobile.shader.meta,file
+TMP_SDF-Surface-Mobile.shader,file
+TMP_SDF-Surface-Mobile.shader.meta,file
+TMP_SDF-Surface.shader,file
+TMP_SDF-Surface.shader.meta,file
+TMP_SDF.shader,file
+TMP_SDF.shader.meta,file
+TMP_Sprite.shader,file
+TMP_Sprite.shader.meta,file
+TMPro.cginc,file
+TMPro.cginc.meta,file
+TMPro_Mobile.cginc,file
+TMPro_Mobile.cginc.meta,file
+TMPro_Properties.cginc,file
+TMPro_Properties.cginc.meta,file
+TMPro_Surface.cginc,file
+TMPro_Surface.cginc.meta,file
+TagManager.asset,file
+TextMesh Pro,dir
+TextMesh Pro.meta,file
+TextMeshPro Support,dir
+TextMeshPro Support (Unity 6)~,dir
+TextMeshPro Support.meta,file
+TextMeshPro Support~,dir
+TextMeshProSupport.unity,file
+TextMeshProSupport.unity.meta,file
+TextMeshPro_ExtraShaders.unity,file
+TextMeshPro_ExtraShaders.unity.meta,file
+TimeManager.asset,file
+TransformSensitivity.cs,file
+TransformSensitivity.cs.meta,file
+Transition_Horizontal.png,file
+Transition_Horizontal.png.meta,file
+Transition_LegacyHorizontal.png,file
+Transition_LegacyHorizontal.png.meta,file
+Transition_LegacyNoise.png,file
+Transition_LegacyNoise.png.meta,file
+Transition_Melt00.png,file
+Transition_Melt00.png.meta,file
+Transition_Melt01.png,file
+Transition_Melt01.png.meta,file
+Transition_Noise00.png,file
+Transition_Noise00.png.meta,file
+Transition_Noise01.png,file
+Transition_Noise01.png.meta,file
+Transition_Scratch.png,file
+Transition_Scratch.png.meta,file
+UIDissolve.cs,file
+UIDissolve.cs.meta,file
+UIEffect.asmdef,file
+UIEffect.asmdef.meta,file
+UIEffect.cginc,file
+UIEffect.cginc.meta,file
+UIEffect.cs,file
+UIEffect.cs.meta,file
+UIEffect.shader,file
+UIEffect.shader.meta,file
+UIEffectBase.cs,file
+UIEffectBase.cs.meta,file
+UIEffectContext.cs,file
+UIEffectContext.cs.meta,file
+UIEffectEditor.cs,file
+UIEffectEditor.cs.meta,file
+UIEffectIconIcon.png,file
+UIEffectIconIcon.png.meta,file
+UIEffectPresets,dir
+UIEffectPresets.meta,file
+UIEffectProjectSettings.asset,file
+UIEffectProjectSettings.asset.meta,file
+UIEffectProjectSettings.cs,file
+UIEffectProjectSettings.cs.meta,file
+UIEffectProjectSettingsEditor.cs,file
+UIEffectProjectSettingsEditor.cs.meta,file
+UIEffectReplica.cs,file
+UIEffectReplica.cs.meta,file
+UIEffectReplicaEditor.cs,file
+UIEffectReplicaEditor.cs.meta,file
+UIEffectTweener.cs,file
+UIEffectTweener.cs.meta,file
+UIEffectTweenerControl,dir
+UIEffectTweenerControl.cs,file
+UIEffectTweenerControl.cs.meta,file
+UIEffectTweenerControl.meta,file
+UIEffectTweenerControl.unity,file
+UIEffectTweenerControl.unity.meta,file
+UIEffectTweenerEditor.cs,file
+UIEffectTweenerEditor.cs.meta,file
+UIEffectV4.cs,file
+UIEffectV4.cs.meta,file
+UIEffectV4Editor.cs,file
+UIEffectV4Editor.cs.meta,file
+UIEffect_AvailableFilters.cs,file
+UIEffect_AvailableFilters.cs.meta,file
+UIEffect_AvailableFilters.unity,file
+UIEffect_AvailableFilters.unity.meta,file
+UIEffect_AvailableFilters_Effect.prefab,file
+UIEffect_AvailableFilters_Effect.prefab.meta,file
+UIEffect_Demo_I_am_Unity-Chan-256-Point.png,file
+UIEffect_Demo_I_am_Unity-Chan-256-Point.png.meta,file
+UIEffect_Showcase.unity,file
+UIEffect_Showcase.unity.meta,file
+UIEffect_Showcase_Art.png,file
+UIEffect_Showcase_Art.png.meta,file
+UIEffect_Showcase_TransitionTex.png,file
+UIEffect_Showcase_TransitionTex.png.meta,file
+UIExtraCallbacks.cs,file
+UIExtraCallbacks.cs.meta,file
+UIFlip.cs,file
+UIFlip.cs.meta,file
+UIGradient.cs,file
+UIGradient.cs.meta,file
+UIHsvModifier.cs,file
+UIHsvModifier.cs.meta,file
+UIShadow.cs,file
+UIShadow.cs.meta,file
+UIShiny.cs,file
+UIShiny.cs.meta,file
+UITransitionEffect.cs,file
+UITransitionEffect.cs.meta,file
+UIVertexUtil.cs,file
+UIVertexUtil.cs.meta,file
+UnityConnectSettings.asset,file
+Utilities,dir
+Utilities.meta,file
+VFXManager.asset,file
+VersionControlSettings.asset,file
+XRSettings.asset,file
+boot.config,file
+bug_report.md,file
+deploy.yml,file
+feature_request.md,file
+import-tmp-support.sh,file
+manifest.json,file
+package.json,file
+package.json.meta,file
+packages-lock.json,file
+pull_request_template.md,file
+question.md,file
+release.yml,file
+src,dir
+test.yml,file
+v4 Compatible Components,dir
+v4 Compatible Components.meta,file
+workflows,dir

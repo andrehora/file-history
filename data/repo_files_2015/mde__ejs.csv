@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+Jakefile,file
+ejs.js,file
+lib,dir
+package.json,file
+test,dir
+utils.js,file

@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+Cargo.lock,file
+Cargo.toml,file
+LICENSE-APACHE,file
+LICENSE-MIT,file
+README.md,file
+ci.yml,file
+cli.rs,file
+main.rs,file
+release.yml,file
+src,dir
+tests,dir
+workflows,dir

@@ -1,0 +1,12 @@
+name,type
+CHANGELOG.md,file
+CNAME,file
+PRIVACY_POLICY.md,file
+README.md,file
+TERMS_AND_CONDITIONS.md,file
+_config.yml,file
+_layouts,dir
+default.html,file
+docs,dir
+sponsors.json,file
+version.json,file

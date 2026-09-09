@@ -1,0 +1,12 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+contributing.md,file
+dependabot.yml,file
+markdown-link-check.yml,file
+markdown.links.config.json,file
+misspell.yml,file
+notfound.yml,file
+terraform.svg,file
+workflows,dir

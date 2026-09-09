@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+bower.json,file
+examples.html,file
+package.json,file
+spinkit.css,file
+spinkit.min.css,file

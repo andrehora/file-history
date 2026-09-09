@@ -1,0 +1,13 @@
+name,type
+CHANGELOG.md,file
+README.md,file
+airline,dir
+autoload,dir
+colors,dir
+colorscheme,dir
+gruvbox.vim,file
+gruvbox_256palette.sh,file
+gruvbox_256palette_osx.sh,file
+lightline,dir
+package.json,file
+themes,dir

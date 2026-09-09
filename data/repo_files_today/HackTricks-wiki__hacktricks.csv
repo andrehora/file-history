@@ -1,0 +1,2044 @@
+name,type
+.github,dir
+.gitignore,file
+.mdbook-build.err,file
+.mdbook-build.log,file
+.pyc.md,file
+.tmp_hope.pdf,file
+.tmp_malloc.c,file
+0.-basic-llm-concepts.md,file
+0_basic_threat_model.jpg,file
+1 u1jdRYuWAEVwJmf_F2ttJg (1).png,file
+1.-tokenizing.md,file
+1.jpg,file
+1.png,file
+10.png,file
+10000-network-data-management-protocol-ndmp.md,file
+1026-pentesting-rusersd.md,file
+1080-pentesting-socks.md,file
+1099-pentesting-java-rmi.md,file
+11.png,file
+11211-memcache,dir
+113-pentesting-ident.md,file
+12.png,file
+12346-udp-pentesting-cisco-sd-wan-control-plane.md,file
+135-pentesting-msrpc.md,file
+137-138-139-pentesting-netbios.md,file
+14.png,file
+1414-pentesting-ibmmq.md,file
+1521-1522-1529-pentesting-oracle-listener.md,file
+15672-pentesting-rabbitmq-management.md,file
+16.png,file
+17.png,file
+1723-pentesting-pptp.md,file
+1883-pentesting-mqtt-mosquitto.md,file
+1_threatmodel_create_project.jpg,file
+2.-data-sampling.md,file
+2.jpg,file
+2.png,file
+21.png,file
+22.png,file
+2375-pentesting-docker.md,file
+24007-24008-24009-49152-pentesting-glusterfs.md,file
+27017-27018-mongodb.md,file
+2_threatmodel_type-option.jpg,file
+2fa-bypass.md,file
+3-1.png,file
+3.-token-embeddings.md,file
+3.png,file
+3128-pentesting-squid.md,file
+32100-udp-pentesting-pppp-cs2-p2p-cameras.md,file
+3260-pentesting-iscsi.md,file
+3299-pentesting-saprouter.md,file
+3632-pentesting-distcc.md,file
+3690-pentesting-subversion-svn-server.md,file
+3702-udp-pentesting-ws-discovery.md,file
+3_threatmodel_chose-threat-layer.jpg,file
+4.-attention-mechanisms.md,file
+4.png,file
+403-and-401-bypasses.md,file
+4222-pentesting-nats.md,file
+43-pentesting-whois.md,file
+4369-pentesting-erlang-port-mapper-daemon-epmd.md,file
+44134-pentesting-tiller-helm.md,file
+44818-ethernetip.md,file
+47808-udp-bacnet.md,file
+4786-cisco-smart-install.md,file
+4840-pentesting-opc-ua.md,file
+49-pentesting-tacacs+.md,file
+4_threatmodel_create-threat.jpg,file
+5.-llm-architecture.md,file
+5.png,file
+5000-pentesting-docker-registry.md,file
+50030-50060-50070-50075-50090-pentesting-hadoop.md,file
+512-pentesting-rexec.md,file
+515-pentesting-line-printer-daemon-lpd.md,file
+5353-udp-multicast-dns-mdns.md,file
+5439-pentesting-redshift.md,file
+554-8554-pentesting-rtsp.md,file
+5555-android-debug-bridge.md,file
+5601-pentesting-kibana.md,file
+5671-5672-pentesting-amqp.md,file
+584-pentesting-afp.md,file
+5984-pentesting-couchdb.md,file
+5985-5986-pentesting-omi.md,file
+5985-5986-pentesting-winrm.md,file
+6.-pre-training-and-loading-models.md,file
+6000-pentesting-x11.md,file
+623-udp-ipmi.md,file
+6379-pentesting-redis.md,file
+69-udp-tftp.md,file
+7-tcp-udp-pentesting-echo.md,file
+7.0.-lora-improvements-in-fine-tuning.md,file
+7.1.-fine-tuning-for-classification.md,file
+7.2.-fine-tuning-to-follow-instructions.md,file
+7.png,file
+700-pentesting-epp.md,file
+8.png,file
+8009-pentesting-apache-jserv-protocol-ajp.md,file
+8086-pentesting-influxdb.md,file
+8089-splunkd.md,file
+8333-18333-38333-18444-pentesting-bitcoin.md,file
+873-pentesting-rsync.md,file
+9.png,file
+9000-pentesting-fastcgi.md,file
+9001-pentesting-hsqldb.md,file
+9100-pjl.md,file
+9200-pentesting-elasticsearch.md,file
+AGENTS.md,file
+AI,dir
+AI-Assisted-Fuzzing-and-Vulnerability-Discovery.md,file
+AI-Burp-MCP.md,file
+AI-Deep-Learning.md,file
+AI-MCP-Servers.md,file
+AI-Model-Data-Preparation-and-Evaluation.md,file
+AI-Models-RCE.md,file
+AI-Prompts.md,file
+AI-Reinforcement-Learning-Algorithms.md,file
+AI-Risk-Frameworks.md,file
+AI-Supervised-Learning-Algorithms.md,file
+AI-Unsupervised-Learning-Algorithms.md,file
+AI-llm-architecture,dir
+BadSuccessor.md,file
+CH_logo_ads.png,file
+CTX_WSUSpect_White_Paper (1).pdf,file
+CVE-2020-27950-mach_msg_trailer_t.md,file
+CVE-2021-30807-IOMobileFrameBuffer.md,file
+Dockerfile,file
+EN-Blackhat-Europe-2008-LDAP-Injection-Blind-LDAP-Injection.pdf,file
+EN-Local-File-Inclusion-1.pdf,file
+EN-PHP-loose-comparison-Type-Juggling-OWASP (1).pdf,file
+EauBb2EX0AERaNK (1).jpg,file
+FUNDING.yml,file
+GraphQLAuthBypassMethod.PNG,file
+HACKTRICKS-logo.svg,file
+KYC-Bypass-Using-AI.md,file
+LFI-With-PHPInfo-Assistance.pdf,file
+LICENSE.md,file
+OPEN-SANS-LICENSE.txt,file
+Pasted Graphic 14.png,file
+Pasted Graphic 5.png,file
+Pasted Graphic.png,file
+Pasted image 20250709114508.png,file
+Pasted image 20250709115757.png,file
+RAM.png,file
+README.md,file
+Reverse.tar (1).gz,file
+SNMP_OID_MIB_Tree (1).png,file
+SOURCE-CODE-PRO-LICENSE.txt,file
+SUMMARY.md,file
+Screenshot from 2021-03-13 18-17-48.png,file
+Screenshot from 2021-03-13 18-22-57 (1).png,file
+Screenshot from 2021-03-13 18-26-27 (1).png,file
+TimeRoasting.md,file
+View.nib,file
+Web-Black-Box-AI-Pentester-Bots.md,file
+about-the-author.md,file
+abusing-ad-mssql.md,file
+abusing-android-media-pipelines-image-parsers.md,file
+abusing-auto-updaters-and-ipc.md,file
+abusing-hop-by-hop-headers.md,file
+abusing-service-workers.md,file
+access-tokens.md,file
+accessibility-services-abuse.md,file
+account-persistence.md,file
+account-takeover.md,file
+aceinheritance.jpg,file
+acl-persistence-abuse,dir
+acls-dacls-sacls-aces.md,file
+active-directory-methodology,dir
+ad-certificates,dir
+ad-certificates.md,file
+ad-dns-records.md,file
+ad-dynamic-objects-anti-forensics.md,file
+ad-information-in-printers.md,file
+adaptixc2-config-extraction-and-ttps.md,file
+adb-commands.md,file
+adreno-a7xx-sds-rb-priv-bypass-gpu-smmu-kernel-rw.md,file
+ads.txt,file
+advanced-html-staged-dll-sideloading.md,file
+adws-enumeration.md,file
+aem-adobe-experience-cloud.md,file
+af-unix-msg-oob-uaf-skb-primitives.md,file
+ai-agent-abuse-local-ai-cli-tools-and-mcp.md,file
+ai-agent-mode-phishing-abusing-hosted-agent-browsers.md,file
+ai.js,file
+air-keyboard-remote-input-injection.md,file
+android-anti-instrumentation-and-ssl-pinning-bypass.md,file
+android-app-pentesting,dir
+android-application-level-virtualization.md,file
+android-applications-basics.md,file
+android-checklist.md,file
+android-enterprise-work-profile-bypass.md,file
+android-forensics.md,file
+android-hce-nfc-emv-relay-attacks.md,file
+android-malware-post-exploitation.md,file
+android-mediatek-secure-boot-bl2_ext-bypass-el3.md,file
+android-physical-attacks.md,file
+android-rooting-frameworks-manager-auth-bypass-syscall-hook.md,file
+android-task-hijacking.md,file
+android-vpn-bypass.md,file
+angr,dir
+angr-examples.md,file
+angular.md,file
+anti-forensic-techniques.md,file
+apache.md,file
+apk-decompilers.md,file
+app-release.zip,file
+apparmor.md,file
+appenddata-addsubdirectory-permission-over-service-registry.md,file
+arbitrary-kernel-rw-token-theft.md,file
+arbitrary-write-2-exec,dir
+archive-extraction-path-traversal.md,file
+arm64-basic-assembly.md,file
+arm64-static-linear-map-kaslr-bypass.md,file
+array-indexing.md,file
+arte-badge-v1.webp,file
+arte.png,file
+artifactory-hacking-guide.md,file
+asd1.png,file
+aslr,dir
+asreproast.md,file
+assessment-and-hardening.md,file
+atexec.md,file
+audio,dir
+audit-tab.jpg,file
+authentication-credentials-uac-and-efs,dir
+authentication-credentials-uac-and-efs.md,file
+authorization-plugins.md,file
+auto_merge_approved_prs.yml,file
+av-bypass.md,file
+avd-android-virtual-device.md,file
+aw2exec-__malloc_hook.md,file
+aw2exec-__printf_arginfo_table.md,file
+aw2exec-got-plt.md,file
+aw2exec-sips-icc-profile.md,file
+azrte-badge-v1.webp,file
+azrte.png,file
+badsuccessor-dmsa-migration-abuse.md,file
+banners,dir
+basic-.net-deserialization-objectdataprovider-gadgets-expandedwrapper-and-json.net.md,file
+basic-cmd-for-pentesters.md,file
+basic-forensic-methodology,dir
+basic-ios-testing-operations.md,file
+basic-java-deserialization-objectinputstream-readobject.md,file
+basic-powershell-for-pentesters,dir
+basic-python.md,file
+basic-stack-binary-exploitation-methodology,dir
+basic-voip-protocols,dir
+bf-forked-stack-canaries.md,file
+big-binary-files-upload-postgresql.md,file
+binary-exploitation,dir
+bins-and-memory-allocations.md,file
+blobrunner.md,file
+blockchain,dir
+blockchain-and-crypto-currencies,dir
+blocking-main-page-to-steal-postmessage.md,file
+bloodhound.md,file
+board_image_ch341a.jpg,file
+bolt-cms.md,file
+book.js,file
+book.toml,file
+bootloader-testing.md,file
+brop-blind-return-oriented-programming.md,file
+browext-clickjacking.md,file
+browext-permissions-and-host_permissions.md,file
+browext-xss-example.md,file
+browser-artifacts.md,file
+browser-extension-pentesting-methodology,dir
+browser-http-request-smuggling.md,file
+brute-force.md,file
+bruteforce-hash-few-chars.md,file
+buckets,dir
+build_master.yml,file
+burp-configuration-for-ios.md,file
+burp-suite.md,file
+bypass-biometric-authentication-android.md,file
+bypass-fs-protections-read-only-no-exec-distroless,dir
+bypass-linux-restrictions,dir
+bypass-lua-sandboxes,dir
+bypass-payment-process.md,file
+bypass-python-sandboxes,dir
+bypassing-canary-and-pie.md,file
+bypassing-sop-with-iframes-1.md,file
+bypassing-sop-with-iframes-2.md,file
+cache-deception,dir
+cache-poisoning-to-dos.md,file
+cache-poisoning-via-url-discrepancies.md,file
+capabilities.md,file
+captcha-bypass.md,file
+cassandra.md,file
+certificate-theft.md,file
+cet-and-shadow-stack.md,file
+cgi.md,file
+cgroup-namespace.md,file
+cgroups.md,file
+cheat-engine.md,file
+checklist-windows-privilege-escalation.md,file
+chrome-cache-to-xss.md,file
+chrome-exploiting.md,file
+chrome.css,file
+cisco-snmp.md,file
+cisco-vmanage.md,file
+class-pollution-pythons-prototype-pollution.md,file
+classicsectab.jpg,file
+clean_unused_images.sh,file
+cleanup_branches.yml,file
+clickjacking.md,file
+client-side-path-traversal.md,file
+client-side-prototype-pollution.md,file
+client-side-template-injection-csti.md,file
+clipboard-hijacking.md,file
+clone-a-website.md,file
+cloud-ssrf.md,file
+cloudfront_invalidate_assets.yml,file
+cobalt-strike.md,file
+code-review-tools.md,file
+com-hijacking.md,file
+command-injection.md,file
+common-api-used-in-malware.md,file
+common-binary-protections-and-bypasses,dir
+common-exploiting-problems-unsafe-relocation-fixups.md,file
+common-exploiting-problems.md,file
+connect_wires_ch341a.jpg,file
+connected_status_ch341a.jpg,file
+connection-pool-by-destination-example.md,file
+connection-pool-example.md,file
+constrained-delegation.md,file
+container-security,dir
+containerd-ctr-privilege-escalation.md,file
+containers-namespaces,dir
+content-protocol.md,file
+content-security-policy-csp-bypass,dir
+cookie-bomb-+-onerror-xs-leak.md,file
+cookie-bomb.md,file
+cookie-jar-overflow.md,file
+cookie-tossing.md,file
+cookies-policy.md,file
+copy-fail-af_alg-splice-page-cache-overwrite-cve-2026-31431.md,file
+cordova-apps.md,file
+cors-bypass.md,file
+create-msi-with-wix.md,file
+create_new_project_1.jpg,file
+credentials-mimikatz.md,file
+credentials-protections.md,file
+crlf-0d-0a.md,file
+crypto,dir
+crypto-in-malware,dir
+csp-bypass-self-+-unsafe-inline-with-iframes.md,file
+csrf-cross-site-request-forgery.md,file
+css,dir
+css-injection,dir
+css-injection-code.md,file
+ctf-misc,dir
+ctf-workflow,dir
+custom-protocols.md,file
+custom-ssp.md,file
+cyberhelmets-logo.png,file
+cypher-injection-neo4j.md,file
+d-bus-enumeration-and-command-injection-privilege-escalation.md,file
+dangling-markup-html-scriptless-injection,dir
+dapps-DecentralizedApplications.md,file
+database-leaks.md,file
+dblink-lo_import-data-exfiltration.md,file
+dcomexec.md,file
+dcshadow.md,file
+dcsync.md,file
+ddexec.md,file
+debugging-client-side-js.md,file
+defi-amm-hook-precision.md,file
+defi-amm-virtual-balance-cache-exploitation.md,file
+dependency-confusion.md,file
+deserialization,dir
+desofuscation-vbs-cscript.exe.md,file
+detecting-phising.md,file
+dhcpv6.md,file
+diamond-ticket.md,file
+disable_functions-bypass-dl-function.md,file
+disable_functions-bypass-imagick-less-than-3.3.0-php-greater-than-5.4-exploit.md,file
+disable_functions-bypass-mod_cgi.md,file
+disable_functions-bypass-php-4-greater-than-4.2.0-php-5-pcntl_exec.md,file
+disable_functions-bypass-php-5.2-fopen-exploit.md,file
+disable_functions-bypass-php-5.2.3-win32std-ext-protections-bypass.md,file
+disable_functions-bypass-php-5.2.4-and-5.2.5-php-curl.md,file
+disable_functions-bypass-php-7.0-7.4-nix-only.md,file
+disable_functions-bypass-php-fpm-fastcgi.md,file
+disable_functions-bypass-php-less-than-5.2.9-on-windows.md,file
+disable_functions-bypass-php-perl-extension-safe_mode-bypass-exploit.md,file
+disable_functions-bypass-php-safe_mode-bypass-via-proc_open-and-custom-environment-exploit.md,file
+disable_functions-bypass-via-mem.md,file
+disable_functions-php-5.2.4-ioncube-extension-exploit.md,file
+disable_functions-php-5.x-shellshock-exploit.md,file
+discord-cache-forensics.md,file
+discord-invite-hijacking.md,file
+discount.css,file
+discount.jpeg,file
+discount.js,file
+distroless.md,file
+django.md,file
+dll-hijacking,dir
+dll_sideloading_demo.gif,file
+dnscat-exfiltration.md,file
+docker-compose.yml,file
+docker-forensics.md,file
+documents,dir
+dom-clobbering.md,file
+dom-invader.md,file
+dom-xss.md,file
+domain-escalation.md,file
+domain-persistence.md,file
+domain-subdomain-takeover.md,file
+dotnet-soap-wsdl-client-exploitation.md,file
+dotnetnuke-dnn.md,file
+double-free.md,file
+dpapi-extracting-passwords.md,file
+drozer-tutorial,dir
+drupal,dir
+drupal-rce.md,file
+dsrm-credentials.md,file
+editseprincipalpointers1.jpg,file
+eeprom_plugged_ch341a.jpg,file
+eigrp-attacks.md,file
+el-expression-language.md,file
+elasticlunr.min.js,file
+electron-cef-chromium-debugger-abuse.md,file
+electron-contextisolation-rce-via-electron-internal-code.md,file
+electron-contextisolation-rce-via-ipc.md,file
+electron-contextisolation-rce-via-preload-code.md,file
+electron-desktop-apps,dir
+elf-tricks.md,file
+email-injections.md,file
+enable-nexmon-monitor-and-injection-on-android.md,file
+enrolling-devices-in-other-organisations.md,file
+epmd_bf-0.1.tar.bz2,file
+erc-4337-smart-account-security-pitfalls.md,file
+escaping-from-gui-applications.md,file
+escaping-from-limited-bash.md,file
+esim-javacard-exploitation.md,file
+euid-ruid-suid.md,file
+event-loop-blocking-+-lazy-images.md,file
+evil-twin-eap-tls.md,file
+exfiltration.md,file
+exploiting-__viewstate-knowing-the-secret.md,file
+exploiting-__viewstate-parameter.md,file
+exploiting-a-debuggeable-applciation.md,file
+exploiting-content-providers.md,file
+expose-local-to-the-internet.md,file
+express-prototype-pollution-gadgets.md,file
+external-forest-domain-one-way-outbound.md,file
+external-forest-domain-oneway-inbound.md,file
+external-recon-methodology,dir
+extracting-entitlements-from-compiled-application.md,file
+fast-bin-attack.md,file
+fault_injection_attacks.md,file
+favicon.png,file
+favicon.svg,file
+file-data-carving-recovery-tools.md,file
+file-inclusion,dir
+file-integrity-monitoring.md,file
+file-upload,dir
+files,dir
+filesystem-inodes-and-recovery.md,file
+firebase-database.md,file
+firmware-analysis,dir
+firmware-integrity.md,file
+firmware-level-zygote-backdoor-libandroid_runtime.md,file
+first-fit.md,file
+fissure-the-rf-framework.md,file
+flask.md,file
+flipper-zero,dir
+flutter.md,file
+fonts,dir
+fonts.css,file
+forced-extension-load-preferences-mac-forgery-windows.md,file
+format-strings,dir
+format-strings-arbitrary-read-example.md,file
+format-strings-template.md,file
+formula-csv-doc-latex-ghostscript-injection.md,file
+fortinet-fortiweb.md,file
+free.md,file
+freebsd-ptrace-rfi-vm_map-prot_exec-bypass-ps5.md,file
+freeipa-pentesting.md,file
+freeze_demo_hacktricks.gif,file
+frida-configuration-in-ios.md,file
+frida-tutorial,dir
+frida-tutorial-1.md,file
+frida-tutorial-2.md,file
+from-high-integrity-to-system-with-name-pipes.md,file
+ftp-bounce-attack.md,file
+ftp-bounce-download-2oftp-file.md,file
+full-ttys.md,file
+fuzzing.md,file
+fz-125khz-rfid.md,file
+fz-ibutton.md,file
+fz-infrared.md,file
+fz-nfc.md,file
+fz-sub-ghz.md,file
+general.css,file
+generic-hacking,dir
+generic-methodologies-and-resources,dir
+git.md,file
+github-leaked-secrets.md,file
+glbp-and-hsrp-attacks.md,file
+gnu-obstack-function-pointer-hijack.md,file
+godap.png,file
+golang.md,file
+golden-dmsa-gmsa.md,file
+golden-ticket.md,file
+google-ctf-2018-shall-we-play-a-game.md,file
+grafana.md,file
+graphql.md,file
+grpc-web-pentest.md,file
+grte-badge-v1.webp,file
+grte.png,file
+h2-java-sql-database.md,file
+h2c-smuggling.md,file
+hack tricks gif.gif,file
+hacking-jwt-json-web-tokens.md,file
+hacking-with-cookies,dir
+hacktricks-preprocessor.py,file
+hacktricks-summer-discount-2026-v1.webp,file
+hacktricks-summer-discount-2026.png,file
+hacktricks-training.md,file
+hacktricks-values-and-faq.md,file
+hacktricks.gif,file
+hardware-hacking,dir
+hardware-physical-access,dir
+harvesting-tickets-from-linux.md,file
+harvesting-tickets-from-windows.md,file
+hashes,dir
+heap-functions-security-checks.md,file
+heap-memory-functions,dir
+heap-overflow.md,file
+highlight.css,file
+highlight.js,file
+homograph-attacks.md,file
+house-of-einherjar.md,file
+house-of-force.md,file
+house-of-lore.md,file
+house-of-orange.md,file
+house-of-rabbit.md,file
+house-of-roman.md,file
+house-of-spirit.md,file
+ht_bf.jpg,file
+ht_searcher.js,file
+http-connection-contamination.md,file
+http-connection-request-smuggling.md,file
+http-request-smuggling,dir
+http-response-smuggling-desync.md,file
+i2c.md,file
+ibutton.md,file
+idor.md,file
+ids-evasion.md,file
+iframe-traps.md,file
+iframes-in-xss-and-csp.md,file
+iis-internet-information-services.md,file
+iisfinal.txt,file
+image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1) (1).png,file
+image (1) (1) (1) (1).png,file
+image (1) (1) (1).png,file
+image (1) (1).png,file
+image (1) (2) (1) (1) (1).png,file
+image (10) (1) (1) (1).png,file
+image (10) (1) (1).png,file
+image (10) (1).png,file
+image (10).png,file
+image (1001).png,file
+image (1003).png,file
+image (1006).png,file
+image (1007).png,file
+image (1008).png,file
+image (1009).png,file
+image (101).png,file
+image (1013).png,file
+image (1014).png,file
+image (1016).png,file
+image (1020).png,file
+image (1022).png,file
+image (1023).png,file
+image (1025).png,file
+image (1026).png,file
+image (1029).png,file
+image (1030).png,file
+image (1031).png,file
+image (1033).png,file
+image (1036).png,file
+image (1037).png,file
+image (1039).png,file
+image (104).png,file
+image (1040).png,file
+image (1041).png,file
+image (1042).png,file
+image (1043).png,file
+image (1044).png,file
+image (1046).png,file
+image (1047).png,file
+image (1048).png,file
+image (1049).png,file
+image (1052).png,file
+image (1053).png,file
+image (1056).png,file
+image (1057).png,file
+image (1059).png,file
+image (106).png,file
+image (1060).png,file
+image (1061).png,file
+image (1062).png,file
+image (1063).png,file
+image (1067).png,file
+image (1068).png,file
+image (107) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (4) (1).png,file
+image (107).png,file
+image (1070).png,file
+image (1072).png,file
+image (1076).png,file
+image (1077).png,file
+image (1078).png,file
+image (1079).png,file
+image (108).png,file
+image (1080).png,file
+image (1081).png,file
+image (1084).png,file
+image (1085).png,file
+image (1086).png,file
+image (1088).png,file
+image (1089).png,file
+image (1090).png,file
+image (1092).png,file
+image (1093).png,file
+image (1094).png,file
+image (1095).png,file
+image (1097).png,file
+image (1098).png,file
+image (1099).png,file
+image (11) (1) (1).png,file
+image (11) (1).png,file
+image (11).png,file
+image (110).png,file
+image (1101).png,file
+image (1102).png,file
+image (1103).png,file
+image (1107).png,file
+image (1108).png,file
+image (111).png,file
+image (1110).png,file
+image (1111).png,file
+image (1113).png,file
+image (1115).png,file
+image (1116).png,file
+image (1117).png,file
+image (1118).png,file
+image (1119).png,file
+image (1120).png,file
+image (1121).png,file
+image (1126).png,file
+image (1128).png,file
+image (1129).png,file
+image (113).png,file
+image (1130).png,file
+image (1131).png,file
+image (1133).png,file
+image (1135).png,file
+image (1136).png,file
+image (1138).png,file
+image (1140).png,file
+image (1141).png,file
+image (1142).png,file
+image (1143).png,file
+image (1144).png,file
+image (1145).png,file
+image (1148).png,file
+image (1150).png,file
+image (1151).png,file
+image (1152).png,file
+image (116).png,file
+image (1160).png,file
+image (1162).png,file
+image (1163).png,file
+image (1164).png,file
+image (1165).png,file
+image (1166).png,file
+image (1167).png,file
+image (1168).png,file
+image (1169).png,file
+image (117).png,file
+image (1170).png,file
+image (1174).png,file
+image (1175).png,file
+image (1176).png,file
+image (1177).png,file
+image (1179).png,file
+image (1180).png,file
+image (1181).png,file
+image (1182).png,file
+image (1183).png,file
+image (119) (1).png,file
+image (119).png,file
+image (1190).png,file
+image (1191).png,file
+image (1192).png,file
+image (1194).png,file
+image (1196).png,file
+image (1197).png,file
+image (12) (1).png,file
+image (12).png,file
+image (120).png,file
+image (1200).png,file
+image (1201).png,file
+image (1202).png,file
+image (1203).png,file
+image (1205).png,file
+image (1206).png,file
+image (1207).png,file
+image (1208).png,file
+image (1209).png,file
+image (121) (1) (1) (1).png,file
+image (121).png,file
+image (1210).png,file
+image (1211).png,file
+image (1212).png,file
+image (1213).png,file
+image (1214).png,file
+image (1215).png,file
+image (1218).png,file
+image (1219).png,file
+image (1222).png,file
+image (1223).png,file
+image (1224).png,file
+image (1225).png,file
+image (1226).png,file
+image (123).png,file
+image (1233).png,file
+image (1234).png,file
+image (1239).png,file
+image (124).png,file
+image (1241).png,file
+image (1242).png,file
+image (1243).png,file
+image (1245).png,file
+image (1246).png,file
+image (1247).png,file
+image (1248).png,file
+image (1249).png,file
+image (1254).png,file
+image (1255).png,file
+image (1257).png,file
+image (1258).png,file
+image (1259).png,file
+image (1260).png,file
+image (1261).png,file
+image (1262).png,file
+image (1263).png,file
+image (128).png,file
+image (13) (1).png,file
+image (13).png,file
+image (130).png,file
+image (131).png,file
+image (132).png,file
+image (136).png,file
+image (137).png,file
+image (138).png,file
+image (14) (1).png,file
+image (14).png,file
+image (140).png,file
+image (141).png,file
+image (142).png,file
+image (143).png,file
+image (144).png,file
+image (145).png,file
+image (146).png,file
+image (15) (1).png,file
+image (15).png,file
+image (150).png,file
+image (151).png,file
+image (152).png,file
+image (153).png,file
+image (155).png,file
+image (156).png,file
+image (159).png,file
+image (16) (1) (1).png,file
+image (16) (1).png,file
+image (16).png,file
+image (163).png,file
+image (165).png,file
+image (166).png,file
+image (167).png,file
+image (168).png,file
+image (169).png,file
+image (17) (1).png,file
+image (172) (1).png,file
+image (173).png,file
+image (176).png,file
+image (18).png,file
+image (180).png,file
+image (182).png,file
+image (183).png,file
+image (186).png,file
+image (188).png,file
+image (190).png,file
+image (192).png,file
+image (193).png,file
+image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (2) (1) (1) (1) (1) (1) (1) (1).png,file
+image (2) (1) (1) (1) (1) (1) (1).png,file
+image (2) (1) (1) (1) (1) (1).png,file
+image (2) (1) (1) (1) (1).png,file
+image (2) (1) (1) (1).png,file
+image (2) (1) (1).png,file
+image (2) (1).png,file
+image (2).png,file
+image (201) (2) (1) (1).png,file
+image (201).png,file
+image (203).png,file
+image (207) (2) (1).png,file
+image (208).png,file
+image (209).png,file
+image (21).png,file
+image (212).png,file
+image (215) (1) (1).png,file
+image (215).png,file
+image (216).png,file
+image (217).png,file
+image (218) (1).png,file
+image (218).png,file
+image (219).png,file
+image (22).png,file
+image (220).png,file
+image (221).png,file
+image (222).png,file
+image (225).png,file
+image (226).png,file
+image (227).png,file
+image (228).png,file
+image (23) (1).png,file
+image (23).png,file
+image (230).png,file
+image (231).png,file
+image (234).png,file
+image (235).png,file
+image (237).png,file
+image (24) (1) (1).png,file
+image (24).png,file
+image (240).png,file
+image (241).png,file
+image (242).png,file
+image (245).png,file
+image (246).png,file
+image (248).png,file
+image (249).png,file
+image (25) (1) (1).png,file
+image (253) (1) (1) (1).png,file
+image (253) (1) (1).png,file
+image (253) (1) (2) (1) (1) (2) (2) (3) (3) (5) (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (10) (15) (2).png,file
+image (254) (1) (1) (1) (1) (1) (1) (1).png,file
+image (254).png,file
+image (256).png,file
+image (258).png,file
+image (26) (1) (1).png,file
+image (26).png,file
+image (261).png,file
+image (263).png,file
+image (264).png,file
+image (266).png,file
+image (269).png,file
+image (27) (1) (1).png,file
+image (27).png,file
+image (270).png,file
+image (273).png,file
+image (275).png,file
+image (276).png,file
+image (277).png,file
+image (279).png,file
+image (28) (1) (1).png,file
+image (28).png,file
+image (281).png,file
+image (282).png,file
+image (284).png,file
+image (286).png,file
+image (29) (1) (1).png,file
+image (29).png,file
+image (290).png,file
+image (293).png,file
+image (294).png,file
+image (295).png,file
+image (297).png,file
+image (298).png,file
+image (299).png,file
+image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (3) (1) (1) (1) (1) (1) (1).png,file
+image (3) (1) (1) (1) (1) (1).png,file
+image (3) (1) (1) (1) (1).png,file
+image (3) (1) (1) (1).png,file
+image (3) (1) (1).png,file
+image (3) (1).png,file
+image (3).png,file
+image (30) (1) (1).png,file
+image (30).png,file
+image (300).png,file
+image (301).png,file
+image (304).png,file
+image (305).png,file
+image (306).png,file
+image (308).png,file
+image (31) (1).png,file
+image (31).png,file
+image (310).png,file
+image (311).png,file
+image (312) (2).png,file
+image (312).png,file
+image (313).png,file
+image (314) (1).png,file
+image (314).png,file
+image (315).png,file
+image (317).png,file
+image (318).png,file
+image (319).png,file
+image (32) (1).png,file
+image (322).png,file
+image (324).png,file
+image (325).png,file
+image (326).png,file
+image (327).png,file
+image (329).png,file
+image (33) (1).png,file
+image (33).png,file
+image (335).png,file
+image (336).png,file
+image (337).png,file
+image (338).png,file
+image (339).png,file
+image (34) (1).png,file
+image (34).png,file
+image (340).png,file
+image (341).png,file
+image (342).png,file
+image (343).png,file
+image (344).png,file
+image (345) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (3).png,file
+image (345).png,file
+image (346).png,file
+image (35) (1).png,file
+image (35).png,file
+image (350).png,file
+image (351).png,file
+image (354).png,file
+image (356).png,file
+image (358).png,file
+image (359).png,file
+image (36) (1).png,file
+image (36).png,file
+image (360).png,file
+image (363).png,file
+image (365).png,file
+image (367).png,file
+image (369).png,file
+image (37).png,file
+image (370).png,file
+image (371).png,file
+image (372).png,file
+image (375) (1) (1) (1) (1).png,file
+image (376).png,file
+image (377).png,file
+image (378).png,file
+image (379).png,file
+image (38).png,file
+image (380).png,file
+image (381).png,file
+image (382).png,file
+image (383).png,file
+image (384).png,file
+image (385).png,file
+image (386).png,file
+image (387).png,file
+image (39).png,file
+image (391).png,file
+image (392).png,file
+image (393).png,file
+image (396).png,file
+image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (4) (1) (1) (1) (1) (1).png,file
+image (4) (1) (1) (1) (1).png,file
+image (4) (1) (1) (1).png,file
+image (4) (1) (1).png,file
+image (4).png,file
+image (40).png,file
+image (406).png,file
+image (407) (1).png,file
+image (407).png,file
+image (408) (1).png,file
+image (41).png,file
+image (413) (3) (3) (3) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (12).png,file
+image (413) (3) (3) (3) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png,file
+image (414).png,file
+image (415).png,file
+image (416).png,file
+image (417).png,file
+image (418).png,file
+image (419).png,file
+image (42).png,file
+image (420).png,file
+image (421).png,file
+image (422).png,file
+image (423).png,file
+image (424).png,file
+image (425).png,file
+image (426).png,file
+image (427).png,file
+image (430).png,file
+image (431).png,file
+image (432).png,file
+image (434).png,file
+image (436) (1) (1) (1).png,file
+image (437).png,file
+image (439).png,file
+image (44).png,file
+image (441).png,file
+image (443).png,file
+image (444).png,file
+image (445).png,file
+image (446) (1) (2) (2) (3) (3) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (10) (10) (2).png,file
+image (446).png,file
+image (447).png,file
+image (448).png,file
+image (449).png,file
+image (45).png,file
+image (450).png,file
+image (451).png,file
+image (452).png,file
+image (453).png,file
+image (457).png,file
+image (458).png,file
+image (459).png,file
+image (461).png,file
+image (462).png,file
+image (463).png,file
+image (466).png,file
+image (47).png,file
+image (470).png,file
+image (472).png,file
+image (474).png,file
+image (476).png,file
+image (477) (2) (2) (2) (2) (2) (2) (2) (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (14).png,file
+image (477) (2) (2) (2) (2) (2) (2) (2) (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (10) (14) (2).png,file
+image (479).png,file
+image (48).png,file
+image (482).png,file
+image (483).png,file
+image (484).png,file
+image (485).png,file
+image (486).png,file
+image (487).png,file
+image (488).png,file
+image (489).png,file
+image (490).png,file
+image (491).png,file
+image (492).png,file
+image (493).png,file
+image (494).png,file
+image (495) (1) (1) (1).png,file
+image (495).png,file
+image (496).png,file
+image (498).png,file
+image (499).png,file
+image (5) (1) (1) (1).png,file
+image (5) (1) (1) (2) (1).png,file
+image (5) (1) (1).png,file
+image (5) (1).png,file
+image (5).png,file
+image (501).png,file
+image (506).png,file
+image (507) (3).png,file
+image (507).png,file
+image (508).png,file
+image (509).png,file
+image (513).png,file
+image (518).png,file
+image (519).png,file
+image (520).png,file
+image (521).png,file
+image (522).png,file
+image (524).png,file
+image (527).png,file
+image (529).png,file
+image (53).png,file
+image (531).png,file
+image (532).png,file
+image (533).png,file
+image (534).png,file
+image (537).png,file
+image (539).png,file
+image (54).png,file
+image (541).png,file
+image (545).png,file
+image (547).png,file
+image (549).png,file
+image (55).png,file
+image (551).png,file
+image (553).png,file
+image (555).png,file
+image (559).png,file
+image (56).png,file
+image (561).png,file
+image (562).png,file
+image (563).png,file
+image (564).png,file
+image (565).png,file
+image (566) (1).png,file
+image (566).png,file
+image (567) (1) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (2).png,file
+image (567).png,file
+image (569).png,file
+image (57).png,file
+image (572).png,file
+image (573).png,file
+image (574).png,file
+image (576).png,file
+image (577).png,file
+image (578).png,file
+image (58).png,file
+image (581).png,file
+image (582).png,file
+image (583).png,file
+image (584).png,file
+image (585).png,file
+image (586).png,file
+image (589).png,file
+image (590).png,file
+image (593).png,file
+image (594).png,file
+image (595).png,file
+image (596).png,file
+image (597).png,file
+image (6) (1) (1) (1) (1).png,file
+image (6) (1) (1) (1).png,file
+image (6) (1) (1).png,file
+image (6) (1).png,file
+image (6).png,file
+image (600).png,file
+image (602).png,file
+image (605).png,file
+image (606).png,file
+image (607).png,file
+image (610).png,file
+image (613).png,file
+image (614).png,file
+image (615).png,file
+image (616).png,file
+image (617).png,file
+image (618) (1).png,file
+image (619).png,file
+image (620) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (5).png,file
+image (620) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (2) (2).png,file
+image (621).png,file
+image (622).png,file
+image (624).png,file
+image (625).png,file
+image (626).png,file
+image (628).png,file
+image (629) (1) (1).png,file
+image (629).png,file
+image (630).png,file
+image (633).png,file
+image (634).png,file
+image (636).png,file
+image (637).png,file
+image (639).png,file
+image (640).png,file
+image (643).png,file
+image (644).png,file
+image (647).png,file
+image (649).png,file
+image (652).png,file
+image (655).png,file
+image (659).png,file
+image (663).png,file
+image (664).png,file
+image (674).png,file
+image (677).png,file
+image (680).png,file
+image (683).png,file
+image (684).png,file
+image (687).png,file
+image (688).png,file
+image (689).png,file
+image (691).png,file
+image (692).png,file
+image (694).png,file
+image (695).png,file
+image (698).png,file
+image (7) (1) (1) (1) (1).png,file
+image (7) (1) (1) (1).png,file
+image (7) (1) (1).png,file
+image (7).png,file
+image (70).png,file
+image (700).png,file
+image (701).png,file
+image (702).png,file
+image (704).png,file
+image (707).png,file
+image (71).png,file
+image (711).png,file
+image (713).png,file
+image (714).png,file
+image (715).png,file
+image (716).png,file
+image (717).png,file
+image (719).png,file
+image (72).png,file
+image (720).png,file
+image (721).png,file
+image (722).png,file
+image (725).png,file
+image (729).png,file
+image (732).png,file
+image (734).png,file
+image (735).png,file
+image (737).png,file
+image (740).png,file
+image (741).png,file
+image (742).png,file
+image (744).png,file
+image (745).png,file
+image (747).png,file
+image (75).png,file
+image (753).png,file
+image (754).png,file
+image (757).png,file
+image (762).png,file
+image (764).png,file
+image (765).png,file
+image (766).png,file
+image (768).png,file
+image (769).png,file
+image (771).png,file
+image (772).png,file
+image (773).png,file
+image (774).png,file
+image (776).png,file
+image (78).png,file
+image (780).png,file
+image (784).png,file
+image (788).png,file
+image (79).png,file
+image (792).png,file
+image (793).png,file
+image (794).png,file
+image (8) (1) (1) (1) (1).png,file
+image (8) (1) (1) (1).png,file
+image (8) (1) (1).png,file
+image (8) (1).png,file
+image (8).png,file
+image (80).png,file
+image (801).png,file
+image (808).png,file
+image (809).png,file
+image (81).png,file
+image (812).png,file
+image (813).png,file
+image (814).png,file
+image (817).png,file
+image (82).png,file
+image (820).png,file
+image (824).png,file
+image (826).png,file
+image (83).png,file
+image (831).png,file
+image (833).png,file
+image (834).png,file
+image (835).png,file
+image (837).png,file
+image (838).png,file
+image (840).png,file
+image (842).png,file
+image (843).png,file
+image (844).png,file
+image (850).png,file
+image (851).png,file
+image (853).png,file
+image (856).png,file
+image (858).png,file
+image (859).png,file
+image (86).png,file
+image (861).png,file
+image (863).png,file
+image (864).png,file
+image (865).png,file
+image (866).png,file
+image (868).png,file
+image (869).png,file
+image (870).png,file
+image (871).png,file
+image (872).png,file
+image (874).png,file
+image (875).png,file
+image (879).png,file
+image (880).png,file
+image (883).png,file
+image (887).png,file
+image (89).png,file
+image (890).png,file
+image (891).png,file
+image (892).png,file
+image (893).png,file
+image (896).png,file
+image (897).png,file
+image (899).png,file
+image (9) (1) (1) (1) (1).png,file
+image (9) (1) (1) (1).png,file
+image (9) (1) (1).png,file
+image (9) (1).png,file
+image (9).png,file
+image (90).png,file
+image (901).png,file
+image (902).png,file
+image (904).png,file
+image (905).png,file
+image (906).png,file
+image (908).png,file
+image (91).png,file
+image (910).png,file
+image (911).png,file
+image (914).png,file
+image (915).png,file
+image (917).png,file
+image (919).png,file
+image (92).png,file
+image (922).png,file
+image (923).png,file
+image (927).png,file
+image (928).png,file
+image (929).png,file
+image (93).png,file
+image (930).png,file
+image (933).png,file
+image (935).png,file
+image (936).png,file
+image (937).png,file
+image (938).png,file
+image (939).png,file
+image (94).png,file
+image (940).png,file
+image (941).png,file
+image (942).png,file
+image (944).png,file
+image (945).png,file
+image (946).png,file
+image (947).png,file
+image (948).png,file
+image (95).png,file
+image (950).png,file
+image (956).png,file
+image (958).png,file
+image (96).png,file
+image (960).png,file
+image (961).png,file
+image (962).png,file
+image (963).png,file
+image (964).png,file
+image (965).png,file
+image (971).png,file
+image (973).png,file
+image (976).png,file
+image (98).png,file
+image (981).png,file
+image (983).png,file
+image (988).png,file
+image (989).png,file
+image (990).png,file
+image (991).png,file
+image (992).png,file
+image (993).png,file
+image (994).png,file
+image (996).png,file
+image (999).png,file
+image-acquisition-and-mount.md,file
+image-security-and-secrets.md,file
+image.png,file
+imagemagick-security.md,file
+images,dir
+imessage-media-parser-zero-click-coreaudio-pac-bypass.md,file
+img10.png,file
+img11.png,file
+img12.png,file
+img9.png,file
+in-memory-jni-shellcode-execution.md,file
+index.hbs,file
+industrial-control-systems-hacking,dir
+infrared.md,file
+inputmethodservice-ime-abuse.md,file
+insecure-in-app-update-rce.md,file
+install-burp-certificate.md,file
+integer-overflow-and-underflow.md,file
+integer-overflow.md,file
+integrity-levels.md,file
+intent-injection.md,file
+interesting-files-permissions,dir
+interesting-groups-linux-pe,dir
+interesting-http.md,file
+interesting-windows-registry-keys.md,file
+introduction-to-x64.md,file
+intruder4 (1) (1).gif,file
+investment-terms.md,file
+ios-app-extensions.md,file
+ios-backup-forensics.md,file
+ios-basics.md,file
+ios-corellium.md,file
+ios-custom-uri-handlers-deeplinks-custom-schemes.md,file
+ios-example-heap-exploit.md,file
+ios-exploiting,dir
+ios-hooking-with-objection.md,file
+ios-pentesting,dir
+ios-pentesting-checklist.md,file
+ios-pentesting-without-jailbreak.md,file
+ios-physical-uaf-iosurface.md,file
+ios-protocol-handlers.md,file
+ios-serialisation-and-encoding.md,file
+ios-testing-environment.md,file
+ios-uiactivity-sharing.md,file
+ios-uipasteboard.md,file
+ios-universal-links.md,file
+ios-webviews.md,file
+ipc-namespace.md,file
+ipsec-ike-vpn-pentesting.md,file
+ispconfig.md,file
+itunesstored-bookassetd-sandbox-escape.md,file
+java-dns-deserialization-and-gadgetprobe.md,file
+java-jsf-viewstate-.faces-deserialization.md,file
+java-signedobject-gated-deserialization.md,file
+java-transformers-to-rutime-exec-payload.md,file
+javascript-execution-xs-leak.md,file
+jboss.md,file
+jinja2-ssti.md,file
+jira.md,file
+jndi-java-naming-and-directory-interface-and-log4shell.md,file
+joomla.md,file
+js-hoisting.md,file
+js2py-sandbox-escape-cve-2024-28397.md,file
+json-xml-yaml-hacking.md,file
+jsp.md,file
+jtag.md,file
+juicypotato.md,file
+k8studio.png,file
+keras-model-deserialization-rce-and-gadget-hunting.md,file
+kerberoast.md,file
+kerberos-authentication.md,file
+kerberos-double-hop-problem.md,file
+kernel-lpe-cves,dir
+kernel-modules-and-modprobe.md,file
+kernel-race-condition-object-manager-slowdown.md,file
+ksmbd-attack-surface-and-fuzzing-syzkaller.md,file
+ksmbd-streams_xattr-oob-write-cve-2025-37947.md,file
+lansweeper-security.md,file
+laps.md,file
+laravel.md,file
+large-bin-attack.md,file
+lasttower.png,file
+lateral-movement,dir
+lateral-vlan-segmentation-bypass.md,file
+launch_new_project_2.jpg,file
+ld.so.conf-example.md,file
+ldap-injection.md,file
+ldap-signing-and-channel-binding.md,file
+ldapx.png,file
+leaked-handle-exploitation.md,file
+lee.png,file
+less-code-injection.md,file
+lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure.md,file
+lfi2rce-via-eternal-waiting.md,file
+lfi2rce-via-nginx-temp-files.md,file
+lfi2rce-via-php-filters.md,file
+lfi2rce-via-phpinfo.md,file
+lfi2rce-via-segmentation-fault.md,file
+lfi2rce-via-temp-file-uploads.md,file
+lhe.png,file
+libc-heap,dir
+libc-protections.md,file
+linux-active-directory.md,file
+linux-basics,dir
+linux-capabilities.md,file
+linux-environment-variables.md,file
+linux-forensics.md,file
+linux-hardening,dir
+linux-kernel-exploitation,dir
+linux-post-exploitation,dir
+linux-privilege-escalation,dir
+linux-privilege-escalation-checklist.md,file
+linux-ptrace-exit-race-pidfd_getfd-fd-theft.md,file
+linux.md,file
+livewire-hydration-synthesizer-abuse.md,file
+load_name-load_const-opcode-oob-read.md,file
+local-cloud-storage.md,file
+local-network-and-socket-triage.md,file
+local-ntlm-reflection-via-smb-arbitrary-port.md,file
+login-bypass,dir
+logo-naxus.png,file
+logo.svg,file
+logstash.md,file
+low-power-wide-area-network.md,file
+lua,dir
+lxd-privilege-escalation.md,file
+mac-os-architecture,dir
+mach-o-entitlements-and-ipsw-indexing.md,file
+macos-.net-applications-injection.md,file
+macos-amfi-applemobilefileintegrity.md,file
+macos-apple-events.md,file
+macos-apple-scripts.md,file
+macos-applefs.md,file
+macos-apps-inspecting-debugging-and-fuzzing,dir
+macos-authorizations-db-and-authd.md,file
+macos-auto-start-locations.md,file
+macos-automator-preference-panes-nsservices.md,file
+macos-bash-applications-injection.md,file
+macos-basic-objective-c.md,file
+macos-bundles.md,file
+macos-bypassing-firewalls.md,file
+macos-chromium-injection.md,file
+macos-code-signing-weaknesses-and-sandbox-escapes.md,file
+macos-code-signing.md,file
+macos-dangerous-entitlements.md,file
+macos-default-sandbox-debug.md,file
+macos-defensive-apps.md,file
+macos-dirty-nib.md,file
+macos-dyld-hijacking-and-dyld_insert_libraries.md,file
+macos-dyld-process.md,file
+macos-electron-applications-injection.md,file
+macos-erlang-elixir-applications-injection.md,file
+macos-file-extension-apps.md,file
+macos-files-folders-and-binaries,dir
+macos-fs-tricks,dir
+macos-function-hooking.md,file
+macos-gatekeeper.md,file
+macos-gcd-grand-central-dispatch.md,file
+macos-hardening,dir
+macos-input-monitoring-screen-capture-accessibility.md,file
+macos-installers-abuse.md,file
+macos-iokit.md,file
+macos-ipc-inter-process-communication,dir
+macos-java-apps-injection.md,file
+macos-julia-applications-injection.md,file
+macos-kernel-extensions.md,file
+macos-kernel-vulnerabilities.md,file
+macos-keychain.md,file
+macos-launch-environment-constraints.md,file
+macos-library-injection,dir
+macos-lua-applications-injection.md,file
+macos-macf-mandatory-access-control-framework.md,file
+macos-mdm,dir
+macos-memory-dumping.md,file
+macos-mig-mach-interface-generator.md,file
+macos-nvram.md,file
+macos-octave-applications-injection.md,file
+macos-office-sandbox-bypasses.md,file
+macos-perl-applications-injection.md,file
+macos-php-applications-injection.md,file
+macos-pid-reuse.md,file
+macos-powershell-applications-injection.md,file
+macos-privilege-escalation.md,file
+macos-proces-abuse,dir
+macos-protocols.md,file
+macos-python-applications-injection.md,file
+macos-quicklook-generators.md,file
+macos-r-applications-injection.md,file
+macos-red-teaming,dir
+macos-ruby-applications-injection.md,file
+macos-sandbox,dir
+macos-sandbox-debug-and-bypass,dir
+macos-sealed-system-volume-and-datavault.md,file
+macos-security-and-privilege-escalation,dir
+macos-security-protections,dir
+macos-sensitive-locations.md,file
+macos-serial-number.md,file
+macos-sip.md,file
+macos-system-extensions.md,file
+macos-tcc,dir
+macos-tcc-bypasses,dir
+macos-tcc-credential-and-data-theft.md,file
+macos-tcc-payloads.md,file
+macos-thread-injection-via-task-port.md,file
+macos-useful-commands.md,file
+macos-users.md,file
+macos-xattr-acls-extra-stuff.md,file
+macos-xpc,dir
+macos-xpc-authorization.md,file
+macos-xpc-connecting-process-check,dir
+macos-xpc-mach-services-abuse.md,file
+macos-xpc_connection_get_audit_token-attack.md,file
+main-system-information,dir
+make-apk-accept-ca-certificate.md,file
+malloc-and-sysmalloc.md,file
+malware-analysis.md,file
+malware-and-network,dir
+manual-deobfuscation.md,file
+mark_unchanged_s3_files.py,file
+masked-paths.md,file
+mass-assignment-cwe-915.md,file
+maxiprox-mobile-cloner.md,file
+mediatek-xflash-carbonara-da2-hash-bypass.md,file
+memcache-commands.md,file
+memory-dump-analysis,dir
+memory-tagging-extension-mte.md,file
+meshcentral.md,file
+microsoft-sharepoint.md,file
+mimidrv.png,file
+mobile-pentesting,dir
+mobile-phishing-malicious-apps.md,file
+modbus.md,file
+modern_security_logo.png,file
+moodle-rce-plugin.zip,file
+moodle.md,file
+more-tools.md,file
+motion.js,file
+mount-namespace.md,file
+ms-access-sql-injection.md,file
+msfvenom.md,file
+msi-wrapper.md,file
+mssql-injection.md,file
+mutation-testing-with-slither.md,file
+mysql-injection,dir
+mysql-ssrf.md,file
+mythic.md,file
+named-pipe-client-impersonation.md,file
+namespaces,dir
+network-information,dir
+network-namespace.md,file
+network-privesc-port-scanner-and-ntlm-chanllenge-response-disclosure.md,file
+network-protocols-explained-esp.md,file
+network-services-pentesting,dir
+nextjs.md,file
+nfs-no_root_squash-misconfiguration-pe.md,file
+nfs-service-pentesting.md,file
+nginx.md,file
+nginx_try_files.png,file
+nmap-summary-esp.md,file
+no-exec-nx.md,file
+no-new-privileges.md,file
+nodejs-express.md,file
+nodejs-proto-prototype-pollution,dir
+nosql-injection.md,file
+notepad-plus-plus-plugin-autoload-persistence.md,file
+ntlm,dir
+oauth-to-account-takeover.md,file
+objection-tutorial.md,file
+objects-in-memory.md,file
+off-by-one-overflow.md,file
+office-file-analysis.md,file
+one-gadget.md,file
+online-platforms-with-api.md,file
+open-redirect.md,file
+open-sans-v17-all-charsets-300.woff2,file
+open-sans-v17-all-charsets-300italic.woff2,file
+open-sans-v17-all-charsets-600.woff2,file
+open-sans-v17-all-charsets-600italic.woff2,file
+open-sans-v17-all-charsets-700.woff2,file
+open-sans-v17-all-charsets-700italic.woff2,file
+open-sans-v17-all-charsets-800.woff2,file
+open-sans-v17-all-charsets-800italic.woff2,file
+open-sans-v17-all-charsets-italic.woff2,file
+open-sans-v17-all-charsets-regular.woff2,file
+oracle-injection.md,file
+orm-injection.md,file
+other-js-tricks.md,file
+other-web-tricks.md,file
+over-pass-the-hash-pass-the-key.md,file
+overwriting-a-freed-chunk.md,file
+owaspuncrackable-1.md,file
+p.png,file
+packmypayload_demo.gif,file
+pagetoc.css,file
+pagetoc.js,file
+pam-pluggable-authentication-modules.md,file
+parameter-pollution.md,file
+partitions-file-systems-carving,dir
+pass-the-ticket.md,file
+password-spraying.md,file
+payloads-to-execute.md,file
+pcap-inspection,dir
+pdf-file-analysis.md,file
+pdf-injection.md,file
+pdf-upload-xxe-and-cors-bypass.md,file
+pentest-tools.svg,file
+pentesting-264-check-point-firewall-1.md,file
+pentesting-631-internet-printing-protocol-ipp.md,file
+pentesting-ble-bluetooth-low-energy.md,file
+pentesting-compaq-hp-insight-manager.md,file
+pentesting-dns.md,file
+pentesting-finger.md,file
+pentesting-ftp,dir
+pentesting-imap.md,file
+pentesting-ipv6.md,file
+pentesting-irc.md,file
+pentesting-iso-8583-payment-sockets.md,file
+pentesting-jdwp-java-debug-wire-protocol.md,file
+pentesting-kerberos-88,dir
+pentesting-ldap.md,file
+pentesting-methodology.md,file
+pentesting-modbus.md,file
+pentesting-mssql-microsoft-sql-server,dir
+pentesting-mysql.md,file
+pentesting-network,dir
+pentesting-ntp.md,file
+pentesting-pop.md,file
+pentesting-postgresql.md,file
+pentesting-rdp.md,file
+pentesting-remote-gdbserver.md,file
+pentesting-rfid.md,file
+pentesting-rlogin.md,file
+pentesting-rpcbind.md,file
+pentesting-rsh.md,file
+pentesting-sap.md,file
+pentesting-smb,dir
+pentesting-smtp,dir
+pentesting-snmp,dir
+pentesting-ssh.md,file
+pentesting-telnet.md,file
+pentesting-veeam-backup-and-replication.md,file
+pentesting-vnc.md,file
+pentesting-voip,dir
+pentesting-web,dir
+pentesting-wifi,dir
+performance.now-+-force-heavy-task.md,file
+performance.now-example.md,file
+perl-tricks.md,file
+pgsql_exec.zip,file
+phar-deserialization.md,file
+phishing-documents.md,file
+phishing-methodology,dir
+phone-number-injections.md,file
+php-deserialization-+-autoload-classes.md,file
+php-rce-abusing-object-creation-new-usd_get-a-usd_get-b.md,file
+php-ssrf.md,file
+php-tricks-esp,dir
+php-useful-functions-disable_functions-open_basedir-bypass,dir
+physical-attacks.md,file
+pid-namespace.md,file
+pie,dir
+pixel-bigwave-bigo-job-timeout-uaf-kernel-write.md,file
+pl-pgsql-password-bruteforce.md,file
+places-to-steal-ntlm-creds.md,file
+play-integrity-attestation-bypass.md,file
+png-tricks.md,file
+pocs-and-polygloths-cheatsheet,dir
+pointer-redirecting.md,file
+posix-cpu-timers-toctou-cve-2025-38352.md,file
+post-exploitation,dir
+post-exploitation.md,file
+postgresql-injection,dir
+postmessage-vulnerabilities,dir
+posts.txt,file
+powerview.md,file
+prestashop.md,file
+print-stack-canary.md,file
+print.css,file
+printers-spooler-service-abuse.md,file
+printnightmare.md,file
+privilege-escalation-abusing-tokens.md,file
+privilege-escalation-with-autorun-binaries.md,file
+privileged-containers.md,file
+privileged-groups-and-token-privileges.md,file
+processes-crontab-systemd-dbus,dir
+protections,dir
+protocol-handler-shell-execute-abuse.md,file
+prototype-pollution-to-rce.md,file
+proxmark-3.md,file
+proxy-waf-protections-bypass.md,file
+psexec-and-winexec.md,file
+public-key,dir
+pull_request_template.md,file
+put-method-webdav.md,file
+pwntools.md,file
+pyscript.md,file
+python,dir
+python-internal-read-gadgets.md,file
+python-yaml-deserialization.md,file
+python.md,file
+race-condition.md,file
+radio-hacking,dir
+radio.md,file
+ram.png,file
+raptor_oraexec.sql,file
+rate-limit-bypass.md,file
+rce-with-postgresql-extensions.md,file
+rce-with-postgresql-languages.md,file
+rdp-sessions-abuse.md,file
+rdpexec.md,file
+react-native-application.md,file
+read-only-paths.md,file
+registration-vulnerabilities.md,file
+regular-expression-denial-of-service-redos.md,file
+relro.md,file
+reportlab-xhtml2pdf-triple-brackets-expression-evaluation-rce-cve-2023-33733.md,file
+request-smuggling-in-http-2-downgrades.md,file
+reset-password.md,file
+resource-based-constrained-delegation.md,file
+ret2csu.md,file
+ret2dlresolve.md,file
+ret2esp-ret2reg.md,file
+ret2lib,dir
+ret2lib-printf-leak-arm64.md,file
+ret2plt.md,file
+ret2ret.md,file
+ret2syscall-arm64.md,file
+ret2vdso.md,file
+ret2win,dir
+ret2win-arm64.md,file
+reverse-shells,dir
+reverse-tab-nabbing.md,file
+reversing,dir
+reversing-native-libraries.md,file
+reversing-tools-basic-methods,dir
+robots.txt,file
+rocket-chat.md,file
+roguepotato-and-printspoofer.md,file
+rop-leaking-libc-address,dir
+rop-leaking-libc-template.md,file
+rop-return-oriented-programing,dir
+rop-syscall-execv,dir
+roundcube.md,file
+rpcclient-enumeration.md,file
+rsa,dir
+rsql-injection.md,file
+ruby-_json-pollution.md,file
+ruby-class-pollution.md,file
+ruby-tricks.md,file
+runc-privilege-escalation.md,file
+runes.jpg,file
+runtime-api-and-daemon-exposure.md,file
+runtimes-and-engines.md,file
+rust-basics.md,file
+saml-attacks,dir
+saml-basics.md,file
+satisfiability-modulo-theories-smt-z3.md,file
+save_new_project.jpg,file
+sccm-management-point-relay-sql-policy-secrets.md,file
+scmexec.md,file
+scripts,dir
+search-exploits.md,file
+seccomp.md,file
+second-order-injection-sqlmap.md,file
+secure-desktop-accessibility-registry-propagation-regpwn.md,file
+security-descriptors.md,file
+sedebug-+-seimpersonate-copy-token.md,file
+seimpersonate-from-high-to-system.md,file
+selinux.md,file
+semanagevolume-perform-volume-maintenance-tasks.md,file
+sensitive-host-mounts.md,file
+seo_postprocess.py,file
+server-side-inclusion-edge-side-inclusion-injection.md,file
+server-side-xss-dynamic-pdf.md,file
+service-triggers.md,file
+servicenow.md,file
+shadow-credentials.md,file
+shadow-dom.md,file
+sharpdllproxy.gif,file
+shizuku-privileged-api.md,file
+sid-history-injection.md,file
+side-channel-attacks-on-messaging-protocols.md,file
+side_channel_analysis.md,file
+silver-ticket.md,file
+sip-session-initiation-protocol.md,file
+sitecore,dir
+skeleton-key.md,file
+smali-changes.md,file
+smart-contract-security,dir
+smtp-commands.md,file
+smtp-smuggling.md,file
+sniff-leak.md,file
+snmp-rce.md,file
+soap-jax-ws-threadlocal-auth-bypass.md,file
+socket-command-injection.md,file
+software-information,dir
+some-same-origin-method-execution.md,file
+source-code-pro-v11-all-charsets-500.woff2,file
+special-http-headers.md,file
+specific-software-file-type-tricks,dir
+spi.md,file
+splunk-lpe-and-persistence.md,file
+sponsor.js,file
+sponsor_8ksec.png,file
+sponsor_hackenproof.jpeg,file
+sponsor_intigriti.png,file
+sponsor_pentesttools.webp,file
+sponsor_rootedcon.png,file
+sponsor_stm.png,file
+sponsor_trickest.jpeg,file
+spoofing-llmnr-nbt-ns-mdns-dns-and-wpad-and-relay-attacks.md,file
+spoofing-ssdp-and-upnp-devices.md,file
+spoofing-your-location-in-play-store.md,file
+spring-actuators.md,file
+sql-injection,dir
+sql-login-bypass.md,file
+sqli-hashbypass.txt,file
+sqlmap,dir
+sqlmap.md,file
+src,dir
+srop-arm64.md,file
+srop-sigreturn-oriented-programming,dir
+ss-leaks.md,file
+ssh-forward-agent-exploitation.md,file
+ssrf-server-side-request-forgery,dir
+ssrf-vulnerable-platforms.md,file
+ssti-server-side-template-injection,dir
+stack-canaries,dir
+stack-overflow,dir
+stack-pivoting.md,file
+stack-shellcode,dir
+stack-shellcode-arm64.md,file
+steal-info-js.md,file
+steal-postmessage-modifying-iframe-location.md,file
+stealing-credentials,dir
+stealing-sensitive-information-disclosure-from-a-web.md,file
+stego,dir
+stm (1).png,file
+stored-xss-via-mounted-var-folder.png,file
+structural-file-format-exploit-detection.md,file
+sub-ghz-rf.md,file
+sudo-command-abuse.md,file
+suid-shared-library-and-linker-abuse.md,file
+suricata-and-iptables-cheatsheet.md,file
+svg-font-glyph-analysis-and-web-drm-deobfuscation.md,file
+symmetric,dir
+symphony.md,file
+synology-encrypted-archive-decryption.md,file
+tabs.css,file
+tabs.js,file
+tapjacking.md,file
+tcache-bin-attack.md,file
+telecom-network-exploitation.md,file
+telephony-tapsrv-arbitrary-dword-write-to-rce.md,file
+telerik-ui-aspnet-ajax-unsafe-reflection-webresource-axd.md,file
+template.py,file
+test-llms.md,file
+test_mark_unchanged_s3_files.py,file
+text,dir
+theme,dir
+threat-modeling.md,file
+threat_model_finished.jpg,file
+threatmodel_spidersuite_1.png,file
+threatmodel_spidersuite_2.png,file
+time-namespace.md,file
+timing-attacks.md,file
+tls-and-certificates,dir
+toc.js.hbs,file
+todo,dir
+tomcat,dir
+tools,dir
+translate_all.yml,file
+tunneling-and-port-forwarding.md,file
+types-of-mssql-users.md,file
+uac-user-account-control.md,file
+uart.md,file
+uiaccess-admin-protection-bypass.md,file
+unconstrained-delegation.md,file
+uncovering-cloudflare.md,file
+unicode-injection,dir
+unicode-normalization.md,file
+uninitialized-variables.md,file
+universal-binaries-and-mach-o-format.md,file
+unlink-attack.md,file
+unlink.md,file
+unsorted-bin-attack.md,file
+upload_immutable_images.sh,file
+url-format-bypass.md,file
+url-max-length-client-side.md,file
+usb-keystrokes.md,file
+use-after-free,dir
+useful-linux-commands.md,file
+user-information,dir
+user-namespace.md,file
+uts-namespace.md,file
+uuid-insecurities.md,file
+value-centric-web3-red-teaming.md,file
+variables.css,file
+venacus-logo.png,file
+venacus-logo.svg,file
+venv.md,file
+via-php_session_upload_progress.md,file
+video-and-audio-file-analysis.md,file
+virtualbox-slirp-nat-packet-heap-exploitation.md,file
+vmware-esx-vcenter....md,file
+vmware-tools-service-discovery-untrusted-search-path-cve-2025-41244.md,file
+vmware-workstation-pvscsi-lfh-escape.md,file
+vncpwd.zip,file
+volatility-cheatsheet.md,file
+vpnIDs.txt,file
+vuejs.md,file
+wasm-linear-memory-template-overwrite-xss.md,file
+web-api-pentesting.md,file
+web-requests.md,file
+web-tool-wfuzz.md,file
+web-vulnerabilities-methodology.md,file
+web-vulns-list.md,file
+web3-signing-workflow-compromise-safe-delegatecall-proxy-takeover.md,file
+webkit-dfg-store-barrier-uaf-angle-oob.md,file
+webrtc-dos.md,file
+websec (1).svg,file
+websec.gif,file
+websocket-attacks.md,file
+webview-attacks.md,file
+welcome,dir
+werkzeug.md,file
+wide-source-code-search.md,file
+wifi-pcap-analysis.md,file
+wildcards-spare-tricks.md,file
+windows-c-payloads.md,file
+windows-cpython-build-landmark-sys-path-hijacking.md,file
+windows-exploiting-basic-guide-oscp-lvl.md,file
+windows-forensics,dir
+windows-hardening,dir
+windows-local-privilege-escalation,dir
+windows-registry-hive-exploitation.md,file
+windows-seh-overflow.md,file
+windows-vectored-overloading.md,file
+windows.md,file
+winrm.md,file
+wireshark-tricks.md,file
+wmiexec.md,file
+word-macros.md,file
+wordpress.md,file
+workflow,dir
+workflows,dir
+writable-sys-path-dll-hijacking-privesc.md,file
+write-to-root.md,file
+wsgi.md,file
+wts-impersonator.md,file
+www2exec-.dtors-and-.fini_array.md,file
+www2exec-atexit.md,file
+xamarin-apps.md,file
+xpath-injection.md,file
+xs-search,dir
+xslt-server-side-injection-extensible-stylesheet-language-transformations.md,file
+xss-cross-site-scripting,dir
+xss-in-markdown.md,file
+xssi-cross-site-script-inclusion.md,file
+xxe-xee-xml-external-entity.md,file
+zabbix.md,file
+zero-click-messaging-image-parser-chains.md,file
+zips-tricks.md,file
+zoneminder-motioneye-motion.md,file

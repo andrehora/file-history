@@ -1,0 +1,773 @@
+name,type
+.DS_Store,file
+00-Latest_Papers,dir
+00-Tutorials,dir
+01-Surveys,dir
+02-General_RS,dir
+03-Social_RS,dir
+0306-ML_RSer-Papers,dir
+04-Deep_Learning_based_RS,dir
+0410-0416,dir
+0417-0423,dir
+0420-WWW2020-ML_RSer,dir
+05-Cold_Start_in_RS,dir
+06-POI_RS,dir
+07-Efficient_RS,dir
+0723-KDD2022-ML_RSer,dir
+08-EE_for_RS,dir
+09-Explainability_on_RS,dir
+1-A Survey on Knowledge Graph-Based Recommender Systems-2020.pdf,file
+10-CTR_Prediction_for_RS,dir
+10-Recommendation on a Budget-Column Space Recovery from Partially Observed Entries with Random or Active Sampling-2020.pdf,file
+11-AutoEmb-Automated Embedding Dimensionality Search in Streaming Recommendations-2020.pdf,file
+11-Knowledge_Graph_for_RS,dir
+12-A Setwise Bayesian Approach for Collaborative Ranking from Implicit Feedback-2020.pdf,file
+12-Review_RS,dir
+13-Conversational_RS,dir
+13-Syndrome-aware Herb Recommendation with Multi-Graph Convolution Network-2020.pdf,file
+14-Industrial_RS,dir
+14-Relation Embedding for Personalised Translation-based POI Recommendation-2020.pdf,file
+15-Privacy_RS,dir
+15-Secure Social Recommendation based on Secret Sharing-2020.pdf,file
+16-LLM_for_RS,dir
+17-Agentic_RS,dir
+1992-Using Collaborative Filtering to Weave An Information Tapestry.pdf,file
+1994-GroupLens An Open Architecture for Collaborative Filtering of Netnews.pdf,file
+2-Learning to Hash with Graph Neural Networks for Recommender Systems-2020.pdf,file
+2001-Item based Collaborative Filtering Recommendation Algorithms.pdf,file
+2002-Collaborative filtering with privacy via factor analysis-SIGIR.pdf,file
+2002-Collaborative filtering with privacy-S&P.pdf,file
+2002-Hybrid Recommender Systems Surveyand Experiments.pdf,file
+2002-Methods and metrics for cold-start recommendations.pdf,file
+2002-Using Confidence Bounds for Exploitation-Exploration Trade-offs.pdf,file
+2003-Amazon. com recommendations Item-to-item collaborative filtering.pdf,file
+2005-Slope One Predictors for Online Rating-Based Collaborative Filtering.pdf,file
+2005-Towards the Next Generation of Recommender Systems.pdf,file
+2007-Bipartite Network Projection and Personal Recommendation.pdf,file
+2007-Predicting Clicks - Estimating the Click-Through Rate for New Ads-WWW.pdf,file
+2007-Restricted Boltzmann machines for collaborative filtering.pdf,file
+2008-Collaborative Filtering for Implicit Feedback Datasets.pdf,file
+2008-Factorization Meets the Neighborhood a Multifaceted Collaborative Filtering Model.pdf,file
+2008-Improving Maximum Margin Matrix Factorization.pdf,file
+2008-One Class Collaborative Filtering.pdf,file
+2008-Probabilistic Matrix Factorization.pdf,file
+2008-Robust De-anonymization of Large Sparse Datasets-SP.pdf,file
+2008-SoRec Social Recommendation using Probabilistic Matrix Factorization.pdf,file
+2009-A Survey of Accuracy Evaluation Metrics of Recommendation Tasks-JMRL.pdf,file
+2009-A Survey of Collaborative Filtering Techniques.pdf,file
+2009-BPR Bayesian Personalized Ranking from Implicit Feedback.pdf,file
+2009-Feature Hashing for Large Scale Multitask Learning-ICML.pdf,file
+2009-Learning to Recommend with Social Trust Ensemble.pdf,file
+2009-Learning to Recommend with Trust and Distrust Relationships.pdf,file
+2009-Matrix Factorization Techniques for Recommender Systems.pdf,file
+2009-Regression-based latent factor models.pdf,file
+2009-The BellKor Solution to the Netflix Grand Prize.pdf,file
+2009-TrustWalker A Random Walk Model for Combining Trust-based and Item-based Recommendation.pdf,file
+2010- SocialMF A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks.pdf,file
+2010-A Contextual-Bandit Approach to Personalized News Article Recommendation.pdf,file
+2010-Collaborative Filtering via Euclidean Embeddings.pdf,file
+2010-Collaborative filtering on a budget.pdf,file
+2010-Collaborative filtering with temporal dynamics.pdf,file
+2010-Exploitation and Exploration in a Performance based Contextual Advertising System.pdf,file
+2010-Factor in the neighbors Scalable and accurate collaborative filtering.pdf,file
+2010-Learning Attribute-to-Feature Mappings for Cold-Start Recommendations.pdf,file
+2010-The YouTube Video Recommendation System.pdf,file
+2011-An Empirical Evaluation of Thompson Sampling.pdf,file
+2011-Collaborative topic modeling for recommending scientific articles.pdf,file
+2011-Comparison of collaborative filtering algorithms.pdf,file
+2011-Exploiting geographical influence for collaborative point-of-interest recommendation.pdf,file
+2011-Fast Context-aware Recommendations with Factorization Machines-SIGIR.pdf,file
+2011-Feature-based matrix factorization.pdf,file
+2011-ICML-Recommender Problems for Web Applications.pdf,file
+2011-Learning to recommend with explicit and implicit social relations.pdf,file
+2011-Recommender Systems with Social Regularization.pdf,file
+2011-Tag aware recommender systems a state-of-the-art survey.pdf,file
+2012-BlurMe-inferring and obfuscating user gender based on ratings-Recsys.pdf,file
+2012-Contextual Collaborative Filtering via Hierarchical Matrix Factorization.pdf,file
+2012-Fused matrix factorization with geographical and social influence in location-based social networks.pdf,file
+2012-Learning binary codes for collaborative filtering.pdf,file
+2012-Learning recommender systems with adaptive regularization.pdf,file
+2012-Recsys-Explaining the User Experience of Recommender Systems.pdf,file
+2012-Shilling attacks against recommender systems-a comprehensive survey.pdf,file
+2013-Ad Click Prediction a View from the Trenches-KDD.pdf,file
+2013-An experimental study on implicit social recommendation.pdf,file
+2013-Deep content-based music recommendation-NIPS.pdf,file
+2013-Exploiting Local and Global Social Context for Recommendation-AAAI.pdf,file
+2013-FISM-Factored Item Similarity Models for Top-N Recommender Systems.pdf,file
+2013-Hidden factors and hidden topicsUnderstanding rating dimensions with review text.pdf,file
+2013-IJCAI-Tutorial of Recommender System.pdf,file
+2013-Interactive Collaborative Filtering-CIKM.pdf,file
+2013-Label Partitioning For Sublinear Ranking.pdf,file
+2013-Learning deep structured semantic models for web search using clickthrough data-CIKM.pdf,file
+2013-Learning deep structured semantic models for web search using clickthrough data.pdf,file
+2013-Local Low Rank Matrix Approximation.pdf,file
+2013-RecSys-Recommendation in Social Networks.pdf,file
+2013-Recsys-Recommending People to People in Social Networks.pdf,file
+2013-Social Recommendation A Review.pdf,file
+2013-TrustMF Social Collaborative Filtering by Trust.pdf,file
+2013-iGSLR personalized geo-social location recommen dation a kernel density estimation approach.pdf,file
+2014-A Survey of Collaborative Filtering based Social Recommender Systems.pdf,file
+2014-Addressing cold start in recommender systems a semi-supervised co-training algorithm.pdf,file
+2014-Collaborative Filtering beyond the User-Item Matrix.pdf,file
+2014-Context Adaptation in Interactive Recommender Systems-Recsys.pdf,file
+2014-Context aware collaborative topic regression with social matrix factorization for recommender systems.pdf,file
+2014-History-Guided conversational recommendation-WWW.pdf,file
+2014-Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering.pdf,file
+2014-Logistic Matrix Factorization for Implicit Feedback Data-NIPS-WS.pdf,file
+2014-Lore exploiting sequential influence for location recommendations.pdf,file
+2014-Practical Lessons from Predicting Clicks on Ads at Facebook-ADKDD.pdf,file
+2014-Practical Lessons from Predicting Clicks on Ads at Facebook.pdf,file
+2014-Preference preserving hashing for efficient recommendation.pdf,file
+2014-Probabilistic matrix factorization with non-random missing data.pdf,file
+2014-Ratings meet reviews a combined approach to recommend..pdf,file
+2014-Recsys-Cross-Domain Recommender Systems.pdf,file
+2014-Social Collaborative Filtering for Cold-start Recommendations.pdf,file
+2014-TopicMF-Simultaneously Exploiting Ratings and Reviews for Recommendation-AAAI-Yang.pdf,file
+2014-Your neighbors affect your ratings on geographical neighborhood influence to rating prediction.pdf,file
+2015-A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems.pdf,file
+2015-A Survey of Point-of-Interest Recommendation in Location-Based Social Networks.pdf,file
+2015-A multi-view deep learning approach for cross domain user modeling in recommendation-WWW.pdf,file
+2015-AutoRec Autoencoders Meet Collaborative Filtering.pdf,file
+2015-Collaborative deep learning for recommender systems-KDD.pdf,file
+2015-Differentially Private Matrix Factorization-IJCAI.pdf,file
+2015-E commerce in Your Inbox-Product Recommendations at Scale.pdf,file
+2015-Geosoca Exploiting geographical social and categorical correlations for point-of-interest recommendations. .pdf,file
+2015-Metadata Embeddings for User and Item Cold-start Recommendations.pdf,file
+2015-Recommender Systems based on User Reviews.pdf,file
+2015-Recsys-Interactive Recommender Systems.pdf,file
+2015-Recsys-Real-Time Recommendation of Streamed Data.pdf,file
+2015-Semantic Path based Personalized Recommendation on Weighted Heterogeneous Information Networks.pdf,file
+2015-Social Networking Meets Recommender Systems Survey.pdf,file
+2015-TrustSVD Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.pdf,file
+2016-A Neural Autoregressive Approach to Collaborative Filtering.pdf,file
+2016-Collaborative Denoising Auto-Encoders for Top-N Recommender Systems-WSDM.pdf,file
+2016-Collaborative Filtering Bandits.pdf,file
+2016-Collaborative knowledge base embedding for recommender systems-KDD.pdf,file
+2016-Collaborative multi-level embedding learning from reviews for rating prediction..pdf,file
+2016-Convolutional Matrix Factorization for Document Context-Aware Recommendation.pdf,file
+2016-Data Poisoning Attacks on Factorization-Based Collaborative Filtering-NIPS.pdf,file
+2016-Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features-KDD.pdf,file
+2016-Deep Learning over Multi-field Categorical Data-arXiv.pdf,file
+2016-Deep Neural Networks for YouTube Recommendations.pdf,file
+2016-Discrete collaborative filtering.pdf,file
+2016-Fast Matrix Factorization for Online Recommendation with Implicit Feedback.pdf,file
+2016-Field-aware Factorization Machines for CTR Prediction-RecSys.pdf,file
+2016-Field-aware Factorization Machines for CTR Prediction.pdf,file
+2016-Group Recommender Systems.pdf,file
+2016-ITEM2VEC Neural item embedding for collaborative filtering.pdf,file
+2016-Improved Recurrent Neural Networks for Session-based Recommendations.pdf,file
+2016-Item2vec Neural Item Embedding for Collaborative Filtering.pdf,file
+2016-Modeling User Exposure in Recommendation.pdf,file
+2016-Parallel and Distributed Collaborative Filtering-A Survey- ACM Comput. Surv.pdf,file
+2016-Point-of-Interest Recommendations Learning Potential Check-ins from Friends.pdf,file
+2016-Product-based Neural Networks for User Response Prediction.pdf,file
+2016-Random Forest for the Contextual Bandit Problem.pdf,file
+2016-Rating-boosted latent topics Understanding users and items with ratings and reviews.pdf,file
+2016-Recommendation with Social Dimensions-AAAI.pdf,file
+2016-Session based Recommendations with Recurrent Neural Networks.pdf,file
+2016-Session-based recommendations with recurrent neural networks.pdf,file
+2016-Towards Conversational Recommender Systems-KDD.pdf,file
+2016-VBPR-Visual Bayesian Personalized Ranking from Implicit Feedback-AAAI.pdf,file
+2016-Wide & Deep Learning for Recommender Systems-arXiv.pdf,file
+2016-Wide & Deep Learning for Recommender Systems.pdf,file
+2017-A Factorization-Machine based Neural Network for CTR Prediction-arXiv.pdf,file
+2017-A Meta-Learning Perspective on Cold-Start Recommendations for Items-NIPS.pdf,file
+2017-A Personalised Ranking Framework with Multiple Sampling Criteria for Venue Recommendation.pdf,file
+2017-A generic coordinate descent framework for learning from implicit feadback-WWW.pdf,file
+2017-Additive co-clustering with social influence for recommendation-RecSys.pdf,file
+2017-Attentional Factorization Machines - Learning the Weight of Feature Interactions via Attention Networks-arXiv.pdf,file
+2017-Beyond clicks Modeling multi-relational item graph for session-based target behavior prediction.pdf,file
+2017-CCCFNet-A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems.pdf,file
+2017-Category-aware Next Point-of-Interest Recommendation via Listwise Bayesian Personalized Ranking.pdf,file
+2017-Collaborative Autoencoder for Recommender Systems.pdf,file
+2017-Collaborative Filtering with Social Local Models.pdf,file
+2017-Collaborative User Network Embedding for Social Recommender Systems.pdf,file
+2017-Collaborative metric learning.pdf,file
+2017-Cross Domain Recommendation An Embedding and Mapping Approach.pdf,file
+2017-DVBPR-Visually-Aware Fashion Recommendation and Design with Generative Image Models-ICDM.pdf,file
+2017-Deep & Cross Network for Ad Click Predictions-ADKDD.pdf,file
+2017-Deep & Cross Network for Ad Click Predictions.pdf,file
+2017-Deep Interest Network for Click-Through Rate Prediction.pdf,file
+2017-Deep Matrix Factorization Models for Recommender Systems.pdf,file
+2017-DeepFM A Factorization-Machine based Neural Network for CTR Prediction.pdf,file
+2017-Discrete Content-aware Matrix Factorization.pdf,file
+2017-Discrete Personalized Ranking for Fast Collaborative Filtering from Implicit Feedback-AAAI.pdf,file
+2017-Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations.pdf,file
+2017-Factorization Bandits for Interactive Recommendation.pdf,file
+2017-Getting Deep Recommenders Fit-Bloom Embeddings for Sparse Binary Input and Output Networks-Recsys.pdf,file
+2017-Hash Embeddings for Efficient Word Representations-NIPS.pdf,file
+2017-Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction.pdf,file
+2017-Joint Deep Modeling of Users and Items Using Reviews for Recommendation.pdf,file
+2017-Joint deep modeling of users and items using reviews for recommendation.pdf,file
+2017-Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction-arXiv.pdf,file
+2017-Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction.pdf,file
+2017-Learning User's Intrinsic and Extrinsic Interests for Point-of-Interest Recommendation A Unified Approach.pdf,file
+2017-Learning to Rank with Trust and Distrust in Recommender Systems.pdf,file
+2017-Leveraging Long and Short-term Information in Content-aware Movie Recommendation.pdf,file
+2017-Low-rank Linear Cold-Start Recommendation from Social Data.pdf,file
+2017-Neural Collaborative Filtering.pdf,file
+2017-Neural Factorization Machines for Sparse Predictive Analytics-arXiv.pdf,file
+2017-POI2Vec-Geographical Latent Representation for Predicting Future Visitors-AAAI.pdf,file
+2017-Recommender Systems with Random Walks-A survey.pdf,file
+2017-Recsys-Deep Learning for Recommender Systems.pdf,file
+2017-Recsys-Privacy for Recommender Systems.pdf,file
+2017-Recsys-Product Recommendation Enhanced with Reviews.pdf,file
+2017-Recurrent recommender networks-WSDM.pdf,file
+2017-Secure Multi-Party Protocols for Item-Based Collaborative Filtering-Recsys.pdf,file
+2017-Social Recommendation using Euclidean Embedding.pdf,file
+2017-Social Recommendation with Strong and Weak Ties.pdf,file
+2017-Translation-based Recommendation-Recsys.pdf,file
+2017-TrustMF Social Collaborative Filtering by Trust.pdf.pdf,file
+2017-UniWalk Explainable and Accurate Recommendation for Rating and Network Data.pdf,file
+2017-Use of Deep Learning in Modern Recommendation System A Summary of Recent Works.pdf,file
+2018-A Generic Collaborative Filtering Framework based on Generative Adversarial Networks-CIKM.pdf,file
+2018-A review on deep learning for recommender systems-challenges and remedies.pdf,file
+2018-A two-stage approach toward interactive recommendation-KDD.pdf,file
+2018-A3NCF An Adaptive Aspect Attention Model for Rating Prediction.pdf,file
+2018-ANR Aspect-based neural recommender.pdf,file
+2018-Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation.pdf,file
+2018-Adversarial Personalized Ranking for Recommendation-SIGIR.pdf,file
+2018-BiNE Bipartite Network Embedding.pdf,file
+2018-Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.pdf,file
+2018-Buy It Again- Modeling Repeat Purchase Recommendations.pdf,file
+2018-CFGAN-A Generic Collaborative Filtering Framework based on Generative Adversarial Networks-CIKM.pdf,file
+2018-Coevolutionary recommendation model Mutual learning between ratings and reviews.pdf,file
+2018-Collaborative Filtering with Social Exposure-A Modular Approach to Social Recommendation.pdf,file
+2018-Collaborative Memory Network for Recommendation Systems.pdf,file
+2018-Conversational Recommender System-SIGIR.pdf,file
+2018-DKN Deep knowledge-aware network for news recommendation.pdf,file
+2018-DRN A Deep Reinforcement Learning Framework for News Recommendation.pdf,file
+2018-Deep Interest Evolution Network for Click-Through Rate Prediction.pdf,file
+2018-Deep Interest Network for Click-Through Rate Prediction-arXiv.pdf,file
+2018-Deep Interest Network for Click-Through Rate Prediction.pdf,file
+2018-Deep Learning based Recommender System A Survey and New Perspectives.pdf,file
+2018-Deep Modeling of Social Relations-AAAI.pdf,file
+2018-DeepFM An End-to-End Wide & Deep Learning Framework for CTR Prediction.pdf,file
+2018-Discrete Deep Learning for Fast Content-Aware Recommendation WSDM.pdf,file
+2018-Discrete Factorization Machines for Fast Feature-based Recommendation-IJCAI.pdf,file
+2018-Dkn-Deep knowledge-aware network for news recommendation-WWW.pdf,file
+2018-Entire Space Multi-Task Model An Effective Approach for Estimating Post-Click Conversion Rate.pdf,file
+2018-Explainable Recommendation A Survey and New Perspectives.pdf,file
+2018-Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising.pdf,file
+2018-Graph Convolutional Neural Networks for Web-Scale Recommender Systems.pdf,file
+2018-Handling Cold-Start Collaborative Filtering with Reinforcement Learning.pdf,file
+2018-ICMR-Recommendation Technologies for Multimedia Content.pdf,file
+2018-Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.pdf,file
+2018-Latent Cross Making Use of Context in Recurrent Recommender Systems.pdf,file
+2018-Latent Cross-Making Use of Context in Recurrent Recommender Systems.pdf,file
+2018-Learning Tree-based Deep Model for Recommender Systems.pdf,file
+2018-Learning and Transferring IDs Representation in E-commerce.pdf,file
+2018-Learning from History and Present Next-item Recommendation via Discriminatively Exploiting User Behaviors.pdf,file
+2018-Leveraging Meta-path based Context for Top- N Recommendation with A Neural Co-Attention Model.pdf,file
+2018-Local Latent Space Models for Top-N Recommendation.pdf,file
+2018-Metric Factorization-Recommendation beyond Matrix Factorization.pdf,file
+2018-Micro Behaviors A New Perspective in E-commerce Recommender Systems.pdf,file
+2018-Micro behaviors-A new perspective in e-commerce recommender systems.pdf,file
+2018-Modeling and Simultaneously Removing Bias via Adversarial Neural Networks.pdf,file
+2018-Multi-pointer co-attention networks for recommendation.pdf,file
+2018-Network Embedding Based Recommendation Method in Social Networks.pdf,file
+2018-Neural attentional rating regression with review-level explanations.pdf,file
+2018-Next Item Recommendation with Self-Attention.pdf,file
+2018-Outer Product-based Neural Collaborative Filtering-IJCAI.pdf,file
+2018-Parl Let strangers speak out what you like.pdf,file
+2018-Personalized Privacy-Preserving Social Recommendation-AAAI.pdf,file
+2018-Personalized top-n sequential recommendation via convolutional sequence embedding.pdf,file
+2018-Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy-TKDE.pdf,file
+2018-Privacy Preserving Point-of-interest Recommendation Using Decentralized Matrix Factorization-AAAI.pdf,file
+2018-Privileged Features Distillation at Taobao Recommendations.pdf,file
+2018-Real-time Personalization using Embeddings for Search Ranking at Airbnb.pdf,file
+2018-Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning.pdf,file
+2018-Recommender Systems with Characterized Social Regularization.pdf,file
+2018-Recsys-Learning Distributed Representation of Heterogeneous sources for Recommendation.pdf,file
+2018-Recsys-Sequence-aware Recommender Systems.pdf,file
+2018-Regularizing Matrix Factorization with User and Item Embeddings for Recommendation.pdf,file
+2018-Ripplenet Propagating user preferences on the knowledge graph for recommender systems.pdf,file
+2018-Ripplenet-Propagating user preferences on the knowledge graph for recommender systems-CIKM.pdf,file
+2018-SIGIR-Deep learning for matching in search and recommendation.pdf,file
+2018-SIGIR-Information Discovery in E-commerce.pdf,file
+2018-Sequential Recommendation with User Memory Networks.pdf,file
+2018-Social Collaborative Filtering Ensemble.pdf,file
+2018-Social Recommendation with an Essential Preference Space.pdf,file
+2018-Spectral Collaborative Filtering-RecSys.pdf,file
+2018-TEM Tree-enhanced Embedding Model for Explainable Recommendation.pdf,file
+2018-Towards Deep Conversational Recommendations-NIPS.pdf,file
+"2018-Towards conversational search and recommendation-System ask, user respond-CIKM.pdf",file
+2018-Translation-based factorization machines for sequential recommendation-Recsys.pdf,file
+2018-Variational Autoencoders for Collaborative Filtering.pdf,file
+2018-Visualizing and Understanding Deep Neural Networks in CTR Prediction.pdf,file
+2018-Why I like it multi-task learning for recommendation and explanation.pdf,file
+2018-xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems-arXiv.pdf,file
+2018-xDeepFM Combining Explicit and Implicit Feature Interactions for Recommender Systems.pdf,file
+2018-xDeepFM- Combining Explicit and Implicit Feature Interactions for Recommender Systems.pdf,file
+2019-A Survey on Session-based Recommender Systems.pdf,file
+2019-A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research.pdf,file
+2019-A Visual Dialog Augmented Interactive Recommender System-KDD.pdf,file
+2019-A context-aware user-item representation learning for item recommendation.pdf,file
+2019-A survey on group recommender systems..pdf,file
+2019-Adversarial Collaborative Neural Network for Robust Recommendation-SIGIR.pdf,file
+2019-An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation-SIGIR.pdf,file
+2019-Are We Really Making Much Progress A Worrying Analysis of Recent Neural Recommendation Approaches-RecSys.pdf,file
+2019-AutoFeature Searching for Feature Interactions and Their Architectures for Click-through Rate Prediction.pdf,file
+2019-BERT4Rec-Sequential Recommendation with Bidirectional Encoder Representations from Transformer-CIKM.pdf,file
+2019-Behavior Sequence Transformer for E-commerce Recommendation in Alibaba.pdf,file
+2019-CIKM-Learning and Reasoning on Graph for Recommendation.pdf,file
+2019-Click-Through Rate Prediction with the User Memory Network.pdf,file
+2019-Co-Attentive Multi-Task Learning for Explainable Recommendation.pdf,file
+2019-Collaborative Similarity Embedding for Recommender Systems.pdf,file
+2019-Compositional Coding for Collaborative Filtering-SIGIR.pdf,file
+2019-CosRec-2D Convolutional Neural Networks for Sequential Recommendation-CIKM.pdf,file
+2019-DAML Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation.pdf,file
+2019-Decentralized Recommendation Based on Matrix Factorization-A Comparison of Gossip and Federated Learning-PKDD.pdf,file
+2019-Deep Adversarial Social Recommendation-IJCAI.pdf,file
+2019-Deep Generative Ranking for Personalized Recommendation-Recsys.pdf,file
+2019-Deep Learning Recommendation Model for Personalization and Recommendation Systems.pdf,file
+2019-Deep Reinforcement Learning for List-wise Recommendations.pdf,file
+2019-Deep Session Interest Network for Click-Through Rate Prediction.pdf,file
+2019-Deep Social Collaborative Filtering-RecSys.pdf,file
+2019-Deep Social Collaborative Filtering.pdf,file
+2019-Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction.pdf,file
+2019-DeepCF-A Unified Framework of Representation Learning and Matching Function Learning in Recommender System-AAAI.pdf,file
+2019-Discrete Matrix Factorization and Extension for Fast Item Recommendation TKDE.pdf,file
+2019-Discrete Social Recommendation-AAAI.pdf,file
+2019-Discrete Trust-aware Matrix Factorization for Fast Recommendation.pdf,file
+2019-Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems.pdf,file
+2019-Efficient Privacy-Preserving Recommendations based on Social Graphs-RecSys.pdf,file
+2019-Explainable Reasoning over Knowledge Graphs for Recommendation.pdf,file
+2019-FAT-DeepFFM Field Attentive Deep Field-aware Factorization Machine.pdf,file
+2019-Fairness in Recommendation Ranking through Pairwise Comparisons.pdf,file
+2019-Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction.pdf,file
+2019-Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System.pdf,file
+2019-Graph Neural Networks for Social Recommendation-WWW.pdf,file
+2019-Graph Neural Networks for Social Recommendation.pdf,file
+2019-Heterogeneous Information Network Embedding for Recommendation-TKDE.pdf,file
+2019-Integrating Dual User Network Embedding With Matrix Factorization For Social Recommender Systems-IJCNN.pdf,file
+2019-Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.pdf,file
+2019-KDD-Perspectives on NE and GCN.pdf,file
+2019-KDD-Tutorial on Network Embedding.pdf,file
+2019-Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems-KDD.pdf,file
+2019-Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.pdf,file
+2019-Multi-Graph Convolution Collaborative Filtering-ICDM.pdf,file
+2019-Multi-Interest Network with Dynamic Routing for Recommendation at Tmall.pdf,file
+2019-Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation-WWW.pdf,file
+2019-NLPCC-Foundations and Trends for Personalized Recommendation.pdf,file
+2019-NRPA Neural Recommendation with Personalized Attention.pdf,file
+2019-Neural Graph Collaborative Filtering-SIGIR.pdf,file
+2019-Neural News Recommendation with Attentive Multi-View Learning.pdf,file
+2019-Operation-aware Neural Networks for User Response Prediction.pdf,file
+2019-PAL A Position-bias Aware Learning Framework for CTR Prediction in Live Recommender Systems.pdf,file
+2019-Personalized Multimedia Item and Key Frame Recommendation.pdf,file
+2019-Personalized Re-ranking for Recommendation-RecSys.pdf,file
+2019-Personalized Re-ranking for Recommendation.pdf,file
+2019-Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction.pdf,file
+2019-RecSys-Deep Learning for Multitask Recommendation.pdf,file
+"2019-Recommendations on the Internet of Things-Requirements, Challenges, and Directions.pdf",file
+2019-Recsys-Fairness and Discrimination in Recommendation and Retrieval.pdf,file
+"2019-Recsys-Recommending fro Impact of Intentions,Algorithms and Metrics.pdf",file
+2019-Representation Learning-Assisted Click-Through Rate Prediction.pdf,file
+2019-Research Commentary on Recommendations with Side Information-A Survey and Research Directions.pdf,file
+2019-SDM Sequential Deep Matching Model for Online Large-scale Recommender System.pdf,file
+2019-SDM Sequential deep matching model for online large-scale recommender system.pdf,file
+2019-Sampling-bias-corrected neural modeling for large corpus item recommendations.pdf,file
+"2019-Sequential Recommender Systems Challenges, Progress and Prospects-IJCAI.pdf",file
+2019-Session-based Recommendation with Graph Neural Networks.pdf,file
+2019-Session-based Social Recommendation via Dynamic Graph Attention Networks-WSDM.pdf,file
+2019-Session-based recommendation with graph neural networks.pdf,file
+2019-Social Attentional Memory Network Modeling Aspect- and Friend-level Differences in Recommendation.pdf,file
+2019-SocialGCN An efficient graph convolutional network based model for social recommendation.pdf,file
+2019-Towards Knowledge-Based Recommender Dialog System-EMNLP.pdf,file
+2019-Unifying Knowledge Graph Learning and Recommendation-Towards a Better Understanding of User Preferences.pdf,file
+2020 Mixed Interest Network for Cross-Domain Click-Through Rate Prediction.pdf,file
+2020-A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data-WWW.pdf,file
+2020-A Contextualized Temporal Attention Mechanism for-WWW.pdf,file
+2020-A Deep Prediction Network for Understanding Advertiser Intent and Satisfaction.pdf,file
+2020-A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations.pdf,file
+2020-A Generalized and Fast-converging Non-negative Latent Factor Model for Predicting User Preferences in Recommender Systems-WWW.pdf,file
+2020-A Generic Network Compression Framework for Sequential Recommender Systems-SIGIR.pdf,file
+2020-A Novel Privacy-Preserved Recommender System Framework based on Federated Learning.pdf,file
+2020-A Survey on Conversational Recommender Systems.pdf,file
+2020-A Survey on Knowledge Graph-Based Recommender Systems.pdf,file
+2020-Adaptive Hierarchical Translation-based Sequential Recommendation-WWW.pdf,file
+2020-Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems-SIGIR.pdf,file
+2020-Adversarial Machine Learning in Recommender Systems-State of the art and Challenges.pdf,file
+2020-Adversarial Multimodal Representation Learning for Click-Through Rate Prediction-WWW.pdf,file
+2020-Attacking Recommender Systems with Augmented User Profiles-CIKM.pdf,file
+2020-Attentive Sequential Model of Latent Intent for Next Item Recommendation-WWW.pdf,file
+2020-Bias and Debias in Recommender System-A Survey and Future Directions.pdf,file
+2020-CKAN-Collaborative Knowledge-aware Attentive Network for Recommender Systems.pdf,file
+2020-COLD Towards the Next Generation of Pre-Ranking System.pdf,file
+2020-Clustering and Constructing User Coresets to Accelerate Large-scale Top-K Recommender Systems-WWW.pdf,file
+2020-Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems-KDD.pdf,file
+2020-Content-aware Neural Hashing for Cold-start Recommendation-SIGIR.pdf,file
+2020-Contextualized Point-of-Interest Recommendation-IJCAI.pdf,file
+"2020-Conversational Recommendation-Formulation, Methods, and Evaluation-SIGIR.pdf",file
+2020-DPLCF-Differentially Private Local Collaborative Filtering-SIGIR.pdf,file
+2020-DREAM A Dynamic Relational-Aware Model for Social Recommendation.pdf,file
+2020-Deep Feedback Network for Recommendation.pdf,file
+2020-Deep Global and Local Generative Model for Recommendation-WWW.pdf,file
+2020-Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.pdf,file
+2020-Deep Learning on Knowledge Graph for Recommender System-A Survey.pdf,file
+2020-Deep Match to Rank Model for Personalized Click-Through Rate Prediction.pdf,file
+2020-Deep Pairwise Hashing for Cold-start Recommendation-TKDE.pdf,file
+2020-Deep Time-Stream Framework for Click-through Rate Prediction by Tracking Interest Evolution.pdf,file
+2020-Denoising Implicit Feedback for Recommendation.pdf,file
+2020-Directional and Explainable Serendipity Recommendation-WWW.pdf,file
+2020-Dual Learning for Explainable Recommendation Towards Unifying User Preference Prediction and Review Generation-WWW.pdf,file
+2020-Dual Learning for Explainable Recommendation_ Towards Unifying User Preference Prediction and Review Generation-WWW.pdf,file
+2020-Dynamic Online Conversation Recommendation-ACL.pdf,file
+2020-EdgeRec Recommender System on Edge in Mobile Taobao.pdf,file
+2020-Efficient Neural Interaction Function Search for Collaborative Filtering-WWW .pdf,file
+2020-Efficient Non Sampling Factorization Machines for Optimal Context Aware Recommendation-WWW.pdf,file
+2020-Enhance Social Recommendation with Adversarial Graph Convolutional Networks-TKDE.pdf,file
+2020-Estimation-Action-Reflection-Towards Deep Interaction Between Conversational and Recommender Systems-WSDM.pdf,file
+2020-FairRec-Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms-WWW.pdf,file
+2020-FedFast Going Beyond Average for Faster Training of Federated Recommender Systems-KDD.pdf,file
+2020-FedRec Federated Recommendation with Explicit Feedback-Slides-IEEE-IS.pdf,file
+2020-FedRec-Federated Recommendation with Explicit Feedback-IEEE-IS.pdf,file
+2020-FedRec-Privacy-Preserving News Recommendation with Federated Learning.pdf,file
+2020-Federated Multi-View Matrix Factorization for Personalized Recommendations.pdf,file
+2020-Federated Recommendation System via Differential Privacy-ISIT.pdf,file
+2020-Few-Shot Learning for New User Recommendation in Location-based Social Networks-WWW.pdf,file
+2020-Fine-grained Interest Matching for Neural News Recommendation-ACL.pdf,file
+2020-Future Data Helps Training-Modeling Future Contexts for Session-based Recommendation-WWW.pdf,file
+2020-GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Identification-SIGIR.pdf,file
+2020-GateNet Gating-Enhanced Deep Network for Click-Through Rate Prediction.pdf,file
+2020-Global and Local Differential Privacy for Collaborative Bandits-RecSys.pdf,file
+2020-Graph Enhanced Representation Learning for News Recommendation-WWW.pdf,file
+2020-Graph Learning Approaches to Recommender Systems-A Review.pdf,file
+2020-Graph Neural Networks in Recommender Systems-A Survey.pdf,file
+2020-Graph Neural News Recommendation with Unsupervised Preference Disentanglement-ACL.pdf,file
+2020-GraphSAIL Graph Structure Aware Incremental Learning for Recommender Systems.pdf,file
+2020-Hierarchical Adaptive Contextual Bandits for Resource-WWW.pdf,file
+2020-How Useful are Reviews for Recommendation-A Critical Review and Potential Improvements-SIGIR.pdf,file
+2020-Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion-KDD.pdf,file
+2020-Influence Function based Data Poisoning Attacks to Top-N Recommender Systems-WWW.pdf,file
+2020-Intention Modeling from Ordered and Unordered Facets for Sequential Recommendation-WWW.pdf,file
+2020-Interactive Path Reasoning on Graph for Conversational Recommendation-KDD.pdf,file
+2020-Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning-SIGIR.pdf,file
+2020-Keywords Generation Improves E-Commerce Session-based Recommendation-WWW.pdf,file
+2020-LARA-Attribute-to-feature Adversarial Learning for New-item Recommendation-WSDM.pdf,file
+2020-Latent Linear Critiquing for Conversational Recommender Systems-WWW.pdf,file
+2020-Learning the Structure of Auto-Encoding Recommenders-WWW.pdf,file
+2020-Learning to Create Better Ads Generation and Ranking Approaches for Ad Creative Refinement.pdf,file
+2020-Learning to Hash with Graph Neural Networks for Recommender Systems-WWW.pdf,file
+2020-LightGCN-Simplifying and Powering Graph Convolution Network for Recommendation-SIGIR.pdf,file
+2020-LightRec-a Memory and Search-Efficient Recommender System-WWW.pdf,file
+2020-LightRec_ a Memory and Search-Efficient Recommender System-WWW.pdf,file
+2020-MTBRN Multiplex Target-Behavior Relation Enhanced Network for Click-Through Rate Prediction.pdf,file
+2020-Meta Matrix Factorization for Federated Rating Predictions-SIGIR.pdf,file
+2020-Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation-KDD.pdf,file
+2020-Model Size Reduction Using Frequency Based Double Hashing for Recommender Systems-Recsys.pdf,file
+2020-Modelling High-Order Social Relations for Item Recommendation.pdf,file
+2020-Multi-Feature Discrete Collaborative Filtering for Fast Cold-start Recommendation-AAAI.pdf,file
+2020-Neural Collaborative Filtering vs. Matrix Factorization Revisited.pdf,file
+2020-Neural Interactive Collaborative Filtering-SIGIR.pdf,file
+2020-Next Point-of-Interest Recommendation on__Resource-Constrained Mobile Devices-WWW.pdf,file
+2020-Off-policy Learning in Two-stage Recommender Syste-WWW.pdf,file
+2020-Partial RelationshipAware Influence Diffusion via a Multi-channel Encoding Scheme for Social Recommendation.pdf,file
+2020-Personalized Employee Training Course Recommendation with Career Development Awareness-WWW.pdf,file
+2020-Practical Data Poisoning Attack against Next-Item Recommendation.pdf,file
+2020-PrivNet-Safeguarding Private Attributes in Transfer Learning for Recommendation-EMNLP.pdf,file
+2020-Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning-WSDM.pdf,file
+2020-Privacy-Preserving Gradient Boosting Decision Trees-AAAI.pdf,file
+2020-Privacy-Preserving News Recommendation Model Training via Federated Learning.pdf,file
+2020-Pseudo Dyna-Q-A Reinforcement Learning Framework for Interactive Recommendation-WSDM.pdf,file
+2020-Recommender Systems for the Internet of Things-A Survey.pdf,file
+2020-Recommending Themes for Ad Creative Design via Visual-Linguistic Representations-WWW.pdf,file
+2020-Reinforced Negative Sampling over Knowledge Graph for Recommendation-WWW.pdf,file
+2020-SIGIR-CRS-slides.pdf,file
+2020-Seamlessly Unifying Attributes and Items-Conversational Recommendation for Cold-Start Users.pdf,file
+2020-Search-based User Interest Modeling with Lifelong Sequential Behavior Data f.pdf,file
+2020-Secure Federated Matrix Factorization-IEEE-IS.pdf,file
+2020-Secure Social Recommendation based on Secret Sharing-ECAI.pdf,file
+2020-Secure Social Recommendation based on Secret Sharing.pdf,file
+2020-Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization-CIKM.pdf,file
+2020-Self-Supervised Reinforcement Learning for Recommender Systems-SIGIR.pdf,file
+2020-Self-supervised learning on graphs-Deep insights and new direction.pdf,file
+2020-Shared MF-A privacy-preserving recommendation system.pdf,file
+2020-Social Influence Attentive Neural Network for Friend-Enhanced Recommendation.pdf,file
+2020-Survey of Privacy-Preserving Collaborative Filtering.pdf,file
+2020-The Structure of Social Influence in Recommender Networks-WWW.pdf,file
+2020-Towards Conversational Recommendation over Multi-Type Dialogs-ACL.pdf,file
+2020-Towards Explainable Conversational Recommendation-IJCAI.pdf,file
+2020-Towards Question-based Recommender Systems-SIGIR.pdf,file
+2020-Understanding User Behavior For Document Recommendation-WWW.pdf,file
+2020-User Memory Reasoning for Conversational Recommendation.pdf,file
+2020-WSDM-Adversarial Machine Learning in Recommender Systems.pdf,file
+2020-WSDM-Learning and Reasoning on Graph for Recommendation.pdf,file
+2020-WWW-Deep Transfer Learning for Search and Recommendation.pdf,file
+2020-Weakly Supervised Attention for Hashtag Recommendation using Graph Data-WWW.pdf,file
+2020-Who You Would Like to Share With A Study of Share Recommendation in Social E-commerce-AAAI.pdf,file
+2020-Whole-Chain Recommendations.pdf,file
+2020-paper2repo-GitHub Repository Recommendation for Academic Papers-WWW.pdf,file
+2021-A Black-Box Attack Model for Visually-Aware Recommenders-WSDM.pdf,file
+2021-A Hybrid Bandit Framework for Diversified Recommendation-AAAI.pdf,file
+2021-A Model of Two Tales-Dual Transfer Learning Framework for Improved Long-tail Item Recommendation-WWW.pdf,file
+2021-A Survey of Deep Reinforcement Learning in Recommender Systems-A Systematic Review and Future Directions.pdf,file
+2021-A Survey of Recommender Systems with Multi-Objective Optimization.pdf,file
+2021-A Survey on Neural Recommendation-From Collaborative Filtering to Content and Context Enriched Recommendation-TKDE.pdf,file
+2021-A Survey on Reinforcement Learning for Recommender Systems.pdf,file
+2021-A Survey on Stream-Based Recommender Systems.pdf,file
+2021-Adversarial Immunization for Improving Certifiable Robustness on Graphs-WSDM.pdf,file
+2021-Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph-WSDM.pdf,file
+2021-Beyond Point Estimate-Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems-WSDM.pdf,file
+2021-Binary Code based Hash Embedding for Web-scale Applications-CIKM.pdf,file
+2021-Bipartite Graph Embedding via Mutual Information Maximization-WSDM.pdf,file
+"2021-Blockchain-based recommender systems-Applications, challenges and future opportunities.pdf",file
+2021-Causal Transfer Random Forest-Combining Logged Data and Randomized Experiments for Robust Prediction-WSDM.pdf,file
+2021-Cold-start Sequential Recommendation via Meta Learner-AAAI.pdf,file
+2021-ConsisRec Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.pdf,file
+"2021-Cross-Domain Recommendation-Challenges, Progress, and Prospects.pdf",file
+2021-Data Poisoning Attacks to Deep Learning Based Recommender Systems-NDSS.pdf,file
+2021-Deep Learning for Click-Through Rate Estimation-IJCAI.pdf,file
+2021-DeepLight-Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving-WSDM.pdf,file
+2021-Denoising Implicit Feedback for Recommendation-WSDM.pdf,file
+2021-Detecting Beneficial Feature Interactions for Recommender Systems-AAAI.pdf,file
+2021-Discrete Listwise Collaborative Filtering for Fast Recommendation-SDM.pdf,file
+2021-Disentangling User Interest and Conformity for Recommendation with Causal Embedding-WWW.pdf,file
+2021-Dual Side Deep Context-aware Modulation for Social Recommendation.pdf,file
+2021-Elliot-A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation-SIGIR21.pdf,file
+2021-FM2-Field-matrixed Factorization Machines for Recommender Systems-WWW.pdf,file
+2021-Fairness-Aware News Recommendation with Decomposed Adversarial Learning-AAAI.pdf,file
+2021-FedGNN-Federated Graph Neural Network for Privacy-Preserving Recommendation.pdf,file
+2021-FedRec++- Lossless Federated Recommendation with Explicit Feedback-AAAI.pdf,file
+2021-Graph Embedding for Recommendation against Attribute Inference Attacks.pdf,file
+2021-Hierarchical Personalized Federated Learning for User Modeling-WWW.pdf,file
+2021-Horizontal Cross-Silo Federated Recommender Systems-Recsys.pdf,file
+2021-IJCAI-RecSys-Tutorials.zip,file
+2021-IJCAI-RecSys_Adversarial_Attacks.pdf,file
+2021-IJCAI-RecSys_AutoML.pdf,file
+2021-IJCAI-RecSys_DNN.pdf,file
+2021-IJCAI-RecSys_GNNs.pdf,file
+2021-IJCAI-RecSys_Intro.pdf,file
+2021-IJCAI-RecSys_RL.pdf,file
+2021-IJCAI-RecSys_future_directions.pdf,file
+2021-Intelligent Recommendations for Citizen Science-AAAI.pdf,file
+2021-Interest-aware Message-Passing GCN for Recommendation-WWW.pdf,file
+2021-LT-OCF-Learnable-Time ODE-based Collaborative Filtering.pdf,file
+2021-Learning Fair Representations for Bipartite Graph based Recommendation-WWW.pdf,file
+2021-Learning Intents behind Interactions with Knowledge Graph for Recommendation-WWW.pdf,file
+2021-Learning User Representations with Hypercuboids for Recommender Systems-WSDM.pdf,file
+2021-Learning to Embed Categorical Features without Embedding Tables for Recommendation-KDD.pdf,file
+2021-Learning to Recommend from Sparse Data via Generative User Feedback-AAAI.pdf,file
+2021-Leveraging Review Properties for Effective Recommendation-WWW.pdf,file
+2021-Machine Unlearning-SP.pdf,file
+2021-Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction-WSDM.pdf,file
+2021-Origin-Aware Next Destination Recommendation with Personalized Preference Attention-WSDM.pdf,file
+2021-Out-of-Town Recommendation with Travel Intention Modeling_PPT-AAAI.pdf,file
+2021-PFA-Privacy-preserving Federated Adaptation for Effective Model Personalization-WWW.pdf,file
+2021-Personalized Adaptive Meta Learning for Cold-Start User Preference Prediction-AAAI.pdf,file
+2021-Practical Compositional Fairness-Understanding Fairness in Multi-Component Recommender Systems-WSDM.pdf,file
+2021-Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation-WSDM.pdf,file
+2021-Projected Hamming Dissimilarity for Bit-Level Importance Coding in Collaborative Filtering-WWW.pdf,file
+2021-Random Walks with Erasure-Diversifying Personalized Recommendations on Social and Information Networks-WWW.pdf,file
+2021-Recsys2021Tutorials.zip,file
+2021-Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation-AAAI.pdf,file
+2021-RetaGNN-Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation-WWW.pdf,file
+2021-STAN-Spatio-Temporal Attention Network for Next Location Recommendation-WWW.pdf,file
+2021-Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation-AAAI.pdf,file
+2021-Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation-WWW.pdf,file
+2021-Self-supervised Graph Learning for Recommendation-SIGIR.pdf,file
+2021-Self-supervised Learning for Large-scale Item Recommendations.pdf,file
+2021-Self-supervised Learning-Generative or Contrastive.pdf,file
+2021-SimpleX-A Simple and Strong Baseline for Collaborative Filtering-CIKM.pdf,file
+2021-Socially-Aware Self-Supervised Tri-Training for Recommendation-KDD.pdf,file
+2021-Task-adaptive Neural Process for User Cold-Start Recommendation-WWW.pdf,file
+2021-Temporal Meta-path Guided Explainable Recommendation-WSDM.pdf,file
+2021-Towards Long-term Fairness in Recommendation-WSDM.pdf,file
+2021-UPRec-User-Aware Pre-training for Recommender Systems-TKDE.pdf,file
+2021-Unbiased Learning to Rank in Feeds Recommendation-WSDM.pdf,file
+2021-WWW_RS_GNN_DRL_AML_Tutorials.zip,file
+2021-tutorial_CRS_recsys.pdf,file
+2022-A Survey of Diversification Techniques in Search and Recommendation.pdf,file
+2022-A Survey on Federated Recommendation Systems.pdf,file
+2022-A Survey on Privacy-preserving Federated Recommender Systems-AAS.pdf,file
+2022-A Survey on Reinforcement Learning for Recommender Systems.pdf,file
+2022-A Survey on Trustworthy Recommender Systems.pdf,file
+2022-A Survey on the Fairness of Recommender Systems-TOIS.pdf,file
+2022-AutoML for Deep Recommender Systems-A Survey.pdf,file
+2022-AutoML_RecSys_WWW.pdf,file
+2022-Causal Inference in Recommender Systems-A Survey and Future Directions.pdf,file
+"2022-Causal Inference in Recommender Systems-A Survey of Strategies for Bias Mitigation, Explanation, and Generalization.pdf",file
+2022-Deep Meta-learning in Recommendation Systems-A Survey.pdf,file
+2022-Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation-WWW.pdf,file
+2022-Fairness in Recommendation-A Survey.pdf,file
+2022-Federated Matrix Factorization with Privacy Guarantee-VLDB.pdf,file
+2022-Graph Representation Learning for Web-Scale Recommender Systems-KDD.pdf,file
+2022-Measuring Why in Recommender Systems-a Comprehensive Survey on the  Evaluation of Explainable Recommendation.pdf,file
+2022-Neural Re-ranking in Multi-stage Recommender Systems-A Review-IJCAI.pdf,file
+2022-P5- Recommendation as Language Processing.pdf,file
+2022-Privacy-Preserving Synthetic Data Generation for Recommendation Systems-SIGIR.pdf,file
+2022-Self-Supervised Learning for Recommender Systems-A Survey.pdf,file
+2022-Semantic and Structural View Fusion Modeling for Social Recommendation-TKDE.pdf,file
+2022-Socially-aware Dual Contrastive Learning for Cold-Start Recommendation-SIGIR.pdf,file
+2022-Trustworthy Recommender Systems.pdf,file
+2022-Tutorial on SBRS and SRS. SIGIR22_all_v5.pdf,file
+2022-Unlearning Protected User Attributes in Recommendations with Adversarial Training-SIGIR.pdf,file
+2022-tutorial_SSL_RS-www.pdf,file
+2023-LightFR Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization-TOIS.pdf,file
+2024-Agent4Rec- On Generative Agents in Recommendation.pdf,file
+2024-AgentCF- Collaborative Learning with Autonomous Language Agents for Recommender Systems.pdf,file
+2024-Distributional Off-Policy Evaluation for Slate Recommendations.pdf,file
+2024-MACRec- a Multi-Agent Collaboration Framework for Recommendation.pdf,file
+2024-RAH! RecSys-Assistant-Human- A Human-Central Recommendation Framework with LLM Agents.pdf,file
+2024-RecMind- Large Language Model Powered Agent for Recommendation.pdf,file
+2025-InteRecAgent- Integrating Large Language Models for Interactive Recommendations.pdf,file
+2025-LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience.pdf,file
+2025-RecAgent- User Behavior Simulation with Large Language Model based Agents.pdf,file
+2025-RecBot- Interactive Recommendation Agent with Active User Commands.pdf,file
+2025-iAgent- LLM Agent as a Shield between User and Recommender Systems.pdf,file
+2026-MemRec- Collaborative Memory-Augmented Agentic Recommender System.pdf,file
+27e50165-982f-4d4f-b6ed-d8f22f76a8bd.pdf,file
+3-LightGCN-Simplifying and Powering Graph Convolution Network for Recommendation-2020.pdf,file
+4-Generalized Embedding Machines for Recommender Systems-2020.pdf,file
+5-Jointly Learning to Recommend and Advertise-2020.pdf,file
+6-Hybrid Associations Model with Pooling for Sequential Recommendation-2020.pdf,file
+7-Fast Adaptively Weighted Matrix Factorization for Recommendation with Implicit Feekback-2020.pdf,file
+8-Using Image Captions and Multitask Learning for Recommending Query Reformulations-2020.pdf,file
+9-Contextual-Bandit Based Personalized Recommendation with Time-Varying User Interests-2020.pdf,file
+AAAI2021,dir
+AAAI2023,dir
+Adobe,dir
+Airbnb,dir
+Alibaba,dir
+Baidu,dir
+Criteo,dir
+Facebook,dir
+Google,dir
+Huawei,dir
+JingDong,dir
+KDD2023,dir
+LICENSE,file
+ML_RSer.jpg,file
+Microsoft,dir
+Netflix,dir
+README.md,file
+RS_Weekly,dir
+SSL_for_RS,dir
+Sina,dir
+Tencent,dir
+WSDM2021,dir
+WWW2021,dir
+WWW2023,dir
+Yahoo,dir
+[21.12] Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction.pdf,file
+[22.06] Comprehensive Fair Meta-learned Recommender System.pdf,file
+[22.06] CrossCBR Cross-view Contrastive Learning for Bundle Recommendation.pdf,file
+[22.06] Debiasing Learning for Membership Inference Attacks Against Recommender Systems.pdf,file
+[22.06] Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems.pdf,file
+[22.06] Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation.pdf,file
+[22.06] Towards Representation Alignment and Uniformity in Collaborative Filtering.pdf,file
+[22.06] Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning.pdf,file
+[22.06] Towards Universal Sequence Representation Learning for Recommender Systems.pdf,file
+[22.07] HICF Hyperbolic Informative Collaborative Filtering.pdf,file
+[22.07] Knowledge-enhanced Black-box Attacks for Recommendations.pdf,file
+[22.07] Multiple Robust Learning for Recommendation.pdf,file
+[22.08] ConTextual Masked Auto-Encoder for Dense Passage Retrieval.pdf,file
+[22.09] Factual and Informative Review Generation for Explainable Recommendation.pdf,file
+[22.11] AdaTask A Task-aware Adaptive Learning Rate Approach to Multi-task Learning.pdf,file
+[22.11] Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation.pdf,file
+[22.11] SAH Shifting-aware Asymmetric Hashing for Reverse $k$-Maximum Inner Product Search.pdf,file
+[22.11] Towards Reliable Item Sampling for Recommendation Evaluation.pdf,file
+[22.12] Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction.pdf,file
+[22.12] Uniform Sequence Better Time Interval Aware Data Augmentation for Sequential Recommendation (1).pdf,file
+[22.12] Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense (1).pdf,file
+[22.12] Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense.pdf,file
+[23.01] A Counterfactual Collaborative Session-based Recommender System.pdf,file
+[23.01] Cross-domain recommendation via user interest alignment.pdf,file
+[23.01] Interaction-level Membership Inference Attack Against Federated Recommender Systems.pdf,file
+[23.01] Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation.pdf,file
+[23.01] Optimizing Feature Set for Click-Through Rate Prediction.pdf,file
+[23.02] A Deep Behavior Path Matching Network for Click-Through Rate Prediction.pdf,file
+[23.02] Adap-tau Adaptively Modulating Embedding Magnitude for Recommendation.pdf,file
+[23.02] ConsRec Learning Consensus Behind Interactions for Group Recommendation.pdf,file
+[23.02] Contrastive Collaborative Filtering for Cold-Start Item Recommendation.pdf,file
+[23.02] Denoising and Prompt-Tuning for Multi-Behavior Recommendation.pdf,file
+[23.02] Disentangled Causal Embedding With Contrastive Learning For Recommender System.pdf,file
+[23.02] Divide and Conquer Towards Better Embedding-based Retrieval for Recommender Systems From a Multi-task Perspective.pdf,file
+[23.02] Enhancing User Personalization in Conversational Recommenders.pdf,file
+[23.02] Exploration and Regularization of the Latent Action Space in Recommendation.pdf,file
+[23.02] Fairly Adaptive Negative Sampling for Recommendations.pdf,file
+[23.02] Improving Recommendation Fairness via Data Augmentation.pdf,file
+[23.02] Learning with Exposure Constraints in Recommendation Systems.pdf,file
+[23.02] Multi-Task Recommendations with Reinforcement Learning.pdf,file
+[23.02] On the Theories Behind Hard Negative Sampling for Recommendation.pdf,file
+[23.02] Personalized Graph Signal Processing for Collaborative Filtering.pdf,file
+[23.02] Reinforcing User Retention in a Billion Scale Short Video Recommender System.pdf,file
+[23.02] Two-Stage Constrained Actor-Critic for Short Video Recommendation.pdf,file
+[23.04] A Diffusion model for POI recommendation.pdf,file
+[23.04] A Field Test of Bandit Algorithms for Recommendations Understanding the Validity of Assumptions on Human Preferences in Multi-armed Bandits.pdf,file
+[23.04] A Recommender System Approach for Very Large-scale Multiobjective Optimization.pdf,file
+[23.04] AdaTT Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations.pdf,file
+[23.04] Always Strengthen Your Strengths A Drift-Aware Incremental Learning Framework for CTR Prediction.pdf,file
+[23.04] Attention Mixtures for Time-Aware Sequential Recommendation.pdf,file
+[23.04] Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation.pdf,file
+[23.04] Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations.pdf,file
+[23.04] CAViaR Context Aware Video Recommendations.pdf,file
+[23.04] COOOL A Learning-To-Rank Approach for SQL Hint Recommendations.pdf,file
+[23.04] Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning (1).pdf,file
+[23.04] Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning.pdf,file
+[23.04] Causal Disentangled Variational Auto-Encoder for Preference Understanding in Recommendation.pdf,file
+[23.04] Continuous Input Embedding Size Search For Recommender Systems.pdf,file
+[23.04] Contrastive Cross-Domain Sequential Recommendation.pdf,file
+[23.04] Deep Stable Multi-Interest Learning for Out-of-distribution Sequential Recommendation.pdf,file
+[23.04] Diffusion Recommender Model.pdf,file
+[23.04] Discreetly Exploiting Inter-session Information for Session-based Recommendation.pdf,file
+[23.04] Dual-Ganularity Contrastive Learning for Session-based Recommendation.pdf,file
+[23.04] Editable User Profiles for Controllable Text Recommendation.pdf,file
+[23.04] FAN Fatigue-Aware Network for Click-Through Rate Prediction in E-commerce Recommendation.pdf,file
+[23.04] FairRec Fairness Testing for Deep Recommender Systems.pdf,file
+[23.04] Frequency Enhanced Hybrid Attention Network for Sequential Recommendation.pdf,file
+[23.04] GNNUERS Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning.pdf,file
+[23.04] GPT4Rec A Generative Framework for Personalized Recommendation and User Interests Interpretation.pdf,file
+[23.04] Generative Recommendation Towards Next-generation Recommender Paradigm.pdf,file
+[23.04] HEAT A Highly Efficient and Affordable Training System for Collaborative Filtering Based Recommendation on CPUs.pdf,file
+[23.04] Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation.pdf,file
+[23.04] Improving Items and Contexts Understanding with Descriptive Graph for Conversational Recommendation.pdf,file
+[23.04] Intent-aware Ranking Ensemble for Personalized Recommendation.pdf,file
+[23.04] Learning Graph ODE for Continuous-Time Sequential Recommendation.pdf,file
+[23.04] M2GNN Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation.pdf,file
+[23.04] MELT Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation.pdf,file
+[23.04] Meta-optimized Contrastive Learning for Sequential Recommendation.pdf,file
+[23.04] Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation.pdf,file
+[23.04] More Is Less When Do Recommenders Underperform for Data-rich Users.pdf,file
+[23.04] Neural Multi-network Diffusion towards Social Recommendation.pdf,file
+[23.04] PBNR Prompt-based News Recommender System.pdf,file
+[23.04] PEGA Personality-Guided Preference Aggregator for Ephemeral Group Recommendation.pdf,file
+[23.04] PIE Personalized Interest Exploration for Large-Scale Recommender Systems.pdf,file
+[23.04] PerCoNet News Recommendation with Explicit Persona and Contrastive Learning.pdf,file
+[23.04] Privacy-Preserving Matrix Factorization for Recommendation Systems using Gaussian Mechanism.pdf,file
+[23.04] Prompt Learning for News Recommendation.pdf,file
+[23.04] Selective and Collaborative Influence Function for Efficient Recommendation Unlearning.pdf,file
+[23.04] Sequential Recommendation with Diffusion Models.pdf,file
+[23.04] Sheaf Neural Networks for Graph-based Recommender Systems.pdf,file
+[23.04] Timestamps as Prompts for Geography-Aware Location Recommendation.pdf,file
+[23.04] Towards More Robust and Accurate Sequential Recommendation with Cascade-guided Adversarial Training.pdf,file
+[23.04] Triple Sequence Learning for Cross-domain Recommendation.pdf,file
+[23.04] Unbiased Pairwise Learning from Implicit Feedback for Recommender Systems without Biased Variance Control.pdf,file
+[23.05] A Survey on Large Language Models for Recommendation.pdf,file
+[3580305.3599516] Task Relation-aware Continual User Representation Learning.pdf,file
+[3580305.3599758] A Collaborative Transfer Learning Framework for Cross-domain Recommendation.pdf,file
+[3580305.3599769] AdaTT- Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations.pdf,file
+[3580305.3599780] BERT4CTR- An Efficient Framework to Combine Pre-trained Language Model with Non-Textual Features for CTR Prediction.pdf,file
+[3580305.3599783] BOSS- A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment.pdf,file
+[3580305.3599785] ReLoop2- Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop.pdf,file
+[3580305.3599796] Controllable Multi-Objective Re-ranking with Policy Hypernetworks.pdf,file
+[3580305.3599798] CT4Rec- Simple yet Effective Consistency Training for Sequential Recommendation.pdf,file
+[3580305.3599814] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN).pdf,file
+[3580305.3599821] Exploiting Intent Evolution in E-commercial Query Recommendation.pdf,file
+[3580305.3599834] Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems.pdf,file
+[3580305.3599838] Hierarchical Projection Enhanced Multi-behavior Recommendation.pdf,file
+[3580305.3599846] Improving Training Stability for Multitask Ranking Models in Recommender Systems.pdf,file
+[3580305.3599863] M5- Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation.pdf,file
+[3580305.3599868] Multi-channel Integrated Recommendation with Exposure Constraints.pdf,file
+[3580305.3599871] Multi Datasource LTV User Representation.pdf,file
+[3580305.3599878] On-device Integrated Re-ranking with Heterogeneous Behavior Modeling.pdf,file
+[3580305.3599886] PIER- Permutation-Level Interest-Based End-to-End Re-ranking Framework in E-commerce.pdf,file
+[3580305.3599918] TransAct- Transformer-based Realtime User Action Model for Recommendation at Pinterest.pdf,file
+[3580305.3599919] Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation.pdf,file
+[3580305.3599921] [2209.07562] TwHIN-BERT- A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations at Twitter.pdf,file
+[3580305.3599928] Variance Reduction Using In-Experiment Data- Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes.pdf,file
+[3580305.3599936] Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction.pdf,file
+[3580305.3599955] SAMD- An Industrial Framework for Heterogeneous Multi-Scenario Recommendation.pdf,file
+meituan,dir
+readme.md,file

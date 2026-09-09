@@ -1,0 +1,16 @@
+name,type
+4_bit_LLM_Quantization_with_GPTQ.ipynb,file
+Fine_tune_LLMs_with_Axolotl.ipynb,file
+Fine_tune_Llama_2_in_Google_Colab.ipynb,file
+Fine_tune_a_Mistral_7b_model_with_DPO.ipynb,file
+Introduction_to_Weight_Quantization.ipynb,file
+LICENSE,file
+Mergekit.ipynb,file
+Quantize_Llama_2_models_using_GGUF_and_llama_cpp.ipynb,file
+Quantize_models_with_ExLlamaV2.ipynb,file
+README.md,file
+colab.svg,file
+img,dir
+roadmap_engineer.png,file
+roadmap_fundamentals.png,file
+roadmap_scientist.png,file

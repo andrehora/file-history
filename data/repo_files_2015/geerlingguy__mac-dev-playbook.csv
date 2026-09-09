@@ -1,0 +1,22 @@
+name,type
+.gitignore,file
+DashDoc.sublime-settings,file
+JJG-Term.terminal,file
+LICENSE,file
+Library,dir
+Package Control.sublime-settings,file
+Packages,dir
+Preferences.sublime-settings,file
+README.md,file
+User,dir
+ansible-setup.yml,file
+dotfiles.yml,file
+inventory,file
+main.yml,file
+preferences.yml,file
+requirements.txt,file
+sublime,dir
+tasks,dir
+templates,dir
+terminal,dir
+vars,dir

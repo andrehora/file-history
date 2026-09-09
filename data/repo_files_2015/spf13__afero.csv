@@ -1,0 +1,11 @@
+name,type
+.travis.yml,file
+LICENSE.txt,file
+README.md,file
+fs.go,file
+fs_test.go,file
+httpFs.go,file
+memfile.go,file
+memmap.go,file
+memradix.go,file
+os.go,file

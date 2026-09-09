@@ -1,0 +1,14 @@
+name,type
+.bumpversion.cfg,file
+.editorconfig,file
+.gitignore,file
+.travis.yml,file
+LICENSE.txt,file
+README.md,file
+__init__.py,file
+dotenv.py,file
+requirements.txt,file
+setup.cfg,file
+setup.py,file
+test_cli.py,file
+tests,dir

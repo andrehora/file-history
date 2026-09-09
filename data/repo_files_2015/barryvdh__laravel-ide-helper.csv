@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+Alias.php,file
+Console,dir
+Generator.php,file
+GeneratorCommand.php,file
+IdeHelperServiceProvider.php,file
+Method.php,file
+ModelsCommand.php,file
+composer.json,file
+config,dir
+config.php,file
+ide-helper.php,file
+provides.json,file
+readme.md,file
+src,dir
+views,dir

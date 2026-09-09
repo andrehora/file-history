@@ -1,0 +1,7 @@
+name,type
+.editorconfig,file
+.gitignore,file
+README.md,file
+index.js,file
+index.min.js,file
+package.json,file

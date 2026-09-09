@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+LICENSE,file
+__init__.py,file
+cdef.c,file
+cffi_build.py,file
+curl_constants.py,file
+generate_curl_constants.sh,file
+include,dir
+index.cpp,file
+index.h,file
+pycurl_patch,dir
+readme.md,file
+setup.py,file
+test_curl.py,file

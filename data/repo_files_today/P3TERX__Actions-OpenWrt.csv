@@ -1,0 +1,10 @@
+name,type
+.config,file
+.github,dir
+LICENSE,file
+README.md,file
+diy-part1.sh,file
+diy-part2.sh,file
+openwrt-builder.yml,file
+update-checker.yml,file
+workflows,dir

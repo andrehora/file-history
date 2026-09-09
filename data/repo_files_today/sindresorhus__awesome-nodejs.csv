@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+code-of-conduct.md,file
+contributing.md,file
+license,file
+logo.ai,file
+logo.svg,file
+media,dir
+pull_request_template.md,file
+readme.md,file
+segment-logo.svg,file
+social-preview.png,file

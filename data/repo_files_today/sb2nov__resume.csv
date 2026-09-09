@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+Dockerfile,file
+LICENSE,file
+README.md,file
+build.sh,file
+docker-image.yml,file
+resume_preview.png,file
+sourabh_bajaj_resume.pdf,file
+sourabh_bajaj_resume.tex,file
+workflows,dir

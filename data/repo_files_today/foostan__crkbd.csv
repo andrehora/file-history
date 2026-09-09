@@ -1,0 +1,183 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+1N4148.step,file
+3x5,dir
+3x6,dir
+BOM-corne-cherry.csv,file
+BOM-corne-chocolate.csv,file
+Breakaway_Tabs.kicad_mod,file
+CPL-corne-cherry.csv,file
+CPL-corne-chocolate.csv,file
+CherryMX Switch.step,file
+D_SOD-123 Soldered.f3z,file
+D_SOD-123 Soldered.step,file
+D_SOD-123.step,file
+FUNDING.yml,file
+GERBER-corne-cherry.zip,file
+GERBER-corne-chocolate.zip,file
+GERBER-plate-bottom.zip,file
+GERBER-plate-top-alps-ex.zip,file
+GERBER-plate-top-alps.zip,file
+GERBER-plate-top-cherrymx-ex.zip,file
+GERBER-plate-top-cherrymx.zip,file
+Kailh-CherryMX-Socket.step,file
+LED_WS2812B-PLCC4.kicad_mod,file
+LICENSE,file
+LICENSE_CC,file
+LICENSE_MIT,file
+MJ-4PP-9.kicad_mod,file
+MX Series-Cherry Key.step,file
+Makefile,file
+OLED Module with Pins Soldered.step,file
+OLED Module with Soldered.step,file
+OLED-Module-with-PinHeader15.step,file
+OLED-Module-with-PinHeader25.step,file
+OLED-Module-with-Pins.step,file
+OLED.kicad_mod,file
+PJ-398A-5A.step,file
+PJ-398A-5A_PJ-399B-6A.kicad_mod,file
+PJ320A Soldered.step,file
+PJ320A.step,file
+Pico-EZmate_PCB_Header.kicad_mod,file
+Pico-EZmate_PCB_Header_4.step,file
+ProMicro.kicad_mod,file
+ProMicro.step,file
+README.md,file
+ResetSW.kicad_mod,file
+RotarryEncoder_EC12-SW.step,file
+ST-0277D00-052-142.kicad_mod,file
+ST-0277D00-052-142.step,file
+TS-1088R-02026.kicad_mod,file
+TS-1088R-02026.step,file
+TYPE-C-31-M-13C.kicad_mod,file
+TYPE-C-31-M-13C.step,file
+WS2812B Soldered Soldered.step,file
+WS2812B Soldered.step,file
+WS2812B.f3d,file
+WS2812B.step,file
+YS-SK6812MINI-E Soldered.step,file
+YS-SK6812MINI-E.kicad_mod,file
+YS-SK6812MINI-E.step,file
+assets,dir
+build_bottom_foam.jpg,file
+build_bottom_plate.jpg,file
+build_cushion_rubbers.jpg,file
+build_diode.jpg,file
+build_diode_overview.jpg,file
+build_finish.jpg,file
+build_led_back_overview.jpg,file
+build_led_backlight.jpg,file
+build_led_front_overview.jpg,file
+build_led_undergrow.jpg,file
+build_led_undergrow_overview.jpg,file
+build_oled.jpg,file
+build_oled_plate_back.jpg,file
+build_oled_plate_front.jpg,file
+build_promicro.jpg,file
+build_promicro_conthrough.jpg,file
+build_screws_spacers_back.jpg,file
+build_screws_spacers_front.jpg,file
+build_socket.jpg,file
+build_socket_overview.jpg,file
+build_top_plate_switches.jpg,file
+build_trrs_reset_oled.jpg,file
+buildguide_en.md,file
+buildguide_jp.md,file
+buildguide_low_edition_en.md,file
+buildguide_low_edition_jp.md,file
+buildguide_tilting_tenting_plate_en.md,file
+buildguide_tilting_tenting_plate_jp.md,file
+cases,dir
+common,dir
+confirm_back.jpg,file
+confirm_front.jpg,file
+confirm_remove_frame.jpg,file
+corne-cherry,dir
+corne-cherry.kicad_pcb,file
+corne-cherry.kicad_pro,file
+corne-cherry.kicad_sch,file
+corne-chocolate,dir
+corne-chocolate.kicad_pcb,file
+corne-chocolate.kicad_pro,file
+corne-chocolate.kicad_sch,file
+corne-classic,dir
+corne-horizontal.kicad_mod,file
+corne-light,dir
+corne-light-low-edition-001.jpg,file
+corne-light-low-edition-002.jpg,file
+corne-light-low-edition-003.jpg,file
+corne-logo-horizontal-mask.kicad_mod,file
+corne-logo-horizontal.kicad_mod,file
+corne-logo-silk.kicad_mod,file
+corne-logo.kicad_mod,file
+corne-mask.kicad_mod,file
+corne-plate acrylic bottom left.step,file
+corne-plate acrylic oled left.step,file
+corne-plate fr4 top left.step,file
+corne-plate-acrylic-top-left-no-holes.step,file
+corne-plate-rubber-bottom-no-holes.step,file
+docs,dir
+firmware,dir
+firmware_en.md,file
+firmware_jp.md,file
+foam-alps.svg,file
+foam-cherrymx.svg,file
+fp-lib-table,file
+hotswap,dir
+jlcpcb,dir
+kailh cherry socket soldered.step,file
+kailh_choc.step,file
+kailh_choc_socket.step,file
+kailh_hotswap_socket.step,file
+kbd,dir
+kbd.3dshapes,dir
+kbd.kicad_sym,file
+kbd.pretty,dir
+keyswitch_cherrymx_alps_1u.kicad_mod,file
+keyswitch_cherrymx_alps_choc12_1.5u.kicad_mod,file
+keyswitch_cherrymx_alps_choc12_1u.kicad_mod,file
+keyswitch_cherrymx_hotswap_1.5u.kicad_mod,file
+keyswitch_cherrymx_hotswap_1u.kicad_mod,file
+keyswitch_cherrymx_hotswap_1u_rotary_encoder_ec12.kicad_mod,file
+keyswitch_choc12_gateron_low_profile_hotswap_1u_no_led.kicad_mod,file
+keyswitch_choc12_hotswap_1.5u.kicad_mod,file
+keyswitch_choc12_hotswap_1u.kicad_mod,file
+keyswitch_choc12_hotswap_1u_rotary_encoder_ec12.kicad_mod,file
+keyswitch_gateron_low_profile_hotswap_1u.kicad_mod,file
+kicad-footprints,dir
+kicad-footprints.yaml,file
+kicad-packages3D,dir
+kicad-symbols,dir
+kicad-symbols.yaml,file
+left.kicad_sch,file
+left.step,file
+m2 4mm.step,file
+m2 6.5mm.step,file
+m2 8mm.step,file
+pcb,dir
+pcbs,dir
+pin-header-1x4.step,file
+plate-alps.svg,file
+plate-bottom.kicad_pcb,file
+plate-cherrymx.svg,file
+plate-top-alps-ex.kicad_pcb,file
+plate-top-alps.kicad_pcb,file
+plate-top-cherrymx-ex.kicad_pcb,file
+plate-top-cherrymx.kicad_pcb,file
+plates,dir
+production_files,dir
+project.db,file
+rev1,dir
+rev4,dir
+right.kicad_sch,file
+right.step,file
+svg,dir
+tact switch Soldered.step,file
+tact-switch.step,file
+v1,dir
+v2,dir
+v3,dir
+v4,dir
+workflows,dir

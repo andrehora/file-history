@@ -1,0 +1,87 @@
+name,type
+.gitignore,file
+.travis.yml,file
+BlacklistedApplications.plist,file
+Credits.rtf,file
+Defaults.plist,file
+HotKeyNames.plist,file
+Icons,dir
+Images,dir
+InfoPlist.strings,file
+LICENSE.md,file
+Languages,dir
+Localizable.strings,file
+Podfile,file
+Podfile.lock,file
+Property Lists,dir
+README.md,file
+Resources,dir
+Scripts,dir
+Security & Privacy System Preferences Original.scpt,file
+Security & Privacy System Preferences.scpt,file
+Security & Privacy.png,file
+Security & Privacy@2x.png,file
+Sparkle,dir
+SpecialHotKeyTranslations.plist,file
+Spectacle,dir
+Spectacle Alternate Status Item.png,file
+Spectacle Alternate Status Item@2x.png,file
+Spectacle Status Item.png,file
+Spectacle Status Item@2x.png,file
+Spectacle-Info.plist,file
+Spectacle.icns,file
+Spectacle.pch,file
+Spectacle.xcodeproj,dir
+Spectacle.xcscheme,file
+Spectacle.xcworkspace,dir
+Spectacle.xib,file
+SpectacleApplicationController.h,file
+SpectacleApplicationController.m,file
+SpectacleConstants.h,file
+SpectacleConstants.m,file
+SpectacleHistory.h,file
+SpectacleHistory.m,file
+SpectacleHistoryItem.h,file
+SpectacleHistoryItem.m,file
+SpectacleHotKeyManager.h,file
+SpectacleHotKeyManager.m,file
+SpectacleHotKeyValidator.h,file
+SpectacleHotKeyValidator.m,file
+SpectaclePreferencesController.h,file
+SpectaclePreferencesController.m,file
+SpectaclePreferencesWindow.xib,file
+SpectacleScreenDetection.h,file
+SpectacleScreenDetection.m,file
+SpectacleSpecs,dir
+SpectacleSpecs-Info.plist,file
+SpectacleSpecs.pch,file
+SpectacleUtilities.h,file
+SpectacleUtilities.m,file
+SpectacleWindowActionController.h,file
+SpectacleWindowActionController.m,file
+SpectacleWindowPositionCalculator.h,file
+SpectacleWindowPositionCalculator.m,file
+SpectacleWindowPositionManager.h,file
+SpectacleWindowPositionManager.m,file
+ZKAccessibilityElement.h,file
+ZKAccessibilityElement.m,file
+ZKHotKey.h,file
+ZKHotKey.m,file
+ZKHotKeyRecorder.h,file
+ZKHotKeyRecorder.m,file
+ZKHotKeyRecorderCell.h,file
+ZKHotKeyRecorderCell.m,file
+ZKHotKeyRecorderDelegate.h,file
+ZKHotKeyTranslator.h,file
+ZKHotKeyTranslator.m,file
+ZKHotKeyValidator.h,file
+ZKHotKeyValidator.m,file
+ZKHotKeyValidatorProtocol.h,file
+contents.xcworkspacedata,file
+dsa_public.pem,file
+en.lproj,dir
+main.m,file
+project.pbxproj,file
+project.xcworkspace,dir
+xcschemes,dir
+xcshareddata,dir

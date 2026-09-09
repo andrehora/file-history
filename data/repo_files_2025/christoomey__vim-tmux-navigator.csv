@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+License.md,file
+README.md,file
+doc,dir
+pattern-check,file
+plugin,dir
+tmux-navigator.txt,file
+tmux_navigator.vim,file
+vim-tmux-navigator.tmux,file

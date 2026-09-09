@@ -1,0 +1,74 @@
+name,type
+.gitignore,file
+1-click-bom.csv,file
+3D Printed Case,dir
+434351045816_Download_STP_434351045816_rev1.stp,file
+687106183622.stp,file
+687124183622.stp,file
+AAA_SMT.kicad_mod,file
+BATTERY_BOX_N07.kicad_mod,file
+Battery_Holder.pretty,dir
+CONB127P-2R-10W_TH.STEP,file
+Castellated E-Paper Driver,dir
+Crystal_SMD_HC49-US.kicad_mod,file
+DFEG10040D-100M=P3.STEP,file
+Fabrication Files,dir
+GCT_MEM2075-00-140-01-A.kicad_mod,file
+K1-5202UA.kicad_mod,file
+K1-5202UA.kicad_sym,file
+K1-5202UA.pretty,dir
+LICENSE.md,file
+MCU_RaspberryPi_and_Boards.pretty,dir
+MEM2075-00-140-01-A--3DModel-STEP-56544.STEP,file
+MEM2075-00-140-01-A.kicad_sym,file
+MEM2075-00-140-01-A.pretty,dir
+OSO-BOOK-B1,dir
+OSO-BOOK-B1-00.zip,file
+OSO-BOOK-B1.kicad_pcb,file
+OSO-BOOK-B1.kicad_prl,file
+OSO-BOOK-B1.kicad_pro,file
+OSO-BOOK-B1.kicad_sch,file
+OSO-BOOK-C1,dir
+OSO-BOOK-C1-04-rounded.zip,file
+OSO-BOOK-C1-05-rounded.zip,file
+OSO-BOOK-C1.kicad_pcb,file
+OSO-BOOK-C1.kicad_prl,file
+OSO-BOOK-C1.kicad_pro,file
+OSO-BOOK-C1.kicad_sch,file
+OSO-BOOK-C2,dir
+OSO-BOOK-C2-01.brd,file
+OSO-BOOK-C2-01.kicad_mod,file
+OSO-BOOK-C2-01.kicad_sym,file
+OSO-BOOK-C2-01.pretty,dir
+OSO-BOOK-C2-01.sch,file
+OSO-BOOK-C2-02 (PCBWay),dir
+OSO-BOOK-C2-02-BOM.csv,file
+OSO-BOOK-C2-02-PNP.txt,file
+OSO-BOOK-C2-02.brd,file
+OSO-BOOK-C2-02.sch,file
+OSO-BOOK-C2-02_2022-07-19.zip,file
+OSO-BOOK-C2-03 (JLCPCB),dir
+OSO-BOOK-C2-03-BOM.csv,file
+OSO-BOOK-C2-03-PNP.csv,file
+OSO-BOOK-C2-03.brd,file
+OSO-BOOK-C2-03.sch,file
+OSO-BOOK-C2-03.zip,file
+OSO-MISC-23-001.zip,file
+Open Book Abridged - Minimal Case.stl,file
+Open Book Main Board,dir
+R1218.kicad_sym,file
+README.md,file
+RP2040-QFN-56.kicad_mod,file
+RPi_Pico_SMD.kicad_mod,file
+RPi_Pico_SMD_TH.kicad_mod,file
+RPi_Pico_Test_Pins_SMD.kicad_mod,file
+RPi_Pico_Test_Pins_SMD_TH.kicad_mod,file
+SM03B-SRSS-TB(LF)(SN)--3DModel-STEP-56544.STEP,file
+SM04B-SRSS-TB(LF)(SN)--3DModel-STEP-56544.STEP,file
+TACT_PANA-EVQ-BUTTONPAD.kicad_mod,file
+TACT_PANA-EVQ.kicad_mod,file
+TACT_PANA-EVQ.pretty,dir
+fp-info-cache,file
+fp-lib-table,file
+kitspace.yaml,file
+sym-lib-table,file

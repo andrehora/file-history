@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+Makefile,file
+README.md,file
+go.mod,file
+main.go,file
+main_test.go,file
+screenshot.png,file

@@ -1,0 +1,1278 @@
+name,type
+.all-contributorsrc,file
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.oxfmtrc.json,file
+.oxlintrc.json,file
+.vscode,dir
+0,dir
+000.png,file
+001.png,file
+002.png,file
+003.png,file
+004.png,file
+005.png,file
+006.png,file
+007.png,file
+008.png,file
+1,dir
+1-p5.js-2.0-bug-report.yml,file
+2,dir
+2-found-a-bug.yml,file
+2D Shapes,dir
+2D mode,dir
+2D objects maintain correct size,dir
+2d mode,dir
+2d_primitives.js,file
+3,dir
+3-existing-feature-enhancement.yml,file
+3D Materials,dir
+3D Primitives,dir
+3D cubic coordinates,dir
+3D quadratic coordinates,dir
+3D vertex coordinates,dir
+3DModel,dir
+3d_primitives.js,file
+4,dir
+4-feature-request.yml,file
+5-discussion.yml,file
+6,dir
+7,dir
+8,dir
+AGENTS.md,file
+AI_USAGE_POLICY.md,file
+Acmesa.ttf,file
+AndaleMono.ttf,file
+Auto-sized framebuffer,dir
+Auto-sized framebuffer after canvas resize,dir
+AvenirNextLTPro-Demi.otf,file
+Basic clipping with circles,dir
+Basic colors have opacity applied correctly,dir
+Basic framebuffer draw to canvas,dir
+BricolageGrotesque-Variable.ttf,file
+Buffer Alignment,dir
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CONTRIBUTORS.md,file
+Camera,dir
+Camera settings on framebuffers reset after push%2Fpop,dir
+Camera space,dir
+Canvas Resizing,dir
+Clipping,dir
+Colors have opacity applied correctly when lights are used,dir
+Colors in shader hooks have opacity applied correctly,dir
+Colors in textures have opacity applied correctly,dir
+Colors in tinted textures have opacity applied correctly,dir
+Combined vs split matrices,dir
+Combining quadratic and cubic beziers,dir
+Compute shader assigns to a swizzle of a struct vector field,dir
+Compute shader assigns to a swizzle of a struct vector field inside an if statement,dir
+Compute shader reads and transforms float array values,dir
+Compute shader reads and updates struct fields (position += velocity),dir
+Compute shader updates struct fields via intermediate field variable,dir
+Compute shader updates struct fields via intermediate struct variable,dir
+Compute shader writes a whole struct element as an object literal,dir
+"Compute shader writes float values to storage buffer, vertex shader reads them",dir
+"Compute shader writes to struct storage fields, vertex shader reads them",dir
+Compute shaders,dir
+Custom camera before and after resize,dir
+DIVYANSHU_RAJ_GSOC_20.md,file
+DOM-extensions,dir
+Damscray_-_Dancing_Tiger_01.mp3,file
+Damscray_-_Dancing_Tiger_01.ogg,file
+Damscray_-_Dancing_Tiger_02.mp3,file
+Damscray_-_Dancing_Tiger_02.ogg,file
+DelayNoiseEnvelope,dir
+DelaySoundFile,dir
+Drawing accumulates across frames when background is set in setup,dir
+Drawing closed curve loops,dir
+Drawing closed curves,dir
+Drawing closed polylines,dir
+Drawing polylines,dir
+Drawing quad strips,dir
+Drawing rounded rectangles,dir
+Drawing simple closed curves,dir
+Drawing triangle fans,dir
+Drawing triangle strips,dir
+Drawing with a single closed contour,dir
+Drawing with a single unclosed contour,dir
+Drawing with contours,dir
+Drawing with cubic beziers,dir
+Drawing with curves,dir
+Drawing with curves in the middle of other shapes,dir
+Drawing with curves with hidden ends,dir
+Drawing with curves with tightness,dir
+Drawing with every subshape in a contour,dir
+Drawing with lines,dir
+Drawing with points,dir
+Drawing with quadratic beziers,dir
+Drawing with quads,dir
+Drawing with triangles,dir
+Drawn as values,dir
+Drawn in a shader,dir
+Extruded,dir
+FES.jpg,file
+FFT_freqRange,dir
+FFT_frequency_spectrum,dir
+FFT_waveform,dir
+FFT_waveform_2,dir
+FUNDING.yml,file
+Feedback,dir
+Fill color and default ambient material,dir
+FillShader,dir
+Filter_BandPass,dir
+Filter_LowPass,dir
+FiraSans-Book.otf,file
+Fixed-size framebuffer after manual resize,dir
+Flat,dir
+Fonts can be converted to drawing context commands,dir
+Fonts can be converted to points,dir
+Fonts can be converted to points grouped by contour,dir
+Fonts point angles work in DEGREES mode,dir
+Fonts point angles work in RADIANS mode,dir
+Framebuffer with depth disabled,dir
+Framebuffer with different sizes,dir
+Framebuffers,dir
+GIF,dir
+GeometryBufferCache.js,file
+GeometryBuilder.js,file
+Handles nearly identical consecutive vertices,dir
+Hooks coordinate spaces,dir
+ISSUE_TEMPLATE,dir
+Image Based Lighting,dir
+ImageShader,dir
+Immediate Mode Buffer Reuse,dir
+In 2d mode,dir
+In webgl mode,dir
+Inconsolata-Bold.ttf,file
+Inknut Antiqua in 2d mode,dir
+Inknut Antiqua in webgl mode,dir
+Instanced rendering,dir
+Integrating-other-libraries,dir
+Inter in 2d mode,dir
+Inter in webgl mode,dir
+It can apply BLUR,dir
+It can apply BLUR with a value,dir
+It can apply DILATE (4x),dir
+It can apply ERODE (4x),dir
+It can apply GRAY,dir
+It can apply INVERT,dir
+It can apply POSTERIZE,dir
+It can apply POSTERIZE with a value,dir
+It can apply THRESHOLD,dir
+It can apply THRESHOLD with a value,dir
+It can combine multiple filter passes,dir
+It can use filter shader hooks,dir
+L05_GSOC_2019.md,file
+LEFT.BL.lead.png,file
+LEFT.BOTTOM.lead.png,file
+LEFT.CENTER.lead.png,file
+LEFT.TOP.lead.png,file
+Lato-Black.ttf,file
+Lato-Regular.woff,file
+LiberationSans-Bold.ttf,file
+Lights,dir
+Main canvas drawing after resize,dir
+Matrices,dir
+Matrix.js,file
+MatrixInterface.js,file
+MatrixNumjs.js,file
+Mode CENTER,dir
+Mode CORNER,dir
+Mode CORNERS,dir
+Mode RADIUS,dir
+Multiple filter passes work correctly on a p5.Graphics in 2d mode,dir
+Multiple filter passes work correctly on a p5.Graphics in webgl mode,dir
+NOC_2_5_fluidresistance,dir
+NOC_2_7_attraction_many,dir
+NOC_6_09_Flocking,dir
+Negative dimensions,dir
+Noise,dir
+Normalized texture coordinates,dir
+NotoNaskhArabic.woff2,file
+OBJ model with MTL file displays diffuse colors correctly,dir
+Object space,dir
+Object with different texture coordinates per use of vertex keeps the coordinates intact,dir
+Object with no colors takes on fill color,dir
+On a createGraphics WEBGL buffer,dir
+On a framebuffer,dir
+On a framebuffer of a different size from the canvas,dir
+On a framebuffer sized differently from the main canvas,dir
+On the main canvas,dir
+Opacity,dir
+Oswald in 2d mode,dir
+Oswald in webgl mode,dir
+PULL_REQUEST_TEMPLATE.md,file
+Per-control point fills,dir
+Per-control point strokes,dir
+Per-vertex fills,dir
+Per-vertex normals,dir
+Per-vertex strokes,dir
+PlayfairDisplay.ttf,file
+PulseFFT,dir
+README.md,file
+README.txt,file
+REPORTS,dir
+REPORT_1_TEST CPU.md,file
+Raleway in 2d mode,dir
+Raleway in webgl mode,dir
+Rendering attributes,dir
+Reverb_basic,dir
+Reverb_convolve,dir
+Reverb_convolve_FFT,dir
+SECURITY.md,file
+Sampling density can be changed,dir
+Shader hooks can be used,dir
+ShaderFunctionality,dir
+Shaders,dir
+Shape Modes,dir
+Shape arc,dir
+Shape drawing,dir
+Shape ellipse,dir
+Shape rect,dir
+ShapeBuilder.js,file
+SourceSansPro-Regular.otf,file
+States.js,file
+Storage buffer (float array) can be read in a vertex shader for instanced rendering,dir
+Strands tutorial,dir
+StrokeShader,dir
+Strokes,dir
+Strokes do not cut into fills in ortho mode,dir
+Struct storage buffer fields can be read in a vertex shader for instanced rendering,dir
+Struct storage buffer fields can be read using an inline schema template,dir
+Struct storage buffer fields can use p5.Vector values,dir
+TRIANGLE_FAN in p5.Geometry with per-vertex fills,dir
+TRIANGLE_FAN with per-vertex fills,dir
+TRIANGLE_STRIP in p5.Geometry with per-vertex fills,dir
+TRIANGLE_STRIP with per-vertex fills,dir
+Tessellation,dir
+Texture coordinates,dir
+Textures in the material shader work,dir
+The color shader runs successfully,dir
+The material shader runs successfully,dir
+The stroke shader runs successfully,dir
+Transforms,dir
+Transparent background colors are correct in 2d mode,dir
+Transparent background colors are correct in webgl mode,dir
+Typography,dir
+Typr.js,file
+UV_Grid_Sm.jpg,file
+WebGL,dir
+WebGL mode,dir
+WebGPU,dir
+Works after perspective() with no args,dir
+World space,dir
+_files,dir
+a 12-material OBJ renders every material,dir
+a bump-mapped sphere shows surface detail under light,dir
+a single-material OBJ renders through the part path,dir
+a slice with a missing texture falls back to its colour,dir
+a texture change splits into parts that each keep their texture,dir
+a textured part and an untextured part both render,dir
+acceleration.js,file
+access.md,file
+accessibility,dir
+acheng_ogarcia_gsoc_2019.md,file
+acmesa.ttf,file
+addons,dir
+adilrabbani_gsoc_2018.md,file
+aditya_gsoc_2021.md,file
+african-savanna.png,file
+aidannelson_gsoc_2018.md,file
+akshaypadte_gsoc_2020.md,file
+all alignments with multi-line manual text,dir
+"all alignments with multi-line manual text, no box dimensions",dir
+all alignments with multi-lines and wrap char,dir
+all alignments with multi-lines and wrap word,dir
+all alignments with single line,dir
+all alignments with single word,dir
+all text styles,dir
+all-checks-passed.png,file
+amplitude_analysis,dir
+anaisgonzalez_gsoc_2021.md,file
+animals.xml,file
+animate-image.js,file
+animate.html,file
+app.js,file
+app.node.js,file
+ar,dir
+arc,dir
+archive,dir
+arnott-wallace-eye-loop-forever.gif,file
+array.js,file
+array.json,file
+aryan_koundal_gsoc_2023.md,file
+ascii,file
+ascii.stl,file
+ashleykang_gsoc2019.md,file
+assets,dir
+async,dir
+attractor.js,file
+attributes.js,file
+audio_button_slider,dir
+audioelt_onended,dir
+auto-close-issues.yml,file
+auto-return for shader hooks,dir
+auto-return preserves multiple property modifications,dir
+auto-return works with getCameraInputs,dir
+auto-return works with getObjectInputs,dir
+auto-return works with getPixelInputs,dir
+auto-returns input struct when return is omitted,dir
+autoCorrelation,dir
+ayush23dash_gsoc_2023.md,file
+background(),dir
+background(image) works in WEBGL,dir
+ball.js,file
+banana.png,file
+base.frag,file
+base.js,file
+base.vert,file
+baseColorShader,dir
+baseMaterialShader,dir
+baseNormalShader,dir
+basic.frag,file
+basic.ts,file
+beat.mp3,file
+beat.ogg,file
+beatbox.mp3,file
+beatbox.ogg,file
+beginShape%2FendShape reuses buffers across frames,dir
+bench,dir
+benchmarking_p5.md,file
+blendMode,dir
+blit.js,file
+boid.js,file
+books.xml,file
+boundingBoxBreaks.p5.jpg,file
+boundingBoxBreaksLeft.p5.jpg,file
+boundingBoxMulti.p5.jpg,file
+brightness_mirror,dir
+browser-bad-return,dir
+browser-invalid-token,dir
+browser-missing-initializer,dir
+browser-redeclare-variable,dir
+browser-reference-cannot-access,dir
+browser-reference-not-defined,dir
+browser-type-const-assign,dir
+browser-type-not-function,dir
+browser-type-null,dir
+browser-type-undefined,dir
+browser-unexpected-token,dir
+browser_errors.js,file
+buildGeometry with non-4-byte-aligned index buffer size,dir
+buildGeometry(),dir
+bump_sphere.mtl,file
+bump_sphere.obj,file
+bumpmap.png,file
+buzz.js,file
+bx-spring.mp3,file
+bx-spring.ogg,file
+calculation.js,file
+camera,dir
+cameraViews,dir
+can control non-variable fonts,dir
+can control variable fonts,dir
+can control variable fonts from files,dir
+can control variable fonts from files in WebGL,dir
+can control variable fonts from files in WebGPU,dir
+can draw in a grid with floor(),dir
+can draw in a grid with int(),dir
+can draw models,dir
+caps.svg,file
+capture_audio,dir
+capture_video,dir
+capture_video_sizing,dir
+case0,dir
+case1,dir
+case2,dir
+case3,dir
+case4,dir
+case5,dir
+case6,dir
+cases,dir
+cat-with-alpha.png,file
+cat-with-hole.png,file
+cat.jpg,file
+cat.webm,file
+catcher.js,file
+chai_helpers.js,file
+checkbox_test,dir
+chinese,dir
+chp1,dir
+chp10,dir
+chp2,dir
+chp3,dir
+chp4,dir
+chp5,dir
+chp6,dir
+chp7,dir
+chp8,dir
+chp9,dir
+ci-lint.yml,file
+ci-test.yml,file
+circle.svg,file
+code-button.png,file
+color,dir
+color.js,file
+color_conversion.js,file
+color_namer.js,file
+color_picker,dir
+color_spaces,dir
+comment-review.png,file
+commit-merge.png,file
+compute.js,file
+concrete-tunnel.mp3,file
+concrete-tunnel.ogg,file
+conditional swizzle assignment inside of branching,dir
+cone() renders correctly,dir
+config.yml,file
+conflicts-interface.png,file
+connieliu_gsoc_2020.md,file
+const.js,file
+constants.js,file
+continuous-release.yml,file
+contributing_to_the_p5.js_reference.md,file
+contributing_to_the_p5js_reference.md,file
+contributor_docs,dir
+contributor_guidelines.md,file
+contributors-png.js,file
+contributors-png.mjs,file
+contributors-png.yml,file
+contributors.png,file
+conversion.js,file
+convert.mjs,file
+converted.json,file
+copying-images.js,file
+copying.html,file
+core,dir
+counting-gif@1xLoop-0.2secDelay.gif,file
+counting-gif@endlessLoop-1secDelay.gif,file
+cpu_transforms.bench.js,file
+creating_libraries.md,file
+creating_reading.js,file
+cropping-images.js,file
+cropping.html,file
+csv.csv,file
+csv.js,file
+cube-negative-indices.obj,file
+cube-textures.obj,file
+cube.obj,file
+cursor,dir
+cursor.js,file
+curves,dir
+curves.js,file
+customShader,dir
+custom_p5_build.md,file
+custom_shapes.js,file
+cylinder() renders correctly,dir
+data,dir
+data-processor.mjs,file
+data.json,file
+debugMode,dir
+decorators.md,file
+depth,dir
+describe.js,file
+design_principles.md,file
+dev.js,file
+dewansDT_gsoc_2023.md,file
+dispose_background.gif,file
+dispose_none.gif,file
+dispose_previous.gif,file
+docs,dir
+documentation_style_guide.md,file
+dom,dir
+dom.js,file
+dom_1.png,file
+dom_2-0.png,file
+dom_2-1.png,file
+dom_7.png,file
+dom_8.png,file
+doorbell.mp3,file
+doorbell.ogg,file
+downloading.js,file
+drawing gifs,dir
+drawing gifs after a time delay,dir
+drawing-images.js,file
+drawing.html,file
+drop.js,file
+dropdown_test,dir
+drum.mp3,file
+drum.ogg,file
+duplicate_usemtl.mtl,file
+duplicate_usemtl.obj,file
+edit-file.png,file
+eg1.mtl,file
+eg1.obj,file
+elginmclaren_gsoc_2018.md,file
+ellipse,dir
+ellipsoid() renders with non-uniform radii,dir
+empty-example,dir
+empty_lines.txt,file
+en,dir
+enums.js,file
+env,dir
+envelope,dir
+envelopeOnOff,dir
+environment.js,file
+erase(),dir
+es,dir
+es6-adoption.md,file
+eslint.config.mjs,file
+events,dir
+example_10_1,dir
+example_10_1.js,file
+example_10_10,dir
+example_10_10.js,file
+example_10_2,dir
+example_10_2.js,file
+example_10_3,dir
+example_10_3.js,file
+example_10_4,dir
+example_10_4.js,file
+example_10_5,dir
+example_10_5.js,file
+example_10_6,dir
+example_10_6.js,file
+example_10_7,dir
+example_10_7.js,file
+example_10_8,dir
+example_10_8.js,file
+example_10_9,dir
+example_10_9.js,file
+example_1_1.js,file
+example_1_2.js,file
+example_1_3.js,file
+example_1_4.js,file
+example_1_5.js,file
+example_2_1.js,file
+example_3_1.js,file
+example_3_2.js,file
+example_3_3.js,file
+example_3_4.js,file
+example_3_5.js,file
+example_3_6.js,file
+example_4_1.js,file
+example_4_2.js,file
+example_4_3.js,file
+example_4_4.js,file
+example_4_5.js,file
+example_4_6.js,file
+example_4_7.js,file
+example_4_8.js,file
+example_5_1.js,file
+example_5_10.js,file
+example_5_2.js,file
+example_5_3.js,file
+example_5_4.js,file
+example_5_5.js,file
+example_5_6.js,file
+example_5_7.js,file
+example_5_8.js,file
+example_5_9.js,file
+example_6_1.js,file
+example_6_10.js,file
+example_6_11.js,file
+example_6_2.js,file
+example_6_3.js,file
+example_6_4.js,file
+example_6_5.js,file
+example_6_6.js,file
+example_6_7.js,file
+example_6_8.js,file
+example_6_9.js,file
+example_7_1.js,file
+example_7_2.js,file
+example_7_3.js,file
+example_7_4.js,file
+example_7_5.js,file
+example_8_1.js,file
+example_8_2.js,file
+example_8_3.js,file
+example_9_10.js,file
+example_9_11.js,file
+example_9_12.js,file
+example_9_2.js,file
+example_9_3.js,file
+example_9_4.js,file
+example_9_5.js,file
+example_9_6.js,file
+example_9_7.js,file
+example_9_8.js,file
+example_9_9.js,file
+experimental.js,file
+explicit return still works,dir
+extensions.json,file
+feedback,dir
+fes,dir
+fes.js,file
+fes.svg,file
+fes_contribution_guide.md,file
+fes_core.js,file
+fes_reference_dev_notes.md,file
+file_input,dir
+file_input_div,dir
+files-changed.png,file
+files.js,file
+filter,dir
+filter shaders can sample a texture inside a conditional branch,dir
+filter shaders with flat API,dir
+filter-images.js,file
+filter.html,file
+filterRenderer2D.js,file
+filterShaders.js,file
+filters,dir
+filters.js,file
+findRows,dir
+fingers.mov,file
+fingers.webm,file
+first-timers.yml,file
+flags.svg,file
+flock.js,file
+flowers-large.jpg,file
+flowers.jpg,file
+font,dir
+font data,dir
+font.frag,file
+font.js,file
+font.vert,file
+fontSizeAdjustIssue.html,file
+fontStretchIssue.html,file
+fontfaceobserver.standalone.js,file
+fork.png,file
+formats,dir
+frag.glsl,file
+framebuffer,dir
+friendly_error_system.md,file
+friendly_errors,dir
+frustum,dir
+functions,dir
+gamestyle.html,file
+gamestyle.js,file
+generics.ts,file
+geometryImmediate,dir
+geometryLit,dir
+geometryLoading,dir
+geometryUnlit,dir
+get,dir
+getColumn,dir
+getObject,dir
+getTexture in vertex shaders,dir
+ghalestrilo_gsoc_2020.md,file
+giphy.gif,file
+github-desktop-commit.png,file
+github-desktop-create-branch.png,file
+github-desktop-fork.png,file
+github-desktop-init.png,file
+github-issue.png,file
+github-repo-metrics.png,file
+global,dir
+global-mousex,dir
+global-mousex-offset,dir
+glyph resource allocation does not corrupt textures,dir
+graciazhang_gsoc_2022.md,file
+green.svg,file
+gridOutput.js,file
+helpers.js,file
+hi,dir
+high shininess,dir
+hook returning a fresh struct (not the struct argument) applies modifications,dir
+how-to-add-friendly-error-messages.md,file
+hsb.js,file
+html,dir
+image,dir
+image.js,file
+imageLight.js,file
+imageLight.vert,file
+imageLightDiffused.frag,file
+imageLightSpecular.frag,file
+images,dir
+img,dir
+index.html,file
+index.js,file
+inhwayeom_gsoc_2020.md,file
+init.js,file
+input_button,dir
+instance,dir
+instance-mousex,dir
+instance-mousex-css,dir
+instance-mousex-offset,dir
+instance.ts,file
+instanceID in fragment hook colors instances,dir
+instanceID in fragment hook colors instances (WebGPU),dir
+instanced randering,dir
+instances() API draws instanced curves,dir
+instances() API draws instanced curves (WebGPU),dir
+instances() API draws instanced lines and points,dir
+instances() API draws instanced lines and points (WebGPU),dir
+instances() API draws multiple spaced 2D rects,dir
+instances() API draws multiple spaced 2D rects (WebGPU),dir
+instances() API draws multiple spaced primitives,dir
+instances() API draws multiple spaced primitives (WebGPU),dir
+instantiation-global,dir
+instantiation-instance,dir
+interaction.js,file
+internationalization.md,file
+invalid.json,file
+invalid_json.html,file
+invalid_json.js,file
+io,dir
+ir_builders.js,file
+ir_cfg.js,file
+ir_dag.js,file
+ir_types.js,file
+issue_labels.md,file
+issues,dir
+issues-tab.png,file
+it recovers from p5.strands errors,dir
+ja,dir
+jithinks_gsoc_2018.md,file
+joins.svg,file
+josephhong_gsoc_2021.md,file
+js,dir
+jsdoc.md,file
+junshern_gsoc_2018.md,file
+katiejliu_gsoc_2021.md,file
+keyIsPressed.html,file
+keyIsPressed.js,file
+keyboard,dir
+keyboard.js,file
+ko,dir
+labeler.yml,file
+large-dark-plate.mp3,file
+large-dark-plate.ogg,file
+learningprocessing,dir
+legacy.js,file
+lerp maps to mix in strands context,dir
+liang_gsoc_2018.md,file
+lib,dir
+license.txt,file
+lichlyter_gsoc_2023.md,file
+light.js,file
+light.vert,file
+light_texture.frag,file
+lighting.glsl,file
+line-diagram.svg,file
+line.frag,file
+line.js,file
+line.vert,file
+liquid.js,file
+load-gifs.html,file
+load-gifs.js,file
+loadBytes.js,file
+loadFilterShader,dir
+loadFont,dir
+loadImage,dir
+loadJSON.js,file
+loadJSON_callback,dir
+loadJSON_options,dir
+loadJSON_preload,dir
+loadMaterialShader,dir
+loadModel.js,file
+loadPixels.html,file
+loadPixels.js,file
+loadShader.js,file
+loadSound_callback,dir
+loadSound_preload,dir
+loadStrings.js,file
+loadStrings_callback,dir
+loadStrings_manyLines,dir
+loadStrings_preload,dir
+loadTable.js,file
+loadTable_callback,dir
+loadTable_options,dir
+loadTable_preload,dir
+loadXML.js,file
+loadXML_preload,dir
+loadedFontSketch.p5.png,file
+loading.js,file
+loading_displaying.js,file
+loadingscreen,dir
+loadingscreen.js,file
+local_storage.js,file
+looper_simple,dir
+low shininess,dir
+lucky_dragons.mp3,file
+lucky_dragons.ogg,file
+lucky_dragons_-_power_melody.mp3,file
+lucky_dragons_-_power_melody.ogg,file
+luismn_gsoc_2020.md,file
+main.js,file
+malayvasa_gsoc_2022.md,file
+mammals.csv,file
+manipulate-images.js,file
+manipulate.html,file
+manual-test-examples,dir
+many_lines.txt,file
+mark-as-resolved.png,file
+mat2 uniforms are uploaded,dir
+matchRow,dir
+matchRows,dir
+material.js,file
+math,dir
+math.js,file
+media assets,dir
+metadata.json,file
+method-template-example.png,file
+method.example.js,file
+micFFT,dir
+micLevel,dir
+micLevel_on_off,dir
+missing_texture.mtl,file
+missing_texture.obj,file
+misspelled-close-match,dir
+misspelled-multiple-match,dir
+misspelled-user-defined-function,dir
+misspelled-wrong-case,dir
+mix produces same result as lerp in strands,dir
+mobile-draft-1.png,file
+mobile-feature-map.png,file
+mobile-final-proposals.png,file
+mocha_setup.js,file
+mockServiceWorker.js,file
+mocks.js,file
+model-bin.stl,file
+modernizr.js,file
+module.html,file
+mouse-events,dir
+mouse.js,file
+mover.js,file
+multi-material OBJ renders each material part,dir
+multi_material_12.mtl,file
+multi_material_12.obj,file
+multi_material_2.mtl,file
+multi_material_2.obj,file
+multilineAlignChar.p5.png,file
+multilineAlignSketch.p5.png,file
+multilineAlignSketch.png,file
+multiple,dir
+multipleTextures,dir
+munusshih_gsoc_2023.md,file
+new-branch.png,file
+new-issue.png,file
+new-pr.png,file
+nikiito_gsoc_2021.md,file
+noSmooth() does not crash and disables antialiasing,dir
+noTint() before image() does not throw,dir
+no_mtl.obj,file
+no_normals.mtl,file
+no_normals.obj,file
+node,dir
+noise.js,file
+noise3DGLSL.glsl,file
+noise3DWGSL.js,file
+noiseMod_AM,dir
+noop.js,file
+normal.frag,file
+normal.js,file
+normal.vert,file
+normalTexture() adds surface detail to a built shape,dir
+normal_mapped.mtl,file
+normal_mapped.obj,file
+nyan_cat.gif,file
+objMtlMissing.obj,file
+object.js,file
+object.json,file
+octa-color.mtl,file
+octa-color.obj,file
+on PATH shape mode,dir
+on QUADS shape mode,dir
+on a framebuffer,dir
+on a rect,dir
+on a rect with rounded corners,dir
+on buildGeometry outputs containing 3D primitives,dir
+on the main canvas,dir
+only fills set in buildGeometry are kept,dir
+opened-pr.png,file
+orenshoham_gsoc_2019.md,file
+oscillatorMod_AM,dir
+oscillatorMod_FM,dir
+oscillatorSecondsFromNow,dir
+oscillatorWaveform,dir
+oscillator_FMSynth,dir
+outOfPhase,dir
+outputs.js,file
+outside of push() and pop(),dir
+p5-graphics-diagram.png,file
+p5-readme-sketch.png,file
+p5.Camera.js,file
+p5.Color.culori.js,file
+p5.Color.js,file
+p5.DataArray.js,file
+p5.Element.js,file
+p5.File.js,file
+p5.Font.js,file
+p5.Framebuffer.js,file
+p5.Geometry.js,file
+p5.GeometryPart.js,file
+p5.Graphics.js,file
+p5.Image,dir
+p5.Image.js,file
+p5.Matrix.js,file
+p5.MediaElement.js,file
+p5.Quat.js,file
+p5.RenderBuffer.js,file
+p5.Renderer.js,file
+p5.Renderer2D,dir
+p5.Renderer2D.js,file
+p5.Renderer3D.js,file
+p5.RendererGL.js,file
+p5.RendererWebGPU.js,file
+p5.Shader.js,file
+p5.Shape,dir
+p5.Table,dir
+p5.Table.js,file
+p5.TableRow.js,file
+p5.Texture.js,file
+p5.Vector,dir
+p5.Vector.js,file
+p5.XML.js,file
+p5.jpg,file
+p5.sound,dir
+p5.sound.js,file
+p5.sound.min.js,file
+p5.strands,dir
+p5.strands.js,file
+p5.strands.md,file
+p5_helpers.js,file
+p5v2.jpg,file
+package-lock.json,file
+package.json,file
+pan_soundfile,dir
+param_errors.js,file
+param_validator.js,file
+parameter-too-few,dir
+parameter-too-many,dir
+parameter-wrong-type,dir
+parameter-wrong-type-multiple,dir
+parameterData.json,file
+parseMtl.js,file
+patch-vector.js,file
+patch.mjs,file
+pause_soundfile,dir
+peakDetect,dir
+peakDetect_basic,dir
+performance,dir
+phong.frag,file
+phong.vert,file
+pixelmatch.png,file
+pixelmatch2.png,file
+pixels.js,file
+plant.obj,file
+play_soundfile,dir
+playbackRate,dir
+poc.bench.js,file
+pointer.js,file
+points,dir
+preload,dir
+preload_success_callbacks.html,file
+preload_success_callbacks.js,file
+preview,dir
+preview-pull-request.png,file
+proc.jpg,file
+project_wrapups,dir
+properties.js,file
+pt-br,dir
+publish-branch.png,file
+rachellim_gsoc_2019.md,file
+radio_test,dir
+random() colors a basic shader,dir
+random() colors a basic shader (WebGPU),dir
+random() in a fragment loop averages to gray (WebGPU),dir
+random.js,file
+randomComputeWGSL.js,file
+randomGLSL.glsl,file
+randomGaussian() colors a basic shader,dir
+randomGaussian() colors a basic shader (WebGPU),dir
+randomGaussian() in a fragment loop averages to the mean,dir
+randomGaussian() in a fragment loop averages to the mean (WebGPU),dir
+randomVertGLSL.glsl,file
+randomVertWGSL.js,file
+randomWGSL.js,file
+recent-pushes.png,file
+record,dir
+recordLoops,dir
+rect,dir
+rect() rounded into a circle,dir
+red.jpg,file
+redeclare-p5-member,dir
+reference-code-link.png,file
+reference-screenshot-example-fill-red.png,file
+reference-screenshot.png,file
+reference.js,file
+release-action.png,file
+release-workflow-v1.yml,file
+release-workflow-v2.yml,file
+release.yml,file
+release_process.md,file
+removeTokens,dir
+rendering.bench.js,file
+rendering.js,file
+resolve-conflicts.png,file
+rfc_p5js_2.md,file
+rhodes_loop.wav,file
+roadmap.md,file
+rockies.gif,file
+rolldown.config.js,file
+rotate() rotates shapes around z-axis,dir
+running-cat.png,file
+sai_bhushan_gsoc_2021.md,file
+sakshamsaxena_gsoc_2017.md,file
+sample-linter.mjs,file
+sanjay_singh_rajpoot_gsoc2020.md,file
+sanket_gsoc_2019.md,file
+saveData,dir
+saveJSONArray,dir
+saveJSONObject,dir
+saveStrings,dir
+saveTable,dir
+saveTable.js,file
+saving-images.js,file
+saving.html,file
+scale() uniformly scales shapes,dir
+scalingCorrection,dir
+screenshots,dir
+selectbox_test,dir
+sentences.txt,file
+setUniform,dir
+setUniform with p5.Color sets final color,dir
+setUniform with p5.Vector offsets position,dir
+setattributes,dir
+setting.js,file
+settings.json,file
+shaderHookUtils.js,file
+shaders,dir
+shantanuKaushik_gsoc_2021.md,file
+shape,dir
+shape_modes.js,file
+shapes.js,file
+shared-helpers.mjs,file
+shubham_sharma_gsoc_2022.md,file
+single_material.mtl,file
+single_material.obj,file
+single_material_textured.mtl,file
+single_material_textured.obj,file
+sithencube_gsoc_2018.md,file
+sk,dir
+sketch-text-output.png,file
+sketch-text-output2.png,file
+sketch-text-output3.png,file
+sketch-with-shapes.png,file
+sketch.js,file
+sketch_overrides.js,file
+sketch_verifier.js,file
+slider_button,dir
+slider_tests,dir
+slominski_gsoc_2022.md,file
+small-plate.mp3,file
+small-plate.ogg,file
+smrghsh_gsoc_2022.md,file
+soundFormats,dir
+soundfileMod_AM,dir
+soundfile_playMode,dir
+spec.js,file
+spheremap.jpg,file
+spheres,dir
+sprite_sheet.jpg,file
+src,dir
+stacktrace.js,file
+startStopWrapping,dir
+stats.js,file
+steward_guidelines.md,file
+stewards-update.yml,file
+stewards.yml,file
+strands,dir
+strands.ts,file
+strands_FES.js,file
+strands_api.js,file
+strands_builtins.js,file
+strands_codegen.js,file
+strands_conditionals.js,file
+strands_for.js,file
+strands_glslBackend.js,file
+strands_names.js,file
+strands_node.js,file
+strands_phi_utils.js,file
+strands_ternary.js,file
+strands_transpiler.js,file
+strands_wgslBackend.js,file
+structure.js,file
+studio-b.mp3,file
+studio-b.ogg,file
+styles.css,file
+suggest-change.png,file
+suggested-value-change.png,file
+suggestion-preview.png,file
+supported_browsers.md,file
+table.csv,file
+tanvi_gsoc_2018.md,file
+target.gif,file
+target_small.gif,file
+teapot-ascii.stl,file
+teapot.obj,file
+tenderbuttons_excerpt.txt,file
+test,dir
+test-docs-preprocessor.js,file
+test.gif,file
+test.json,file
+test.txt,file
+test.xml,file
+test0,dir
+testFilter.js,file
+testMaterial.js,file
+texCoord is available in getFinalColor,dir
+text,dir
+text leading with different values,dir
+text renders correctly after geometry with many indices,dir
+text sizes comparison,dir
+text-to-paths.html,file
+text-to-points-buffer.html,file
+text-to-points.html,file
+text-width-issue.png,file
+text.js,file
+textAlign,dir
+textAlignSketch.p5.png,file
+textAlignSketch.png,file
+textAllAlignmentsSketch.p5.jpg,file
+textAllAlignmentsSketch.png,file
+textCore.js,file
+textFont,dir
+textFontSketch.jpg,file
+textFontSketch.p5.jpg,file
+textLeading,dir
+textLeadingBaseline.p5.jpg,file
+textLeadingBottom.p5.jpg,file
+textLeadingCenter.p5.jpg,file
+textLeadingTop.p5.jpg,file
+textOutput.js,file
+textOverlapSketch.p5.png,file
+textOverlapSketch.png,file
+textSize,dir
+textSizeSketch.p5.png,file
+textSizeSketch.png,file
+textSketch.p5.png,file
+textSketch.png,file
+textStyle,dir
+textStyleSketch.p5.jpg,file
+textToContours,dir
+textToModel,dir
+textToPaths,dir
+textToPoints,dir
+textVerticalAlign.p5.png,file
+textVerticalAlign.png,file
+textWeight,dir
+textWidth,dir
+textWidthSketch.p5.png,file
+textWidthSketch.png,file
+texture,dir
+texture(),dir
+textureFilter,dir
+textureMode,dir
+textureWrap,dir
+textured.mtl,file
+textured.obj,file
+textures in p5.strands,dir
+time_date.js,file
+timer.js,file
+tint,dir
+tint-performance,dir
+toonShader,dir
+top-level-p5-member,dir
+torus() renders correctly,dir
+touch.js,file
+transform.js,file
+transformation,dir
+translate() moves shapes in x and y axes,dir
+translation.json,file
+translations,dir
+transparentTexture,dir
+triangles,dir
+tricky.gif,file
+trigonometry.js,file
+trim,dir
+tutorials,dir
+type,dir
+types,dir
+typescript.mjs,file
+typography.js,file
+typography.ts,file
+typographyLetterSketch.p5.png,file
+typographyLetterSketch.png,file
+unicodeRanges.js,file
+unicorn.jpg,file
+uniformTexture() works,dir
+unit,dir
+unit-visual-test-terminal.png,file
+unit-visual-test.png,file
+unit_testing.md,file
+unknown_material.mtl,file
+unknown_material.obj,file
+urvashi_gsoc_2019.md,file
+user-set uSampler on custom shader is not overridden,dir
+uses width%2Fheight in getFinalColor,dir
+utilities,dir
+utilities.js,file
+utility_functions.js,file
+utils,dir
+utils.js,file
+variable-font-local.html,file
+variable-font.html,file
+vectors.bench.js,file
+vedhant_gsoc_2019.md,file
+verify width of a string,dir
+version.js,file
+vert.glsl,file
+vertex.js,file
+vertexProperty,dir
+vertical centering,dir
+videoMultiTextureShader,dir
+videoTexture,dir
+video_button,dir
+video_circles,dir
+video_pixels,dir
+video_scrub,dir
+video_speed,dir
+video_to_canvas,dir
+visual,dir
+visual-report.js,file
+visualTest.js,file
+vite.config.mjs,file
+vitest.config.js,file
+waveform,dir
+waveform_peaks_with_playhead,dir
+waveform_with_playhead,dir
+web_accessibility.md,file
+webgl,dir
+webgl mode,dir
+webgl-pixels.ts,file
+webgl.js,file
+webgl2Compatibility.glsl,file
+webgl_contribution_guide.md,file
+webgl_mode_architecture.md,file
+webgpu,dir
+webgpu mode,dir
+webgpu-storage-element-type.js,file
+webgpu.js,file
+webgpu.md,file
+webgpu.ts,file
+white_black.gif,file
+windows_path.mtl,file
+windows_path.obj,file
+with a Google Font URL,dir
+with a directly set font string,dir
+with a font file,dir
+with a font file and special chars,dir
+with a font file in WebGL,dir
+with a font file in WebGPU,dir
+with a woff font file,dir
+with the default font,dir
+with the default monospace font,dir
+wong_gsoc_2023.md,file
+workflows,dir
+working_with_contributor_documents.md,file
+xu_gsoc_2019.md,file
+yuidoc-p5-theme,dir
+yukienomiya_gsoc_2020.md,file
+zh,dir
+zh-Hans,dir

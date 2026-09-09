@@ -1,0 +1,17 @@
+name,type
+Icons.plist,file
+MacBook.icns,file
+MacBookPro.icns,file
+ProDisplayXDR.icns,file
+ProDisplayXDR.tiff,file
+README-zh.md,file
+README.md,file
+displayIcons,dir
+hidpi.command,file
+hidpi.gif,file
+hidpi.sh,file
+iMac.icns,file
+img,dir
+preferences.jpg,file
+run-zh.jpg,file
+run.jpg,file

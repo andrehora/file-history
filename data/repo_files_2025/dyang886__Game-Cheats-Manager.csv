@@ -1,0 +1,22 @@
+name,type
+.gitignore,file
+CMakeLists.txt,file
+Headbangers_Rhythm Royale Trainer,dir
+common,dir
+imconfig.h,file
+imgui.cpp,file
+imgui.h,file
+imgui_draw.cpp,file
+imgui_impl_dx12.cpp,file
+imgui_impl_dx12.h,file
+imgui_impl_win32.cpp,file
+imgui_impl_win32.h,file
+imgui_internal.h,file
+imgui_tables.cpp,file
+imgui_widgets.cpp,file
+imstb_rectpack.h,file
+imstb_textedit.h,file
+imstb_truetype.h,file
+include,dir
+main.cpp,file
+src,dir

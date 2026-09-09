@@ -1,0 +1,6 @@
+name,type
+.gitattributes,file
+.travis-build.php,file
+.travis.yml,file
+LICENSE,file
+README.md,file

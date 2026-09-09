@@ -1,0 +1,6 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+fakeinit.c,file
+takeover.sh,file

@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.jshintrc,file
+CHANGELOG.md,file
+README.md,file
+docs,dir
+example,dir
+getRootInstances.js,file
+index.js,file
+makeIdentitySourceMap.js,file
+package.json,file

@@ -1,0 +1,8 @@
+name,type
+.github,dir
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+README.md,file
+bug_report.yml,file
+config.yml,file
+feature_request.yml,file

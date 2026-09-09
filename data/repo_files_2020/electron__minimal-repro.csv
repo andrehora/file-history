@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE.md,file
+README.md,file
+index.html,file
+main.js,file
+package-lock.json,file
+package.json,file
+preload.js,file
+renderer.js,file

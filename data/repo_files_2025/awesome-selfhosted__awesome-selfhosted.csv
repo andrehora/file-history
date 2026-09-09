@@ -1,0 +1,9 @@
+name,type
+.github,dir
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+_static,dir
+awesome.png,file
+issue_template.md,file
+non-free.md,file

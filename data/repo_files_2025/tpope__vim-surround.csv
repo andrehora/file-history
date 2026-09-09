@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+README.markdown,file
+doc,dir
+plugin,dir
+surround.txt,file
+surround.vim,file

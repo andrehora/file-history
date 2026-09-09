@@ -1,0 +1,4 @@
+name,type
+.gitignore,file
+LICENSE,file
+main.go,file

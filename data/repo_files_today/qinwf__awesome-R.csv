@@ -1,0 +1,10 @@
+name,type
+.github,dir
+GHstarScraper.R,file
+README.md,file
+claude.yml,file
+misc,dir
+posts.md,file
+r-trending.md,file
+trending_repo.R,file
+workflows,dir

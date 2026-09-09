@@ -1,0 +1,9 @@
+name,type
+.github,dir
+APK_VERSION.txt,file
+README.md,file
+auto_release.yml,file
+main.py,file
+op.yml,file
+requirements.txt,file
+workflows,dir

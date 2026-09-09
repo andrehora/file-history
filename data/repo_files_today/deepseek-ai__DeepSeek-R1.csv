@@ -1,0 +1,9 @@
+name,type
+.github,dir
+DeepSeek_R1.pdf,file
+LICENSE,file
+README.md,file
+benchmark.jpg,file
+figures,dir
+stale.yml,file
+workflows,dir

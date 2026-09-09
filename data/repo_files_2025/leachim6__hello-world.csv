@@ -1,0 +1,1014 @@
+name,type
+!,file
+#,dir
+.editorconfig,file
+.github,dir
+.gitignore,file
+0(nop^),file
+0587,file
+05AB1E,file
+0815.0815,file
+1+,file
+123,file
+1C Enterprise,file
+256.256,file
+2B.2b,file
+420.420,file
+4gl.4gl,file
+4test,file
+4th Dimension.4dd,file
+6969 Assembler,file
+8th,file
+@tention!,file
+@text,file
+A++,file
+ABAP.abap,file
+ABC.abc,file
+ABS.abs,file
+ACIDIC.acidic,file
+ACRONYM.acronym,file
+ACS.acs,file
+ALAGUF.alaguf,file
+ALGOL 60.algol60,file
+ALGOL 68.algol68,file
+ALGOL W.algol,file
+APC.apc,file
+APL.apl,file
+ARC.arc,file
+ARTICLE.artl,file
+ASP.asp,file
+ATS2.dats,file
+AWK.awk,file
+Acpi,file
+ActionScript 2.as,file
+ActionScript 3.as,file
+ActionScript flashmx.as,file
+ActionScript.as,file
+Ada.adb,file
+Add++,file
+Advpl,file
+Aeolbonn.aeo,file
+Agda.agda,file
+Aheui.aheui,file
+Aime.aime,file
+Aiml.aiml,file
+AlPhAbEt.abc,file
+Alan.ln,file
+Alda.alda,file
+Algae.algae,file
+Alice.alice,file
+Alore.alore,file
+Amber.ab,file
+Amiga-E.amiga-e,file
+Amos,file
+And,file
+Android.java,file
+AngelScript,file
+Angular.js,file
+Ansible.yml,file
+AntLang.ant,file
+Ante.ante,file
+Apex.cls,file
+App Inventor.aia,file
+AppleScript.scpt,file
+Applesoft BASIC,file
+Arduino.ino,file
+Arena.are,file
+Argh.agh,file
+ArkScript.ark,file
+ArnoldC.arnoldc,file
+Arturo.art,file
+AsciiDots.ascii,file
+Ash.ash,file
+Asm2bf.asm,file
+Aspectj.aj,file
+Assembler 4004.asm,file
+Assembler 6502.asm,file
+Assembler 6502appleII.asm,file
+Assembler 6502c64.asm,file
+Assembler 6809vectrex.asm,file
+Assembler 8048 videopac.asm,file
+Assembler 8051.asm,file
+Assembler ARM aarch64.s,file
+Assembler ARM.s,file
+Assembler Atari 2600.asm,file
+Assembler Bootsect.asm,file
+Assembler DCPU16.asm,file
+Assembler FASM DOS.asm,file
+Assembler FASM Win32.asm,file
+Assembler HP85.asm,file
+Assembler IBM360.asm,file
+Assembler Intel.asm,file
+Assembler MASM DOS.asm,file
+Assembler MASM Win32.asm,file
+Assembler MASM Win64.asm,file
+Assembler MIPS.asm,file
+Assembler MMIX.asm,file
+Assembler NASM FreeBSD.asm,file
+Assembler NASM Linux.asm,file
+Assembler NASM Linux64.asm,file
+Assembler NASM Macho64.asm,file
+Assembler NASM Win32.asm,file
+Assembler NASM Win64.asm,file
+Assembler RISC-V.s,file
+Assembler TASM DOS.asm,file
+Assembler Vax Ultrix.asm,file
+Assembler Z80 Knightos.asm,file
+Assembler Z80 TI83calculator.asm,file
+Assembler Z80 zxspectrum.asm,file
+Assembler hla.hla,file
+Assembler lc3.asm,file
+Assembler m68000 amigaos.asm,file
+Assembler pdp10 midas.mid,file
+Assembler pdp11 palx.palx,file
+Assembler tms9900 ti99 4a.asm,file
+Asteria,file
+Attache.@,file
+AutoHotKey.ahk,file
+AutoIt.au3,file
+AutoLISP.lsp,file
+Avisynth.avs,file
+Awful.yuk,file
+Axe.axe,file
+B.b,file
+BAIK.ina,file
+BASIC 256.kbs,file
+BASIC.bas,file
+BBC BASIC.bbc,file
+BC GNU.bc,file
+BC.bc,file
+BCPL.bcl,file
+BIRL.c,file
+BIT.bit,file
+BLC.Blc,file
+BRZRK.brzrk,file
+Backshift,file
+Ballerina.bal,file
+Bash.bash,file
+Batch.bat,file
+Batsh.batsh,file
+Battlestar.bts,file
+Beanshell.bsh,file
+Beatnik.beatnik,file
+Beef.bf,file
+Befunge.be,file
+BennuGD,file
+Beta.bet,file
+Bhai Lang.bhai,file
+Bicep.bicep,file
+Binaryfuck.bf,file
+BitBitJump.bbj,file
+Bitsbox.b,file
+BlackRum.br,file
+Blawn.blawn,file
+Blender.py,file
+Blitz3D.bb,file
+Bloop.bloop,file
+Blub.blub,file
+Bolgefuck.bf,file
+Boo.boo,file
+Boolet,file
+Boolfuck,file
+Bosque.bsq,file
+Bottle.py,file
+Brainfuck 2D.bf2d,file
+Brainfuck.bf,file
+Brainloller.png,file
+Brainrot.brainrot,file
+Broccoli.brocc,file
+BuddyScript,file
+Burlesque.burlesque,file
+Byter.byter,file
+C Shell.csh,file
+C+,file
+C+++,file
+C++.cpp,file
+C--,file
+C.c,file
+CAML.ml,file
+CASL2.cas,file
+CEBL.ceb,file
+CESIL.cesil,file
+CFEngine.cf,file
+CGI.c,file
+CLIPS.clips,file
+CLISP.lisp,file
+CLU.clu,file
+CMake.cmake,file
+COBOL.cbl,file
+CODE_OF_CONDUCT.md,file
+COW.cow,file
+CSON.cson,file
+CSS.css,file
+CSharp.cs,file
+Cache ObjectScript.mac,file
+Cadence.cdc,file
+Candy.candy,file
+Cantonese.cantonese,file
+Carbon.carbon,file
+Cardinal.cardinal,file
+Casio BASIC,file
+Catrobat.catrobat,file
+Cbot.txt,file
+Cduce.cduce,file
+Centura.centura,file
+Ceylon.ceylon,file
+ChaScript,file
+Chaos.kaos,file
+Chapel.chpl,file
+Charcoal verbose mode.cl,file
+Charcoal.cl,file
+Charly.ch,file
+Cheddar.cheddar,file
+Cheese++.cheese,file
+Chef.ch,file
+Chem,file
+CherryPy.py,file
+Chicken.chicken,file
+ChinesePython.py,file
+Cil.il,file
+Clean.icl,file
+Clio.clio,file
+Clipper.prg,file
+Clojure.clj,file
+CobolScript.cbl,file
+Cobra.cobra,file
+Coconut.coco,file
+CoffeeScript.coffee,file
+ColdFusion.cfm,file
+Come Here,file
+Comefrom0x10,file
+Common Lisp.lisp,file
+Concurnas.conc,file
+Cone.cone,file
+ContinuesEquation.ce,file
+Control Language.cllc,file
+Cool.cl,file
+Coq.v,file
+Cor.cor,file
+Coral 66.cor,file
+Cotowali.li,file
+Cryptol,file
+Crystal.cr,file
+Cubix,file
+Cuda.cu,file
+Cuneiform.cfl,file
+Curry.curry,file
+Cyclone.cyc,file
+CypherNeo4j.cypher,file
+D.d,file
+DCL,file
+DCPU.dasm,file
+DD DD.dd,file
+DNA#.dna,file
+DNCL.dncl,file
+DOG,file
+DOGO.dogo,file
+DPATL Python.dpatl,file
+DTrace.d,file
+DUP.dup,file
+Dart.dart,file
+Darwin.drw,file
+DataFlex,file
+Db2.sql,file
+Dc.dc,file
+Decimal.dec,file
+Delphi.delphi,file
+Delphi.pas,file
+Deno.ts,file
+Desmos.desmos,file
+Dictu.du,file
+Dis.dis,file
+Divzeros.dz,file
+Django.py,file
+DogeScript.djs,file
+Dotlang,file
+Draco.d,file
+Dragon,file
+DreamMaker.dm,file
+Drive-In Window.diw,file
+Dylan.dl,file
+Dyvil.dyv,file
+E.e,file
+EBuild.ebuild,file
+EO.eo,file
+EOOOL.eoool,file
+EPL.e,file
+ESOPUNK.exa,file
+Ec.ec,file
+EchoLisp.echolisp,file
+Efene.efene,file
+Egison.egi,file
+Egl.egl,file
+Eiffel.eiff,file
+Elena.elena,file
+Elixir.ex,file
+Elixir.exs,file
+Elm.elm,file
+Elvish.elv,file
+EmacsLisp.el,file
+Emerald.m,file
+Emmental.emmental,file
+Emoji,file
+EmojiCoder,file
+Emojicode.emojic,file
+Emoticon.emoticon,file
+Emotinomicon,file
+Enkelt.e,file
+Erg.er,file
+Erlang EScript.erl,file
+Erlang.erl,file
+Euphoria.ex,file
+Evil,file
+Executable.exe,file
+Express.js,file
+F#.fs,file
+F.f95,file
+FROM HERE TO THERE,file
+FStar.fst,file
+Factor.factor,file
+Factors.fact,file
+Falcon.fal,file
+False.f,file
+Fancy.fy,file
+Fantom.fan,file
+FastAPI.py,file
+Felix.flx,file
+Fennel.fnl,file
+Ferite.fe,file
+Fetlang.fet,file
+Fim++.fimpp,file
+Fish.fish,file
+Fist,file
+Fjoelnir.fjo,file
+FlaScript.fls,file
+Flask.py,file
+Flix.flix,file
+Flutter.dart,file
+Fob.fob,file
+Focal.fc,file
+Fog.fog.md,file
+Foo.foo,file
+Forobj.forobj,file
+Forth.fth,file
+Fortob.fortob,file
+Fortran.f90,file
+Fortran77.f77,file
+Fourier.fourier,file
+FoxPro.prg,file
+Fractran++.fpp,file
+FreakC.fclang,file
+Freebrain.frbr,file
+Frink.frink,file
+G-BASIC,file
+GAML.gaml,file
+GASOIL.gasoil,file
+GDScript.gd,file
+GFA Basic,file
+GML.gml,file
+GOTO++.gpp,file
+GTA3Script.sc,file
+Gammaplex.gammaplex,file
+Gecho.gecho,file
+Genie.gs,file
+Gentzen.gentzen,file
+GeoJSON.geojson,file
+Gibberish.gibberish,file
+GitHub Actions.yaml,file
+Glass.glass,file
+Gleam.gleam,file
+Gluon.glu,file
+Go+.gop,file
+Go.go,file
+Gocaml.ml,file
+Goldfish.gfi,file
+Golfscript.golfscript,file
+Golo.golo,file
+Google Apps Script.gs,file
+Gosu.gosu,file
+Gosu.gs,file
+GraphQL.graphql,file
+Gravity.gravity,file
+GreeeeeeeeenText,file
+Green Marl.gm,file
+Gri.gri,file
+GridScript.gridscript,file
+Grin.grin,file
+Grok,file
+Groovy.groovy,file
+Gui4Cli,file
+H++.hpp,file
+HEX.hex,file
+HOP,file
+HP_41C,file
+HQ9++,file
+HQ9+.h,file
+HQ9funge,file
+HSP.hsp,file
+HTML.html,file
+HTTP.py,file
+Hack.hh,file
+Haifuckqueue,file
+Haml.haml,file
+Hamler.hm,file
+Harbour.prg,file
+Hare.ha,file
+Haskell.hs,file
+Haxe.hx,file
+Hello,file
+Hello++,file
+Hexish.hexish,file
+Higher Subleq.higher_subleq,file
+Hodor.hd,file
+Hollow.hollow,file
+Holy C.HC,file
+Homespring.homespring,file
+Hubot.coffee,file
+Huf.huf,file
+Husk.hs,file
+Hy.hy,file
+HyperTalk.ht,file
+I5.i5,file
+IBM1401,file
+ICI.ici,file
+IDK.idk,file
+IDL,file
+INCAL.incal,file
+IRC,file
+ISLISP.lisp,file
+ITAMFSARL.itamfsarl,file
+IcedCoffeeScript.ics,file
+Icon.icn,file
+Idris.idr,file
+Il.il,file
+InDec.indec,file
+Inform.inform,file
+Ink.ink,file
+Inkling.ink,file
+Integral,file
+Intercal.i,file
+Io.Io,file
+Ioke.ik,file
+IronScheme.ss,file
+Iscom.iscom,file
+J#.jsl,file
+J.ijs,file
+JSFuck.js,file
+JSON.json,file
+JSONiq,file
+JSX(DeNA).jsx,file
+JSX(Facebook).js,file
+JScript.js,file
+Jade.jade,file
+Jai.jai,file
+Jakt.jakt,file
+Jasmin.j,file
+Jason.mas2j,file
+Java.java,file
+JavaScript.js,file
+Jelly.j,file
+Jenkinsfile,file
+Jess.cpl,file
+Jolie.ol,file
+JudoScript,file
+Julia.jl,file
+Jython.py,file
+K.k,file
+KSH.ksh,file
+KSP.ksp,file
+Karel.kl,file
+Ked.ked,file
+KimL.kiml,file
+Kinx.kx,file
+Kipple.kipple,file
+Kitanai.ktn,file
+Kitten.ktn,file
+Kivy.py,file
+Koa.js,file
+Kojo.kojo,file
+Kotlin Script.kts,file
+Kotlin.kt,file
+Kuin.kn,file
+Kumir.kum,file
+Kv.kv,file
+LBL.lbl,file
+LCoffee.lcoff,file
+LINE entry.ent,file
+LLVM.ll,file
+LNUSP.lnusp,file
+LOLA.lola,file
+LOLCODE.lol,file
+LOLPython.lol,file
+LSL.lsl,file
+LWC.html,file
+LaTeX.tex,file
+Labyrinth.labyrinth,file
+LassoScript.lasso,file
+Latino.lat,file
+LazyK.lazy,file
+Lean,file
+Less.less,file
+Leszek.leszek,file
+LibreOffice Basic.bas,file
+"Like, Python.lp",file
+LilyPond.ly,file
+Limbo.b,file
+Lingo.lg4,file
+Lisaac.li,file
+Lisp.lsp,file
+ListLang,file
+LiveCode,file
+LiveScript.ls,file
+Locomotive Basic.b,file
+Logicode.lgc,file
+Logo.lg,file
+Logtalk.lgt,file
+LotusScript.lss,file
+Lua Grimex.j,file
+Lua.lua,file
+Luau.luau,file
+M4.m4,file
+MATLAB 1.0.m,file
+MATLAB.m,file
+MOONBlock.png,file
+MXML.mxml,file
+MacLisp.lisp,file
+Macsyma.mac,file
+Magic,file
+Make.makefile,file
+Malbolge.mb,file
+Mana.mn,file
+Manim.py,file
+Maple.mpl,file
+MarioLANG.mlg,file
+Markdown.md,file
+Mathematica Online.nb,file
+Mathematica.nb,file
+MaxScript.ms,file
+Maxima.max,file
+Mel.mel,file
+MemeAssembly.memeasm,file
+Meq.meq,file
+Mercury.m,file
+MicroPython.py,file
+MilkScript.milk,file
+Millfork.mfk,file
+Mind.src,file
+Minecraft Script.mcscript,file
+Minecraft.mcfunction,file
+Mint.mint,file
+Mips.s,file
+Miranda.m,file
+Mirc.mrc,file
+Mmmm().mmmm,file
+ModiScript.chai,file
+Modula 2.mod,file
+Modula 3.m3,file
+Mokkosu.mok,file
+Mongo.sh,file
+Monkey,file
+Monte.mt,file
+Moo.moo,file
+Moonscript.moon,file
+Morloc.loc,file
+Morse code,file
+Mostawesomeprograminglanguage,file
+Mouse.mse,file
+Move.mv,file
+Mozart.oz,file
+Mr Hashemi.hashemi,file
+Muf.muf,file
+Mumps.m,file
+Muon.mu,file
+Mushcode.mush,file
+MySQL.sql,file
+Myrddin.myr,file
+NWScript.nss,file
+NXC.nxc,file
+Neko.neko,file
+Nelua.nelua,file
+Nemerle.n,file
+NetRexx.nrx,file
+NewLISP.lsp,file
+NewtonScript.nwt,file
+Ni.nic,file
+Nial.ndf,file
+Nice.nice,file
+Night.night,file
+Nim.nim,file
+Nit.nit,file
+NoCode,file
+NoFlo.fbp,file
+Node.js.js,file
+Not Python,file
+Novice.novice,file
+Nu.nu,file
+OCaml.ml,file
+ON THE WAY TO WHO KNOWS WHERE,file
+OSTRAJava.cyp,file
+OX.oz,file
+Oberon 2.obn,file
+Oberon.o,file
+Obix.osc,file
+Obj.st,file
+Object Pascal.pp,file
+ObjectStar,file
+Objective C.m,file
+Objective J.j,file
+Octave.m,file
+Odin.odin,file
+Omgrofl.omgrofl,file
+One.one,file
+Ooc.ooc,file
+Ook!.ok,file
+Opa.opa,file
+OpenLaszlo.lzx,file
+Oracle SQL.sql,file
+Orc.orc,file
+Org-mode.org,file
+Orion.orn,file
+Oxygene.pas,file
+PB.pwr,file
+PBWin.bas,file
+PCASTL,file
+PHP.php,file
+PLI.pl1,file
+Painter Programming,file
+Pakhi.pakhi,file
+Pangaea.pangaea,file
+Panther.py,file
+ParaSail.psi,file
+Parenthetic.p,file
+Parser.p,file
+Pascal.p,file
+Passerine.pn,file
+Pattern Language.pat,file
+Pauscal.pdp,file
+Pawn.p,file
+Pebble.c,file
+PeopleCode,file
+Peregrine.pe,file
+Perfume.prfm,file
+Perl.cgi,file
+Perl.pl,file
+Perl6.p6,file
+Perseus.p++,file
+Pharo.st,file
+Phi,file
+Phix.exw,file
+PiCat.pi,file
+Piet.png,file
+Pig.pig,file
+PikaLang.pokeball,file
+Pike.pike,file
+Pikelet!.pi,file
+Pinecone.pn,file
+Pit.pit,file
+Pizza.pizza,file
+Plain text.txt,file
+Please Porige Hot.pph,file
+Pluvo.pvo,file
+Poketlang.pk,file
+Polynomial.pol,file
+Pony.pony,file
+Porth.porth,file
+Portugol.por,file
+PosXML.posxml,file
+PostCSS.pcss,file
+PostScript Page.ps,file
+PostScript.ps,file
+Postgre SQL.sql,file
+Potaka.ptk,file
+Potigol.poti,file
+Power Fx.pfx,file
+PowerBuilder.psr,file
+PowerShell.ps1,file
+Printscript,file
+Processing.pde,file
+Profan,file
+Prolog.pro,file
+Promela.pml,file
+ProvideX.vim,file
+Pug.pug,file
+Pure Data.pd,file
+PureBasic.pb,file
+PureScript.purs,file
+Pxem.zip,file
+PyQt4.py,file
+PyQt5.py,file
+PySide2.py,file
+PySimpleGUI.py,file
+Pygame.py,file
+Pyret.arr,file
+Pyth.pyth,file
+Python 2.py,file
+Python 3.py,file
+Q.q,file
+QBasic.bas,file
+QCL.qcl,file
+QSharp.qs,file
+QU.qu,file
+QWERTY.qwerty,file
+Qalb,file
+Qi.qi,file
+Qore.q,file
+QuakeC.qc,file
+QuartzComposer.qtz,file
+Qugord.qugord,file
+Quorum.quorum,file
+R.R,file
+REBMU.reb,file
+RPG IV.rpgle,file
+RPG.rpgle,file
+RTL2.rtl2,file
+Racket.rkt,file
+Radixal.radixal,file
+Rafflalang.bro,file
+Raku.raku,file
+Rapira.rap,file
+RatFor.ratfor,file
+ReScript.res,file
+React Native.js,file
+React.js,file
+React360.js,file
+Readlink.readlink,file
+RealBasic.realbasic,file
+Reason.re,file
+Rebol.r,file
+Rebol.reb,file
+Recurse.recurse,file
+Red.red,file
+Redis,file
+Refal.ref,file
+Retina.ret,file
+Retro.retro,file
+Rexx.rexx,file
+Rick Roll.rickroll,file
+Ricktea.tea,file
+Ride.ride,file
+Ring.ring,file
+RiveScript.rive,file
+Robot Framework.robot,file
+Rockstar.rock,file
+Roco.roco,file
+Rotor,file
+Roy.roy,file
+Ruby on Rails.rb,file
+Ruby.rb,file
+Rune.rn,file
+Ruota.ruo,file
+Rust.rs,file
+S Algol,file
+SCHWift.y,file
+SCILab.scilab,file
+SCSS.scss,file
+SIL.SIL,file
+SML.sml,file
+SNOBOL,file
+SPSS.spss,file
+SPWN.spwn,file
+SQL.sql,file
+SVG.svg,file
+Sacred.sacred,file
+Sal.s,file
+Sas.sas,file
+Sass.sass,file
+Sather.sa,file
+Scala.scala,file
+Scheme.scm,file
+Scratch 1.sb,file
+Scratch 2.sb2,file
+Scratch 3.sb3,file
+Sed.sed,file
+Seed,file
+Seed7.s7,file
+Self.self,file
+Semicolon,file
+SendStuff.ss,file
+Setanta.set,file
+Shakespeare.spl,file
+Shell.sh,file
+Shen.shen,file
+Sidekiq.sidekiq,file
+Simpl+.usp,file
+Simula.sim,file
+Skip.sk,file
+Skript.sk,file
+Slashes.slashes,file
+Slim.slim,file
+Smali.smali,file
+SmallTalk GNU.st,file
+SmallTalk.sm,file
+Smallworld MAGIK.magik,file
+Smil.smil,file
+SmileBASIC.bas,file
+Snap!.xml,file
+Snekky.snek,file
+Snowman.sm,file
+Solidity.sol,file
+SoupScript.script,file
+SparQL.sparql,file
+Spoon.spoon,file
+Squirrel.nut,file
+Standard ML.sml,file
+Stanza.stanza,file
+Starlark.star,file
+Stone.stone,file
+Streem.strm,file
+Stuck.stuck,file
+Stylus.styl,file
+SubleQ.sq,file
+SuperCollider.sc,file
+Sus.sus,file
+Svelte.svelte,file
+Swift Playgrounds.playgroundbook,file
+Swift.swift,file
+SystemTap.stp,file
+TCSH.tcsh,file
+THP.hrp,file
+THROW THIS TO THAT,file
+TI Hexadecimal.hex,file
+TIBasic.ti,file
+TOML.toml,file
+TSQL.sql,file
+TSharp.tsp,file
+TTCN3.ttcn,file
+TTSneo.ttsneo,file
+Tabloid,file
+Takeover,file
+Tao Presentations.ddd,file
+TapeBagel.tb,file
+Tcl.tcl,file
+TeX.tex,file
+Tea.tea,file
+Telephone,file
+Tengo.tengo,file
+Terra.t,file
+Terraform.tf,file
+ThotPatrol.txt,file
+Thue.th,file
+Tk.tk,file
+Tkinter.py,file
+Tokay.tok,file
+Tonyu,file
+TopShell,file
+Trans-dimensional,file
+Tri.tri,file
+TrollScript.troll,file
+TrumpScript.py,file
+Turing.oot,file
+Turing.t,file
+Turtle Script.turtle,file
+Twocode.dcode,file
+TypeScript.ts,file
+Ubercode.cls,file
+Ubiquity.ubiquity,file
+Umajin.u,file
+Umka.um,file
+Underload.ul,file
+Unicomal.lst,file
+Unicon.icn,file
+Uniface.uniface,file
+Unlambda.unl,file
+Unreal Script.uc,file
+UrduPython.py,file
+V,file
+V.v,file
+VB.NET.vb,file
+VHDL.vhdl,file
+VJass.j,file
+VMS.vms,file
+VRML.wrl,file
+Vala.vala,file
+Vale.vale,file
+Velato.ly,file
+Verbose.verbose,file
+VerboseFuck.vbfk,file
+Verilog.v,file
+Verve.vrv,file
+Vi,file
+VimScript.vim,file
+Virgil.v3,file
+VisuAlg.alg,file
+Visual Basic Script.vbs,file
+Visual Basic for Applications.vba,file
+Visual Basic.vb,file
+VisualFoxPro.prg,file
+Vowels.vw,file
+Vue.js,file
+WML.wml,file
+WSH.vbs,file
+Wax.wax,file
+WebAssembly.wat,file
+Wheat.wheat,file
+Whenever.whenever,file
+Whiley.whiley,file
+Whirl.wr,file
+Whitespace.ws,file
+Wierd.w,file
+WikiText.wiki,file
+WolframLanguage.wl,file
+Wren.wren,file
+WurstScript.wurst,file
+Wyvern.wyv,file
+X D.xd,file
+X++.xpp,file
+X10.x10,file
+XBase++.prg,file
+XBase.dbf,file
+XBasic.x,file
+XHTML.xhtml,file
+XL.xl,file
+XLisp.xlisp,file
+XML.xml,file
+XOTcl.xotcl,file
+XPL0.xpl,file
+XQuery.xq,file
+XRF.xrf,file
+XSLT.xslt,file
+XUL.xul,file
+Xihcute,file
+Xlogo.lgo,file
+Xtal.xtal,file
+Y.y,file
+YAML.yaml,file
+YASKC.yaskc,file
+YoLang.yo,file
+Yoix.yx,file
+YoptaScript,file
+Yorick.i,file
+Your Mom,file
+Z Shell.zsh,file
+ZBD,file
+ZPL,file
+ZScript,file
+ZSharp.zs,file
+Zepto.zp,file
+Zetaplex.zeta,file
+Zhpy.py,file
+Zig.zig,file
+Zim.zim,file
+Zimbu.zu,file
+Zinc.zn,file
+Zombie.zombie,file
+Zonnon.znn,file
+Zsq.zsq,file
+a,dir
+aardio.aardio,file
+b,dir
+c,dir
+cat.cat,file
+contributing.md,file
+d,dir
+dBase.dbf,file
+daScript.das,file
+dark.txt,file
+dg.dg,file
+dongbei.dongbei,file
+dos.bat,file
+e,dir
+e62qpodb593,file
+earth.bmp,file
+es,file
+f,dir
+g,dir
+groot.groot,file
+h,dir
+haystack.hstk,file
+i,dir
+images,dir
+j,dir
+k,dir
+l,dir
+libavg.py,file
+license,file
+llrl.llrl,file
+m,dir
+milkyway.jpg,file
+n,dir
+o,dir
+oK.k,file
+occam.occam,file
+p,dir
+pull_request_template.md,file
+pythOwO.pyowo,file
+q,dir
+r,dir
+reStructuredText.rst,file
+readme.md,file
+s,dir
+t,dir
+u,dir
+update_list.py,file
+update_readme.yml,file
+uwu.uwupp,file
+v,dir
+w,dir
+workflows,dir
+wowLang.wow,file
+wxPython.py,file
+x,dir
+y,dir
+z,dir
+zx.js,file
+~English,file

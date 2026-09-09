@@ -1,0 +1,5 @@
+name,type
+README.md,file
+config.json,file
+requirements.txt,file
+weiboSpider.py,file

@@ -1,0 +1,16 @@
+name,type
+README.md,file
+api.md,file
+artisan.md,file
+auth.md,file
+collections.md,file
+db-models-and-eloquent.md,file
+factories.md,file
+log-and-debug.md,file
+mail.md,file
+migrations.md,file
+models-relations.md,file
+other.md,file
+routing.md,file
+validation.md,file
+views.md,file

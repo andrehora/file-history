@@ -1,0 +1,11 @@
+name,type
+.404-links.yml,file
+.editorconfig,file
+.github,dir
+404-links.yml,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+pull_request_template.md,file
+workflows,dir

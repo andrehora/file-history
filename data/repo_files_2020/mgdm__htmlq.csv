@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+Cargo.lock,file
+Cargo.toml,file
+LICENSE.md,file
+README.md,file
+main.rs,file
+pretty_print.rs,file
+src,dir

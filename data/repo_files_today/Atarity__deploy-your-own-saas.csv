@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+MostWanted.md,file
+README.md,file
+dyos-db.json,file
+keep-alive.py,file
+maintenance.yml,file
+readme-gen.py,file
+scryer.jpg,file
+submit-new-product.md,file
+workflows,dir

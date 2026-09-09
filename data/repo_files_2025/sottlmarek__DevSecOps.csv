@@ -1,0 +1,8 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+custom.md,file
+devsecops-issue-template.md,file
+devsecopsmanifesto.md,file

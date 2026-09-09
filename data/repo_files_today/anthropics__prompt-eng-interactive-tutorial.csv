@@ -1,0 +1,34 @@
+name,type
+.gitignore,file
+00_Tutorial_How-To.ipynb,file
+01_Basic_Prompt_Structure.ipynb,file
+02_Being_Clear_and_Direct.ipynb,file
+03_Assigning_Roles_Role_Prompting.ipynb,file
+04_Separating_Data_and_Instructions.ipynb,file
+05_Formatting_Output_and_Speaking_for_Claude.ipynb,file
+06_Precognition_Thinking_Step_by_Step.ipynb,file
+07_Using_Examples _Few-Shot_Prompting.ipynb,file
+07_Using_Examples_Few-Shot_Prompting.ipynb,file
+08_Avoiding_Hallucinations.ipynb,file
+09_Complex_Prompts_from_Scratch.ipynb,file
+10.1_Appendix_Chaining Prompts.ipynb,file
+10.2_Appendix_Tool Use.ipynb,file
+10.3_Appendix_Search & Retrieval.ipynb,file
+10_1_Appendix_Chaining_Prompts.ipynb,file
+10_2_Appendix_Tool_Use.ipynb,file
+10_3_Appendix_Empirical_Performance_Eval.ipynb,file
+10_3_Appendix_Empirical_Performance_Evaluations.ipynb,file
+10_4_Appendix_Search_and_Retrieval.ipynb,file
+AmazonBedrock,dir
+Anthropic 1P,dir
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+__init__.py,file
+anthropic,dir
+boto3,dir
+cloudformation,dir
+hints.py,file
+requirements.txt,file
+utils,dir
+workshop-v1-final-cfn.yml,file

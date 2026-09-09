@@ -1,0 +1,16 @@
+name,type
+.github,dir
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+decode_hooks.go,file
+decode_hooks_test.go,file
+error.go,file
+go.mod,file
+mapstructure.go,file
+mapstructure_benchmark_test.go,file
+mapstructure_bugs_test.go,file
+mapstructure_examples_test.go,file
+mapstructure_test.go,file
+test.yml,file
+workflows,dir

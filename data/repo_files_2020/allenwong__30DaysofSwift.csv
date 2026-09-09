@@ -1,0 +1,656 @@
+name,type
+.gitignore,file
+.xccurrentversion,file
+1-Eb_0OvtcxJXHZ7-IOoBsaQ.png,file
+1-hjGpOnCIu4sP7H4V2sdFcA.png,file
+1.imageset,dir
+1.jpg,file
+1.png,file
+10.imageset,dir
+11.imageset,dir
+12.imageset,dir
+13.imageset,dir
+14.imageset,dir
+15.imageset,dir
+16.imageset,dir
+17.imageset,dir
+18.imageset,dir
+19.imageset,dir
+2.imageset,dir
+20.imageset,dir
+21.imageset,dir
+22266727550_5decf72626_o.jpg,file
+3.imageset,dir
+3DTouchQuickAction,dir
+3DTouchQuickAction.gif,file
+3DTouchQuickAction.xcodeproj,dir
+3DTouchQuickAction.xcscheme,file
+3DTouchQuickActionTests,dir
+3DTouchQuickActionUITests,dir
+4.imageset,dir
+5.imageset,dir
+6.imageset,dir
+7.imageset,dir
+718835727.png,file
+8.imageset,dir
+89w7SbqD_400x400.png,file
+9.imageset,dir
+Allen.xcuserdatad,dir
+AnimateTabel.gif,file
+AnimateTableViewController.swift,file
+AnimatedSplash,dir
+AnimatedSplash.xcodeproj,dir
+AnimatedSplash.xcscheme,file
+AnimatedSplashTests,dir
+AnimatedSplashTests.swift,file
+AnimatedSplashUITests,dir
+AnimatedSplashUITests.swift,file
+AnimationCellModel.swift,file
+AnimationCollectionViewCell.swift,file
+AnimationCollectionViewCell.xib,file
+AnimationController.swift,file
+AnimationImageCollection.swift,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+ArticleTableViewCell.swift,file
+Assets.xcassets,dir
+Audio.imageset,dir
+Audio@2x.png,file
+AvatarPicker.gif,file
+Back-icon.imageset,dir
+Back-icon.pdf,file
+BackTableVC.swift,file
+Base.lproj,dir
+BaseTableViewController.swift,file
+BaseViewController.swift,file
+BasicAnimation,dir
+BasicAnimation.gif,file
+BasicAnimation.xcodeproj,dir
+BasicAnimation.xcscheme,file
+BasicAnimationTests,dir
+BasicAnimationTests.swift,file
+BasicAnimationUITests,dir
+BasicAnimationUITests.swift,file
+Breakpoints_v2.xcbkptlist,file
+CLLocationDelegate.swift,file
+Camera.imageset,dir
+Camera.pdf,file
+CameraView.swift,file
+CameraView.xib,file
+Carousel Effect,dir
+Carousel Effect.xcodeproj,dir
+Carousel Effect.xcscheme,file
+Carousel.gif,file
+Carousel_Effect.xcdatamodel,dir
+Carousel_Effect.xcdatamodeld,dir
+Channel.swift,file
+Chat.imageset,dir
+Chat@2x.png,file
+ClearTableViewCell,dir
+ClearTableViewCell.xcodeproj,dir
+ClearTableViewCell.xcscheme,file
+ClearTableViewCellTests,dir
+ClearTableViewCellTests.swift,file
+ClearTableViewCellUITests,dir
+ClearTableViewCellUITests.swift,file
+ClearTableViewController.swift,file
+CollectionViewAnimation,dir
+CollectionViewAnimation.gif,file
+CollectionViewAnimation.xcodeproj,dir
+CollectionViewAnimation.xcscheme,file
+CollectionViewAnimationTests,dir
+CollectionViewAnimationTests.swift,file
+CollectionViewAnimationUITests,dir
+CollectionViewAnimationUITests.swift,file
+ColorViewController.swift,file
+Contents.json,file
+CoreData,dir
+CoreData.gif,file
+CoreDataDemo.xcodeproj,dir
+CoreDataDemo.xcscheme,file
+CustomFont,dir
+CustomFont.xcdatamodel,dir
+CustomFont.xcdatamodeld,dir
+CustomFont.xcodeproj,dir
+CustomFont.xcscheme,file
+CustomPullToRefresh.gif,file
+Customfont.gif,file
+Daniel Hooper.imageset,dir
+Ecstasy.mp3,file
+EmojiMachine,dir
+EmojiMachine.xcodeproj,dir
+EmojiMachine.xcscheme,file
+EmojiMachineTests,dir
+EmojiMachineTests.swift,file
+EmojiMachineUITests,dir
+EmojiMachineUITests.swift,file
+Explore.imageset,dir
+Explore.png,file
+Explore@2x.png,file
+Explore@3x.png,file
+Feed.imageset,dir
+Feed.png,file
+Find my location.imageset,dir
+Find my location.png,file
+Find my location@2x.png,file
+Find my location@3x.png,file
+FirstTabViewController.swift,file
+FirstTableCell.swift,file
+FirstTableViewController.swift,file
+FriendRead.swift,file
+GPS.imageset,dir
+GPS.pdf,file
+Game.imageset,dir
+Game.pdf,file
+Gaspar Regular.otf,file
+Home.imageset,dir
+Home.pdf,file
+HomeViewController.swift,file
+Hyperspace - iPhone.jpg,file
+Hyperspace.imageset,dir
+I AM A RUNNER.png,file
+IDEWorkspaceChecks.plist,file
+IMG_1517.PNG,file
+IMG_2112.png,file
+IMG_2290.png,file
+IMG_2291.png,file
+IMG_2292.png,file
+IcesZKi5_400x400.jpeg,file
+Icon-60@2x.png,file
+Icon-60@3x.png,file
+Icon-76.png,file
+Icon-76@2x.png,file
+Icon-83.5@2x.png,file
+Icon-Small-40@2x.png,file
+Icon-Small-60@2x.png,file
+Icon-Small.png,file
+Icon-Small@2x.png,file
+Icon-Small@3x.png,file
+Image.imageset,dir
+ImageAction.swift,file
+ImageCollectionViewCell.swift,file
+ImagePickerCollectionView.swift,file
+ImagePickerSheet,dir
+ImagePickerSheetController,dir
+ImagePickerSheetController.h,file
+ImagePickerSheetController.swift,file
+ImagePickerSheetController.xcodeproj,dir
+ImagePickerSheetController.xcscheme,file
+ImagePreviewFlowLayout.swift,file
+ImagePreviewTableViewCell.swift,file
+ImageScrollerEffect,dir
+ImageScrollerEffect.xcodeproj,dir
+Images.xcassets,dir
+In8ILC0.jpg,file
+Info.plist,file
+Interest.swift,file
+InterestCollectionViewCell.swift,file
+LIVE FREE.png,file
+LaunchImage-800-667h@2x.png,file
+LaunchImage-800-Portrait-736h@3x.png,file
+LaunchImage-800-Portrait.imageset,dir
+LaunchImage-800.imageset,dir
+LaunchScreen.storyboard,file
+LaunchScreen.xib,file
+LeftView.xib,file
+Limit.gif,file
+LimitCharacters,dir
+LimitCharacters.xcodeproj,dir
+LimitCharacters.xcscheme,file
+LimitCharactersTests,dir
+LimitCharactersTests.swift,file
+LimitCharactersUITests,dir
+LimitCharactersUITests.swift,file
+Link.imageset,dir
+Link@2x.png,file
+LlCpvQc2_400x400.jpg,file
+LoginAnimation,dir
+LoginAnimation.xcodeproj,dir
+LoginAnimation.xcscheme,file
+LoginAnimationTests,dir
+LoginAnimationTests.swift,file
+LoginAnimationUITests,dir
+LoginAnimationUITests.swift,file
+Lonely Planet.imageset,dir
+MFJinHei_Noncommercial-Regular.ttf,file
+MFTongXin_Noncommercial-Regular.ttf,file
+MFZhiHei_Noncommercial-Regular.ttf,file
+Main.storyboard,file
+MainViewController.swift,file
+MenuTableViewCell.swift,file
+MenuTableViewController.swift,file
+MenuTransitionManager.swift,file
+MenuViewController.swift,file
+MiDNqbJa_400x400.jpeg,file
+MosaicLayout,dir
+MosaicLayout-Bridging-Header.h,file
+MosaicLayout.xcodeproj,dir
+MosaicLayout.xcscheme,file
+MosaicLayout.xcworkspace,dir
+MosaicLayoutTests,dir
+MosaicLayoutTests.swift,file
+MosaicLayoutUITests,dir
+MosaicLayoutUITests.swift,file
+MosaicLayouts.gif,file
+MovieDetailsViewController.swift,file
+MovieSummaryCell.swift,file
+MovieSummaryCell.xib,file
+MoviesData.plist,file
+NewsTableViewCell.swift,file
+NewsTableViewController.swift,file
+Ohlala.imageset,dir
+Ohlala.png,file
+OpacityViewController.swift,file
+Paper.imageset,dir
+Paper.pdf,file
+PatternCell.swift,file
+Photo 1849.jpeg,file
+Photo.imageset,dir
+Photo@2x.png,file
+PlayLocalVideo,dir
+PlayLocalVideo.xcdatamodel,dir
+PlayLocalVideo.xcdatamodeld,dir
+PlayLocalVideo.xcodeproj,dir
+PlayLocalVideo.xcscheme,file
+PlayLocalVideoTests,dir
+PlayLocalVideoTests.swift,file
+Podfile,file
+Podfile.lock,file
+PositionViewController.swift,file
+Preview.png,file
+Preview1.imageset,dir
+Preview@2x.png,file
+Preview@3x.png,file
+PreviewSupplementaryView-Checkmark-Selected.imageset,dir
+PreviewSupplementaryView-Checkmark-Selected.png,file
+PreviewSupplementaryView-Checkmark-Selected@2x.png,file
+PreviewSupplementaryView-Checkmark-Selected@3x.png,file
+PreviewSupplementaryView-Checkmark.imageset,dir
+PreviewSupplementaryView-Checkmark.png,file
+PreviewSupplementaryView-Checkmark@2x.png,file
+PreviewSupplementaryView-Checkmark@3x.png,file
+PreviewSupplementaryView.swift,file
+Project 01 - SimpleStopWatch,dir
+Project 02 - CustomFont,dir
+Project 03 - PlayLocalVideo,dir
+Project 04 - SnapChatMenu,dir
+Project 05 - CarouselEffect,dir
+Project 06 - FindMyLocation,dir
+Project 07 - PullToRefresh,dir
+Project 08 - RandomGradientColorMusic,dir
+Project 09 -ImageScroller,dir
+Project 10 - VideoBackground,dir
+Project 11 - ClearTableViewCell,dir
+Project 12 - LoginAnimation,dir
+Project 13 - AnimateTableViewCell,dir
+Project 14 - EmojiSlotMachine,dir
+Project 15 -  AnimatedSplash,dir
+Project 16 - SlideMenu,dir
+Project 17 - TumblrMenu,dir
+Project 18 - LimitCharacters,dir
+Project 19 - CustomPullToRefresh,dir
+Project 20 - CollectionViewAnimation,dir
+Project 21 - SwipeableCell,dir
+Project 22 - 3DTouchQuickAction,dir
+Project 23 - SlideOutMenu,dir
+Project 24 - MosaicLayout,dir
+Project 25 - UIViewBasicAnimation,dir
+Project 26 - CoreDataApp,dir
+Project 27 - TabbarApp,dir
+Project 28 - SpotlightSearch,dir
+Project 29 - iMessageImagePicker,dir
+Project 30 - WikiFace,dir
+PullRefresh,dir
+PullRefresh.xcodeproj,dir
+PullRefresh.xcscheme,file
+PullToRefresh,dir
+PullToRefresh.xcodeproj,dir
+PullToRefresh.xcscheme,file
+Quote.imageset,dir
+Quote@2x.png,file
+README.md,file
+RandomColorization,dir
+RandomColorization.xcodeproj,dir
+RandomColorization.xcscheme,file
+RandomColorizationTests,dir
+RandomColorizationTests.swift,file
+RandomColorizationUITests,dir
+RandomColorizationUITests.swift,file
+ReadLater.swift,file
+RefreshContents.xib,file
+RightView.swift,file
+RightView.xib,file
+RotationViewController.swift,file
+RunViewController.swift,file
+SWRevealViewController.h,file
+SWRevealViewController.m,file
+ScaleViewController.swift,file
+ScanViewController.swift,file
+Search.imageset,dir
+Search.pdf,file
+SecondTabViewController.swift,file
+SecondTableCell.swift,file
+Setting.imageset,dir
+Setting.pdf,file
+SignupProfileViewController.swift,file
+Simple Stop Watch.gif,file
+SlideMenu,dir
+SlideMenu.gif,file
+SlideMenu.xcodeproj,dir
+SlideMenu.xcscheme,file
+SlideMenuTests,dir
+SlideMenuTests.swift,file
+SlideOutMenu,dir
+SlideOutMenu-Bridging-Header.h,file
+SlideOutMenu.gif,file
+SlideOutMenu.xcodeproj,dir
+SlideOutMenu.xcscheme,file
+SlideOutMenuTests,dir
+SlideOutMenuTests.swift,file
+SlideOutMenuUITests,dir
+SlideOutMenuUITests.swift,file
+Snapchat Menu,dir
+Snapchat Menu.xcodeproj,dir
+Snapchat Menu.xcscheme,file
+Snapchat_Menu.xcdatamodel,dir
+Snapchat_Menu.xcdatamodeld,dir
+SplasViewController.swift,file
+SpotIt,dir
+SpotIt.xcodeproj,dir
+SpotIt.xcscheme,file
+SpotifyVideoBackground,dir
+SpotifyVideoBackground.xcodeproj,dir
+SpotifyVideoBackground.xcscheme,file
+SpotifyVideoBackgroundTests,dir
+SpotifyVideoBackgroundTests.swift,file
+SpotifyVideoBackgroundUITests,dir
+SpotifyVideoBackgroundUITests.swift,file
+Spotlight Search.gif,file
+Steve.png,file
+Steve@2x.png,file
+Steve@3x.png,file
+StopWatch,dir
+StopWatch.xcdatamodel,dir
+StopWatch.xcdatamodeld,dir
+StopWatch.xcodeproj,dir
+StopWatch.xcscheme,file
+Swipeable Cell.gif,file
+SwipeableCell,dir
+SwipeableCell.xcodeproj,dir
+SwipeableCell.xcscheme,file
+SwipeableCellTests,dir
+SwipeableCellTests.swift,file
+SwipeableCellUITests,dir
+SwipeableCellUITests.swift,file
+SwitchWiFiViewController.swift,file
+TabbarApp,dir
+TabbarApp.xcodeproj,dir
+TabbarApp.xcscheme,file
+TabbarAppTests,dir
+TabbarAppTests.swift,file
+TabbarAppUITests,dir
+TabbarAppUITests.swift,file
+TableViewCell.swift,file
+TapBarAnimation.gif,file
+Text.imageset,dir
+Text@2x.png,file
+ThirdViewController.swift,file
+TumblrMenu,dir
+TumblrMenu.gif,file
+TumblrMenu.xcodeproj,dir
+TumblrMenu.xcscheme,file
+TumblrMenuTests,dir
+TumblrMenuTests.swift,file
+TumblrMenuUITests,dir
+TumblrMenuUITests.swift,file
+TxtnrZV.jpg,file
+UserInterfaceState.xcuserstate,file
+VideoCell.swift,file
+VideoCutter.swift,file
+VideoSplashViewController.swift,file
+ViewController.swift,file
+Where,dir
+Where.xcdatamodel,dir
+Where.xcdatamodeld,dir
+Where.xcodeproj,dir
+Where.xcscheme,file
+WikiFace,dir
+WikiFace.swift,file
+WikiFace.xcodeproj,dir
+WikiFace.xcscheme,file
+WikiFaceTests,dir
+WikiFaceTests.swift,file
+WikiFaceUITests,dir
+WikiFaceUITests.swift,file
+WorkspaceSettings.xcsettings,file
+_DTouchQuickActionTests.swift,file
+_DTouchQuickActionUITests.swift,file
+a.imageset,dir
+allen.imageset,dir
+ambience-1.imageset,dir
+ambience-1.jpg,file
+ambience.imageset,dir
+ambience.jpg,file
+animateTable,dir
+animateTable.xcodeproj,dir
+animateTable.xcscheme,file
+animateTableTests,dir
+animateTableTests.swift,file
+animateTableUITests,dir
+animateTableUITests.swift,file
+article.imageset,dir
+b.imageset,dir
+bg.imageset,dir
+blue.imageset,dir
+blue.png,file
+bodyline.imageset,dir
+bodyline.png,file
+bruce.imageset,dir
+c.imageset,dir
+car.png,file
+catch.jpg,file
+cd.xcdatamodel,dir
+cd.xcdatamodeld,dir
+cleartableviewcell.gif,file
+colored ASCII art.imageset,dir
+colored ASCII art.png,file
+contents,file
+contents.xcworkspacedata,file
+cover.imageset,dir
+d.imageset,dir
+darkvarder.imageset,dir
+darkvarder.png,file
+davidbeckham.imageset,dir
+davidbeckham.jpg,file
+day-kratux.png,file
+defaultAvatar.imageset,dir
+defaultAvatar.pdf,file
+defaultProfileImage.imageset,dir
+defaultProfileImage.pdf,file
+dribbble_build_v1_patternexercise2.jpg,file
+dtran.xcuserdatad,dir
+dudu.imageset,dir
+dudu.jpg,file
+e.imageset,dir
+edouardjamin.xcuserdatad,dir
+emoji alpha me.imageset,dir
+emoji alpha me.png,file
+emoji spin.gif,file
+emoji zone.mp4,file
+emojiself avatar.imageset,dir
+emojiself avatar.jpg,file
+f.imageset,dir
+fanye.jpg,file
+gabriel.xcuserdatad,dir
+giphy.imageset,dir
+giphy.png,file
+girl.imageset,dir
+github cover.png,file
+haha bg.jpeg,file
+hello.imageset,dir
+hello.jpg,file
+hhhhh.imageset,dir
+hhhhh.jpg,file
+hugo.imageset,dir
+iTunesArtwork.png,file
+iTunesArtwork@2x.png,file
+icecreampattern-dribbble.jpg,file
+image Scroller Effect.gif,file
+jurassicworld.jpg,file
+left.imageset,dir
+left@2x.png,file
+login-secondary-logo.imageset,dir
+login-secondary-logo.png,file
+login-secondary-logo@2x.png,file
+login-secondary-logo@3x.png,file
+lonely_traveler.jpg,file
+love.imageset,dir
+love.pdf,file
+mengto.imageset,dir
+menu.imageset,dir
+menu.png,file
+menu@2x.png,file
+menu@3x.png,file
+moments.mp4,file
+moon.imageset,dir
+music play.imageset,dir
+music play.png,file
+music play@2x.png,file
+music play@3x.png,file
+my workflow flow.imageset,dir
+mylocation.gif,file
+newPost.imageset,dir
+newPost.png,file
+newPost@2x.png,file
+newPost@3x.png,file
+nikeplus.imageset,dir
+paint-with-donald-trump-website_03.png,file
+paint-with-donald-trump-website_06.png,file
+paint-with-donald-trump-website_09.png,file
+paint-with-donald-trump-website_12.png,file
+paint-with-donald-trump-website_17.png,file
+paint-with-donald-trump-website_19.png,file
+paint-with-donald-trump-website_24.png,file
+paint-with-donald-trump-website_27.png,file
+pattern.jpg,file
+patternnl-1.png,file
+pause.imageset,dir
+pause.pdf,file
+photo-1449182325215-d517de72c42d.jpeg,file
+pixels.jpg,file
+play.imageset,dir
+play.pdf,file
+playBtn.imageset,dir
+playBtn.png,file
+playBtn@2x.png,file
+playBtn@3x.png,file
+playvideo.gif,file
+principle.jpg,file
+project.pbxproj,file
+project.xcworkspace,dir
+pulltorefresh.gif,file
+qSrhpUW.jpg,file
+qq.imageset,dir
+r0q8bh2.jpg,file
+randomMusicColor.gif,file
+readlater.imageset,dir
+reg-contacts-bg@2x.jpg,file
+registerSlideImage01.png,file
+registerSlideImage02.png,file
+registerSlideImage03.png,file
+registerSlideImage04.png,file
+right.imageset,dir
+right@2x.jpg,file
+rtgdribbble-5.png,file
+run.imageset,dir
+run.pdf,file
+run.png,file
+scan.imageset,dir
+scan.pdf,file
+screen.imageset,dir
+sets-rep-ebd2.png,file
+setting.imageset,dir
+shot one.png,file
+simon.xcuserdatad,dir
+simple login animation.gif,file
+snapchatmenu.gif,file
+spectre.jpg,file
+splash.gif,file
+splash.imageset,dir
+srilanka-1254.jpg,file
+standdesk.imageset,dir
+standdesk.png,file
+stay.png,file
+steve-jobs-at-home-1982.jpg,file
+steve.imageset,dir
+tabbarExploreHighlighted.imageset,dir
+tabbarExploreHighlighted.pdf,file
+tabbarHomeHighlighted.imageset,dir
+tabbarHomeHighlighted.pdf,file
+tabbarProfileHighlighted.imageset,dir
+tabbarProfileHighlighted.pdf,file
+terminatorgenisys.jpg,file
+themartian.jpg,file
+toolbar.imageset,dir
+toolbar.png,file
+toolbar@2x.png,file
+toolbar@3x.png,file
+trump-1.imageset,dir
+trump-2.imageset,dir
+trump-3.imageset,dir
+trump-4.imageset,dir
+trump-5.imageset,dir
+trump-6.imageset,dir
+trump-7.imageset,dir
+trump-8.imageset,dir
+tumblr_muqax2L0Ad1qkegsbo1_500.jpg,file
+tumblr_n8gybzbUB61st5lhmo1_1280.jpg,file
+tumblr_n9hyj3WPl21st5lhmo1_1280.jpg,file
+tumblr_nefkkbYIGZ1s5vxplo1_500.png,file
+tumblr_nevj8qwJHi1u08r5uo2_1280.jpg,file
+tumblr_nevkfpl7Ez1u08r5uo1_1280.jpg,file
+tumblr_nk8k92X6N21sjh145o1_1280.jpg,file
+twitter logo mask.png,file
+twitter.imageset,dir
+twitterscreen.png,file
+videoScreenshot01.imageset,dir
+videoScreenshot01.png,file
+videoScreenshot01@2x.png,file
+videoScreenshot01@3x.png,file
+videoScreenshot02.imageset,dir
+videoScreenshot02.png,file
+videoScreenshot02@2x.png,file
+videoScreenshot02@3x.png,file
+videoScreenshot03.imageset,dir
+videoScreenshot03.png,file
+videoScreenshot03@2x.png,file
+videoScreenshot03@3x.png,file
+videoScreenshot04.imageset,dir
+videoScreenshot04.png,file
+videoScreenshot04@2x.png,file
+videoScreenshot04@3x.png,file
+videoScreenshot05.imageset,dir
+videoScreenshot05.png,file
+videoScreenshot05@2x.png,file
+videoScreenshot05@3x.png,file
+videoScreenshot06.imageset,dir
+videoScreenshot06.png,file
+videoScreenshot06@2x.png,file
+videoScreenshot06@3x.png,file
+videobg.gif,file
+wallpaper.jpg,file
+wave.imageset,dir
+wave.jpg,file
+wechat.imageset,dir
+weibo square.png,file
+wifi.imageset,dir
+wifi.pdf,file
+wikiFace.gif,file
+xcdebugger,dir
+xcschememanagement.plist,file
+xcschemes,dir
+xcshareddata,dir
+xcuserdata,dir
+xdBqvbba_400x400.jpg,file
+zoom.imageset,dir
+zoom.png,file

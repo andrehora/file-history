@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.travis.yml,file
+.varci.yml,file
+CONTRIBUTING.md,file
+Dangerfile,file
+README.md,file
+code-of-conduct.md,file
+pull_request_template.md,file

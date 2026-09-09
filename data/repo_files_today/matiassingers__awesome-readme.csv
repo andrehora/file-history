@@ -1,0 +1,7 @@
+name,type
+.github,dir
+.travis.yml,file
+contributing.md,file
+copilot-instructions.md,file
+icon.png,file
+readme.md,file

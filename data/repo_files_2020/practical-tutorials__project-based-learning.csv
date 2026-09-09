@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.travis.yml,file
+Bug_report.md,file
+CONTRIBUTING.md,file
+Feature_request.md,file
+ISSUE_TEMPLATE,dir
+LICENSE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file

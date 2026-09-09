@@ -1,0 +1,7 @@
+name,type
+.gitattributes,file
+.github,dir
+README.md,file
+contributing.md,file
+pull_request_template.md,file
+source.md,file

@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+CODEOWNERS,file
+LICENSE.md,file
+README.md,file
+add-to-project.yml,file
+dependabot.yml,file
+index.html,file
+main.js,file
+package-lock.json,file
+package.json,file
+preload.js,file
+renderer.js,file
+styles.css,file
+workflows,dir

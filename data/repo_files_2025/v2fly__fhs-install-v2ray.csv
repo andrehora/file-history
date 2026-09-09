@@ -1,0 +1,9 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+README.zh-Hans-CN.md,file
+install-dat-release.sh,file
+install-release.sh,file
+sh-checker.yml,file
+workflows,dir

@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.MD,file
+config.ini,file
+libiconv.dll,file
+libzbar-64.dll,file
+main.py,file
+main.spec,file
+requirements.txt,file

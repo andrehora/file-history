@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.gitmodules,file
+LICENSE,file
+cloud.ipr,file
+cloud.iws,file
+pom.xml,file
+readme.md,file

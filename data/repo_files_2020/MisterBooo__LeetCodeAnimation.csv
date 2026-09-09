@@ -1,0 +1,5 @@
+name,type
+.gitattributes,file
+README-En.md,file
+Readme.md,file
+notes,dir

@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+PULL_REQUEST_TEMPLATE.md,file
+code-of-conduct.md,file
+contributing.md,file
+license,file
+movies-for-hackers.sh,file
+readme.md,file

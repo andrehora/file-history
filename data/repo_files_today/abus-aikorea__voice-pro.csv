@@ -1,0 +1,516 @@
+name,type
+.env.example,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.pre-commit-config.yaml,file
+.project-root,file
+.pylintrc,file
+.python-version,file
+2026-07-13.v4.0.0-release.naver.kor.md,file
+32k.json,file
+32k_v2.json,file
+40k.json,file
+48k.json,file
+48k_v2.json,file
+ABUS-logo.jpg,file
+Andrew Bustamante.jpg,file
+Andrew Huberman.jpg,file
+Avi Loeb.jpg,file
+Ayase Haruka.jpg,file
+BTS Jin.jpg,file
+BTS RM.jpg,file
+Ben Shapiro.jpg,file
+Brett Johnson.jpg,file
+Brian Keating.jpg,file
+CLAUDE.md,file
+Chinese,dir
+Coffeezilla.jpg,file
+Dan Carlin.jpg,file
+David Buss.jpg,file
+David Fravor.jpg,file
+David Kipping.jpg,file
+Dennis Whyte.jpg,file
+DiT,dir
+Dilraba Dilmurat.jpg,file
+Donald Hoffman.jpg,file
+Donald Trump.jpg,file
+Douglas Murray.jpg,file
+Duncan Trussell.jpg,file
+Elon Musk.jpg,file
+English,dir
+FUNDING.yml,file
+Garry Nolan.jpg,file
+Hotpot 0.png,file
+Hotpot 1.png,file
+Hotpot 2.png,file
+Hotpot 3.png,file
+Hotpot 4.png,file
+ISSUE_TEMPLATE,dir
+IU.jpg,file
+Jack Barsky.jpg,file
+James Sexton.jpg,file
+Japanese,dir
+Jeff Bezos.jpg,file
+Joe Rogan.jpg,file
+John Mearsheimer.jpg,file
+Jolin Tsai.jpg,file
+Jordan Peterson.jpg,file
+Kanye 'Ye' West.jpg,file
+Korean,dir
+Kris Wu.jpg,file
+LICENSE,file
+LeeByungHun.jpg,file
+LeeJungJae.jpg,file
+Li Yifeng.jpg,file
+MANIFEST.in,file
+Makefile,file
+Mark Zuckerberg.jpg,file
+Matcha-TTS,dir
+Michael Levin.jpg,file
+Michael Saylor.jpg,file
+Michio Kaku.jpg,file
+MrBeast.jpg,file
+Nick Lane.jpg,file
+NotoSans,dir
+NotoSans-Black.woff,file
+NotoSans-Black.woff2,file
+NotoSans-BlackItalic.woff,file
+NotoSans-BlackItalic.woff2,file
+NotoSans-Bold.woff,file
+NotoSans-Bold.woff2,file
+NotoSans-BoldItalic.woff,file
+NotoSans-BoldItalic.woff2,file
+NotoSans-ExtraBold.woff,file
+NotoSans-ExtraBold.woff2,file
+NotoSans-ExtraBoldItalic.woff,file
+NotoSans-ExtraBoldItalic.woff2,file
+NotoSans-ExtraLight.woff,file
+NotoSans-ExtraLight.woff2,file
+NotoSans-ExtraLightItalic.woff,file
+NotoSans-ExtraLightItalic.woff2,file
+NotoSans-Italic.woff,file
+NotoSans-Italic.woff2,file
+NotoSans-Light.woff,file
+NotoSans-Light.woff2,file
+NotoSans-LightItalic.woff,file
+NotoSans-LightItalic.woff2,file
+NotoSans-Medium.woff,file
+NotoSans-Medium.woff2,file
+NotoSans-MediumItalic.woff,file
+NotoSans-MediumItalic.woff2,file
+NotoSans-Regular.woff,file
+NotoSans-Regular.woff2,file
+NotoSans-SemiBold.woff,file
+NotoSans-SemiBold.woff2,file
+NotoSans-SemiBoldItalic.woff,file
+NotoSans-SemiBoldItalic.woff2,file
+NotoSans-Thin.woff,file
+NotoSans-Thin.woff2,file
+NotoSans-ThinItalic.woff,file
+NotoSans-ThinItalic.woff2,file
+Paul Rosolie.jpg,file
+Put voice models here.txt,file
+README.deu.md,file
+README.eng.md,file
+README.jpn.md,file
+README.kor.md,file
+README.md,file
+README.por.md,file
+README.spa.md,file
+README.tw.md,file
+README.zh.md,file
+Ryan Graves.jpg,file
+Sam Altman.jpg,file
+Sam Harris.jpg,file
+Stephen Wolfram.jpg,file
+Tucker Carlson.jpg,file
+VERSION,file
+Vitalik Buterin.jpg,file
+Yang Mi.jpg,file
+YouJaeSuk.jpg,file
+Yuval Harari.jpg,file
+Zhao Liying.jpg,file
+__init__.py,file
+__main__.py,file
+_explorers.py,file
+abus_aicover.py,file
+abus_app_aria.py,file
+abus_app_gulliver.py,file
+abus_app_kara.py,file
+abus_app_upscaler.py,file
+abus_app_voice.py,file
+abus_asr_faster_whisper.py,file
+abus_asr_parameters.py,file
+abus_asr_whisper.py,file
+abus_asr_whisper_timestamped.py,file
+abus_audio.py,file
+abus_batch.py,file
+abus_config.py,file
+abus_demucs.py,file
+abus_downloader.py,file
+abus_ffmpeg.py,file
+abus_files.py,file
+abus_genuine.py,file
+abus_hf.py,file
+abus_hf_file.py,file
+abus_hf_files-gulliver.json,file
+abus_hf_files-kara.json,file
+abus_hf_files-voice.json,file
+abus_live.py,file
+abus_mdx.py,file
+abus_nlp_spacy.py,file
+abus_nlp_stanza.py,file
+abus_path.py,file
+abus_rvc.py,file
+abus_subtitle.py,file
+abus_text.py,file
+abus_translate_azure.py,file
+abus_translate_deep.py,file
+abus_tts_azure.py,file
+abus_tts_cosyvoice.py,file
+abus_tts_edge.py,file
+abus_tts_f5.py,file
+abus_tts_f5_models.json,file
+abus_tts_kokoro.py,file
+abus_tts_rvc.py,file
+abus_voice_celeb.py,file
+abus_voice_kokoro.py,file
+abus_voice_ms.py,file
+abus_vsr.py,file
+activation.py,file
+adam.yaml,file
+ads.txt,file
+ai_cover.jpg,file
+aicover,dir
+aim.yaml,file
+api.py,file
+app,dir
+app.py,file
+apply.py,file
+assets,dir
+attention.py,file
+attentions.py,file
+audio.py,file
+augment.py,file
+average_model.py,file
+baselightningmodule.py,file
+bin,dir
+blog,dir
+bug_report.md,file
+callbacks,dir
+celeb-1.jpg,file
+celeb-2.jpg,file
+celeb-3.jpg,file
+celebrities,dir
+celebrities30s,dir
+cfm,dir
+chat_style-TheEncrypted777.css,file
+chat_style-cai-chat-square.css,file
+chat_style-cai-chat.css,file
+chat_style-messenger.css,file
+chat_style-wpp.css,file
+class_utils.py,file
+cleaners.py,file
+cli,dir
+cli.py,file
+comet.yaml,file
+common.py,file
+commons.py,file
+components,dir
+config-user.json5,file
+config.py,file
+configs,dir
+configure.bat,file
+configure.sh,file
+convolution.py,file
+core.pyx,file
+cosyvoice,dir
+cosyvoice.py,file
+cosyvoice2.py,file
+cpu.yaml,file
+css,dir
+csv.yaml,file
+data,dir
+data,file
+dataset,dir
+dataset.py,file
+ddp.yaml,file
+ddp_sim.yaml,file
+de_DE.json,file
+debug,dir
+decoder,dir
+decoder.py,file
+decoder_layer.py,file
+default.yaml,file
+demo-1.png,file
+demo-2.png,file
+demo-3.png,file
+demucs,dir
+demucs.py,file
+denoiser.py,file
+discriminator.py,file
+distrib.py,file
+dit.py,file
+docs,dir
+ema.py,file
+embedding.py,file
+en_US.json,file
+encoder,dir
+encoder.py,file
+encoder_layer.py,file
+env.py,file
+es_ES.json,file
+eval.yaml,file
+evaluate.py,file
+executor.py,file
+experiment,dir
+export.py,file
+export_jit.py,file
+export_onnx.py,file
+extras,dir
+f0_predictor.py,file
+fdr.yaml,file
+feature_request.md,file
+file_utils.py,file
+files.txt,file
+flow,dir
+flow.py,file
+flow_matching.py,file
+frontend.py,file
+frontend_utils.py,file
+generate_data_statistics.py,file
+generator.py,file
+gpu.yaml,file
+gradio_aicover.py,file
+gradio_asr.py,file
+gradio_batch_tts.py,file
+gradio_demixing.py,file
+gradio_gulliver.py,file
+gradio_kara.py,file
+gradio_live_translate.py,file
+gradio_rvc.py,file
+gradio_translate.py,file
+gradio_tts_cosyvoice.py,file
+gradio_tts_edge.py,file
+gradio_tts_f5.py,file
+gradio_tts_kokoro.py,file
+gradio_tts_rvc.py,file
+gradio_voice_celeb.py,file
+gradio_voice_kokoro.py,file
+gradio_voice_ms.py,file
+gradio_vsr.py,file
+grids,dir
+hdemucs.py,file
+hdemucs_mmi.yaml,file
+hi-fi_en-US_female.yaml,file
+hifi_dataset_piper_phonemizer.yaml,file
+hifigan,dir
+hifigan.py,file
+hparams_search,dir
+htdemucs.py,file
+htdemucs.yaml,file
+htdemucs_6s.yaml,file
+htdemucs_ft.yaml,file
+html_4chan_style.css,file
+html_instruct_style.css,file
+html_readable_style.css,file
+hydra,dir
+i18n,dir
+i18n.py,file
+images,dir
+index.html,file
+infer,dir
+infer.py,file
+infer_pack,dir
+instantiators.py,file
+iso_country_codes.py,file
+ja_JP.json,file
+js,dir
+ko_KR.json,file
+label_smoothing_loss.py,file
+length_regulator.py,file
+limit.yaml,file
+live_translation_bbc.jpg,file
+ljspeech.yaml,file
+ljspeech_min_memory.yaml,file
+llm,dir
+llm.py,file
+local,dir
+locale,dir
+locale_diff.py,file
+logger,dir
+logging_utils.py,file
+losses.py,file
+main.css,file
+main.js,file
+main_page.deu.jpg,file
+main_page.eng.jpg,file
+main_page.jpn.jpg,file
+main_page.kor.jpg,file
+main_page.por.jpg,file
+main_page.spa.jpg,file
+main_page.tw.jpg,file
+main_page.zh.jpg,file
+main_page_crop.deu.jpg,file
+main_page_crop.eng.jpg,file
+main_page_crop.jpn.jpg,file
+main_page_crop.kor.jpg,file
+main_page_crop.por.jpg,file
+main_page_crop.spa.jpg,file
+main_page_crop.tw.jpg,file
+main_page_crop.zh.jpg,file
+many_loggers.yaml,file
+mask.py,file
+matcha,dir
+matcha.yaml,file
+matcha_tts.py,file
+mdx.py,file
+mdx.yaml,file
+mdx_extra.py,file
+mdx_extra.yaml,file
+mdx_extra_q.yaml,file
+mdx_q.yaml,file
+mdx_refine.py,file
+mdxnet-model,dir
+meldataset.py,file
+microsoft_azure.png,file
+mlflow.yaml,file
+mmi.py,file
+mmi_ft.py,file
+mnist_optuna.yaml,file
+model,dir
+model.py,file
+model_checkpoint.yaml,file
+model_data.json,file
+model_summary.yaml,file
+models,dir
+models.py,file
+models_onnx.py,file
+models_onnx_moess.py,file
+modules.py,file
+monotonic_align,dir
+mps.yaml,file
+multilingual_zh_ja_yue_char_del.tiktoken,file
+multispeaker.yaml,file
+my_utils.py,file
+neptune.yaml,file
+none.yaml,file
+notebooks,dir
+numbers.py,file
+one_click.py,file
+onnx,dir
+onnx.py,file
+optimizer,dir
+overfit.yaml,file
+paths,dir
+pipeline.py,file
+positionwise_feed_forward.py,file
+pretrained.py,file
+privacy.html,file
+processor.py,file
+profiler.yaml,file
+progressListener.py,file
+pt_BR.json,file
+py.typed,file
+pylogger.py,file
+pyproject.toml,file
+remote,dir
+repitch.py,file
+repo.py,file
+repro.py,file
+repro_ft.py,file
+repro_mdx_a.yaml,file
+repro_mdx_a_hybrid_only.yaml,file
+repro_mdx_a_time_only.yaml,file
+requirements.txt,file
+rich_progress_bar.yaml,file
+rich_utils.py,file
+rmvpe.py,file
+rvc,dir
+rvc-voice,dir
+rvc.py,file
+save_files.js,file
+scan_i18n.py,file
+schedule.sh,file
+scheduler.py,file
+scripts,dir
+sdx23.py,file
+separate.py,file
+setup.py,file
+shared.py,file
+show_controls.js,file
+silero_vad.onnx,file
+solver.py,file
+spec.py,file
+src,dir
+start-abus.py,file
+start-voice.py,file
+start.bat,file
+start.sh,file
+states.py,file
+static,dir
+style.css,file
+stylesheet.css,file
+subsampling.py,file
+svd.py,file
+switch_tabs.js,file
+symbols.py,file
+synthesis.ipynb,file
+tab_aicover.py,file
+tab_batch_tts.py,file
+tab_demixing.py,file
+tab_gulliver.py,file
+tab_karaoke.py,file
+tab_live_translate.py,file
+tab_rvc.py,file
+tab_subtitle.py,file
+tab_translate.py,file
+tab_tts_cosyvoice.py,file
+tab_tts_edge.py,file
+tab_tts_f5_multi.py,file
+tab_tts_f5_single.py,file
+tab_tts_kokoro.py,file
+tab_tts_rvc.py,file
+tab_vsr.py,file
+tensorboard.yaml,file
+terms.html,file
+text,dir
+text_encoder.py,file
+text_mel_datamodule.py,file
+third_party,dir
+tokenizer,dir
+tokenizer.py,file
+train.py,file
+train.yaml,file
+train_utils.py,file
+trainer,dir
+trainset_preprocess_pipeline_print.py,file
+transformer,dir
+transformer.py,file
+transforms.py,file
+tts_f5_multi.jpg,file
+ui.py,file
+uninstall.bat,file
+uninstall.sh,file
+update.bat,file
+update.sh,file
+update_big_picture.js,file
+upsample_encoder.py,file
+utils,dir
+utils.py,file
+uv.lock,file
+vad,dir
+vad.py,file
+vc_infer_pipeline.py,file
+vctk.yaml,file
+vllm,dir
+wandb.yaml,file
+wav.py,file
+wdemucs.py,file
+whisperProgressHook.py,file
+windows_smartscreen_warning.jpg,file
+xutils.py,file
+zh_CN.json,file
+zh_TW.json,file

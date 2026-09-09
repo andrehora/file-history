@@ -1,0 +1,9 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+improvement-request.md,file
+submit-a-general-issue.md,file

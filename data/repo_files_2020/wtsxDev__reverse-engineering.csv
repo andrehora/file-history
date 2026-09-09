@@ -1,0 +1,6 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.travis.yml,file
+README.md,file
+package.json,file

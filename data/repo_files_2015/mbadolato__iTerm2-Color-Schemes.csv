@@ -1,0 +1,498 @@
+name,type
+.gitignore,file
+3024 Day.config,file
+3024 Day.itermcolors,file
+3024 Day.xrdb,file
+3024 Night.config,file
+3024 Night.itermcolors,file
+3024 Night.xrdb,file
+3024_day.png,file
+3024_night.png,file
+AdventureTime.config,file
+AdventureTime.itermcolors,file
+AdventureTime.xrdb,file
+Afterglow.config,file
+Afterglow.itermcolors,file
+Afterglow.xrdb,file
+AlienBlood.config,file
+AlienBlood.itermcolors,file
+AlienBlood.xrdb,file
+Argonaut.config,file
+Argonaut.itermcolors,file
+Argonaut.xrdb,file
+Arthur.config,file
+Arthur.itermcolors,file
+Arthur.xrdb,file
+Atom.config,file
+Atom.itermcolors,file
+Atom.xrdb,file
+Belafonte Day.config,file
+Belafonte Day.itermcolors,file
+Belafonte Day.xrdb,file
+Belafonte Night.config,file
+Belafonte Night.itermcolors,file
+Belafonte Night.xrdb,file
+BirdsOfParadise.config,file
+BirdsOfParadise.itermcolors,file
+BirdsOfParadise.xrdb,file
+Blazer.config,file
+Blazer.itermcolors,file
+Blazer.xrdb,file
+Broadcast.config,file
+Broadcast.itermcolors,file
+Broadcast.xrdb,file
+Brogrammer.config,file
+Brogrammer.itermcolors,file
+Brogrammer.xrdb,file
+C64.config,file
+C64.itermcolors,file
+C64.xrdb,file
+CLRS.config,file
+CLRS.itermcolors,file
+CLRS.xrdb,file
+Chalk.config,file
+Chalk.itermcolors,file
+Chalk.xrdb,file
+Chalkboard.config,file
+Chalkboard.itermcolors,file
+Chalkboard.xrdb,file
+Ciapre.config,file
+Ciapre.itermcolors,file
+Ciapre.xrdb,file
+Cobalt2.config,file
+Cobalt2.itermcolors,file
+Cobalt2.xrdb,file
+CrayonPonyFish.config,file
+CrayonPonyFish.itermcolors,file
+CrayonPonyFish.xrdb,file
+Dark Pastel.config,file
+Dark Pastel.itermcolors,file
+Dark Pastel.xrdb,file
+Darkside.config,file
+Darkside.itermcolors,file
+Darkside.xrdb,file
+Desert.config,file
+Desert.itermcolors,file
+Desert.xrdb,file
+DimmedMonokai.config,file
+DimmedMonokai.itermcolors,file
+DimmedMonokai.xrdb,file
+Dracula.config,file
+Dracula.itermcolors,file
+Dracula.xrdb,file
+Earthsong.config,file
+Earthsong.itermcolors,file
+Earthsong.xrdb,file
+Elemental.config,file
+Elemental.itermcolors,file
+Elemental.xrdb,file
+Espresso Libre.config,file
+Espresso Libre.itermcolors,file
+Espresso Libre.xrdb,file
+Espresso.config,file
+Espresso.itermcolors,file
+Espresso.xrdb,file
+Fideloper.itermcolors,file
+FishTank.config,file
+FishTank.itermcolors,file
+FishTank.xrdb,file
+Flat.config,file
+Flat.itermcolors,file
+Flat.xrdb,file
+Flatland.config,file
+Flatland.itermcolors,file
+Flatland.xrdb,file
+FrontEndDelight.config,file
+FrontEndDelight.itermcolors,file
+FrontEndDelight.xrdb,file
+FunForrest.config,file
+FunForrest.itermcolors,file
+FunForrest.xrdb,file
+Github.config,file
+Github.itermcolors,file
+Github.xrdb,file
+Grape.config,file
+Grape.itermcolors,file
+Grape.xrdb,file
+Grass.config,file
+Grass.itermcolors,file
+Grass.xrdb,file
+Hardcore.config,file
+Hardcore.itermcolors,file
+Hardcore.xrdb,file
+Harper.config,file
+Harper.itermcolors,file
+Harper.xrdb,file
+Highway.config,file
+Highway.itermcolors,file
+Highway.xrdb,file
+Hipster Green.config,file
+Hipster Green.itermcolors,file
+Hipster Green.xrdb,file
+Homebrew.config,file
+Homebrew.itermcolors,file
+Homebrew.xrdb,file
+Hurtado.config,file
+Hurtado.itermcolors,file
+Hurtado.xrdb,file
+Hybrid.config,file
+Hybrid.itermcolors,file
+Hybrid.xrdb,file
+IC_Green_PPL.config,file
+IC_Green_PPL.itermcolors,file
+IC_Green_PPL.xrdb,file
+IC_Orange_PPL.config,file
+IC_Orange_PPL.itermcolors,file
+IC_Orange_PPL.xrdb,file
+IR_Black.config,file
+IR_Black.itermcolors,file
+IR_Black.xrdb,file
+Jackie Brown.config,file
+Jackie Brown.itermcolors,file
+Jackie Brown.xrdb,file
+Japanesque.config,file
+Japanesque.itermcolors,file
+Japanesque.xrdb,file
+Jellybeans.config,file
+Jellybeans.itermcolors,file
+Jellybeans.xrdb,file
+Kibble.config,file
+Kibble.itermcolors,file
+Kibble.xrdb,file
+Later This Evening.config,file
+Later This Evening.itermcolors,file
+Later This Evening.xrdb,file
+Lavandula.config,file
+Lavandula.itermcolors,file
+Lavandula.xrdb,file
+LiquidCarbon.config,file
+LiquidCarbon.itermcolors,file
+LiquidCarbon.xrdb,file
+LiquidCarbonTransparent.config,file
+LiquidCarbonTransparent.itermcolors,file
+LiquidCarbonTransparent.xrdb,file
+LiquidCarbonTransparentInverse.config,file
+LiquidCarbonTransparentInverse.itermcolors,file
+LiquidCarbonTransparentInverse.xrdb,file
+Man Page.config,file
+Man Page.itermcolors,file
+Man Page.xrdb,file
+Mathias.config,file
+Mathias.itermcolors,file
+Mathias.xrdb,file
+Medallion.config,file
+Medallion.itermcolors,file
+Medallion.xrdb,file
+Misterioso.config,file
+Misterioso.itermcolors,file
+Misterioso.xrdb,file
+Molokai.config,file
+Molokai.itermcolors,file
+Molokai.xrdb,file
+MonaLisa.config,file
+MonaLisa.itermcolors,file
+MonaLisa.xrdb,file
+Monokai Soda.config,file
+Monokai Soda.itermcolors,file
+Monokai Soda.xrdb,file
+N0tch2k.config,file
+N0tch2k.itermcolors,file
+N0tch2k.xrdb,file
+Neopolitan.config,file
+Neopolitan.itermcolors,file
+Neopolitan.xrdb,file
+Neutron.config,file
+Neutron.itermcolors,file
+Neutron.xrdb,file
+NightLion v1.config,file
+NightLion v1.itermcolors,file
+NightLion v1.xrdb,file
+NightLion v2.config,file
+NightLion v2.itermcolors,file
+NightLion v2.xrdb,file
+Novel.config,file
+Novel.itermcolors,file
+Novel.xrdb,file
+Obsidian.config,file
+Obsidian.itermcolors,file
+Obsidian.xrdb,file
+Ocean.config,file
+Ocean.itermcolors,file
+Ocean.xrdb,file
+Ollie.config,file
+Ollie.itermcolors,file
+Ollie.xrdb,file
+Paraiso Dark.config,file
+Paraiso Dark.xrdb,file
+Parasio Dark.itermcolors,file
+PaulMillr.config,file
+PaulMillr.itermcolors,file
+PaulMillr.xrdb,file
+PencilDark.config,file
+PencilDark.itermcolors,file
+PencilDark.xrdb,file
+PencilLight.config,file
+PencilLight.itermcolors,file
+PencilLight.xrdb,file
+Pnevma.config,file
+Pnevma.itermcolors,file
+Pnevma.xrdb,file
+Pro.config,file
+Pro.itermcolors,file
+Pro.xrdb,file
+README.md,file
+Red Alert.config,file
+Red Alert.itermcolors,file
+Red Alert.xrdb,file
+Red Sands.config,file
+Red Sands.itermcolors,file
+Red Sands.xrdb,file
+Rippedcasts.config,file
+Rippedcasts.itermcolors,file
+Rippedcasts.xrdb,file
+Royal.config,file
+Royal.itermcolors,file
+Royal.xrdb,file
+SeaShells.config,file
+SeaShells.itermcolors,file
+SeaShells.xrdb,file
+Seafoam Pastel.config,file
+Seafoam Pastel.itermcolors,file
+Seafoam Pastel.xrdb,file
+Seti.config,file
+Seti.itermcolors,file
+Seti.xrdb,file
+Shaman.config,file
+Shaman.itermcolors,file
+Shaman.xrdb,file
+Smyck.config,file
+Smyck.itermcolors,file
+Smyck.xrdb,file
+SoftServer.config,file
+SoftServer.itermcolors,file
+SoftServer.xrdb,file
+Solarized Darcula.config,file
+Solarized Darcula.itermcolors,file
+Solarized Darcula.xrdb,file
+Solarized Dark Higher Contrast.config,file
+Solarized Dark Higher Contrast.itermcolors,file
+Solarized Dark Higher Contrast.xrdb,file
+Solarized Dark.config,file
+Solarized Dark.itermcolors,file
+Solarized Dark.xrdb,file
+Solarized Light.config,file
+Solarized Light.itermcolors,file
+Solarized Light.xrdb,file
+SpaceGray.config,file
+SpaceGray.itermcolors,file
+SpaceGray.xrdb,file
+Spacedust.config,file
+Spacedust.itermcolors,file
+Spacedust.xrdb,file
+Spring.config,file
+Spring.itermcolors,file
+Spring.xrdb,file
+Square.config,file
+Square.itermcolors,file
+Square.xrdb,file
+Sundried.config,file
+Sundried.itermcolors,file
+Sundried.xrdb,file
+Symfonic.config,file
+Symfonic.itermcolors,file
+Symfonic.xrdb,file
+Teerb.config,file
+Teerb.itermcolors,file
+Teerb.xrdb,file
+Terminal Basic.config,file
+Terminal Basic.itermcolors,file
+Terminal Basic.xrdb,file
+Thayer Bright.config,file
+Thayer Bright.itermcolors,file
+Thayer Bright.xrdb,file
+Tomorrow Night Blue.config,file
+Tomorrow Night Blue.itermcolors,file
+Tomorrow Night Blue.xrdb,file
+Tomorrow Night Bright.config,file
+Tomorrow Night Bright.itermcolors,file
+Tomorrow Night Bright.xrdb,file
+Tomorrow Night Eighties.config,file
+Tomorrow Night Eighties.itermcolors,file
+Tomorrow Night Eighties.xrdb,file
+Tomorrow Night.config,file
+Tomorrow Night.itermcolors,file
+Tomorrow Night.xrdb,file
+Tomorrow.config,file
+Tomorrow.itermcolors,file
+Tomorrow.xrdb,file
+ToyChest.config,file
+ToyChest.itermcolors,file
+ToyChest.xrdb,file
+Treehouse.config,file
+Treehouse.itermcolors,file
+Treehouse.xrdb,file
+Twilight.config,file
+Twilight.itermcolors,file
+Twilight.xrdb,file
+Urple.config,file
+Urple.itermcolors,file
+Urple.xrdb,file
+Vaughn.config,file
+Vaughn.itermcolors,file
+Vaughn.xrdb,file
+VibrantInk.config,file
+VibrantInk.itermcolors,file
+VibrantInk.xrdb,file
+WarmNeon.config,file
+WarmNeon.itermcolors,file
+WarmNeon.xrdb,file
+Wez.config,file
+Wez.itermcolors,file
+Wez.xrdb,file
+WildCherry.config,file
+WildCherry.itermcolors,file
+WildCherry.xrdb,file
+Wombat.config,file
+Wombat.itermcolors,file
+Wombat.xrdb,file
+Wryan.config,file
+Wryan.itermcolors,file
+Wryan.xrdb,file
+Zenburn.config,file
+Zenburn.itermcolors,file
+Zenburn.xrdb,file
+adventure_time.png,file
+afterglow.png,file
+alien_blood.png,file
+argonaut.png,file
+arthur.png,file
+atom.png,file
+backgrounds,dir
+belafonte_day.png,file
+belafonte_night.png,file
+birds_of_paradise.png,file
+blazer.png,file
+broadcast.png,file
+brogrammer.png,file
+c64.png,file
+chalk.png,file
+chalkboard.png,file
+ciapre.png,file
+clrs.png,file
+cobalt2.png,file
+crayon_pony_fish.png,file
+dark_pastel.png,file
+darkside.png,file
+desert.png,file
+dimmed_monokai.png,file
+dracula.png,file
+earthsong.png,file
+elemental.png,file
+espresso.png,file
+espresso_libre.png,file
+fideloper.png,file
+fish_tank.png,file
+flat.png,file
+flatland.png,file
+front_end_delight.png,file
+fun_forrest.png,file
+genMD.py,file
+github.png,file
+grape.png,file
+grass.png,file
+hardcore.png,file
+harper.png,file
+highway.png,file
+hipster_green.png,file
+homebrew.png,file
+hurtado.png,file
+hybrid.png,file
+ic_green_ppl.png,file
+ic_orange_ppl.png,file
+idleToes.config,file
+idleToes.itermcolors,file
+idleToes.png,file
+idleToes.xrdb,file
+ir_black.png,file
+iterm2xrdb,file
+jackie_brown.png,file
+japanesque.png,file
+jellybeans.png,file
+kibble.png,file
+later_this_evening.png,file
+lavandula.png,file
+liquid_carbon.png,file
+liquid_carbon_transparent.png,file
+liquid_carbon_transparent_inverse.png,file
+man_page.png,file
+mathias.png,file
+medallion.png,file
+misterioso.png,file
+molokai.png,file
+mona_lisa.png,file
+monokai_soda.png,file
+n0tch2k.png,file
+neopolitan.png,file
+neutron.png,file
+nightlion_v1.png,file
+nightlion_v2.png,file
+novel.png,file
+obsidian.png,file
+ocean.png,file
+ollie.png,file
+paraiso_dark.png,file
+paul_millr.png,file
+pencil_dark.png,file
+pencil_light.png,file
+pnevma.png,file
+preview.rb,file
+pro.png,file
+red_alert.png,file
+red_sands.png,file
+rippedcasts.png,file
+royal.png,file
+schemes,dir
+screenshotTable.sh,file
+screenshots,dir
+sea_shells.png,file
+seafoam_pastel.png,file
+seti.png,file
+shaman.png,file
+smyck.png,file
+soft_server.png,file
+solarized_darcula.jpg,file
+solarized_darcula.png,file
+solarized_darcula_with_background.png,file
+solarized_dark.png,file
+solarized_dark_higher_contrast.png,file
+solarized_light.png,file
+space_gray.png,file
+spacedust.png,file
+spring.png,file
+square.png,file
+sundried.png,file
+symfonic.png,file
+teerb.png,file
+terminal_basic.png,file
+terminator,dir
+thayer_bright.png,file
+tomorrow.png,file
+tomorrow_night.png,file
+tomorrow_night_blue.png,file
+tomorrow_night_bright.png,file
+tomorrow_night_eighties.png,file
+tools,dir
+toy_chest.png,file
+treehouse.png,file
+twilight.png,file
+urple.png,file
+vaughn.png,file
+vibrant_ink.png,file
+warm_neon.png,file
+wez.png,file
+wild_cherry.png,file
+wombat.png,file
+wryan.png,file
+xrdb,dir
+xrdb2terminator.py,file
+zenburn.png,file

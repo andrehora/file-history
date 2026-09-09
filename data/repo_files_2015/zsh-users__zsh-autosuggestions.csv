@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE-MIT,file
+README.mkd,file
+autosuggestions.plugin.zsh,file
+autosuggestions.zsh,file
+completion-client.zsh,file
+completion-server-init.zsh,file
+completion-server.zsh,file
+install,file

@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+chat,dir
+config.py,file
+config.yaml,file
+deepspeed_z3_config_bf16.json,file
+dialogues.py,file
+finetune,dir
+finetune.py,file
+generate.py,file
+merge_peft_adapters.py,file
+requirements.txt,file
+train.py,file
+utils.py,file

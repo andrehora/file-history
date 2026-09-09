@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+Template.php,file
+composer.json,file
+src,dir

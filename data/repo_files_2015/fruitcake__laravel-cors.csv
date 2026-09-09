@@ -1,0 +1,13 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.gitkeep,file
+CorsServiceProvider.php,file
+HandleCors.php,file
+LICENSE,file
+Middleware,dir
+composer.json,file
+config,dir
+config.php,file
+readme.md,file
+src,dir

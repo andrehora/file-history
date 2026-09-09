@@ -1,0 +1,5 @@
+name,type
+.gitignore,file
+README.md,file
+scripts,dir
+sort_by_stars.py,file

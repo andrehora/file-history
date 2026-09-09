@@ -1,0 +1,8 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+ISSUE_TEMPLATE,dir
+README.md,file
+design.png,file
+recommend-it-them.md,file

@@ -1,0 +1,15 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.jshintrc,file
+.travis.yml,file
+cli.js,file
+index.js,file
+lib,dir
+license,file
+package.json,file
+readme.md,file
+runner.js,file
+test,dir
+test.js,file

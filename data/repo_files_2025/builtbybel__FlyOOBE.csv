@@ -1,0 +1,71 @@
+name,type
+.gitignore,file
+ActivityHistory.cs,file
+App.config,file
+AppIcon.ico,file
+AppIcon.png,file
+AssemblyInfo.cs,file
+ChrisTitusApp.ps1,file
+Clear Icon Cache.json,file
+Create Restore Point.ps1,file
+Experience,dir
+ExperienceView.Designer.cs,file
+ExperienceView.cs,file
+ExperienceView.resx,file
+FeatureBase.cs,file
+FeatureNode.cs,file
+FeaturePanel.cs,file
+File Extensions Visibility.json,file
+FileExplorerAds.cs,file
+FindMyDevice.cs,file
+FinishSetupAds.cs,file
+FlybyScript,dir
+FlybyScript.csproj,file
+FlybyScript.sln,file
+Helper,dir
+LICENSE,file
+LocationTracking.cs,file
+LockScreenAds.cs,file
+Logger.cs,file
+MainForm.Designer.cs,file
+MainForm.cs,file
+MainForm.resx,file
+MediaView.Designer.cs,file
+MediaView.cs,file
+MediaView.resx,file
+NativePatcher.cs,file
+PSPatcher.cs,file
+Patcher,dir
+PersonalizedAds.cs,file
+PluginsForm.Designer.cs,file
+PluginsForm.cs,file
+PluginsForm.resx,file
+PrivacyExperience.cs,file
+Program.cs,file
+Properties,dir
+README.md,file
+Remove default apps.ps1,file
+Resore all built-in apps.ps1,file
+Resources.Designer.cs,file
+Resources.resx,file
+Restart Explorer.ps1,file
+ScriptPatcher.cs,file
+Settings.Designer.cs,file
+Settings.settings,file
+SettingsAds.cs,file
+StartmenuAds.cs,file
+TailoredExperiences.cs,file
+Telemetry.cs,file
+TipsAndSuggestions.cs,file
+USBManagement.cs,file
+Uninstall OneDrive.ps1,file
+Utils.cs,file
+Views,dir
+Views.cs,file
+WelcomeExperienceAds.cs,file
+Windows Old Remover.json,file
+Windows Rollback Timer.json,file
+app.manifest,file
+packages.config,file
+plugins,dir
+plugins_manifest.json,file

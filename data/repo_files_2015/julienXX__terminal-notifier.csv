@@ -1,0 +1,34 @@
+name,type
+.gitignore,file
+AppDelegate.h,file
+AppDelegate.m,file
+Credits.rtf,file
+Gemfile,file
+Gemfile.lock,file
+InfoPlist.strings,file
+LICENSE,file
+MainMenu.xib,file
+README.markdown,file
+Rakefile,file
+Ruby,dir
+Terminal Notifier,dir
+Terminal Notifier-Info.plist,file
+Terminal Notifier-Prefix.pch,file
+Terminal Notifier.xccheckout,file
+Terminal Notifier.xcodeproj,dir
+Terminal Notifier.xcscheme,file
+Terminal.icns,file
+bin,dir
+contents.xcworkspacedata,file
+en.lproj,dir
+lib,dir
+main.m,file
+project.pbxproj,file
+project.xcworkspace,dir
+spec,dir
+terminal-notifier,file
+terminal-notifier.gemspec,file
+terminal-notifier.rb,file
+terminal-notifier_spec.rb,file
+xcschemes,dir
+xcshareddata,dir

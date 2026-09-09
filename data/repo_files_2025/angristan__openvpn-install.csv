@@ -1,0 +1,16 @@
+name,type
+.editorconfig,file
+.github,dir
+.markdown-lint.yml,file
+FAQ.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+dependabot.yml,file
+issue_template.md,file
+lint.yml,file
+linters,dir
+openvpn-install.sh,file
+pull_request_template.md,file
+test.yml,file
+workflows,dir

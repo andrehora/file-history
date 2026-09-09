@@ -1,0 +1,1311 @@
+name,type
+0001. Two Sum,dir
+0002. Add Two Numbers,dir
+0003. Longest Substring Without Repeating Characters,dir
+0004. Median of Two Sorted Arrays,dir
+0007. Reverse Integer,dir
+0011. Container With Most Water,dir
+0015. 3Sum,dir
+0016. 3Sum Closest,dir
+0017. Letter Combinations of a Phone Number,dir
+0018. 4Sum,dir
+0019. Remove Nth Node From End of List,dir
+0020. Valid-Parentheses,dir
+0021. Merge Two Sorted Lists,dir
+0022. Generate Parentheses,dir
+0023. Merge k Sorted Lists,dir
+0024. Swap Nodes in Pairs,dir
+0025. Reverse Nodes in k Group,dir
+0026. Remove Duplicates from Sorted Array,dir
+0027. Remove Element,dir
+0028. Implement strStr(),dir
+0029. Divide Two Integers,dir
+0030. Substring with Concatenation of All Words,dir
+0033. Search in Rotated Sorted Array,dir
+0034. Find First and Last Position of Element in Sorted Array,dir
+0035. Search Insert Position,dir
+0036. Valid Sudoku,dir
+0037. Sudoku Solver,dir
+0039. Combination Sum,dir
+0040. Combination Sum II,dir
+0041. First-Missing-Positive,dir
+0042. Trapping Rain Water,dir
+0046. Permutations,dir
+0047. Permutations II,dir
+0048. Rotate Image,dir
+0049. Group Anagrams,dir
+"0050. Pow(x, n)",dir
+0051. N-Queens,dir
+0052. N-Queens II,dir
+0053. Maximum Subarray,dir
+0054. Spiral Matrix,dir
+0056. Merge Intervals,dir
+0057. Insert Interval,dir
+0059. Spiral Matrix II,dir
+0060. Permutation Sequence,dir
+0061. Rotate List,dir
+0062. Unique Paths,dir
+0063. Unique Paths II,dir
+0064. Minimum Path Sum,dir
+0066. Plus One,dir
+0069. Sqrt(x),dir
+0070. Climbing Stairs,dir
+0071. Simplify Path,dir
+0074. Search a 2D Matrix,dir
+0075. Sort Colors,dir
+0076. Minimum Window Substring,dir
+0077. Combinations,dir
+0078. Subsets,dir
+0079. Word Search,dir
+0080. Remove Duplicates from Sorted Array II,dir
+0081. Search in Rotated Sorted Array II,dir
+0082. Remove Duplicates from Sorted List II,dir
+0083. Remove Duplicates from Sorted List,dir
+0084. Largest Rectangle in Histogram,dir
+0086. Partition List,dir
+0088. Merge-Sorted-Array,dir
+0089. Gray Code,dir
+0090. Subsets II,dir
+0091. Decode Ways,dir
+0092. Reverse Linked List II,dir
+0093. Restore IP Addresses,dir
+0094. Binary Tree Inorder Traversal,dir
+0095. Unique Binary Search Trees II,dir
+0096. Unique Binary Search Trees,dir
+0098. Validate Binary Search Tree,dir
+0099. Recover Binary Search Tree,dir
+0100. Same Tree,dir
+0101. Symmetric Tree,dir
+0102. Binary Tree Level Order Traversal,dir
+0103. Binary Tree Zigzag Level Order Traversal,dir
+0104. Maximum Depth of Binary Tree,dir
+0105. Construct Binary Tree from Preorder and Inorder Traversal,dir
+0106. Construct Binary Tree from Inorder and Postorder Traversal,dir
+0107. Binary Tree Level Order Traversal II,dir
+0108. Convert Sorted Array to Binary Search Tree,dir
+0109. Convert Sorted List to Binary Search Tree,dir
+0110. Balanced Binary Tree,dir
+0111. Minimum Depth of Binary Tree,dir
+0112. Path Sum,dir
+0113. Path Sum II,dir
+0114. Flatten Binary Tree to Linked List,dir
+0120. Triangle,dir
+0121. Best Time to Buy and Sell Stock,dir
+0122. Best Time to Buy and Sell Stock II,dir
+0124. Binary Tree Maximum Path Sum,dir
+0125. Valid-Palindrome,dir
+0126. Word Ladder II,dir
+0127. Word Ladder,dir
+0128. Longest Consecutive Sequence,dir
+0129. Sum Root to Leaf Numbers,dir
+0130. Surrounded Regions,dir
+0131. Palindrome Partitioning,dir
+0136. Single Number,dir
+0137. Single Number II,dir
+0141. Linked List Cycle,dir
+0142. Linked List Cycle II,dir
+0143. Reorder List,dir
+0144. Binary Tree Preorder Traversal,dir
+0145. Binary Tree Postorder Traversal,dir
+0147. Insertion Sort List,dir
+0148. Sort List,dir
+0150. Evaluate Reverse Polish Notation,dir
+0151. Reverse Words in a String,dir
+0152. Maximum Product Subarray,dir
+0153. Find Minimum in Rotated Sorted Array,dir
+0154. Find Minimum in Rotated Sorted Array II,dir
+0155. Min Stack,dir
+0160. Intersection of Two Linked Lists,dir
+0162. Find Peak Element,dir
+0164. Maximum Gap,dir
+0167. Two Sum II - Input array is sorted,dir
+0169. Majority Element,dir
+0172. Factorial Trailing Zeroes,dir
+0173. Binary Search Tree Iterator,dir
+0174. Dungeon Game,dir
+0179. Largest Number,dir
+0187. Repeated DNA Sequences,dir
+0190. Reverse Bits,dir
+0191. Number of 1 Bits,dir
+0198. House Robber,dir
+0199. Binary Tree Right Side View,dir
+0200. Number of Islands,dir
+0201. Bitwise AND of Numbers Range,dir
+0202. Happy Number,dir
+0203. Remove Linked List Elements,dir
+0204. Count Primes,dir
+0205. Isomorphic Strings,dir
+0206. Reverse-Linked-List,dir
+0207. Course Schedule,dir
+0208. Implement Trie (Prefix Tree),dir
+0209. Minimum Size Subarray Sum,dir
+0210. Course Schedule II,dir
+0211. Add and Search Word - Data structure design,dir
+0212. Word Search II,dir
+0213. House Robber II,dir
+0215. Kth Largest Element in an Array,dir
+0216. Combination Sum III,dir
+0217. Contains Duplicate,dir
+0218. The Skyline Problem,dir
+0219. Contains Duplicate II,dir
+0220. Contains Duplicate III,dir
+0222. Count Complete Tree Nodes,dir
+0223. Rectangle Area,dir
+0224. Basic Calculator,dir
+0225. Implement Stack using Queues,dir
+0226. Invert Binary Tree,dir
+0229. Majority Element II,dir
+0230. Kth Smallest Element in a BST,dir
+0231. Power of Two,dir
+0232. Implement Queue using Stacks,dir
+0234. Palindrome Linked List,dir
+0235. Lowest Common Ancestor of a Binary Search Tree,dir
+0236. Lowest Common Ancestor of a Binary Tree,dir
+0237. Delete Node in a Linked List,dir
+0239. Sliding Window Maximum,dir
+0240. Search a 2D Matrix II,dir
+0242. Valid Anagram,dir
+0257. Binary Tree Paths,dir
+0260. Single Number III,dir
+0263. Ugly Number,dir
+0268. Missing Number,dir
+0274. H-Index,dir
+0275. H-Index II,dir
+0283. Move Zeroes,dir
+0287. Find the Duplicate Number,dir
+0290. Word Pattern,dir
+0300. Longest Increasing Subsequence,dir
+0303. Range Sum Query - Immutable,dir
+0306. Additive Number,dir
+0307. Range Sum Query - Mutable,dir
+0309. Best Time to Buy and Sell Stock with Cooldown,dir
+0315. Count of Smaller Numbers After Self,dir
+0318. Maximum Product of Word Lengths,dir
+0322. Coin Change,dir
+0324. Wiggle Sort II,dir
+0326. Power of Three,dir
+0327. Count of Range Sum,dir
+0328. Odd Even Linked List,dir
+0329. Longest Increasing Path in a Matrix,dir
+0331. Verify Preorder Serialization of a Binary Tree,dir
+0338. Counting Bits,dir
+0342. Power of Four,dir
+0343. Integer Break,dir
+0344. Reverse String,dir
+0345. Reverse Vowels of a String,dir
+0347. Top K Frequent Elements,dir
+0349. Intersection of Two Arrays,dir
+0350. Intersection of Two Arrays II,dir
+0354. Russian Doll Envelopes,dir
+0357. Count Numbers with Unique Digits,dir
+0367. Valid Perfect Square,dir
+0371. Sum of Two Integers,dir
+0372. Super Pow,dir
+0373. Find K Pairs with Smallest Sums,dir
+0378. Kth Smallest Element in a Sorted Matrix,dir
+0385. Mini Parser,dir
+0386. Lexicographical Numbers,dir
+0387. First Unique Character in a String,dir
+0389. Find the Difference,dir
+0392. Is Subsequence,dir
+0393. UTF-8 Validation,dir
+0394. Decode String,dir
+0397. Integer Replacement,dir
+0399. Evaluate Division,dir
+0401. Binary Watch,dir
+0402. Remove K Digits,dir
+0404. Sum of Left Leaves,dir
+0405. Convert a Number to Hexadecimal,dir
+0409. Longest Palindrome,dir
+0410. Split Array Largest Sum,dir
+0412. Fizz Buzz,dir
+0414. Third Maximum Number,dir
+0416. Partition Equal Subset Sum,dir
+0421. Maximum XOR of Two Numbers in an Array,dir
+0424. Longest Repeating Character Replacement,dir
+0433. Minimum Genetic Mutation,dir
+0435. Non-overlapping Intervals,dir
+0436. Find Right Interval,dir
+0437. Path Sum III,dir
+0438. Find All Anagrams in a String,dir
+0441. Arranging Coins,dir
+0445. Add Two Numbers II,dir
+0447. Number of Boomerangs,dir
+0451. Sort Characters By Frequency,dir
+0454. 4Sum II,dir
+0455. Assign Cookies,dir
+0456. 132 Pattern,dir
+0457. Circular Array Loop,dir
+0461. Hamming Distance,dir
+0463. Island Perimeter,dir
+0470. Implement Rand10() Using Rand7(),dir
+0474. Ones and Zeroes,dir
+0475. Heaters,dir
+0476. Number Complement,dir
+0477. Total Hamming Distance,dir
+0480. Sliding Window Median,dir
+0483. Smallest Good Base,dir
+0491. Increasing Subsequences,dir
+0493. Reverse Pairs,dir
+0496. Next Greater Element I,dir
+0497. Random Point in Non-overlapping Rectangles,dir
+0498. Diagonal Traverse,dir
+0500. Keyboard Row,dir
+0503. Next Greater Element II,dir
+0508. Most Frequent Subtree Sum,dir
+0509. Fibonacci Number,dir
+0513. Find Bottom Left Tree Value,dir
+0515. Find Largest Value in Each Tree Row,dir
+0524. Longest Word in Dictionary through Deleting,dir
+0526. Beautiful Arrangement,dir
+0528. Random Pick with Weight,dir
+0532. K-diff Pairs in an Array,dir
+0541. Reverse String II,dir
+0542. 01 Matrix,dir
+0547. Friend Circles,dir
+0557. Reverse Words in a String III,dir
+0563. Binary Tree Tilt,dir
+0566. Reshape the Matrix,dir
+0567. Permutation in String,dir
+0572. Subtree of Another Tree,dir
+0575. Distribute Candies,dir
+0594. Longest Harmonious Subsequence,dir
+0599. Minimum Index Sum of Two Lists,dir
+0628. Maximum Product of Three Numbers,dir
+0632. Smallest Range Covering Elements from K Lists,dir
+0633. Sum of Square Numbers,dir
+0636. Exclusive Time of Functions,dir
+0637. Average of Levels in Binary Tree,dir
+0645. Set Mismatch,dir
+0648. Replace Words,dir
+0653. Two Sum IV - Input is a BST,dir
+0658. Find K Closest Elements,dir
+0662. Maximum Width of Binary Tree,dir
+0668. Kth Smallest Number in Multiplication Table,dir
+0676. Implement Magic Dictionary,dir
+0682. Baseball Game,dir
+0684. Redundant Connection,dir
+0685. Redundant Connection II,dir
+0693. Binary Number with Alternating Bits,dir
+0699. Falling Squares,dir
+0704. Binary Search,dir
+0705. Design HashSet,dir
+0706. Design HashMap,dir
+0707. Design Linked List,dir
+0710. Random Pick with Blacklist,dir
+0713. Subarray Product Less Than K,dir
+0714. Best Time to Buy and Sell Stock with Transaction Fee,dir
+0715. Range Module,dir
+0717. 1-bit and 2-bit Characters,dir
+0718. Maximum Length of Repeated Subarray,dir
+0719. Find K-th Smallest Pair Distance,dir
+0720. Longest Word in Dictionary,dir
+0721. Accounts Merge,dir
+0725. Split Linked List in Parts,dir
+0726. Number of Atoms,dir
+0729. My Calendar I,dir
+0732. My Calendar III,dir
+0733. Flood Fill,dir
+0735. Asteroid Collision,dir
+0739. Daily Temperatures,dir
+0744. Find Smallest Letter Greater Than Target,dir
+0745. Prefix and Suffix Search,dir
+0746. Min Cost Climbing Stairs,dir
+0748. Shortest Completing Word,dir
+0756. Pyramid Transition Matrix,dir
+0762. Prime Number of Set Bits in Binary Representation,dir
+0763. Partition Labels,dir
+0765. Couples Holding Hands,dir
+0766. Toeplitz Matrix,dir
+0767. Reorganize String,dir
+0771. Jewels and Stones,dir
+0778. Swim in Rising Water,dir
+0781. Rabbits in Forest,dir
+0784. Letter Case Permutation,dir
+0786. K-th Smallest Prime Fraction,dir
+0793. Preimage Size of Factorial Zeroes Function,dir
+0803. Bricks Falling When Hit,dir
+0811. Subdomain Visit Count,dir
+0815. Bus Routes,dir
+0817. Linked List Components,dir
+0819. Most Common Word,dir
+0826. Most Profit Assigning Work,dir
+0828. Unique Letter String,dir
+0834. Sum of Distances in Tree,dir
+0836. Rectangle Overlap,dir
+0838. Push Dominoes,dir
+0839. Similar String Groups,dir
+0842. Split Array into Fibonacci Sequence,dir
+0844. Backspace String Compare,dir
+0845. Longest Mountain in Array,dir
+0850. Rectangle Area II,dir
+0852. Peak Index in a Mountain Array,dir
+0853. Car Fleet,dir
+0856. Score of Parentheses,dir
+0864. Shortest Path to Get All Keys,dir
+0867. Transpose Matrix,dir
+0875. Koko Eating Bananas,dir
+0876. Middle of the Linked List,dir
+0878. Nth Magical Number,dir
+0880. Decoded String at Index,dir
+0881. Boats to Save People,dir
+0884. Uncommon Words from Two Sentences,dir
+0885. Spiral Matrix III,dir
+0887. Super Egg Drop,dir
+0891. Sum of Subsequence Widths,dir
+0895. Maximum Frequency Stack,dir
+0897. Increasing Order Search Tree,dir
+0898. Bitwise ORs of Subarrays,dir
+0901. Online Stock Span,dir
+0904. Fruit Into Baskets,dir
+0907. Sum of Subarray Minimums,dir
+0911. Online Election,dir
+0918. Maximum Sum Circular Subarray,dir
+0920. Number of Music Playlists,dir
+0921. Minimum Add to Make Parentheses Valid,dir
+0922. Sort Array By Parity II,dir
+0923. 3Sum With Multiplicity,dir
+0924. Minimize Malware Spread,dir
+0925. Long Pressed Name,dir
+0927. Three Equal Parts,dir
+0928. Minimize Malware Spread II,dir
+0930. Binary Subarrays With Sum,dir
+0942. DI String Match,dir
+0946. Validate Stack Sequences,dir
+0947. Most Stones Removed with Same Row or Column,dir
+0952. Largest Component Size by Common Factor,dir
+0953. Verifying an Alien Dictionary,dir
+0959. Regions Cut By Slashes,dir
+0961. N-Repeated Element in Size 2N Array,dir
+0968. Binary Tree Cameras,dir
+0969. Pancake Sorting,dir
+0970. Powerful Integers,dir
+0973. K Closest Points to Origin,dir
+0976. Largest Perimeter Triangle,dir
+0977. Squares of a Sorted Array,dir
+0978. Longest Turbulent Subarray,dir
+0979. Distribute Coins in Binary Tree,dir
+0980. Unique Paths III,dir
+0981. Time Based Key-Value Store,dir
+0984. String Without AAA or BBB,dir
+0986. Interval List Intersections,dir
+0990. Satisfiability of Equality Equations,dir
+0992. Subarrays with K Different Integers,dir
+0993. Cousins in Binary Tree,dir
+0995. Minimum Number of K Consecutive Bit Flips,dir
+0996. Number of Squareful Arrays,dir
+1. Two Sum.go,file
+1. Two Sum_test.go,file
+100. Same Tree.go,file
+100. Same Tree_test.go,file
+1002. Find Common Characters,dir
+1002. Find Common Characters.go,file
+1002. Find Common Characters_test.go,file
+1003. Check If Word Is Valid After Substitutions,dir
+1003. Check If Word Is Valid After Substitutions.go,file
+1003. Check If Word Is Valid After Substitutions_test.go,file
+1004. Max Consecutive Ones III,dir
+1004. Max Consecutive Ones III.go,file
+1004. Max Consecutive Ones III_test.go,file
+1005. Maximize Sum Of Array After K Negations,dir
+1005. Maximize Sum Of Array After K Negations.go,file
+1005. Maximize Sum Of Array After K Negations_test.go,file
+101. Symmetric Tree.go,file
+101. Symmetric Tree_test.go,file
+1011. Capacity To Ship Packages Within D Days,dir
+1011. Capacity To Ship Packages Within D Days.go,file
+1011. Capacity To Ship Packages Within D Days_test.go,file
+1017. Convert to Base -2,dir
+1017. Convert to Base -2.go,file
+1017. Convert to Base -2_test.go,file
+1019. Next Greater Node In Linked List,dir
+1019. Next Greater Node In Linked List.go,file
+1019. Next Greater Node In Linked List_test.go,file
+102. Binary Tree Level Order Traversal.go,file
+102. Binary Tree Level Order Traversal_test.go,file
+1021. Remove Outermost Parentheses,dir
+1021. Remove Outermost Parentheses.go,file
+1021. Remove Outermost Parentheses_test.go,file
+1025. Divisor Game,dir
+1025. Divisor Game.go,file
+1025. Divisor Game_test.go,file
+103. Binary Tree Zigzag Level Order Traversal.go,file
+103. Binary Tree Zigzag Level Order Traversal_test.go,file
+1030. Matrix Cells in Distance Order,dir
+1030. Matrix Cells in Distance Order.go,file
+1030. Matrix Cells in Distance Order_test.go,file
+104. Maximum Depth of Binary Tree.go,file
+104. Maximum Depth of Binary Tree_test.go,file
+1040. Moving Stones Until Consecutive II,dir
+1040. Moving Stones Until Consecutive II.go,file
+1040. Moving Stones Until Consecutive II_test.go,file
+1047. Remove All Adjacent Duplicates In String,dir
+1047. Remove All Adjacent Duplicates In String.go,file
+1047. Remove All Adjacent Duplicates In String_test.go,file
+1049. Last Stone Weight II,dir
+1049. Last Stone Weight II.go,file
+1049. Last Stone Weight II_test.go,file
+105. Construct Binary Tree from Preorder and Inorder Traversal.go,file
+105. Construct Binary Tree from Preorder and Inorder Traversal_test.go,file
+1052. Grumpy Bookstore Owner,dir
+1052. Grumpy Bookstore Owner.go,file
+1052. Grumpy Bookstore Owner_test.go,file
+1054. Distant Barcodes,dir
+1054. Distant Barcodes.go,file
+1054. Distant Barcodes_test.go,file
+106. Construct Binary Tree from Inorder and Postorder Traversal.go,file
+106. Construct Binary Tree from Inorder and Postorder Traversal_test.go,file
+107. Binary Tree Level Order Traversal II.go,file
+107. Binary Tree Level Order Traversal II_test.go,file
+1073. Adding Two Negabinary Numbers,dir
+1073. Adding Two Negabinary Numbers.go,file
+1073. Adding Two Negabinary Numbers_test.go,file
+1074. Number of Submatrices That Sum to Target,dir
+1074. Number of Submatrices That Sum to Target.go,file
+1074. Number of Submatrices That Sum to Target_test.go,file
+1078. Occurrences After Bigram,dir
+1078. Occurrences After Bigram.go,file
+1078. Occurrences After Bigram_test.go,file
+1079. Letter Tile Possibilities,dir
+1079. Letter Tile Possibilities.go,file
+1079. Letter Tile Possibilities_test.go,file
+108. Convert Sorted Array to Binary Search Tree.go,file
+108. Convert Sorted Array to Binary Search Tree_test.go,file
+109. Convert Sorted List to Binary Search Tree.go,file
+109. Convert Sorted List to Binary Search Tree_test.go,file
+1093. Statistics from a Large Sample,dir
+1093. Statistics from a Large Sample.go,file
+1093. Statistics from a Large Sample_test.go,file
+11. Container With Most Water.go,file
+11. Container With Most Water_test.go,file
+110. Balanced Binary Tree.go,file
+110. Balanced Binary Tree_test.go,file
+1105. Filling Bookcase Shelves,dir
+1105. Filling Bookcase Shelves.go,file
+1105. Filling Bookcase Shelves_test.go,file
+111. Minimum Depth of Binary Tree.go,file
+111. Minimum Depth of Binary Tree_test.go,file
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings,dir
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings.go,file
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings_test.go,file
+112. Path Sum.go,file
+112. Path Sum_test.go,file
+1122. Relative Sort Array,dir
+1122. Relative Sort Array.go,file
+1122. Relative Sort Array_test.go,file
+1123. Lowest Common Ancestor of Deepest Leaves,dir
+1123. Lowest Common Ancestor of Deepest Leaves.go,file
+1123. Lowest Common Ancestor of Deepest Leaves_test.go,file
+1128. Number of Equivalent Domino Pairs,dir
+1128. Number of Equivalent Domino Pairs.go,file
+1128. Number of Equivalent Domino Pairs_test.go,file
+113. Path Sum II.go,file
+113. Path Sum II_test.go,file
+1137. N-th Tribonacci Number,dir
+1137. N-th Tribonacci Number.go,file
+1137. N-th Tribonacci Number_test.go,file
+114. Flatten Binary Tree to Linked List.go,file
+114. Flatten Binary Tree to Linked List_test.go,file
+1154. Day of the Year,dir
+1154. Day of the Year.go,file
+1154. Day of the Year_test.go,file
+1157. Online Majority Element In Subarray,dir
+1157. Online Majority Element In Subarray.go,file
+1157. Online Majority Element In Subarray_test.go,file
+1184. Distance Between Bus Stops,dir
+1184. Distance Between Bus Stops.go,file
+1184. Distance Between Bus Stops_test.go,file
+1185. Day of the Week,dir
+1185. Day of the Week.go,file
+1185. Day of the Week_test.go,file
+1189. Maximum Number of Balloons,dir
+1189. Maximum Number of Balloons.go,file
+1189. Maximum Number of Balloons_test.go,file
+120. Triangle.go,file
+120. Triangle_test.go,file
+1200. Minimum Absolute Difference,dir
+1200. Minimum Absolute Difference.go,file
+1200. Minimum Absolute Difference_test.go,file
+1201. Ugly Number III,dir
+1201. Ugly Number III.go,file
+1201. Ugly Number III_test.go,file
+1207. Unique Number of Occurrences,dir
+1207. Unique Number of Occurrences.go,file
+1207. Unique Number of Occurrences_test.go,file
+121. Best Time to Buy and Sell Stock.go,file
+121. Best Time to Buy and Sell Stock_test.go,file
+122. Best Time to Buy and Sell Stock II.go,file
+122. Best Time to Buy and Sell Stock II_test.go,file
+1235. Maximum Profit in Job Scheduling,dir
+1235. Maximum Profit in Job Scheduling.go,file
+1235. Maximum Profit in Job Scheduling_test.go,file
+124. Binary Tree Maximum Path Sum.go,file
+124. Binary Tree Maximum Path Sum_test.go,file
+125. Valid Palindrome.go,file
+125. Valid Palindrome_test.go,file
+126. Word Ladder II.go,file
+126. Word Ladder II_test.go,file
+127. Word Ladder.go,file
+127. Word Ladder_test.go,file
+128. Longest Consecutive Sequence.go,file
+128. Longest Consecutive Sequence_test.go,file
+129. Sum Root to Leaf Numbers.go,file
+129. Sum Root to Leaf Numbers_test.go,file
+130. Surrounded Regions.go,file
+130. Surrounded Regions_test.go,file
+131. Palindrome Partitioning.go,file
+131. Palindrome Partitioning_test.go,file
+136. Single Number.go,file
+136. Single Number_test.go,file
+137. Single Number II.go,file
+137. Single Number II_test.go,file
+141. Linked List Cycle.go,file
+141. Linked List Cycle_test.go,file
+142. Linked List Cycle II.go,file
+142. Linked List Cycle II_test.go,file
+143. Reorder List.go,file
+143. Reorder List_test.go,file
+144. Binary Tree Preorder Traversal.go,file
+144. Binary Tree Preorder Traversal_test.go,file
+145. Binary Tree Postorder Traversal.go,file
+145. Binary Tree Postorder Traversal_test.go,file
+147. Insertion Sort List.go,file
+147. Insertion Sort List_test.go,file
+148. Sort List.go,file
+148. Sort List_test.go,file
+15. 3Sum.go,file
+15. 3Sum_test.go,file
+150. Evaluate Reverse Polish Notation.go,file
+150. Evaluate Reverse Polish Notation_test.go,file
+151. Reverse Words in a String.go,file
+151. Reverse Words in a String_test.go,file
+152. Maximum Product Subarray.go,file
+152. Maximum Product Subarray_test.go,file
+153. Find Minimum in Rotated Sorted Array.go,file
+153. Find Minimum in Rotated Sorted Array_test.go,file
+154. Find Minimum in Rotated Sorted Array II.go,file
+154. Find Minimum in Rotated Sorted Array II_test.go,file
+155. Min Stack.go,file
+155. Min Stack_test.go,file
+16. 3Sum Closest.go,file
+16. 3Sum Closest_test.go,file
+160. Intersection of Two Linked Lists.go,file
+160. Intersection of Two Linked Lists_test.go,file
+162. Find Peak Element.go,file
+162. Find Peak Element_test.go,file
+164. Maximum Gap.go,file
+164. Maximum Gap_test.go,file
+167. Two Sum II - Input array is sorted.go,file
+167. Two Sum II - Input array is sorted_test.go,file
+169. Majority Element.go,file
+169. Majority Element_test.go,file
+17. Letter Combinations of a Phone Number.go,file
+17. Letter Combinations of a Phone Number_test.go,file
+172. Factorial Trailing Zeroes.go,file
+172. Factorial Trailing Zeroes_test.go,file
+173. Binary Search Tree Iterator.go,file
+173. Binary Search Tree Iterator_test.go,file
+174. Dungeon Game.go,file
+174. Dungeon Game_test.go,file
+179. Largest Number.go,file
+179. Largest Number_test.go,file
+18. 4Sum.go,file
+18. 4Sum_test.go,file
+187. Repeated DNA Sequences.go,file
+187. Repeated DNA Sequences_test.go,file
+19. Remove Nth Node From End of List.go,file
+19. Remove Nth Node From End of List_test.go,file
+190. Reverse Bits.go,file
+190. Reverse Bits_test.go,file
+191. Number of 1 Bits.go,file
+191. Number of 1 Bits_test.go,file
+198. House Robber.go,file
+198. House Robber_test.go,file
+199. Binary Tree Right Side View.go,file
+199. Binary Tree Right Side View_test.go,file
+2. Add Two Numbers.go,file
+2. Add Two Numbers_test.go,file
+20. Valid Parentheses.go,file
+20. Valid Parentheses_test.go,file
+200. Number of Islands.go,file
+200. Number of Islands_test.go,file
+201. Bitwise AND of Numbers Range.go,file
+201. Bitwise AND of Numbers Range_test.go,file
+202. Happy Number.go,file
+202. Happy Number_test.go,file
+203. Remove Linked List Elements.go,file
+203. Remove Linked List Elements_test.go,file
+204. Count Primes.go,file
+204. Count Primes_test.go,file
+205. Isomorphic Strings.go,file
+205. Isomorphic Strings_test.go,file
+206. Reverse Linked List.go,file
+206. Reverse Linked List_test.go,file
+207. Course Schedule.go,file
+207. Course Schedule_test.go,file
+208. Implement Trie (Prefix Tree).go,file
+208. Implement Trie (Prefix Tree)_test.go,file
+209. Minimum Size Subarray Sum.go,file
+209. Minimum Size Subarray Sum_test.go,file
+21. Merge Two Sorted Lists.go,file
+21. Merge Two Sorted Lists_test.go,file
+210. Course Schedule II.go,file
+210. Course Schedule II_test.go,file
+211. Add and Search Word - Data structure design.go,file
+211. Add and Search Word - Data structure design_test.go,file
+212. Word Search II.go,file
+212. Word Search II_test.go,file
+213. House Robber II.go,file
+213. House Robber II_test.go,file
+215. Kth Largest Element in an Array.go,file
+215. Kth Largest Element in an Array_test.go,file
+216. Combination Sum III.go,file
+216. Combination Sum III_test.go,file
+217. Contains Duplicate.go,file
+217. Contains Duplicate_test.go,file
+218. The Skyline Problem.go,file
+218. The Skyline Problem_test.go,file
+219. Contains Duplicate II.go,file
+219. Contains Duplicate II_test.go,file
+22. Generate Parentheses.go,file
+22. Generate Parentheses_test.go,file
+220. Contains Duplicate III.go,file
+220. Contains Duplicate III_test.go,file
+222. Count Complete Tree Nodes.go,file
+222. Count Complete Tree Nodes_test.go,file
+223. Rectangle Area.go,file
+223. Rectangle Area_test.go,file
+224. Basic Calculator.go,file
+224. Basic Calculator_test.go,file
+225. Implement Stack using Queues.go,file
+225. Implement Stack using Queues_test.go,file
+226. Invert Binary Tree.go,file
+226. Invert Binary Tree_test.go,file
+229. Majority Element II.go,file
+229. Majority Element II_test.go,file
+23. Merge k Sorted Lists.go,file
+23. Merge k Sorted Lists_test.go,file
+230. Kth Smallest Element in a BST.go,file
+230. Kth Smallest Element in a BST_test.go,file
+231. Power of Two.go,file
+231. Power of Two_test.go,file
+232. Implement Queue using Stacks.go,file
+232. Implement Queue using Stacks_test.go,file
+234. Palindrome Linked List.go,file
+234. Palindrome Linked List_test.go,file
+235. Lowest Common Ancestor of a Binary Search Tree.go,file
+235. Lowest Common Ancestor of a Binary Search Tree_test.go,file
+236. Lowest Common Ancestor of a Binary Tree.go,file
+236. Lowest Common Ancestor of a Binary Tree_test.go,file
+237. Delete Node in a Linked List.go,file
+237. Delete Node in a Linked List_test.go,file
+239. Sliding Window Maximum.go,file
+239. Sliding Window Maximum_test.go,file
+24. Swap Nodes in Pairs.go,file
+24. Swap Nodes in Pairs_test.go,file
+240. Search a 2D Matrix II.go,file
+240. Search a 2D Matrix II_test.go,file
+242. Valid Anagram.go,file
+242. Valid Anagram_test.go,file
+25. Reverse Nodes in k Group.go,file
+25. Reverse Nodes in k Group_test.go,file
+257. Binary Tree Paths.go,file
+257. Binary Tree Paths_test.go,file
+26. Remove Duplicates from Sorted Array.go,file
+26. Remove Duplicates from Sorted Array_test.go,file
+260. Single Number III.go,file
+260. Single Number III_test.go,file
+263. Ugly Number.go,file
+263. Ugly Number_test.go,file
+268. Missing Number.go,file
+268. Missing Number_test.go,file
+27. Remove Element.go,file
+27. Remove Element_test.go,file
+274. H-Index.go,file
+274. H-Index_test.go,file
+275. H-Index II.go,file
+275. H-Index II_test.go,file
+28. Implement strStr().go,file
+28. Implement strStr()_test.go,file
+283. Move Zeroes.go,file
+283. Move Zeroes_test.go,file
+287. Find the Duplicate Number.go,file
+287. Find the Duplicate Number_test.go,file
+29. Divide Two Integers.go,file
+29. Divide Two Integers_test.go,file
+290. Word Pattern.go,file
+290. Word Pattern_test.go,file
+3. Longest Substring Without Repeating Characters.go,file
+3. Longest Substring Without Repeating Characters_test.go,file
+30. Substring with Concatenation of All Words.go,file
+30. Substring with Concatenation of All Words_test.go,file
+300. Longest Increasing Subsequence.go,file
+300. Longest Increasing Subsequence_test.go,file
+303. Range Sum Query - Immutable.go,file
+303. Range Sum Query - Immutable_test.go,file
+306. Additive Number.go,file
+306. Additive Number_test.go,file
+307. Range Sum Query - Mutable.go,file
+307. Range Sum Query - Mutable_test.go,file
+309. Best Time to Buy and Sell Stock with Cooldown.go,file
+309. Best Time to Buy and Sell Stock with Cooldown_test.go,file
+315. Count of Smaller Numbers After Self.go,file
+315. Count of Smaller Numbers After Self_test.go,file
+318. Maximum Product of Word Lengths.go,file
+318. Maximum Product of Word Lengths_test.go,file
+322. Coin Change.go,file
+322. Coin Change_test.go,file
+324. Wiggle Sort II.go,file
+324. Wiggle Sort II_test.go,file
+326. Power of Three.go,file
+326. Power of Three_test.go,file
+327. Count of Range Sum.go,file
+327. Count of Range Sum_test.go,file
+328. Odd Even Linked List.go,file
+328. Odd Even Linked List_test.go,file
+329. Longest Increasing Path in a Matrix.go,file
+329. Longest Increasing Path in a Matrix_test.go,file
+33. Search in Rotated Sorted Array.go,file
+33. Search in Rotated Sorted Array_test.go,file
+331. Verify Preorder Serialization of a Binary Tree.go,file
+331. Verify Preorder Serialization of a Binary Tree_test.go,file
+338. Counting Bits.go,file
+338. Counting Bits_test.go,file
+34. Find First and Last Position of Element in Sorted Array.go,file
+34. Find First and Last Position of Element in Sorted Array_test.go,file
+342. Power of Four.go,file
+342. Power of Four_test.go,file
+343. Integer Break.go,file
+343. Integer Break_test.go,file
+344. Reverse String.go,file
+344. Reverse String_test.go,file
+345. Reverse Vowels of a String.go,file
+345. Reverse Vowels of a String_test.go,file
+347. Top K Frequent Elements.go,file
+347. Top K Frequent Elements_test.go,file
+349. Intersection of Two Arrays.go,file
+349. Intersection of Two Arrays_test.go,file
+35. Search Insert Position.go,file
+35. Search Insert Position_test.go,file
+350. Intersection of Two Arrays II.go,file
+350. Intersection of Two Arrays II_test.go,file
+354. Russian Doll Envelopes.go,file
+354. Russian Doll Envelopes_test.go,file
+357. Count Numbers with Unique Digits.go,file
+357. Count Numbers with Unique Digits_test.go,file
+36. Valid Sudoku.go,file
+36. Valid Sudoku_test.go,file
+367. Valid Perfect Square.go,file
+367. Valid Perfect Square_test.go,file
+37. Sudoku Solver.go,file
+37. Sudoku Solver_test.go,file
+371. Sum of Two Integers.go,file
+371. Sum of Two Integers_test.go,file
+372. Super Pow.go,file
+372. Super Pow_test.go,file
+373. Find K Pairs with Smallest Sums.go,file
+373. Find K Pairs with Smallest Sums_test.go,file
+378. Kth Smallest Element in a Sorted Matrix.go,file
+378. Kth Smallest Element in a Sorted Matrix_test.go,file
+385. Mini Parser.go,file
+385. Mini Parser_test.go,file
+386. Lexicographical Numbers.go,file
+386. Lexicographical Numbers_test.go,file
+387. First Unique Character in a String.go,file
+387. First Unique Character in a String_test.go,file
+389. Find the Difference.go,file
+389. Find the Difference_test.go,file
+39. Combination Sum.go,file
+39. Combination Sum_test.go,file
+392. Is Subsequence.go,file
+392. Is Subsequence_test.go,file
+393. UTF-8 Validation.go,file
+393. UTF-8 Validation_test.go,file
+394. Decode String.go,file
+394. Decode String_test.go,file
+397. Integer Replacement.go,file
+397. Integer Replacement_test.go,file
+399. Evaluate Division.go,file
+399. Evaluate Division_test.go,file
+4. Median of Two Sorted Arrays.go,file
+4. Median of Two Sorted Arrays_test.go,file
+40. Combination Sum II.go,file
+40. Combination Sum II_test.go,file
+401. Binary Watch.go,file
+401. Binary Watch_test.go,file
+402. Remove K Digits.go,file
+402. Remove K Digits_test.go,file
+404. Sum of Left Leaves.go,file
+404. Sum of Left Leaves_test.go,file
+405. Convert a Number to Hexadecimal.go,file
+405. Convert a Number to Hexadecimal_test.go,file
+409. Longest Palindrome.go,file
+409. Longest Palindrome_test.go,file
+41. First Missing Positive.go,file
+41. First Missing Positive_test.go,file
+410. Split Array Largest Sum.go,file
+410. Split Array Largest Sum_test.go,file
+412. Fizz Buzz.go,file
+412. Fizz Buzz_test.go,file
+414. Third Maximum Number.go,file
+414. Third Maximum Number_test.go,file
+416. Partition Equal Subset Sum.go,file
+416. Partition Equal Subset Sum_test.go,file
+42. Trapping Rain Water.go,file
+42. Trapping Rain Water_test.go,file
+421. Maximum XOR of Two Numbers in an Array.go,file
+421. Maximum XOR of Two Numbers in an Array_test.go,file
+424. Longest Repeating Character Replacement.go,file
+424. Longest Repeating Character Replacement_test.go,file
+433. Minimum Genetic Mutation.go,file
+433. Minimum Genetic Mutation_test.go,file
+435. Non-overlapping Intervals.go,file
+435. Non-overlapping Intervals_test.go,file
+436. Find Right Interval.go,file
+436. Find Right Interval_test.go,file
+437. Path Sum III.go,file
+437. Path Sum III_test.go,file
+438. Find All Anagrams in a String.go,file
+438. Find All Anagrams in a String_test.go,file
+441. Arranging Coins.go,file
+441. Arranging Coins_test.go,file
+445. Add Two Numbers II.go,file
+445. Add Two Numbers II_test.go,file
+447. Number of Boomerangs.go,file
+447. Number of Boomerangs_test.go,file
+451. Sort Characters By Frequency.go,file
+451. Sort Characters By Frequency_test.go,file
+454. 4Sum II.go,file
+454. 4Sum II_test.go,file
+455. Assign Cookies.go,file
+455. Assign Cookies_test.go,file
+456. 132 Pattern.go,file
+456. 132 Pattern_test.go,file
+457. Circular Array Loop.go,file
+457. Circular Array Loop_test.go,file
+46. Permutations.go,file
+46. Permutations_test.go,file
+461. Hamming Distance.go,file
+461. Hamming Distance_test.go,file
+463. Island Perimeter.go,file
+463. Island Perimeter_test.go,file
+47. Permutations II.go,file
+47. Permutations II_test.go,file
+470. Implement Rand10() Using Rand7().go,file
+470. Implement Rand10() Using Rand7()_test.go,file
+474. Ones and Zeroes.go,file
+474. Ones and Zeroes_test.go,file
+475. Heaters.go,file
+475. Heaters_test.go,file
+476. Number Complement.go,file
+476. Number Complement_test.go,file
+477. Total Hamming Distance.go,file
+477. Total Hamming Distance_test.go,file
+48. Rotate Image.go,file
+48. Rotate Image_test.go,file
+480. Sliding Window Median.go,file
+480. Sliding Window Median_test.go,file
+483. Smallest Good Base.go,file
+483. Smallest Good Base_test.go,file
+49. Group Anagrams.go,file
+49. Group Anagrams_test.go,file
+491. Increasing Subsequences.go,file
+491. Increasing Subsequences_test.go,file
+493. Reverse Pairs.go,file
+493. Reverse Pairs_test.go,file
+496. Next Greater Element I.go,file
+496. Next Greater Element I_test.go,file
+497. Random Point in Non-overlapping Rectangles.go,file
+497. Random Point in Non-overlapping Rectangles_test.go,file
+498. Diagonal Traverse.go,file
+498. Diagonal Traverse_test.go,file
+"50. Pow(x, n).go",file
+"50. Pow(x, n)_test.go",file
+500. Keyboard Row.go,file
+500. Keyboard Row_test.go,file
+503. Next Greater Element II.go,file
+503. Next Greater Element II_test.go,file
+508. Most Frequent Subtree Sum.go,file
+508. Most Frequent Subtree Sum_test.go,file
+509. Fibonacci Number.go,file
+509. Fibonacci Number_test.go,file
+51. N-Queens.go,file
+51. N-Queens_test.go,file
+513. Find Bottom Left Tree Value.go,file
+513. Find Bottom Left Tree Value_test.go,file
+515. Find Largest Value in Each Tree Row.go,file
+515. Find Largest Value in Each Tree Row_test.go,file
+52. N-Queens II.go,file
+52. N-Queens II_test.go,file
+524. Longest Word in Dictionary through Deleting.go,file
+524. Longest Word in Dictionary through Deleting_test.go,file
+526. Beautiful Arrangement.go,file
+526. Beautiful Arrangement_test.go,file
+528. Random Pick with Weight.go,file
+528. Random Pick with Weight_test.go,file
+53. Maximum Subarray.go,file
+53. Maximum Subarray_test.go,file
+532. K-diff Pairs in an Array.go,file
+532. K-diff Pairs in an Array_test.go,file
+54. Spiral Matrix.go,file
+54. Spiral Matrix_test.go,file
+541. Reverse String II.go,file
+541. Reverse String II_test.go,file
+542. 01 Matrix.go,file
+542. 01 Matrix_test.go,file
+547. Friend Circles.go,file
+547. Friend Circles_test.go,file
+557. Reverse Words in a String III.go,file
+557. Reverse Words in a String III_test.go,file
+56. Merge Intervals.go,file
+56. Merge Intervals_test.go,file
+563. Binary Tree Tilt.go,file
+563. Binary Tree Tilt_test.go,file
+566. Reshape the Matrix.go,file
+566. Reshape the Matrix_test.go,file
+567. Permutation in String.go,file
+567. Permutation in String_test.go,file
+57. Insert Interval.go,file
+57. Insert Interval_test.go,file
+572. Subtree of Another Tree.go,file
+572. Subtree of Another Tree_test.go,file
+575. Distribute Candies.go,file
+575. Distribute Candies_test.go,file
+59. Spiral Matrix II.go,file
+59. Spiral Matrix II_test.go,file
+594. Longest Harmonious Subsequence.go,file
+594. Longest Harmonious Subsequence_test.go,file
+599. Minimum Index Sum of Two Lists.go,file
+599. Minimum Index Sum of Two Lists_test.go,file
+60. Permutation Sequence.go,file
+60. Permutation Sequence_test.go,file
+61. Rotate List.go,file
+61. Rotate List_test.go,file
+62. Unique Paths.go,file
+62. Unique Paths_test.go,file
+628. Maximum Product of Three Numbers.go,file
+628. Maximum Product of Three Numbers_test.go,file
+63. Unique Paths II.go,file
+63. Unique Paths II_test.go,file
+632. Smallest Range Covering Elements from K Lists.go,file
+632. Smallest Range Covering Elements from K Lists_test.go,file
+633. Sum of Square Numbers.go,file
+633. Sum of Square Numbers_test.go,file
+636. Exclusive Time of Functions.go,file
+636. Exclusive Time of Functions_test.go,file
+637. Average of Levels in Binary Tree.go,file
+637. Average of Levels in Binary Tree_test.go,file
+64. Minimum Path Sum.go,file
+64. Minimum Path Sum_test.go,file
+645. Set Mismatch.go,file
+645. Set Mismatch_test.go,file
+648. Replace Words.go,file
+648. Replace Words_test.go,file
+653. Two Sum IV - Input is a BST.go,file
+653. Two Sum IV - Input is a BST_test.go,file
+658. Find K Closest Elements.go,file
+658. Find K Closest Elements_test.go,file
+66. Plus One.go,file
+66. Plus One_test.go,file
+662. Maximum Width of Binary Tree.go,file
+662. Maximum Width of Binary Tree_test.go,file
+668. Kth Smallest Number in Multiplication Table.go,file
+668. Kth Smallest Number in Multiplication Table_test.go,file
+676. Implement Magic Dictionary.go,file
+676. Implement Magic Dictionary_test.go,file
+682. Baseball Game.go,file
+682. Baseball Game_test.go,file
+684. Redundant Connection.go,file
+684. Redundant Connection_test.go,file
+685. Redundant Connection II.go,file
+685. Redundant Connection II_test.go,file
+69. Sqrt(x).go,file
+69. Sqrt(x)_test.go,file
+693. Binary Number with Alternating Bits.go,file
+693. Binary Number with Alternating Bits_test.go,file
+699. Falling Squares.go,file
+699. Falling Squares_test.go,file
+7. Reverse Integer.go,file
+7. Reverse Integer_test.go,file
+70. Climbing Stairs.go,file
+70. Climbing Stairs_test.go,file
+704. Binary Search.go,file
+704. Binary Search_test.go,file
+705. Design HashSet.go,file
+705. Design HashSet_test.go,file
+706. Design HashMap.go,file
+706. Design HashMap_test.go,file
+707. Design Linked List.go,file
+707. Design Linked List_test.go,file
+71. Simplify Path.go,file
+71. Simplify Path_test.go,file
+710. Random Pick with Blacklist.go,file
+710. Random Pick with Blacklist_test.go,file
+713. Subarray Product Less Than K.go,file
+713. Subarray Product Less Than K_test.go,file
+714. Best Time to Buy and Sell Stock with Transaction Fee.go,file
+714. Best Time to Buy and Sell Stock with Transaction Fee_test.go,file
+715. Range Module.go,file
+715. Range Module_test.go,file
+717. 1-bit and 2-bit Characters.go,file
+717. 1-bit and 2-bit Characters_test.go,file
+718. Maximum Length of Repeated Subarray.go,file
+718. Maximum Length of Repeated Subarray_test.go,file
+719. Find K-th Smallest Pair Distance.go,file
+719. Find K-th Smallest Pair Distance_test.go,file
+720. Longest Word in Dictionary.go,file
+720. Longest Word in Dictionary_test.go,file
+721. Accounts Merge.go,file
+721. Accounts Merge_test.go,file
+725. Split Linked List in Parts.go,file
+725. Split Linked List in Parts_test.go,file
+726. Number of Atoms.go,file
+726. Number of Atoms_test.go,file
+729. My Calendar I.go,file
+729. My Calendar I_test.go,file
+732. My Calendar III.go,file
+732. My Calendar III_test.go,file
+733. Flood Fill.go,file
+733. Flood Fill_test.go,file
+735. Asteroid Collision.go,file
+735. Asteroid Collision_test.go,file
+739. Daily Temperatures.go,file
+739. Daily Temperatures_test.go,file
+74. Search a 2D Matrix.go,file
+74. Search a 2D Matrix_test.go,file
+744. Find Smallest Letter Greater Than Target.go,file
+744. Find Smallest Letter Greater Than Target_test.go,file
+745. Prefix and Suffix Search.go,file
+745. Prefix and Suffix Search_test.go,file
+746. Min Cost Climbing Stairs.go,file
+746. Min Cost Climbing Stairs_test.go,file
+748. Shortest Completing Word.go,file
+748. Shortest Completing Word_test.go,file
+75. Sort Colors.go,file
+75. Sort Colors_test.go,file
+756. Pyramid Transition Matrix.go,file
+756. Pyramid Transition Matrix_test.go,file
+76. Minimum Window Substring.go,file
+76. Minimum Window Substring_test.go,file
+762. Prime Number of Set Bits in Binary Representation.go,file
+762. Prime Number of Set Bits in Binary Representation_test.go,file
+763. Partition Labels.go,file
+763. Partition Labels_test.go,file
+765. Couples Holding Hands.go,file
+765. Couples Holding Hands_test.go,file
+766. Toeplitz Matrix.go,file
+766. Toeplitz Matrix_test.go,file
+767. Reorganize String.go,file
+767. Reorganize String_test.go,file
+77. Combinations.go,file
+77. Combinations_test.go,file
+771. Jewels and Stones.go,file
+771. Jewels and Stones_test.go,file
+778. Swim in Rising Water.go,file
+778. Swim in Rising Water_test.go,file
+78. Subsets.go,file
+78. Subsets_test.go,file
+781. Rabbits in Forest.go,file
+781. Rabbits in Forest_test.go,file
+784. Letter Case Permutation.go,file
+784. Letter Case Permutation_test.go,file
+786. K-th Smallest Prime Fraction.go,file
+786. K-th Smallest Prime Fraction_test.go,file
+79. Word Search.go,file
+79. Word Search_test.go,file
+793. Preimage Size of Factorial Zeroes Function.go,file
+793. Preimage Size of Factorial Zeroes Function_test.go,file
+80. Remove Duplicates from Sorted Array II.go,file
+80. Remove Duplicates from Sorted Array II_test.go,file
+803. Bricks Falling When Hit.go,file
+803. Bricks Falling When Hit_test.go,file
+81. Search in Rotated Sorted Array II.go,file
+81. Search in Rotated Sorted Array II_test.go,file
+811. Subdomain Visit Count.go,file
+811. Subdomain Visit Count_test.go,file
+815. Bus Routes.go,file
+815. Bus Routes_test.go,file
+817. Linked List Components.go,file
+817. Linked List Components_test.go,file
+819. Most Common Word.go,file
+819. Most Common Word_test.go,file
+82. Remove Duplicates from Sorted List II.go,file
+82. Remove Duplicates from Sorted List II_test.go,file
+826. Most Profit Assigning Work.go,file
+826. Most Profit Assigning Work_test.go,file
+828. Unique Letter String.go,file
+828. Unique Letter String_test.go,file
+83. Remove Duplicates from Sorted List.go,file
+83. Remove Duplicates from Sorted List_test.go,file
+834. Sum of Distances in Tree.go,file
+834. Sum of Distances in Tree_test.go,file
+836. Rectangle Overlap.go,file
+836. Rectangle Overlap_test.go,file
+838. Push Dominoes.go,file
+838. Push Dominoes_test.go,file
+839. Similar String Groups.go,file
+839. Similar String Groups_test.go,file
+84. Largest Rectangle in Histogram.go,file
+84. Largest Rectangle in Histogram_test.go,file
+842. Split Array into Fibonacci Sequence.go,file
+842. Split Array into Fibonacci Sequence_test.go,file
+844. Backspace String Compare.go,file
+844. Backspace String Compare_test.go,file
+845. Longest Mountain in Array.go,file
+845. Longest Mountain in Array_test.go,file
+850. Rectangle Area II.go,file
+850. Rectangle Area II_test.go,file
+852. Peak Index in a Mountain Array.go,file
+852. Peak Index in a Mountain Array_test.go,file
+853. Car Fleet.go,file
+853. Car Fleet_test.go,file
+856. Score of Parentheses.go,file
+856. Score of Parentheses_test.go,file
+86. Partition List.go,file
+86. Partition List_test.go,file
+864. Shortest Path to Get All Keys.go,file
+864. Shortest Path to Get All Keys_test.go,file
+867. Transpose Matrix.go,file
+867. Transpose Matrix_test.go,file
+875. Koko Eating Bananas.go,file
+875. Koko Eating Bananas_test.go,file
+876. Middle of the Linked List.go,file
+876. Middle of the Linked List_test.go,file
+878. Nth Magical Number.go,file
+878. Nth Magical Number_test.go,file
+88. Merge Sorted Array.go,file
+88. Merge Sorted Array_test.go,file
+880. Decoded String at Index.go,file
+880. Decoded String at Index_test.go,file
+881. Boats to Save People.go,file
+881. Boats to Save People_test.go,file
+884. Uncommon Words from Two Sentences.go,file
+884. Uncommon Words from Two Sentences_test.go,file
+885. Spiral Matrix III.go,file
+885. Spiral Matrix III_test.go,file
+887. Super Egg Drop.go,file
+887. Super Egg Drop_test.go,file
+89. Gray Code.go,file
+89. Gray Code_test.go,file
+891. Sum of Subsequence Widths.go,file
+891. Sum of Subsequence Widths_test.go,file
+895. Maximum Frequency Stack.go,file
+895. Maximum Frequency Stack_test.go,file
+897. Increasing Order Search Tree.go,file
+897. Increasing Order Search Tree_test.go,file
+898. Bitwise ORs of Subarrays.go,file
+898. Bitwise ORs of Subarrays_test.go,file
+90. Subsets II.go,file
+90. Subsets II_test.go,file
+901. Online Stock Span.go,file
+901. Online Stock Span_test.go,file
+904. Fruit Into Baskets.go,file
+904. Fruit Into Baskets_test.go,file
+907. Sum of Subarray Minimums.go,file
+907. Sum of Subarray Minimums_test.go,file
+91. Decode Ways.go,file
+91. Decode Ways_test.go,file
+911. Online Election.go,file
+911. Online Election_test.go,file
+918. Maximum Sum Circular Subarray.go,file
+918. Maximum Sum Circular Subarray_test.go,file
+92. Reverse Linked List II.go,file
+92. Reverse Linked List II_test.go,file
+920. Number of Music Playlists.go,file
+920. Number of Music Playlists_test.go,file
+921. Minimum Add to Make Parentheses Valid.go,file
+921. Minimum Add to Make Parentheses Valid_test.go,file
+922. Sort Array By Parity II.go,file
+922. Sort Array By Parity II_test.go,file
+923. 3Sum With Multiplicity.go,file
+923. 3Sum With Multiplicity_test.go,file
+924. Minimize Malware Spread.go,file
+924. Minimize Malware Spread_test.go,file
+925. Long Pressed Name.go,file
+925. Long Pressed Name_test.go,file
+927. Three Equal Parts.go,file
+927. Three Equal Parts_test.go,file
+928. Minimize Malware Spread II.go,file
+928. Minimize Malware Spread II_test.go,file
+93. Restore IP Addresses.go,file
+93. Restore IP Addresses_test.go,file
+930. Binary Subarrays With Sum.go,file
+930. Binary Subarrays With Sum_test.go,file
+94. Binary Tree Inorder Traversal.go,file
+94. Binary Tree Inorder Traversal_test.go,file
+942. DI String Match.go,file
+942. DI String Match_test.go,file
+946. Validate Stack Sequences.go,file
+946. Validate Stack Sequences_test.go,file
+947. Most Stones Removed with Same Row or Column.go,file
+947. Most Stones Removed with Same Row or Column_test.go,file
+95. Unique Binary Search Trees II.go,file
+95. Unique Binary Search Trees II_test.go,file
+952. Largest Component Size by Common Factor.go,file
+952. Largest Component Size by Common Factor_test.go,file
+953. Verifying an Alien Dictionary.go,file
+953. Verifying an Alien Dictionary_test.go,file
+959. Regions Cut By Slashes.go,file
+959. Regions Cut By Slashes_test.go,file
+96. Unique Binary Search Trees.go,file
+96. Unique Binary Search Trees_test.go,file
+961. N-Repeated Element in Size 2N Array.go,file
+961. N-Repeated Element in Size 2N Array_test.go,file
+968. Binary Tree Cameras.go,file
+968. Binary Tree Cameras_test.go,file
+969. Pancake Sorting.go,file
+969. Pancake Sorting_test.go,file
+970. Powerful Integers.go,file
+970. Powerful Integers_test.go,file
+973. K Closest Points to Origin.go,file
+973. K Closest Points to Origin_test.go,file
+976. Largest Perimeter Triangle.go,file
+976. Largest Perimeter Triangle_test.go,file
+977. Squares of a Sorted Array.go,file
+977. Squares of a Sorted Array_test.go,file
+978. Longest Turbulent Subarray.go,file
+978. Longest Turbulent Subarray_test.go,file
+979. Distribute Coins in Binary Tree.go,file
+979. Distribute Coins in Binary Tree_test.go,file
+98. Validate Binary Search Tree.go,file
+98. Validate Binary Search Tree_test.go,file
+980. Unique Paths III.go,file
+980. Unique Paths III_test.go,file
+981. Time Based Key-Value Store.go,file
+981. Time Based Key-Value Store_test.go,file
+984. String Without AAA or BBB.go,file
+984. String Without AAA or BBB_test.go,file
+986. Interval List Intersections.go,file
+986. Interval List Intersections_test.go,file
+99. Recover Binary Search Tree.go,file
+99. Recover Binary Search Tree_test.go,file
+990. Satisfiability of Equality Equations.go,file
+990. Satisfiability of Equality Equations_test.go,file
+992. Subarrays with K Different Integers.go,file
+992. Subarrays with K Different Integers_test.go,file
+993. Cousins in Binary Tree.go,file
+993. Cousins in Binary Tree_test.go,file
+995. Minimum Number of K Consecutive Bit Flips.go,file
+995. Minimum Number of K Consecutive Bit Flips_test.go,file
+996. Number of Squareful Arrays.go,file
+996. Number of Squareful Arrays_test.go,file
+Algorithms,dir
+Backtracking.png,file
+Binary_Indexed_Tree.png,file
+Bit_Manipulation.png,file
+LICENSE,file
+Linked_List.png,file
+README.md,file
+SegmentTree.go,file
+Segment_Tree.png,file
+Sliding_Window.png,file
+Sort.png,file
+Stack.png,file
+Topics,dir
+Two_pointers.png,file
+UnionFind.go,file
+Union_Find.png,file
+grokking_algorithms.md,file
+logo.png,file
+note,dir
+template,dir

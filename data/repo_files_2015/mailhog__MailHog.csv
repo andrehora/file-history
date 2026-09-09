@@ -1,0 +1,15 @@
+name,type
+.travis.yml,file
+APIv1.md,file
+BUILD.md,file
+CONFIG.md,file
+DEPLOY.md,file
+Dockerfile,file
+JIM.md,file
+LICENSE.md,file
+MailHog.png,file
+Makefile,file
+README.md,file
+RELEASES.md,file
+docs,dir
+main.go,file

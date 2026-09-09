@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.mailmap,file
+.travis.yml,file
+AUTHORS.md,file
+CONTRIBUTING.md,file
+Dangerfile,file
+LICENSE,file
+Makefile,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+check-github-commit-dates.py,file
+non-free.md,file
+test.js,file
+tests,dir

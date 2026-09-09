@@ -1,0 +1,14 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+LICENSE,file
+README-fa-ir.md,file
+README-ja.md,file
+README-ko.md,file
+README-pt_BR.md,file
+README-th.md,file
+README-zh.md,file
+README-zh_TW.md,file
+README.md,file
+check-glama.yml,file
+workflows,dir

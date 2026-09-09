@@ -1,0 +1,946 @@
+name,type
+.editorconfig,file
+.env.example,file
+.eslintrc.js,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.husky,dir
+.kodiak.toml,file
+.npmrc,file
+.nvmrc,file
+.prettierignore,file
+.prettierrc,file
+.storybook,dir
+.stylelintrc,file
+API.spec.js,file
+API.ts,file
+APIError.ts,file
+APIUtils.ts,file
+AccessTokenError.ts,file
+AddNoteForm.js,file
+App,dir
+App.js,file
+AssetProxy.ts,file
+AuthenticationPage.js,file
+BitBucket Backend Editorial Workflow__can change status on and publish multiple entries.json,file
+BitBucket Backend Editorial Workflow__can change workflow status.json,file
+BitBucket Backend Editorial Workflow__can create an entry.json,file
+BitBucket Backend Editorial Workflow__can delete an entry.json,file
+BitBucket Backend Editorial Workflow__can publish an editorial workflow entry.json,file
+BitBucket Backend Editorial Workflow__can update an entry.json,file
+BitBucket Backend Editorial Workflow__can update workflow status from within the editor.json,file
+BitBucket Backend Editorial Workflow__successfully loads.json,file
+BitBucket Backend Media Library - Large Media__can delete image from global media library.json,file
+BitBucket Backend Media Library - Large Media__can publish entry with image.json,file
+BitBucket Backend Media Library - Large Media__can save entry with image.json,file
+BitBucket Backend Media Library - Large Media__can upload image from entry media library.json,file
+BitBucket Backend Media Library - Large Media__can upload image from global media library.json,file
+BitBucket Backend Media Library - Large Media__should not show draft entry image in global media library.json,file
+BitBucket Backend Media Library - Large Media__should show published entry image in global media library.json,file
+BitBucket Backend Media Library - Large Media__should show published entry image in grid view.json,file
+BitBucket Backend Media Library - REST API__can delete image from global media library.json,file
+BitBucket Backend Media Library - REST API__can publish entry with image.json,file
+BitBucket Backend Media Library - REST API__can save entry with image.json,file
+BitBucket Backend Media Library - REST API__can upload image from entry media library.json,file
+BitBucket Backend Media Library - REST API__can upload image from global media library.json,file
+BitBucket Backend Media Library - REST API__should not show draft entry image in global media library.json,file
+BitBucket Backend Media Library - REST API__should show published entry image in global media library.json,file
+BitBucket Backend Media Library - REST API__should show published entry image in grid view.json,file
+BitBucket Backend Simple Workflow__can create an entry.json,file
+BitBucket Backend Simple Workflow__successfully loads.json,file
+BlockquoteElement.js,file
+BlockquoteToolbarButton.js,file
+BooleanControl.js,file
+BreakElement.js,file
+BreakPlugin.js,file
+CHANGELOG.md,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CodeControl.js,file
+CodeLeaf.js,file
+CodePreview.js,file
+Collection,dir
+Collection.js,file
+Collection.spec.js,file
+Collection.spec.js.snap,file
+CollectionControls.js,file
+CollectionSearch.js,file
+CollectionTop.js,file
+ColorControl.js,file
+ColorPreview.js,file
+ControlButton.js,file
+Cursor.ts,file
+DateTimeControl.js,file
+DateTimeControl.spec.js,file
+DateTimePreview.js,file
+DragDrop.js,file
+DropDown,dir
+Dropdown.js,file
+Editor,dir
+Editor.js,file
+Editor.spec.js,file
+Editor.spec.js.snap,file
+EditorComponent.js,file
+EditorComponentsToolbarButton.js,file
+EditorControl.js,file
+EditorControlPane,dir
+EditorControlPane.js,file
+EditorInterface.js,file
+EditorNotesPane,dir
+EditorNotesPane.js,file
+EditorPreview.js,file
+EditorPreviewContent.js,file
+EditorPreviewPane,dir
+EditorPreviewPane.js,file
+EditorToolbar.js,file
+EditorToolbar.spec.js,file
+EditorToolbar.spec.js.snap,file
+EditorWidgets,dir
+EditorialWorkflowError.ts,file
+Element,dir
+EmptyMessage.js,file
+Entries,dir
+Entries.js,file
+EntriesCollection.js,file
+EntriesCollection.spec.js,file
+EntriesCollection.spec.js.snap,file
+EntriesSearch.js,file
+Entry.ts,file
+EntryCard.js,file
+EntryListing.js,file
+ErrorBoundary.js,file
+ErrorBoundary.spec.js,file
+ExtendedBlockquotePlugin.js,file
+FUNDING.yml,file
+FieldLabel.js,file
+FilePreview.js,file
+FileUploadButton.js,file
+FilterControl.js,file
+Git Gateway (GitHub) Backend Editorial Workflow__can change status on and publish multiple entries.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can change workflow status.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can create an entry.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can delete an entry.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can publish an editorial workflow entry.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can update an entry.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__can update workflow status from within the editor.json,file
+Git Gateway (GitHub) Backend Editorial Workflow__successfully loads.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__can delete image from global media library.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__can publish entry with image.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__can save entry with image.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__can upload image from entry media library.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__can upload image from global media library.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__should not show draft entry image in global media library.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__should show published entry image in global media library.json,file
+Git Gateway (GitHub) Backend Media Library - Large Media__should show published entry image in grid view.json,file
+Git Gateway (GitHub) Backend Simple Workflow__can create an entry.json,file
+Git Gateway (GitHub) Backend Simple Workflow__successfully loads.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can change status on and publish multiple entries.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can change workflow status.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can create an entry.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can delete an entry.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can publish an editorial workflow entry.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can update an entry.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__can update workflow status from within the editor.json,file
+Git Gateway (GitLab) Backend Editorial Workflow__successfully loads.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__can delete image from global media library.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__can publish entry with image.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__can save entry with image.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__can upload image from entry media library.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__can upload image from global media library.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__should not show draft entry image in global media library.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__should show published entry image in global media library.json,file
+Git Gateway (GitLab) Backend Media Library - Large Media__should show published entry image in grid view.json,file
+Git Gateway (GitLab) Backend Simple Workflow__can create an entry.json,file
+Git Gateway (GitLab) Backend Simple Workflow__successfully loads.json,file
+Git Gateway Backend Media Library - Large Media -- can delete image from global media library.snap.png,file
+Git Gateway Backend Media Library - Large Media -- can publish entry with image.snap.png,file
+Git Gateway Backend Media Library - Large Media -- can save entry with image.snap.png,file
+Git Gateway Backend Media Library - Large Media -- can upload image from entry media library.snap.png,file
+Git Gateway Backend Media Library - Large Media -- can upload image from global media library.snap.png,file
+Git Gateway Backend Media Library - Large Media -- should not show draft entry image in global media library.snap.png,file
+Git Gateway Backend Media Library - Large Media -- should show published entry image in global media library.snap.png,file
+Git Gateway Backend Media Library - Large Media -- should show published entry image in grid view.snap.png,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can change entry status from fork.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can create an entry on fork.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can create an entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can delete review entry from fork.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can publish an editorial workflow entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can return entry to draft and delete it.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can update a draft entry on fork.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__can update an entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__successfully forks repository and loads.json,file
+GitHub Backend Editorial Workflow - GraphQL API - Open Authoring__successfully loads.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can change status on and publish multiple entries.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can change workflow status.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can create an entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can delete an entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can publish an editorial workflow entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can update an entry.json,file
+GitHub Backend Editorial Workflow - GraphQL API__can update workflow status from within the editor.json,file
+GitHub Backend Editorial Workflow - GraphQL API__successfully loads.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can change entry status from fork.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can create an entry on fork.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can create an entry.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can delete review entry from fork.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can publish an editorial workflow entry.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can return entry to draft and delete it.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can update a draft entry on fork.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__can update an entry.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__successfully forks repository and loads.json,file
+GitHub Backend Editorial Workflow - REST API - Open Authoring__successfully loads.json,file
+GitHub Backend Editorial Workflow - REST API__can change status on and publish multiple entries.json,file
+GitHub Backend Editorial Workflow - REST API__can change workflow status.json,file
+GitHub Backend Editorial Workflow - REST API__can create an entry.json,file
+GitHub Backend Editorial Workflow - REST API__can delete an entry.json,file
+GitHub Backend Editorial Workflow - REST API__can publish an editorial workflow entry.json,file
+GitHub Backend Editorial Workflow - REST API__can update an entry.json,file
+GitHub Backend Editorial Workflow - REST API__can update workflow status from within the editor.json,file
+GitHub Backend Editorial Workflow - REST API__successfully loads.json,file
+GitHub Backend Editorial Workflow Migration - REST API__migrate from 2.10.24 to latest.json,file
+GitHub Backend Editorial Workflow Migration - REST API__migrate from 2.9.7 to latest.json,file
+GitHub Backend Media Library - GraphQL API -- can delete image from global media library.snap.png,file
+GitHub Backend Media Library - GraphQL API -- can publish entry with image.snap.png,file
+GitHub Backend Media Library - GraphQL API -- can save entry with image.snap.png,file
+GitHub Backend Media Library - GraphQL API -- can upload image from entry media library.snap.png,file
+GitHub Backend Media Library - GraphQL API -- can upload image from global media library.snap.png,file
+GitHub Backend Media Library - GraphQL API -- should not show draft entry image in global media library.snap.png,file
+GitHub Backend Media Library - GraphQL API -- should show published entry image in global media library.snap.png,file
+GitHub Backend Media Library - GraphQL API -- should show published entry image in grid view.snap.png,file
+GitHub Backend Media Library - GraphQL API__can delete image from global media library.json,file
+GitHub Backend Media Library - GraphQL API__can publish entry with image.json,file
+GitHub Backend Media Library - GraphQL API__can save entry with image.json,file
+GitHub Backend Media Library - GraphQL API__can upload image from entry media library.json,file
+GitHub Backend Media Library - GraphQL API__can upload image from global media library.json,file
+GitHub Backend Media Library - GraphQL API__should not show draft entry image in global media library.json,file
+GitHub Backend Media Library - GraphQL API__should show published entry image in global media library.json,file
+GitHub Backend Media Library - GraphQL API__should show published entry image in grid view.json,file
+GitHub Backend Media Library - REST API -- can delete image from global media library.snap.png,file
+GitHub Backend Media Library - REST API -- can publish entry with image.snap.png,file
+GitHub Backend Media Library - REST API -- can save entry with image.snap.png,file
+GitHub Backend Media Library - REST API -- can upload image from entry media library.snap.png,file
+GitHub Backend Media Library - REST API -- can upload image from global media library.snap.png,file
+GitHub Backend Media Library - REST API -- should not show draft entry image in global media library.snap.png,file
+GitHub Backend Media Library - REST API -- should show published entry image in global media library.snap.png,file
+GitHub Backend Media Library - REST API -- should show published entry image in grid view.snap.png,file
+GitHub Backend Media Library - REST API__can delete image from global media library.json,file
+GitHub Backend Media Library - REST API__can publish entry with image.json,file
+GitHub Backend Media Library - REST API__can save entry with image.json,file
+GitHub Backend Media Library - REST API__can upload image from entry media library.json,file
+GitHub Backend Media Library - REST API__can upload image from global media library.json,file
+GitHub Backend Media Library - REST API__should not show draft entry image in global media library.json,file
+GitHub Backend Media Library - REST API__should show published entry image in global media library.json,file
+GitHub Backend Media Library - REST API__should show published entry image in grid view.json,file
+GitHub Backend Simple Workflow - GraphQL API__can create an entry.json,file
+GitHub Backend Simple Workflow - GraphQL API__successfully loads.json,file
+GitHub Backend Simple Workflow - REST API__can create an entry.json,file
+GitHub Backend Simple Workflow - REST API__successfully loads.json,file
+GitHub Backend Simple Workflow__successfully loads.json,file
+GitHubAPI.spec.js,file
+GitHubAPI.ts,file
+GitLab Backend Editorial Workflow__can change status on and publish multiple entries.json,file
+GitLab Backend Editorial Workflow__can change workflow status.json,file
+GitLab Backend Editorial Workflow__can create an entry.json,file
+GitLab Backend Editorial Workflow__can delete an entry.json,file
+GitLab Backend Editorial Workflow__can publish an editorial workflow entry.json,file
+GitLab Backend Editorial Workflow__can update an entry.json,file
+GitLab Backend Editorial Workflow__can update workflow status from within the editor.json,file
+GitLab Backend Editorial Workflow__successfully loads.json,file
+GitLab Backend Media Library - REST API__can delete image from global media library.json,file
+GitLab Backend Media Library - REST API__can publish entry with image.json,file
+GitLab Backend Media Library - REST API__can save entry with image.json,file
+GitLab Backend Media Library - REST API__can upload image from entry media library.json,file
+GitLab Backend Media Library - REST API__can upload image from global media library.json,file
+GitLab Backend Media Library - REST API__should not show draft entry image in global media library.json,file
+GitLab Backend Media Library - REST API__should show published entry image in global media library.json,file
+GitLab Backend Media Library - REST API__should show published entry image in grid view.json,file
+GitLab Backend Simple Workflow__can create an entry.json,file
+GitLab Backend Simple Workflow__successfully loads.json,file
+GitLabAPI.ts,file
+GoBackButton.js,file
+GraphQLAPI.spec.js,file
+GraphQLAPI.ts,file
+GroupControl.js,file
+Header.js,file
+HeadingElement.js,file
+HeadingToolbarButton.js,file
+ISSUE_TEMPLATE,dir
+Icon,dir
+Icon.js,file
+IconButton.js,file
+ImageElement.js,file
+ImagePlugin.js,file
+ImagePreview.js,file
+LICENSE,file
+Leaf,dir
+LinkElement.js,file
+LinkToolbarButton.js,file
+ListControl.js,file
+ListControl.spec.js,file
+ListControl.spec.js.snap,file
+ListElement.js,file
+ListItemTopBar.js,file
+ListPlugin.js,file
+ListToolbarButton.js,file
+Loader.js,file
+MapPreview.js,file
+MarkToolbarButton.js,file
+MarkdownControl,dir
+MarkdownPreview.js,file
+MediaLibrary,dir
+MediaLibrary.js,file
+MediaLibraryButtons.js,file
+MediaLibraryButtons.spec.js,file
+MediaLibraryCard.js,file
+MediaLibraryCard.spec.js,file
+MediaLibraryCard.spec.js.snap,file
+MediaLibraryCardGrid.js,file
+MediaLibraryHeader.js,file
+MediaLibraryModal.js,file
+MediaLibrarySearch.js,file
+MediaLibraryTop.js,file
+Modal.js,file
+NestedCollection.js,file
+NestedCollection.spec.js,file
+NestedCollection.spec.js.snap,file
+NetlifyAuthenticationPage.js,file
+NetlifyAuthenticationPage.spec.js,file
+NetlifyAuthenticationPage.spec.js.snap,file
+NotFoundPage.js,file
+NoteItem.js,file
+NotesList.js,file
+Notifications.spec.js,file
+Notifications.tsx,file
+NumberControl.js,file
+NumberPreview.js,file
+ObjectControl.js,file
+ObjectPreview.js,file
+ObjectWidgetTopBar.js,file
+PKCEAuthenticationPage.js,file
+PULL_REQUEST_TEMPLATE.md,file
+ParagraphElement.js,file
+Photo 1-lobby_FS.jpg,file
+PreviewHOC.js,file
+README.md,file
+RawEditor.js,file
+Readme.md,file
+RelationCache.js,file
+RelationControl.js,file
+RelationPreview.js,file
+RichtextControl,dir
+RichtextControl.js,file
+RichtextPreview.js,file
+SECURITY.md,file
+SelectControl.js,file
+SelectPreview.js,file
+SettingsButton.js,file
+SettingsDropdown.js,file
+SettingsPane.js,file
+Shortcode.js,file
+ShortcodeElement.js,file
+ShortcodePlugin.js,file
+Sidebar.js,file
+Sidebar.spec.js,file
+Sidebar.spec.js.snap,file
+SortControl.js,file
+StringControl.js,file
+StringPreview.js,file
+TableCellElement.js,file
+TableElement.js,file
+TablePlugin.js,file
+TableRowElement.js,file
+Test Backend Media Library -- can delete image from global media library.snap.png,file
+Test Backend Media Library -- can publish entry with image.snap.png,file
+Test Backend Media Library -- can save entry with image.snap.png,file
+Test Backend Media Library -- can upload image from entry media library.snap.png,file
+Test Backend Media Library -- can upload image from global media library.snap.png,file
+Test Backend Media Library -- should not show draft entry image in global media library.snap.png,file
+Test Backend Media Library -- should show published entry image in global media library.snap.png,file
+Test Backend Media Library -- should show published entry image in grid view.snap.png,file
+TextControl.js,file
+TextPreview.js,file
+Toggle.js,file
+Toolbar,dir
+Toolbar.js,file
+ToolbarButton.js,file
+UI,dir
+Unknown,dir
+UnknownControl.js,file
+UnknownPreview.js,file
+UuidControl.js,file
+UuidControl.spec.js,file
+UuidPreview.js,file
+ViewStyleControl.js,file
+VisualEditor.js,file
+VisualEditor.spec.js,file
+VoidBlock.js,file
+Widget.js,file
+WidgetPreviewContainer.js,file
+Workflow,dir
+Workflow.js,file
+WorkflowCard.js,file
+WorkflowList.js,file
+__fixtures__,dir
+__mocks__,dir
+__snapshots__,dir
+__tests__,dir
+_index.js,file
+actions,dir
+add-with.svg,file
+add.svg,file
+algolia,dir
+api.spec.js,file
+apiUtils.spec.js,file
+areCurrentAndPreviousBlocksOfType.js,file
+arrow.svg,file
+assetStore,dir
+asyncLock.spec.js,file
+asyncLock.ts,file
+auth.spec.ts,file
+auth.ts,file
+azure,dir
+azure.svg,file
+babel.config.js,file
+backend.spec.js,file
+backend.ts,file
+backendUtil.spec.js,file
+backendUtil.ts,file
+backends,dir
+bg,dir
+bitbucket,dir
+bitbucket.js,file
+bitbucket.svg,file
+blocks,dir
+bold.svg,file
+bootstrap.js,file
+browserstack.png,file
+bug_report.md,file
+ca,dir
+cache.js,file
+changeListType.js,file
+check.svg,file
+chevron-double.svg,file
+chevron.svg,file
+circle.svg,file
+cleanStackMock.js,file
+close.svg,file
+cms.css,file
+code-block.svg,file
+code.svg,file
+collectionTypes.ts,file
+collectionViews.js,file
+collections.spec.js,file
+collections.ts,file
+combinedReducer.ts,file
+commands.js,file
+commit-msg,file
+commitProps.ts,file
+commitlint.config.js,file
+common,dir
+common.js,file
+commonmark.spec.js,file
+commonmarkExpected.json,file
+components,dir
+config.js,file
+config.spec.js,file
+config.ts,file
+config.yml,file
+configSchema.js,file
+configSchema.spec.js,file
+consoleError.js,file
+constants,dir
+constants.js,file
+convertParagraphToListItem.js,file
+copy.svg,file
+create-release.yml,file
+createFragmentTypes.js,file
+cs,dir
+cursors.js,file
+customValidators.ts,file
+cypress,dir
+cypress.config.ts,file
+cypressio.png,file
+da,dir
+data,dir
+de,dir
+decap-cms,dir
+decap-cms-app,dir
+decap-cms-backend-aws-cognito-github-proxy,dir
+decap-cms-backend-azure,dir
+decap-cms-backend-bitbucket,dir
+decap-cms-backend-forgejo,dir
+decap-cms-backend-git-gateway,dir
+decap-cms-backend-gitea,dir
+decap-cms-backend-github,dir
+decap-cms-backend-gitlab,dir
+decap-cms-backend-proxy,dir
+decap-cms-backend-test,dir
+decap-cms-core,dir
+decap-cms-default-exports,dir
+decap-cms-editor-component-image,dir
+decap-cms-lib-auth,dir
+decap-cms-lib-util,dir
+decap-cms-lib-widgets,dir
+decap-cms-locales,dir
+decap-cms-media-library-cloudinary,dir
+decap-cms-media-library-uploadcare,dir
+decap-cms-ui-auth,dir
+decap-cms-ui-default,dir
+decap-cms-widget-boolean,dir
+decap-cms-widget-code,dir
+decap-cms-widget-colorstring,dir
+decap-cms-widget-datetime,dir
+decap-cms-widget-file,dir
+decap-cms-widget-image,dir
+decap-cms-widget-list,dir
+decap-cms-widget-map,dir
+decap-cms-widget-markdown,dir
+decap-cms-widget-number,dir
+decap-cms-widget-object,dir
+decap-cms-widget-relation,dir
+decap-cms-widget-richtext,dir
+decap-cms-widget-select,dir
+decap-cms-widget-string,dir
+decap-cms-widget-text,dir
+decap-cms-widget-uuid,dir
+decap-server,dir
+decap.png,file
+decap.svg,file
+defaultEmptyBlock.js,file
+deploys.spec.ts,file
+deploys.ts,file
+deprecate-old-dist.js,file
+dev-test,dir
+diacritics.d.ts,file
+dismiss-local-backup.js,file
+download.svg,file
+drag-handle.svg,file
+duplicate_marks_github_issue_3280.md,file
+e2e,dir
+e2e.js,file
+editorContext.js,file
+editorialWorkflow.spec.js,file
+editorialWorkflow.ts,file
+editorial_workflow.js,file
+editorial_workflow_spec_bitbucket_backend.js,file
+editorial_workflow_spec_git-gateway_github_backend.js,file
+editorial_workflow_spec_git-gateway_gitlab_backend.js,file
+editorial_workflow_spec_github_backend_graphql.js,file
+editorial_workflow_spec_github_backend_graphql_open_authoring.js,file
+editorial_workflow_spec_github_backend_rest.js,file
+editorial_workflow_spec_github_backend_rest_open_authoring.js,file
+editorial_workflow_spec_gitlab_backend.js,file
+editorial_workflow_spec_proxy_git_backend.js,file
+editorial_workflow_spec_test_backend.js,file
+en,dir
+entries.js,file
+entries.spec.js,file
+entries.ts,file
+entryDraft.js,file
+entryDraft.spec.js,file
+es,dir
+events,dir
+example.css,file
+example.json,file
+extensions.js,file
+externals.js,file
+eye.svg,file
+fa,dir
+feature_request.md,file
+fieldInference.tsx,file
+field_validations_spec.js,file
+fileMock.js,file
+fileURLToPath.js,file
+fixtures,dir
+folder.svg,file
+forgejo,dir
+forgejo.svg,file
+formats,dir
+formats.spec.js,file
+formats.ts,file
+formatters.spec.js,file
+formatters.ts,file
+fr,dir
+fragmentTypes.js,file
+fragments.ts,file
+frontmatter.spec.js,file
+frontmatter.ts,file
+fs.spec.ts,file
+fs.ts,file
+functions,dir
+getActiveLink.js,file
+getBlobSHA.ts,file
+getCoords.js,file
+getListContainedInListItem.js,file
+getListTypeAtCursor.js,file
+getLowestAncestorList.js,file
+getLowestAncestorQuote.js,file
+git-gateway,dir
+git-lfs-client.ts,file
+git-lfs.ts,file
+gitGateway.js,file
+gitea,dir
+gitea.svg,file
+github,dir
+github.js,file
+github.svg,file
+gitlab,dir
+gitlab.js,file
+gitlab.spec.js,file
+gitlab.svg,file
+global.d.ts,file
+globalUI.js,file
+globalUI.ts,file
+gr,dir
+grid.svg,file
+h-options.svg,file
+h.js,file
+h1.svg,file
+h2.svg,file
+he,dir
+helpers.ts,file
+history.spec.ts,file
+history.ts,file
+home.svg,file
+hr,dir
+html,dir
+hu,dir
+i18n.js,file
+i18n.spec.js,file
+i18n.ts,file
+i18n_editorial_workflow_spec.js,file
+i18n_editorial_workflow_spec_test_backend.js,file
+i18n_simple_workflow_spec_proxy_fs_backend.js,file
+icons.js,file
+image.svg,file
+imageTransformations.spec.ts,file
+imageTransformations.ts,file
+images,dir
+img,dir
+immutable.ts,file
+implementation.js,file
+implementation.spec.js,file
+implementation.spec.ts,file
+implementation.ts,file
+implementation.tsx,file
+implicit-oauth.js,file
+index.d.ts,file
+index.html,file
+index.js,file
+index.spec.js,file
+index.spec.ts,file
+index.ts,file
+info-circle.svg,file
+ini.d.ts,file
+inlines,dir
+insertShortcode.js,file
+integrations,dir
+integrations.spec.ts,file
+integrations.ts,file
+isCursorAtEndOfParagraph.js,file
+isCursorAtListItemStart.js,file
+isCursorAtNoninitialParagraphStart.js,file
+isCursorAtStartOfBlockType.js,file
+isCursorAtStartOfNonEmptyHeading.js,file
+isCursorCollapsedAfterSoftBreak.js,file
+isCursorInBlockType.js,file
+isCursorInEmptyParagraph.js,file
+isCursorInListItem.js,file
+isCursorInNonDefaultBlock.js,file
+isMarkActive.js,file
+isSelectionWithinNoninitialListItem.js,file
+it,dir
+italic.svg,file
+ja,dir
+jest.config.js,file
+jest.resolver.js,file
+joi,dir
+json.ts,file
+keyDown.js,file
+keyDownBackspace.js,file
+keyDownEnter.js,file
+keyDownShiftEnter.js,file
+keyDownShiftTab.js,file
+keyDownTab.js,file
+ko,dir
+labeler.yml,file
+languageLoaders.js,file
+languageSelectStyles.js,file
+languages-raw.yml,file
+languages.json,file
+lerna.json,file
+lib,dir
+liftFirstMatchedParent.js,file
+liftListItem.js,file
+link.svg,file
+linkHandler.js,file
+list-bulleted.svg,file
+list-numbered.svg,file
+list.svg,file
+lists,dir
+loadScript.js,file
+localForage.ts,file
+localFs,dir
+localGit,dir
+locales.js,file
+locations,dir
+logger.ts,file
+lowestMatchedAncestor.js,file
+lt,dir
+main.js,file
+markdown.svg,file
+markdown_widget_backspace_spec.js,file
+markdown_widget_code_block_spec.js,file
+markdown_widget_enter_spec.js,file
+markdown_widget_hotkeys_spec.js,file
+markdown_widget_link_spec.js,file
+markdown_widget_list_spec.js,file
+markdown_widget_marks_spec.js,file
+markdown_widget_quote_spec.js,file
+matchLink.js,file
+matchedAncestors.js,file
+matchers,dir
+media,dir
+media-alt.svg,file
+media.spec.ts,file
+media.svg,file
+media.ts,file
+mediaLibrary.spec.js,file
+mediaLibrary.ts,file
+media_library.js,file
+media_library_spec_bitbucket_backend.js,file
+media_library_spec_bitbucket_backend_large_media.js,file
+media_library_spec_git-gateway_backend_large_media.js,dir
+media_library_spec_git-gateway_github_backend_large_media.js,file
+media_library_spec_git-gateway_gitlab_backend_large_media.js,file
+media_library_spec_github_backend_graphql.js,dir
+media_library_spec_github_backend_graphql.js,file
+media_library_spec_github_backend_rest.js,dir
+media_library_spec_github_backend_rest.js,file
+media_library_spec_gitlab_backend.js,file
+media_library_spec_proxy_git_backend.js,file
+media_library_spec_test_backend.js,dir
+media_library_spec_test_backend.js,file
+medias.spec.ts,file
+medias.ts,file
+mergeMediaConfig.js,file
+mergeWithPreviousListItem.js,file
+middleware,dir
+middlewares,dir
+middlewares.ts,file
+mk,dir
+moby-dick.jpg,file
+mock-server.js,file
+moveListToListItem.js,file
+mutations.ts,file
+nb_no,dir
+netlify-auth.js,file
+netlify-auth.spec.js,file
+netlify-lfs-client.ts,file
+netlify.png,file
+netlify.svg,file
+netlify.toml,file
+new-tab.svg,file
+nf-logo.png,file
+nl,dir
+nn_no,dir
+nodejs.yml,file
+notifications.ts,file
+number.spec.js,file
+nx.json,file
+open_authoring.js,file
+pack-and-install.sh,file
+package.json,file
+packages,dir
+page.svg,file
+pages-alt.svg,file
+pages.svg,file
+parser.spec.js,file
+parser.spec.js.snap,file
+pasteHandler.js,file
+pasteHandler.spec.js,file
+path.spec.js,file
+path.spec.ts,file
+path.ts,file
+phrases.js,file
+phrases.spec.js,file
+pkce-oauth.js,file
+pkce-oauth.spec.js,file
+pl,dir
+plugins,dir
+pnpm-lock.yaml,file
+pnpm-workspace.yaml,file
+polling.ts,file
+polyfill.js,file
+process-languages.js,file
+promise.ts,file
+providers,dir
+proxy,dir
+proxy.js,file
+pt,dir
+publish.js,file
+publish.yml,file
+publishModes.ts,file
+queries.ts,file
+quote.svg,file
+reducers,dir
+redux,dir
+redux.ts,file
+refresh.svg,file
+regexHelper.js,file
+regexp.js,file
+registry.js,file
+registry.spec.js,file
+rehypePaperEmoji.js,file
+relation.spec.js,file
+remarkAllowHtmlEntities.js,file
+remarkAllowHtmlEntities.spec.js,file
+remarkAssertParents.js,file
+remarkAssertParents.spec.js,file
+remarkEscapeMarkdownEntities.js,file
+remarkEscapeMarkdownEntities.spec.js,file
+remarkPaddedLinks.js,file
+remarkPaddedLinks.spec.js,file
+remarkPlugins.spec.js,file
+remarkRehypeShortcodes.js,file
+remarkShortcodes.js,file
+remarkShortcodes.spec.js,file
+remarkShortcodes.spec.js.snap,file
+remarkSlate.js,file
+remarkSlate.spec.js,file
+remarkSquashReferences.js,file
+remarkStripTrailingBreaks.js,file
+remarkStripTrailingBreaks.spec.js,file
+remarkWrapHtml.js,file
+renderer.spec.js,file
+renderers.js,file
+renovate.json,file
+revert_publish.sh,file
+richtext_widget_backspace_spec.js,file
+richtext_widget_code_block_spec.js,file
+richtext_widget_enter_spec.js,file
+richtext_widget_hotkeys_spec.js,file
+richtext_widget_link_spec.js,file
+richtext_widget_marks_spec.js,file
+ro,dir
+routing,dir
+ru,dir
+run.mjs,file
+run.spec.mjs,file
+schema.js,file
+scripts,dir
+scroll.svg,file
+search.spec.js,file
+search.svg,file
+search.ts,file
+search_suggestion_spec.js,file
+select.spec.js,file
+selectors,dir
+semaphore.d.ts,file
+serializeEntryValues.js,file
+serializeEntryValues.spec.js,file
+serializers,dir
+settings.svg,file
+setupTestFramework.js,file
+shims,dir
+shortcodes,dir
+simple_workflow.js,file
+simple_workflow_spec_bitbucket_backend.js,file
+simple_workflow_spec_git-gateway_github_backend.js,file
+simple_workflow_spec_git-gateway_gitlab_backend.js,file
+simple_workflow_spec_github_backend_graphql.js,file
+simple_workflow_spec_github_backend_rest.js,file
+simple_workflow_spec_gitlab_backend.js,file
+simple_workflow_spec_proxy_fs_backend.js,file
+simple_workflow_spec_proxy_git_backend.js,file
+simple_workflow_spec_test_backend.js,file
+sk,dir
+sl,dir
+slate.spec.js,file
+slateRemark.js,file
+snapshots,dir
+spec_utils.js,file
+splitIntoParagraph.js,file
+splitListItem.js,file
+splitToNestedList.js,file
+sponsors.yml,file
+sr_Cyrl,dir
+src,dir
+stale.yml,file
+status.ts,file
+stega.ts,file
+steps.js,file
+strikethrough.svg,file
+stringTemplate.spec.js,file
+stringTemplate.ts,file
+styleMock.js,file
+styles.js,file
+support,dir
+sv,dir
+test,dir
+test-helpers,dir
+test-package-integrity.mjs,file
+testBackend.js,file
+th,dir
+toggleBlock.js,file
+toggleLink.js,file
+toggleListType.js,file
+toggleMark.js,file
+toml.spec.js,file
+toml.ts,file
+tomlify-j0.4.d.ts,file
+tr,dir
+transforms,dir
+travis.png,file
+tsconfig.json,file
+typedListHelpers.js,file
+types,dir
+types.ts,file
+ua,dir
+uk,dir
+unsentRequest.js,file
+unsentRequest.spec.js,file
+unwrapFirstMatchedParent.js,file
+unwrapIfCursorAtStart.js,file
+unwrapLink.js,file
+unwrapSelectionFromList.js,file
+urlHelper.spec.js,file
+urlHelper.ts,file
+useDropDownCoords.js,file
+user.svg,file
+utils,dir
+utils.js,file
+utils.spec.js,file
+validationErrorTypes.js,file
+validations.ts,file
+valueObjects,dir
+vi,dir
+view_filters_spec.js,file
+view_groups_spec.js,file
+waitUntil.ts,file
+waitUntilAction.ts,file
+webpack.config.js,file
+webpack.js,file
+what-the-diff.d.ts,file
+withBlocks.js,file
+withFileControl.js,file
+withHtml.js,file
+withHtml.spec.js,file
+withInlines.js,file
+withLists.js,file
+withMapControl.js,file
+withProps.js,file
+withShortcodes.js,file
+withWorkflow.js,file
+workflow.svg,file
+workflows,dir
+wrapFirstMatchedParent.js,file
+wrapLink.js,file
+wrapListItemsInBlock.js,file
+wrapSelectionInList.js,file
+write.svg,file
+yaml.spec.js,file
+yaml.ts,file
+zh_Hans,dir
+zh_Hant,dir

@@ -1,0 +1,33 @@
+name,type
+.gitignore,file
+01. Simplest API.md,file
+02. Resource and Actions.md,file
+03. Named Resource and Actions.md,file
+04. Grouping Resources.md,file
+05. Responses.md,file
+06. Requests.md,file
+07. Parameters.md,file
+08. Attributes.md,file
+09. Advanced Attributes.md,file
+10. Data Structures.md,file
+11. Resource Model.md,file
+12. Advanced Action.md,file
+13. Named Endpoints.md,file
+14. JSON Schema.md,file
+15. Advanced JSON Schema.md,file
+API Blueprint Specification.md,file
+Advanced Tutorial.md,file
+Gist Fox API + Auth.md,file
+Gist Fox API.md,file
+Glossary of Terms.md,file
+LICENSE,file
+Polls API.md,file
+Polls Hypermedia API.md,file
+README.md,file
+Real World API.md,file
+Tutorial.md,file
+assets,dir
+examples,dir
+lifecycle.png,file
+logo_apiblueprint.png,file
+map.png,file

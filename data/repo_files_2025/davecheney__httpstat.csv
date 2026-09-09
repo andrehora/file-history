@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+Makefile,file
+README.md,file
+go.mod,file
+go.sum,file
+main.go,file
+main_test.go,file
+push.yml,file
+screenshot.png,file
+workflows,dir

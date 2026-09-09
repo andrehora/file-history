@@ -1,0 +1,5 @@
+name,type
+.editorconfig,file
+assets,dir
+logo.png,file
+readme.md,file

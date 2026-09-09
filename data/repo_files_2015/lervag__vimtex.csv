@@ -1,0 +1,42 @@
+name,type
+.gitignore,file
+README.md,file
+advanced-tocs,dir
+after,dir
+appendix.tex,file
+autoload,dir
+backmatter.tex,file
+change.vim,file
+chapters.tex,file
+complete.vim,file
+completion,dir
+doc,dir
+error-messages,dir
+file with errors.tex,file
+fold.vim,file
+frontmatter.tex,file
+ftplugin,dir
+includes,dir
+indent,dir
+latex,dir
+latex.txt,file
+latex.vim,file
+latexmk.vim,file
+latextoc.vim,file
+local1.bib,file
+local2.bib,file
+main file.tex,file
+main-with-spaces,dir
+main.tex,file
+minimal,dir
+motion.vim,file
+sec with space.tex,file
+sec1.tex,file
+sub.tex,file
+syntax,dir
+test,dir
+tex.vim,file
+toc.vim,file
+util.vim,file
+view.vim,file
+vimcomplete.bst,file

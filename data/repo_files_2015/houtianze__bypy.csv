@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+bypy.py,file
+bypygui.pyw,file
+setup.py,file

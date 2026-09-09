@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+AUTHORS,file
+COPYING,file
+ChangeLog,file
+INSTALL,file
+Makefile.am,file
+NEWS,file
+README,file
+README.md,file
+autogen.sh,file
+configure.ac,file
+piqpr8.c,file
+src,dir

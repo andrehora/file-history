@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+Fitts_Law.svg,file
+LICENSE,file
+README.md,file
+amdahls_law.png,file
+assets,dir
+banner.png,file
+banner.psd,file
+diagrams.bmpr,file
+gartner_hype_cycle.png,file
+gfw.md,file
+hicks_law.svg,file
+images,dir
+repository-open-graph-template.png,file

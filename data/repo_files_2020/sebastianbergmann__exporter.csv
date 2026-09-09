@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+.php_cs.dist,file
+.travis.yml,file
+ChangeLog.md,file
+Exporter.php,file
+ExporterTest.php,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+build.xml,file
+composer.json,file
+phpunit.xml,file
+src,dir
+tests,dir

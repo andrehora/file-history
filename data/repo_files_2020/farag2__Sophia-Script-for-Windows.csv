@@ -1,0 +1,11 @@
+name,type
+.gitattributes,file
+LICENSE,file
+README.md,file
+Screenshots,dir
+Start menu layout,dir
+Startmenu.png,file
+Startmenu.reg,file
+Win 10.ps1,file
+_config.yml,file
+read-host.png,file

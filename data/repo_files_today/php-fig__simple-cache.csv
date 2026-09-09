@@ -1,0 +1,11 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+CacheException.php,file
+CacheInterface.php,file
+InvalidArgumentException.php,file
+LICENSE.md,file
+README.md,file
+composer.json,file
+src,dir

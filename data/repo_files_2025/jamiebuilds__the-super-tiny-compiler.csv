@@ -1,0 +1,6 @@
+name,type
+LICENSE,file
+README.md,file
+package.json,file
+test.js,file
+the-super-tiny-compiler.js,file

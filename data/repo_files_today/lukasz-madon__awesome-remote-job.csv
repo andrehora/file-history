@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.es.md,file
+README.fr.md,file
+README.ja.md,file
+README.md,file
+README.zh.md,file
+check.yml,file
+workflows,dir

@@ -1,0 +1,8 @@
+name,type
+Dockerfile,file
+LICENSE.txt,file
+README.md,file
+api.py,file
+app.py,file
+docker-compose.yaml,file
+requirements.txt,file

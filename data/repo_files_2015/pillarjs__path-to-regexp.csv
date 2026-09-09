@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.travis.yml,file
+History.md,file
+LICENSE,file
+Readme.md,file
+component.json,file
+index.js,file
+package.json,file
+test.js,file

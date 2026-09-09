@@ -1,0 +1,11 @@
+name,type
+.github,dir
+Dockerfile,file
+FUNDING.yml,file
+README.md,file
+compose.yml,file
+config.json,file
+entrypoint.sh,file
+example.txt,file
+nginx.conf,file
+supervisord.conf,file

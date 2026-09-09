@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+COPYING,file
+README.textile,file
+__init__.py,file
+bees,file
+bees.py,file
+beeswithmachineguns,dir
+main.py,file
+regions.json,file
+requirements.txt,file
+setup.py,file
+test,dir

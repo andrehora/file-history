@@ -1,0 +1,13 @@
+name,type
+LICENSE,file
+README.md,file
+audio_conv_utils.py,file
+imagenet_utils.py,file
+inception_resnet_v2.py,file
+inception_v3.py,file
+mobilenet.py,file
+music_tagger_crnn.py,file
+resnet50.py,file
+vgg16.py,file
+vgg19.py,file
+xception.py,file

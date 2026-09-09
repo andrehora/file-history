@@ -1,0 +1,7 @@
+name,type
+.gitattributes,file
+.tmux.conf,file
+.tmux.conf.local,file
+LICENSE.MIT,file
+LICENSE.WTFPLv2,file
+README.md,file

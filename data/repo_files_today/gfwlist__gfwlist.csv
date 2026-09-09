@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitignore,file
+.gitmodules,file
+COPYING.txt,file
+README-EN.md,file
+README.md,file
+gfwlist.txt,file
+list.txt,file
+sendGFWList.yml,file
+workflows,dir

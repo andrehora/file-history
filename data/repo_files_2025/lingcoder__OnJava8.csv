@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+LogoMark.png,file
+QQGroupQRCode.jpg,file
+README.md,file
+assets,dir
+contribution.md,file

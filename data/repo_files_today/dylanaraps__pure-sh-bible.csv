@@ -1,0 +1,7 @@
+name,type
+.github,dir
+LICENSE.md,file
+README.md,file
+main.yml,file
+test.sh,file
+workflows,dir

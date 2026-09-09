@@ -1,0 +1,270 @@
+name,type
+.github,dir
+.gitignore,file
+3rd-party,dir
+AboutWindow.xcstrings,file
+AboutWindow.xib,file
+AboutWindowController.h,file
+AboutWindowController.m,file
+AddRule.xcstrings,file
+AddRule.xib,file
+AddRuleWindowController.h,file
+AddRuleWindowController.m,file
+AlertWindow.xcstrings,file
+AlertWindow.xib,file
+AlertWindowController.h,file
+AlertWindowController.m,file
+Alerts.h,file
+Alerts.m,file
+Ancestry.imageset,dir
+App,dir
+App.entitlements,file
+AppDelegate.h,file
+AppDelegate.m,file
+AppIcon.appiconset,dir
+Assets.xcassets,dir
+Base.lproj,dir
+Binary.h,file
+Binary.m,file
+BlockOrAllowList.h,file
+BlockOrAllowList.m,file
+Configure.h,file
+Configure.m,file
+Contents.json,file
+DMG,dir
+Extension,dir
+Extension.entitlements,file
+Extension.h,file
+Extension.m,file
+Extension.xcscheme,file
+FUNDING.yml,file
+FilterDataProvider.h,file
+FilterDataProvider.m,file
+FriendsHuntress.imageset,dir
+FriendsIru.imageset,dir
+FriendsJamf.imageset,dir
+FriendsMacPaw.imageset,dir
+FriendsMalwarebytes.imageset,dir
+FriendsPANW.imageset,dir
+FriendsRippling.imageset,dir
+FriendsiVerify.imageset,dir
+GrayList.h,file
+GrayList.m,file
+Heart.imageset,dir
+IDEWorkspaceChecks.plist,file
+Icon.imageset,dir
+Info.plist,file
+InfoPlist.xcstrings,file
+InstallAllow.imageset,dir
+InstallApprove.imageset,dir
+InstallApprove_OLD.imageset,dir
+InstallAuth.imageset,dir
+InstallBlocked.imageset,dir
+ItemPaths.xcstrings,file
+ItemPaths.xib,file
+ItemPathsWindowController.h,file
+ItemPathsWindowController.m,file
+LICENSE.md,file
+Localizable.xcstrings,file
+LoginItem Any.pdf,file
+LoginItem Dark.pdf,file
+LoginItem Light.pdf,file
+LoginItem StatusBar Active.pdf,file
+LoginItem StatusBar Inactive.pdf,file
+LuLu,dir
+LuLu.icns,file
+LuLu.xcodeproj,dir
+LuLu.xcscheme,file
+LuLuText.imageset,dir
+MainMenu.xcstrings,file
+MainMenu.xib,file
+NSApplicationKeyEvents.h,file
+NSApplicationKeyEvents.m,file
+OrderedDictionary.h,file
+OrderedDictionary.m,file
+ParentsWindowController.h,file
+ParentsWindowController.m,file
+Preferences.h,file
+Preferences.m,file
+Preferences.xcstrings,file
+Preferences.xib,file
+PrefsList.imageset,dir
+PrefsMode.imageset,dir
+PrefsProfiles.imageset,dir
+PrefsRules.imageset,dir
+PrefsUpdate.imageset,dir
+PrefsWindowController.h,file
+PrefsWindowController.m,file
+Process.h,file
+Process.m,file
+Profiles.h,file
+Profiles.m,file
+README.md,file
+README_zh-Hans.md,file
+README_zh-Hant.md,file
+Rule.h,file
+Rule.m,file
+RuleRow.h,file
+RuleRow.m,file
+Rules.h,file
+Rules.m,file
+Rules.xcstrings,file
+Rules.xib,file
+RulesAllow.imageset,dir
+RulesBlock.imageset,dir
+RulesMenuController.h,file
+RulesMenuController.m,file
+RulesSystem.imageset,dir
+RulesWindowController.h,file
+RulesWindowController.m,file
+Shared,dir
+Signed.imageset,dir
+SignedApple.imageset,dir
+SignedUnknown.imageset,dir
+SigningInfoViewController.h,file
+SigningInfoViewController.m,file
+StartupWindowController.h,file
+StartupWindowController.m,file
+StartupWindowController.xcstrings,file
+StartupWindowController.xib,file
+StatusActive.imageset,dir
+StatusBarItem.h,file
+StatusBarItem.m,file
+StatusBarPopover.xcstrings,file
+StatusBarPopover.xib,file
+StatusBarPopoverController.h,file
+StatusBarPopoverController.m,file
+StatusInactive.imageset,dir
+Tests,dir
+Unknown any.pdf,file
+Unknown dark.pdf,file
+Unknown light.pdf,file
+Unsigned.imageset,dir
+Update.h,file
+Update.m,file
+UpdateWindow.xcstrings,file
+UpdateWindow.xib,file
+UpdateWindowController.h,file
+UpdateWindowController.m,file
+VT Any-1.pdf,file
+VT Dark.pdf,file
+VT Light.pdf,file
+VTIcon.imageset,dir
+Welcome.xcstrings,file
+Welcome.xib,file
+WelcomeWindowController.h,file
+WelcomeWindowController.m,file
+XPCDaemon.h,file
+XPCDaemon.m,file
+XPCDaemonClient.h,file
+XPCDaemonClient.m,file
+XPCDaemonProto.h,file
+XPCListener.h,file
+XPCListener.m,file
+XPCUser.h,file
+XPCUser.m,file
+XPCUserClient.h,file
+XPCUserClient.m,file
+XPCUserProto.h,file
+allow.imageset,dir
+allow.png,file
+allow_es.png,file
+allow_ko.png,file
+approve.png,file
+approve_es.png,file
+approve_ko.png,file
+auth.png,file
+auth_es.png,file
+auth_ko.png,file
+background.png,file
+background.psd,file
+block Any.pdf,file
+block Dark.pdf,file
+block Light.pdf,file
+block.imageset,dir
+blocked.png,file
+blocked_es.png,file
+blocked_ko.png,file
+consts.h,file
+contents.xcworkspacedata,file
+createDMG.sh,file
+darkMode.png,file
+heart_dark.pdf,file
+heart_light-1.pdf,file
+heart_light.pdf,file
+iVerify.png,file
+icon.png,file
+icon_128x128.png,file
+icon_128x128@2x.png,file
+icon_16x16.png,file
+icon_16x16@2x.png,file
+icon_256x256.png,file
+icon_256x256@2x.png,file
+icon_32x32.png,file
+icon_32x32@2x.png,file
+icon_512x512.png,file
+icon_512x512@2x.png,file
+images,dir
+instructions.psd,file
+iru.png,file
+lightMode.png,file
+logo.png,file
+lulu.xcworkspace,dir
+lulu_text-1.pdf,file
+lulu_text-2.pdf,file
+lulu_text.pdf,file
+main.h,file
+main.m,file
+mul.lproj,dir
+objectiveSeeLogo.png,file
+objectiveSeeText.png,file
+parents any.pdf,file
+parents dark.pdf,file
+parents light.pdf,file
+patrons.txt,file
+prefsMode Any.pdf,file
+prefsMode Dark.pdf,file
+prefsMode Light.pdf,file
+prefsRules Any.pdf,file
+prefsRules Dark.pdf,file
+prefsRules Light.pdf,file
+prefsUpdate Any.pdf,file
+prefsUpdate Dark.pdf,file
+prefsUpdate Light.pdf,file
+procInfo.h,file
+profiles.png,file
+profiles@2x.png,file
+profilesDark.png,file
+profilesDark@2x.png,file
+project.pbxproj,file
+project.xcworkspace,dir
+refresh.imageset,dir
+refresh.png,file
+rippling.png,file
+rulesAllow Any.pdf,file
+rulesAllow Dark.pdf,file
+rulesAllow Light.pdf,file
+rulesRecent.imageset,dir
+rulesRecent.png,file
+rulesSystem dark.pdf,file
+rulesSystem light-1.pdf,file
+rulesSystem light.pdf,file
+rulesUnknown.imageset,dir
+rulesUnknown.png,file
+run_passive_mode_tests.sh,file
+signed Any.pdf,file
+signed Dark.pdf,file
+signed Light.pdf,file
+signedApple Any.pdf,file
+signedApple Dark.pdf,file
+signedApple Light.pdf,file
+signing.h,file
+signing.m,file
+test_passive_mode_improvements.m,file
+unsigned Any.pdf,file
+unsigned Dark.pdf,file
+unsigned Light.pdf,file
+utilities.h,file
+utilities.m,file
+xcschemes,dir
+xcshareddata,dir

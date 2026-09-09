@@ -1,0 +1,498 @@
+name,type
+.gitignore,file
+.gitmodules,file
+00_PasswordTemplate.pdf,file
+01_PackageNetworkTemplate.pdf,file
+02_MessageBoxWarningTemplate.pdf,file
+03_ServerTemplate.pdf,file
+04_KlipperTemplate.pdf,file
+05_LanguagesTemplate.pdf,file
+06_BlockDeviceTemplate.pdf,file
+07_NotepadTemplate.pdf,file
+08_SocketTemplate.pdf,file
+09_IdentityTemplate.pdf,file
+10_ContactTemplate.pdf,file
+11_CameraTemplate.pdf,file
+12_RemoteTemplate.pdf,file
+13_KeysTemplate.pdf,file
+14_BatteryTemplate.pdf,file
+15_ScannerTemplate.pdf,file
+16_BrowserTemplate.pdf,file
+17_CDRomTemplate.pdf,file
+18_DisplayTemplate.pdf,file
+19_EmailTemplate.pdf,file
+20_MiscTemplate.pdf,file
+26_FileSaveTemplate.pdf,file
+30_TerminalTemplate.pdf,file
+31_PrintTemplate.pdf,file
+43_TrashTemplate.pdf,file
+48_FolderTemplate.pdf,file
+68_PhoneTemplate.pdf,file
+99_AddFolderTemplate.pdf,file
+99_CreatedTemplate.pdf,file
+99_HarddiskTemplate.pdf,file
+99_InfoTemplate.pdf,file
+App icon,dir
+Assets,dir
+Attachments.png,file
+AutotypeCandidateSelectionWindow.xib,file
+Autotype_test.kdbx,file
+Base.lproj,dir
+C00_Password.png,file
+C01_Package_Network.png,file
+C02_MessageBox_Warning.png,file
+C03_Server.png,file
+C04_Klipper.png,file
+C05_Edu_Languages.png,file
+C06_KCMDF.png,file
+C07_Kate.png,file
+C08_Socket.png,file
+C09_Identity.png,file
+C10_Kontact.png,file
+C11_Camera.png,file
+C12_IRKickFlash.png,file
+C13_KGPG_Key3.png,file
+C14_Laptop_Power.png,file
+C15_Scanner.png,file
+C16_Mozilla_Firebird.png,file
+C17_CDROM_Unmount.png,file
+C18_Display.png,file
+C19_Mail_Generic.png,file
+C20_Misc.png,file
+C21_KOrganizer.png,file
+C22_ASCII.png,file
+C23_Icons.png,file
+C24_Connect_Established.png,file
+C25_Folder_Mail.png,file
+C26_FileSave.png,file
+C27_NFS_Unmount.png,file
+C28_QuickTime.png,file
+C29_KGPG_Term.png,file
+C30_Konsole.png,file
+C31_FilePrint.png,file
+C32_FSView.png,file
+C33_Run.png,file
+C34_Configure.png,file
+C35_KRFB.png,file
+C36_Ark.png,file
+C37_KPercentage.png,file
+C38_Samba_Unmount.png,file
+C39_History.png,file
+C40_Mail_Find.png,file
+C41_VectorGfx.png,file
+C42_KCMMemory.png,file
+C43_EditTrash.png,file
+C44_KNotes.png,file
+C45_Cancel.png,file
+C46_Help.png,file
+C47_KPackage.png,file
+C48_Folder.png,file
+C49_Folder_Blue_Open.png,file
+C50_Folder_Tar.png,file
+C51_Decrypted.png,file
+C52_Encrypted.png,file
+C53_Apply.png,file
+C54_Signature.png,file
+C55_Thumbnail.png,file
+C56_KAddressBook.png,file
+C57_View_Text.png,file
+C58_KGPG.png,file
+C59_Package_Development.png,file
+C60_KFM_Home.png,file
+C61_Services.png,file
+C62_Tux.png,file
+C63_Feather.png,file
+C64_Apple.png,file
+C65_W.png,file
+C66_Money.png,file
+C67_Certificate.png,file
+C68_BlackBerry.png,file
+CloneEntryWindow.xib,file
+ContextBar.xib,file
+CopyCustomFields.png,file
+Credits.rtf,file
+CustomFields.png,file
+CustomIcon_Password_1234.kdbx,file
+CustomIcon_Password_1234.xml,file
+DDHotKey+Keydata.h,file
+DDHotKey+Keydata.m,file
+Data,file
+Database Icons.sketch,dir
+DatabaseSettings.png,file
+DatabaseSettingsWindow.strings,file
+DatabaseSettingsWindow.xib,file
+Databases,dir
+DatePicker.png,file
+DatePickingView.strings,file
+DatePickingView.xib,file
+DocumentWindow.xib,file
+EntryInspectorView.strings,file
+EntryInspectorView.xib,file
+EntryView.xib,file
+FixAutotypeWindow.xib,file
+GeneralSettings.strings,file
+GeneralSettings.xib,file
+GroupInspectorView.strings,file
+GroupInspectorView.xib,file
+IconSelection.xib,file
+Icons,dir
+Icons 100%.PNG,file
+Icons 200%.PNG,file
+Icons as PDF files,dir
+Images,dir
+InfoPlist.strings,file
+InspectorView.strings,file
+InspectorView.xib,file
+IntegrationSettings.strings,file
+IntegrationSettings.xib,file
+KDB1_KeePassX_test.kdb,file
+KPKHashedDataTest.m,file
+KPKIconLoading.m,file
+KPKLocalizeable.strings,file
+KPKNode+IconImage.h,file
+KPKNode+IconImage.m,file
+KPKTestAutotypeNormalization.m,file
+KPKTestHexColor.m,file
+KPKTestKeyfileParsing.m,file
+KPKTestLegacyLoading.m,file
+KPKTestLegacyWriting.m,file
+KPKTestNSCoding.m,file
+KPKTestNSCopying.m,file
+KPKTestPlaceholder.m,file
+KPKTestReference.m,file
+KPKTestUUIDAdditions.m,file
+KPKTestXmlLoading.m,file
+KPKTestXmlParsing.m,file
+KPKTestXmlWriting.m,file
+KeePass1_native_test.kdb,file
+Keepass Icons.ai,file
+Keepass2Key.xml,file
+Keyfiles,dir
+LICENSE.txt,file
+Localizable.strings,file
+Locked.png,file
+MPActionHelper.h,file
+MPActionHelper.m,file
+MPAddEntryContextMenuDelegate.h,file
+MPAddEntryContextMenuDelegate.m,file
+MPAppDelegate.h,file
+MPAppDelegate.m,file
+MPAssociateRequestHandler.h,file
+MPAssociateRequestHandler.m,file
+MPAttachmentTableDataSource.h,file
+MPAttachmentTableDataSource.m,file
+MPAttachmentTableViewDelegate.h,file
+MPAttachmentTableViewDelegate.m,file
+MPAutotypeCommand.h,file
+MPAutotypeCommand.m,file
+MPAutotypeContext.h,file
+MPAutotypeContext.m,file
+MPAutotypeDaemon.h,file
+MPAutotypeDaemon.m,file
+MPAutotypeKeyPress.h,file
+MPAutotypeKeyPress.m,file
+MPAutotypePaste.h,file
+MPAutotypePaste.m,file
+MPConnection.h,file
+MPConnection.m,file
+MPConstants.h,file
+MPConstants.m,file
+MPContextBarViewController.h,file
+MPContextBarViewController.m,file
+MPContextMenuHelper.h,file
+MPContextMenuHelper.m,file
+MPContextToolbarButton.h,file
+MPContextToolbarButton.m,file
+MPCustomFieldTableCellView.h,file
+MPCustomFieldTableCellView.m,file
+MPCustomFieldTableViewDelegate.h,file
+MPCustomFieldTableViewDelegate.m,file
+MPCustomFieldView.h,file
+MPCustomFieldView.m,file
+MPDatabaseCreation.m,file
+MPDatabaseLoading.m,file
+MPDatabasePasswordAndKeyfile.m,file
+MPDatabaseSettingsWindowController.h,file
+MPDatabaseSettingsWindowController.m,file
+MPDatabaseVersion.h,file
+MPDatePickingViewController.h,file
+MPDatePickingViewController.m,file
+MPDockTileHelper.h,file
+MPDockTileHelper.m,file
+MPDocument+Attachment.h,file
+MPDocument+Attachments.m,file
+MPDocument+Autotype.h,file
+MPDocument+Autotype.m,file
+MPDocument+HistoryBrowsing.h,file
+MPDocument+HistoryBrowsing.m,file
+MPDocument+Search.h,file
+MPDocument+Search.m,file
+MPDocument.h,file
+MPDocument.m,file
+MPDocumentQueryService.h,file
+MPDocumentQueryService.m,file
+MPDocumentWindowController.h,file
+MPDocumentWindowController.m,file
+MPDocumentWindowDelegate.h,file
+MPDocumentWindowDelegate.m,file
+MPEntryContextMenuDelegate.h,file
+MPEntryContextMenuDelegate.m,file
+MPEntryInspectorViewController.h,file
+MPEntryInspectorViewController.m,file
+MPEntryTableDataSource.h,file
+MPEntryTableDataSource.m,file
+MPEntryViewController.h,file
+MPEntryViewController.m,file
+MPFixAutotypeWindowController.h,file
+MPFixAutotypeWindowController.m,file
+MPFlagsHelper.h,file
+MPGeneralSettingsController.h,file
+MPGeneralSettingsController.m,file
+MPGroupInspectorViewController.h,file
+MPGroupInspectorViewController.m,file
+MPIconHelper.h,file
+MPIconHelper.m,file
+MPIconSelectViewController.h,file
+MPIconSelectViewController.m,file
+MPInspectorViewController.h,file
+MPInspectorViewController.m,file
+MPIntegrationSettingsController.h,file
+MPIntegrationSettingsController.m,file
+MPKeyMapper.h,file
+MPKeyMapper.m,file
+MPKeyfilePathControlDelegate.h,file
+MPKeyfilePathControlDelegate.m,file
+MPLockDaemon.h,file
+MPLockDaemon.m,file
+MPNotifications.h,file
+MPNotifications.m,file
+MPNumericalInputFormatter.h,file
+MPNumericalInputFormatter.m,file
+MPOutlineContextMenuDelegate.h,file
+MPOutlineContextMenuDelegate.m,file
+MPOutlineDataSource.h,file
+MPOutlineDataSource.m,file
+MPOutlineView.h,file
+MPOutlineView.m,file
+MPOutlineViewController.h,file
+MPOutlineViewController.m,file
+MPOverlayView.h,file
+MPOverlayView.m,file
+MPOverlayWindowController.h,file
+MPOverlayWindowController.m,file
+MPPasswordCreatorViewController.h,file
+MPPasswordCreatorViewController.m,file
+MPPasswordEditWindowController.h,file
+MPPasswordEditWindowController.m,file
+MPPasswordInputController.h,file
+MPPasswordInputController.m,file
+MPPasteBoardController.h,file
+MPPasteBoardController.m,file
+MPPopupImageView.h,file
+MPPopupImageView.m,file
+MPPreviewViewController.h,file
+MPPreviewViewController.m,file
+MPRequestHandlerService.h,file
+MPRequestHandlerService.m,file
+MPSavePanelAccessoryViewController.h,file
+MPSavePanelAccessoryViewController.m,file
+MPSegmentedContextCell.h,file
+MPSegmentedContextCell.m,file
+MPSelectedAttachmentTableCellView.h,file
+MPSelectedAttachmentTableCellView.m,file
+MPServerDaemon.h,file
+MPServerDaemon.m,file
+MPServerRequestHandling.h,file
+MPSettingsHelper.h,file
+MPSettingsHelper.m,file
+MPSettingsTab.h,file
+MPSettingsWindowController.h,file
+MPSettingsWindowController.m,file
+MPShadowBox.h,file
+MPShadowBox.m,file
+MPSheetWindowController.h,file
+MPSheetWindowController.m,file
+MPStringLengthValueTransformer.h,file
+MPStringLengthValueTransformer.m,file
+MPTableView.h,file
+MPTableView.m,file
+MPTemporaryFileStorage.h,file
+MPTemporaryFileStorage.m,file
+MPTemporaryFileStorageCenter.h,file
+MPTemporaryFileStorageCenter.m,file
+MPTestAssociateRequestHandler.h,file
+MPTestAssociateRequestHandler.m,file
+MPToolbarButton.h,file
+MPToolbarButton.m,file
+MPToolbarDelegate.h,file
+MPToolbarDelegate.m,file
+MPToolbarItem.h,file
+MPToolbarItem.m,file
+MPUniqueCharactersFormatter.h,file
+MPUniqueCharactersFormatter.m,file
+MPUpdateSettingsController.h,file
+MPUpdateSettingsController.m,file
+MPValueTransformerHelper.h,file
+MPValueTransformerHelper.m,file
+MPViewController.h,file
+MPViewController.m,file
+MPWindowAssociationsTableViewDelegate.h,file
+MPWindowAssociationsTableViewDelegate.m,file
+MPWorkflowSettingsController.h,file
+MPWorkflowSettingsController.m,file
+MacPass,dir
+MacPass Icons Grayscale V5.ai,file
+MacPass Icons Grayscale V6 Compound 1.pdf,file
+MacPass Icons Grayscale V6 Compound 10.pdf,file
+MacPass Icons Grayscale V6 Compound 100.pdf,file
+MacPass Icons Grayscale V6 Compound 11.pdf,file
+MacPass Icons Grayscale V6 Compound 12.pdf,file
+MacPass Icons Grayscale V6 Compound 13.pdf,file
+MacPass Icons Grayscale V6 Compound 14.pdf,file
+MacPass Icons Grayscale V6 Compound 15.pdf,file
+MacPass Icons Grayscale V6 Compound 16.pdf,file
+MacPass Icons Grayscale V6 Compound 17.pdf,file
+MacPass Icons Grayscale V6 Compound 18.pdf,file
+MacPass Icons Grayscale V6 Compound 19.pdf,file
+MacPass Icons Grayscale V6 Compound 2.pdf,file
+MacPass Icons Grayscale V6 Compound 20.pdf,file
+MacPass Icons Grayscale V6 Compound 21.pdf,file
+MacPass Icons Grayscale V6 Compound 22.pdf,file
+MacPass Icons Grayscale V6 Compound 23.pdf,file
+MacPass Icons Grayscale V6 Compound 24.pdf,file
+MacPass Icons Grayscale V6 Compound 25.pdf,file
+MacPass Icons Grayscale V6 Compound 26.pdf,file
+MacPass Icons Grayscale V6 Compound 27.pdf,file
+MacPass Icons Grayscale V6 Compound 28.pdf,file
+MacPass Icons Grayscale V6 Compound 29.pdf,file
+MacPass Icons Grayscale V6 Compound 3.pdf,file
+MacPass Icons Grayscale V6 Compound 30.pdf,file
+MacPass Icons Grayscale V6 Compound 31.pdf,file
+MacPass Icons Grayscale V6 Compound 32.pdf,file
+MacPass Icons Grayscale V6 Compound 33.pdf,file
+MacPass Icons Grayscale V6 Compound 34.pdf,file
+MacPass Icons Grayscale V6 Compound 35.pdf,file
+MacPass Icons Grayscale V6 Compound 36.pdf,file
+MacPass Icons Grayscale V6 Compound 37.pdf,file
+MacPass Icons Grayscale V6 Compound 38.pdf,file
+MacPass Icons Grayscale V6 Compound 39.pdf,file
+MacPass Icons Grayscale V6 Compound 4.pdf,file
+MacPass Icons Grayscale V6 Compound 40.pdf,file
+MacPass Icons Grayscale V6 Compound 41.pdf,file
+MacPass Icons Grayscale V6 Compound 42.pdf,file
+MacPass Icons Grayscale V6 Compound 43.pdf,file
+MacPass Icons Grayscale V6 Compound 44.pdf,file
+MacPass Icons Grayscale V6 Compound 45.pdf,file
+MacPass Icons Grayscale V6 Compound 46.pdf,file
+MacPass Icons Grayscale V6 Compound 47.pdf,file
+MacPass Icons Grayscale V6 Compound 48.pdf,file
+MacPass Icons Grayscale V6 Compound 49.pdf,file
+MacPass Icons Grayscale V6 Compound 5.pdf,file
+MacPass Icons Grayscale V6 Compound 50.pdf,file
+MacPass Icons Grayscale V6 Compound 51.pdf,file
+MacPass Icons Grayscale V6 Compound 52.pdf,file
+MacPass Icons Grayscale V6 Compound 53.pdf,file
+MacPass Icons Grayscale V6 Compound 54.pdf,file
+MacPass Icons Grayscale V6 Compound 55.pdf,file
+MacPass Icons Grayscale V6 Compound 56.pdf,file
+MacPass Icons Grayscale V6 Compound 57.pdf,file
+MacPass Icons Grayscale V6 Compound 58.pdf,file
+MacPass Icons Grayscale V6 Compound 59.pdf,file
+MacPass Icons Grayscale V6 Compound 6.pdf,file
+MacPass Icons Grayscale V6 Compound 60.pdf,file
+MacPass Icons Grayscale V6 Compound 61.pdf,file
+MacPass Icons Grayscale V6 Compound 62.pdf,file
+MacPass Icons Grayscale V6 Compound 63.pdf,file
+MacPass Icons Grayscale V6 Compound 64.pdf,file
+MacPass Icons Grayscale V6 Compound 65.pdf,file
+MacPass Icons Grayscale V6 Compound 66.pdf,file
+MacPass Icons Grayscale V6 Compound 67.pdf,file
+MacPass Icons Grayscale V6 Compound 68.pdf,file
+MacPass Icons Grayscale V6 Compound 69.pdf,file
+MacPass Icons Grayscale V6 Compound 7.pdf,file
+MacPass Icons Grayscale V6 Compound 8.pdf,file
+MacPass Icons Grayscale V6 Compound 89.pdf,file
+MacPass Icons Grayscale V6 Compound 9.pdf,file
+MacPass Icons Grayscale V6 Compound 94.pdf,file
+MacPass Icons Grayscale V6 Compound 95.pdf,file
+MacPass Icons Grayscale V6 Compound 96.pdf,file
+MacPass Icons Grayscale V6 Compound 97.pdf,file
+MacPass Icons Grayscale V6 Compound 98.pdf,file
+MacPass Icons Grayscale V6 Compound 99.pdf,file
+MacPass Icons Grayscale V6 Compound.ai,file
+MacPass Icons Grayscale V6 Compound.pdf,file
+MacPass-Info.plist,file
+MacPass-Prefix.pch,file
+MacPass.icns,file
+MacPass.iconset,dir
+MacPass.png,file
+MacPass.xcodeproj,dir
+MacPass.xcscheme,file
+MacPassTests,dir
+MacPassTests-Info.plist,file
+MacPassTests-Prefix.pch,file
+MainMenu.strings,file
+MainMenu.xib,file
+NSDate+Humanized.h,file
+NSDate+Humanized.m,file
+NSError+Messages.h,file
+NSError+Messages.m,file
+NSString+MPPasswordCreation.h,file
+NSString+MPPasswordCreation.m,file
+Native Icons,dir
+NoInspector.png,file
+OutlineView.xib,file
+OverlayWindow.xib,file
+PSD.zip,file
+PasswordCreatorView.strings,file
+PasswordCreatorView.xib,file
+PasswordCreatorWindow.xib,file
+PasswordEditWindow.strings,file
+PasswordEditWindow.xib,file
+PasswordGenerator.png,file
+PasswordInputView.strings,file
+PasswordInputView.xib,file
+Preview.png,file
+PreviewView.xib,file
+QuickLook,dir
+README.md,file
+SavePanelAccessoryView.xib,file
+Screenshots,dir
+SetPassword.png,file
+Settings.png,file
+SettingsWindow.xib,file
+Test_Password_1234.kdb,file
+Test_Password_1234.kdbx,file
+Thumbnail.png,file
+UnprotectedWarningView.xib,file
+UpdateSettings.strings,file
+UpdateSettings.xib,file
+WelcomeWindow.xib,file
+WorkflowSettings.strings,file
+WorkflowSettings.xib,file
+addEntryTemplate.pdf,file
+buttonBar.psd,file
+contextTriangleTemplate.pdf,file
+de.lproj,dir
+dsa_sparkle_pub.pem,file
+en.lproj,dir
+fonts,file
+fr.lproj,dir
+icon_128x128.png,file
+icon_128x128@2x.png,file
+icon_16x16.png,file
+icon_16x16@2x.png,file
+icon_256x256.png,file
+icon_256x256@2x.png,file
+icon_32x32.png,file
+icon_32x32@2x.png,file
+icon_512x512.png,file
+icon_512x512@2x.png,file
+image.png,file
+main.m,file
+nl.lproj,dir
+project.pbxproj,file
+version,file
+xcschemes,dir
+xcshareddata,dir
+zh-Hans.lproj,dir

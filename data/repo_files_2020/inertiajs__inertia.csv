@@ -1,0 +1,13 @@
+name,type
+.eslintrc.js,file
+.gitignore,file
+LICENSE,file
+index.d.ts,file
+index.js,file
+inertia.js,file
+modal.js,file
+package.json,file
+progress.js,file
+readme.md,file
+should-intercept.js,file
+src,dir

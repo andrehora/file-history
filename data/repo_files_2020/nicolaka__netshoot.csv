@@ -1,0 +1,11 @@
+name,type
+Dockerfile,file
+LICENSE,file
+README.md,file
+configs,dir
+ctop.png,file
+iftop.png,file
+img,dir
+motd,file
+netshoot-calico.yaml,file
+profile,file

@@ -1,0 +1,522 @@
+name,type
+.DS_Store,file
+.github,dir
+.gitignore,file
+.gitmodules,file
+.theia,dir
+.travis.yml,file
+1.PNG,file
+2.PNG,file
+3.PNG,file
+3220-10-0300-00.lib,file
+322010030000.kicad_mod,file
+3D_ESP32 Marauder 3.8 OG PCB_2023-01-06.step,file
+503398-1892.kicad_mod,file
+503398-1892.lib,file
+5033981892.kicad_mod,file
+5033981892.lib,file
+AXP192.cpp,file
+AXP192.h,file
+Assets.h,file
+AsyncEventSource.cpp,file
+AsyncEventSource.h,file
+AsyncJson.h,file
+AsyncWebSocket.cpp,file
+AsyncWebSocket.h,file
+AsyncWebSynchronization.h,file
+BOM.ods,file
+Back.stl,file
+Battery Cover.stl,file
+BatteryInterface.cpp,file
+BatteryInterface.h,file
+BootloaderMassStorage2.hex,file
+Buffer.cpp,file
+Buffer.h,file
+CAD,dir
+CAPC1005X55N.kicad_mod,file
+CAPC1005X60N.kicad_mod,file
+CC0402KRX7R7BB104.lib,file
+CH34x_Install_Windows_v3_4.EXE,file
+CL05A105KA5NQNC.lib,file
+CL05B104KO5NNNC.lib,file
+CaptivePortal,dir
+CaptivePortal.ino,file
+CommandLine.cpp,file
+CommandLine.h,file
+DZ254S-11-10-48.lib,file
+Datasheets,dir
+Display.cpp,file
+Display.h,file
+Drivers,dir
+ESP32 Marauder V6 Backplate_external.stl,file
+ESP32 Marauder V6 Backplate_internal.stl,file
+ESP32-WROOM-32E-N4.lib,file
+ESP32WROOM32EN4.kicad_mod,file
+ESP32_Marauder_Enclosure.stl,file
+ESP32_Marauder_Enclosure_body_3_antenna_sd.stl,file
+ESP32_Marauder_Faceplate.stl,file
+ESPAsyncWebServer,dir
+ESPAsyncWebServer.h,file
+ESP_Async_WebServer.h,file
+Enclosure,dir
+Enclosure-Bottom SMA v1.stl,file
+Enclosure-Bottom.stl,file
+Enclosure-Top SMA v1.stl,file
+Enclosure-Top_v2.stl,file
+EvilPortal.cpp,file
+EvilPortal.h,file
+FUNDING.yml,file
+Filters,dir
+Filters.ino,file
+FlashFiles,dir
+Flipper Zero BFFB,dir
+Flipper Zero WiFi Devboard Pro Case - Silicone Case.f3z,file
+Flipper Zero WiFi Devboard Pro Case - Silicone Case.step,file
+FlipperZero,dir
+FlipperZero-WiFi-Devboard-Pro,dir
+FlipperZeroDevBoard,dir
+FlipperZeroMultiBoardS3,dir
+Front.stl,file
+GPIO Cover.stl,file
+GPS-Expansion-Enclosure-Top.stl,file
+GPS-Expansion-SMA-Enclosure-Top.stl,file
+Gerber and Drill,dir
+GpsInterface.cpp,file
+GpsInterface.h,file
+HUSRSP10W66P254_2500X250X850P.kicad_mod,file
+HUSRSP8W66P254_2000X250X850P.kicad_mod,file
+IMG_0124.JPG,file
+IMG_0125.JPG,file
+IMG_0126.JPG,file
+IMG_0127.JPG,file
+IMG_0128.JPG,file
+IMG_0129.JPG,file
+IMG_0130.JPG,file
+IMG_0131.JPG,file
+IMG_0132.JPG,file
+IMG_0133.JPG,file
+IMG_0134.JPG,file
+IMG_0135.JPG,file
+IMG_0136.JPG,file
+IMG_0137.JPG,file
+IMG_0420.JPG,file
+IMG_0421.JPG,file
+IMG_0423.JPG,file
+IMG_0424.JPG,file
+IMG_0425.JPG,file
+IMG_0426.JPG,file
+IMG_1838.JPG,file
+IMG_1840.JPG,file
+IMG_1841.JPG,file
+IMG_1842.JPG,file
+IMG_1844.JPG,file
+IMG_1845.JPG,file
+IMG_1848.JPG,file
+IMG_1849.JPG,file
+IMG_1851.JPG,file
+IMG_1852.JPG,file
+IMG_1853.JPG,file
+IMG_2264 - Copy.JPG,file
+IMG_2265 - Copy.JPG,file
+IMG_2266 - Copy.JPG,file
+IMG_2267 - Copy.JPG,file
+IMG_2268 - Copy.JPG,file
+IMG_2269 - Copy.JPG,file
+IMG_2270 - Copy.JPG,file
+IMG_2519 - Copy.jpg,file
+IMG_2520 - Copy.jpg,file
+IMG_3475 - Copy.jpg,file
+IMG_3484 - Copy.jpg,file
+IMG_3485 - Copy.jpg,file
+IMG_3491 - Copy.jpg,file
+IMG_5876 - Copy.jpg,file
+IMG_5877 - Copy.jpg,file
+IMG_5878 - Copy.jpg,file
+IMG_5879 - Copy.jpg,file
+IMG_7745 - Copy.jpg,file
+IMG_7746 - Copy.jpg,file
+IMG_7748 - Copy.jpg,file
+IMG_7749 - Copy.jpg,file
+IMG_7750 - Copy.jpg,file
+IMG_7751 - Copy.jpg,file
+IMG_7752 - Copy.jpg,file
+IMG_7753 - Copy.jpg,file
+ISSUE_TEMPLATE,dir
+Joystick.stl,file
+Kit,dir
+LICENSE,file
+LedInterface.cpp,file
+LedInterface.h,file
+Libraries,dir
+M6_GPS_BOTTOM_CERAMIC.step,file
+M6_GPS_BOTTOM_CERAMIC_BRASS.step,file
+M6_GPS_BOTTOM_SMA.step,file
+M6_GPS_BOTTOM_SMA_BRASS.step,file
+M6_GPS_BOTTOM_SMA_BRASS.stl,file
+MARAUDER_V6_BLANK.stl,file
+MARAUDER_V6_BOTTOM.stl,file
+MARAUDER_V6_LOGOS.stl,file
+MARAUDER_V6_TOP_BLANK.stl,file
+MARAUDER_V6_TOP_LOGO.stl,file
+MSP2807-2.8-SPI.pdf,file
+MachineScrews,dir
+Manufacturing,dir
+Marauder Screen PCB Measurements.png,file
+Marauder&Horse.dxf,file
+Marauder-Mini,dir
+Marauder-Mini-Assembly.f3z,file
+Marauder-Mini-Assembly.step,file
+Marauder-Mini_Bottom.stl,file
+Marauder-Mini_Top.stl,file
+Marauder-Mini_Top_cutout v5.stl,file
+Marauder-Mini_Top_cutout.stl,file
+MarauderMini-Bottom v11.stl,file
+MarauderMini-Bottom v12 (SMA).stl,file
+MarauderMini-Bottom v17 (Dual SMA).stl,file
+MarauderMini-Bottom v18 (Dual SMA).stl,file
+MarauderMini-Bottom v19 (Internal).stl,file
+MarauderMini-Bottom v20 (SMA).stl,file
+MarauderMini-Top Solid v2.stl,file
+MarauderMini-Top v4.stl,file
+MarauderOTA,dir
+MarauderOTA.ino,file
+MarauderV4,dir
+Marauder_Horse.svg,file
+MenuFunctions.cpp,file
+MenuFunctions.h,file
+OG-Marauder,dir
+OG-Marauder_Assembly.f3z,file
+OG-Marauder_Assembly.step,file
+OG-Marauder_Bottom.stl,file
+OG-Marauder_Top v22.stl,file
+PCB-layout-export.dxf,file
+PCB_ESP32 Marauder 3.5 Kit V3 PCB_2022-04-29.json,file
+PCB_ESP32 Marauder 3.7 OG PCB_2022-04-29.json,file
+PCB_ESP32 Marauder 6 PCB_2022-04-29.json,file
+PCBs,dir
+Pin Header - Solder Jig.f3z,file
+Pin Header - Solder Jig.step,file
+Power Switch.stl,file
+PreviousVersions,dir
+QD-TFT2803 specification_v1.1.pdf,file
+RC0402FR-0710KL.lib,file
+RC0402FR-07220RL.lib,file
+README.md,file
+RESC1005X40N.kicad_mod,file
+References,dir
+Release Bins,dir
+SDInterface.cpp,file
+SDInterface.h,file
+SKRPABE010.kicad_mod,file
+SKRPABE010.lib,file
+Schematic_ESP32 Marauder 2_ESP32 Marauder 2 Schematic_20191007113546_pdf.pdf,file
+Schematic_ESP32-Marauder-2_ESP32-Marauder-2-Schematic_20191007113616_png.png,file
+SimpleServer,dir
+SimpleServer.ino,file
+SolderJig.stl,file
+StreamConcat.h,file
+StreamFiles,dir
+StreamFiles.ino,file
+StreamString.h,file
+StringArray.h,file
+Switches.cpp,file
+Switches.h,file
+TestFile,dir
+TestFile.ino,file
+ThreadFormingScrews,dir
+User_Setup.h,file
+User_Setup_Select.h,file
+User_Setup_dual_nrf24.h,file
+User_Setup_marauder_m5stickc.h,file
+User_Setup_marauder_mini.h,file
+User_Setup_marauder_rev_feather.h,file
+User_Setup_og_marauder.h,file
+V6,dir
+V7,dir
+WS2812B-2020.lib,file
+WS2812B2020.kicad_mod,file
+WebAuthentication.cpp,file
+WebAuthentication.h,file
+WebHandlerImpl.h,file
+WebHandlers.cpp,file
+WebRequest.cpp,file
+WebResponseImpl.h,file
+WebResponses.cpp,file
+WebServer.cpp,file
+WiFi-Devboard-Pro,dir
+WiFi-Devboard-Pro-2022-12-13_161200.zip,file
+WiFi-Devboard-Pro-2022-12-13_161912.zip,file
+WiFi-Devboard-Pro-2022-12-14_175854.zip,file
+WiFi-Devboard-Pro-2022-12-14_181008.zip,file
+WiFi-Devboard-Pro-2022-12-14_183029.zip,file
+WiFi-Devboard-Pro-2022-12-14_184109.zip,file
+WiFi-Devboard-Pro-2022-12-14_184753.zip,file
+WiFi-Devboard-Pro-2022-12-15_170532.zip,file
+WiFi-Devboard-Pro-2022-12-15_171233.zip,file
+WiFi-Devboard-Pro-2022-12-15_172033.zip,file
+WiFi-Devboard-Pro-2022-12-15_172621.zip,file
+WiFi-Devboard-Pro-2022-12-15_174813.zip,file
+WiFi-Devboard-Pro-2022-12-20_154142.zip,file
+WiFi-Devboard-Pro-2022-12-20_164720.zip,file
+WiFi-Devboard-Pro-2022-12-20_175819.zip,file
+WiFi-Devboard-Pro-2022-12-21_100159.zip,file
+WiFi-Devboard-Pro-2022-12-21_101146.zip,file
+WiFi-Devboard-Pro-2023-01-02_125523.zip,file
+WiFi-Devboard-Pro-2023-01-02_131014.zip,file
+WiFi-Devboard-Pro-2023-01-02_134751.zip,file
+WiFi-Devboard-Pro-2023-01-02_142120.zip,file
+WiFi-Devboard-Pro-2023-01-02_144208.zip,file
+WiFi-Devboard-Pro-2023-01-16_011850.zip,file
+WiFi-Devboard-Pro-2023-01-17_082750.zip,file
+WiFi-Devboard-Pro-2024-07-17_184006.zip,file
+WiFi-Devboard-Pro-2024-07-21_114536.zip,file
+WiFi-Devboard-Pro-BOM.csv,file
+WiFi-Devboard-Pro-B_Cu.gbr,file
+WiFi-Devboard-Pro-B_Mask.gbr,file
+WiFi-Devboard-Pro-B_Paste.gbr,file
+WiFi-Devboard-Pro-B_Silkscreen.gbr,file
+WiFi-Devboard-Pro-Edge_Cuts.gbr,file
+WiFi-Devboard-Pro-F_Cu.gbr,file
+WiFi-Devboard-Pro-F_Mask.gbr,file
+WiFi-Devboard-Pro-F_Paste.gbr,file
+WiFi-Devboard-Pro-F_Silkscreen.gbr,file
+WiFi-Devboard-Pro-Gerber.zip,file
+WiFi-Devboard-Pro-NPTH.drl,file
+WiFi-Devboard-Pro-PTH.drl,file
+WiFi-Devboard-Pro-all-pos-EDITED.csv,file
+WiFi-Devboard-Pro-backups,dir
+WiFi-Devboard-Pro-job.gbrjob,file
+WiFi-Devboard-Pro.kicad_pcb,file
+WiFi-Devboard-Pro.kicad_prl,file
+WiFi-Devboard-Pro.kicad_pro,file
+WiFi-Devboard-Pro.kicad_sch,file
+WiFi-Devboard-Pro.xml,file
+WiFiDevBoardPro,dir
+WiFiScan.cpp,file
+WiFiScan.h,file
+X6511WVS-08H-C60D48R2.lib,file
+_config.yml,file
+attack_22.XBM,file
+attack_22.bmp,file
+badusb.XBM,file
+badusb.bmp,file
+battery_16.XBM,file
+battery_16.bmp,file
+beacon_list_22.XBM,file
+beacon_list_22.bmp,file
+beacon_sniff_22.XBM,file
+beacon_sniff_22.bmp,file
+beacon_spam_22.XBM,file
+beacon_spam_22.bmp,file
+bluetooth_22.XBM,file
+bluetooth_22.bmp,file
+bluetooth_sniff_22.XBM,file
+bluetooth_sniff_22.bmp,file
+bom2grouped_csv_jlcpcb.xsl,file
+boot_app0.bin,file
+bootloaders,dir
+bug_report.md,file
+build_push.yml,file
+clear_22.bmp,file
+config.yml,file
+configs.h,file
+data,dir
+deauth_sniff_22.XBM,file
+deauth_sniff_22.bmp,file
+device_22.XBM,file
+device_22.bmp,file
+device_info_22.XBM,file
+device_info_22.bmp,file
+disable_touch_16.bmp,file
+disable_touch_16.xbm,file
+diy.png,file
+docs,dir
+draw_22.XBM,file
+draw_22.bmp,file
+eapol_22.XBM,file
+eapol_22.bmp,file
+esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf,file
+esp32_marauder,dir
+esp32_marauder.ino,file
+esp32_marauder.ino.bootloader.bin,file
+esp32_marauder.ino.partitions.bin,file
+esp32_marauder_v0_1_20191212.bin,file
+esp32_marauder_v0_2_20200117.bin,file
+esp32_marauder_v0_3_0_20200128.bin,file
+esp32_marauder_v0_3_2_20200130.bin,file
+esp32_marauder_v0_4_0_20200130.bin,file
+esp32_marauder_v0_4_5_20200222.bin,file
+esp32_marauder_v0_5_3_20200311.bin,file
+esp32_marauder_v0_6_0_20200321.bin,file
+esp32_marauder_v0_6_2_20200324.bin,file
+esp32_marauder_v0_6_3_20200415.bin,file
+esp32_marauder_v0_6_5_20200514.bin,file
+esp32_marauder_v0_6_6_20200528_1.bin,file
+esp32_marauder_v0_6_6_20200528_6.bin,file
+esp32_marauder_v0_6_8_20200715_1.bin,file
+esp32_marauder_v0_6_8_20200715_6.bin,file
+esp32_marauder_v0_6_9_20200803_1.bin,file
+esp32_marauder_v0_6_9_20200803_6.bin,file
+esp32_marauder_v0_7_0_20200719_6.bin,file
+esp32_marauder_v0_7_0_20200819_1.bin,file
+esp32_marauder_v0_8_0_20200831_new_hardware.bin,file
+esp32_marauder_v0_8_0_20200831_old_hardware.bin,file
+esp32_marauder_v0_9_0_20210506_new_hardware.bin,file
+esp32_marauder_v0_9_0_20210506_old_hardware.bin,file
+esp32_marauder_v0_9_10_20220718_flipper.bin,file
+esp32_marauder_v0_9_10_20220718_kit.bin,file
+esp32_marauder_v0_9_10_20220718_mini.bin,file
+esp32_marauder_v0_9_10_20220718_new_hardware.bin,file
+esp32_marauder_v0_9_10_20220718_old_hardware.bin,file
+esp32_marauder_v0_9_11_20220731_flipper.bin,file
+esp32_marauder_v0_9_11_20220731_kit.bin,file
+esp32_marauder_v0_9_11_20220731_mini.bin,file
+esp32_marauder_v0_9_11_20220731_new_hardware.bin,file
+esp32_marauder_v0_9_11_20220731_old_hardware.bin,file
+esp32_marauder_v0_9_12_20220801_flipper.bin,file
+esp32_marauder_v0_9_12_20220801_kit.bin,file
+esp32_marauder_v0_9_12_20220801_mini.bin,file
+esp32_marauder_v0_9_12_20220801_new_hardware.bin,file
+esp32_marauder_v0_9_12_20220801_old_hardware.bin,file
+esp32_marauder_v0_9_13-rc1_20220802_flipper.bin,file
+esp32_marauder_v0_9_13-rc1_20220802_kit.bin,file
+esp32_marauder_v0_9_13-rc1_20220802_mini.bin,file
+esp32_marauder_v0_9_13-rc1_20220802_new_hardware.bin,file
+esp32_marauder_v0_9_13-rc1_20220802_old_hardware.bin,file
+esp32_marauder_v0_9_13_20220806_flipper.bin,file
+esp32_marauder_v0_9_13_20220806_kit.bin,file
+esp32_marauder_v0_9_13_20220806_mini.bin,file
+esp32_marauder_v0_9_13_20220806_new_hardware.bin,file
+esp32_marauder_v0_9_13_20220806_old_hardware.bin,file
+esp32_marauder_v0_9_1_20210520_new_hardware.bin,file
+esp32_marauder_v0_9_1_20210520_old_hardware.bin,file
+esp32_marauder_v0_9_3_20210724_kit.bin,file
+esp32_marauder_v0_9_3_20210724_new_hardware.bin,file
+esp32_marauder_v0_9_3_20210724_old_hardware.bin,file
+esp32_marauder_v0_9_5_20220119_kit.bin,file
+esp32_marauder_v0_9_5_20220119_new_hardware.bin,file
+esp32_marauder_v0_9_5_20220119_old_hardware.bin,file
+esp32_marauder_v0_9_6_20220528_flipper.bin,file
+esp32_marauder_v0_9_6_20220528_kit.bin,file
+esp32_marauder_v0_9_6_20220528_mini.bin,file
+esp32_marauder_v0_9_6_20220528_old_hardware.bin,file
+esp32_marauder_v0_9_7_20220528_2_flipper.bin,file
+esp32_marauder_v0_9_7_20220528_2_kit.bin,file
+esp32_marauder_v0_9_7_20220528_2_mini.bin,file
+esp32_marauder_v0_9_7_20220528_2_new_hardware.bin,file
+esp32_marauder_v0_9_7_20220528_2_old_hardware.bin,file
+esp32_marauder_v0_9_8_20220606_flipper.bin,file
+esp32_marauder_v0_9_8_20220606_kit.bin,file
+esp32_marauder_v0_9_8_20220606_mini.bin,file
+esp32_marauder_v0_9_8_20220606_new_hardware.bin,file
+esp32_marauder_v0_9_8_20220606_old_hardware.bin,file
+esp32_marauder_v0_9_9_20220628_flipper.bin,file
+esp32_marauder_v0_9_9_20220628_kit.bin,file
+esp32_marauder_v0_9_9_20220628_mini.bin,file
+esp32_marauder_v0_9_9_20220628_new_hardware.bin,file
+esp32_marauder_v0_9_9_20220628_old_hardware.bin,file
+esp32_marauder_v1_0_0_20240626_esp32_lddb.bin,file
+esp32_marauder_v1_0_0_20240626_flipper.bin,file
+esp32_marauder_v1_0_0_20240626_kit.bin,file
+esp32_marauder_v1_0_0_20240626_m5stickc_plus.bin,file
+esp32_marauder_v1_0_0_20240626_marauder_dev_board_pro.bin,file
+esp32_marauder_v1_0_0_20240626_mini.bin,file
+esp32_marauder_v1_0_0_20240626_old_hardware.bin,file
+esp32_marauder_v1_0_0_20240626_rev_feather.bin,file
+esp32_marauder_v1_0_0_20240626_v6.bin,file
+esp32_marauder_v1_0_0_20240626_v6_1.bin,file
+esp32_marauderv_0_9_6_20220528_new_hardware.bin,file
+esp32marauder_thumbnail.jpg,file
+esp_update.bmp,file
+espressif_22.XBM,file
+espressif_22.bmp,file
+esptool.exe,file
+examples,dir
+feature_request.md,file
+flash_download_tool_3.9.5.zip,file
+flipperLED.cpp,file
+flipperLED.h,file
+flipper_22.bmp,file
+flipper_22.xbm,file
+fp-info-cache,file
+general_apps_22.XBM,file
+general_apps_22.bmp,file
+generate_22.bmp,file
+gps_16.bmp,file
+gps_16.xbm,file
+gps_22.bmp,file
+gps_22.xbm,file
+icons,dir
+index.md,file
+jcmk_icon_black.png,file
+jcmk_icon_black.svg,file
+jcmk_icon_white.bmp,file
+jcmk_icon_white.jpg,file
+jcmk_square_sticker_500px.png,file
+jcmkllc.svg,file
+join_wifi_22.bmp,file
+keyboard_22.bmp,file
+lang_var.h,file
+launch.json,file
+legacy,dir
+libraries,dir
+library.json,file
+library.properties,file
+m5stack.jpg,file
+marauder screen.jfif,file
+marauder.svg,file
+marauder3L.jpg,file
+marauder3L1.jpg,file
+marauder_mini.jpg,file
+mechanical,dir
+monitor_22.XBM,file
+monitor_22.bmp,file
+no_step_on_snek.jpg,file
+odroid_marauder.jpg,file
+old_README.md,file
+pictures,dir
+platformio.ini,file
+printfiles,dir
+probe_sniff_22.XBM,file
+probe_sniff_22.bmp,file
+pwnagotchi_22.XBM,file
+pwnagotchi_22.bmp,file
+reboot_22.XBM,file
+reboot_22.bmp,file
+release_countdown.html,file
+rick_roll_22.XBM,file
+rick_roll_22.bmp,file
+scan_22.XBM,file
+scan_22.bmp,file
+schematics,dir
+sd_16.XBM,file
+sd_16.bmp,file
+sd_update_22.XBM,file
+sd_update_22.bmp,file
+settings.cpp,file
+settings.h,file
+shutdown_22.XBM,file
+shutdown_22.bmp,file
+skimmer_22.XBM,file
+skimmer_22.bmp,file
+sniff_22.XBM,file
+sniff_22.bmp,file
+src,dir
+stickcLED.cpp,file
+stickcLED.h,file
+test_bad_usb.XBM,file
+test_bad_usb.bmp,file
+update_22.XBM,file
+update_22.bmp,file
+utils.h,file
+v4(OG),dir
+v6,dir
+web_update_22.XBM,file
+web_update_22.bmp,file
+wifi-dev-board-pro-3v3-orientation.png,file
+wifi_22.XBM,file
+wifi_22.bmp,file
+workflows,dir
+xbm,dir
+xiaoLED.cpp,file
+xiaoLED.h,file

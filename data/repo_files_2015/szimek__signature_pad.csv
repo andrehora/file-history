@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.jshintrc,file
+Gruntfile.js,file
+README.md,file
+bower.json,file
+package.json,file
+signature_pad.js,file
+signature_pad.min.js,file
+src,dir

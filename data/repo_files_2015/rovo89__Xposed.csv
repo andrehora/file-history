@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+Android.mk,file
+MODULE_LICENSE_APACHE2,file
+NOTICE,file
+app_main.cpp,file
+xposed.cpp,file
+xposed.h,file
+xposed_offsets.h,file
+xposed_safemode.cpp,file
+xposed_safemode.h,file

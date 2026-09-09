@@ -1,0 +1,662 @@
+name,type
+.github,dir
+00_build_dataset.ipynb,file
+00_custom_bundle,dir
+00_data,dir
+00_data_prep.ipynb,file
+00_indicator_zoo.ipynb,file
+00_the_curse_of_dimensionality.ipynb,file
+01_NASDAQ_TotalView-ITCH_Order_Book,dir
+01_backtest_with_trades.ipynb,file
+01_boosting_baseline.ipynb,file
+01_build_and_train_feedforward_nn.ipynb,file
+01_clustering_algos.ipynb,file
+01_custom_bundles,dir
+01_decision_trees.ipynb,file
+01_deep_autoencoders.ipynb,file
+01_deep_convolutional_generative_adversarial_network.ipynb,file
+01_feature_engineering.ipynb,file
+01_filter_example.ipynb,file
+01_gridworld_dynamic_programming.ipynb,file
+01_hierarchical_risk_parity.ipynb,file
+01_latent_semantic_indexing.ipynb,file
+01_linear_dimensionality_reduction,dir
+01_linear_regression_intro.ipynb,file
+01_machine_learning_for_trading,dir
+01_machine_learning_workflow.ipynb,file
+01_manifold_learning_intro.ipynb,file
+01_multiple_testing,dir
+01_nlp_pipeline_with_spaCy.ipynb,file
+01_opentable,dir
+01_pandas_datareader_demo.ipynb,file
+01_parse_itch_order_flow_messages.ipynb,file
+01_pca_key_ideas.ipynb,file
+01_sample_selection.ipynb,file
+01_tsa_and_stationarity.ipynb,file
+01_univariate_time_series_regression.ipynb,file
+01_updating_conjugate_priors.ipynb,file
+01_using_pretrained_vectors.ipynb,file
+02_TimeGAN_TF2.ipynb,file
+02_algoseek_intraday,dir
+02_arima_models.ipynb,file
+02_backtest_with_pf_optimization.ipynb,file
+02_backtesting_with_zipline.ipynb,file
+02_bagged_decision_trees.ipynb,file
+02_common_alpha_factors.ipynb,file
+02_convolutional_denoising_autoencoders.ipynb,file
+02_digit_classification_with_lenet5.ipynb,file
+02_earnings_calls,dir
+02_evaluating_embeddings.ipynb,file
+02_fama_macbeth.ipynb,file
+02_gridworld_q_learning.ipynb,file
+02_how_to_use_talib.ipynb,file
+02_how_to_use_tensorflow.ipynb,file
+02_kmeans_implementation.ipynb,file
+02_manifold_learning,dir
+02_manifold_learning_lle.ipynb,file
+02_market_and_fundamental_data,dir
+02_mutual_information.ipynb,file
+02_nlp_with_textblob.ipynb,file
+02_pf_optimization_with_hrp_zipline_benchmark.ipynb,file
+02_probabilistic_latent_analysis.ipynb,file
+02_pymc3_workflow.ipynb,file
+02_rebuild_nasdaq_order_book.ipynb,file
+02_sklearn_gbm_tuning.ipynb,file
+02_stacked_lstm_with_feature_embeddings.ipynb,file
+02_the_math_behind_pca.ipynb,file
+02_vectorized_backtest.ipynb,file
+02_yfinance_demo.ipynb,file
+03_101_formulaic_alphas.ipynb,file
+03_alternative_data,dir
+03_arch_garch_models.ipynb,file
+03_backtesting_with_backtrader.ipynb,file
+03_bayesian_sharpe_ratio.ipynb,file
+03_bias_variance.ipynb,file
+03_clustering_algorithms,dir
+03_data_providers,dir
+03_dirichlet_distribution.ipynb,file
+03_document_term_matrix.ipynb,file
+03_evaluating_synthetic_data.ipynb,file
+03_financial_news_preprocessing.ipynb,file
+03_how_to_use_pytorch.ipynb,file
+03_image_classification_with_alexnet.ipynb,file
+03_kalman_filter_and_wavelets.ipynb,file
+03_kmeans_evaluation.ipynb,file
+03_lobster_itch_data.ipynb,file
+03_lunar_lander_deep_q_learning.ipynb,file
+03_manifold_learning_tsne_umap.ipynb,file
+03_ml4t_with_zipline.ipynb,file
+03_normalize_tick_data.ipynb,file
+03_pca_and_risk_factor_models.ipynb,file
+03_preparing_the_model_data.ipynb,file
+03_pyfolio_demo.ipynb,file
+03_random_forest_tuning.ipynb,file
+03_sklearn_gbm_tuning_results.ipynb,file
+03_stacked_lstm_with_feature_embeddings_regression.ipynb,file
+03_variational_autoencoder.ipynb,file
+04_alpha_factor_research,dir
+04_build_us_stock_dataset.ipynb,file
+04_cross_validation.py,file
+04_factor_evaluation.ipynb,file
+04_financial_news_word2vec_tensorflow.ipynb,file
+04_hierarchical_clustering.ipynb,file
+04_hierarchical_risk_parity,dir
+04_japanese_equity_features.ipynb,file
+04_lda_with_sklearn.ipynb,file
+04_manifold_learning_asset_prices.ipynb,file
+04_mean_variance_optimization.ipynb,file
+04_ml4t_workflow_with_zipline,dir
+04_multivariate_timeseries.ipynb,file
+04_news_text_classification.ipynb,file
+04_optimizing_a_NN_architecture_for_trading.ipynb,file
+04_pca_and_eigen_portfolios.ipynb,file
+04_preparing_the_model_data.ipynb,file
+04_q_learning_for_trading.ipynb,file
+04_quandl_demo.ipynb,file
+04_rolling_regression.ipynb,file
+04_sec_edgar,dir
+04_single_factor_zipline.ipynb,file
+04_statistical_inference_of_stock_returns_with_statsmodels.ipynb,file
+04_time_series_prediction.ipynb,file
+04_vector_autoregressive_model.ipynb,file
+05_alphalens_analysis.ipynb,file
+05_backtesting_with_zipline.ipynb,file
+05_cnn_for_trading_feature_engineering.ipynb,file
+05_cointegration_tests.ipynb,file
+05_conditional_autoencoder_for_asset_pricing_data.ipynb,file
+05_density_based_clustering.ipynb,file
+05_financial_news_word2vec_gensim.ipynb,file
+05_kelly_rule.ipynb,file
+05_lda_with_gensim.ipynb,file
+05_predicting_stock_returns_with_linear_regression.ipynb,file
+05_random_forest_return_signals.ipynb,file
+05_sentiment_analysis_imdb.ipynb,file
+05_sentiment_analysis_twitter.ipynb,file
+05_stochastic_volatility.ipynb,file
+05_storage_benchmark,dir
+05_strategy_evaluation,dir
+05_trading_signals_with_lightgbm_and_catboost.ipynb,file
+05_zipline_data_demo.ipynb,file
+06_alphalens_signals_quality.ipynb,file
+06_cnn_for_trading_features_to_clustered_image_format.ipynb,file
+06_conditional_autoencoder_for_asset_pricing_model.ipynb,file
+06_evaluate_trading_signals.ipynb,file
+06_evaluating_signals_using_alphalens.ipynb,file
+06_gaussian_mixture_models.ipynb,file
+06_lda_earnings_calls.ipynb,file
+06_machine_learning_process,dir
+06_performance_eval_alphalens.ipynb,file
+06_sec_preprocessing.ipynb,file
+06_sentiment_analysis_pretrained_embeddings.ipynb,file
+06_sentiment_analysis_yelp.ipynb,file
+06_statistical_arbitrage_with_cointegrated_pairs.ipynb,file
+07_alphalens_analysis.ipynb,file
+07_backtesting_with_zipline.ipynb,file
+07_cnn_for_trading.ipynb,file
+07_lda_financial_news.ipynb,file
+07_linear_models,dir
+07_logistic_regression_macro_data.ipynb,file
+07_model_interpretation.ipynb,file
+07_pairs_trading_backtest.ipynb,file
+07_sec_filings_return_prediction.ipynb,file
+07_sec_word2vec.ipynb,file
+08_backtesting_with_zipline.ipynb,file
+08_doc2vec_yelp_sentiment.ipynb,file
+08_making_out_of_sample_predictions.ipynb,file
+08_ml4t_workflow,dir
+08_predicting_price_movements_with_logistic_regression.ipynb,file
+09_backtesting_with_zipline.ipynb,file
+09_bottleneck_features.ipynb,file
+09_time_series_models,dir
+10.npy,file
+100.npy,file
+100_1000.npy,file
+100_250.npy,file
+100_3000.npy,file
+100_500.npy,file
+100_5000.npy,file
+10_1.npy,file
+10_10.npy,file
+10_1000.npy,file
+10_20.npy,file
+10_250.npy,file
+10_3000.npy,file
+10_50.npy,file
+10_500.npy,file
+10_5000.npy,file
+10_bayesian_machine_learning,dir
+10_intraday_features.ipynb,file
+10_transfer_learning.ipynb,file
+11_decision_trees_random_forests,dir
+11_intraday_model.ipynb,file
+11_satellite_images.ipynb,file
+12_gradient_boosting_machines,dir
+12_svhn_preprocessing.ipynb,file
+13_svhn_object_detection.ipynb,file
+13_unsupervised_learning,dir
+14_working_with_text_data,dir
+15.npy,file
+15_topic_modeling,dir
+16_word_embeddings,dir
+17_deep_learning,dir
+18_convolutional_neural_nets,dir
+19_recurrent_neural_nets,dir
+20.npy,file
+200.npy,file
+20_1000.npy,file
+20_250.npy,file
+20_3000.npy,file
+20_500.npy,file
+20_5000.npy,file
+20_autoencoders_for_conditional_risk_factors,dir
+21_gans_for_synthetic_time_series,dir
+22_deep_reinforcement_learning,dir
+23_next_steps,dir
+24_alpha_factor_library,dir
+25.npy,file
+25_1.npy,file
+25_10.npy,file
+25_20.npy,file
+25_3d.npy,file
+25_50.npy,file
+2_1.npy,file
+2_10.npy,file
+2_1000.npy,file
+2_20.npy,file
+2_250.npy,file
+2_3000.npy,file
+2_50.npy,file
+2_500.npy,file
+2_5000.npy,file
+30.npy,file
+30_1000.npy,file
+30_250.npy,file
+30_3000.npy,file
+30_500.npy,file
+30_5000.npy,file
+35.npy,file
+45.npy,file
+5.npy,file
+50.npy,file
+500.npy,file
+50_1.npy,file
+50_10.npy,file
+50_1000.npy,file
+50_20.npy,file
+50_250.npy,file
+50_3000.npy,file
+50_50.npy,file
+50_500.npy,file
+50_5000.npy,file
+5_1.npy,file
+5_10.npy,file
+5_1000.npy,file
+5_20.npy,file
+5_250.npy,file
+5_3000.npy,file
+5_50.npy,file
+5_500.npy,file
+5_5000.npy,file
+American_water_spaniel_00648.jpg,file
+Brittany_02625.jpg,file
+Chapter_01,dir
+Chapter_02,dir
+Chapter_03,dir
+Chapter_04,dir
+Chapter_05,dir
+Chapter_06,dir
+Chapter_07,dir
+Chapter_08,dir
+Chapter_09,dir
+Chapter_10,dir
+Chapter_11,dir
+Chapter_12,dir
+Chapter_13,dir
+Chapter_14,dir
+Chapter_15,dir
+Chapter_16,dir
+Chapter_17,dir
+Chapter_18,dir
+Chapter_19,dir
+Chapter_20,dir
+Chapter_21,dir
+Chapter_22,dir
+Chapter_23,dir
+Chapter_24 - Appendix,dir
+Curly-coated_retriever_03896.jpg,file
+Figure 1.1 - The ML4T workflow.png,file
+Figure 1.2 - The alpha factor research process.png,file
+Figure 10.1 - How evidence updates the prior to the posterior probability distribution.png,file
+Figure 10.10 - Forest and energy plot.png,file
+Figure 10.11 - Single-variable model predictions.png,file
+Figure 10.12 - The Bayesian SR in plate notation.png,file
+Figure 10.13 - The posterior distribution for the model parameters.png,file
+Figure 10.14 - The difference between two Bayesian SRs in plate notation.png,file
+Figure 10.15 - The posterior distributions for the differences between two Bayesian SRs.png,file
+Figure 10.16 - Price series and correlation over time of two pairs of trading candidates.png,file
+Figure 10.17 - Changes in intercept and slope coefficients over time.png,file
+Figure 10.18 - Rolling regression lines and price series.png,file
+Figure 10.19 - Daily S&P 500 log returns.png,file
+Figure 10.2 - Posterior distributions of the probability that the S&P 500 goes up the next day after up to 500 updates.png,file
+Figure 10.20 - Trace plot for the stochastic volatility model.png,file
+Figure 10.21 - Model.png,file
+Figure 10.3 - Mutual information between recession and leading indicators for horizons from 1-24 months.png,file
+Figure 10.4 - Leading indicator distributions by recession status.png,file
+Figure 10.5 - Bayesian logistic regression.png,file
+Figure 10.6 - Traces after 100 samples.png,file
+"Figure 10.7 - Traces after an additional 50,000 samples.png",file
+Figure 10.8 - Credible intervals for yield curve and leverage.png,file
+"Figure 10.9 - Traces after 400 and after over 200,000 samples.png",file
+Figure 11.1 - How a decision tree learns rules from data.png,file
+Figure 11.10 - Feature importance for the best regression and classification models.png,file
+Figure 11.11 - Bias-variance breakdown for individual and bagged decision trees.png,file
+Figure 11.12 - How a random forest grows individual trees.png,file
+Figure 11.13 - Random forest feature importance.png,file
+Figure 11.14 - Distribution of the daily mean information coefficient for various model configurations.png,file
+Figure 11.15 - OLS coefficients and confidence intervals for the various random forest configuration parameters.png,file
+Figure 11.16 - Alphalens factor signal evaluation.png,file
+Figure 11.17 - Pyfolio strategy evaluation.png,file
+Figure 11.2 - Mutual information for features and returns or price move direction.png,file
+Figure 11.3 - OLS results and regression tree.png,file
+Figure 11.4 - Decision surfaces for linear regression and the regression tree.png,file
+Figure 11.5 - Classification loss functions.png,file
+Figure 11.6 - Visualization of a classification tree.png,file
+Figure 11.7 - Visualization of a classification tree.png,file
+Figure 11.8 - Train and validation scores for both models.png,file
+Figure 11.9 - Learning curves for the best version of each model.png,file
+Figure 12.1 - AdaBoost cross-validation performance.png,file
+Figure 12.10 - Average and cumulative returns by factor quantile.png,file
+Figure 12.11 - Rolling IC for 1-day and 21-day return forecasts.png,file
+Figure 12.12 - LightGBM feature importance.png,file
+Figure 12.13 - Partial dependence plots for scikit-learn GradientBoostingClassifier.png,file
+Figure 12.14 - Partial dependence as a 3D plot.png,file
+Figure 12.15 - SHAP summary plots.png,file
+Figure 12.16 - SHAP force plot.png,file
+Figure 12.17 - SHAP clustered force plot.png,file
+Figure 12.18 - SHAP interaction plot.png,file
+Figure 12.2 - The gradient boosting algorithm.png,file
+Figure 12.20 - Information coefficient for high-frequency features.png,file
+Figure 12.21 - Average 1-min returns and cumulative returns by decile.png,file
+Figure 12.3 - Cross-validation performance of the scikit-learn gradient boosting classifier.png,file
+Figure 12.4 - Hyperparameter impact for the scikit-learn gradient boosting model.png,file
+Figure 12.5 - Impact of the gradient boosting model hyperparameter settings on test performance.png,file
+Figure 12.6 - Depth-wise vs leaf-wise growth.png,file
+Figure 12.7 - Predictive performance and runtimes of the various gradient boosting models.png,file
+Figure 12.8 - Overall and daily IC for the LightGBM and CatBoost models over three prediction horizons.png,file
+Figure 12.9 - Coefficient estimates and their confidence intervals for different forecast horizons.png,file
+Figure 13.1 - Nonlinear dimensionality re duction.png,file
+Figure 13.10 - Return volatility patterns captured by the first two principal components.png,file
+Figure 13.11 - Eigenportfolio weights.png,file
+Figure 13.12 - Cumulative eigenportfolio returns.png,file
+Figure 13.13 - Silhouette plots for three and four clusters.png,file
+Figure 13.14 - Dendrograms and cophenetic correlation for different dissimilarity measures.png,file
+Figure 13.15 - Comparing the DBSCAN and HDBSCAN clustering algorithms.png,file
+Figure 13.16 - Original and clustered correlation matrix.png,file
+Figure 13.17 - Cumulative returns for the different portfolios.png,file
+Figure 13.2 - The number of features required to keep the average distance constant grows exponentially with the number of dimensions.png,file
+"Figure 13.3 - Average distance of 1,000 data points in a unit hypercube.png",file
+Figure 13.4 - PCA in 2D from various perspectives.png,file
+Figure 13.5 - Visual representation of dimensionality reduction from 3D to 2D.png,file
+Figure 13.6 - The SVD decomposed.png,file
+Figure 13.7 - t-SNE and UMAP visualization of Fashion MNIST image data for different hyperparameters.png,file
+Figure 13.8 - (Cumulative) explained return variance by PCA-based risk factors.png,file
+Figure 14.1 - The NLP workflow.png,file
+Figure 14.2 - spaCy dependency tree.png,file
+Figure 14.3 - Document-term matrix and cosine similarity.png,file
+Figure 14.4 - The distributions of unique tokens and number of tokens per document.png,file
+Figure 14.5 - Accuracy of custom versus generic sentiment scores.png,file
+Figure 14.6 - Basic exploratory analysis of Yelp reviews.png,file
+"Figure 14.7 - Test performance on combined data (all models, left) and for logistic regression with varying regularization.png",file
+Figure 15.1 - LSI and the SVD.png,file
+Figure 15.10 - Most common earnings call toke ns.png,file
+Figure 15.11 - Most important words for earnings call topics.png,file
+Figure 15.12 - pyLDAVis' interactive topic explorer.png,file
+Figure 15.13 - Impact of LDA hyperparameter settings on topic quality.png,file
+Figure 15.14 - Corpus statistics for financial news data.png,file
+Figure 15.15 - Top 15 words for financial news topics.png,file
+Figure 15.2 - LSI topic weights for train and test data.png,file
+Figure 15.3 - Top 10 words per LSI topic.png,file
+Figure 15.4 - The statistical dependencies modeled by pLSA in plate notation.png,file
+Figure 15.5 - pLSA weights by topic for train and test data.png,file
+Figure 15.6 - Top words per topic for p LSA.png,file
+Figure 15.7 - Three draws from the Dirichlet distribution.png,file
+Figure 15.8 - The statistical dependencies of the LDA model in plate notation.png,file
+Figure 15.9 - Topic coherence and test set assignments.png,file
+Figure 16.1 - Continuous-bag-of-words versus skip-gram processing logic.png,file
+Figure 16.2 - Embedding vector arithmetic.png,file
+Figure 16.3 - GloVe accuracy on word2vec analogies.png,file
+Figure 16.4 - 2D visualization of selected analogy embeddings.png,file
+Figure 16.5 - 3D embeddings and metadata visualization.png,file
+Figure 16.6 - Analogy accuracy by category and for a specific example.png,file
+Figure 16.7 - Histogram of the number of tokens per review (left) and terms most similar to the token 'good'.png,file
+Figure 16.8 - Confusion matrix and test accuracy for alternative models.png,file
+Figure 17.1 - AI timeline and subfields.png,file
+Figure 17.10 - In- and out-of-sample backtest performance.png,file
+Figure 17.2 - A feedforward architecture with one hidden layer.png,file
+Figure 17.3 - Synthetic data for binary classification.png,file
+Figure 17.4 - Training loss per iteration.png,file
+Figure 17.5 - V isualizing the function learned by the neural network.png,file
+Figure 17.6 - TensorBoard learning process visualization.png,file
+Figure 17.7 - Information coefficients for various model configurations.png,file
+Figure 17.8 - OLS coefficients and confidence intervals.png,file
+Figure 17.9 - Signal quality evaluation.png,file
+Figure 18.1 - The result of basic edge filters applied to an image.png,file
+Figure 18.10 - Ten types of land use contained in the dataset.png,file
+Figure 18.11 - Cross-validation performance.png,file
+Figure 18.12 - Cropped sample images of the SVHN dataset.png,file
+Figure 18.13 - Cross-validation performance.png,file
+Figure 18.14 - Information coefficient with respect to forward return by lag.png,file
+Figure 18.15 - (Biased) out-of-sample information coefficients for best epochs.png,file
+Figure 18.16 - Technical indicators.png,file
+Figure 18.17 - Mutual information and two-dimensional grid layout for time series.png,file
+Figure 18.18 - Dendrograms for row and column features.png,file
+Figure 18.19 - Alphalens signal quality evaluation.png,file
+Figure 18.2 - Typical operations in a two-dimensional convolutional layer.png,file
+Figure 18.20 - Backtest performance in- and out-of-sample.png,file
+Figure 18.3 - From convolutions to a feature map.png,file
+Figure 18.4 - Predictive performance and computational complexity.png,file
+Figure 18.5 - MNIST sample images.png,file
+Figure 18.6 - Original and augmented samples.png,file
+Figure 18.7 - Validation performance and test accuracy on CIFAR-10.png,file
+Figure 18.8 - The VGG16 architecture.png,file
+Figure 18.9 - Cross-validation performance accuracy and cross-entropy loss.png,file
+Figure 19.1 - Various types of sequence-to-sequence models.png,file
+Figure 19.12 - Original and transformed time series.png,file
+Figure 19.13 - Cross-validation and test results for RNNs with multiple macro series.png,file
+Figure 19.14 - Cross-validation for RNN using IMDB data with custom embeddings.png,file
+Figure 19.15 - Cross-validation and test results for RNNs with multiple macro series.png,file
+Figure 19.16 - Cross-validation and test results for RNNs with multiple macro series.png,file
+Figure 19.17 - Cross-validation test results for RNNs using SEC filings to predict weekly returns.png,file
+Figure 19.2 - Recurrent and unrolled view of the computational graph of an RNN with a single hidden unit.png,file
+Figure 19.3 - Information flow through an unrolled LSTM cell.png,file
+"Figure 19.4 - The logic of, and math behind, an LSTM cell.png",file
+Figure 19.5 - The three dimensions of an RNN input tensor.png,file
+Figure 19.6 - Input-output pairs with a T=5 size window.png,file
+Figure 19.7 - Cross-validation performance.png,file
+Figure 19.8 - RNN performance on S&P 500 predictions.png,file
+Figure 19.9 - Stacked LSTM architecture with additional features.png,file
+Figure 2.1 - The share of traded value of the 50 most traded securities.png,file
+Figure 2.10 - Quandl oil price example.png,file
+Figure 2.11 - Trailing PE ratio from EDGAR filings.png,file
+Figure 2.12 - Storage benchmarks.png,file
+Figure 2.2 - AAPL market liquidity according to the order book.png,file
+Figure 2.3 - Tick bars.png,file
+Figure 2.4 - Time bars.png,file
+Figure 2.5 - Bokeh candlestick plot.png,file
+Figure 2.6 - Volume bars.png,file
+Figure 2.7 - Dollar bars.png,file
+Figure 2.8 - Plotly candlestick plot.png,file
+Figure 2.9 - Zipline data access.png,file
+Figure 20.1 - Undercomplete encoder-decoder architecture.png,file
+Figure 20.10 - Cumulative returns of quintile-based and long-short portfolios.png,file
+Figure 20.2 - Fashion MNIST sample images.png,file
+"Figure 20.3 - Sample Fashion MNIST images, original and reconstructed.png",file
+Figure 20.4 - t-SNE visualization of the Fashion MNIST autoencoder embedding.png,file
+Figure 20.5 - Denoising input and output examples.png,file
+Figure 20.6 - Number of tickers over time and per - stock characteristic.png,file
+Figure 20.7 - Conditional autoencoder architecture designed by GKX.png,file
+Figure 20.8 - Cross-validation performance for all factor and hidden-layer size combinations.png,file
+Figure 20.9 - Mean period-wise spread by prediction quintile.png,file
+Figure 21.1 - GAN architecture.png,file
+Figure 21.2 - DCGAN TensorFlow 2 model architecture.png,file
+Figure 21.3 - A sample of synthetic Fashion-MNIST images.png,file
+Figure 21.4 - The components of the TimeGAN architecture.png,file
+Figure 21.7 - 250 samples of real and synthetic data in two dimensions.png,file
+Figure 21.8 - Train and test performance of the time-series classifier over 250 epochs.png,file
+Figure 21.9 - Train and test performance of the time-series prediction model over 100 epochs.png,file
+Figure 22.1 - Components of an RL system.png,file
+Figure 22.2 - The recursive relationship expressed by the Bellman equation.png,file
+Figure 22.3 - Convergence of policy evaluation and improvement.png,file
+Figure 22.5 - RL agent's behavior during the Lunar Lander episode.png,file
+Figure 22.6 - The DDQN agent's performance in the Lunar Lander environment.png,file
+Figure 22.7 - Trading agent performance relative to the market.png,file
+Figure 23.1 - Key elements of using ML for trading.png,file
+Figure 23.2 - The ML workflow.png,file
+"Figure 3.1 - Usefulness and usage of alternative data (Source Ernst & Young, 2017).png",file
+Figure 3.2 - OpenTable data summary.png,file
+Figure 4.1 - Alpha factor research and execution workflow.png,file
+Figure 4.10 - Cumulative return by quantile for a 5-day holding period.png,file
+Figure 4.11 - Distribution of the period-wise return by factor quintile.png,file
+Figure 4.12 - Moving average of the IC for 5-day horizon.png,file
+Figure 4.13 - IC by year.png,file
+Figure 4.2 - Returns on various risk factors.png,file
+Figure 4.3 - Correlation between the VIX and the S&P 500.png,file
+Figure 4.4 - Bollinger Bands and relative strength index.png,file
+Figure 4.5 - Kalman filter as a graphical model.png,file
+Figure 4.6 - Kalman filter versus moving average.png,file
+Figure 4.7 - Daubechies wavelets.png,file
+Figure 4.8 - Wavelet denoising with different thresholds.png,file
+Figure 4.9 - Mean period return by factor quantile.png,file
+Figure 5.1 - Information ratios for different values of breadth and information coefficient.png,file
+Figure 5.2 - The efficient frontier and different optimized portfolios.png,file
+Figure 5.3 - Mean-variance vs equal-weighted portfolio performance.png,file
+Figure 5.4 - Pyfolio cumulative performance plot.png,file
+Figure 5.5 - Pyfolio performance statistic plot.png,file
+Figure 5.6 - Various pyfolio plots of performance over time.png,file
+Figure 5.7 - Pyfolio event risk analysis.png,file
+Figure 6.1 - Key steps of the machine learning workflow.png,file
+"Figure 6.10 - Train, validation, and hold-out test set.png",file
+Figure 6.11 - Validation and learning curves.png,file
+Figure 6.2 - In-sample regression errors.png,file
+Figure 6.3 - Confusion matrix and related error metrics.png,file
+"Figure 6.4 - Receiver-Operating Characteristics, Precision-Recall Curve, and F1 Scores charts.png",file
+Figure 6.5 - Pairwise scatter plots of outcome and features.png,file
+Figure 6.6 - A visual example of overfitting with polynomials.png,file
+Figure 6.7 - Errors and out-of-sample predictions for polynomials of different degrees.png,file
+Figure 6.8 - Learning curves and bias-variance tradeoff.png,file
+Figure 6.9 - Training and test set.png,file
+Figure 7.1 - Gradient descent.png,file
+Figure 7.10 - Lasso cross-validation results.png,file
+Figure 7.11 - Lasso daily IC distribution and top 10 coefficients.png,file
+Figure 7.12 - Mean and median daily IC for the three models.png,file
+Figure 7.13 - Logit regression results.png,file
+Figure 7.14 -Logistic regression.png,file
+Figure 7.2 - OLS Regression Results summary.png,file
+Figure 7.3 - Regression hyperplane.png,file
+Figure 7.4 - LinearFactorModel estimation summary.png,file
+Figure 7.5 - Residual distribution and autocorrelation plots.png,file
+Figure 7.6 - Daily and pooled IC for linear regression.png,file
+Figure 7.7 - 21-day rolling average for the daily IC and RMSE for the linear regression model.png,file
+Figure 7.8 - Ridge regression cross-validation results.png,file
+Figure 7.9 - Daily IC distribution and most important coefficients.png,file
+Figure 8.1 - The ML4T workflow.png,file
+Figure 8.10 - Zipline backtest performance with model training.png,file
+Figure 8.2 - Vectorized backtest results.png,file
+Figure 8.3 - The backtrader Cerebro architecture.png,file
+Figure 8.4 - backtrader results.png,file
+Figure 8.5 - The Zipline architecture.png,file
+Figure 8.6 - ML signal backtest using Zipline's Pipeline API.png,file
+Figure 8.7 - Zipline backtest results.png,file
+Figure 8.8 - Flowchart of Zipline backtest with model training.png,file
+Figure 8.9 - Model out-of-sample performance.png,file
+"Figure 9.1 - Time-series decomposition into trend, seasonality, and residuals.png",file
+Figure 9.10 - Transformed time series industrial production and consumer sentiment.png,file
+Figure 9.11 - VAR(1) model results.png,file
+Figure 9.12 - statsmodels VAR model diagnostic plot.png,file
+Figure 9.13 - VAR model predictions versus actuals.png,file
+"Figure 9.14 - The distribution of heuristics, broken down by the significance of both cointegration tests.png",file
+Figure 9.15 - Price series for two selected pairs over the sample period.png,file
+Figure 9.16 - Strategy performance metrics.png,file
+Figure 9.2 - Time-series transformations and unit-root test results.png,file
+Figure 9.3 - Descriptive statistics for transformed NASDAQ Composite index.png,file
+Figure 9.4 - Descri ptive statistics for transformed industrial production data.png,file
+Figure 9.5 - SARMAX model results.png,file
+Figure 9.6 - SARIMAX model diagnostics.png,file
+Figure 9.7 - Daily NASDAQ composite volatility.png,file
+Figure 9.8 - GARCH Model results.png,file
+Figure 9.9 - Interactions in univariate and multivariate time-series models.png,file
+Figure A.1 - Comparison of MAs for AAPL closing price.png,file
+Figure A.10 - Smoothed and unsmoothed StochRSI series for the AAPL stock price.png,file
+Figure A.11 - STOCH series for the AAPL stock price.png,file
+Figure A.12 - ULTOSC series for the AAPL stock price.png,file
+Figure A.13 - WILLR series for the AAPL stock price.png,file
+Figure A.14 - ADOSC series for the AAPL stock price.png,file
+Figure A.15 - ATR series for the AAPL stock price.png,file
+Figure A.16 - Alpha 001 histogram and scatter plot.png,file
+Figure A.17 - SHAP values for common and formulaic alphas.png,file
+Figure A.18 - Rank correlation of performance metrics.png,file
+Figure A.19 - Top 25 features for each performance metric.png,file
+Figure A.2 - Bollinger Bands for AAPL close price in 2012.png,file
+Figure A.20 - Alphalens performance metric for Alpha 54.png,file
+Figure A.3 - Normalized Bollinger Band indicators.png,file
+Figure A.4 - Distribution of normalized Bollinger Band indicators.png,file
+Figure A.5 - Parabolic SAR for AAPL stock price.png,file
+Figure A.6 - PLUS_DMMINUS_DM for AAPL stock price.png,file
+Figure A.7 - ADX for the AAPL stock price series.png,file
+Figure A.8 - Aroon Oscillator for the AAPL stock price series.png,file
+Figure A.9 - The three MACD series for the AAPL stock price series.png,file
+ISSUE_TEMPLATE,dir
+Labrador_retriever_06449.jpg,file
+Labrador_retriever_06455.jpg,file
+Labrador_retriever_06457.jpg,file
+README.md,file
+TED,dir
+TED2013_sample.en,file
+TED2013_sample.es,file
+Welsh_springer_spaniel_08203.jpg,file
+__init__.py,file
+_config.yml,file
+algo_trading_workflow.png,file
+algoseek_1min_trades.py,file
+algoseek_minute_data.ipynb,file
+algoseek_preprocessing.py,file
+alpha_factor_workflow.png,file
+analogies-en.txt,file
+assets,dir
+bbc.zip,file
+bug_report.md,file
+building.png,file
+cerebro.png,file
+check_data.py,file
+create_datasets.ipynb,file
+create_stooq_data.ipynb,file
+create_yelp_review_data.ipynb,file
+data,dir
+data_prep.py,file
+deflated_sharpe_ratio.py,file
+earnings_calls.zip,file
+edgar_xbrl.ipynb,file
+extension.py,file
+extensions.py,file
+fashion,dir
+figures,dir
+filing_index.csv,file
+financial_news,dir
+glove_word_vectors.ipynb,file
+images,dir
+img_input,dir
+installation,dir
+items.py,file
+kc_house_data.csv,file
+labels.npy,file
+lda_multicore_test_results.csv,file
+linux,dir
+lle,dir
+lunar_lander.png,file
+macosx,dir
+mdp.png,file
+message_types.xlsx,file
+middlewares.py,file
+ml4t-base.txt,file
+ml4t-base.yml,file
+ml4t.txt,file
+ml4t.yml,file
+ml4t_cover.png,file
+ml4t_workflow.png,file
+mnist,dir
+modified,dir
+opentable,dir
+opentable_selenium.py,file
+pipeline.svg,file
+pipelines.py,file
+results,dir
+sa_selenium.py,file
+scrape_test.py,file
+scrapy.cfg,file
+sec-filings,dir
+selenium_setup.sh,file
+settings.py,file
+sklearn_gbm_gridsearch.joblib,file
+spaCy-architecture.svg,file
+spacy,file
+spacy.jpg,file
+spiders,dir
+standard,dir
+stooq_jp_stocks.py,file
+stooq_preprocessing.py,file
+storage_benchmark.ipynb,file
+swiss_roll,dir
+table_spider.py,file
+timeseries_windowing.gif,file
+trading_env.py,file
+tsne,dir
+twitter_sentiment.ipynb,file
+umap,dir
+us_equities_meta_data.csv,file
+user_agents.txt,file
+utils.py,file
+wiki_stocks.csv,file
+windows,dir
+zip_pipe_flow.png,file
+zip_pipe_model_flow.png,file
+zipline.png,file

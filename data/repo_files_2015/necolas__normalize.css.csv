@@ -1,0 +1,10 @@
+name,type
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+bower.json,file
+component.json,file
+normalize.css,file
+package.json,file
+test.html,file

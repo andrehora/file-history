@@ -1,0 +1,9 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+azure-pipelines.yml,file
+generate.sh,file
+go.yml,file
+main.go,file
+workflows,dir

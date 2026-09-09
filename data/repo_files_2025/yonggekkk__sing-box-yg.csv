@@ -1,0 +1,8 @@
+name,type
+README.md,file
+sb.sh,file
+sbwpph_amd64,file
+sbwpph_arm64,file
+serv00.sh,file
+serv00keep.sh,file
+version,file

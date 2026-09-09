@@ -1,0 +1,6 @@
+name,type
+.github,dir
+.travis.yml,file
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file

@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+CONTRIBUTING.md,file
+HISTORY.md,file
+NOTES.md,file
+README.md,file
+bower.json,file
+component.json,file
+index.html,file
+jquery.transit.js,file
+package.json,file
+style.css,file
+test,dir
+test.js,file

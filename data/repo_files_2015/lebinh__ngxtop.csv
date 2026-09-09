@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+LICENSE.txt,file
+README.rst,file
+__init__.py,file
+config_parser.py,file
+ngxtop,dir
+ngxtop.py,file
+setup.cfg,file
+setup.py,file
+test_config_parser.py,file
+tests,dir
+utils.py,file

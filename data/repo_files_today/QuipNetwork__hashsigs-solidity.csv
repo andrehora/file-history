@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.gitlab-ci.yml,file
+.gitmodules,file
+COPYING,file
+README.md,file
+WOTSPlus.sol,file
+WOTSPlus.t.sol,file
+contracts,dir
+foundry.toml,file
+lib,dir
+package.json,file
+test,dir
+test_vectors,dir
+wotsplus_keccak256.json,file

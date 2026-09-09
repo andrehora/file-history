@@ -1,0 +1,776 @@
+name,type
+.coffee.internal.sed,file
+.editorconfig,file
+.github,dir
+.gitignore,file
+.releaserc.json,file
+4ColorGradation.unity,file
+4ColorGradation.unity.meta,file
+AddressableAssetSettings.asset,file
+AddressableAssetSettings.asset.meta,file
+AddressableAssetsData,dir
+AddressableAssetsData.meta,file
+AllocTest,dir
+AllocTest.cs,file
+AllocTest.cs.meta,file
+AllocTest.meta,file
+AllocTest.unity,file
+AllocTest.unity.meta,file
+AssetGroupTemplates,dir
+AssetGroupTemplates.meta,file
+AssetGroups,dir
+AssetGroups.meta,file
+Assets,dir
+AudioManager.asset,file
+Base,dir
+Base.meta,file
+Blend Mode-Additive.asset,file
+Blend Mode-Additive.asset.meta,file
+Blend Mode-Alpha Blend.asset,file
+Blend Mode-Alpha Blend.asset.meta,file
+Blend Mode-Multiply Additive.asset,file
+Blend Mode-Multiply Additive.asset.meta,file
+Blend Mode-Multiply.asset,file
+Blend Mode-Multiply.asset.meta,file
+Blend Mode-Soft Additive.asset,file
+Blend Mode-Soft Additive.asset.meta,file
+BlurMode.cs,file
+BlurMode.cs.meta,file
+BuildScriptFastMode.asset,file
+BuildScriptFastMode.asset.meta,file
+BuildScriptPackedMode.asset,file
+BuildScriptPackedMode.asset.meta,file
+BuildScriptPackedPlayMode.asset,file
+BuildScriptPackedPlayMode.asset.meta,file
+BuildScriptVirtualMode.asset,file
+BuildScriptVirtualMode.asset.meta,file
+Built In Data.asset,file
+Built In Data.asset.meta,file
+Built In Data_PlayerDataGroupSchema.asset,file
+Built In Data_PlayerDataGroupSchema.asset.meta,file
+BuiltInUIEffectSubTarget.cs,file
+BuiltInUIEffectSubTarget.cs.meta,file
+CHANGELOG.md,file
+CHANGELOG.md.meta,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CarterOne-Regular SDF - Mobile.mat,file
+CarterOne-Regular SDF - Mobile.mat.meta,file
+CarterOne-Regular SDF - Outline.mat,file
+CarterOne-Regular SDF - Outline.mat.meta,file
+CarterOne-Regular SDF Overlay Mobile.mat,file
+CarterOne-Regular SDF Overlay Mobile.mat.meta,file
+CarterOne-Regular SDF Overlay.mat,file
+CarterOne-Regular SDF Overlay.mat.meta,file
+CarterOne-Regular SDF.asset,file
+CarterOne-Regular SDF.asset.meta,file
+CarterOne-Regular SMOOTH.asset,file
+CarterOne-Regular SMOOTH.asset.meta,file
+CarterOne-Regular SSD Mobile.mat,file
+CarterOne-Regular SSD Mobile.mat.meta,file
+CarterOne-Regular SSD.mat,file
+CarterOne-Regular SSD.mat.meta,file
+CarterOne-Regular.ttf,file
+CarterOne-Regular.ttf.meta,file
+CgincPathSync.cs,file
+CgincPathSync.cs.meta,file
+Cloner.cs,file
+Cloner.cs.meta,file
+ClusterInputManager.asset,file
+Coffee.UIEffect.Editor.asmdef,file
+Coffee.UIEffect.Editor.asmdef.meta,file
+Coffee.UIEffect.EditorTests.asmdef,file
+Coffee.UIEffect.EditorTests.asmdef.meta,file
+Coffee.UIEffect.R.dll,file
+Coffee.UIEffect.R.dll.meta,file
+Coffee.UIEffect.asmdef,file
+Coffee.UIEffect.asmdef.meta,file
+Color-Additive.asset,file
+Color-Additive.asset.meta,file
+Color-Contrast.asset,file
+Color-Contrast.asset.meta,file
+Color-Hsv Modifier.asset,file
+Color-Hsv Modifier.asset.meta,file
+Color-Multiply Additive.asset,file
+Color-Multiply Additive.asset.meta,file
+Color-Multiply Luminance.asset,file
+Color-Multiply Luminance.asset.meta,file
+Color-Multiply.asset,file
+Color-Multiply.asset.meta,file
+Color-Replace.asset,file
+Color-Replace.asset.meta,file
+Color-Subtractive.asset,file
+Color-Subtractive.asset.meta,file
+ColorIntensityTrack.cs,file
+ColorIntensityTrack.cs.meta,file
+ColorMode.cs,file
+ColorMode.cs.meta,file
+ColorTrack.cs,file
+ColorTrack.cs.meta,file
+Common,dir
+Common.meta,file
+ComponentExtensions.cs,file
+ComponentExtensions.cs.meta,file
+Converter.cs,file
+Converter.cs.meta,file
+CustomRenderTexture-UIEffect-Blaze.asset,file
+CustomRenderTexture-UIEffect-Blaze.asset.meta,file
+CustomRenderTexture-UIEffect-Blaze.mat,file
+CustomRenderTexture-UIEffect-Blaze.mat.meta,file
+CustomRenderTexture-UIEffect-Multiply (Alpha).shader,file
+CustomRenderTexture-UIEffect-Multiply (Alpha).shader.meta,file
+DataBuilders,dir
+DataBuilders.meta,file
+Default Local Group.asset,file
+Default Local Group.asset.meta,file
+Default Local Group_BundledAssetGroupSchema.asset,file
+Default Local Group_BundledAssetGroupSchema.asset.meta,file
+Default Local Group_ContentUpdateGroupSchema.asset,file
+Default Local Group_ContentUpdateGroupSchema.asset.meta,file
+Default Style Sheet.asset,file
+Default Style Sheet.asset.meta,file
+DefaultObject.asset,file
+DefaultObject.asset.meta,file
+DefaultVolumeProfile.asset,file
+DefaultVolumeProfile.asset.meta,file
+Demo,dir
+Demo.meta,file
+DemoAssets,dir
+DemoAssets.meta,file
+Demos,dir
+Demos,file
+Demos For URP,dir
+Demos For URP.meta,file
+Demos.meta,file
+DemosForURP.unity,file
+DemosForURP.unity.meta,file
+Detail-Hologram.asset,file
+Detail-Hologram.asset.meta,file
+Detail-Hologram.png,file
+Detail-Hologram.png.meta,file
+Detail-Soft Masking.asset,file
+Detail-Soft Masking.asset.meta,file
+Detail-Soft Masking.png,file
+Detail-Soft Masking.png.meta,file
+DetailColorTrack.cs,file
+DetailColorTrack.cs.meta,file
+DetailIntensityTrack.cs,file
+DetailIntensityTrack.cs.meta,file
+DynamicsManager.asset,file
+Edge-Plain.asset,file
+Edge-Plain.asset.meta,file
+Edge-Shiny.asset,file
+Edge-Shiny.asset.meta,file
+EdgeColorTrack.cs,file
+EdgeColorTrack.cs.meta,file
+EdgeShinyRateTrack.cs,file
+EdgeShinyRateTrack.cs.meta,file
+Editor,dir
+Editor.meta,file
+EditorBuildSettings.asset,file
+EditorSettings.asset,file
+EffectArea.cs,file
+EffectArea.cs.meta,file
+EffectMode.cs,file
+EffectMode.cs.meta,file
+EffectPlayer.cs,file
+EffectPlayer.cs.meta,file
+EmojiOne Attribution.txt,file
+EmojiOne Attribution.txt.meta,file
+EmojiOne.asset,file
+EmojiOne.asset.meta,file
+EmojiOne.json,file
+EmojiOne.json.meta,file
+EmojiOne.png,file
+EmojiOne.png.meta,file
+Enums,dir
+Enums.cs,file
+Enums.cs.meta,file
+Enums.meta,file
+Extensions,dir
+Extensions.meta,file
+FUNDING.yml,file
+FastAction.cs,file
+FastAction.cs.meta,file
+Flip-Both.asset,file
+Flip-Both.asset.meta,file
+Flip-Horizontal.asset,file
+Flip-Horizontal.asset.meta,file
+Flip-Vertical.asset,file
+Flip-Vertical.asset.meta,file
+Fonts,dir
+Fonts & Materials,dir
+Fonts & Materials.meta,file
+Fonts.meta,file
+FrameCache.cs,file
+FrameCache.cs.meta,file
+Gradation (Colors)-Angle.asset,file
+Gradation (Colors)-Angle.asset.meta,file
+Gradation (Colors)-Diagonal To Left Bottom.asset,file
+Gradation (Colors)-Diagonal To Left Bottom.asset.meta,file
+Gradation (Colors)-Diagonal To Right Bottom.asset,file
+Gradation (Colors)-Diagonal To Right Bottom.asset.meta,file
+Gradation (Colors)-Diagonal.asset,file
+Gradation (Colors)-Diagonal.asset.meta,file
+Gradation (Colors)-Horizontal.asset,file
+Gradation (Colors)-Horizontal.asset.meta,file
+Gradation (Colors)-Radial Detail.asset,file
+Gradation (Colors)-Radial Detail.asset.meta,file
+Gradation (Colors)-Radial Fast.asset,file
+Gradation (Colors)-Radial Fast.asset.meta,file
+Gradation (Colors)-Vertical.asset,file
+Gradation (Colors)-Vertical.asset.meta,file
+Gradation-Angle.asset,file
+Gradation-Angle.asset.meta,file
+Gradation-Fixed.asset,file
+Gradation-Fixed.asset.meta,file
+Gradation-Horizontal.asset,file
+Gradation-Horizontal.asset.meta,file
+Gradation-Radial.asset,file
+Gradation-Radial.asset.meta,file
+Gradation-Vertical.asset,file
+Gradation-Vertical.asset.meta,file
+GradationIntensityTrack.cs,file
+GradationIntensityTrack.cs.meta,file
+GradationOffsetTrack.cs,file
+GradationOffsetTrack.cs.meta,file
+GradationRotationTrack.cs,file
+GradationRotationTrack.cs.meta,file
+GradationScaleTrack.cs,file
+GradationScaleTrack.cs.meta,file
+GradationTest,dir
+GradationTest.cs,file
+GradationTest.cs.meta,file
+GradationTest.meta,file
+GradationTest.unity,file
+GradationTest.unity.meta,file
+GraphicProxy.cs,file
+GraphicProxy.cs.meta,file
+GraphicsSettings.asset,file
+Hidden-TMP_Bitmap-Mobile-UIEffect-Unity6.shader,file
+Hidden-TMP_Bitmap-Mobile-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_Bitmap-Mobile-UIEffect.shader,file
+Hidden-TMP_Bitmap-Mobile-UIEffect.shader.meta,file
+Hidden-TMP_Bitmap-UIEffect-Unity6.shader,file
+Hidden-TMP_Bitmap-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_Bitmap-UIEffect.shader,file
+Hidden-TMP_Bitmap-UIEffect.shader.meta,file
+Hidden-TMP_SDF Overlay-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF Overlay-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF Overlay-UIEffect.shader,file
+Hidden-TMP_SDF Overlay-UIEffect.shader.meta,file
+Hidden-TMP_SDF SSD-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF SSD-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF SSD-UIEffect.shader,file
+Hidden-TMP_SDF SSD-UIEffect.shader.meta,file
+Hidden-TMP_SDF-Mobile Overlay-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-Mobile Overlay-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-Mobile Overlay-UIEffect.shader,file
+Hidden-TMP_SDF-Mobile Overlay-UIEffect.shader.meta,file
+Hidden-TMP_SDF-Mobile SSD-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-Mobile SSD-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-Mobile SSD-UIEffect.shader,file
+Hidden-TMP_SDF-Mobile SSD-UIEffect.shader.meta,file
+Hidden-TMP_SDF-Mobile-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-Mobile-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-Mobile-UIEffect.shader,file
+Hidden-TMP_SDF-Mobile-UIEffect.shader.meta,file
+Hidden-TMP_SDF-UIEffect-Unity6.shader,file
+Hidden-TMP_SDF-UIEffect-Unity6.shader.meta,file
+Hidden-TMP_SDF-UIEffect.shader,file
+Hidden-TMP_SDF-UIEffect.shader.meta,file
+HotUpdate,dir
+HotUpdate.cs,file
+HotUpdate.cs.meta,file
+HotUpdate.meta,file
+HotUpdate.unity,file
+HotUpdate.unity.meta,file
+ISSUE_TEMPLATE,dir
+ImageProxy.cs,file
+ImageProxy.cs.meta,file
+InputManager.asset,file
+Internal,dir
+Internal.meta,file
+LICENSE.md,file
+LICENSE.md.meta,file
+Legacy,dir
+Legacy-UIDissolve.asset,file
+Legacy-UIDissolve.asset.meta,file
+Legacy-UIShiny.asset,file
+Legacy-UIShiny.asset.meta,file
+Legacy.meta,file
+LiberationSans - OFL.txt,file
+LiberationSans - OFL.txt.meta,file
+LiberationSans SDF - Drop Shadow.mat,file
+LiberationSans SDF - Drop Shadow.mat.meta,file
+LiberationSans SDF - Fallback.asset,file
+LiberationSans SDF - Fallback.asset.meta,file
+LiberationSans SDF - Outline.mat,file
+LiberationSans SDF - Outline.mat.meta,file
+LiberationSans SDF.asset,file
+LiberationSans SDF.asset.meta,file
+LiberationSans.ttf,file
+LiberationSans.ttf.meta,file
+LineBreaking Following Characters.txt,file
+LineBreaking Following Characters.txt.meta,file
+LineBreaking Leading Characters.txt,file
+LineBreaking Leading Characters.txt.meta,file
+Logger.cs,file
+Logger.cs.meta,file
+MaterialRepository.cs,file
+MaterialRepository.cs.meta,file
+MemorySettings.asset,file
+MeshExtensions.cs,file
+MeshExtensions.cs.meta,file
+MinMax01.cs,file
+MinMax01.cs.meta,file
+MinimalResourceSettings.json,file
+Misc.cs,file
+Misc.cs.meta,file
+MultiColorDissolve,dir
+MultiColorDissolve.asset,file
+MultiColorDissolve.asset.meta,file
+MultiColorDissolve.cs,file
+MultiColorDissolve.cs.meta,file
+MultiColorDissolve.meta,file
+MultiColorDissolve.unity,file
+MultiColorDissolve.unity.meta,file
+MultiplayerManager.asset,file
+NanoMonitor.asset,file
+NanoMonitor.asset.meta,file
+NanoMonitorProjectSettings.asset,file
+NanoMonitorProjectSettings.asset.meta,file
+NavMeshAreas.asset,file
+New Universal Render Pipeline Asset.asset,file
+New Universal Render Pipeline Asset.asset.meta,file
+New Universal Render Pipeline Asset_Renderer.asset,file
+New Universal Render Pipeline Asset_Renderer.asset.meta,file
+OSX,dir
+OSX.meta,file
+ObjectPool.cs,file
+ObjectPool.cs.meta,file
+ObjectRepository.cs,file
+ObjectRepository.cs.meta,file
+Obsolete,dir
+Obsolete.meta,file
+ObsoleteMonoBehavior.cs,file
+ObsoleteMonoBehavior.cs.meta,file
+PackageManagerSettings.asset,file
+Packages,dir
+Packed Assets.asset,file
+Packed Assets.asset.meta,file
+Pattern-Diamond.png,file
+Pattern-Diamond.png.meta,file
+Pattern-Dot.png,file
+Pattern-Dot.png.meta,file
+Pattern-Square.png,file
+Pattern-Square.png.meta,file
+Pattern-Star.png,file
+Pattern-Star.png.meta,file
+Pattern-Stripe.png,file
+Pattern-Stripe.png.meta,file
+PerformanceTest,dir
+PerformanceTest.meta,file
+PerformanceTest.unity,file
+PerformanceTest.unity.meta,file
+Physics2DSettings.asset,file
+PowerRangeAttribute.cs,file
+PowerRangeAttribute.cs.meta,file
+PreloadedProjectSettings.cs,file
+PreloadedProjectSettings.cs.meta,file
+PresetManager.asset,file
+ProfileDataSourceSettings.asset,file
+ProfileDataSourceSettings.asset.meta,file
+ProjectSettings,dir
+ProjectSettings.asset,file
+ProjectSettings.meta,file
+ProjectVersion.txt,file
+QualitySettings.asset,file
+README.md,file
+README.md.meta,file
+ReadMe,dir
+ReadMe.meta,file
+ReadMe_Inspector.unity,file
+ReadMe_Inspector.unity.meta,file
+ReadMe_Samples.unity,file
+ReadMe_Samples.unity.meta,file
+ReflectionTests.cs,file
+ReflectionTests.cs.meta,file
+RemoveSoftMaskableVariantsIfNeeded.cs,file
+RemoveSoftMaskableVariantsIfNeeded.cs.meta,file
+Resources,dir
+Resources.meta,file
+Runtime,dir
+Runtime.meta,file
+SDFFunctions.hlsl,file
+SDFFunctions.hlsl.meta,file
+Samples,file
+Samples.meta,file
+Samples~,dir
+Sampling (Blur)-Detail.asset,file
+Sampling (Blur)-Detail.asset.meta,file
+Sampling (Blur)-Fast.asset,file
+Sampling (Blur)-Fast.asset.meta,file
+Sampling (Blur)-Medium.asset,file
+Sampling (Blur)-Medium.asset.meta,file
+Sampling (Edge Detection)-Alpha.asset,file
+Sampling (Edge Detection)-Alpha.asset.meta,file
+Sampling (Edge Detection)-Luminance.asset,file
+Sampling (Edge Detection)-Luminance.asset.meta,file
+Sampling-Pixelation.asset,file
+Sampling-Pixelation.asset.meta,file
+Sampling-Rgb Shift.asset,file
+Sampling-Rgb Shift.asset.meta,file
+SamplingIntensityTrack.cs,file
+SamplingIntensityTrack.cs.meta,file
+Scanline.png,file
+Scanline.png.meta,file
+SceneTemplateSettings.json,file
+Schemas,dir
+Schemas.meta,file
+ScriptableBuildPipeline.json,file
+Scripts,dir
+Scripts.meta,file
+ShaderGraph Support (Unity 6 BuiltIn)~,dir
+ShaderGraph Support (Unity 6 URP)~,dir
+ShaderGraphSettings.asset,file
+ShaderSampleImporter.cs,file
+ShaderSampleImporter.cs.meta,file
+ShaderVariantRegistry.cs,file
+ShaderVariantRegistry.cs.meta,file
+Shaders,dir
+Shaders.meta,file
+Shadow-Mirror.asset,file
+Shadow-Mirror.asset.meta,file
+Shadow-Neon.asset,file
+Shadow-Neon.asset.meta,file
+Shadow-Outline.asset,file
+Shadow-Outline.asset.meta,file
+Shadow-Shadow.asset,file
+Shadow-Shadow.asset.meta,file
+Shadow-Soft Outline.asset,file
+Shadow-Soft Outline.asset.meta,file
+Shadow-Soft Shadow.asset,file
+Shadow-Soft Shadow.asset.meta,file
+ShadowStyle.cs,file
+ShadowStyle.cs.meta,file
+ShadowUtil.cs,file
+ShadowUtil.cs.meta,file
+Sprite Assets,dir
+Sprite Assets.meta,file
+Sprites,dir
+Sprites.meta,file
+Style Sheets,dir
+Style Sheets.meta,file
+SymbolicLinkerSettings.json,file
+TMP Settings.asset,file
+TMP Settings.asset.meta,file
+TMP_Bitmap-Custom-Atlas.shader,file
+TMP_Bitmap-Custom-Atlas.shader.meta,file
+TMP_Bitmap-Mobile.shader,file
+TMP_Bitmap-Mobile.shader.meta,file
+TMP_Bitmap.shader,file
+TMP_Bitmap.shader.meta,file
+TMP_SDF Overlay.shader,file
+TMP_SDF Overlay.shader.meta,file
+TMP_SDF SSD.shader,file
+TMP_SDF SSD.shader.meta,file
+TMP_SDF-HDRP LIT.shadergraph,file
+TMP_SDF-HDRP LIT.shadergraph.meta,file
+TMP_SDF-HDRP UNLIT.shadergraph,file
+TMP_SDF-HDRP UNLIT.shadergraph.meta,file
+TMP_SDF-Mobile Masking.shader,file
+TMP_SDF-Mobile Masking.shader.meta,file
+TMP_SDF-Mobile Overlay.shader,file
+TMP_SDF-Mobile Overlay.shader.meta,file
+TMP_SDF-Mobile SSD.shader,file
+TMP_SDF-Mobile SSD.shader.meta,file
+TMP_SDF-Mobile-2-Pass.shader,file
+TMP_SDF-Mobile-2-Pass.shader.meta,file
+TMP_SDF-Mobile.shader,file
+TMP_SDF-Mobile.shader.meta,file
+TMP_SDF-Surface-Mobile.shader,file
+TMP_SDF-Surface-Mobile.shader.meta,file
+TMP_SDF-Surface.shader,file
+TMP_SDF-Surface.shader.meta,file
+TMP_SDF-URP Lit.shadergraph,file
+TMP_SDF-URP Lit.shadergraph.meta,file
+TMP_SDF-URP Unlit.shadergraph,file
+TMP_SDF-URP Unlit.shadergraph.meta,file
+TMP_SDF.shader,file
+TMP_SDF.shader.meta,file
+TMP_Sprite.shader,file
+TMP_Sprite.shader.meta,file
+TMPro.cginc,file
+TMPro.cginc.meta,file
+TMPro_Mobile.cginc,file
+TMPro_Mobile.cginc.meta,file
+TMPro_Properties.cginc,file
+TMPro_Properties.cginc.meta,file
+TMPro_Surface.cginc,file
+TMPro_Surface.cginc.meta,file
+TagManager.asset,file
+Tests,dir
+Tests.meta,file
+TextMesh Pro,dir
+TextMesh Pro.meta,file
+TextMeshPro Support,dir
+TextMeshPro Support (Unity 6)~,dir
+TextMeshPro Support.meta,file
+TextMeshPro Support~,dir
+TextMeshProSupport.cs,file
+TextMeshProSupport.cs.meta,file
+TextMeshPro_ExtraShaders.unity,file
+TextMeshPro_ExtraShaders.unity.meta,file
+TextPlayableAssetClipEditor.cs,file
+TextPlayableAssetClipEditor.cs.meta,file
+Textures,dir
+Textures.meta,file
+TimeManager.asset,file
+Timeline,dir
+Timeline Support,dir
+Timeline Support.meta,file
+Timeline Support.playable,file
+Timeline Support.playable.meta,file
+Timeline Support.unity,file
+Timeline Support.unity.meta,file
+Timeline.meta,file
+TmpProxy.cs,file
+TmpProxy.cs.meta,file
+Tone-Glayscale.asset,file
+Tone-Glayscale.asset.meta,file
+Tone-Negative.asset,file
+Tone-Negative.asset.meta,file
+Tone-Posterize.asset,file
+Tone-Posterize.asset.meta,file
+Tone-Retro.asset,file
+Tone-Retro.asset.meta,file
+Tone-Sepia.asset,file
+Tone-Sepia.asset.meta,file
+ToneIntensityTrack.cs,file
+ToneIntensityTrack.cs.meta,file
+TransformSensitivity.cs,file
+TransformSensitivity.cs.meta,file
+Transition (Blaze)-Blue.asset,file
+Transition (Blaze)-Blue.asset.meta,file
+Transition (Blaze)-Default.asset,file
+Transition (Blaze)-Default.asset.meta,file
+Transition (Blaze)-Green.asset,file
+Transition (Blaze)-Green.asset.meta,file
+Transition (Blaze)-Red.asset,file
+Transition (Blaze)-Red.asset.meta,file
+Transition (Pattern)-Diamond.asset,file
+Transition (Pattern)-Diamond.asset.meta,file
+Transition (Pattern)-Dot.asset,file
+Transition (Pattern)-Dot.asset.meta,file
+Transition (Pattern)-Square.asset,file
+Transition (Pattern)-Square.asset.meta,file
+Transition (Pattern)-Star.asset,file
+Transition (Pattern)-Star.asset.meta,file
+Transition (Pattern)-Stripe.asset,file
+Transition (Pattern)-Stripe.asset.meta,file
+Transition-Angle.png,file
+Transition-Angle.png.meta,file
+Transition-Burn.asset,file
+Transition-Burn.asset.meta,file
+Transition-Cutoff.asset,file
+Transition-Cutoff.asset.meta,file
+Transition-Dissolve.asset,file
+Transition-Dissolve.asset.meta,file
+Transition-Fade.asset,file
+Transition-Fade.asset.meta,file
+Transition-Horizontal.png,file
+Transition-Horizontal.png.meta,file
+Transition-Melt.asset,file
+Transition-Melt.asset.meta,file
+Transition-Melt00.png,file
+Transition-Melt00.png.meta,file
+Transition-Melt01.png,file
+Transition-Melt01.png.meta,file
+Transition-Noise00.png,file
+Transition-Noise00.png.meta,file
+Transition-Noise01.png,file
+Transition-Noise01.png.meta,file
+Transition-Scratch.asset,file
+Transition-Scratch.asset.meta,file
+Transition-Scratch.png,file
+Transition-Scratch.png.meta,file
+Transition-Shiny (Angled).asset,file
+Transition-Shiny (Angled).asset.meta,file
+Transition-Shiny.asset,file
+Transition-Shiny.asset.meta,file
+TransitionColorTrack.cs,file
+TransitionColorTrack.cs.meta,file
+TransitionRateTrack.cs,file
+TransitionRateTrack.cs.meta,file
+Transition_LegacyHorizontal.png,file
+Transition_LegacyHorizontal.png.meta,file
+Transition_LegacyNoise.png,file
+Transition_LegacyNoise.png.meta,file
+UIDissolve.cs,file
+UIDissolve.cs.meta,file
+UIEffect.asmdef,file
+UIEffect.asmdef.meta,file
+UIEffect.cginc,file
+UIEffect.cginc.meta,file
+UIEffect.cs,file
+UIEffect.cs.meta,file
+UIEffect.shader,file
+UIEffect.shader.meta,file
+UIEffectBase.cs,file
+UIEffectBase.cs.meta,file
+UIEffectColorClip.cs,file
+UIEffectColorClip.cs.meta,file
+UIEffectContext.cs,file
+UIEffectContext.cs.meta,file
+UIEffectEditor.cs,file
+UIEffectEditor.cs.meta,file
+UIEffectFloatClip.cs,file
+UIEffectFloatClip.cs.meta,file
+UIEffectForShaderGraph.hlsl,file
+UIEffectForShaderGraph.hlsl.meta,file
+UIEffectIconIcon.png,file
+UIEffectIconIcon.png.meta,file
+UIEffectPreset.cs,file
+UIEffectPreset.cs.meta,file
+UIEffectPresetEditor.cs,file
+UIEffectPresetEditor.cs.meta,file
+UIEffectPresets,dir
+UIEffectPresets.meta,file
+UIEffectProjectSettings.asset,file
+UIEffectProjectSettings.asset.meta,file
+UIEffectProjectSettings.cs,file
+UIEffectProjectSettings.cs.meta,file
+UIEffectProjectSettingsEditor.cs,file
+UIEffectProjectSettingsEditor.cs.meta,file
+UIEffectPropertyEditor.cs,file
+UIEffectPropertyEditor.cs.meta,file
+UIEffectReplica.cs,file
+UIEffectReplica.cs.meta,file
+UIEffectReplicaEditor.cs,file
+UIEffectReplicaEditor.cs.meta,file
+UIEffectTimelineUtils.cs,file
+UIEffectTimelineUtils.cs.meta,file
+UIEffectTweener.cs,file
+UIEffectTweener.cs.meta,file
+UIEffectTweenerEditor.cs,file
+UIEffectTweenerEditor.cs.meta,file
+UIEffectURP,dir
+UIEffectV4.cs,file
+UIEffectV4.cs.meta,file
+UIEffectV4Editor.cs,file
+UIEffectV4Editor.cs.meta,file
+UIEffect_AvailableFilters.cs,file
+UIEffect_AvailableFilters.cs.meta,file
+UIEffect_AvailableFilters.unity,file
+UIEffect_AvailableFilters.unity.meta,file
+UIEffect_AvailableFilters_Effect.prefab,file
+UIEffect_AvailableFilters_Effect.prefab.meta,file
+UIEffect_Badge_Checked.png,file
+UIEffect_Badge_Checked.png.meta,file
+UIEffect_Badge_Level.png,file
+UIEffect_Badge_Level.png.meta,file
+UIEffect_Badge_Police.png,file
+UIEffect_Badge_Police.png.meta,file
+UIEffect_CarterOne-Regular SDF.asset,file
+UIEffect_CarterOne-Regular SDF.asset.meta,file
+UIEffect_Demo-Circle.png,file
+UIEffect_Demo-Circle.png.meta,file
+UIEffect_Demo.spriteatlas,file
+UIEffect_Demo.spriteatlas.meta,file
+UIEffect_FlatCornered_64.png,file
+UIEffect_FlatCornered_64.png.meta,file
+UIEffect_Floor Cement.jpg,file
+UIEffect_Floor Cement.jpg.meta,file
+UIEffect_Fruit Jelly (B&W).jpg,file
+UIEffect_Fruit Jelly (B&W).jpg.meta,file
+UIEffect_I_am_Unity-Chan-256.png,file
+UIEffect_I_am_Unity-Chan-256.png.meta,file
+UIEffect_I_am_Unity-Chan-512.png,file
+UIEffect_I_am_Unity-Chan-512.png.meta,file
+UIEffect_PatternAndEdge.cs,file
+UIEffect_PatternAndEdge.cs.meta,file
+UIEffect_PatternAndEdge.unity,file
+UIEffect_PatternAndEdge.unity.meta,file
+UIEffect_ShaderGraph Support (Unity 6 BuiltIn).unity,file
+UIEffect_ShaderGraph Support (Unity 6 BuiltIn).unity.meta,file
+UIEffect_ShaderGraph Support (Unity 6 URP).unity,file
+UIEffect_ShaderGraph Support (Unity 6 URP).unity.meta,file
+UIEffect_Showcase.unity,file
+UIEffect_Showcase.unity.meta,file
+UIEffect_Showcase_Art.png,file
+UIEffect_Showcase_Art.png.meta,file
+UIEffect_Showcase_TransitionTex.png,file
+UIEffect_Showcase_TransitionTex.png.meta,file
+UIEffect_TextMeshProSupport.unity,file
+UIEffect_TextMeshProSupport.unity.meta,file
+UIEffect_TitleV5.unity,file
+UIEffect_TitleV5.unity.meta,file
+UIEffect_Tweener.unity,file
+UIEffect_Tweener.unity.meta,file
+UIEffect_TweenerControler.cs,file
+UIEffect_TweenerControler.cs.meta,file
+UIExtraCallbacks.cs,file
+UIExtraCallbacks.cs.meta,file
+UIFlip.cs,file
+UIFlip.cs.meta,file
+UIGradient.cs,file
+UIGradient.cs.meta,file
+UIHsvModifier.cs,file
+UIHsvModifier.cs.meta,file
+UISample (UIEffect).shadergraph,file
+UISample (UIEffect).shadergraph.meta,file
+UISampleURP (UIEffect).shadergraph,file
+UISampleURP (UIEffect).shadergraph.meta,file
+UIShadow.cs,file
+UIShadow.cs.meta,file
+UIShiny.cs,file
+UIShiny.cs.meta,file
+UITransitionEffect.cs,file
+UITransitionEffect.cs.meta,file
+UIVertexUtil.cs,file
+UIVertexUtil.cs.meta,file
+URPProjectSettings.asset,file
+Unity.RenderPipelines.Universal.Editor.asmref,file
+Unity.RenderPipelines.Universal.Editor.asmref.meta,file
+Unity.ShaderGraph.Editor.asmref,file
+Unity.ShaderGraph.Editor.asmref.meta,file
+UnityConnectSettings.asset,file
+UniversalRenderPipelineGlobalSettings.asset,file
+UniversalRenderPipelineGlobalSettings.asset.meta,file
+UniversalUIEffectSubTarget.cs,file
+UniversalUIEffectSubTarget.cs.meta,file
+UserDataEditor.cs,file
+UserDataEditor.cs.meta,file
+Utilities,dir
+Utilities.meta,file
+UvTest.unity,file
+UvTest.unity.meta,file
+VFXManager.asset,file
+VersionControlSettings.asset,file
+XRSettings.asset,file
+addressables_content_state.bin,file
+addressables_content_state.bin.meta,file
+bug_report.md,file
+deploy.yml,file
+feature_request.md,file
+manifest.json,file
+package.json,file
+package.json.meta,file
+packages-lock.json,file
+pull_request_template.md,file
+question.md,file
+release.yml,file
+src,dir
+test-urp.yml,file
+test.yml,file
+uv.png,file
+uv.png.meta,file
+v4 Compatible Components,dir
+v4 Compatible Components.meta,file
+v4Compatible,dir
+v4Compatible.meta,file
+v4Compatible.unity,file
+v4Compatible.unity.meta,file
+workflows,dir

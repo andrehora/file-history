@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+change.png,file
+click.png,file
+commit.png,file
+edit.png,file
+es-es,dir
+images,dir
+pt-br,dir
+ru,dir
+zh-cn,dir

@@ -1,0 +1,130 @@
+name,type
+.gitignore,file
+AUTOMATION_README.md,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Daily Updates.csv,file
+Experiments,dir
+License.txt,file
+Makefile,file
+Other,dir
+ProcessPortfolio.py,file
+README.md,file
+Starting Research Summary.md,file
+Starting Research.pdf,file
+Trade Log.csv,file
+Week 1 Summary.md,file
+Week 1.pdf,file
+Week 10 Summary.md,file
+Week 10.pdf,file
+Week 11 Summary.md,file
+Week 11.pdf,file
+Week 12 Summary.md,file
+Week 12.pdf,file
+Week 13 Summary.md,file
+Week 13.pdf,file
+Week 14 Summary.md,file
+Week 14.pdf,file
+Week 15 Summary.md,file
+Week 15.pdf,file
+Week 16 Summary.md,file
+Week 16.pdf,file
+Week 17 Summary.md,file
+Week 17.pdf,file
+Week 18 Summary.md,file
+Week 18.pdf,file
+Week 19 Summary.md,file
+Week 19.pdf,file
+Week 2 Summary.md,file
+Week 2.pdf,file
+Week 20 Summary.md,file
+Week 20.pdf,file
+Week 21 Summary.md,file
+Week 21.pdf,file
+Week 22 Summary.md,file
+Week 22.pdf,file
+Week 23 Summary.md,file
+Week 23.pdf,file
+Week 24 Summary.md,file
+Week 24.pdf,file
+Week 25 Summary.md,file
+Week 25.pdf,file
+Week 26 Summary.md,file
+Week 26.pdf,file
+Week 3 Summary.md,file
+Week 3.pdf,file
+Week 4 Summary.md,file
+Week 4.pdf,file
+Week 5 Summary.md,file
+Week 5.pdf,file
+Week 6 Summary.md,file
+Week 6.pdf,file
+Week 7 Summary.md,file
+Week 7.pdf,file
+Week 8 Summary.md,file
+Week 8.pdf,file
+Week 9 Summary.md,file
+Week 9.pdf,file
+Weekly Deep Research (MD),dir
+Weekly Deep Research (PDF),dir
+__init__.py,file
+chatgpt_micro-cap,dir
+chats.md,file
+collected_artifacts,dir
+config.py,file
+csv_conversion.py,file
+csv_files,dir
+daily_prompt.py,file
+daily_returns.png,file
+daily_returns.py,file
+data_helper.py,file
+deep_research_index.md,file
+deep_research_prompt.py,file
+drawdown.png,file
+drawdown.py,file
+episode_pcr.py,file
+episode_pcr_scatter.png,file
+episode_pcr_scatter.py,file
+equity_vs_baseline.png,file
+equity_vs_baseline.py,file
+equity_with_annotations.png,file
+evaluation,dir
+evaluation_report.md,file
+fetching.py,file
+get_prompt_data,dir
+graphing,dir
+highest_pnl_by_ticker.py,file
+highest_ticker_pnl.png,file
+holding_chart.py,file
+holding_distribution.png,file
+holding_distribution.py,file
+ignore_list.gitignore,file
+images,dir
+load_dataV3.py,file
+main_functions.py,file
+max_drawdown_vs_largest_run.py,file
+metrics,dir
+metrics.txt,file
+miscellaneous,dir
+multi_model_ipo,dir
+order_verification.py,file
+paper.pdf,file
+processing,dir
+prompt_assembly.py,file
+prompt_models.py,file
+prompt_orchestration,dir
+prompts,dir
+repeated_exposure.png,file
+repeated_ticker_exposure.py,file
+requirements.txt,file
+return_by_trades.png,file
+returns_by_trades.py,file
+scripts,dir
+starting_prompt.py,file
+tables,dir
+top_losses_vs_wins.png,file
+top_losses_vs_wins.py,file
+total_logged_days_by_ticker.png,file
+trading_script.py,file
+utilities.py,file
+workflow.py,file

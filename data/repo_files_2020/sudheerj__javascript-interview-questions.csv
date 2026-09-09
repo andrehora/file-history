@@ -1,0 +1,5 @@
+name,type
+.gitignore,file
+README.md,file
+images,dir
+temporal.jpg,file

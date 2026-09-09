@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.markdownlint.json,file
+Embedded-Engineering-Roadmap.vsdx,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+Static Analysis.yml,file
+workflows,dir

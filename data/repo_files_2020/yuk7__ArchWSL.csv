@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.gitmodules,file
+.travis.yml,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.ja.md,file
+README.md,file
+appveyor.yml,file
+env.sh,file
+issue-report.md,file

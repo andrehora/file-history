@@ -1,0 +1,12 @@
+name,type
+.gitignore,file
+HtmlWebpackPluginSpec.js,file
+LICENSE,file
+README.md,file
+default_index.html,file
+fixtures,dir
+index.js,file
+package.json,file
+spec,dir
+test.html,file
+util.js,file

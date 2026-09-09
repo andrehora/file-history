@@ -1,0 +1,7 @@
+name,type
+.gitattributes,file
+.gitignore,file
+README.md,file
+datum,dir
+summary-english.md,file
+summary.md,file

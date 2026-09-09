@@ -1,0 +1,15 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.jshintrc,file
+Gruntfile.js,file
+bower.json,file
+dist,dir
+index.html,file
+license,file
+package.json,file
+readme.md,file
+screenfull.js,file
+screenfull.min.js,file
+src,dir

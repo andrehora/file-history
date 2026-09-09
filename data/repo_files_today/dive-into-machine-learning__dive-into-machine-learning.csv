@@ -1,0 +1,9 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+_config.yml,file
+action.yml,file
+banner.png,file
+markdown.links.config.json,file
+workflows,dir

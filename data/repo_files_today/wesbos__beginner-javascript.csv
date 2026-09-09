@@ -1,0 +1,211 @@
+name,type
+.eslintrc-FINISHED,file
+.gitignore,file
+.npmrc,file
+16 - Debugging,dir
+20 - The DOM,dir
+270-camo-sunset.jpg,file
+29 - Events,dir
+33 - Etch-a-Sketch,dir
+34 - Click Outside,dir
+35 - Scroll To Accept,dir
+36 - Tabs,dir
+46 - Arrays,dir
+55 - Face Detection Censorship,dir
+56 - Sarcastic Text,dir
+57 - Shopping List,dir
+58 - Gallery,dir
+59 - Slider,dir
+72 - Async Prompts,dir
+73 - Async Typer,dir
+75 - CORS and Recipes,dir
+76 - Dad Jokes,dir
+77 - Currency Converter,dir
+79 - Currency Converter Modules Refactor  - FINISHED,dir
+80 - Dad Jokes Modules - FINISHED,dir
+81 - Dad Jokes Bundling - FINISHED,dir
+82 - npm modules - FINISHED,dir
+83 - Security,dir
+84 - Web Speech Colour Game,dir
+85 - Audio Visualizer Oscilloscope,dir
+DOM-Cardio-FINISHED.html,file
+DOM-Cardio-FINISHED.js,file
+DOM-Cardio.html,file
+DOM-Cardio.js,file
+README.md,file
+TNF-fanorak.png,file
+apis-FINISHED.html,file
+apis.html,file
+array-loopings-methods-FINISHED.html,file
+array-loopings-methods-START.html,file
+array-methods-FINISHED.html,file
+array-methods-START.html,file
+arrays-FINISHED.html,file
+arrays.html,file
+async-await-FINISHED.html,file
+async-await-error-handling-FINISHED.html,file
+async-await-error-handling.html,file
+async-await.html,file
+base.css,file
+bedmas-FINISHED.html,file
+bedmas.html,file
+bind-call-apply-FINISHED.html,file
+bind-call-apply.html,file
+buttonText.js,file
+canada-goose.jpg,file
+cf-FINISHED.js,file
+cf.js,file
+classes-FINISHED.html,file
+classes.html,file
+click-outside-FINISHED.html,file
+click-outside-FINISHED.js,file
+click-outside.html,file
+click-outside.js,file
+closures-FINISHED.html,file
+closures.html,file
+colors-FINISHED.js,file
+colors.js,file
+coral-yeti.jpg,file
+creating-FINISHED.js,file
+creating-with-strings-FINISHED.js,file
+creating-with-strings.js,file
+creating.js,file
+currencies.js,file
+custom-functions,dir
+data,dir
+debugging-FINISHED.js,file
+debugging-START.js,file
+debugging.html,file
+elements.js,file
+etch-a-sketch-FINISHED.js,file
+etch-a-sketch.js,file
+event-loop-FINISHED.html,file
+event-loop.html,file
+events-FINISHED.html,file
+events-FINISHED.js,file
+events.html,file
+events.js,file
+exercises,dir
+face-FINISHED.html,file
+face.html,file
+for-loops-FINISHED.html,file
+for-loops-START.html,file
+forms-FINISHED.html,file
+forms-FINISHED.js,file
+forms.html,file
+forms.js,file
+function-definition.jpg,file
+functions-FINISHED.html,file
+functions.html,file
+gallery-DEMO.js,file
+gallery-FINISHED.js,file
+gallery-prototype-FINISHED.js,file
+gallery.css,file
+gallery.js,file
+handlers-FINISHED.js,file
+handlers.js,file
+hoisting-FINISHED.html,file
+hoisting-FINISHED.js,file
+hoisting.html,file
+hoisting.js,file
+hondo.jpg,file
+htmlbase.html,file
+htmlbase.json,file
+if-statements-FINISHED.html,file
+if-statements.html,file
+images,dir
+index-FINISHED.html,file
+index-FINISHED.js,file
+index-prototype-FINISHED.js,file
+index.html,file
+index.js,file
+init.js,file
+intervals-FINISHED.html,file
+intervals.html,file
+jokes-FINISHED.js,file
+jokes.js,file
+kith-hoodie.jpg,file
+lib,dir
+lib.js,file
+maps-FINISHED.html,file
+maps.html,file
+modules,dir
+money-FINISHED.js,file
+money.css,file
+money.js,file
+naked-and-famous-denim.jpg,file
+nasty-FINISHED.js,file
+nasty.js,file
+new-this-FINISHED.html,file
+new-this.html,file
+node-example.js,file
+nudie-belt.jpg,file
+objects-FINISHED.html,file
+objects.html,file
+package-lock.json,file
+package.json,file
+patagonia black hole.jpg,file
+pixelated-face-DEMO.js,file
+pixelated-face-FINISHED.js,file
+pixelated-face.js,file
+playground,dir
+promise-chain-FINISHED.html,file
+promises-FINISHED.html,file
+promises.html,file
+readme.md,file
+reduce-challenge-FINISHED.html,file
+reduce-challenge-START.html,file
+rimowa.png,file
+running-js-FINISHED.html,file
+running-js.html,file
+scope-FINISHED.html,file
+scope-FINISHED.js,file
+scope.html,file
+scope.js,file
+scripts-FINISHED.js,file
+scripts.js,file
+scroll-to-accept-FINISHED.html,file
+scroll-to-accept-FINISHED.js,file
+scroll-to-accept.html,file
+scroll-to-accept.js,file
+shopping-DEMO.js,file
+shopping-FINISHED.js,file
+shopping.css,file
+shopping.js,file
+snippets,dir
+some-FINISHED.js,file
+some.js,file
+sound-FINISHED.js,file
+sound.js,file
+speech-FINISHED.js,file
+speech.js,file
+src,dir
+style.css,file
+style.scss,file
+switch-statements-FINISHED.html,file
+switch-statements.html,file
+tabs-finished.js,file
+tabs-style.css,file
+tabs.js,file
+text-DEMO.js,file
+text-FINISHED.js,file
+text.js,file
+the-dom-FINISHED.js,file
+the-dom.js,file
+traversing-FINISHED.js,file
+traversing.js,file
+turtle.png,file
+types-FINISHED.html,file
+types-FINISHED.js,file
+types.html,file
+types.js,file
+ultra-boost.jpg,file
+utils-FINISHED.js,file
+utils.js,file
+vapormax.jpg,file
+variables-FINISHED.html,file
+variables.html,file
+ways-to-make-a-function-FINISHED.js,file
+ways-to-make-a-function.js,file
+wes-FINISHED.js,file
+wes.js,file

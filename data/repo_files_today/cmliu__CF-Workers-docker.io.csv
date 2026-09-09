@@ -1,0 +1,7 @@
+name,type
+.github,dir
+README.md,file
+_worker.js,file
+img.png,file
+sync.yml,file
+workflows,dir

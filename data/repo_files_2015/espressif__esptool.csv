@@ -1,0 +1,6 @@
+name,type
+LICENSE,file
+MANIFEST.in,file
+README.md,file
+esptool.py,file
+setup.py,file

@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.flowconfig,file
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+README.md,file
+index.js,file
+mitt.d.ts,file
+package.json,file
+rollup.config.js,file
+src,dir
+test,dir
+typings.json,file

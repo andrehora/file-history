@@ -1,0 +1,11 @@
+name,type
+LICENSE,file
+README.md,file
+decode_hooks.go,file
+decode_hooks_test.go,file
+error.go,file
+mapstructure.go,file
+mapstructure_benchmark_test.go,file
+mapstructure_bugs_test.go,file
+mapstructure_examples_test.go,file
+mapstructure_test.go,file

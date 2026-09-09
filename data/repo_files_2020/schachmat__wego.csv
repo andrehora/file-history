@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+ascii-art-table.go,file
+backends,dir
+emoji.go,file
+forecast.io.go,file
+frontends,dir
+iface,dir
+iface.go,file
+json.go,file
+main.go,file
+openweathermap.org.go,file
+worldweatheronline.com.go,file
+wwoConditionCodes.txt,file

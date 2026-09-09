@@ -1,0 +1,17 @@
+name,type
+.env,file
+.gitignore,file
+.travis.yml,file
+Dockerfile,file
+LICENSE,file
+Makefile,file
+README.md,file
+config.example.yml,file
+cron,dir
+docker-compose.yml,file
+entrypoint.sh,file
+install.sh,file
+requirements.example.txt,file
+sentry,dir
+sentry.conf.example.py,file
+test.sh,file

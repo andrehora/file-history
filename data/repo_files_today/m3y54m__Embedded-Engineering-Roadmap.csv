@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.markdownlint.json,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Embedded-Engineering-Roadmap.vsdx,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+static-analysis.yml,file
+workflows,dir

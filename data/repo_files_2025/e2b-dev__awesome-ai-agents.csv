@@ -1,0 +1,11 @@
+name,type
+.DS_Store,file
+CODEOWNERS,file
+LICENSE.md,file
+README.md,file
+assets,dir
+footer.png,file
+image-1.png,file
+image-2.png,file
+image.png,file
+landscape-latest.png,file

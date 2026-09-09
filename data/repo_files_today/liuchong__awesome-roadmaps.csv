@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+assets,dir
+contributing.md,file
+logo.svg,file

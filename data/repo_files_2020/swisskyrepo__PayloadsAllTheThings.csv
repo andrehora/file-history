@@ -1,0 +1,348 @@
+name,type
+"""><img src=x onerror=alert(document.cookie);.jpg",file
+"""><svg onload=alert(1)>",file
+'><svg onload=alert(1)>,file
+.github,dir
+.gitignore,file
+.htaccess,file
+API Key Leaks,dir
+AWS Amazon Bucket S3,dir
+Active Directory Attack.md,file
+Apache Struts 2 CVE-2013-2251 CVE-2017-5638 CVE-2018-11776_.py,file
+Apache Struts 2 CVE-2017-9805.py,file
+Apache Struts 2 CVE-2018-11776.py,file
+Auth_Bypass.txt,file
+Auth_Bypass2.txt,file
+BOOKS.md,file
+BRUTELOGIC-XSS-JS.txt,file
+BRUTELOGIC-XSS-STRINGS.txt,file
+BSD-files.txt,file
+Build_image_to_LFI.py,file
+CORS Misconfiguration,dir
+CRLF Injection,dir
+CSRF Injection,dir
+CSRF-CheatSheet.png,file
+CSV Injection,dir
+CVE Exploits,dir
+CVE Ffmpeg HLS,dir
+CVE ZIP Symbolic Link,dir
+Cassandra Injection.md,file
+Classic XXE - etc passwd.xml,file
+Classic XXE B64 Encoded.xml,file
+Classic XXE.xml,file
+Command Injection,dir
+Configuration Apache .htaccess,dir
+Configuration Busybox httpd.conf,dir
+Configuration IIS web.config,dir
+Configuration Python __init__.py,dir
+Deny Of Service - Billion Laugh Attack,file
+Directory Traversal,dir
+Docker API RCE.py,file
+Drupalgeddon2 CVE-2018-7600.rb,file
+DwrkbH1VAAErOI2.jpg,file
+EICAR,dir
+Extension ASP,dir
+Extension Flash,dir
+Extension HTML,dir
+Extension PDF JS,dir
+Extension PHP,dir
+FUNDING.yml,file
+FUZZDB_MSSQL-WHERE_Time.txt,file
+FUZZDB_MSSQL.txt,file
+FUZZDB_MSSQL_Enumeration.txt,file
+FUZZDB_MYSQL.txt,file
+FUZZDB_MySQL-WHERE_Time.txt,file
+FUZZDB_MySQL_ReadLocalFiles.txt,file
+FUZZDB_Oracle.txt,file
+FUZZDB_Postgres_Enumeration.txt,file
+File Inclusion,dir
+Files,dir
+GIF_exploit.gif,file
+Generic_ErrorBased.txt,file
+Generic_TimeBased.txt,file
+Generic_UnionSelect.txt,file
+GraphQL Injection,dir
+HQL Injection.md,file
+Heartbleed CVE-2014-0160.py,file
+Images,dir
+Insecure Deserialization,dir
+Insecure Direct Object References,dir
+Insecure Management Interface,dir
+Insecure Source Code Management,dir
+InsecureFlashFile.swf,file
+Intruder,dir
+Intruders,dir
+IntrudersXSS.txt,file
+JBoss CVE-2015-7501.py,file
+JHADDIX_LFI.txt,file
+JHADDIX_SSI_Injection.txt,file
+JHADDIX_XSS.txt,file
+JPG_exploit-55.jpg,file
+JSON Web Token,dir
+Java.md,file
+Jenkins CVE-2015-8103.py,file
+Jenkins CVE-2016-0792.py,file
+Jenkins Groovy Console.py,file
+JupyterNotebookXSS.ipynb,file
+Kubernetes,dir
+LDAP Injection,dir
+LDAP_FUZZ.txt,file
+LDAP_attributes.txt,file
+LFI-FD-check.txt,file
+LFI-WindowsFileCheck.txt,file
+LICENSE,file
+LaTeX Injection,dir
+Linux - Persistence.md,file
+Linux - Privilege Escalation.md,file
+Linux-files.txt,file
+List_Of_File_To_Include.txt,file
+List_Of_File_To_Include_NullByteAdded.txt,file
+Logs-files.txt,file
+MSSQL Injection.md,file
+Mac-files.txt,file
+MarioXSSVectors.txt,file
+Metasploit - Cheatsheet.md,file
+Methodology and Resources,dir
+Methodology and enumeration.md,file
+MySQL Injection.md,file
+Network Discovery.md,file
+Network Pivoting Techniques.md,file
+NoSQL Injection,dir
+NoSQL.txt,file
+OAuth,dir
+Open Redirect,dir
+Open-Redirect-payloads.txt,file
+OracleSQL Injection.md,file
+PHP-Serialization-RCE-Exploit.php,file
+PHP.md,file
+PHP_exif_phpinfo.jpg,file
+PHP_exif_system.gif,file
+PHP_exif_system.jpg,file
+PHP_exif_system.png,file
+PNG_110x110_resize_bypass_use_LFI.png,file
+PNG_32x32_resize_bypass_use_LFI.png,file
+Parser & Curl < 7.54.png,file
+Picture Image Magik,dir
+Picture Metadata,dir
+Picture Resize,dir
+PostgreSQL Injection.md,file
+PostgreSQL_cmd_exec.png,file
+Python.md,file
+README.md,file
+README.txt,file
+RSNAKE_XSS.txt,file
+Rails CVE-2019-5420.rb,file
+Reverse Shell Cheatsheet.md,file
+Ruby.md,file
+Ruby_universal_gadget_generate_verify.rb,file
+SAML Injection,dir
+SAML-xml-flaw.png,file
+SQL Injection,dir
+SQL-Injection,file
+SQLi_Polyglots.txt,file
+SQLite Injection.md,file
+SSRF_Parser.png,file
+SSRF_expect.svg,file
+SSRF_stream.png,file
+SSRF_url.svg,file
+SVG_XSS.svg,file
+SVG_XSS1.svg,file
+SVG_XSS2.svg,file
+SVG_XSS3.svg,file
+SWF_XSS.swf,file
+Server Side Include,dir
+Server Side Request Forgery,dir
+Server Side Template Injection,dir
+Shellshock CVE-2014-6271.py,file
+Subdomains Enumeration.md,file
+Tomcat CVE-2017-12617.py,file
+Traversal.txt,file
+Type Juggling,dir
+Upload Insecure Files,dir
+WeakParser.jpg,file
+Web Cache Deception,dir
+Web Sockets,dir
+Web-files.txt,file
+WebLogic CVE-2016-3510.py,file
+WebLogic CVE-2017-10271.py,file
+WebLogic CVE-2018-2894.py,file
+WebSphere CVE-2015-7450.py,file
+WebsocketHarness.jpg,file
+Windows - Download and Execute.md,file
+Windows - Mimikatz.md,file
+Windows - Persistence.md,file
+Windows - Post Exploitation Koadic.md,file
+Windows - Privilege Escalation.md,file
+Windows - Using credentials.md,file
+Windows-files.txt,file
+XPATH Injection,dir
+XSLT Injection,dir
+XSLT1.jpg,file
+XSS Injection,dir
+XSS in Angular.md,file
+XSS with Relative Path Overwrite.md,file
+XSSDetection.txt,file
+XSS_Polyglots.txt,file
+XXE Injection,dir
+"XXE OOB Attack (Yunusov, 2013).xml",file
+XXE PHP Wrapper.xml,file
+XXE_Fuzzing.txt,file
+YOUTUBE.md,file
+Zip Slip,dir
+_template_vuln,dir
+aws-cli.jpg,file
+command-execution-unix.txt,file
+command_exec.txt,file
+crlfinjection.txt,file
+deep_traversal.txt,file
+directory_traversal.txt,file
+dot-slash-PathTraversal_and_LFI_pairing.txt,file
+dotdotpwn.txt,file
+eicar.txt,file
+etc_passwd.zip,file
+exec.shtml,file
+exploit_JPG.py,file
+exploit_PNG_110x110.php,file
+extensions.lst,file
+gen_avi_bypass.py,file
+gen_xbin_avi.py,file
+generate.sh,file
+htb-help.png,file
+httpd.conf,file
+idor.png,file
+imagemagik_ghostscript_cmd_exec.pdf,file
+imagemagik_ghostscript_reverse_shell.jpg,file
+imagetragik1_payload_imageover_file_exfiltration_pangu_wrapper.jpg,file
+imagetragik1_payload_imageover_file_exfiltration_text_wrapper.jpg,file
+imagetragik1_payload_imageover_reverse_shell_devtcp.jpg,file
+imagetragik1_payload_imageover_reverse_shell_netcat_fifo.png,file
+imagetragik1_payload_imageover_wget.gif,file
+imagetragik1_payload_url_bind_shell_nc.mvg,file
+imagetragik1_payload_url_curl.png,file
+imagetragik1_payload_url_portscan.jpg,file
+imagetragik1_payload_url_remote_connection.mvg,file
+imagetragik1_payload_url_reverse_shell_bash.mvg,file
+imagetragik1_payload_url_touch.jpg,file
+imagetragik1_payload_xml_reverse_shell_nctraditional.xml,file
+imagetragik1_payload_xml_reverse_shell_netcat_encoded.xml,file
+imagetragik2_burpcollaborator_passwd.jpg,file
+imagetragik2_centos_id.jpg,file
+imagetragik2_ubuntu_id.jpg,file
+imagetragik2_ubuntu_shell.jpg,file
+imagetragik2_ubuntu_shell2.jpg,file
+include.shtml,file
+index.stm,file
+ip.py,file
+jsonp_endpoint.txt,file
+open_redirect_wordlist.txt,file
+openredirects.txt,file
+param_miner_lowercase_headers.txt,file
+passwd,file
+payloads-sql-blind-MSSQL-INSERT,file
+payloads-sql-blind-MSSQL-WHERE,file
+payloads-sql-blind-MySQL-INSERT,file
+payloads-sql-blind-MySQL-ORDER_BY,file
+payloads-sql-blind-MySQL-WHERE,file
+phpinfo.jpg.php,file
+phpinfo.phar,file
+phpinfo.php,file
+phpinfo.php3,file
+phpinfo.php4,file
+phpinfo.php5,file
+phpinfo.php7,file
+phpinfo.phpt,file
+phpinfo.pht,file
+phpinfo.phtml,file
+phpinfolfi.py,file
+poc.js,file
+poc.py,file
+python-admin-__init__.py.zip,file
+python-conf-__init__.py.zip,file
+python-config-__init__.py.zip,file
+python-controllers-__init__.py.zip,file
+python-generate-init.py,file
+python-login-__init__.py.zip,file
+python-models-__init__.py.zip,file
+python-modules-__init__.py.zip,file
+python-scripts-__init__.py.zip,file
+python-settings-__init__.py.zip,file
+python-tests-__init__.py.zip,file
+python-urls-__init__.py.zip,file
+python-utils-__init__.py.zip,file
+python-view-__init__.py.zip,file
+read_passwd.avi,file
+read_passwd_bypass.mp4,file
+read_shadow.avi,file
+read_shadow_bypass.mp4,file
+readme.md,file
+result.pdf,file
+serverside.png,file
+shell.asa,file
+shell.asmx,file
+shell.asp,file
+shell.aspx,file
+shell.cer,file
+shell.gif?shell.php,file
+shell.jpeg.php,file
+shell.jpg.php,file
+shell.jpg?shell.php,file
+shell.pgif,file
+shell.phar,file
+shell.php,file
+shell.php3,file
+shell.php4,file
+shell.php5,file
+shell.php7,file
+shell.phpt,file
+shell.pht,file
+shell.phtml,file
+shell.png.php,file
+shell.png?shell.php,file
+shell.xamlx,file
+shellymcshellface.sh,file
+simple-check.txt,file
+springboot_actuator.txt,file
+sqlmap.png,file
+ssi_quick.txt,file
+ssrf_ffmpeg.avi,file
+ssrf_iframe.svg,file
+ssrf_svg_css_import.svg,file
+ssrf_svg_css_link.svg,file
+ssrf_svg_css_xmlstylesheet.svg,file
+ssrf_svg_image.svg,file
+ssrf_svg_use.svg,file
+traversals-8-deep-exotic-encoding.txt,file
+uploadlfi.py,file
+vBulletin RCE 5.0.0 - 5.5.4.sh,file
+web.config,file
+websocket-harness-start.png,file
+wildcard_underscore.jpg,file
+ws-harness.py,file
+xml-attacks.txt,file
+xml.xsd,file
+xss.cer,file
+xss.dtd,file
+xss.htm,file
+xss.html,file
+xss.html.demo,file
+xss.hxt,file
+xss.mno,file
+xss.rdf,file
+xss.svgz,file
+xss.swf,file
+xss.url.url,file
+xss.vml,file
+xss.wsdl,file
+xss.xht,file
+xss.xhtml,file
+xss.xml,file
+xss.xsd,file
+xss.xsf,file
+xss.xsl,file
+xss.xslt,file
+xss_alert.txt,file
+xss_comment_exif_metadata_double_quote.png,file
+xss_comment_exif_metadata_single_quote.png,file
+xss_payloads_quick.txt,file
+xss_swf_fuzz.txt,file
+xssproject.swf,file

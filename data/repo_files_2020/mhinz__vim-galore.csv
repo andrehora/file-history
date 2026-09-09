@@ -1,0 +1,15 @@
+name,type
+.travis.yml,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+LICENSE.txt,file
+PLUGINS.md,file
+README.md,file
+badge-awesome.svg,file
+content-adm-3a-layout.jpg,file
+content-block_insert.gif,file
+content-homerow.png,file
+images,dir
+logo-vim-galore.png,file
+minimal-vimrc.vim,file
+static,dir

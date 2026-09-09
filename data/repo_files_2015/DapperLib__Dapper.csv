@@ -1,0 +1,239 @@
+name,type
+.gitattributes,file
+.gitignore,file
+.hgignore,file
+.hgtags,file
+.nuget,dir
+ActiveRecord.cs,file
+ActiveRecord.tt,file
+App.config,file
+App.config.transform,file
+AssemblyInfo.cs,file
+Assert.cs,file
+BLToolkit.4.dll,file
+Content,dir
+Context.cs,file
+Context.tt,file
+Dapper NET35,dir
+Dapper NET35 SNK,dir
+Dapper NET35 SNK.csproj,file
+Dapper NET35.csproj,file
+Dapper NET40,dir
+Dapper NET40 SNK,dir
+Dapper NET40 SNK.csproj,file
+Dapper NET40.csproj,file
+Dapper NET45,dir
+Dapper NET45 SNK,dir
+Dapper NET45 SNK.csproj,file
+Dapper NET45.csproj,file
+Dapper.Contrib,dir
+Dapper.Contrib NET45,dir
+Dapper.Contrib NET45.csproj,file
+Dapper.Contrib.1.0.nupkg,file
+Dapper.Contrib.Tests,dir
+Dapper.Contrib.Tests NET45,dir
+Dapper.Contrib.Tests NET45.csproj,file
+Dapper.Contrib.Tests.csproj,file
+Dapper.Contrib.csproj,file
+Dapper.Contrib.nuspec,file
+Dapper.EntityFramework NET40,dir
+Dapper.EntityFramework NET40 SNK,dir
+Dapper.EntityFramework NET40 SNK.csproj,file
+Dapper.EntityFramework NET40.csproj,file
+Dapper.EntityFramework NET45,dir
+Dapper.EntityFramework NET45 SNK,dir
+Dapper.EntityFramework NET45 SNK.csproj,file
+Dapper.EntityFramework NET45.csproj,file
+Dapper.EntityFramework.StrongName.nuspec,file
+Dapper.EntityFramework.nuspec,file
+Dapper.Rainbow,dir
+Dapper.Rainbow NET45,dir
+Dapper.Rainbow NET45.csproj,file
+Dapper.Rainbow.csproj,file
+Dapper.Rainbow.nuspec,file
+Dapper.SqlBuilder,dir
+Dapper.SqlBuilder.csproj,file
+Dapper.StrongName.nuspec,file
+Dapper.sln,file
+Dapper.snk,file
+DapperTests NET35,dir
+DapperTests NET35.csproj,file
+DapperTests NET40.csproj,file
+DapperTests NET45,dir
+DapperTests NET45.csproj,file
+DataClasses.dbml,file
+DataClasses.dbml.layout,file
+DataClasses.designer.cs,file
+DataSources,dir
+Database.cs,file
+DatabaseAsync.cs,file
+DbGeographyHandler.cs,file
+DbGeometryHandler.cs,file
+EFContext.cs,file
+EntityFramework,dir
+EntityFramework.6.1.2-beta1,dir
+EntityFramework.PowerShell.Utility.dll,file
+EntityFramework.PowerShell.dll,file
+EntityFramework.SqlServer.dll,file
+EntityFramework.SqlServer.xml,file
+EntityFramework.dll,file
+EntityFramework.psd1,file
+EntityFramework.psm1,file
+EntityFramework.xml,file
+FSPowerPack.Community.3.0.0.0,dir
+FSPowerPack.Core.Community.3.0.0.0,dir
+FSPowerPack.Linq.Community.3.0.0.0,dir
+FSPowerPack.Metadata.Community.3.0.0.0,dir
+FSPowerPack.Parallel.Seq.Community.3.0.0.0,dir
+FSharp.Compiler.CodeDom.dll,file
+FSharp.Compiler.CodeDom.xml,file
+FSharp.Core.4.0.0,dir
+FSharp.Core.dll,file
+FSharp.Core.xml,file
+FSharp.PowerPack.Build.Tasks.dll,file
+FSharp.PowerPack.Build.Tasks.xml,file
+FSharp.PowerPack.Compatibility.dll,file
+FSharp.PowerPack.Compatibility.xml,file
+FSharp.PowerPack.Linq.dll,file
+FSharp.PowerPack.Linq.xml,file
+FSharp.PowerPack.Metadata.dll,file
+FSharp.PowerPack.Metadata.xml,file
+FSharp.PowerPack.Parallel.Seq.dll,file
+FSharp.PowerPack.Parallel.Seq.xml,file
+FSharp.PowerPack.dll,file
+FSharp.PowerPack.targets,file
+FSharp.PowerPack.xml,file
+FirebirdSql.Data.FirebirdClient.4.5.1.0,dir
+FirebirdSql.Data.FirebirdClient.dll,file
+FirebirdSql.Data.FirebirdClient.pdb,file
+Handlers.cs,file
+Iesi.Collections.dll,file
+IgnorePropertyAttribute.cs,file
+Install.ps1,file
+InstallationDummyFile.txt,file
+Lib,dir
+License.txt,file
+LinFu.DynamicProxy.dll,file
+Linq2Sql,dir
+Loader.cs,file
+Massive,dir
+Massive.cs,file
+Microsoft.SqlServer.Compact.4.0.8876.1,dir
+Microsoft.SqlServer.Types.11.0.1,dir
+Microsoft.SqlServer.Types.dll,file
+Microsoft.VC90.CRT,dir
+Microsoft.VC90.CRT.manifest,file
+Mono.Security.dll,file
+NHibernate,dir
+NHibernate.ByteCode.LinFu.dll,file
+NHibernate.dll,file
+NHibernateHelper.cs,file
+NativeBinaries,dir
+Net20,dir
+Net40,dir
+Npgsql.2.1.3,dir
+Npgsql.2.2.1,dir
+Npgsql.dll,file
+Npgsql.resources.dll,file
+Npgsql.xml,file
+OrmLite,dir
+Packages.dgml,file
+PerformanceTests.cs,file
+PetaPoco,dir
+PetaPoco.cs,file
+Post.cs,file
+Post.hbm.xml,file
+Program.cs,file
+Properties,dir
+README_ENU.txt,file
+Readme.md,file
+SQLCE_EULA_ENU.rtf,file
+SQLServer.ttinclude,file
+ServiceStack.Common.dll,file
+ServiceStack.Interfaces.dll,file
+ServiceStack.OrmLite.SqlServer.dll,file
+ServiceStack.OrmLite.dll,file
+ServiceStack.Text.dll,file
+Settings.Designer.cs,file
+Settings.settings,file
+Settings.ttinclude,file
+Simple.Data,dir
+Simple.Data.Ado.dll,file
+Simple.Data.SqlServer.dll,file
+Simple.Data.dll,file
+Snapshotter.cs,file
+Soma,dir
+Soma.Core.IT.MsSql.dll,file
+Soma.Core.IT.MsSqlCe.dll,file
+Soma.Core.dll,file
+SqlBuilder.cs,file
+SqlCompactDatabase.cs,file
+SqlMapper.EntityFramework.tempdbEntities1.datasource,file
+SqlMapper.cs,file
+SqlMapperAsync.cs,file
+SqlMapperExtensions.cs,file
+SqlServerSpatial110.dll,file
+SqlServerTypes,dir
+StoredProcedures.cs,file
+StoredProcedures.tt,file
+Structs.cs,file
+Structs.tt,file
+SubSonic,dir
+SubSonic.Core.dll,file
+System.Data.SqlServerCe.dll,file
+Tests,dir
+Tests.cs,file
+TestsAsync.cs,file
+Tools,dir
+Uninstall.ps1,file
+VS.psd1,file
+VS.psm1,file
+Web.config.transform,file
+about_EntityFramework.help.txt,file
+amd64,dir
+app.config,file
+bltoolkit,dir
+content,dir
+dapper.nuspec,file
+de,dir
+es,dir
+fi,dir
+fr,dir
+fslex.exe,file
+fsyacc.exe,file
+hibernate.cfg.xml,file
+init.ps1,file
+install.ps1,file
+ja,dir
+lib,dir
+migrate.exe,file
+msvcr100.dll,file
+msvcr90.dll,file
+nativeBinaries,dir
+net20,dir
+net35,dir
+net40,dir
+net40-client,dir
+net45,dir
+packages,dir
+packages.config,file
+readme.htm,file
+readme.txt,file
+repositories.config,file
+sl3,dir
+sl3-wp,dir
+sl4,dir
+sl4-windowsphone71,dir
+sl5,dir
+sqlceca40.dll,file
+sqlcecompact40.dll,file
+sqlceer40EN.dll,file
+sqlceme40.dll,file
+sqlceqp40.dll,file
+sqlcese40.dll,file
+tools,dir
+uninstall.ps1,file
+web.config.transform,file
+x64,dir
+x86,dir
+zh-CN,dir

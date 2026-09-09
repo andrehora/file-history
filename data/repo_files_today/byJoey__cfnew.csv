@@ -1,0 +1,7 @@
+name,type
+.github,dir
+README.md,file
+obfuscate.yml,file
+snippets,file
+test.yml,file
+workflows,dir

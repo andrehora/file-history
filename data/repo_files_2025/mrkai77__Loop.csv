@@ -1,0 +1,337 @@
+name,type
+.github,dir
+.gitignore,file
+.swiftformat,file
+0w0x,dir
+103985728.jpeg,file
+12px_chevron-right.imageset,dir
+12px_chevron-right.pdf,file
+12px_clipboard.imageset,dir
+12px_clipboard.pdf,file
+12px_share-up-right.imageset,dir
+12px_share-up-right.pdf,file
+18px_badge-check-2.imageset,dir
+18px_badge-check-2.pdf,file
+18px_color-palette.imageset,dir
+18px_color-palette.pdf,file
+18px_command.imageset,dir
+18px_command.pdf,file
+18px_face-nerd-smile.imageset,dir
+18px_face-nerd-smile.pdf,file
+18px_finder.imageset,dir
+18px_finder.pdf,file
+18px_gear.imageset,dir
+18px_gear.pdf,file
+18px_image-depth.imageset,dir
+18px_image-depth.pdf,file
+18px_lock.imageset,dir
+18px_lock.pdf,file
+18px_msg-smile-2.imageset,dir
+18px_msg-smile-2.pdf,file
+18px_paintbrush.imageset,dir
+18px_paintbrush.pdf,file
+18px_pen-2.imageset,dir
+18px_pen-2.pdf,file
+18px_repeat-4.imageset,dir
+18px_repeat-4.pdf,file
+18px_return-key.imageset,dir
+18px_return-key.pdf,file
+18px_ruler-pen.imageset,dir
+18px_ruler-pen.pdf,file
+18px_ruler.imageset,dir
+18px_ruler.pdf,file
+18px_shape-square.imageset,dir
+18px_shape-square.pdf,file
+18px_sidebar-left-3.imageset,dir
+18px_sidebar-left-3.pdf,file
+18px_sidebar-left-hide.imageset,dir
+18px_sidebar-left-hide.pdf,file
+18px_sidebar-right-2.imageset,dir
+18px_sidebar-right-2.pdf,file
+18px_size.imageset,dir
+18px_size.pdf,file
+18px_sliders.imageset,dir
+18px_sliders.pdf,file
+18px_square-sparkle.imageset,dir
+18px_square-sparkle.pdf,file
+18px_table-lock.imageset,dir
+18px_table-lock.pdf,file
+18px_table-rows-3-cols-3.imageset,dir
+18px_table-rows-3-cols-3.pdf,file
+18px_window-lock.imageset,dir
+18px_window-lock.pdf,file
+AXUIElement+Extensions.swift,file
+AboutConfiguration.swift,file
+AccentColorConfiguration.swift,file
+AdvancedConfiguration.swift,file
+Angle+Extensions.swift,file
+AnimationConfiguration.swift,file
+App Icons,dir
+AppDelegate+UNNotifications.swift,file
+AppDelegate.swift,file
+AppIcon-Black Hole.appiconset,dir
+AppIcon-Black.appiconset,dir
+AppIcon-Classic.appiconset,dir
+AppIcon-Daylight.appiconset,dir
+AppIcon-Developer.appiconset,dir
+AppIcon-Holo.appiconset,dir
+AppIcon-Keycap.appiconset,dir
+AppIcon-Loop Master.appiconset,dir
+AppIcon-Meta Loop.appiconset,dir
+AppIcon-Neon.appiconset,dir
+AppIcon-Rose Pine.appiconset,dir
+AppIcon-Summer.appiconset,dir
+AppIcon-Synthwave Sunset.appiconset,dir
+AppIcon-White.appiconset,dir
+Assets.xcassets,dir
+Behavior,dir
+BehaviorConfiguration.swift,file
+Black Hole-1024.png,file
+Black Hole-128.png,file
+Black Hole-16.png,file
+Black Hole-256.png,file
+Black Hole-32.png,file
+Black Hole-512.png,file
+Black Hole-64.png,file
+Black-1024.png,file
+Black-128.png,file
+Black-16.png,file
+Black-256.png,file
+Black-32.png,file
+Black-512.png,file
+Black-64.png,file
+Bundle+Extensions.swift,file
+CGEvent+Extensions.swift,file
+CGGeometry+Extensions.swift,file
+CGKeyCode+Extensions.swift,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CONTRIBUTORS.md,file
+Classic-1024.png,file
+Classic-128.png,file
+Classic-16.png,file
+Classic-256.png,file
+Classic-32.png,file
+Classic-512.png,file
+Classic-64.png,file
+Classic.png,file
+Color+Extensions.swift,file
+Config.xcconfig,file
+Contents.json,file
+Credits,dir
+Custom Window Sizes,dir
+CustomActionConfigurationView.swift,file
+CustomTextField.swift,file
+CustomWindowActionAnchor.swift,file
+CustomWindowActionPositionMode.swift,file
+CustomWindowActionSizeMode.swift,file
+CustomWindowActionUnit.swift,file
+CycleActionConfigurationView.swift,file
+Cycles.mp4,file
+Daylight-1024.png,file
+Daylight-128.png,file
+Daylight-16.png,file
+Daylight-256.png,file
+Daylight-32.png,file
+Daylight-512.png,file
+Daylight-64.png,file
+Defaults+Extensions.swift,file
+Developer-1024.png,file
+Developer-128.png,file
+Developer-16.png,file
+Developer-256.png,file
+Developer-32.png,file
+Developer-512.png,file
+Developer-64.png,file
+DirectionSelectorCircleSegment.swift,file
+DirectionSelectorSquareSegment.swift,file
+EventMonitor.swift,file
+ExcludedAppsConfiguration.swift,file
+ExportOptions.plist,file
+Extensions,dir
+FUNDING.yml,file
+GitHub-Mark-ea2971cee799.png,file
+Greg Lassale,dir
+Holo-1024.png,file
+Holo-128.png,file
+Holo-16.png,file
+Holo-256.png,file
+Holo-32.png,file
+Holo-512.png,file
+Holo-64.png,file
+ISSUE_TEMPLATE,dir
+Icon.swift,file
+IconConfiguration.swift,file
+IconManager.swift,file
+Info.plist,file
+InfoPlist.strings,file
+JSDev,dir
+Keybind Recorder,dir
+KeybindItemView.swift,file
+KeybindMonitor.swift,file
+Keybindings,dir
+KeybindsConfigurationView.swift,file
+Keyboard Shortcuts.mp4,file
+Keycap-1024.png,file
+Keycap-128.png,file
+Keycap-16.png,file
+Keycap-256.png,file
+Keycap-32.png,file
+Keycap-512.png,file
+Keycap-64.png,file
+Keycorder.swift,file
+LICENSE,file
+Localizable.xcstrings,file
+Loop,dir
+Loop (GH ACTIONS).xcscheme,file
+Loop.entitlements,file
+Loop.xcodeproj,dir
+Loop.xcscheme,file
+LoopApp.swift,file
+LoopManager.swift,file
+Luminare,dir
+LuminareManager.swift,file
+LuminarePreviewView.swift,file
+Managers,dir
+Master-1024.png,file
+Master-128.png,file
+Master-16.png,file
+Master-256.png,file
+Master-32.png,file
+Master-512.png,file
+Master-64.png,file
+Meta Loop-1024.png,file
+Meta Loop-128.png,file
+Meta Loop-16.png,file
+Meta Loop-256.png,file
+Meta Loop-32.png,file
+Meta Loop-512.png,file
+Meta Loop-64.png,file
+Migrator.swift,file
+NSEvent+Extensions.swift,file
+NSScreen+Extensions.swift,file
+Neon-1024.png,file
+Neon-128.png,file
+Neon-16.png,file
+Neon-256.png,file
+Neon-32.png,file
+Neon-512.png,file
+Neon-64.png,file
+Notification+Extensions.swift,file
+Nucleo,dir
+Observer.swift,file
+Padding Configuration,dir
+PaddingConfigurationView.swift,file
+PaddingModel.swift,file
+PaddingPreviewView.swift,file
+PermissionsManager.swift,file
+PopoverPicker.swift,file
+Preview Assets.xcassets,dir
+Preview Content,dir
+Preview Theming.mov,file
+Preview Window,dir
+Preview.mp4,file
+PreviewConfiguration.swift,file
+PreviewController.swift,file
+PreviewView.swift,file
+README.md,file
+Radial Menu,dir
+Radial Menu Theming.mp4,file
+Radial Menu.mp4,file
+RadialMenuConfiguration.swift,file
+RadialMenuController.swift,file
+RadialMenuView.swift,file
+RectangleTranslationLayer.swift,file
+Rose Pine-1024.png,file
+Rose Pine-128.png,file
+Rose Pine-16.png,file
+Rose Pine-256.png,file
+Rose Pine-32.png,file
+Rose Pine-512.png,file
+Rose Pine-64.png,file
+ScreenManager.swift,file
+Searchable Popover Picker,dir
+Settings,dir
+ShakeEffect.swift,file
+Summer-1024.png,file
+Summer-128.png,file
+Summer-16.png,file
+Summer-256.png,file
+Summer-32.png,file
+Summer-512.png,file
+Summer-64.png,file
+Synthwave Sunset-1024.png,file
+Synthwave Sunset-128.png,file
+Synthwave Sunset-16.png,file
+Synthwave Sunset-256.png,file
+Synthwave Sunset-32.png,file
+Synthwave Sunset-512.png,file
+Synthwave Sunset-64.png,file
+SystemWindowManager.swift,file
+TheLoopTimes.swift,file
+Theming,dir
+TriggerKeycorder.swift,file
+U5MArPgZ_200x200.jpg,file
+UNNotification+Extensions.swift,file
+UpdateView.swift,file
+Updater,dir
+Updater.swift,file
+Utilities,dir
+View+Extensions.swift,file
+VisualEffectView.swift,file
+WallpaperColors.swift,file
+WallpaperView.swift,file
+White-1024.png,file
+White-128.png,file
+White-16.png,file
+White-256.png,file
+White-32.png,file
+White-512.png,file
+White-64.png,file
+Window Management,dir
+Window.swift,file
+WindowAction+Image.swift,file
+WindowAction.swift,file
+WindowDirection+LocalizedString.swift,file
+WindowDirection+Snapping.swift,file
+WindowDirection.swift,file
+WindowDragManager.swift,file
+WindowEngine.swift,file
+WindowRecords.swift,file
+WindowTransformAnimation.swift,file
+ar.lproj,dir
+assets,dir
+bug-report.yml,file
+config.yml,file
+de.lproj,dir
+dev-build.yml,file
+empty.imageset,dir
+empty.png,file
+feature-request.yml,file
+github.imageset,dir
+graphics,dir
+it.lproj,dir
+jace.imageset,dir
+kai.imageset,dir
+kai.jpg,file
+kami.imageset,dir
+ko.lproj,dir
+lint.yml,file
+localisation.yml,file
+loop.svg,file
+loop.symbolset,dir
+loop_demo.gif,file
+menubarIcon.imageset,dir
+menubarIconx2.png,file
+menubarIconx3.png,file
+nl-BE.lproj,dir
+project.pbxproj,file
+reset_build_number.sh,file
+ru.lproj,dir
+set_build_number.sh,file
+suggest-icon.yml,file
+workflows,dir
+xcschemes,dir
+xcshareddata,dir
+zh-Hans.lproj,dir
+zh-Hant.lproj,dir

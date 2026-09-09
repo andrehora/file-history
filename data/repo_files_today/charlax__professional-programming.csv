@@ -1,0 +1,61 @@
+name,type
+.pre-commit-config.yaml,file
+01-modern-javascript.md,file
+02-react.md,file
+03-typescript.md,file
+04-the-browser.md,file
+05-css-html-restart.md,file
+06-front-end-development-practices.md,file
+CONTRIBUTING.md,file
+Clean-Architecture-V1.0.pdf,file
+Clean-Code-V2.4.pdf,file
+LICENSE,file
+List of AI and LLM learning resources 20260104144118.md,file
+README.md,file
+amazon_writing_rules.jpeg,file
+antipatterns,dir
+caniuse.png,file
+cheatsheets,dir
+clean-architecture-cone.jpg,file
+code-antipatterns.md,file
+cost-of-defects.jpg,file
+database-antipatterns.md,file
+decomposing problems.jpg,file
+error-handling-antipatterns.md,file
+examples,dir
+exists.py,file
+feature-flags.md,file
+front-end,dir
+glossary.md,file
+hoisting.html,file
+how-not-to-build-mvp.jpg,file
+images,dir
+img,dir
+js-the-good-parts.jpg,file
+learning-python,dir
+learning-roadmap.png,file
+let-your-bugs-teach-you-julia-evans.jpg,file
+list-of-links,dir
+mvcs-antipatterns.md,file
+mvp.jpeg,file
+premature automation.png,file
+premature-optimization-flowchart.png,file
+python-examples,dir
+reraise_exceptions_bad.py,file
+reraise_exceptions_good.py,file
+rewrite.gif,file
+scalability-antipatterns.md,file
+software_architecture_pasta.png,file
+sqlalchemy-antipatterns.md,file
+sqlalchemy-examples,dir
+syntax-highlighting.jpeg,file
+tech-debt.jpeg,file
+test-pyramid.png,file
+tests-antipatterns.md,file
+the reality of automation.png,file
+training,dir
+us-vs-them.jpeg,file
+uwe-friedrichsen-resilient-architecture.png,file
+waterfall-UX.jpeg,file
+web-dev,dir
+what to assert.png,file

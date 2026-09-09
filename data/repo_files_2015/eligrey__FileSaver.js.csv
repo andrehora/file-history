@@ -1,0 +1,10 @@
+name,type
+FileSaver.js,file
+FileSaver.min.js,file
+LICENSE.md,file
+README.md,file
+demo,dir
+demo.css,file
+demo.js,file
+demo.min.js,file
+index.xhtml,file

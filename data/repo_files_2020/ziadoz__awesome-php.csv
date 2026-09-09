@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.travis.yml,file
+CODE-OF-CONDUCT.md,file
+COLLABORATING.md,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+awesomebot.yml,file
+workflows,dir

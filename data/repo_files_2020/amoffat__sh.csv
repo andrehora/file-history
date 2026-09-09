@@ -1,0 +1,16 @@
+name,type
+.coveragerc,file
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+LICENSE.txt,file
+MANIFEST.in,file
+README.rst,file
+logo-230.png,file
+logo-big.png,file
+requirements-dev.txt,file
+requirements-docs.txt,file
+setup.cfg,file
+setup.py,file
+sh.py,file
+test.py,file

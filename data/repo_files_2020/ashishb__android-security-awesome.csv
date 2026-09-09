@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.travis.yml,file
+FUNDING.yml,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+README.md,file
+contributing.md,file
+run_awesome_bot.sh,file

@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+bind.go,file
+doc.go,file
+named.go,file
+named_test.go,file
+reflect.go,file
+reflect_test.go,file
+reflectx,dir
+sqlx.go,file
+sqlx_test.go,file
+types,dir
+types.go,file
+types_test.go,file

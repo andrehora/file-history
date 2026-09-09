@@ -1,0 +1,478 @@
+name,type
+.gitignore,file
+1. Thirty Days.csv,file
+2. Three Months.csv,file
+3. Six Months.csv,file
+4. More Than Six Months.csv,file
+5. All.csv,file
+AMD,dir
+AQR Capital Management,dir
+Accenture,dir
+Accolite,dir
+Acko,dir
+Activision,dir
+Adobe,dir
+Affirm,dir
+Agoda,dir
+Airbnb,dir
+Airbus SE,dir
+Airtel,dir
+Airwallex,dir
+Akamai,dir
+Akuna Capital,dir
+Alibaba,dir
+Altimetrik,dir
+Amadeus,dir
+Amazon,dir
+Amdocs,dir
+American Express,dir
+Analytics quotient,dir
+Anduril,dir
+Aon,dir
+Apollo.io,dir
+AppDynamics,dir
+AppFolio,dir
+Apple,dir
+Applied Intuition,dir
+Arcesium,dir
+Arista Networks,dir
+Asana,dir
+Atlassian,dir
+Attentive,dir
+Audible,dir
+Aurora,dir
+Autodesk,dir
+Avalara,dir
+Avito,dir
+Axon,dir
+BILL Holdings,dir
+BNY Mellon,dir
+BP,dir
+Baidu,dir
+Bank of America,dir
+Barclays,dir
+Bentley Systems,dir
+BharatPe,dir
+BitGo,dir
+BlackRock,dir
+BlackStone,dir
+Blizzard,dir
+Block,dir
+Bloomberg,dir
+Bolt,dir
+Booking.com,dir
+Bosch,dir
+Box,dir
+Braze,dir
+Brex,dir
+Bridgewater Associates,dir
+ByteDance,dir
+CARS24,dir
+CEDCOSS,dir
+CME Group,dir
+CRED,dir
+CTC,dir
+CVENT,dir
+Cadence,dir
+Canonical,dir
+Capgemini,dir
+Capital One,dir
+Careem,dir
+Cashfree,dir
+Celigo,dir
+Chewy,dir
+Chime,dir
+Circle,dir
+Cisco,dir
+Citadel,dir
+Citigroup,dir
+Citrix,dir
+Clari,dir
+Cleartrip,dir
+Cloudera,dir
+Cloudflare,dir
+Coforge,dir
+Cognizant,dir
+Cohesity,dir
+Coinbase,dir
+Comcast,dir
+Commvault,dir
+Compass,dir
+Confluent,dir
+ConsultAdd,dir
+Coupang,dir
+Coursera,dir
+Coveo,dir
+Credit Karma,dir
+Criteo,dir
+CrowdStrike,dir
+Cruise,dir
+CureFit,dir
+DE Shaw,dir
+DP world,dir
+DRW,dir
+DXC Technology,dir
+Darwinbox,dir
+Databricks,dir
+Datadog,dir
+Dataminr,dir
+Delhivery,dir
+Deliveroo,dir
+Dell,dir
+Deloitte,dir
+DeltaX,dir
+Deutsche Bank,dir
+DevRev,dir
+Devsinc,dir
+Devtron,dir
+Directi,dir
+Disney,dir
+Docusign,dir
+DoorDash,dir
+Dream11,dir
+Dropbox,dir
+Druva,dir
+Dunzo,dir
+Duolingo,dir
+EPAM Systems,dir
+EY,dir
+EarnIn,dir
+Edelweiss Group,dir
+Electronic Arts,dir
+Epic Systems,dir
+Expedia,dir
+FPT,dir
+FactSet,dir
+Faire,dir
+Fastenal,dir
+Fidelity,dir
+Fiverr,dir
+Flexera,dir
+Flexport,dir
+Flipkart,dir
+Fortinet,dir
+Freecharge,dir
+FreshWorks,dir
+GE Digital,dir
+GE Healthcare,dir
+GSA Capital,dir
+GSN Games,dir
+Gameskraft,dir
+Garmin,dir
+Geico,dir
+General Motors,dir
+Genpact,dir
+GoDaddy,dir
+Gojek,dir
+Goldman Sachs,dir
+Google,dir
+Grab,dir
+Grammarly,dir
+Graviton,dir
+Groupon,dir
+Groww,dir
+Grubhub,dir
+Guidewire,dir
+Gusto,dir
+HCL,dir
+HP,dir
+HPE,dir
+HSBC,dir
+Harness,dir
+HashedIn,dir
+Hertz,dir
+HiLabs,dir
+Highspot,dir
+Hive,dir
+Hiver,dir
+Honeywell,dir
+Hotstar,dir
+Houzz,dir
+Huawei,dir
+Hubspot,dir
+Hudson River Trading,dir
+Hulu,dir
+IBM,dir
+IIT Bombay,dir
+IMC,dir
+INDmoney,dir
+IVP,dir
+IXL,dir
+InMobi,dir
+Indeed,dir
+Info Edge,dir
+Informatica,dir
+Infosys,dir
+Instacart,dir
+Intel,dir
+Intuit,dir
+J.P. Morgan,dir
+Jane Street,dir
+Jump Trading,dir
+Juniper Networks,dir
+Juspay,dir
+KLA,dir
+Kakao,dir
+Karat,dir
+Komprise,dir
+LINE,dir
+LTI,dir
+Larsen & Toubro,dir
+Lendingkart Technologies,dir
+Lenskart,dir
+Licious,dir
+Liftoff,dir
+LinkedIn,dir
+LiveRamp,dir
+Lowe's,dir
+Lucid,dir
+Luxoft,dir
+Lyft,dir
+MAQ Software,dir
+MSCI,dir
+Machine Zone,dir
+MakeMyTrip,dir
+Mapbox,dir
+Mastercard,dir
+MathWorks,dir
+McKinsey,dir
+Media.net,dir
+Meesho,dir
+Mercari,dir
+Meta,dir
+Microsoft,dir
+Microstrategy,dir
+Millennium,dir
+MindTree,dir
+Mindtickle,dir
+Miro,dir
+Mitsogo,dir
+Mixpanel,dir
+Mobileye,dir
+Moengage,dir
+Moloco,dir
+MongoDB,dir
+Morgan Stanley,dir
+Mountblue,dir
+Moveworks,dir
+Myntra,dir
+NCR,dir
+Nagarro,dir
+National Instruments,dir
+National Payments Corporation of India,dir
+Navan,dir
+Navi,dir
+NetApp,dir
+NetEase,dir
+Netflix,dir
+Netskope,dir
+Netsuite,dir
+Nextdoor,dir
+Niantic,dir
+Nielsen,dir
+Nike,dir
+NinjaCart,dir
+Nokia,dir
+Nordstrom,dir
+Notion,dir
+Nuro,dir
+Nutanix,dir
+Nvidia,dir
+Nykaa,dir
+OKX,dir
+Odoo,dir
+Okta,dir
+Ola Cabs,dir
+OpenAI,dir
+Opendoor,dir
+Optiver,dir
+Optum,dir
+Oracle,dir
+Otter.ai,dir
+Ozon,dir
+Palantir Technologies,dir
+Palo Alto Networks,dir
+Patreon,dir
+PayPal,dir
+PayPay,dir
+PayU,dir
+Paycom,dir
+Paytm,dir
+Peloton,dir
+PhonePe,dir
+Pinterest,dir
+Pocket Gems,dir
+Point72,dir
+Pony.ai,dir
+PornHub,dir
+Poshmark,dir
+Postmates,dir
+PubMatic,dir
+Publicis Sapient,dir
+Pure Storage,dir
+Pwc,dir
+QBurst,dir
+Qualcomm,dir
+Qualtrics,dir
+Quora,dir
+RBC,dir
+Rakuten,dir
+Readme.md,file
+Reddit,dir
+Remitly,dir
+Revolut,dir
+Riot Games,dir
+Ripple,dir
+Rippling,dir
+Rivian,dir
+Robinhood,dir
+Roblox,dir
+Roche,dir
+Rokt,dir
+Roku,dir
+Rubrik,dir
+SAP,dir
+SIG,dir
+SOTI,dir
+Salesforce,dir
+Samsara,dir
+Samsung,dir
+Scale AI,dir
+Sentry,dir
+ServiceNow,dir
+ShareChat,dir
+Shopee,dir
+Shopify,dir
+Siemens,dir
+Sigmoid,dir
+Slice,dir
+Smartsheet,dir
+Snap,dir
+Snapdeal,dir
+Snowflake,dir
+SoFi,dir
+Societe Generale,dir
+Softwire,dir
+Sony,dir
+SoundHound,dir
+Splunk,dir
+Spotify,dir
+Sprinklr,dir
+Squarepoint Capital,dir
+Squarespace,dir
+StackAdapt,dir
+Stackline,dir
+Stripe,dir
+Sumo Logic,dir
+Swiggy,dir
+Synopsys,dir
+Tanium,dir
+Target,dir
+Tech Mahindra,dir
+Tejas Networks,dir
+Tekion,dir
+Tencent,dir
+Teradata,dir
+Tesco,dir
+Tesla,dir
+Texas Instruments,dir
+The Trade Desk,dir
+Thomson Reuters,dir
+ThoughtWorks,dir
+ThousandEyes,dir
+Tiger Analytics,dir
+TikTok,dir
+Tinder,dir
+Tinkoff,dir
+Toast,dir
+Toptal,dir
+Tower Research Capital,dir
+Trexquant,dir
+Trilogy,dir
+Tripadvisor,dir
+TuSimple,dir
+Turing,dir
+Turo,dir
+Turvo,dir
+Twilio,dir
+Twitch,dir
+Two Sigma,dir
+UBS,dir
+UKG,dir
+USAA,dir
+Uber,dir
+UiPath,dir
+Unity,dir
+Upstart,dir
+Urban Company,dir
+VK,dir
+VMware,dir
+Valve,dir
+Vanguard,dir
+Veeva Systems,dir
+Verily,dir
+Veritas,dir
+Verkada,dir
+Vimeo,dir
+Virtu Financial,dir
+Virtusa,dir
+Visa,dir
+Walmart Labs,dir
+Warnermedia,dir
+WatchGuard,dir
+Wayfair,dir
+Waymo,dir
+WeRide,dir
+Wealthfront,dir
+Wells Fargo,dir
+Western Digital,dir
+Whatnot,dir
+WinZO,dir
+Wipro,dir
+Wise,dir
+Wish,dir
+Wissen Technology,dir
+Wix,dir
+Workday,dir
+Works Applications,dir
+WorldQuant,dir
+X,dir
+Yahoo,dir
+Yandex,dir
+Yelp,dir
+Yext,dir
+ZS Associates,dir
+ZScaler,dir
+Zalando,dir
+Zendesk,dir
+Zenefits,dir
+Zepto,dir
+Zeta,dir
+Zillow,dir
+ZipRecruiter,dir
+Zluri,dir
+Zoho,dir
+Zomato,dir
+Zoom,dir
+Zoox,dir
+Zopsmart,dir
+Zynga,dir
+athenahealth,dir
+blinkit,dir
+carwale,dir
+ciena,dir
+eBay,dir
+fourkites,dir
+instabase,dir
+jio,dir
+josh technology,dir
+opentext,dir
+oyo,dir
+peak6,dir
+persistent systems,dir
+razorpay,dir
+redbus,dir
+smartnews,dir
+tcs,dir
+thoughtspot,dir
+zeta suite,dir

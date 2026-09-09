@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.urlsup.toml,file
+FUNDING.yml,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+Makefile,file
+README.md,file
+contributing.md,file
+dependabot.yml,file
+lint-github-actions.yaml,file
+lint-markdown.yaml,file
+lint-shell-script.yaml,file
+lint-yaml.yaml,file
+run_awesome_bot.sh,file
+validate-links.yml,file
+workflows,dir

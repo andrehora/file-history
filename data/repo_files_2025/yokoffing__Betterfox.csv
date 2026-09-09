@@ -1,0 +1,16 @@
+name,type
+.github,dir
+FUNDING.yml,file
+Fastfox.js,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+Peskyfox.js,file
+README.md,file
+Securefox.js,file
+Smoothfox.js,file
+bug_report.md,file
+install.py,file
+personal,dir
+policies.json,file
+user-overrides.js,file
+user.js,file

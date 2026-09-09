@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+COPYING,file
+README.md,file
+index.ts,file
+package.json,file
+src,dir
+test,dir
+test_vectors,dir
+tsconfig.json,file
+tsup.config.ts,file
+vitest.config.ts,file
+wotsplus.test.ts,file
+wotsplus.ts,file
+wotsplus_keccak256.json,file

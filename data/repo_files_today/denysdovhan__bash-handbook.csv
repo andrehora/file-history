@@ -1,0 +1,16 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+.npmignore,file
+FUNDING.yml,file
+README.md,file
+bin,dir
+cmd.js,file
+ko-KR,dir
+package-lock.json,file
+package.json,file
+pt-BR,dir
+translations,dir
+zh-CN,dir
+zh-TW,dir

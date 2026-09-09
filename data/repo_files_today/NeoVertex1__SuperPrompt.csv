@@ -1,0 +1,16 @@
+name,type
+CTMS.md,file
+Readme.md,file
+Readme_JP.md,file
+__empty__,file
+alternative_approach.md,file
+alternative_prompt.md,file
+claude_metadata_example.png,file
+data_dump,dir
+flowchart.md,file
+historical_analysis.md,file
+lisp_prompt.md,file
+prompt_for_gpt.md,file
+research,dir
+super_prompt_v2_test1.md,file
+tm_prompt.md,file

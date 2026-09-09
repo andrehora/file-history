@@ -1,0 +1,67 @@
+name,type
+Basque,dir
+Basque.vcxproj,file
+Basque.vcxproj.filters,file
+Bosnian,dir
+Bosnian.vcxproj,file
+Bosnian.vcxproj.filters,file
+Bulgarian,dir
+Bulgarian.vcxproj,file
+Bulgarian.vcxproj.filters,file
+CHANGELOG.md,file
+Chinese (Simplified),dir
+Chinese (Simplified).vcxproj,file
+Chinese (Simplified).vcxproj.filters,file
+Chinese (Traditional),dir
+Chinese (Traditional).vcxproj,file
+Chinese (Traditional).vcxproj.filters,file
+German,dir
+German.vcxproj,file
+German.vcxproj.filters,file
+Italian,dir
+Italian.vcxproj,file
+Italian.vcxproj.filters,file
+Korean,dir
+Korean.vcxproj,file
+Korean.vcxproj.filters,file
+LICENSE,file
+Latvian,dir
+Latvian.vcxproj,file
+Latvian.vcxproj.filters,file
+Portuguese (Brazil),dir
+Portuguese (Brazil).vcxproj,file
+Portuguese (Brazil).vcxproj.filters,file
+Portuguese (Portugal),dir
+Portuguese (Portugal).vcxproj,file
+Portuguese (Portugal).vcxproj.filters,file
+README.md,file
+Russian,dir
+Russian.vcxproj,file
+Russian.vcxproj.filters,file
+Slovak,dir
+Slovak.vcxproj,file
+Slovak.vcxproj.filters,file
+Spanish,dir
+Spanish.vcxproj,file
+Spanish.vcxproj.filters,file
+Swedish,dir
+Swedish.vcxproj,file
+Swedish.vcxproj.filters,file
+ini.cpp,file
+ini.h,file
+languages,dir
+lib,dir
+main.ico,file
+manifest.xml,file
+memreduct.cpp,file
+memreduct.h,file
+memreduct.sln,file
+memreduct.vcxproj,file
+memreduct.vcxproj.filters,file
+ntdll.lib,file
+res,dir
+resource.h,file
+resource.rc,file
+routine.cpp,file
+routine.h,file
+src,dir

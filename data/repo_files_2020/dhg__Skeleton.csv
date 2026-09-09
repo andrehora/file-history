@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+LICENSE.md,file
+README.md,file
+bower.json,file
+css,dir
+favicon.png,file
+images,dir
+index.html,file
+normalize.css,file
+skeleton.css,file

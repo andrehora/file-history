@@ -1,0 +1,237 @@
+name,type
+.ipynb_checkpoints,dir
+00-Modules_and_Packages,dir
+00-Python Object and Data Structure Basics,dir
+01-Advanced Numbers-checkpoint.ipynb,file
+01-Advanced Numbers.ipynb,file
+01-Advanced Object Oriented Programming-checkpoint.ipynb,file
+01-Advanced Object Oriented Programming.ipynb,file
+01-Collections Module-checkpoint.ipynb,file
+01-Collections Module.ipynb,file
+01-Comparison Operators-checkpoint.ipynb,file
+01-Comparison Operators.ipynb,file
+01-Decorators-checkpoint.ipynb,file
+01-Decorators.ipynb,file
+01-Errors and Exceptions Handling-checkpoint.ipynb,file
+01-Errors and Exceptions Handling.ipynb,file
+01-Final Capstone Project-checkpoint.ipynb,file
+01-Final Capstone Project.ipynb,file
+01-Interact-checkpoint.ipynb,file
+01-Interact.ipynb,file
+01-Introduction to Python Statements-checkpoint.ipynb,file
+01-Introduction to Python Statements.ipynb,file
+01-Iterators and Generators-checkpoint.ipynb,file
+01-Iterators and Generators.ipynb,file
+01-Map-checkpoint.ipynb,file
+01-Map.ipynb,file
+01-Methods-checkpoint.ipynb,file
+01-Methods.ipynb,file
+01-Milestone Project 1 - Assignment-checkpoint.ipynb,file
+01-Milestone Project 1 - Assignment.ipynb,file
+01-Milestone Project 2 - Assignment-checkpoint.ipynb,file
+01-Milestone Project 2 - Assignment.ipynb,file
+01-Modules and Packages-checkpoint.ipynb,file
+01-Multithreading and Multiprocessing-checkpoint.ipynb,file
+01-Multithreading and Multiprocessing.ipynb,file
+01-Name_and_Main,dir
+01-Numbers.ipynb,file
+01-Object Oriented Programming-Copy1-checkpoint.ipynb,file
+01-Object Oriented Programming-checkpoint.ipynb,file
+01-Object Oriented Programming.ipynb,file
+01-Python Comparison Operators,dir
+01-Variable Assignment-checkpoint.ipynb,file
+01-Variable Assignment.ipynb,file
+02-Advanced Strings-checkpoint.ipynb,file
+02-Advanced Strings.ipynb,file
+02-Chained Comparison Operators-checkpoint.ipynb,file
+02-Chained Comparison Operators.ipynb,file
+02-Datetime-checkpoint.ipynb,file
+02-Datetime.ipynb,file
+02-Decorators Homework-checkpoint.ipynb,file
+02-Decorators Homework.ipynb,file
+02-Errors and Exceptions Homework-checkpoint.ipynb,file
+02-Errors and Exceptions Homework.ipynb,file
+02-Final Capstone Project Ideas-checkpoint.ipynb,file
+02-Final Capstone Project Ideas.ipynb,file
+02-Functions-checkpoint.ipynb,file
+02-Functions.ipynb,file
+02-Iterators and Generators Homework-checkpoint.ipynb,file
+02-Iterators and Generators Homework.ipynb,file
+02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb,file
+02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb,file
+02-Milestone Project 2 - Walkthrough Steps Workbook-checkpoint.ipynb,file
+02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb,file
+02-Object Oriented Programming Homework-checkpoint.ipynb,file
+02-Object Oriented Programming Homework.ipynb,file
+02-Python Statements,dir
+02-Reduce-checkpoint.ipynb,file
+02-Reduce.ipynb,file
+02-Strings-checkpoint.ipynb,file
+02-Strings.ipynb,file
+02-Widget Basics-checkpoint.ipynb,file
+02-Widget Basics.ipynb,file
+"02-if, elif, and else Statements-checkpoint.ipynb",file
+"02-if, elif, and else Statements.ipynb",file
+03-Advanced Sets-checkpoint.ipynb,file
+03-Advanced Sets.ipynb,file
+03-Errors and Exceptions Homework - Solution-checkpoint.ipynb,file
+03-Errors and Exceptions Homework - Solution.ipynb,file
+03-Filter-checkpoint.ipynb,file
+03-Filter.ipynb,file
+03-Final Capstone Suggested Walkthrough-checkpoint.ipynb,file
+03-Final Capstone Suggested Walkthrough.ipynb,file
+03-Function Practice Exercises-checkpoint.ipynb,file
+03-Function Practice Exercises.ipynb,file
+03-Iterators and Generators Homework - Solution-checkpoint.ipynb,file
+03-Iterators and Generators Homework - Solution.ipynb,file
+03-Lambda expressions-checkpoint.ipynb,file
+03-Methods and Functions,dir
+03-Milestone Project 1 - Complete Walkthrough Solution-checkpoint.ipynb,file
+03-Milestone Project 1 - Complete Walkthrough Solution.ipynb,file
+03-Milestone Project 2 - Complete Walkthrough Solution-checkpoint.ipynb,file
+03-Milestone Project 2 - Complete Walkthrough Solution.ipynb,file
+03-Object Oriented Programming Homework - Solution-checkpoint.ipynb,file
+03-Object Oriented Programming Homework - Solution.ipynb,file
+03-Print Formatting with Strings-checkpoint.ipynb,file
+03-Print Formatting with Strings.ipynb,file
+03-Python Debugger (pdb)-checkpoint.ipynb,file
+03-Python Debugger (pdb).ipynb,file
+03-Widget List-checkpoint.ipynb,file
+03-Widget List.ipynb,file
+03-for Loops-checkpoint.ipynb,file
+03-for Loops.ipynb,file
+04-Advanced Dictionaries-checkpoint.ipynb,file
+04-Advanced Dictionaries.ipynb,file
+04-Function Practice Exercises - Solutions-checkpoint.ipynb,file
+04-Function Practice Exercises - Solutions.ipynb,file
+04-Lists.ipynb,file
+04-Milestone Project - 1,dir
+04-Milestone Project 2 - Solution Code-checkpoint.ipynb,file
+04-Milestone Project 2 - Solution Code.ipynb,file
+04-Nested Statements and Scope-checkpoint.ipynb,file
+04-OOP Challenge-checkpoint.ipynb,file
+04-OOP Challenge.ipynb,file
+04-OPTIONAL -Milestone Project 1 - Advanced Solution-checkpoint.ipynb,file
+04-OPTIONAL -Milestone Project 1 - Advanced Solution.ipynb,file
+04-Timing your code - timeit-checkpoint.ipynb,file
+04-Timing your code - timeit.ipynb,file
+04-Unit Testing-checkpoint.ipynb,file
+04-Unit Testing.ipynb,file
+04-Widget Events-checkpoint.ipynb,file
+04-Widget Events.ipynb,file
+04-Zip-checkpoint.ipynb,file
+04-Zip.ipynb,file
+04-while Loops-checkpoint.ipynb,file
+04-while Loops.ipynb,file
+05-Advanced Lists-checkpoint.ipynb,file
+05-Advanced Lists.ipynb,file
+05-Dictionaries.ipynb,file
+05-Enumerate-checkpoint.ipynb,file
+05-Enumerate.ipynb,file
+05-Functions and Methods Homework-checkpoint.ipynb,file
+05-Lambda-Expressions-Map-and-Filter-checkpoint.ipynb,file
+05-Lambda-Expressions-Map-and-Filter.ipynb,file
+05-OOP Challenge - Solution-checkpoint.ipynb,file
+05-OOP Challenge - Solution.ipynb,file
+05-Object Oriented Programming,dir
+05-Regular Expressions - re-checkpoint.ipynb,file
+05-Regular Expressions - re.ipynb,file
+05-Useful-Operators-checkpoint.ipynb,file
+05-Useful-Operators.ipynb,file
+05-Widget Styling-checkpoint.ipynb,file
+05-Widget Styling.ipynb,file
+05-range()-checkpoint.ipynb,file
+06-Advanced Python Objects Test-checkpoint.ipynb,file
+06-Advanced Python Objects Test.ipynb,file
+06-Custom Widget-checkpoint.ipynb,file
+06-Custom Widget.ipynb,file
+06-Functions and Methods Homework - Solutions-checkpoint.ipynb,file
+06-List Comprehensions-checkpoint.ipynb,file
+06-List Comprehensions.ipynb,file
+06-Modules and Packages,dir
+06-Nested Statements and Scope.ipynb,file
+06-StringIO-checkpoint.ipynb,file
+06-StringIO.ipynb,file
+06-Tuples.ipynb,file
+06-all() and any()-checkpoint.ipynb,file
+06-all() and any().ipynb,file
+07-Advanced Python Objects Test - Solutions-checkpoint.ipynb,file
+07-Advanced Python Objects Test - Solutions.ipynb,file
+07-Advanced Widget List-checkpoint.ipynb,file
+07-Advanced Widget List.ipynb,file
+07-Complex-checkpoint.ipynb,file
+07-Complex.ipynb,file
+07-Errors and Exception Handling,dir
+07-Sets and Booleans-checkpoint.ipynb,file
+07-Sets and Booleans.ipynb,file
+07-Statements Assessment Test-checkpoint.ipynb,file
+07-Statements Assessment Test.ipynb,file
+07-args and kwargs-checkpoint.ipynb,file
+07-args and kwargs.ipynb,file
+08-Advanced Widget Styling with Layout-checkpoint.ipynb,file
+08-Advanced Widget Styling with Layout.ipynb,file
+08-BONUS - With Statement Context Managers.ipynb,file
+08-Built-in Functions Assessment Test-checkpoint.ipynb,file
+08-Built-in Functions Assessment Test.ipynb,file
+08-Files-checkpoint.ipynb,file
+08-Files.ipynb,file
+08-Function Practice Exercises-checkpoint.ipynb,file
+08-Functions and Methods Homework.ipynb,file
+08-Milestone Project - 2,dir
+08-Statements Assessment Test - Solutions-checkpoint.ipynb,file
+08-Statements Assessment Test - Solutions.ipynb,file
+09-Built-in Functions,dir
+09-Built-in Functions Assessment Test - Solution-checkpoint.ipynb,file
+09-Built-in Functions Assessment Test - Solution.ipynb,file
+09-Function Practice Exercises - Solutions-checkpoint.ipynb,file
+09-Functions and Methods Homework - Solutions.ipynb,file
+09-Guessing Game Challenge-checkpoint.ipynb,file
+09-Guessing Game Challenge.ipynb,file
+09-Objects and Data Structures Assessment Test-checkpoint.ipynb,file
+09-Objects and Data Structures Assessment Test.ipynb,file
+10-Guessing Game Challenge - Solution-checkpoint.ipynb,file
+10-Guessing Game Challenge - Solution.ipynb,file
+10-Objects and Data Structures Assessment Test-Solution-checkpoint.ipynb,file
+10-Objects and Data Structures Assessment Test-Solution.ipynb,file
+10-Python Decorators,dir
+11-Python Generators,dir
+12-Final Capstone Python Project,dir
+13-Advanced Python Modules,dir
+14-Advanced Python Objects and Data Structures,dir
+15-Advanced OOP,dir
+16-Bonus Material - Introduction to GUIs,dir
+17-Parallel Processing,dir
+Explanation.txt,file
+FAQ.ipynb,file
+Jupyter (iPython) Notebooks Guide.ipynb,file
+MyMainPackage,dir
+Projects-Solutions,dir
+README.md,file
+Solution Links.md,file
+SubPackage,dir
+Useful_Info_Notebook-checkpoint.ipynb,file
+Useful_Info_Notebook.ipynb,file
+__init__.cpython-36.pyc,file
+__init__.py,file
+__pycache__,dir
+cap.cpython-36.pyc,file
+cap.py,file
+file1.cpython-36.pyc,file
+file1.py,file
+file2.py,file
+file3.py,file
+mymodule.py,file
+myprogram.py,file
+mysubscript.cpython-36.pyc,file
+mysubscript.py,file
+one.py,file
+simple1.py,file
+simple2.py,file
+some_main_script.cpython-36.pyc,file
+some_main_script.py,file
+test.py,file
+test.txt,file
+test2.py,file
+test_cap.py,file
+testfile,file
+two.py,file

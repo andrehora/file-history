@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+SECURITY.md,file
+index.js,file
+integration.js,file
+mocha.opts,file
+package-lock.json,file
+package.json,file
+test,dir

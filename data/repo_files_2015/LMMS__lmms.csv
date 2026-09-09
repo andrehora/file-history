@@ -1,0 +1,4163 @@
+name,type
+'lectro_hammer.ds,file
+'lectro_spliff.ds,file
+'lectro_square_hammer.ds,file
+.bankdir,file
+.gitattributes,file
+.gitignore,file
+.gitmodules,file
+.mailmap,file
+.travis.yml,file
+0001-AHH Choir 1.xiz,file
+0001-Arpeggio1.xiz,file
+0001-Bass 1.xiz,file
+0001-Bassoon.xiz,file
+0001-DX Rhodes 1.xiz,file
+0001-Dist Guitar 1.xiz,file
+0001-Drums Kit1.xiz,file
+0001-Emptyness1.xiz,file
+0001-FM Thrumpet.xiz,file
+0001-Flute 1.xiz,file
+0001-Folk Flute.xiz,file
+0001-Layered1.xiz,file
+0001-Memories.xiz,file
+0001-Organ 1.xiz,file
+0001-Plucked 1.xiz,file
+0001-Saw Strings 1.xiz,file
+0001-Sine Pad.xiz,file
+0001-Soft Piano 1.xiz,file
+0001-Soft Synth 1.xiz,file
+0001-SquareToSine.xiz,file
+0001-Strings and Reed1.xiz,file
+0001-Synth Effect.xiz,file
+0001-Xylophone.xiz,file
+0001-analog strings.xiz,file
+0001-res_strings_pad.xiz,file
+0001-soft_strings.xiz,file
+0001-strings_pad.xiz,file
+0002-AHH Choir 2.xiz,file
+0002-Arpeggio2.xiz,file
+0002-Bamboo Flute.xiz,file
+0002-Bass 2.xiz,file
+0002-Bassoon2.xiz,file
+0002-Bells 1.xiz,file
+0002-DX Rhodes 2.xiz,file
+0002-Dist Guitar 2.xiz,file
+0002-Emptyness2.xiz,file
+0002-Flute 2.xiz,file
+0002-GaussToSine.xiz,file
+0002-Ioioioioioi.xiz,file
+0002-Layered2.xiz,file
+0002-Organ 2.xiz,file
+0002-Plucked 2.xiz,file
+0002-Saw Strings 2.xiz,file
+0002-Soft Piano 2.xiz,file
+0002-Soft Synth 2.xiz,file
+0002-Sparo_01.xiz,file
+0002-Strings and Reed2.xiz,file
+0002-Vibraphone.xiz,file
+0002-analog_strings.xiz,file
+0002-another_respad.xiz,file
+0002-sin2x  pad.xiz,file
+0002-sines_pad.xiz,file
+0003-Analog Pad 1.xiz,file
+0003-Arpeggio3.xiz,file
+0003-Bass 3 _analog_.xiz,file
+0003-Bassoon3.xiz,file
+0003-Bells 2.xiz,file
+0003-DX Rhodes 3.xiz,file
+0003-Dist Guitar 3.xiz,file
+0003-EHH Choir 1.xiz,file
+0003-FM Flute.xiz,file
+0003-Flute 3.xiz,file
+0003-Laser_01.xiz,file
+0003-MorphingOrgan.xiz,file
+0003-Noise1.xiz,file
+0003-Organ 3.xiz,file
+0003-Plucked 3.xiz,file
+0003-Saw Strings 3.xiz,file
+0003-Soft Vibes.xiz,file
+0003-Space Synth.xiz,file
+0003-Strings and Flute.xiz,file
+0003-Synth Brazz 1.xiz,file
+0003-at_saturnus.xiz,file
+0003-fingered_bass.xiz,file
+0003-smooth_strings_pad.xiz,file
+0003-strings_pad.xiz,file
+0004-Analog Pad 2.xiz,file
+0004-Arpeggio4.xiz,file
+0004-Bass 4.xiz,file
+0004-Bells 3.xiz,file
+0004-DX Rhodes 4.xiz,file
+0004-Dist Guitar 4.xiz,file
+0004-Fantasy Bell.xiz,file
+0004-Muffled Bells.xiz,file
+0004-Noise2.xiz,file
+0004-Organ 4.xiz,file
+0004-Plucked 4.xiz,file
+0004-Pulse Pad 1.xiz,file
+0004-Saw Strings 4.xiz,file
+0004-Simple Chimes.xiz,file
+0004-Synth Brazz 2.xiz,file
+0004-ThinLead.xiz,file
+0004-Triple Osc Flute.xiz,file
+0004-Voice OOH.xiz,file
+0004-Volo.xiz,file
+0004-Weird Pad.xiz,file
+0004-echoes.xiz,file
+0004-strings_pad_2.xiz,file
+0004-synth_bass.xiz,file
+0004-trance_strings_pad.xiz,file
+0005-Arpeggio5.xiz,file
+0005-Bass 5.xiz,file
+0005-Bells 4.xiz,file
+0005-BrightLead.xiz,file
+0005-Choir Pad1.xiz,file
+0005-DX Rhodes 5.xiz,file
+0005-Dist Guitar 5.xiz,file
+0005-Elettrico.xiz,file
+0005-FM Reed.xiz,file
+0005-Organ 5.xiz,file
+0005-Organ and Saw.xiz,file
+0005-Plucked 5.xiz,file
+0005-Pulse Pad 2.xiz,file
+0005-Saw Strings 5.xiz,file
+0005-Silver Bell.xiz,file
+0005-Soprano Double Reed.xiz,file
+0005-Square Pad 1.xiz,file
+0005-Synth Brass 3.xiz,file
+0005-Synth Piano1.xiz,file
+0005-echoes2.xiz,file
+0005-mega_string.xiz,file
+0005-synth_bass_2.xiz,file
+0005-synth_strings.xiz,file
+0006-Analogue Bass.xiz,file
+0006-Aporggio6.xiz,file
+0006-Arpeggio_01.xiz,file
+0006-Choir Pad2.xiz,file
+0006-Clarinet.xiz,file
+0006-FM Saxophone.xiz,file
+0006-GenericLead.xiz,file
+0006-Organ 6.xiz,file
+0006-Plucked 6.xiz,file
+0006-Pulse Pad 3.xiz,file
+0006-Ronzio_01.xiz,file
+0006-Saw Strings 6.xiz,file
+0006-Soft Hammer.xiz,file
+0006-Space SynthBrass.xiz,file
+0006-Square Pad 2.xiz,file
+0006-SuperSaw 1.xiz,file
+0006-Synth Brass 4.xiz,file
+0006-Synth Piano2.xiz,file
+0006-Tinkle Bell.xiz,file
+0006-Wind.xiz,file
+0006-synth_bass_3.xiz,file
+0007-Analog Filter 1.xiz,file
+0007-Arpeggio7.xiz,file
+0007-Arpeggio_02.xiz,file
+0007-Breathy1.xiz,file
+0007-Choir Pad3.xiz,file
+0007-Dig Rhodes.xiz,file
+0007-Ethereal.xiz,file
+0007-FM Saxophone 2.xiz,file
+0007-MorphingSuperSaw.xiz,file
+0007-Organ 7.xiz,file
+0007-Organ Choir Pad1.xiz,file
+0007-Ronzio_02.xiz,file
+0007-Saw Strings 7.xiz,file
+0007-SuperSaw 2.xiz,file
+0007-Synth Brass 5.xiz,file
+0007-Termollo1.xiz,file
+0007-bass.xiz,file
+0007-compad.xiz,file
+0007-from_another_space.xiz,file
+0007-synth_bass_4.xiz,file
+0008-Analog Filter 2.xiz,file
+0008-Arpeggio8.xiz,file
+0008-Arpeggio_03.xiz,file
+0008-Brass Pad.xiz,file
+0008-BrassyFlute.xiz,file
+0008-Choir Pad4.xiz,file
+0008-Concertina.xiz,file
+0008-Metal Drips.xiz,file
+0008-Organ 8.xiz,file
+0008-Organ Choir Pad2.xiz,file
+0008-Resonance Pad1.xiz,file
+0008-Ronzio_03.xiz,file
+0008-Saw Strings 8.xiz,file
+0008-Space Voice1.xiz,file
+0008-SuperSaw 3.xiz,file
+0008-Synth Rhodes1.xiz,file
+0008-Termollo2.xiz,file
+0008-bass2.xiz,file
+0008-from_another_galaxy.xiz,file
+0008-padding.xiz,file
+0009-Arpeggio9.xiz,file
+0009-Choir Pad5.xiz,file
+0009-FM Brass 1.xiz,file
+0009-GenericLead2.xiz,file
+0009-Glass Arpeggio2.xiz,file
+0009-Organ 9.xiz,file
+0009-Resonance Pad2.xiz,file
+0009-Space Voice2.xiz,file
+0009-SuperSaw 4.xiz,file
+0009-Synth Rhodes2.xiz,file
+0009-Termollo3.xiz,file
+0009-Trem Lead.xiz,file
+0009-Wah Brass.xiz,file
+0009-agressive_bass.xiz,file
+0009-from_another_planet.xiz,file
+0009-organ1.xiz,file
+0009-res_pad.xiz,file
+0010-Arpeggio10.xiz,file
+0010-Choir Pad6.xiz,file
+0010-FM Brass 2.xiz,file
+0010-Interferenze.xiz,file
+0010-Metal Sweep.xiz,file
+0010-Organ 10.xiz,file
+0010-Solo Synth1.xiz,file
+0010-Space Voice3.xiz,file
+0010-Strings Pad1.xiz,file
+0010-SuperSaw 5.xiz,file
+0010-Synth Rhodes3.xiz,file
+0010-Trem Synth Piano 3.xiz,file
+0010-organ2.xiz,file
+0010-supersaw.xiz,file
+0010-synth_bass.xiz,file
+0010-unamed_pad.xiz,file
+0011-Arpeggio11.xiz,file
+0011-Brazz 1.xiz,file
+0011-Drop1.xiz,file
+0011-FM Brass 3.xiz,file
+0011-Organ 11.xiz,file
+0011-Slow Steel.xiz,file
+0011-Space Choir1.xiz,file
+0011-Strings Pad1.xiz,file
+0011-Strings Pad2.xiz,file
+0011-Trem Synth.xiz,file
+0011-abracadabra.xiz,file
+0011-arpeggio1.xiz,file
+0011-organ3.xiz,file
+0011-portal2_lead.xiz,file
+0011-synth_bass_fat.xiz,file
+0012-Brazz 2.xiz,file
+0012-Drop2.xiz,file
+0012-Ghost Whistle.xiz,file
+0012-Ice Rhodes1.xiz,file
+0012-Organ 12.xiz,file
+0012-Passa_astronave.xiz,file
+0012-Simple Square.xiz,file
+0012-Space Choir2.xiz,file
+0012-Strings Pad2.xiz,file
+0012-Strings Pad3.xiz,file
+0012-church_organ.xiz,file
+0013-Bright Metal.xiz,file
+0013-Full Square.xiz,file
+0013-Ice Rhodes2.xiz,file
+0013-Passa_asteroide.xiz,file
+0013-Soft Guitar.xiz,file
+0013-Spazio1.xiz,file
+0013-Strings Pad3.xiz,file
+0013-Strings Pad4.xiz,file
+0013-fantasy_bell.xiz,file
+0013-metal_bell.xiz,file
+0013-supersaw.xiz,file
+0014-Dist Jazz Guitar.xiz,file
+0014-Glass Voices.xiz,file
+0014-Ice Rhodes3.xiz,file
+0014-Spazio2.xiz,file
+0014-Strings Pad5.xiz,file
+0014-Super Square.xiz,file
+0014-bell.xiz,file
+0014-dreaming_bells.xiz,file
+0014-supersaw_wihout_release.xiz,file
+0014-synth_bell.xiz,file
+0015-Dist Jazz Guitar 2.xiz,file
+0015-Nave.xiz,file
+0015-Space Synth.xiz,file
+0015-Steel Wire.xiz,file
+0015-Strange Voice.xiz,file
+0015-Strings Pad6.xiz,file
+0015-belly.xiz,file
+0015-dreaming_bells_dnb.xiz,file
+0015-rhodes1.xiz,file
+0015-superpulse.xiz,file
+0016-Banjoey.xiz,file
+0016-Echo Bubbles.xiz,file
+0016-Soft Metal.xiz,file
+0016-SpaceAtmo.xiz,file
+0016-Sweep Pad 1.xiz,file
+0016-mega_bell.xiz,file
+0016-pseudo_steeldrums.xiz,file
+0016-sine_pad.xiz,file
+0017-Bass Guitar.xiz,file
+0017-Fantasia.xiz,file
+0017-Strano_01.xiz,file
+0017-Sweep Pad 1 Fat.xiz,file
+0017-friendly sines.xiz,file
+0017-in_the_space.xiz,file
+0017-musicbox.xiz,file
+0017-wil_aow_space.xiz,file
+0018-Bass Guitar - Slap.xiz,file
+0018-Strano_02.xiz,file
+0018-Sub Delay.xiz,file
+0018-Sweep Pad 2.xiz,file
+0018-organ1.xiz,file
+0019-Acquoso_1.xiz,file
+0019-FM Sitar.xiz,file
+0019-Soft.xiz,file
+0019-Sweep Pad 3Wah.xiz,file
+0019-Warm Square Swell.xiz,file
+0019-a_bass.xiz,file
+0019-bass_pad.xiz,file
+0019-sine_pad.xiz,file
+0020-Acqua.xiz,file
+0020-Acquoso_5.xiz,file
+0020-Sweep Pad 4.xiz,file
+0020-Ultra Soft.xiz,file
+0020-bass_pad_fat.xiz,file
+0020-pulse_organ.xiz,file
+0020-sine_pad2.xiz,file
+0020-synth_bass.xiz,file
+0021-Acquoso_6.xiz,file
+0021-Asteroide.xiz,file
+0021-Bubbles.xiz,file
+0021-EP - Twangy.xiz,file
+0021-Whistle.xiz,file
+0021-power_dnb.xiz,file
+0021-rock_organ+distorsion.xiz,file
+0021-synth_bass.xiz,file
+0021-synth_bass_2.xiz,file
+0022-EP - Muted.xiz,file
+0022-Wipe Whistle.xiz,file
+0022-fantasy_choir.xiz,file
+0022-rock_organ.xiz,file
+0022-synth_bass_2.xiz,file
+0022-synth_bass_3.xiz,file
+0023-EP - Brighter.xiz,file
+0023-Fagotto_01.xiz,file
+0023-Ghost Whistle.xiz,file
+0023-dnb_bass.xiz,file
+0023-hard_bass.xiz,file
+0023-heavy_metal_guitar.xiz,file
+0023-space_organ.xiz,file
+0024-Fagotto_02.xiz,file
+0024-Far Out EP.xiz,file
+0024-Full Strings.xiz,file
+0024-Solo.xiz,file
+0024-fat_dnb_bass.xiz,file
+0024-pseudo_doublebass.xiz,file
+0024-space_organ2.xiz,file
+0024-synth_flute.xiz,file
+0024-tastiera.xiz,file
+0025-Clavinoid.xiz,file
+0025-Fagotto_03.xiz,file
+0025-Slow Strings.xiz,file
+0025-Wind Whistle.xiz,file
+0025-synth_bass_3.xiz,file
+0026-Harpsichord.xiz,file
+0026-Pizzicato Strings.xiz,file
+0026-beepA.xiz,file
+0026-bell_pad.xiz,file
+0026-cool_organ.xiz,file
+0026-kick.xiz,file
+0027-Delicato_01.xiz,file
+0027-ShortFlute.xiz,file
+0027-Sweep Synth.xiz,file
+0027-Toy Piano.xiz,file
+0027-beepB.xiz,file
+0027-cool_organ2.xiz,file
+0027-funky_lead.xiz,file
+0027-hithat.xiz,file
+0027-inna_bell_like.xiz,file
+0028-Delicato_02.xiz,file
+0028-Mallets.xiz,file
+0028-PianoBell.xiz,file
+0028-Warm Synth.xiz,file
+0028-beepC.xiz,file
+0028-daft_punk_lead.xiz,file
+0028-snare.xiz,file
+0029-Delicato_03.xiz,file
+0029-Hard Synth.xiz,file
+0029-PianoHarp.xiz,file
+0029-Steel Drums.xiz,file
+0029-hard_pulse.xiz,file
+0029-new_arpeggio_3.xiz,file
+0029-synth_guitar.xiz,file
+0030-Balinese Chimes.xiz,file
+0030-Bright Synth.xiz,file
+0030-ScaredPulse.xiz,file
+0030-canyon_wind.xiz,file
+0030-from_new_arp3.xiz,file
+0030-power_pulsions_lead.xiz,file
+0031-Muffled Chimes.xiz,file
+0031-Multi Synth.xiz,file
+0031-Twang2.xiz,file
+0031-Wah_dolce_1.xiz,file
+0031-etrange_sound.xiz,file
+0031-rhodes.xiz,file
+0031-wah_sine.xiz,file
+0032-.xiz,file
+0032-Drum Kit.xiz,file
+0032-Slow Saw.xiz,file
+0032-Twang1.xiz,file
+0032-Wah_dolce_2.xiz,file
+0032-mega_alert.xiz,file
+0032-rhodes_2.xiz,file
+0032-ufo_blues.xiz,file
+0033-80s_rhodes.xiz,file
+0033-Analog Brass 1.xiz,file
+0033-Analog Piano 1.xiz,file
+0033-Big Crunchy.xiz,file
+0033-Cathedral Organ1.xiz,file
+0033-Choir and Reed.xiz,file
+0033-Choir.xiz,file
+0033-FM Rhodes 1.xiz,file
+0033-ImpossibleDream1.xiz,file
+0033-Long Space Choir 2.xiz,file
+0033-Medium Saw.xiz,file
+0033-Metal Sound 1.xiz,file
+0033-Phased Pad 1.xiz,file
+0033-Plucked String1.xiz,file
+0033-Reed 1.xiz,file
+0033-Rhodes Strings1.xiz,file
+0033-Sequence1.xiz,file
+0033-Strings1.xiz,file
+0033-Synth Pad 1.xiz,file
+0033-Trash Guitar 1.xiz,file
+0033-Trash Synth 1.xiz,file
+0033-Wah Bass.xiz,file
+0033-buao.xiz,file
+0033-new_glitch.xiz,file
+0033-ufo_funk.xiz,file
+0034-Analog Brass 2.xiz,file
+0034-Analog Piano 2.xiz,file
+0034-Big Flangey.xiz,file
+0034-Cathedral Organ2.xiz,file
+0034-Choir Pad4.xiz,file
+0034-Dark Strings.xiz,file
+0034-FM Rhodes 2.xiz,file
+0034-Hard Saw.xiz,file
+0034-ImpossibleDream2.xiz,file
+0034-Metal Sound 2.xiz,file
+0034-Phased Pad 2.xiz,file
+0034-Plucked String2.xiz,file
+0034-Reed 2.xiz,file
+0034-Rhodes Strings2.xiz,file
+0034-Sequence2.xiz,file
+0034-Slow Morph_Choir.xiz,file
+0034-Synth Pad 2.xiz,file
+0034-Trash Guitar 2.xiz,file
+0034-Trash Synth 2.xiz,file
+0034-alert_!.xiz,file
+0034-creepy.xiz,file
+0034-radio.xiz,file
+0034-synth_guitar.xiz,file
+0035-Analog Brass 3.xiz,file
+0035-Analog Piano 3.xiz,file
+0035-Ancient_Echos.xiz,file
+0035-Cathedral Organ3.xiz,file
+0035-FM Bass 1.xiz,file
+0035-FM Rhodes 3.xiz,file
+0035-ImpossibleDream3.xiz,file
+0035-Metal Sound 3.xiz,file
+0035-Numanesque.xiz,file
+0035-Octave Pad.xiz,file
+0035-Phased Pad 3.xiz,file
+0035-Reed 3.xiz,file
+0035-Rhodes Strings3.xiz,file
+0035-Short.xiz,file
+0035-Synth Pad 3.xiz,file
+0035-Trash Synth 3.xiz,file
+0035-Voiced Saw.xiz,file
+0035-Wah Choir.xiz,file
+0035-alarm2.xiz,file
+0035-organ.xiz,file
+0035-taped_instrument.xiz,file
+0035-the_drunk_world.xiz,file
+0036-240 Grit Lead.xiz,file
+0036-Analog Brass 4.xiz,file
+0036-Campane.xiz,file
+0036-Echoed Synth.xiz,file
+0036-Eooooo.xiz,file
+0036-FM Bass 2.xiz,file
+0036-FM Rhodes 4.xiz,file
+0036-Fast Attack.xiz,file
+0036-ImpossibleDream4.xiz,file
+0036-Plucked Wah.xiz,file
+0036-Reed 4.xiz,file
+0036-Rhodes Strings4.xiz,file
+0036-Sweep Saw.xiz,file
+0036-Synth Pad 4.xiz,file
+0036-Trash Synth 4.xiz,file
+0036-Trillo.xiz,file
+0036-glitch.xiz,file
+0036-organ_not_distorted.xiz,file
+0036-ufo.xiz,file
+0037-320 Grit Lead.xiz,file
+0037-Chorus.xiz,file
+0037-Church Organ 1.xiz,file
+0037-Echo FX.xiz,file
+0037-FM Rhodes 5.xiz,file
+0037-FM Synth1.xiz,file
+0037-FatPatch.xiz,file
+0037-ImpossibleDream5.xiz,file
+0037-Metal Sound 4.xiz,file
+0037-Reed 5.xiz,file
+0037-Resonance Synth.xiz,file
+0037-Stereo Sweep Saw.xiz,file
+0037-Synth Pad 5.xiz,file
+0037-Trillo1.xiz,file
+0037-Voiced Synth.xiz,file
+0037-computer.xiz,file
+0037-old_organ.xiz,file
+0037-the_rain.xiz,file
+0037-ufo2.xiz,file
+0038-8_bit_car.xiz,file
+0038-Church Organ 2.xiz,file
+0038-FM Rhodes 6.xiz,file
+0038-Fat Saw.xiz,file
+0038-FatPatchSimpler.xiz,file
+0038-Gentle Triangle Lead.xiz,file
+0038-HellVoice.xiz,file
+0038-Metal Sound 5.xiz,file
+0038-Reed 6.xiz,file
+0038-Smooth Saw.xiz,file
+0038-Trillo2.xiz,file
+0038-Wipe Synth.xiz,file
+0038-falling_stars.xiz,file
+0038-the_starting_machine.xiz,file
+0039-BinaryPiano1.xiz,file
+0039-Chorus2.xiz,file
+0039-Church Organ 3.xiz,file
+0039-FatPatchSimpler2.xiz,file
+0039-Hard Stereo Sweep Synth.xiz,file
+0039-Multi-phase synth.xiz,file
+0039-Ohh Choir.xiz,file
+0039-Reed 7.xiz,file
+0039-Sliding Squares Lead.xiz,file
+0039-Soft Arpeggio1.xiz,file
+0039-Trillo5.xiz,file
+0039-jazz_guitar.xiz,file
+0039-real_glitch.xiz,file
+0039-thunder.xiz,file
+0040-BinaryPiano2.xiz,file
+0040-Church Organ 4.xiz,file
+0040-Delayed Echo.xiz,file
+0040-Master Synth Low.xiz,file
+0040-Pheasant Lead.xiz,file
+0040-Reed 8.xiz,file
+0040-Soft Arpeggio2.xiz,file
+0041-Buzz.xiz,file
+0041-Church Organ Soft.xiz,file
+0041-DarkNight.xiz,file
+0041-Fade Down Echo.xiz,file
+0041-Master Synth High.xiz,file
+0041-Plinker Bell.xiz,file
+0041-Saw 1.xiz,file
+0041-Scherzo.xiz,file
+0041-Soft Arpeggio3.xiz,file
+0041-Soft Rhodes.xiz,file
+0042-Hard Rhodes1.xiz,file
+0042-LightDawn.xiz,file
+0042-Low pH Lead.xiz,file
+0042-Rhodes Space1.xiz,file
+0042-Saw 2.xiz,file
+0042-Sharp Synth.xiz,file
+0042-Soft Arpeggio4.xiz,file
+0043-Fiiuu.xiz,file
+0043-Fretless Bass.xiz,file
+0043-Grave.xiz,file
+0043-Hard Rhodes2.xiz,file
+0043-Hovabotalilfanfeer.xiz,file
+0043-Rhodes Space2.xiz,file
+0043-Saw 3.xiz,file
+0043-Saw Piano 1.xiz,file
+0043-Soft Arpeggio5.xiz,file
+0044-Decay Bass.xiz,file
+0044-Echo Rhodes.xiz,file
+0044-Muted Fanfare.xiz,file
+0044-Saw Pad.xiz,file
+0045-A long time ago.xiz,file
+0045-Bink Bink Lead.xiz,file
+0045-Bite.xiz,file
+0045-Fischia_01.xiz,file
+0045-Soft Saw Pad.xiz,file
+0045-Spazio_profondo1.xiz,file
+0045-Steel Bass.xiz,file
+0046-Bogus PWM Lead.xiz,file
+0046-Echoed Saw.xiz,file
+0046-Fischia_02.xiz,file
+0046-NoisyGuitar.xiz,file
+0046-Spazio_Profondo2.xiz,file
+0046-Synth Bass.xiz,file
+0047-Dirty Vibrato Lead.xiz,file
+0047-Distorted Bass.xiz,file
+0047-Fischia_03.xiz,file
+0047-NoisyGuitar2.xiz,file
+0047-Spazio_Profondo3.xiz,file
+0047-Vibratto Saw1.xiz,file
+0048-NoisyGuitar3.xiz,file
+0048-Variable Reed.xiz,file
+0048-Wah1.xiz,file
+0048-Wichita Whoop.xiz,file
+0049-Bitey Triangle Lead.xiz,file
+0049-DolcePiano_01.xiz,file
+0049-Reed Organ.xiz,file
+0049-Resonance Pad2.xiz,file
+0049-guitar-PowerChorder.xiz,file
+0050-70s Triangle Lead.xiz,file
+0050-DolcePiano_02.xiz,file
+0050-Resonance Pad2.xiz,file
+0050-Soft Organ.xiz,file
+0050-SynGuitarAcoustic1.xiz,file
+0050-Synth Violin 1.xiz,file
+0051-Agro Odds Lead.xiz,file
+0051-DolcePiano_03.xiz,file
+0051-SynGuitarAcoustic2.xiz,file
+0051-Synth Violin 2 Fat.xiz,file
+0051-Thin Pipe.xiz,file
+0052-Great Organ.xiz,file
+0052-ImpossibleDream1.xiz,file
+0052-Soft Synth Brass.xiz,file
+0052-SynGuitarAcoustic3.xiz,file
+0053-64ft Organ.xiz,file
+0053-Ding_01.xiz,file
+0053-ImpossibleDream4.xiz,file
+0054-Delayed Echo.xiz,file
+0054-DevilsFiddle.xiz,file
+0054-Ding_02.xiz,file
+0054-Funky Reso Bass.xiz,file
+0054-Hammond Organ.xiz,file
+0055-DevilsFiddle2.xiz,file
+0055-Percussion Organ.xiz,file
+0055-Thick Bass.xiz,file
+0055-ssaB oseR yknuF.xiz,file
+0056-Creeky Reso Base.xiz,file
+0056-Senza_tempo.xiz,file
+0056-Sines.xiz,file
+0057-Glass_01.xiz,file
+0057-Senza_tempo_2.xiz,file
+0057-Soft Flute.xiz,file
+0057-Synth Bass.xiz,file
+0057-Ultra Bass.xiz,file
+0058-Basic Thick Bass.xiz,file
+0058-Senza_tempo_3.xiz,file
+0058-Warm Flute.xiz,file
+0059-Dirt Encrusted Bass.xiz,file
+0059-Ocarina.xiz,file
+0059-Senza_tempo_4.xiz,file
+0059-Tremulo_01.xiz,file
+0060-Beyond.xiz,file
+0060-Punch Bass.xiz,file
+0060-Senza_tempo_5.xiz,file
+0060-Stopped Pipe.xiz,file
+0061-Campane.xiz,file
+0061-Formant Bass.xiz,file
+0061-Sweep Pad.xiz,file
+0062-Sospirato_01.xiz,file
+0062-Sweep Matrix.xiz,file
+0063-Matrix.xiz,file
+0063-Sospirato_02.xiz,file
+0064-Slow Deep Matrix.xiz,file
+0064-Sospirato_03.xiz,file
+0065-Clean Guitar1.xiz,file
+0065-Computer Lead.xiz,file
+0065-Computer Lead1.xiz,file
+0065-Dream of the Saw.xiz,file
+0065-Fat Reed1.xiz,file
+0065-Hyper Organ1.xiz,file
+0065-Ice Field.xiz,file
+0065-Long SpaceChoir1.xiz,file
+0065-Nice Organ 1.xiz,file
+0065-Osiris Pad.xiz,file
+0065-Plucked Pad1.xiz,file
+0065-Short noise.xiz,file
+0065-Simple Brass.xiz,file
+0065-Simple Strings.xiz,file
+0065-Soft Pad.xiz,file
+0065-Steel Rhodes.xiz,file
+0065-SuperSaw 1.xiz,file
+0065-Synth Piano 1.xiz,file
+0065-Synth_piano_03.xiz,file
+0065-Vocal Morph 1.xiz,file
+0066-Computer Lead2.xiz,file
+0066-Dual Strings.xiz,file
+0066-Electric Guitar.xiz,file
+0066-Fat Brass.xiz,file
+0066-Fat Reed2.xiz,file
+0066-Flanged Pad 1.xiz,file
+0066-Hollow Ice Field.xiz,file
+0066-Hyper Arpeggio.xiz,file
+0066-Long SpaceChoir2.xiz,file
+0066-Nice Organ 2.xiz,file
+0066-Phased Pad.xiz,file
+0066-SuperSaw 2.xiz,file
+0066-Synth Piano 2.xiz,file
+0066-Synth_Piano_02.xiz,file
+0066-Vocal Morph 2.xiz,file
+0067-Brass Pad1.xiz,file
+0067-Detuned Harmonic.xiz,file
+0067-Dual Strings Oct1.xiz,file
+0067-Dual StringsOct.xiz,file
+0067-Fat Reed3 square.xiz,file
+0067-Growing Pad.xiz,file
+0067-RhodesPad1.xiz,file
+0067-Smooth.xiz,file
+0067-Sub_Organ.xiz,file
+0067-SuperSaw 3.xiz,file
+0067-Synth Piano 3.xiz,file
+0067-Vocal Morph 3.xiz,file
+0068-Brass Pad2.xiz,file
+0068-Chorused Flute.xiz,file
+0068-Dual Strings Oct2.xiz,file
+0068-Glass Arpeggio.xiz,file
+0068-Glass Arpeggio1.xiz,file
+0068-Piano.xiz,file
+0068-RhodesPad2.xiz,file
+0068-Rushes.xiz,file
+0068-Square Organ.xiz,file
+0068-SuperSaw 4.xiz,file
+0068-Synth Piano 3 fat.xiz,file
+0068-Vintage Sweep Pad.xiz,file
+0068-Vocal Morph 4.xiz,file
+0069-Glass Arpeggio2.xiz,file
+0069-Medium Rushes.xiz,file
+0069-Mellow Echo Pad.xiz,file
+0069-Pianola.xiz,file
+0069-Soft Organ 1.xiz,file
+0069-SuperSaw 5.xiz,file
+0069-Synth Piano 3 det.xiz,file
+0069-Vocal Morph 5.xiz,file
+0070-Bright Rushes.xiz,file
+0070-Flanged Wind Pad.xiz,file
+0070-Soft Organ 2.xiz,file
+0070-Solo Synth 1.xiz,file
+0070-SuperSaw 6.xiz,file
+0070-Synth Piano 4.xiz,file
+0070-Vocal Morph 6.xiz,file
+0070-clavicembalo.xiz,file
+0071-Bright Rush Long Tail.xiz,file
+0071-Synth Organ.xiz,file
+0071-Synth Piano 5.xiz,file
+0071-Vocal Morph 7.xiz,file
+0071-Warble Pad.xiz,file
+0072-Extended Rushes.xiz,file
+0072-Fantasy Organ.xiz,file
+0072-Organz from Outta Space.xiz,file
+0072-Zufolo_1.xiz,file
+0073-Bright Rush Pipe.xiz,file
+0073-Morph Strings1.xiz,file
+0073-Shimmer Swell.xiz,file
+0073-Zufolo_2.xiz,file
+0074-80s Poly 5ths.xiz,file
+0074-Smooth Expanded.xiz,file
+0074-Sweep Rushes.xiz,file
+0074-Zufolo_3.xiz,file
+0075-Breathy Pad.xiz,file
+0075-Swell 5ths.xiz,file
+0075-Zufolo_4.xiz,file
+0076-Pinkollo.xiz,file
+0076-ReedBank.xiz,file
+0076-Vastness 5ths.xiz,file
+0077-Celestial 5ths.xiz,file
+0077-Voyager.xiz,file
+0078-Soft Voyager.xiz,file
+0078-Supersaw Snit.xiz,file
+0078-Tremulo_01.xiz,file
+0079-Soft Voyager Reverse.xiz,file
+0079-Subtle Supersaw Strings.xiz,file
+0079-Tremulo_02.xiz,file
+0080-Echo Choir.xiz,file
+0080-Jarre Strings.xiz,file
+0081-Organetto_01.xiz,file
+0081-Phased String Machine.xiz,file
+0081-Sharp.xiz,file
+0082-Organetto_02.xiz,file
+0082-Sharp and Warm.xiz,file
+0082-Tronic Strings.xiz,file
+0083-Sharp and Deep.xiz,file
+0083-Tronic Voices.xiz,file
+0084-Organo_01.xiz,file
+0084-Sharp Reed.xiz,file
+0084-Welcome to the 80s.xiz,file
+0085-Bright 80s Horn Stab.xiz,file
+0085-Far Reed.xiz,file
+0085-Organo_02.xiz,file
+0085-PanFluteSawPad.xiz,file
+0086-BlownPiano.xiz,file
+0086-Clarinet.xiz,file
+0086-Organo_03.xiz,file
+0086-Star Voyage Pad.xiz,file
+0087-Bassoon.xiz,file
+0087-Breathy Too.xiz,file
+0087-ChoirPatch.xiz,file
+0087-Harp 3.xiz,file
+0088-Aooww.xiz,file
+0088-Harp4.xiz,file
+0088-InfraSoundPad.xiz,file
+0088-Outer Galaxy Pad.xiz,file
+0089-Daooww.xiz,file
+0089-InfraSound2.xiz,file
+0090-Dolcino_01.xiz,file
+0090-Pad-RingModSine.xiz,file
+0090-Vintage Unison.xiz,file
+0090-Yaooww.xiz,file
+0091-Breezy Chord.xiz,file
+0091-Dolcino_02.xiz,file
+0091-FatPad.xiz,file
+0091-Yiee.xiz,file
+0092-Airy Chord.xiz,file
+0092-Dolcino_03.xiz,file
+0092-Eeoow.xiz,file
+0092-VibratingPad.xiz,file
+0092-Wind Pipes.xiz,file
+0093-Chimey Chord.xiz,file
+0093-Dolcino_04.xiz,file
+0093-Overdrive.xiz,file
+0094-Donk Donk Chord.xiz,file
+0094-Overdrive 2.xiz,file
+0095-Accordian.xiz,file
+0095-Overdrive 3.xiz,file
+0096-Power Guitar 1.xiz,file
+0096-padNice.xiz,file
+0097-Accordion Pad 1.xiz,file
+0097-AnalogBass.xiz,file
+0097-Bell Pad.xiz,file
+0097-FM Synth.xiz,file
+0097-Passing Comet.xiz,file
+0097-Power Guitar 2.xiz,file
+0097-Space Guitar.xiz,file
+0097-k.xiz,file
+0098-Accordion Pad 2.xiz,file
+0098-DoublePadBass.xiz,file
+0098-Sweepy Noisy Pulses.xiz,file
+0098-Wet Brass.xiz,file
+0098-z.xiz,file
+0099-Robot Overlords.xiz,file
+0099-SharpBass1.xiz,file
+0099-Synth Accordion1.xiz,file
+0099-Wet Brass 2.xiz,file
+0099-a.xiz,file
+01-intro_IT.txt,file
+01-unit.h,file
+0100-Prophesy.xiz,file
+0100-Scrubbed Launch.xiz,file
+0100-SharpBass4.xiz,file
+0100-Steel Rhodes.xiz,file
+0100-Synth Accordion2.xiz,file
+0101-Accordion 1.xiz,file
+0101-Alien Lawnmower.xiz,file
+0101-Bottle.xiz,file
+0101-SharpBass5.xiz,file
+0101-Sweet_Night.xiz,file
+0102-Pan Pipe 32.xiz,file
+0102-PluckedWithTailBassy.xiz,file
+0102-RacecaR.xiz,file
+0102-Sweet_Night_2.xiz,file
+0103-Electric Swell.xiz,file
+0103-Gocce.xiz,file
+0103-Pan Pipe.xiz,file
+0103-PluckedAnalogBass.xiz,file
+0104-Classic FM Twang.xiz,file
+0104-Ice Rhodes2.xiz,file
+0104-Pan Pipe 96.xiz,file
+0105-Lite Guitar.xiz,file
+0105-Ominosity.xiz,file
+0105-Voluttuoso.xiz,file
+0106-Entropia.xiz,file
+0106-Harpsichord.xiz,file
+0106-Trem Guitar.xiz,file
+0106-Unpleasantly Drunk.xiz,file
+0107-Cathedral Harp.xiz,file
+0107-Hammering Metal.xiz,file
+0107-Smooth Guitar.xiz,file
+0108-Angel Harp.xiz,file
+0108-Arcano.xiz,file
+0108-Boiling Cauldron.xiz,file
+0108-NoisyPulseLead.xiz,file
+0108-Nylon Guitar.xiz,file
+0109-Arcano2.xiz,file
+0109-Crickets.xiz,file
+0109-NoisyPulseLead2.xiz,file
+0109-Tunnel Piano.xiz,file
+0110-Arcano3.xiz,file
+0110-Home Piano.xiz,file
+0110-wierdSchwoop.xiz,file
+0111-Moonlight Piano.xiz,file
+0111-PoorAccordion.xiz,file
+0112-Glass_01.xiz,file
+0112-PoorTrumpet.xiz,file
+0112-Soft Piano1.xiz,file
+0113-BassyChirp.xiz,file
+0113-Glass_02a.xiz,file
+0113-Soft Piano2.xiz,file
+0114-Glass_02b.xiz,file
+0114-Space Piano.xiz,file
+0114-hoarseorgan.xiz,file
+0115-Glass_03.xiz,file
+0115-MysticlBells.xiz,file
+0115-Space Voice.xiz,file
+0116-Far Space Voice.xiz,file
+0116-Glass_04.xiz,file
+0116-Soprano.xiz,file
+0117-Space Voice 2.xiz,file
+0118-Soft Choir.xiz,file
+0119-Arcadia_1.xiz,file
+0119-Full Choir.xiz,file
+0119-Ghost Choir.xiz,file
+0120-Arcadia_2.xiz,file
+0120-Soft Ahh.xiz,file
+0121-Arcadia_3.xiz,file
+0121-Breathy Ahh.xiz,file
+0122-Another Choir.xiz,file
+0122-Arcadia_4.xiz,file
+0123-Light Choir.xiz,file
+0124-Armonica.xiz,file
+0124-Super Pad.xiz,file
+0125-Fanfara.xiz,file
+0125-Hyper Pad.xiz,file
+0126-Hyper Matrix.xiz,file
+0126-Polvere.xiz,file
+0127-Comb Filter.xiz,file
+0127-Extreme.xiz,file
+0128-Synth Pad 5.xiz,file
+0128-Wind and Surf.xiz,file
+0129-Bello.xiz,file
+0129-chip-SlowSawStrings.xiz,file
+0130-abbellimento.xiz,file
+0130-chip-SIDarpSoft.xiz,file
+0131-Carino.xiz,file
+0131-chip-SIDarpSharp.xiz,file
+0132-Cigno.xiz,file
+0132-chip-SIDarpSharp2.xiz,file
+0133-chip-HarshSaw.xiz,file
+0133-fluido.xiz,file
+0134-chip-VibratoLead.xiz,file
+0135-chip-VibratoLead2.xiz,file
+0136-Romantico.xiz,file
+0136-chip-PWM-VibratoLead.xiz,file
+0137-Romantico2.xiz,file
+0137-chip-PolyDistorted.xiz,file
+0138-chip-PolyDistorted2.xiz,file
+0138-romanticone.xiz,file
+0139-Emptyness3.xiz,file
+0140-Foglie.xiz,file
+0142-Solitudine.xiz,file
+0144-Inquietudine.xiz,file
+0145-c.xiz,file
+0146-Ancestrale.xiz,file
+0146-PluckedWithVibTail.xiz,file
+0147-Attesa.xiz,file
+0147-PluckedWithTail2.xiz,file
+0148-PluckedWithTail.xiz,file
+0148-vento.xiz,file
+0149-pioggia.xiz,file
+0150-nebbia.xiz,file
+0151-Memory.xiz,file
+0152-Memory2.xiz,file
+0153-Memory3.xiz,file
+0155-contorno.xiz,file
+0156-fantasia.xiz,file
+0157-nostalgia.xiz,file
+0158-patetico.xiz,file
+0159-Destino.xiz,file
+02-filter_IT.txt,file
+02-steves-flat.h,file
+03-lfo_IT.txt,file
+03-stk-m1.h,file
+04-envelope_IT.txt,file
+04-fender-68-vibrolux-sm57.h,file
+05-adsynth_IT.txt,file
+05-fender-68-vibrolux-sm57-off.h,file
+06-controller_IT.txt,file
+06-fender-68-vibrolux-at4050.h,file
+07-fender-68-vibrolux-ui87.h,file
+08-fender-bassman-sm57.h,file
+08-saving_IT.txt,file
+09-fender-bassman-sm57-off.h,file
+10-fender-bassman-at4050.h,file
+10saw.flac,file
+10sine.flac,file
+10sqr.flac,file
+10tri.flac,file
+11-fender-bassman-ui87.h,file
+12-bit_heavy_hitter.ds,file
+12-fender-superchamp-sm57.h,file
+13-fender-superchamp-sm57-off.h,file
+14-fender-superchamp-at4050.h,file
+15-fender-superchamp-ui87.h,file
+16-marshall-jcm2000-sm57.h,file
+17-marshall-jcm2000-sm57-off.h,file
+18-marshall-plexi-sm57.h,file
+19-marshall-plexi-sm57-off.h,file
+2-bit_zone_drone.ds,file
+20-matchless-chieftain-sm57.h,file
+21-matchless-chieftain-sm57-off.h,file
+2_bit_click.ds,file
+3off.png,file
+3offred.png,file
+6581.png,file
+6581red.png,file
+8580.png,file
+8580red.png,file
+909_hard_snare.ds,file
+909beat01.ogg,file
+AAH.ds,file
+ADnote.cpp,file
+ADnote.h,file
+ADnoteParameters.cpp,file
+ADnoteParameters.h,file
+ADnoteUI.fl,file
+APPENDIX_A-mididefaults_IT.txt,file
+APPENDIX_B-build_IT.txt,file
+APPENDIX_C-doc_getting_IT.txt,file
+AUTHORS,file
+AUTHORS.txt,file
+AboutDialog.cpp,file
+AboutDialog.h,file
+AcidLead.xpf,file
+AcousticDrumset.mpt,file
+AdNoteTest.h,file
+Alf42red-Mauiwowi.mmpz,file
+Alienwah.cpp,file
+Alienwah.h,file
+AlsaEngine.cpp,file
+AlsaEngine.h,file
+AmazingBubbles.xpf,file
+Amp.cc,file
+Amp.h,file
+Amplifier,dir
+Amplifier.cpp,file
+Amplifier.h,file
+AmplifierControlDialog.cpp,file
+AmplifierControlDialog.h,file
+AmplifierControls.cpp,file
+AmplifierControls.h,file
+AnalogBell.xpf,file
+AnalogDreamz.xpf,file
+AnalogFilter.cpp,file
+AnalogFilter.h,file
+AnalogTimes.xpf,file
+Analogous.xpf,file
+AngryLead.xpf,file
+AngryLlama-NewFangled.mmpz,file
+Arpeggio.xpf,file
+ArpeggioPing.xpf,file
+Arpeggios,dir
+Ashore.mmpz,file
+AudioAlsa.cpp,file
+AudioAlsa.h,file
+AudioDevice.cpp,file
+AudioDevice.h,file
+AudioDummy.h,file
+AudioFileDevice.cpp,file
+AudioFileDevice.h,file
+AudioFileOgg.cpp,file
+AudioFileOgg.h,file
+AudioFileProcessor,dir
+AudioFileWave.cpp,file
+AudioFileWave.h,file
+AudioJack.cpp,file
+AudioJack.h,file
+AudioOss.cpp,file
+AudioOss.h,file
+AudioOut.cpp,file
+AudioOut.h,file
+AudioPort.cpp,file
+AudioPort.h,file
+AudioPortAudio.cpp,file
+AudioPortAudio.h,file
+AudioPulseAudio.cpp,file
+AudioPulseAudio.h,file
+AudioSampleRecorder.cpp,file
+AudioSampleRecorder.h,file
+AudioSdl.cpp,file
+AudioSdl.h,file
+AutomatableButton.cpp,file
+AutomatableButton.h,file
+AutomatableModel.cpp,file
+AutomatableModel.h,file
+AutomatableModelView.cpp,file
+AutomatableModelView.h,file
+AutomatableSlider.cpp,file
+AutomatableSlider.h,file
+AutomationEditor.cpp,file
+AutomationEditor.h,file
+AutomationPattern.cpp,file
+AutomationPattern.h,file
+AutomationPatternView.cpp,file
+AutomationPatternView.h,file
+AutomationTrack.cpp,file
+AutomationTrack.h,file
+B1_B2.ds,file
+BBEditor.cpp,file
+BBEditor.h,file
+BBTrack.cpp,file
+BBTrack.h,file
+BBTrackContainer.cpp,file
+BBTrackContainer.h,file
+Bagpipe.xpf,file
+BandLimitedWave.cpp,file
+BandLimitedWave.h,file
+Bank.cpp,file
+Bank.h,file
+BankUI.fl,file
+BasicFilters.h,file
+Basic_Gb_Apu.cpp,file
+Basic_Gb_Apu.h,file
+Bass,dir
+Bass-Mania.xpf,file
+Bass.xpf,file
+BassBooster,dir
+BassBooster.cpp,file
+BassBooster.h,file
+BassBoosterControlDialog.cpp,file
+BassBoosterControlDialog.h,file
+BassBoosterControls.cpp,file
+BassBoosterControls.h,file
+Bell.xpf,file
+BellArp.xpf,file
+Bells.xpf,file
+BiQuad.h,file
+BitInvader,dir
+Bitcrush,dir
+Bitcrush.cpp,file
+Bitcrush.h,file
+BitcrushControlDialog.cpp,file
+BitcrushControlDialog.h,file
+BitcrushControls.cpp,file
+BitcrushControls.h,file
+BlandModBass.xpf,file
+Blip_Buffer.cpp,file
+Blip_Buffer.h,file
+Blip_Synth.h,file
+Bongo_h.ds,file
+Bongo_l.ds,file
+Bongo_m2.ds,file
+Bongo_mu.ds,file
+Boom.ds,file
+Brass,dir
+Brass.xpf,file
+BrokenToy.xpf,file
+Brush1.ds,file
+Brush2.ds,file
+Bubble.ds,file
+Bubbly_days.xpf,file
+BufferManager.cpp,file
+BufferManager.h,file
+BuildPlugin.cmake,file
+CHANGES,file
+CMakeLists.txt,file
+COPYING,file
+COPYING.GPL,file
+COPYING.LESSER,file
+COPYRIGHT,file
+CPULoadWidget.cpp,file
+CPULoadWidget.h,file
+CR8000.mpt,file
+CREDITS,file
+CTestConfig.cmake,file
+Cabinet-Models32.h,file
+Cabinet.cc,file
+Cabinet.h,file
+CapDan,dir
+CapDan-ReggaeTry.mmpz,file
+CapDan-ReggaetonTry.mmpz,file
+CapDan-TwilightArea-OriginalByAlf42red.mmpz,file
+CapDan-ZeroSumGame-OriginalByZakarra.mmpz,file
+CaptionMenu.cpp,file
+CaptionMenu.h,file
+ChangeLog,file
+CheesyGuitar.xpf,file
+Cheesy_synth.xpf,file
+ChoirAndVoice,dir
+Chomp.xpf,file
+Chorus.cc,file
+Chorus.cpp,file
+Chorus.h,file
+ChurchOrgan.xpf,file
+Cicada.ds,file
+Clap dry.xpf,file
+Clap.ds,file
+Clap.xpf,file
+Clarinet.xpf,file
+Clave.ds,file
+Clave_we.ds,file
+Click.cc,file
+Click.h,file
+Client.C,file
+Client.H,file
+Clip.cc,file
+Clip.h,file
+Clipboard.cpp,file
+Clipboard.h,file
+ClubMix.mpt,file
+Collection,dir
+ComboBox.cpp,file
+ComboBox.h,file
+ComboBoxModel.cpp,file
+ComboBoxModel.h,file
+Combo_organ.xpf,file
+Companion,dir
+Components,dir
+Compress.cc,file
+Compress.h,file
+Config.cpp,file
+Config.h,file
+ConfigManager.cpp,file
+ConfigManager.h,file
+ConfigUI.fl,file
+Conga.ds,file
+Conga_l.ds,file
+Conga_m.ds,file
+Control.h,file
+Controller,dir
+Controller.C,file
+Controller.cpp,file
+Controller.h,file
+ControllerConnection.cpp,file
+ControllerConnection.h,file
+ControllerConnectionDialog.cpp,file
+ControllerConnectionDialog.h,file
+ControllerDialog.cpp,file
+ControllerDialog.h,file
+ControllerRackView.cpp,file
+ControllerRackView.h,file
+ControllerTest.h,file
+ControllerUI.fl,file
+ControllerView.cpp,file
+ControllerView.h,file
+CoolSongs,dir
+Cormi_Noise,dir
+Cormi_Sound,dir
+Cowbell.ds,file
+CrossoverEQ,dir
+CrossoverEQ.cpp,file
+CrossoverEQ.h,file
+CrossoverEQControlDialog.cpp,file
+CrossoverEQControlDialog.h,file
+CrossoverEQControls.cpp,file
+CrossoverEQControls.h,file
+Crunk(Demo).mmp,file
+CryingPads.xpf,file
+Cymbal.ds,file
+DSP,dir
+DSSIaudiooutput.cpp,file
+DSSIaudiooutput.h,file
+DataFile.cpp,file
+DataFile.h,file
+Delay.h,file
+Demos,dir
+Descriptor.h,file
+DetectMachine.cmake,file
+Detune_lead.xpf,file
+DetunedGhost.xpf,file
+DetuningHelper.h,file
+DirtyReece.xpf,file
+Distant_Thunder.ds,file
+Distorsion.cpp,file
+Distorsion.h,file
+DistortedPMBass.xpf,file
+DnB.mmpz,file
+Doxyfile,file
+Doxyfile.in,file
+DroneArp.xpf,file
+DrumSynth.cpp,file
+DrumSynth.h,file
+Drums,dir
+Drums_HardKick.xpf,file
+Drums_HihatC.xpf,file
+Drums_HihatO.xpf,file
+Drums_Kick.xpf,file
+Drums_Snare.xpf,file
+DspEffectLibrary.h,file
+Dual,dir
+DualFilter,dir
+DualFilter.cpp,file
+DualFilter.h,file
+DualFilterControlDialog.cpp,file
+DualFilterControlDialog.h,file
+DualFilterControls.cpp,file
+DualFilterControls.h,file
+DullBell.xpf,file
+DummyEffect.h,file
+DummyInstrument.h,file
+DummyPlugin.h,file
+Dump.cpp,file
+Dump.h,file
+DynamicFilter.cpp,file
+DynamicFilter.h,file
+E-Organ.xpf,file
+E-Organ2.xpf,file
+EQ.cpp,file
+EQ.h,file
+E_Piano.ds,file
+Echo.cpp,file
+Echo.h,file
+EchoTest.h,file
+EffUI.fl,file
+Effect.cpp,file
+Effect.h,file
+EffectChain.cpp,file
+EffectChain.h,file
+EffectControlDialog.cpp,file
+EffectControlDialog.h,file
+EffectControls.h,file
+EffectLFO.cpp,file
+EffectLFO.h,file
+EffectMgr.cpp,file
+EffectMgr.h,file
+EffectRackView.cpp,file
+EffectRackView.h,file
+EffectSelectDialog.cpp,file
+EffectSelectDialog.h,file
+EffectSelectDialog.ui,file
+EffectView.cpp,file
+EffectView.h,file
+Effects,dir
+ElectricOboe.xpf,file
+Engine.cpp,file
+Engine.h,file
+EngineMgr.cpp,file
+EngineMgr.h,file
+Engine_overheats.xpf,file
+Envelope.cpp,file
+Envelope.h,file
+EnvelopeAndLfoParameters.cpp,file
+EnvelopeAndLfoParameters.h,file
+EnvelopeAndLfoView.cpp,file
+EnvelopeAndLfoView.h,file
+EnvelopeParams.cpp,file
+EnvelopeParams.h,file
+EnvelopeUI.fl,file
+Epiano.xpf,file
+Epic_lead.xpf,file
+Eq,dir
+Eq.cc,file
+Eq.h,file
+EqControls.cpp,file
+EqControls.h,file
+EqControlsDialog.cpp,file
+EqControlsDialog.h,file
+EqEffect.cpp,file
+EqEffect.h,file
+EqFader.h,file
+EqFilter.h,file
+EqParameterWidget.cpp,file
+EqParameterWidget.h,file
+EqSpectrumView.h,file
+Erazor.xpf,file
+Erazzor.xpf,file
+EsoXLB-CPU.mmpz,file
+ExportProjectDialog.cpp,file
+ExportProjectDialog.h,file
+ExternalPrograms,dir
+Eye_Eye.ds,file
+FAQ.txt,file
+FFTwrapper.cpp,file
+FFTwrapper.h,file
+FIR.h,file
+FM_Bass.ds,file
+FPTruncateMode.h,file
+FadeButton.cpp,file
+FadeButton.h,file
+Fader.cpp,file
+Fader.h,file
+Fantasy,dir
+Farbro-Tectonic.mmpz,file
+Fat-Reversed-Kick.xpf,file
+FatCheese.xpf,file
+FatPMArp.xpf,file
+FatTB303Arp.xpf,file
+FileAssociation.nsh,file
+FileBrowser.cpp,file
+FileBrowser.h,file
+FileDialog.cpp,file
+FileDialog.h,file
+Filter.cpp,file
+Filter.h,file
+FilterParams.cpp,file
+FilterParams.h,file
+FilterUI.fl,file
+FindAlsa.cmake,file
+FindCxxTest.cmake,file
+FindJACK.cmake,file
+FindOSS.cmake,file
+FindOggVorbis.cmake,file
+FindPortaudio.cmake,file
+FindPulseAudio.cmake,file
+FindSTK.cmake,file
+FindWine.cmake,file
+Findzlib.cmake,file
+Fireball_flick.xpf,file
+Fisa_Bongo.ds,file
+Fisa_Cym.ds,file
+Fisa_Hat.ds,file
+Fisa_K_H.ds,file
+Fisa_K_K.ds,file
+Fisa_Kick.ds,file
+Fisa_S_B.ds,file
+Fisa_Snare.ds,file
+Fisa_Tom.ds,file
+Flanger,dir
+FlangerControls.cpp,file
+FlangerControls.h,file
+FlangerControlsDialog.cpp,file
+FlangerControlsDialog.h,file
+FlangerEffect.cpp,file
+FlangerEffect.h,file
+FlpImport.cpp,file
+FlpImport.h,file
+FormantFilter.cpp,file
+FormantFilter.h,file
+Forms,dir
+Fp1.ds,file
+Freaky-Bass.xpf,file
+Funky.xpf,file
+FutureBass.xpf,file
+FuzzyAnalogBass.xpf,file
+FxLine.cpp,file
+FxLine.h,file
+FxMixer.cpp,file
+FxMixer.h,file
+FxMixerView.cpp,file
+FxMixerView.h,file
+Gamelan.ds,file
+Garfunkel.xpf,file
+Gb_Apu.cpp,file
+Gb_Apu.h,file
+Gb_Oscs.cpp,file
+Gb_Oscs.h,file
+GhostBoy.xpf,file
+GigPlayer,dir
+GigPlayer.cpp,file
+GigPlayer.h,file
+Glass.ds,file
+Glass_rn.ds,file
+GoodOldTimes.xpf,file
+Graph.cpp,file
+Graph.h,file
+Greippi-ardudar.mmpz,file
+Greshz-CoolSnip.mmpz,file
+GroupBox.cpp,file
+GroupBox.h,file
+Growl.xpf,file
+Guitar,dir
+Gunshot.ds,file
+HISTORY.txt,file
+HRTF.cc,file
+HRTF.h,file
+H_closed.ds,file
+H_open.ds,file
+Halo_pad.xpf,file
+Hammer.ds,file
+Handclap.ds,file
+Harmonium.xpf,file
+Harp-of-a-Fairy.xpf,file
+Harp.xpf,file
+Harpsichord.xpf,file
+Hat-c.ds,file
+Hat-c2.ds,file
+Hat-o.ds,file
+Hat-o2.ds,file
+Hat_O.ds,file
+Hat_c.ds,file
+Hat_o.ds,file
+Hi-q.ds,file
+Hi-q_2.ds,file
+HiPad.xpf,file
+Hihat.ds,file
+HihatClosed.xpf,file
+HihatOpen.xpf,file
+HorrorLead.xpf,file
+HugeGrittyBass.xpf,file
+HydrogenImport,dir
+HydrogenImport.cpp,file
+HydrogenImport.h,file
+INSTALL,file
+INSTALL.Qt5,file
+IT,dir
+ImportFilter.cpp,file
+ImportFilter.h,file
+Impulslogik-Zen.mmpz,file
+InMgr.cpp,file
+InMgr.h,file
+InlineAutomation.cpp,file
+InlineAutomation.h,file
+InstallHelpers.cmake,file
+Instrument.cpp,file
+Instrument.h,file
+InstrumentFunctionViews.cpp,file
+InstrumentFunctionViews.h,file
+InstrumentFunctions.cpp,file
+InstrumentFunctions.h,file
+InstrumentMidiIOView.cpp,file
+InstrumentMidiIOView.h,file
+InstrumentPlayHandle.cpp,file
+InstrumentPlayHandle.h,file
+InstrumentSoundShaping.cpp,file
+InstrumentSoundShaping.h,file
+InstrumentSoundShapingView.cpp,file
+InstrumentSoundShapingView.h,file
+InstrumentTrack.cpp,file
+InstrumentTrack.h,file
+InstrumentView.cpp,file
+InstrumentView.h,file
+JackEngine.cpp,file
+JackEngine.h,file
+JazzKick.ds,file
+JazzSnr.ds,file
+JazzSnr_H.ds,file
+JournallingObject.cpp,file
+JournallingObject.h,file
+Jupiter.xpf,file
+K_8bit.ds,file
+K_Linn.ds,file
+K_Muffle.ds,file
+K_reverb.ds,file
+Kick-4-your-Subwoofer.xpf,file
+Kick.ds,file
+KickPower.xpf,file
+Kick_1.ds,file
+Kick_2.ds,file
+Kick_3.ds,file
+Kicker,dir
+KickerOsc.h,file
+Kickhard.ds,file
+Kicklong.ds,file
+Knob.cpp,file
+Knob.h,file
+LASHClient.cpp,file
+LASHClient.h,file
+LB302,dir
+LFO-party.xpf,file
+LFO.cpp,file
+LFO.h,file
+LFOParams.cpp,file
+LFOParams.h,file
+LFOUI.fl,file
+LGPL.txt,file
+LICENSES.TXT,file
+Laba170bank,dir
+Ladspa2LMMS.cpp,file
+Ladspa2LMMS.h,file
+LadspaBase.h,file
+LadspaControl.cpp,file
+LadspaControl.h,file
+LadspaControlDialog.cpp,file
+LadspaControlDialog.h,file
+LadspaControlView.cpp,file
+LadspaControlView.h,file
+LadspaControls.cpp,file
+LadspaControls.h,file
+LadspaEffect,dir
+LadspaEffect.cpp,file
+LadspaEffect.h,file
+LadspaManager.cpp,file
+LadspaManager.h,file
+LadspaSubPluginFeatures.cpp,file
+LadspaSubPluginFeatures.h,file
+Laser.ds,file
+LatFilt.h,file
+LcdSpinBox.cpp,file
+LcdSpinBox.h,file
+LcdWidget.cpp,file
+LcdWidget.h,file
+Lead.xpf,file
+LedCheckbox.cpp,file
+LedCheckbox.h,file
+LfoController.cpp,file
+LfoController.h,file
+LfoControllerDialog.cpp,file
+LmmsPalette.cpp,file
+LmmsPalette.h,file
+LmmsStyle.cpp,file
+LmmsStyle.h,file
+LocalFileMng.h,file
+LocalZynAddSubFx.cpp,file
+LocalZynAddSubFx.h,file
+Lorenz.cc,file
+Lorenz.h,file
+LovelyDream.xpf,file
+MadMind.xpf,file
+MainWindow.cpp,file
+MainWindow.h,file
+Maracas.ds,file
+Master.cpp,file
+Master.h,file
+MasterUI.fl,file
+Mega_weapon.xpf,file
+MemoryHelper.cpp,file
+MemoryHelper.h,file
+MemoryManager.cpp,file
+MemoryManager.h,file
+MeterDialog.cpp,file
+MeterDialog.h,file
+MeterModel.cpp,file
+MeterModel.h,file
+MicroTimer.h,file
+Microtonal.cpp,file
+Microtonal.h,file
+MicrotonalTest.h,file
+MicrotonalUI.fl,file
+Midi.h,file
+MidiAlsaRaw.cpp,file
+MidiAlsaRaw.h,file
+MidiAlsaSeq.cpp,file
+MidiAlsaSeq.h,file
+MidiClient.cpp,file
+MidiClient.h,file
+MidiController.cpp,file
+MidiController.h,file
+MidiDummy.h,file
+MidiEvent.h,file
+MidiEventProcessor.h,file
+MidiImport,dir
+MidiImport.cpp,file
+MidiImport.h,file
+MidiIn.cpp,file
+MidiIn.h,file
+MidiOss.cpp,file
+MidiOss.h,file
+MidiPort.cpp,file
+MidiPort.h,file
+MidiPortMenu.cpp,file
+MidiPortMenu.h,file
+MidiTime.h,file
+MidiWinMM.cpp,file
+MidiWinMM.h,file
+MinGWCrossCompile.cmake,file
+Misc,dir
+Mist1.ds,file
+Mist2.ds,file
+MixHelpers.cpp,file
+MixHelpers.h,file
+Mixer.cpp,file
+Mixer.h,file
+MixerProfiler.cpp,file
+MixerProfiler.h,file
+MixerWorkerThread.cpp,file
+MixerWorkerThread.h,file
+Model.cpp,file
+Model.h,file
+ModelView.cpp,file
+ModelView.h,file
+Momo64-esp.mmpz,file
+MonoDelay.cpp,file
+MonoDelay.h,file
+Monstro,dir
+Monstro.cpp,file
+Monstro.h,file
+MoogArpeggio.xpf,file
+Moog_bass.ds,file
+MoveYourBody.xpf,file
+Multi_Buffer.cpp,file
+Multi_Buffer.h,file
+MultitapEcho,dir
+MultitapEcho.cpp,file
+MultitapEcho.h,file
+MultitapEchoControlDialog.cpp,file
+MultitapEchoControlDialog.h,file
+MultitapEchoControls.cpp,file
+MultitapEchoControls.h,file
+NEWS,file
+NSM,dir
+NSM.C,file
+NSM.H,file
+NStateButton.cpp,file
+NStateButton.h,file
+N_low.ds,file
+N_vlow.ds,file
+Namitryus-K-Project.mmpz,file
+Nes.cpp,file
+Nes.h,file
+Nescaline,dir
+Nio,dir
+Nio.cpp,file
+Nio.h,file
+NioUI.cpp,file
+NioUI.h,file
+Noise.cpp,file
+Noise.h,file
+Noises,dir
+Note.cpp,file
+Note.h,file
+NotePlayHandle.cpp,file
+NotePlayHandle.h,file
+NulEngine.cpp,file
+NulEngine.h,file
+Oboe.ds,file
+Oglsdl-Dr8v2.mmpz,file
+Oglsdl-PpTrip.mmpz,file
+Oh Synth.xpf,file
+OldComputerGames.xpf,file
+OnePole.h,file
+OpulenZ,dir
+Organ,dir
+Organ_leslie.xpf,file
+Organic,dir
+OscilGen.cpp,file
+OscilGen.h,file
+OscilGenTest.h,file
+OscilGenUI.fl,file
+Oscillator.cpp,file
+Oscillator.h,file
+OssEngine.cpp,file
+OssEngine.h,file
+OutMgr.cpp,file
+OutMgr.h,file
+Output,dir
+Overdrive.xpf,file
+PADnote.cpp,file
+PADnote.h,file
+PADnoteParameters.cpp,file
+PADnoteParameters.h,file
+PADnoteUI.fl,file
+PM-FMstring.xpf,file
+PMFMFTWbass.xpf,file
+PMbass.xpf,file
+PaEngine.cpp,file
+PaEngine.h,file
+Pad.xpf,file
+PadNoteTest.h,file
+Pads,dir
+Pan.cc,file
+Pan.h,file
+Params,dir
+Part.cpp,file
+Part.h,file
+PartUI.fl,file
+PatchesDialog.cpp,file
+PatchesDialog.h,file
+PatchesDialog.ui,file
+Pattern.cpp,file
+Pattern.h,file
+PeakController.cpp,file
+PeakController.h,file
+PeakControllerDialog.cpp,file
+PercussiveBass.xpf,file
+Phase_bass.xpf,file
+Phaser.cc,file
+Phaser.cpp,file
+Phaser.h,file
+Phat.xpf,file
+Piano.cpp,file
+Piano.h,file
+PianoRoll.cpp,file
+PianoRoll.h,file
+PianoView.cpp,file
+PianoView.h,file
+Pitch.h,file
+PixmapButton.cpp,file
+PixmapButton.h,file
+Plain_Kick.ds,file
+Play-some-rock.xpf,file
+PlayHandle.cpp,file
+PlayHandle.h,file
+PluckArpeggio.xpf,file
+PluckBass.xpf,file
+Plucked,dir
+Plugin.cpp,file
+Plugin.h,file
+PluginBrowser.cpp,file
+PluginBrowser.h,file
+PluginTest.h,file
+PluginView.h,file
+Popsip-Electric Dancer.mmpz,file
+PowerStrings.xpf,file
+Preamp.cc,file
+PresetPreviewPlayHandle.cpp,file
+PresetPreviewPlayHandle.h,file
+Presets.cpp,file
+Presets.h,file
+PresetsArray.cpp,file
+PresetsArray.h,file
+PresetsStore.cpp,file
+PresetsStore.h,file
+PresetsUI.fl,file
+ProjectJournal.cpp,file
+ProjectJournal.h,file
+ProjectNotes.cpp,file
+ProjectNotes.h,file
+ProjectRenderer.cpp,file
+ProjectRenderer.h,file
+ProjectVersion.cpp,file
+ProjectVersion.h,file
+Pulse.xpf,file
+Pwnage.xpf,file
+QtXmlWrapper.cpp,file
+QtXmlWrapper.h,file
+QuadratureLfo.cpp,file
+QuadratureLfo.h,file
+RBJ.h,file
+README,file
+README.ardour,file
+README.dist,file
+README.md,file
+README.txt,file
+RMS.h,file
+RandTest.h,file
+Randion1.ds,file
+RaveBass.xpf,file
+Ravemania.xpf,file
+ReadMe.txt,file
+Recorder.cpp,file
+Recorder.h,file
+ReedAndWind,dir
+RemotePlugin.cpp,file
+RemotePlugin.h,file
+RemoteVstPlugin.cpp,file
+RemoteZynAddSubFx.cpp,file
+RemoteZynAddSubFx.h,file
+RenameDialog.cpp,file
+RenameDialog.h,file
+ResoBass.xpf,file
+Resonance.cpp,file
+Resonance.h,file
+ResonanceUI.fl,file
+ResonantPad.xpf,file
+Reverb.cc,file
+Reverb.cpp,file
+Reverb.h,file
+Reverse.ds,file
+Rhodes,dir
+Ride.ds,file
+Ride2.ds,file
+Ride3.ds,file
+Rim.ds,file
+RimShot.ds,file
+Rimshot.ds,file
+RingBuffer.cpp,file
+RingBuffer.h,file
+Ringing.ds,file
+RmsHelper.h,file
+Roessler.cc,file
+Roessler.h,file
+Root84-Initialize.mmpz,file
+Root84-TrancyLoop.mmpz,file
+Rough!.xpf,file
+Rubberband.cpp,file
+Rubberband.h,file
+Rubberband.xpf,file
+SEGuitar.xpf,file
+SID,dir
+SString.xpf,file
+STrash.xpf,file
+SUBnote.cpp,file
+SUBnote.h,file
+SUBnoteParameters.cpp,file
+SUBnoteParameters.h,file
+SUBnoteUI.fl,file
+SVF.h,file
+SVFilter.cpp,file
+SVFilter.h,file
+S_8bit.ds,file
+S_Linn.ds,file
+S_hollow.ds,file
+S_reverb.ds,file
+Saber-FinalStep.mmpz,file
+Saber_fight.ds,file
+SadPad.xpf,file
+SafeQueue.cpp,file
+SafeQueue.h,file
+SampleBuffer.cpp,file
+SampleBuffer.h,file
+SamplePlayHandle.cpp,file
+SamplePlayHandle.h,file
+SampleRecordHandle.cpp,file
+SampleRecordHandle.h,file
+SampleTrack.cpp,file
+SampleTrack.h,file
+SawReso.xpf,file
+Scape.cc,file
+Scape.h,file
+ScaryBell.xpf,file
+Scissors.ds,file
+SendButtonIndicator.cpp,file
+SendButtonIndicator.h,file
+SerializingObject.cpp,file
+SerializingObject.h,file
+Settel-InnerRecreation.mmpz,file
+SetupDialog.cpp,file
+SetupDialog.h,file
+Shaker.xpf,file
+Shaker_1.ds,file
+Shaker_2.ds,file
+Shorties,dir
+Shovon-ProgressiveHousePluckDemo.mmpz,file
+SideBar.cpp,file
+SideBar.h,file
+SideBarWidget.cpp,file
+SideBarWidget.h,file
+Simple-c.ds,file
+Simple-r.ds,file
+Simple-s.ds,file
+Sin.cc,file
+Sin.h,file
+Sine.h,file
+Skiessi,dir
+Skiessi-222.mmpz,file
+Skiessi-C64.mmpz,file
+Skiessi-Onion.mmpz,file
+Skiessi-RandomProjectNumber14253.mmpz,file
+Skiessi-TurningPoint.mmpz,file
+Snare.ds,file
+Snare2.ds,file
+SnareLong.xpf,file
+SnareMarch.xpf,file
+Snr_snap.ds,file
+Socceroos-Progress.mmpz,file
+Sonar.ds,file
+Song.cpp,file
+Song.h,file
+SongEditor.cpp,file
+SongEditor.h,file
+SpaceBass.xpf,file
+SpectrumAnalyzer,dir
+SpectrumAnalyzer.cpp,file
+SpectrumAnalyzer.h,file
+SpectrumAnalyzerControlDialog.cpp,file
+SpectrumAnalyzerControlDialog.h,file
+SpectrumAnalyzerControls.cpp,file
+SpectrumAnalyzerControls.h,file
+Splited,dir
+Spliter,dir
+Spliter.C,file
+Spliter.h,file
+SpliterUI.fl,file
+Splitted,dir
+Square.xpf,file
+SquarePing.xpf,file
+Squelb.ds,file
+Stereo.cpp,file
+Stereo.h,file
+StrictProduction-DearJonDoe.mmp,file
+StringPairDrag.cpp,file
+StringPairDrag.h,file
+Strings,dir
+SubNoteTest.h,file
+SuperSawLead.xpf,file
+Supernova.xpf,file
+Surrender-Main.mmpz,file
+SweepOscillator.h,file
+SweepVF.cc,file
+SweepVF.h,file
+Synth,dir
+SynthNote.cpp,file
+SynthNote.h,file
+SynthPiano,dir
+Syntom_1.ds,file
+Syntom_2.ds,file
+TB303.xpf,file
+TDFII.h,file
+TINTNpad.xpf,file
+TODO,file
+TR606_Cymbal.ds,file
+TR606_Hat_C.ds,file
+TR606_Hat_O.ds,file
+TR606_Kick.ds,file
+TR606_Snare.ds,file
+TR606_Tom_H.ds,file
+TR606_Tom_L.ds,file
+TR808.mpt,file
+TR909-RimShot.xpf,file
+TR909_Clap.ds,file
+TR909_Kick.ds,file
+TabBar.cpp,file
+TabBar.h,file
+TabButton.h,file
+TabWidget.cpp,file
+TabWidget.h,file
+Tamb.ds,file
+Tamb_hit.ds,file
+Tamb_shk.ds,file
+TameAnderson-MakeMe.mmpz,file
+Temple_Bell.ds,file
+TempoSyncKnob.cpp,file
+TempoSyncKnob.h,file
+TempoSyncKnobModel.cpp,file
+TempoSyncKnobModel.h,file
+Tests,dir
+TextFloat.cpp,file
+TextFloat.h,file
+Thaledric-Armageddon.mmpz,file
+TheFirstOne.xpf,file
+TheMaster.xpf,file
+Thomasso-AxeFromThe80s.mmpz,file
+ThreadableJob.h,file
+Throaties1.ds,file
+ThumbPno.ds,file
+TimeDisplayWidget.cpp,file
+TimeDisplayWidget.h,file
+Timeline.cpp,file
+Timeline.h,file
+TobyDox-Psycho.mmpz,file
+Tom_hi.ds,file
+Tom_lo.ds,file
+Tom_mid.ds,file
+Tone1.ds,file
+Tone10.ds,file
+Tone11.ds,file
+Tone12.ds,file
+Tone14.ds,file
+Tone15.ds,file
+Tone16.ds,file
+Tone17.ds,file
+Tone18.ds,file
+Tone19.ds,file
+Tone2.ds,file
+Tone20.ds,file
+Tone3.ds,file
+Tone4.ds,file
+Tone5.ds,file
+Tone6.ds,file
+Tone7.ds,file
+Tone8.ds,file
+Tone9.ds,file
+ToneControls.cc,file
+ToneStack.cc,file
+ToneStack.h,file
+Tone_dis.ds,file
+Tone_float1.ds,file
+Tone_sw2.ds,file
+Tone_swp.ds,file
+ToolButton.cpp,file
+ToolButton.h,file
+ToolPlugin.cpp,file
+ToolPlugin.h,file
+ToolPluginView.cpp,file
+ToolPluginView.h,file
+ToolTip.cpp,file
+ToolTip.h,file
+Tr77_cui1.ds,file
+Tr77_cui2.ds,file
+Tr77_cym.ds,file
+Tr77_hat.ds,file
+Tr77_kick.ds,file
+Tr77_snare.ds,file
+Tr77_tom1.ds,file
+Tr77_tom2.ds,file
+Track.cpp,file
+Track.h,file
+TrackContainer.cpp,file
+TrackContainer.h,file
+TrackContainerView.cpp,file
+TrackContainerView.h,file
+TrackLabelButton.cpp,file
+TrackLabelButton.h,file
+TranceLead.xpf,file
+TrapKick.xpf,file
+Triangle.ds,file
+TripleOscillator,dir
+TripleOscillator.cpp,file
+TripleOscillator.h,file
+TwelveAX7.h,file
+UI,dir
+Unison.cpp,file
+Unison.h,file
+UnisonTest.h,file
+Util.cpp,file
+Util.h,file
+VCO.cc,file
+VCO.h,file
+ValueBuffer.h,file
+VersionedSaveDialog.cpp,file
+VersionedSaveDialog.h,file
+Vibed,dir
+Vibraphone.xpf,file
+VirKeyboard.fl,file
+VisualizationWidget.cpp,file
+VisualizationWidget.h,file
+VstEffect,dir
+VstEffect.cpp,file
+VstEffect.h,file
+VstEffectControlDialog.cpp,file
+VstEffectControlDialog.h,file
+VstEffectControls.cpp,file
+VstEffectControls.h,file
+VstPlugin.cpp,file
+VstPlugin.h,file
+VstSubPluginFeatures.cpp,file
+VstSubPluginFeatures.h,file
+VstSyncController.cpp,file
+VstSyncController.h,file
+VstSyncData.h,file
+WarmStack.xpf,file
+Watsyn,dir
+Watsyn.cpp,file
+Watsyn.h,file
+WavEngine.cpp,file
+WavEngine.h,file
+WavFile.cpp,file
+WavFile.h,file
+WaveShapeSmps.cpp,file
+WaveShapeSmps.h,file
+Whistle.xpf,file
+White.cc,file
+White.h,file
+WidgetPDial.cpp,file
+WidgetPDial.h,file
+Win32Toolchain.cmake,file
+Win64,dir
+Win64Toolchain.cmake,file
+XMLwrapper.cpp,file
+XMLwrapper.h,file
+XMLwrapperTest.h,file
+Xylophon.xpf,file
+Zakarra,dir
+Zakarra-59_Degrees.mmpz,file
+Zakarra-MainstreamMemory.mmpz,file
+Zakarra-OneDay.mmpz,file
+ZynAddSubFX,dir
+ZynAddSubFx.cpp,file
+ZynAddSubFx.h,file
+ZynSema.h,file
+a1_active.png,file
+a1_inactive.png,file
+a2_active.png,file
+a2_inactive.png,file
+a_blast.ds,file
+a_day_in_the_noise.ds,file
+a_round_thing.ds,file
+aam_active.png,file
+aam_inactive.png,file
+about_dialog.ui,file
+acoustic,dir
+across_the_universe.ds,file
+ad-global.png,file
+ad-note.tex,file
+ad-voice.png,file
+add.c,file
+add.png,file
+add1_active.png,file
+add1_inactive.png,file
+add_automation.png,file
+add_bb_track.png,file
+add_sample_track.png,file
+adding_plugins.html,file
+additive.wav,file
+additive2.wav,file
+adsynth.txt,file
+aeffectx.h,file
+airbrush_bd.ds,file
+alarm_3.ds,file
+alarming_buzz.ds,file
+alarming_buzz_2.ds,file
+algrd_internal.h,file
+algsmfrd_internal.h,file
+alias_1407.c,file
+alien_curiousity.ds,file
+alien_strings.xpf,file
+all.h,file
+allegro.cpp,file
+allegro.h,file
+allegrord.cpp,file
+allegroserial.cpp,file
+allegrosmfrd.cpp,file
+allegrosmfwr.cpp,file
+allegrowr.cpp,file
+allpass.cpp,file
+allpass.h,file
+allpass_1895.c,file
+am.cpp,file
+am_active.png,file
+am_inactive.png,file
+am_pitchshift_1433.c,file
+ambient_backgroud.ds,file
+ambient_noise_snare.ds,file
+ambient_tom.ds,file
+ambisonic.cpp,file
+amen_bd.ds,file
+amen_ride.ds,file
+amen_sn_1.ds,file
+amix_active.png,file
+amix_inactive.png,file
+amp.cpp,file
+amp_1181.c,file
+analogsqr.flac,file
+analogue.cpp,file
+analysis.png,file
+and_loud_sn.ds,file
+another_909_moment.ds,file
+another_example_snare.ds,file
+apm_active.png,file
+apm_inactive.png,file
+applause01.ogg,file
+application-x-lmms-project.svg,file
+application_bass_drum.ds,file
+applied_engineering.ds,file
+apply-selected.png,file
+apply.png,file
+arm_active.png,file
+arm_inactive.png,file
+arp_down.png,file
+arp_free.png,file
+arp_random.png,file
+arp_sort.png,file
+arp_sync.png,file
+arp_up.png,file
+arp_up_and_down.png,file
+artwork-patchbay.png,file
+artwork-rack.png,file
+artwork.png,file
+artwork_mat.png,file
+artwork_op.png,file
+atmosphere_of_space.ds,file
+attr.c,file
+attr.h,file
+audio,dir
+audio_file_processor,dir
+audio_file_processor.cpp,file
+audio_file_processor.h,file
+audio_fx.cpp,file
+audio_fx.h,file
+automation.png,file
+automation_track.png,file
+autoscroll_off.png,file
+autoscroll_on.png,file
+average_rock.ds,file
+avg_active.png,file
+avg_inactive.png,file
+b1_0.ds,file
+b1_2.ds,file
+b1_5.ds,file
+b1_9.ds,file
+b1_active.png,file
+b1_inactive.png,file
+b2_active.png,file
+b2_inactive.png,file
+back_to_start.png,file
+back_to_zero.png,file
+background.png,file
+background_artwork.png,file
+backgrounds,dir
+bam_active.png,file
+bam_inactive.png,file
+band_pass_cymbal.ds,file
+bandpass_a_iir_1893.c,file
+bandpass_iir_1892.c,file
+base64.cpp,file
+base64.h,file
+basename.c,file
+basic_808_click_hum.ds,file
+basic_hh.ds,file
+basics.h,file
+bass!.ogg,file
+bass01.ogg,file
+bass_acid01.ogg,file
+bass_acid02.ogg,file
+bass_hard01.ogg,file
+bass_hard02.ogg,file
+bass_punch01.ogg,file
+bassdrum01.ogg,file
+bassdrum02.ogg,file
+bassdrum03.ogg,file
+bassdrum04.ogg,file
+bassdrum_acoustic01.ogg,file
+bassdrum_acoustic02.ogg,file
+basses,dir
+bassloopes,dir
+bassslap01.ogg,file
+bassslap02.ogg,file
+battle_hook_sn.ds,file
+bauble_bd.ds,file
+bb_track.png,file
+bb_track_btn.png,file
+beat_box_bd.ds,file
+beats,dir
+beefy_wack.ds,file
+beehive.xpf,file
+bell.ds,file
+bell.xpf,file
+bell_choir01.ogg,file
+bell_choir02.ogg,file
+bell_rim.ds,file
+big_80's.ds,file
+big_80's_2.ds,file
+big_beat_clap.ds,file
+big_sleeper_snare.ds,file
+bin2res.cpp,file
+biquad.h,file
+bit_invader,dir
+bit_invader.cpp,file
+bit_invader.h,file
+black_key.png,file
+black_key_pressed.png,file
+blargg_common.h,file
+blargg_source.h,file
+blended_snare.ds,file
+blip_active.png,file
+blip_inactive.png,file
+blo.c,file
+blo.h,file
+bmix_active.png,file
+bmix_inactive.png,file
+bode_shifter_1431.c,file
+bode_shifter_cv_1432.c,file
+bongo_l.ds,file
+boost,dir
+bottle_bill_fx.ds,file
+bouncy809bd.ds,file
+bp.png,file
+bpm_active.png,file
+bpm_inactive.png,file
+bpred.png,file
+break01.ogg,file
+break02.ogg,file
+break03.ogg,file
+break_kick.ds,file
+breath01.ogg,file
+breathing_snare.ds,file
+briff01.ogg,file
+bright_808_hat.ds,file
+bright_808_hat_2.ds,file
+bright_808_hat_3.ds,file
+bright_clap.ds,file
+bright_house_sn.ds,file
+bring_me_out.ds,file
+brm_active.png,file
+brm_inactive.png,file
+btn_15.png,file
+btn_7.png,file
+btn_down.png,file
+btn_off.png,file
+btn_on.png,file
+btn_up.png,file
+buff_hit.ds,file
+buff_sound.ds,file
+buffer.h,file
+bug_into_water.ds,file
+bugs.html,file
+bugs.txt,file
+build.txt,file
+build_mingw32,file
+build_mingw64,file
+buildtools,dir
+bulge_n_yr_woofer.ds,file
+bumble_bass.ds,file
+bumpin_quickie.ds,file
+bunglist.wav,file
+bunglist2.wav,file
+bunglist3.wav,file
+bunglist4.wav,file
+bunglist5.wav,file
+bunglist6.wav,file
+bunglist7.wav,file
+bunglist8.wav,file
+bunglist9.wav,file
+butterworth_1902.c,file
+button_-1_off.png,file
+button_-1_on.png,file
+button_-2_off.png,file
+button_-2_on.png,file
+button_1_off.png,file
+button_1_on.png,file
+button_2_off.png,file
+button_2_on.png,file
+button_3_off.png,file
+button_3_on.png,file
+button_4_off.png,file
+button_4_on.png,file
+button_5_off.png,file
+button_5_on.png,file
+button_6_off.png,file
+button_6_on.png,file
+button_7_off.png,file
+button_7_on.png,file
+button_8_off.png,file
+button_8_on.png,file
+button_9_off.png,file
+button_9_on.png,file
+button_down.png,file
+button_f_off.png,file
+button_f_on.png,file
+button_up.png,file
+buzz!.ogg,file
+c_maj_chord.ds,file
+ca.qm,file
+ca.ts,file
+calamity_snare.ds,file
+calf,dir
+cancel.png,file
+canyondelay.cpp,file
+caps,dir
+caps.html,file
+caps.rdf,file
+carla.cpp,file
+carla.h,file
+carlabase,dir
+carlapatchbay,dir
+carlapatchbay.cpp,file
+carlarack,dir
+carlarack.cpp,file
+casio_piano_c.ds,file
+casio_poppin.ds,file
+category.ds,file
+cello.xpf,file
+cello01.ogg,file
+change_the_channel_snare.ds,file
+changes.html,file
+cheap_fx.ds,file
+chebstortion_1430.c,file
+chord.png,file
+chorded_perc.ds,file
+chorus.tex,file
+chorus01.ogg,file
+chorus02.ogg,file
+chorus_off.png,file
+chorus_on.png,file
+chow_bd.ds,file
+chrip_q.ds,file
+chroma_sound_effect01.ogg,file
+church_organ01.ogg,file
+church_organ02.ogg,file
+church_organ03.ogg,file
+church_organ04.ogg,file
+clap.ds,file
+clap01.ogg,file
+clap02.ogg,file
+clap03.ogg,file
+clap04.ogg,file
+clap2.ds,file
+clap_layer.ds,file
+clapfilt.ds,file
+clappy_snare.ds,file
+classic_clap.ds,file
+clav.ds,file
+clav01.ogg,file
+clav02.ogg,file
+clav_2.ds,file
+clean_low_key_kick.ds,file
+clean_rock_bd.ds,file
+clean_soft_808.ds,file
+clearly_snare.ds,file
+click.ds,file
+click.h,file
+clicky_hat.ds,file
+clock.png,file
+close_mic_sn.ds,file
+close_ride.ds,file
+cmake,dir
+cmt,dir
+cmt.cpp,file
+cmt.h,file
+code.c,file
+cold_shot.ds,file
+colorize.png,file
+comb.cpp,file
+comb.h,file
+comb_1190.c,file
+comb_1887.c,file
+comb_splitter_1411.c,file
+combobox_arrow.png,file
+combobox_arrow_selected.png,file
+combobox_bg.png,file
+common.H,file
+communication.h,file
+compression_does_it_808.ds,file
+computer.png,file
+config-alsa.h.cmake,file
+config.h,file
+config.hpp,file
+configure,file
+configure.py,file
+confusion.ds,file
+const_1909.c,file
+consumer_fm.ds,file
+controller.png,file
+controller.txt,file
+controller_bg.png,file
+convert.c,file
+convert.h,file
+coo.ds,file
+core,dir
+cpuload_bg.png,file
+cpuload_leds.png,file
+cr78,dir
+cr8000,dir
+crash01.ogg,file
+crash02.ogg,file
+create_apple_bundle.sh.in,file
+create_apple_dmg.sh.in,file
+crossover_dist_1404.c,file
+crusty_bump.ds,file
+crusty_snare.ds,file
+cs.qm,file
+cs.ts,file
+cstdint.hpp,file
+curb_meat_bass.ds,file
+custom_events.h,file
+cymbal.ds,file
+cymbal_madness.ds,file
+dark_and_sweet_fm.ds,file
+data,dir
+db.c,file
+db.h,file
+dc_remove_1207.c,file
+de.qm,file
+de.ts,file
+debug.h,file
+decay_1886.c,file
+decimator_1202.c,file
+declip_1195.c,file
+decode.c,file
+decompression_snare.ds,file
+deep_bauble_bd.ds,file
+deep_cowbell.ds,file
+deep_tones.ds,file
+default,dir
+default_hi-hat.ds,file
+defs.h,file
+delay,dir
+delay.cpp,file
+delay.h,file
+delay_1898.c,file
+delaycontrols.cpp,file
+delaycontrols.h,file
+delaycontrolsdialog.cpp,file
+delaycontrolsdialog.h,file
+delayeffect.cpp,file
+delayeffect.h,file
+delayorama_1402.c,file
+denormals.h,file
+depth_bass_drum.ds,file
+depth_fx.ds,file
+descriptions.txt,file
+descriptor.cpp,file
+detonate.ds,file
+dialed.ds,file
+dialing.ds,file
+dialogs,dir
+difference_snare.ds,file
+different_909_snare.ds,file
+diode_1185.c,file
+dirty_a.ds,file
+dirty_transform.ds,file
+dirty_transform_2.ds,file
+dirty_world_bd.ds,file
+disintegrator.cpp,file
+dist_high_c.ds,file
+dist_sub_kick.ds,file
+dist_sub_kick_2.ds,file
+dist_tom.ds,file
+dist_tom_2.ds,file
+distorion_oscilator.ds,file
+distort.tex,file
+divider_1186.c,file
+dj_eq_1901.c,file
+dj_flanger_1438.c,file
+dmg_branding.png,file
+doc,dir
+dong01.ogg,file
+dong02.ogg,file
+dong03.ogg,file
+dont_know.png,file
+doom_bump.ds,file
+door_knock.ds,file
+drama.xpf,file
+drama_hat.ds,file
+drama_hat_2.ds,file
+drum.png,file
+drums,dir
+drumsynth,dir
+dsp,dir
+dusty_simple_hh.ds,file
+dusty_simple_oh.ds,file
+dynamic.cpp,file
+dynamic.tex,file
+dynamics_processor,dir
+dynamics_processor.cpp,file
+dynamics_processor.h,file
+dynamics_processor_control_dialog.cpp,file
+dynamics_processor_control_dialog.h,file
+dynamics_processor_controls.cpp,file
+dynamics_processor_controls.h,file
+dyson_compress_1403.c,file
+e_organ01.ogg,file
+e_piano_accord01.ogg,file
+e_piano_accord02.ogg,file
+echo.tex,file
+edit_copy.png,file
+edit_cut.png,file
+edit_draw.png,file
+edit_erase.png,file
+edit_move.png,file
+edit_paste.png,file
+edit_redo.png,file
+edit_rename.png,file
+edit_select.png,file
+edit_undo.png,file
+editing_note_volumes.mmp,file
+eel_bass.ds,file
+effect_plugin.png,file
+effects,dir
+effects.txt,file
+electric_clav.ds,file
+electric_intro_to_a.ds,file
+electric_ping01.ogg,file
+electric_triangle.ds,file
+electric_waves_out_my_window.ds,file
+electro,dir
+electro_beat01.ogg,file
+electro_beat02.ogg,file
+electro_clap.ds,file
+electro_dnb_kick.ds,file
+electro_hh.ds,file
+electro_perc_long.ds,file
+electro_perc_short.ds,file
+electro_rim.ds,file
+electro_rim_2.ds,file
+electro_rim_3.ds,file
+electro_snare_layer.ds,file
+electro_squeek.ds,file
+electrometallic_hat.ds,file
+electronic_rim.ds,file
+elekperc1.ds,file
+elekperc2.ds,file
+elev0.h,file
+embed.cpp,file
+embed.h,file
+emptyproject.mmp,file
+en.qm,file
+en.ts,file
+end_of_broadcast_day.ds,file
+end_transmission.ds,file
+endian_handling.h,file
+eno's_lift.ds,file
+eno's_pad.ds,file
+eno's_ride.ds,file
+entre.ds,file
+envelope.cc,file
+envelope.h,file
+envelope.txt,file
+envelope1.png,file
+envelope2.png,file
+envelope3.png,file
+envelope4.png,file
+envelope_graph.png,file
+epiano.xpf,file
+errie_ride.ds,file
+error.c,file
+error.h,file
+error.png,file
+es.qm,file
+es.ts,file
+every_909.ds,file
+exit.png,file
+exp.png,file
+exp_shape_active.png,file
+exp_shape_inactive.png,file
+exp_wave_active.png,file
+exp_wave_inactive.png,file
+experiment_1.ds,file
+experiment_2_-_turn_off_the_tv.ds,file
+experiment_3_-_the_transform.ds,file
+experiment_4_-_clean.ds,file
+explode01.ogg,file
+explosion_active.png,file
+explosion_inactive.png,file
+export.h,file
+export_project.ui,file
+extfilt.cc,file
+extfilt.h,file
+f#m7_space_signal.ds,file
+fa.qm,file
+fa.ts,file
+factory_files.png,file
+fad_delay_1192.c,file
+fader_background.png,file
+fader_bg.png,file
+fader_empty.png,file
+fader_knob.png,file
+fader_knob2.png,file
+fader_leds.png,file
+farfisa,dir
+fast_lookahead_limiter_1913.c,file
+fatness.ds,file
+fattie_bd.ds,file
+fedora_hat.ds,file
+feed_this.ds,file
+feedback.ds,file
+feel_me!.ds,file
+feel_me_clinky.ds,file
+feelin'_high_hat_1.ds,file
+feelin'_high_hat_2.ds,file
+feelin'_high_hat_3.ds,file
+feelin'_open_high_hat.ds,file
+ferraro,dir
+few_people_will_use_this_snare.ds,file
+fft.h,file
+fft_helpers.cpp,file
+fft_helpers.h,file
+fidelity_faction_tom.ds,file
+fifo_buffer.h,file
+fig.sty,file
+fileselect_off.png,file
+fileselect_on.png,file
+filter.cc,file
+filter.cpp,file
+filter.h,file
+filter.png,file
+filter.txt,file
+filter0.png,file
+filter1.png,file
+filter2.png,file
+filter_2lp.png,file
+filter_ap.png,file
+filter_bp.png,file
+filter_clappy.ds,file
+filter_hp.png,file
+filter_idea_bd.ds,file
+filter_lp.png,file
+filter_notch.png,file
+filter_sweep01.ogg,file
+filterred.png,file
+fixed_point.h,file
+flanger_1191.c,file
+flashy_wind.ds,file
+flat_cymbal.ds,file
+flat_square_c.ds,file
+flat_tire.ds,file
+flipper.ds,file
+flp_import,dir
+flute.ds,file
+flute01.ogg,file
+fm.ds,file
+fm_active.png,file
+fm_c_bass_burst.ds,file
+fm_inactive.png,file
+fmopl.c,file
+fmopl.h,file
+fmsaw1.flac,file
+fmsine.flac,file
+fmsine2.flac,file
+folder.png,file
+folder_locked.png,file
+folder_opened.png,file
+foldover_1213.c,file
+formant_techno.ds,file
+foverdrive_1196.c,file
+fr.qm,file
+fr.ts,file
+freeverb,dir
+freeverb.cpp,file
+freeze.png,file
+freq_tracker_1418.c,file
+frequency_revolution.ds,file
+fried_food.ds,file
+fried_food_for_dinner.ds,file
+frozen.png,file
+funk_box_perc_1.ds,file
+funk_box_perc_2.ds,file
+funkay_timbale.ds,file
+funky_stab.ds,file
+funky_trashcan_snare.ds,file
+fur_strings.ds,file
+fur_strings_2.ds,file
+future.ds,file
+fuzzy_q_bd.ds,file
+fuzzy_sn.ds,file
+fx_mixer.png,file
+g_question.ds,file
+gabbakick.ds,file
+gate_1410.c,file
+gb_apu,dir
+gen,dir
+general_obscurity.ds,file
+gerbil_snare.ds,file
+get_out.ds,file
+getting.txt,file
+giant_flange_1437.c,file
+giface.cpp,file
+giface.h,file
+gimme_a_hard_tone.ds,file
+gimmie_a_tone.ds,file
+give_it_to_me.ds,file
+gl.qm,file
+gl.ts,file
+globals.h,file
+gmaj_lo-fi_chord.ds,file
+gmaj_lo-fi_chord_2.ds,file
+gong_1424.c,file
+gong_beater_1439.c,file
+grain.cpp,file
+graph_bg.png,file
+grumpy_buzzard.ds,file
+gsm,dir
+gsm.h,file
+gsm_1215.c,file
+gsm_create.c,file
+gsm_decode.c,file
+gsm_destroy.c,file
+gsm_encode.c,file
+gsm_option.c,file
+gui,dir
+gui_templates.h,file
+guiro.ds,file
+guitar-adnote.xmz,file
+gverb,dir
+gverb.c,file
+gverb.h,file
+gverb_1216.c,file
+gverbdsp.c,file
+gverbdsp.h,file
+halfsine.flac,file
+halt_variety.ds,file
+hammer2.ds,file
+hammond_cowbell.ds,file
+hand.png,file
+hard_bork.ds,file
+hard_electro_brush_sn.ds,file
+hard_electronic_snare.ds,file
+hard_hittin.ds,file
+hard_limiter_1413.c,file
+hardcore_a_bd.ds,file
+hardcore_bd.ds,file
+hardersnare.ds,file
+hardgate.cpp,file
+hardhat.ds,file
+hardhat_2.ds,file
+hardly_hh.ds,file
+harmonic_gen_1220.c,file
+harmonics.wav,file
+harpsichord01.ogg,file
+hash.c,file
+hash.h,file
+hat.ds,file
+hat_rattle.ds,file
+heady_mix_sn.ds,file
+heaven_strings01.ogg,file
+heavy.ds,file
+heavy_electrihat.ds,file
+hed_chunk_snare.ds,file
+hello_q.ds,file
+help.png,file
+hermes_filter_1200.c,file
+hh.ds,file
+hi-pass.ds,file
+hi_pic.ds,file
+highpass_iir_1890.c,file
+hihat_closed01.ogg,file
+hihat_closed02.ogg,file
+hihat_closed03.ogg,file
+hihat_closed04.ogg,file
+hihat_closed05.ogg,file
+hihat_foot_pedal01.ogg,file
+hihat_opened01.ogg,file
+hihat_opened02.ogg,file
+hihat_opened03.ogg,file
+hihatopclo.ds,file
+hilbert_1440.c,file
+hint.png,file
+hip-hop_fantasy_kick.ds,file
+hip-hop_stop.ds,file
+hip-hop_stop_2.ds,file
+hip_overtone_hat.ds,file
+hipster_joint_bd.ds,file
+hit01.ogg,file
+hit02.ogg,file
+hit_active.png,file
+hit_inactive.png,file
+hit_me_wooden_snare.ds,file
+hitthosesubs.ds,file
+hollow.ds,file
+hollow_wood.ds,file
+hollow_wood_2.ds,file
+home.png,file
+horror_bass01.ogg,file
+hot_morning_bass_drum.ds,file
+hot_snare.ds,file
+house_loop01.ogg,file
+howdy_oil_barrel.ds,file
+hp.png,file
+hpred.png,file
+hq_mode.png,file
+html.c,file
+html.h,file
+i_luv_u_fat_noise.ds,file
+icon.png,file
+iir.c,file
+iir.h,file
+images,dir
+imp_1199.c,file
+impulse.flac,file
+impulse_1885.c,file
+impulses,dir
+impulses.ds,file
+include,dir
+index.html,file
+inertia.h,file
+init.cpp,file
+installation.html,file
+instrument,dir
+instrument_track.png,file
+instruments,dir
+interface.cc,file
+interpolation.h,file
+intro.txt,file
+inv_1429.c,file
+inv_active.png,file
+inv_inactive.png,file
+invaders_must_die.xpf,file
+invisible_909_kick.ds,file
+it's_like_that_snare.ds,file
+it's_the_music_tom_c.ds,file
+it's_the_simple_things.ds,file
+it.qm,file
+it.ts,file
+ja.qm,file
+ja.ts,file
+jaggies.ds,file
+jaguar_hats.ds,file
+jarre_bass_drum.ds,file
+jorgensohn,dir
+jump_active.png,file
+jump_inactive.png,file
+jungle01.ogg,file
+jungle_laser.ds,file
+juno_pad01.ogg,file
+just_the_bass_drum.ds,file
+just_the_tweet.ds,file
+k_hard.ds,file
+k_muffle.ds,file
+k_soft.ds,file
+karaoke_1409.c,file
+keep_stop_position.png,file
+kick.ds,file
+kick01.ogg,file
+kick02.ogg,file
+kick03.ogg,file
+kick04.ogg,file
+kick_distorted01.ogg,file
+kick_hard01.ogg,file
+kick_hardcore01.ogg,file
+kick_hiphop01.ogg,file
+kick_long01.ogg,file
+kick_soft01.ogg,file
+kick_soft02.ogg,file
+kicker,dir
+kicker.cpp,file
+kicker.h,file
+kneel_and_buzz.ds,file
+knob.png,file
+knob01.png,file
+knob02.png,file
+knob03.png,file
+knob04.png,file
+knob05.png,file
+ko.qm,file
+ko.ts,file
+korg_poly6_drone01.ogg,file
+ks_tab.h,file
+ladspa-util.c,file
+ladspa-util.h,file
+ladspa.h,file
+ladspa_browser,dir
+ladspa_browser.cpp,file
+ladspa_browser.h,file
+ladspa_description.cpp,file
+ladspa_description.h,file
+ladspa_port_dialog.cpp,file
+ladspa_port_dialog.h,file
+ladspa_types.h,file
+ladspa_wrap.h,file
+large_hall_bd.ds,file
+large_open_hh.ds,file
+laser_active.png,file
+laser_gun_&_ricochet.ds,file
+laser_inactive.png,file
+latency_1914.c,file
+latin,dir
+latin_brass01.ogg,file
+latin_guitar01.ogg,file
+latin_guitar02.ogg,file
+latin_guitar03.ogg,file
+laughter_and_jellybeans_snare.ds,file
+layered_bass_synth_c.ds,file
+layered_sleigh_bell.ds,file
+lb302,dir
+lb302.cpp,file
+lb302.h,file
+lb303,dir
+lb303.cpp,file
+lb303.h,file
+lcd_19green.png,file
+lcd_19red.png,file
+lcd_21pink.png,file
+lcr_delay_1436.c,file
+lead-combi.xmz,file
+led_green.png,file
+led_off.png,file
+led_red.png,file
+led_yellow.png,file
+lfo.cpp,file
+lfo.h,file
+lfo.txt,file
+lfo0.png,file
+lfo1.png,file
+lfo2.png,file
+lfo_controller_artwork.png,file
+lfo_d100_active.png,file
+lfo_d100_inactive.png,file
+lfo_graph.png,file
+lfo_trancegate_quarter.flac,file
+lfo_trancegate_sawdecay_quarter.flac,file
+lfo_trancegate_sinedecay_quarter.flac,file
+lfo_trancegate_triplet_half.flac,file
+lfo_trancegate_triplet_half_2.flac,file
+lfo_trancegate_triplet_quarter.flac,file
+lfo_trancegate_whole.flac,file
+lfo_trancegate_whole_2.flac,file
+lfo_x100_active.png,file
+lfo_x100_inactive.png,file
+lfo_x1_active.png,file
+lfo_x1_inactive.png,file
+license.html,file
+license.txt,file
+light_snare.ds,file
+light_tamb_1.ds,file
+light_tamb_2.ds,file
+light_tamb_3.ds,file
+lighthat.ds,file
+like_a_tabla_1.ds,file
+like_a_tabla_2.ds,file
+like_a_tabla_3.ds,file
+limited_shaker.ds,file
+linn,dir
+linn_cab.ds,file
+linn_cga1.ds,file
+linn_cga2.ds,file
+linn_cga3.ds,file
+linn_cgam.ds,file
+linn_clp.ds,file
+linn_cow.ds,file
+linn_kik.ds,file
+linn_snr.ds,file
+linn_stk.ds,file
+linn_tamb.ds,file
+linn_tom1.ds,file
+linn_tom2.ds,file
+linn_tom3.ds,file
+linn_tom4.ds,file
+linn_tom5.ds,file
+little_hat.ds,file
+live_hat.ds,file
+live_sound_hh.ds,file
+live_sound_oh.ds,file
+lmms,file
+lmms.1,file
+lmms.desktop,file
+lmms.icns,file
+lmms.ico,file
+lmms.plist.in,file
+lmms.png,file
+lmms.rc.in,file
+lmms.spec.in,file
+lmms.xml,file
+lmms_basics.h,file
+lmms_constants.h,file
+lmms_math.h,file
+lmms_tile.png,file
+lmmsconfig.h.in,file
+lmmsversion.h.in,file
+lo-fi_bass_drum.ds,file
+lo-fi_house_c.ds,file
+lo-fi_march.ds,file
+lo-fi_metal.ds,file
+lo-fi_rim.ds,file
+lo-fi_tamb.ds,file
+lo-finess.ds,file
+load_active.png,file
+load_inactive.png,file
+loaded_hat.ds,file
+loaded_open_hat.ds,file
+local_file_mgr.cpp,file
+locale,dir
+lofi.cpp,file
+log_x_axis.png,file
+log_y_axis.png,file
+logistic.cpp,file
+logo.png,file
+long_q_1.ds,file
+long_q_2.ds,file
+long_q_3.ds,file
+long_quack.ds,file
+long_term.c,file
+loop.ds,file
+loop_off.png,file
+loop_off_off.png,file
+loop_off_on.png,file
+loop_on.png,file
+loop_on_off.png,file
+loop_on_on.png,file
+loop_pingpong_off.png,file
+loop_pingpong_on.png,file
+loop_point_b.png,file
+loop_point_e.png,file
+loop_points_off.png,file
+loop_points_on.png,file
+loudness.h,file
+loudness_sn.ds,file
+lovely_clean_bd.ds,file
+low_bit_tom.ds,file
+low_end_hum.ds,file
+low_key_tom.ds,file
+low_ping.ds,file
+low_sine.wav,file
+lower_electro_bd.ds,file
+lowpass_iir_1891.c,file
+lp.png,file
+lpc.c,file
+lpred.png,file
+ls_filter.h,file
+ls_filter_1908.c,file
+lv2_external_ui.h,file
+lv2helpers.h,file
+lv2wrap.h,file
+machine_drone.ds,file
+mack_bd.ds,file
+magnetboy,dir
+main.C,file
+main.cpp,file
+main.h,file
+main_slider.png,file
+main_toolbar_bg.png,file
+mallets,dir
+mallets.cpp,file
+mallets.h,file
+manipulate_bd.ds,file
+many_frequencies.ds,file
+master_pitch.png,file
+master_volume.png,file
+matrix1000_pluck01.ogg,file
+matrix_ms_st_1421.c,file
+matrix_spatialiser_1422.c,file
+matrix_st_ms_1420.c,file
+matview_active.png,file
+matview_inactive.png,file
+max_active.png,file
+max_inactive.png,file
+mbeq_1197.c,file
+mello_bd.ds,file
+mellow_shake.ds,file
+melodictone.ds,file
+metadata.cpp,file
+metadata.h,file
+metal_bass.ds,file
+metal_noise_shot.ds,file
+metal_twist.ds,file
+metalish_dong01.ogg,file
+metallic_node.ds,file
+metronome01.ogg,file
+metronome02.ogg,file
+mfmidi.cpp,file
+mfmidi.h,file
+micro.wav,file
+midi,dir
+midi_file.png,file
+mididata.h,file
+mididefaults.txt,file
+mild_tamb.ds,file
+mind_ya_heds.ds,file
+misc,dir
+misc_bass,dir
+misc_claps,dir
+misc_electro,dir
+misc_fx,dir
+misc_hats,dir
+misc_perc,dir
+misc_synth,dir
+missing_snare.ds,file
+missing_snare_2.ds,file
+mix_active.png,file
+mix_inactive.png,file
+mixer.cpp,file
+mixer_send_off.png,file
+mixer_send_on.png,file
+mod_delay_1419.c,file
+modmatrix.cpp,file
+modmatrix.h,file
+modsqr.flac,file
+modular.ds,file
+modular_fm_counterpoint.ds,file
+module_backdrop.png,file
+modulelist.h,file
+modules,dir
+modules.cpp,file
+modules.h,file
+modules_comp.cpp,file
+modules_comp.h,file
+modules_dev.h,file
+modules_dist.cpp,file
+modules_dist.h,file
+modules_eq.cpp,file
+modules_eq.h,file
+modules_limit.cpp,file
+modules_limit.h,file
+modules_mod.cpp,file
+modules_mod.h,file
+modules_synths.h,file
+money.h,file
+monosynth.cpp,file
+monstro,dir
+moog.bin,file
+moog.png,file
+moog.wav,file
+moog_saw_shape_active.png,file
+moog_saw_shape_inactive.png,file
+moog_saw_wave_active.png,file
+moog_saw_wave_inactive.png,file
+more_basic_bd.ds,file
+more_bass.ds,file
+more_bass_2.ds,file
+more_snap.ds,file
+multi-ping.ds,file
+multichorus.h,file
+multivoice_chorus_1201.c,file
+mutate_active.png,file
+mutate_inactive.png,file
+mute_bass.ds,file
+muted.png,file
+muted_snare.ds,file
+my_atari_memory.ds,file
+my_red_hot_guitar.ds,file
+n_hi.ds,file
+n_mid.ds,file
+nasty_bass01.ogg,file
+nasty_rim01.ogg,file
+nasty_snare01.ogg,file
+neo808.ds,file
+neo808_2.ds,file
+nes,dir
+nesdc1_on.png,file
+nesdc2_on.png,file
+nesdc3_on.png,file
+nesdc4_on.png,file
+nesdc_off.png,file
+nesled_off.png,file
+nesled_on.png,file
+new_channel.png,file
+new_sweep.ds,file
+newbg.png,file
+nine_button_selector.cpp,file
+nine_button_selector.h,file
+nl.qm,file
+nl.ts,file
+noise.cpp,file
+noise.ds,file
+noise.png,file
+noise_calling_kick.ds,file
+noise_clip.ds,file
+noise_filtering.ds,file
+noisered.png,file
+nord_ambient01.ogg,file
+norm_active.png,file
+norm_inactive.png,file
+normalize_active.png,file
+normalize_inactive.png,file
+nosie_calling_kick_2.ds,file
+not_trying_too_hard.ds,file
+notch_iir_1894.c,file
+note.png,file
+note_double_whole.png,file
+note_eighth.png,file
+note_half.png,file
+note_none.png,file
+note_quarter.png,file
+note_sixteenth.png,file
+note_thirtysecond.png,file
+note_tripleteighth.png,file
+note_triplethalf.png,file
+note_tripletquarter.png,file
+note_tripletsixteenth.png,file
+note_tripletthirtysecond.png,file
+note_whole.png,file
+nrpn.txt,file
+nsis,dir
+nsis_branding.bmp,file
+null.cpp,file
+numb.ds,file
+obligatory_ufo_liftoff.ds,file
+obligatory_ufo_liftoff_2.ds,file
+odd_snare.ds,file
+oh_so_high_hat.ds,file
+oil_hat.ds,file
+ol'_skool_shake.ds,file
+old_kik.ds,file
+olivers-100,dir
+one_clap.ds,file
+onepole.h,file
+oom_paa.ds,file
+oom_pulse.ds,file
+open_reso.ds,file
+opl.h,file
+opl2,dir
+opl2_led_off.png,file
+opl2_led_on.png,file
+opl2instrument.cpp,file
+opl2instrument.h,file
+opview_active.png,file
+opview_inactive.png,file
+organ-combi.xmz,file
+organ.cpp,file
+organ.h,file
+organ_blues.xpf,file
+organ_risingsun.xpf,file
+organ_swish.xpf,file
+organic,dir
+organic.cpp,file
+organic.h,file
+original_tone_snare.ds,file
+orion.xpf,file
+orion_string01.ogg,file
+osc.h,file
+osctl.h,file
+ot_12.ds,file
+ot_34.ds,file
+ot_sine.ds,file
+output.c,file
+output.h,file
+output_graph.png,file
+overdriver_kick.ds,file
+overview.html,file
+owwww.ds,file
+pad_ethereal.xpf,file
+pad_rich.xpf,file
+pad_sweep.xpf,file
+paging_the_jetsons.ds,file
+pan.ds,file
+panning.h,file
+panning_constants.h,file
+papu,dir
+papu_instrument.cpp,file
+papu_instrument.h,file
+parse.c,file
+parse.h,file
+pat_rec.png,file
+patches_dialog.cpp,file
+patches_dialog.h,file
+patches_dialog.ui,file
+patches_off.png,file
+patches_on.png,file
+patman,dir
+patman.cpp,file
+patman.h,file
+pause.png,file
+peak.cpp,file
+peak_controller_effect,dir
+peak_controller_effect.cpp,file
+peak_controller_effect.h,file
+peak_controller_effect_control_dialog.cpp,file
+peak_controller_effect_control_dialog.h,file
+peak_controller_effect_controls.cpp,file
+peak_controller_effect_controls.h,file
+pedal_hh.ds,file
+phasemod.cpp,file
+phaser-spectrogram.jpg,file
+phasers_1217.c,file
+phl_active.png,file
+phl_inactive.png,file
+phr_active.png,file
+phr_inactive.png,file
+piano.png,file
+piano01.ogg,file
+piano02.ogg,file
+pickup_active.png,file
+pickup_inactive.png,file
+pink.cpp,file
+pink_full.cpp,file
+pink_sh.cpp,file
+pinknoise.h,file
+pitch_clap.ds,file
+pitch_clap_2.ds,file
+pitch_scale_1193.c,file
+pitch_scale_1194.c,file
+pitchscale.c,file
+pitchscale.h,file
+pixmaps,dir
+pizzi.ds,file
+pl.qm,file
+pl.ts,file
+plate_1423.c,file
+play.png,file
+playing_in_water.ds,file
+playpos_marker.png,file
+pleasant_combo.ds,file
+pleasure_factory_kick.ds,file
+plot_thickens_2.ds,file
+pluck.xpf,file
+plugin.cpp,file
+plugin_tools.h,file
+plugins,dir
+plugins.html,file
+plugins.png,file
+pm_active.png,file
+pm_inactive.png,file
+pointer_cast_1910.c,file
+pop_1_off_snare.ds,file
+popclap.ds,file
+poppy.ds,file
+popsnare.ds,file
+ports.png,file
+portsmf,dir
+pot.cc,file
+pot.h,file
+power_out.ds,file
+powerup_active.png,file
+powerup_inactive.png,file
+pr_black_key.png,file
+pr_black_key_pressed.png,file
+pr_white_key_big.png,file
+pr_white_key_big_pressed.png,file
+pr_white_key_small.png,file
+pr_white_key_small_pressed.png,file
+preprocess.c,file
+preset.h,file
+preset_file.png,file
+presets,dir
+primitives.h,file
+private.h,file
+progression_cubic_hermite.png,file
+progression_discrete.png,file
+progression_linear.png,file
+progressive-house-pluck.xiz,file
+project.icns,file
+project_export.png,file
+project_file.png,file
+project_import.png,file
+project_new.png,file
+project_new_from_template.png,file
+project_notes.png,file
+project_open.png,file
+project_open_down.png,file
+project_open_recent.png,file
+project_save.png,file
+project_saveas.png,file
+projects,dir
+proto.h,file
+psychoacoutic_bd.ds,file
+pt.qm,file
+pt.ts,file
+pulse.png,file
+pulsered.png,file
+punch_flange.ds,file
+punch_flange_2.ds,file
+punchy_clean_kick.ds,file
+puppy_kick.ds,file
+puresine.xpf,file
+q'ey_bass_drum.ds,file
+q-ziq_for_the_masses.ds,file
+q_kick_2.ds,file
+q_ride.ds,file
+q_ride_2.ds,file
+q_tom.ds,file
+q_zone_drone.ds,file
+quantize.png,file
+questoin_kick.ds,file
+r+b_fantasy_kick.ds,file
+r12ax7.h,file
+r_n_b,dir
+radio_hats.ds,file
+ramacymlong.ds,file
+ramacymshort.ds,file
+ramp.png,file
+rand.png,file
+random_wave_active.png,file
+random_wave_inactive.png,file
+randomise.png,file
+randomise_pressed.png,file
+randomize_active.png,file
+randomize_inactive.png,file
+rate_shifter_1417.c,file
+rave_bass01.ogg,file
+rave_bass02.ogg,file
+rave_bass03.ogg,file
+rave_bass04.ogg,file
+rave_choir01.ogg,file
+rave_hihat01.ogg,file
+rave_hihat02.ogg,file
+rave_kick01.ogg,file
+rave_kick02.ogg,file
+rave_snare01.ogg,file
+raver_organ.ds,file
+raving_crowd01.ogg,file
+readme.txt,file
+receive_bg_arrow.png,file
+record.png,file
+record_accompany.png,file
+recption.ds,file
+reload.png,file
+reset_active.png,file
+reset_inactive.png,file
+resonant_knock.ds,file
+retro_flange_1208.c,file
+revdelay_1605.c,file
+reverb.tex,file
+reverb_off.png,file
+reverb_on.png,file
+reverb_please_snare.ds,file
+reverse_off.png,file
+reverse_on.png,file
+revmodel.cpp,file
+revmodel.h,file
+rich_bd.ds,file
+ride01.ogg,file
+ride02.ogg,file
+ride6.ds,file
+rim01.ogg,file
+rimmy_noise.ds,file
+rimshot_1.ds,file
+rimshot_2.ds,file
+ring.ds,file
+ring.png,file
+ring_fray_kick.ds,file
+ring_mod_drone_bd.ds,file
+ringing_sn.ds,file
+ringmod_1188.c,file
+ringmod_rim.ds,file
+ringmod_rim_2.ds,file
+ringred.png,file
+rm.ds,file
+rms.c,file
+rms.h,file
+rockin_electro_bass_drum.ds,file
+round_square_wave_active.png,file
+round_square_wave_inactive.png,file
+roundbass.wav,file
+roundsaw.ogg,file
+rpe.c,file
+ru.qm,file
+ru.ts,file
+rubber.ds,file
+rubber_'82.ds,file
+rubbery_deep_house_kick.ds,file
+run_adding.h,file
+s_eq.ds,file
+s_pitch.ds,file
+s_spit.ds,file
+sample_file.png,file
+sample_track.png,file
+samples,dir
+sandy_ride.ds,file
+satan_maximiser_1408.c,file
+saving.txt,file
+saw+sine.wav,file
+saw.bin,file
+saw.png,file
+saw1.flac,file
+saw2.flac,file
+saw_active.png,file
+saw_inactive.png,file
+saw_shape_active.png,file
+saw_shape_inactive.png,file
+saw_wave_active.png,file
+saw_wave_inactive.png,file
+sawred.png,file
+sbarrow_down.png,file
+sbarrow_down_d.png,file
+sbarrow_left.png,file
+sbarrow_left_d.png,file
+sbarrow_right.png,file
+sbarrow_right_d.png,file
+sbarrow_up.png,file
+sbarrow_up_d.png,file
+sc1_1425.c,file
+sc2_1426.c,file
+sc3_1427.c,file
+sc4_1882.c,file
+sc4m_1916.c,file
+scale.png,file
+sci-fi.ds,file
+sci-fi_door_open.ds,file
+scratch01.ogg,file
+scratchy_hh.ds,file
+scripts,dir
+se4_1883.c,file
+select_file.png,file
+select_file_active.png,file
+select_file_on.png,file
+send_bg_arrow.png,file
+sequencer_64.xpf,file
+serious_bd.ds,file
+setup_audio.png,file
+setup_directories.png,file
+setup_general.png,file
+setup_midi.png,file
+setup_performance.png,file
+sf2_player,dir
+sf2_player.cpp,file
+sf2_player.h,file
+sfxr,dir
+sfxr.cpp,file
+sfxr.h,file
+sfxr_saw_wave_active.png,file
+sfxr_saw_wave_inactive.png,file
+sfxr_sin_wave_active.png,file
+sfxr_sin_wave_inactive.png,file
+sfxr_square_wave_active.png,file
+sfxr_square_wave_inactive.png,file
+sfxr_white_noise_wave_active.png,file
+sfxr_white_noise_wave_inactive.png,file
+shaaka.ds,file
+shaaka_2.ds,file
+shaker01.ogg,file
+shaker02.ogg,file
+shaker03.ogg,file
+shaker_ride.ds,file
+shaker_ride_long.ds,file
+shaper_1187.c,file
+shapes,dir
+shared_object.h,file
+shocking_kiss.ds,file
+short_909.ds,file
+short_term.c,file
+short_tom.ds,file
+short_tom_1.ds,file
+short_tom_2.ds,file
+shutter_clap.ds,file
+sickly_cowbell.ds,file
+sickly_wineglass.ds,file
+sid,dir
+sid.cc,file
+sid.h,file
+sid_instrument.cpp,file
+sid_instrument.h,file
+siddefs.h,file
+sidestick01.ogg,file
+sifter_1210.c,file
+sign_off.ds,file
+simon's_snare.ds,file
+simple-h.ds,file
+simple-k.ds,file
+simple_click_bd.ds,file
+simple_ride.ds,file
+sin.png,file
+sin_active.png,file
+sin_cos_1881.c,file
+sin_inactive.png,file
+sin_shape_active.png,file
+sin_shape_inactive.png,file
+sin_wave_active.png,file
+sin_wave_inactive.png,file
+sinabs.png,file
+sinc.h,file
+sine.cpp,file
+sine_dist.ogg,file
+sinesaw.flac,file
+single_para_1203.c,file
+sinus_wavewrapper_1198.c,file
+siren_sing.ds,file
+skiwlz_snare.ds,file
+sledgehammer.cpp,file
+sleepy_1.ds,file
+sleepy_2.ds,file
+sleepy_ride.ds,file
+sleepy_ride_2.ds,file
+slepper_n_the_wilderness.ds,file
+slick_hat.ds,file
+slick_hat_compressd_open.ds,file
+slick_hat_half_open.ds,file
+slick_hat_open.ds,file
+slide_hat.ds,file
+slide_tom.ds,file
+slinky_tamb.ds,file
+sloppy_electric.ds,file
+slow_moving_traffic.ds,file
+smooth_active.png,file
+smooth_bass.ds,file
+smooth_decimate_1414.c,file
+smooth_inactive.png,file
+smooth_inv_saw.ogg,file
+smooth_inv_saw2.ogg,file
+smooth_inv_saw_dist.ogg,file
+smooth_rim.ds,file
+snaph01.ogg,file
+snappy_809.ds,file
+snare&hat.ds,file
+snare01.ogg,file
+snare02.ogg,file
+snare03.ogg,file
+snare04.ogg,file
+snare05.ogg,file
+snare06.ogg,file
+snare07.ogg,file
+snare5.ds,file
+snare_acoustic01.ogg,file
+snare_electro01.ogg,file
+snare_harsh01.ogg,file
+snare_hiphop01.ogg,file
+snare_hiphop02.ogg,file
+snare_muffled01.ogg,file
+snare_muffled02.ogg,file
+snare_rim01.ogg,file
+snare_short01.ogg,file
+soft_pad.xpf,file
+soft_piano.ds,file
+softie_lo-fi_hat.ds,file
+softie_lo-fi_open_hat.ds,file
+softie_lo-fi_open_hat_2.ds,file
+softsnare.ds,file
+solid.ds,file
+songeditor.png,file
+soundfont_file.png,file
+sounding_kick.ds,file
+sounds_like_a_low_tom.ds,file
+space_dynamic.ds,file
+space_strings01.ogg,file
+space_strings02.ogg,file
+space_strings03.ogg,file
+spacefx.xpf,file
+spaceness.ds,file
+special_man_bass_drum.ds,file
+spectrum_background.png,file
+spectrum_background_plain.png,file
+splash.png,file
+splatter.ds,file
+spline.h,file
+split_1406.c,file
+sqr.bin,file
+sqr.png,file
+sqr_active.png,file
+sqr_inactive.png,file
+sqrsoft.png,file
+square_lead.ds,file
+square_shape_active.png,file
+square_shape_inactive.png,file
+square_wave_active.png,file
+square_wave_inactive.png,file
+squeeze_me_hat.ds,file
+squeeze_me_open_hat.ds,file
+src,dir
+stack_hhh.ds,file
+starry_hh.ds,file
+starry_short_oh.ds,file
+start01.ogg,file
+start02.ogg,file
+startling_one.ds,file
+static_assert.hpp,file
+static_tone_hat.ds,file
+steel_guitar01.ogg,file
+steel_guitar_heavy_distorted01.ogg,file
+steel_guitar_medium_distorted01.ogg,file
+steel_guitar_slight_distorted01.ogg,file
+step_btn_add.png,file
+step_btn_off.png,file
+step_btn_off_light.png,file
+step_btn_on.png,file
+step_btn_on_100.png,file
+step_btn_on_yellow.png,file
+step_btn_remove.png,file
+step_muxer_1212.c,file
+stepper-down-press.png,file
+stepper-down.png,file
+stepper-left-press.png,file
+stepper-left.png,file
+stepper-right-press.png,file
+stepper-right.png,file
+stepper-up-press.png,file
+stepper-up.png,file
+stereo_enhancer,dir
+stereo_enhancer.cpp,file
+stereo_enhancer.h,file
+stereo_matrix,dir
+stereo_matrix.cpp,file
+stereo_matrix.h,file
+stereodelay.cpp,file
+stereodelay.h,file
+stereoenhancer_control_dialog.cpp,file
+stereoenhancer_control_dialog.h,file
+stereoenhancer_controls.cpp,file
+stereoenhancer_controls.h,file
+stereomatrix_control_dialog.cpp,file
+stereomatrix_control_dialog.h,file
+stereomatrix_controls.cpp,file
+stereomatrix_controls.h,file
+sticky_q_kick.ds,file
+stiffy_snare.ds,file
+stk,dir
+stop.png,file
+stop01.ogg,file
+string_container.cpp,file
+string_container.h,file
+strings01.ogg,file
+stringsnpads,dir
+strong_c_dub_bass.ds,file
+strparse.cpp,file
+strparse.h,file
+stutter_off.png,file
+stutter_on.png,file
+style.cfg,file
+style.css,file
+style.sh,file
+sub1_active.png,file
+sub1_inactive.png,file
+subbass.xpf,file
+super_tom.ds,file
+surround_encoder_1401.c,file
+sv-DnB-Startup.mmpz,file
+sv-Trance-Startup.mmpz,file
+sv.qm,file
+sv.ts,file
+svf_1214.c,file
+sweep.ds,file
+sweep_pad.xpf,file
+sweet_tight_snare.ds,file
+sweetness_shaker.ds,file
+swh,dir
+sync.png,file
+sync_active.png,file
+sync_drift.ds,file
+sync_inactive.png,file
+sync_man.ds,file
+syncred.png,file
+syndrum.cpp,file
+synth.cpp,file
+synth.h,file
+synth_acid01.ogg,file
+synth_acid02.ogg,file
+synthbass.ds,file
+synthetic_dive.ds,file
+synthetic_dive_crust.ds,file
+table.c,file
+tables.h,file
+taiko.ds,file
+tap,dir
+tap_autopan.c,file
+tap_chorusflanger.c,file
+tap_deesser.c,file
+tap_doubler.c,file
+tap_dynamics_m.c,file
+tap_dynamics_presets.h,file
+tap_dynamics_st.c,file
+tap_echo.c,file
+tap_eq.c,file
+tap_eqbw.c,file
+tap_limiter.c,file
+tap_pinknoise.c,file
+tap_pitch.c,file
+tap_reflector.c,file
+tap_reverb.c,file
+tap_reverb.h,file
+tap_reverb_presets.h,file
+tap_rotspeak.c,file
+tap_sigmoid.c,file
+tap_tremolo.c,file
+tap_tubewarmth.c,file
+tap_utils.h,file
+tap_vibrato.c,file
+tape_delay_1211.c,file
+tarp_hh.ds,file
+tasks.html,file
+tb303_01.ogg,file
+tchak_snare.ds,file
+techno_bass01.ogg,file
+techno_bass02.ogg,file
+techno_stab.ds,file
+techno_synth01.ogg,file
+techno_synth02.ogg,file
+techno_synth03.ogg,file
+techno_synth04.ogg,file
+technobass.wav,file
+technosynth1.wav,file
+technosynth2.wav,file
+technosynth3.wav,file
+technosynth4.wav,file
+technosynth5.wav,file
+technosynth6.wav,file
+teeth.ds,file
+templates,dir
+templates.h,file
+tempo_sync.png,file
+temuopl.cpp,file
+temuopl.h,file
+terror_n_yr_hood_snare.ds,file
+test.ds,file
+test.png,file
+testred.png,file
+tests,dir
+text_block.png,file
+text_bold.png,file
+text_center.png,file
+text_italic.png,file
+text_left.png,file
+text_right.png,file
+text_under.png,file
+that_house_chord_cm.ds,file
+the_funk.ds,file
+the_mysterious_bank,dir
+the_mysterious_bank_2,dir
+the_mysterious_bank_3,dir
+the_mysterious_bank_4,dir
+the_plot_thickens.ds,file
+the_sting_hat.ds,file
+the_sting_hat_2.ds,file
+the_sting_open_hat.ds,file
+the_tweek.ds,file
+themes,dir
+think_bd.ds,file
+think_sn_1.ds,file
+think_sn_2.ds,file
+this_snare_spells_electronic.ds,file
+threshold_noise.ds,file
+threshold_noise_open.ds,file
+thunder.ds,file
+timbale_sound.ds,file
+timeline.png,file
+tinkle.ds,file
+tinyled_off.png,file
+tinyled_on.png,file
+tom.ds,file
+tom01.ogg,file
+tom02.ogg,file
+tom03.ogg,file
+tom04.ogg,file
+tom05.ogg,file
+tom_hi01.ogg,file
+tom_low01.ogg,file
+tom_mid01.ogg,file
+tom_tone.ds,file
+tomita_clip.ds,file
+tommy.ds,file
+tone.ds,file
+tone_deg.ds,file
+tone_percussion.ds,file
+tone_snare.ds,file
+tone_tom.ds,file
+tonestack,dir
+toolbar_bg.png,file
+torn_tweeter.ds,file
+touch_me_hat.ds,file
+toy_piano.xpf,file
+tr606,dir
+tr77,dir
+tr808,dir
+tr909,dir
+trace.cpp,file
+trace.h,file
+track_op_grip.png,file
+track_op_menu.png,file
+track_op_menu_active.png,file
+trackop.png,file
+trackop_c.png,file
+trackop_h.png,file
+tracks,dir
+transient_1206.c,file
+transient_snare.ds,file
+transportive.ds,file
+trashyovertones.ds,file
+tri.bin,file
+tri.png,file
+tri_active.png,file
+tri_inactive.png,file
+triangle.png,file
+triangle_shape_active.png,file
+triangle_shape_inactive.png,file
+triangle_wave_active.png,file
+triangle_wave_inactive.png,file
+trianglered.png,file
+triple_oscillator,dir
+triple_para_1204.c,file
+trumpet.ds,file
+trumpet01.ogg,file
+tune_off.png,file
+tune_on.png,file
+tuning.h,file
+tutorials,dir
+tweet.ds,file
+tweety_cowbell.ds,file
+tweety_cowbell_2.ds,file
+type_noise.ds,file
+type_snare.ds,file
+u_don't_kno.ds,file
+ufo_buzz.ds,file
+ufo_buzz_2.ds,file
+uhoh.png,file
+uicontroller.png,file
+uienvelope0.jpg,file
+uienvelope1.jpg,file
+uienvelope2.jpg,file
+uienvelope3.jpg,file
+uifilter.png,file
+uilfo.jpg,file
+uimain.png,file
+uioscil.png,file
+ultra_electro_bd.ds,file
+unavailable_sound.png,file
+undefined01.ogg,file
+unfa-Spoken.mmpz,file
+unfreeze.png,file
+unknown_file.png,file
+unl_active.png,file
+unl_inactive.png,file
+unproto.h,file
+unrtf,dir
+unrtf.cpp,file
+update-zynaddsubfx.sh,file
+update_event.h,file
+upright_bass.ds,file
+ur_malloc.c,file
+ur_malloc.h,file
+usgae_bd.ds,file
+usr_shape_active.png,file
+usr_shape_inactive.png,file
+usr_wave_active.png,file
+usr_wave_inactive.png,file
+util,dir
+util.c,file
+util.h,file
+utils.cpp,file
+utils.h,file
+valve_1209.c,file
+valve_rect_1405.c,file
+vcf303.cpp,file
+velf.tex,file
+verby_soundin_808.ds,file
+version.cc,file
+versioninfo.h,file
+very_basic_snare.ds,file
+very_high_clav.ds,file
+verylong.ds,file
+vestige,dir
+vestige.cpp,file
+vestige.h,file
+vibed,dir
+vibed.cpp,file
+vibed.h,file
+vibra.ds,file
+vibrating_string.cpp,file
+vibrating_string.h,file
+vibrato_pad.ds,file
+video_game_clip.ds,file
+vinnie.png,file
+violin.ds,file
+violin_double_stop01.ogg,file
+violin_fingered01.ogg,file
+violin_pizzicato01.ogg,file
+vocoder_1337.c,file
+voice.cc,file
+voice.h,file
+volume.h,file
+vowel_a.wav,file
+vowel_u.wav,file
+vs_tab.h,file
+vst_base,dir
+vst_base.cpp,file
+vst_plugin_file.png,file
+vumeter.h,file
+vynil_1905.c,file
+w2_addsyn.flac,file
+w2_angrysaw.flac,file
+w2_hexagon.flac,file
+w2_invsine.flac,file
+w2_invsineabs.flac,file
+w2_invsinehalf.flac,file
+w2_noisy.flac,file
+w2_rad.flac,file
+w2_sawsine.flac,file
+w2_sharp.flac,file
+w2_w-wave.flac,file
+wah_synth.xpf,file
+warm_bass.ds,file
+warm_deep_house_kick.ds,file
+warm_digi_808_click.ds,file
+warp01.ogg,file
+warp02.ogg,file
+watsyn,dir
+wave.cc,file
+wave.h,file
+wave1_off.png,file
+wave1_on.png,file
+wave2_off.png,file
+wave2_on.png,file
+wave3_off.png,file
+wave3_on.png,file
+wave4_off.png,file
+wave4_on.png,file
+wave6581_PST.cc,file
+wave6581_PS_.cc,file
+wave6581_P_T.cc,file
+wave6581__ST.cc,file
+wave8580_PST.cc,file
+wave8580_PS_.cc,file
+wave8580_P_T.cc,file
+wave8580__ST.cc,file
+wave_terrain_1412.c,file
+waveforms,dir
+wavegraph.png,file
+wavegraph4.png,file
+waveguide_nl.h,file
+waves,dir
+waveshaper,dir
+waveshaper.cpp,file
+waveshaper.h,file
+waveshaper_control_dialog.cpp,file
+waveshaper_control_dialog.h,file
+waveshaper_controls.cpp,file
+waveshaper_controls.h,file
+waveshaping.h,file
+wavetable.cpp,file
+wavetable.h,file
+wavetables,dir
+wee_dog.ds,file
+weird_1.ds,file
+what_time_is_it.ds,file
+what_to_do_at_220.ds,file
+whatsthis.png,file
+whistler.ds,file
+white_key.png,file
+white_key_pressed.png,file
+white_noise_shape_active.png,file
+white_noise_shape_inactive.png,file
+white_noise_wave_active.png,file
+white_noise_wave_inactive.png,file
+who_hears_all_sound.ds,file
+"who_loves_ya,_baby.ds",file
+whoa_bd.ds,file
+why_hit.ds,file
+widgets,dir
+wind_chimes01.ogg,file
+window_backdrop.png,file
+windows.h,file
+wipeout.ds,file
+wobble_wobble.ds,file
+wobbly_thumb_bd.ds,file
+wood.ds,file
+wood01.ogg,file
+wood2.ds,file
+wood_and_metal.ds,file
+wooo.ds,file
+word.c,file
+word.h,file
+worm_bass.ds,file
+wowmelodictone.ds,file
+wshape_sine.cpp,file
+x_backwd.ds,file
+xfade_1915.c,file
+yeah_hit.ds,file
+yeah_hit_dry.ds,file
+yet_another_electric_bass_drum.ds,file
+yr_808_hummer.ds,file
+yr_tv_will_be_next.ds,file
+zap01.ogg,file
+zap02.ogg,file
+zap03.ogg,file
+zappy_bells.ds,file
+zh.qm,file
+zh.ts,file
+zipper.ds,file
+zm1_1428.c,file
+zoom#4.ds,file
+zoom.png,file
+zoom_x.png,file
+zoom_y.png,file
+zurrr.ds,file
+zynaddsubfx,dir
+zynaddsubfx-alsa.desktop,file
+zynaddsubfx-jack.desktop,file
+zynaddsubfx.1.txt,file
+zynaddsubfx.ico,file
+zynaddsubfx.rc.in,file
+zynaddsubfx.svg,file
+zynaddsubfx.txt,file
+zynaddsubfx_IT.txt,file

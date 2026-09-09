@@ -1,0 +1,10 @@
+name,type
+README.md,file
+alsa-aloop.conf,file
+asound.conf,file
+cava.c,file
+cava.psf,file
+etc,dir
+example_files,dir
+makefile,file
+modprobe.d,dir

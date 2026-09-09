@@ -1,0 +1,16 @@
+name,type
+Events,dir
+LICENSE,file
+MultipleClients.py,file
+Readme.md,file
+Settings.json,file
+UpdateCheck.py,file
+fortniteAPI.py,file
+friends.py,file
+functions.py,file
+main.py,file
+message.py,file
+party.py,file
+ready.py,file
+requirements.txt,file
+start.sh,file

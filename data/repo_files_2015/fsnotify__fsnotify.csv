@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+AUTHORS,file
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+example_test.go,file
+fsnotify.go,file
+inotify.go,file
+integration_test.go,file
+kqueue.go,file
+open_mode_bsd.go,file
+open_mode_darwin.go,file
+windows.go,file

@@ -1,0 +1,16 @@
+name,type
+.travis.yml,file
+AUTHORS,file
+LICENSE,file
+README.md,file
+analysis.go,file
+cert.go,file
+go.mod,file
+go.sum,file
+main.go,file
+mkcert-master.rb,file
+truststore_darwin.go,file
+truststore_java.go,file
+truststore_linux.go,file
+truststore_nss.go,file
+truststore_windows.go,file

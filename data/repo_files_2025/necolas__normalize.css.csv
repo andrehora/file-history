@@ -1,0 +1,13 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+normalize.css,file
+package-lock.json,file
+package.json,file
+test.html,file

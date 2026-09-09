@@ -1,0 +1,154 @@
+name,type
+.gitignore,file
+"A Brief Tutorial on Database Queries, Data Mining, and OLAP (hamel-197-manuscript-final).pdf",file
+A Comparison of Programming Languages in Economics (16-Jun-2014).pdf,file
+A Little Journey Inside Windows Memory.pdf,file
+"A Malloc Tutorial (Feb 16, 2009).pdf",file
+A Relational Model of Data for Large Shared Data Banks - E.F. Codd (1970).pdf,file
+A comprehensive study of Convergent and Commutative Replicated Data Types.pdf,file
+"A study of code abstraction (Patrick Lambert - Oct 15th, 2014).pdf",file
+Accelerating Network Receive Processing - Intel IO Acceleration Technology (ols2005v1-pages-289-296).pdf,file
+Agner Fog - C++ vector class library (2013).pdf,file
+Agner Fog - Calling Conventions for different C++ compilers and operating systems (2013-09-04).pdf,file
+Agner Fog - Instruction Tables (2013-04-03).pdf,file
+"Agner Fog - Microarchitecture of Intel, AMD and VIA CPUs - An optimization guide for assembly programmers and compiler makers (2013-09-04).pdf",file
+Agner Fog - Optimizing Subroutines in Assembly Language - An optimization guide to x86 platforms (2013-09-28).pdf,file
+"An NUMA API for Linux - Andi Kleen, Aug 2004.pdf",file
+An Overview of Linux Kernel Locking Improvements (August 2014).pdf,file
+Art Of Intel x86 Assembly.pdf,file
+Best Practices for Gathering Optimizer Statistics for Oracle 12c (June 2013).pdf,file
+Big Data - New Tricks for Econometrics.pdf,file
+Bitmap Index Design Choices and Their Performance Implications (LBNL-62756).pdf,file
+Bitmap Indices for Data Warehouses.pdf,file
+Building R Packages - An Introduction.pdf,file
+"Cache, Hash and Space-Efficient Bloom Filters.pdf",file
+Cache-Oblivious Streaming B-trees.pdf,file
+"Choosing a Good Chart (A. Abela, 2006).pdf",file
+Compiling Python Modules to Native Parallel Modules Using Pythran and OpenMP Annotations.pdf,file
+Compressed Bloom Filters.pdf,file
+Creating R Packages - A Tutorial (Sept 14 2009).pdf,file
+Cuckoo Filter - Practically Better Than Bloom.pdf,file
+DI-MMAP - A High Performance Memory Map Runtime for Data-Intensive Applications (Nov 16 2012) - Deck.pdf,file
+DI-MMAP - A High Performance Memory Map Runtime for Data-Intensive Applications (Nov 16 2012) - Paper.pdf,file
+DataMining-ch1.pdf,file
+DataMining-ch2.pdf,file
+DataMining-ch3.pdf,file
+DataMining-ch4.pdf,file
+DataMining-ch5.pdf,file
+DataMining-ch6.pdf,file
+DataMining-ch7.pdf,file
+Deterministic Dynamic Deadlock Detection and Recovery.pdf,file
+ELF Format.pdf,file
+Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask (p33-david).pdf,file
+Exploiting Coarse-Grain Speculative Parallelism.pdf,file
+Extending Oracle E-Business Suite Release 12.1 and above using Oracle Application Express (345780).pdf,file
+"Extending Python for High-performance Data-Parallel Programming (March 24, 2014).pdf",file
+Fast Databases with Fast Durability and Recovery Through Multicore Parallelism (osdi14-paper-zheng_wenting).pdf,file
+Foundations of Data Science.pdf,file
+Goals Gone Wild - The Systematic Side Effects of Over-Prescribing Goal Setting - Harvard Business School (09-083).pdf,file
+Grand Central Dispatch - FreeBSD Dev Summit (!8 Sep 2009).pdf,file
+Hardware Transactional Memory on Haswell.pdf,file
+High Performance IO with NUMA Systems in Linux.pdf,file
+High-performance Concurrency Control Mechanisms for Main-memory Databases (p298_per-akelarson_vldb2012).pdf,file
+How Microsoft Builds Software (1997).pdf,file
+IBM DB2 for i - Indexing Methods and Strategies.pdf,file
+IDF 2012 NVM Express and the PCI Express SSD Revolution.pdf,file
+In-memory Columnar Store for PostgreSQL (322_IMCS).pdf,file
+Index Internals - Rebuilding the Truth.pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - Sept 2014 (248966-030).pdf,file
+Intel Advanced Encryption Standard (AES) New Instructions Set.pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference (319433-015).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference (319433-017).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - Oct 2014 (319433-022).pdf,file
+"Intel Ethernet Controller 82571EB, 82572EI, 82571GB, 82571GI - Specification Update - Rev 6.8 Nov 2014.pdf",file
+Intel PCI Express Ethernet Networking - White Paper - Sept 2005.pdf,file
+Intel Pro-1000 PT Quad Port Bypass Server Adapter.pdf,file
+Intel Pro-1000 PT Quad Port LP Server Adapter - Product Brief.pdf,file
+Intel Xeon Phi Coprocessor Datasheet.pdf,file
+Item-Based Collaborative Filtering Recommendation Algorithms.pdf,file
+Kernel Patch Tutorial.pdf,file
+Linux Block IO - Introducing Multi-queue SSD Access on Multicore Systems.pdf,file
+Lonestar- A Suite of Parallel Irregular Programs (ispass2009).pdf,file
+Lower Bound Techniques for Data Structures.pdf,file
+"Memory Barriers - a Hardware View for Software Hackers (July 23, 2010).pdf",file
+"Mental models, Consistency and Programming Aptitude (CRPITV78Bornat).pdf",file
+Mihai Patrascu: Obituary and Open Problems.pdf,file
+Mixed Model Universal Software Thread-Level Speculation (ICCP2013).pdf,file
+MonetDB-X100 - Hyper-Pipelining Query Execution (CIDR 2005 P19).pdf,file
+Object-relative Addressing - Compressed Pointers in 64-bit Java Virtual Machines (P107_134).pdf,file
+On the Data Access Issue (Or Why CPUs Are Starving) - EuroSciPy 2009.pdf,file
+OpenGIS Implementation Standard for Geographic Information - Simple feature access - Part 2 - SQL option 06 (104r4_Implementation_Specification_for_Geographic_Information_-_Simple_feature_access_-_Part_2_SQL_option_v1.2.1).pdf,file
+Oracle - Beginning Performance Tuning (Arup Nanda).pdf,file
+Oracle - Fraud and Anomaly Detection Using Oracle Advanced Analytic Option 12c (fraudoaa12c-1979769).pdf,file
+Oracle - Multitenant Databases (Arup Nanda).pdf,file
+Oracle - New Features for Developers in 12c (Arup Nanda).pdf,file
+Oracle - Partitioning Tips and Tricks (Arup Nanda).pdf,file
+Oracle - Tips and Techniques for Statistics Gathering (Arup Nanda).pdf,file
+Oracle - Understanding Oracle Locking (Arup Nanda).pdf,file
+Oracle 11 Data Warehousing Guide (e25554).pdf,file
+Oracle 11g - Advanced Compression Whitepaper (Jan 2012).pdf,file
+Oracle 11gr1 Administrator's Guide (b28310).pdf,file
+Oracle 11gr1 Concepts (b28318).pdf,file
+Oracle 11gr1 Data Cartridge Developer Guide (b28425).pdf,file
+Oracle 11gr1 Reference (b28320).pdf,file
+Oracle 11gr1 SQL Language Reference (b28286).pdf,file
+Oracle 11gr2 Advanced Application Developer's Guide (e41502).pdf,file
+Oracle 11gr2 Application Developer's Guide (e24435).pdf,file
+Oracle 11gr2 Data Warehousing Guide (e25555).pdf,file
+Oracle 11gr2 Object-Relational Developer's Guide (e11822).pdf,file
+Oracle 11gr2 PLSQL Language Reference (e25519).pdf,file
+Oracle 11gr2 PLSQL Packages and Types (e40758).pdf,file
+Oracle 11gr2 Performance Tuning Guide (e41573).pdf,file
+Oracle 11gr2 Text Reference (e24436).pdf,file
+Oracle 11gr2 VLDB and Partitioning Guide (e16541).pdf,file
+Oracle B-Tree Index Internals - Rebuilding the Truth (Richard Foote).pdf,file
+"Oracle PLSQL Coding Guidelines (Top Coder, 2006).pdf",file
+Oracle PLSQL in 12c (Arup Nanda).pdf,file
+Oracle Spatial - Developing Location-Enabled Applications - Oracle Spatial Geocoding and Routing Engines.pdf,file
+Overview of RDMA on Windows.pdf,file
+"PC Assembly Language (July 23, 2006).pdf",file
+PCI Express Basics.pdf,file
+PE Injection Explained.pdf,file
+POSIX Base - Issue 7 - 2013 (C138).pdf,file
+PS4 Toolchain.pdf,file
+Parsing a SWIFT Message (May 2007).pdf,file
+Preemptable Ticket Spinlocks - Improving Consolidated Performance in the Cloud.pdf,file
+Principles of Distributed Computing.pdf,file
+Pythran - Enabling Static Optimization of Scientific Python Programs.pdf,file
+README.md,file
+Real World Concurrency.pdf,file
+Rewriting History - USC FBE Finance Seminar - (F_2-15-07_MALLOY-Anonymous).pdf,file
+Safe Concurrent Programming and Execution.pdf,file
+Scriptable Operating Systems with Lua.pdf,file
+Statis - Flexible Transactional Storage (EECS-2010-2).pdf,file
+Streaming Data Mining.pdf,file
+"System V Application Binary Interface (ABI) AMD64 Architecture Processor Supplement - v0.99.6 (October 7, 2013).pdf",file
+System V Application Binary Interface AMD64 Architecture Processor Supplement.pdf,file
+Tackling Latency Using FG (TR2011-706).pdf,file
+"The Bias Against Creativity - Why People Desire But Reject Creative Ideas (Cornell, 1-1-2011).pdf",file
+The Continuous Linked Settlement (CLS) Foreign Exchange Settlement System.pdf,file
+The Night Watch.pdf,file
+"The R Inferno (30th April, 2011).pdf",file
+The RFB Protocol v3.8 (26 Nov 2010).pdf,file
+The RecordLinkage Package - Detecting Errors in Data.pdf,file
+The Reversal Test - Eliminating Status Quo Bias in Applied Ethics.pdf,file
+The Vertica Analytic Database- C-Store 7 Years Later (p1790_andrewlamb_vldb2012).pdf,file
+Transparent Pointer Compression for Linked Data Structures (2005-06-12).pdf,file
+Tuning a Database Reorganization for Maximum Speed (Quest Software).pdf,file
+UNIX IO and its Slouch Towards Multicore NUMA (libtorque).pdf,file
+Understanding Open Market Operations.pdf,file
+UofW - Memory Hierarchy.pdf,file
+"What Every Programmer Should Know About Memory (Drepper, Nov 2007).pdf",file
+Why Modern CPUs Are stArving And WhAt CAn Be done ABoUt it (StarvingCPUs-CISE-2010).pdf,file
+Windows 8 Registered IO (SAC-593T_Briggs).pdf,file
+Windows 8 Registered IO (SAC-593T_Briggs).pptx,file
+Windows Kernel Internals - Overview.pdf,file
+Writing R Extensions.pdf,file
+Writing a Simple Operating System from Scratch - Nick Blundell - Dec 2010.pdf,file
+hamel-197-manuscript-final.pdf,file
+libtorque - Portable Multithreaded Continuations for Scalable Event-Driven Programs.pdf,file
+oracle-01_bitmap_1.doc,file
+oracle-03_bitmap_1.doc,file
+oracle-06_bitmap_2.doc,file
+oracle-07_bitmap_3.doc,file
+"xv6 - a simple, Unix-like teaching operating system (Aug 28 2012, draft 7).pdf",file

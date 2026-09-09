@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+CONTRIBUTING.md,file
+LICENSE,file
+LinkChecker.yml,file
+README.md,file
+index.html,file
+list,dir
+workflows,dir

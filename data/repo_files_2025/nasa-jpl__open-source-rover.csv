@@ -1,0 +1,696 @@
+name,type
+#4THRU-HOLE.kicad_mod,file
+#6THRU-HOLE.kicad_mod,file
+.github,dir
+.gitignore,file
+.readthedocs.yaml,file
+10 pos 3M connector.kicad_mod,file
+12_channel_servo_controller_headers.step,file
+16 pos 3M connector.kicad_mod,file
+1726750613.stp,file
+1760510000.stp,file
+20 pin DIP socket.kicad_mod,file
+277-11404-ND.kicad_mod,file
+277-14404-ND.step,file
+3d_images,dir
+3d_models,dir
+4 POS 0.1 Pitch header.kicad_mod,file
+4527--3DModel-STEP-56544.STEP,file
+455-1708-ND - Copy.kicad_mod,file
+455-1708-ND.kicad_mod,file
+497-2738-5-ND.kicad_mod,file
+4p-DuPont.jpg,file
+4p-JST.jpg,file
+507-1937-1-ND.kicad_mod,file
+5v_reg_1.kicad_mod,file
+6 POS 0.1 Pitch header.kicad_mod,file
+6 pos header pin.kicad_mod,file
+61204021621_Download_STP_61204021621_rev1.stp,file
+696108003002 5x20 Fuseholder.kicad_mod,file
+696108003002_5x20_fuseholder.kicad_mod,file
+6x1 Header Pin 0.1 Pitch.kicad_mod,file
+70246-2001_stp,dir
+702462001.stp,file
+732-5958-2-ND-top.kicad_mod,file
+732-5958-2-ND.kicad_mod,file
+AE9986-ND.kicad_mod,file
+AMASS_XT30U-F_1x02_P5.0mm_Vertical.kicad_mod,file
+AMASS_XT30U-M_1x02_P5.0mm_Vertical.kicad_mod,file
+AMASS_XT60-F_1x02_P7.20mm_Vertical.kicad_mod,file
+AMASS_XT60-M_1x02_P7.20mm_Vertical.kicad_mod,file
+AUDACITY,dir
+Arduino Uno Sheild.kicad_mod,file
+Arduino_uno_sheild,dir
+Arduino_uno_sheild rev-C.zip,file
+Arduino_uno_sheild-B.Cu.gbr,file
+Arduino_uno_sheild-B.Mask.gbr,file
+Arduino_uno_sheild-B.Paste.gbr,file
+Arduino_uno_sheild-B.SilkS.gbr,file
+Arduino_uno_sheild-Edge.Cuts.gbr,file
+Arduino_uno_sheild-F.Cu.gbr,file
+Arduino_uno_sheild-F.Mask.gbr,file
+Arduino_uno_sheild-F.Paste.gbr,file
+Arduino_uno_sheild-F.SilkS.gbr,file
+Arduino_uno_sheild-cache.lib,file
+Arduino_uno_sheild-rescue.bck,file
+Arduino_uno_sheild-rescue.dcm,file
+Arduino_uno_sheild-rescue.lib,file
+Arduino_uno_sheild.bak,file
+Arduino_uno_sheild.drl,file
+Arduino_uno_sheild.kicad_pcb,file
+Arduino_uno_sheild.kicad_pcb-bak,file
+Arduino_uno_sheild.net,file
+Arduino_uno_sheild.pro,file
+Arduino_uno_sheild.sch,file
+Arduino_uno_sheild.zip,file
+Arduino_uno_shield rev-C.zip,file
+Arduino_uno_shield-B.Cu.gbr,file
+Arduino_uno_shield-B.Mask.gbr,file
+Arduino_uno_shield-B.Paste.gbr,file
+Arduino_uno_shield-B.SilkS.gbr,file
+Arduino_uno_shield-B_Cu.gbr,file
+Arduino_uno_shield-B_Mask.gbr,file
+Arduino_uno_shield-B_Paste.gbr,file
+Arduino_uno_shield-B_SilkS.gbr,file
+Arduino_uno_shield-Edge.Cuts.gbr,file
+Arduino_uno_shield-Edge_Cuts.gbr,file
+Arduino_uno_shield-F.Cu.gbr,file
+Arduino_uno_shield-F.Mask.gbr,file
+Arduino_uno_shield-F.Paste.gbr,file
+Arduino_uno_shield-F.SilkS.gbr,file
+Arduino_uno_shield-F_Cu.gbr,file
+Arduino_uno_shield-F_Mask.gbr,file
+Arduino_uno_shield-F_Paste.gbr,file
+Arduino_uno_shield-F_SilkS.gbr,file
+Arduino_uno_shield-cache.lib,file
+Arduino_uno_shield-rescue.bck,file
+Arduino_uno_shield-rescue.dcm,file
+Arduino_uno_shield-rescue.lib,file
+Arduino_uno_shield.bak,file
+Arduino_uno_shield.drl,file
+Arduino_uno_shield.kicad_pcb,file
+Arduino_uno_shield.net,file
+Arduino_uno_shield.pro,file
+Arduino_uno_shield.sch,file
+Arduino_uno_shield.zip,file
+B1.png,file
+B10.png,file
+B11.png,file
+B12.png,file
+B13.png,file
+B14.png,file
+B15.png,file
+B2.png,file
+B3.png,file
+B4.png,file
+B5.png,file
+B6.png,file
+B6B-PH-K-S-LF--SN---3DModel-STEP-56544.STEP,file
+B7.png,file
+B8.png,file
+B9.png,file
+BOM,dir
+BOM v2.0.0.xlsx,file
+BOM.csv,file
+Brain_Board.sch,file
+CONTRIBUTING.md,file
+CT206124-ND.step,file
+CTS-206-124.kicad_mod,file
+Control Board-B.Cu.gbl,file
+Control Board-B.Mask.gbs,file
+Control Board-B.Paste.gbp,file
+Control Board-B.SilkS.gbo,file
+Control Board-Edge.Cuts.gm1,file
+Control Board-F.Cu.gtl,file
+Control Board-F.Mask.gts,file
+Control Board-F.Paste.gtp,file
+Control Board-F.SilkS.gto,file
+Control Board-cache.lib,file
+Control Board-rescue.dcm,file
+Control Board-rescue.lib,file
+Control Board.bak,file
+Control Board.drl,file
+Control Board.kicad_pcb,file
+Control Board.kicad_pcb-bak,file
+Control Board.net,file
+Control Board.pro,file
+Control Board.sch,file
+Control Board.zip,file
+Control_Boards-B_Adhes.svg,file
+Control_Boards-B_Cu.gbl,file
+Control_Boards-B_Cu.svg,file
+Control_Boards-B_Mask.gbs,file
+Control_Boards-B_Paste.svg,file
+Control_Boards-B_SilkS.gbo,file
+Control_Boards-B_SilkS.svg,file
+Control_Boards-Dwgs_User.svg,file
+Control_Boards-Edge_Cuts.gm1,file
+Control_Boards-Edge_Cuts.svg,file
+Control_Boards-F_Adhes.svg,file
+Control_Boards-F_Cu.gtl,file
+Control_Boards-F_Cu.svg,file
+Control_Boards-F_Mask.gts,file
+Control_Boards-F_Paste.svg,file
+Control_Boards-F_SilkS.gto,file
+Control_Boards-F_SilkS.svg,file
+Control_Boards-cache.lib,file
+Control_Boards.csv,file
+Control_Boards.drl,file
+Control_Boards.kicad_pcb,file
+Control_Boards.net,file
+Control_Boards.pro,file
+Control_Boards.sch,file
+Control_Boards.xml,file
+D1.png,file
+D2.png,file
+D24V150Fx.kicad_mod,file
+D24V22F12 Regulator.kicad_mod,file
+D24V22Fx_regulator.kicad_mod,file
+D3.png,file
+D4.png,file
+D5.png,file
+D6.png,file
+D7.png,file
+D8.png,file
+DC-10.step,file
+DC7G3HWA_led_array.kicad_mod,file
+DuPont-3.png,file
+DuPont-4.png,file
+E1.png,file
+E10.png,file
+E11.png,file
+E12.png,file
+E13.png,file
+E14.png,file
+E15.png,file
+E16.png,file
+E17.png,file
+E18.png,file
+E19.png,file
+E2.png,file
+E20.png,file
+E21.png,file
+E22.png,file
+E23.png,file
+E24.png,file
+E25.png,file
+E26.png,file
+E27.png,file
+E28.png,file
+E29.png,file
+E3.png,file
+E30.png,file
+E31.png,file
+E32.png,file
+E33.png,file
+E34.png,file
+E35.png,file
+E36.png,file
+E37.png,file
+E38.png,file
+E39.png,file
+E4.png,file
+E40.png,file
+E41.png,file
+E42.png,file
+E43.png,file
+E44.png,file
+E45.png,file
+E46.png,file
+E47.png,file
+E48.png,file
+E49.png,file
+E5.png,file
+E50.png,file
+E6.png,file
+E7.png,file
+E8.png,file
+E9.png,file
+ED1501-ND.kicad_mod,file
+ED2580-ND.kicad_mod,file
+ED2627-ND.kicad_mod,file
+ED2744-ND.kicad_mod,file
+ED2989-ND USB Conn.kicad_mod,file
+Gerbers,dir
+Houston-Robotics-Fidelity cropped.jpg,file
+I1.png,file
+I2.png,file
+I3.png,file
+I4.png,file
+I5.png,file
+I6.png,file
+IMG_0827.jpeg,file
+IMG_0832.jpeg,file
+IMG_0834.jpeg,file
+IMG_0839.jpeg,file
+IMG_0841.jpeg,file
+IMG_0842.jpeg,file
+IMG_0844.jpeg,file
+IMG_0845.jpeg,file
+IMG_0847.jpeg,file
+IMG_0848.jpeg,file
+IMG_0849.jpeg,file
+IMG_0850.jpeg,file
+IMG_0851.jpeg,file
+IMG_0852.jpeg,file
+IMG_1491.jpeg,file
+IMG_1492.jpeg,file
+IMG_1493.jpeg,file
+IMG_1494.jpeg,file
+IMG_3927.JPG,file
+IMG_3931.JPG,file
+IMG_4751.JPG,file
+INA260.kicad_mod,file
+INA260_headers.step,file
+ImportGuides.html,file
+JPL Robotics Lib.bck,file
+JPL Robotics Lib.dcm,file
+JPL Robotics Lib.lib,file
+JPL_Robotics_Lib.bck,file
+JPL_Robotics_Lib.dcm,file
+JPL_Robotics_Lib.lib,file
+JST-XH4.png,file
+LICENSE.txt,file
+Male Header 1x2.step,file
+Male Header 1x6.step,file
+Male Header 3x4.step,file
+Molex-Mini-Fit-Jr-6.png,file
+Molex_172675-0613.kicad_mod,file
+Monolithic Board Rev_D.zip,file
+Monolithic Board-B.Cu.gbl,file
+Monolithic Board-B.Mask.gbs,file
+Monolithic Board-B.Paste.gbp,file
+Monolithic Board-B.SilkS.gbo,file
+Monolithic Board-Edge.Cuts.gm1,file
+Monolithic Board-F.Cu.gtl,file
+Monolithic Board-F.Mask.gts,file
+Monolithic Board-F.Paste.gtp,file
+Monolithic Board-F.SilkS.gto,file
+Monolithic Board-rescue.bck,file
+Monolithic Board-rescue.dcm,file
+Monolithic Board.bak,file
+Monolithic Board.drl,file
+Monolithic Board.kicad_pcb-bak,file
+Monolithic Board.pdf,file
+Monolithic Board.plt,file
+Monolithic Board.pro,file
+Monolithic Board.zip,file
+Motor_Board.sch,file
+OSHWA_mark.png,file
+PB1264-ND.kicad_mod,file
+PCA9685 Servo Controller.kicad_mod,file
+PCA9685_servo_controller.kicad_mod,file
+PCB_old,dir
+PEC10DAAN.STEP,file
+PEC10DAAN.kicad_mod,file
+PPTC021LFBN-RC.kicad_mod,file
+PPTC041LFBN-RC.kicad_mod,file
+PPTC102LFBN-RC--3DModel-STEP-1.STEP,file
+PPTC102LFBN-RC.kicad_mod,file
+PXL_20230413_052035126.jpg,file
+PXL_20230413_052039855.jpg,file
+PXL_20230413_052422615.jpg,file
+PXL_20230413_054441445.jpg,file
+PXL_20230413_054943541.jpg,file
+PXL_20230413_055134872.MP.jpg,file
+PXL_20230413_055558226.jpg,file
+PXL_20230413_061454863.jpg,file
+PXL_20230416_234516660.jpg,file
+PXL_20230416_234547696.jpg,file
+PXL_20230416_234553055.jpg,file
+PXL_20230418_042446722.jpg,file
+PXL_20230418_044810169.jpg,file
+PXL_20230418_044902463.MP.jpg,file
+PXL_20230418_050503408.jpg,file
+PXL_20230418_051040927.jpg,file
+PXL_20230418_051046001.MP.jpg,file
+PXL_20230418_051556901.MP.jpg,file
+PXL_20230418_053133239.jpg,file
+PXL_20230418_054413269.MP.jpg,file
+PXL_20230424_003614642.jpg,file
+PXL_20230424_003617280.jpg,file
+PXL_20230424_003620439.jpg,file
+PXL_20230424_003626769.jpg,file
+PXL_20230424_003630014.jpg,file
+PXL_20230424_003801047.jpg,file
+PXL_20230424_021419908.MP.jpg,file
+PXL_20230425_054908018.jpg,file
+PXL_20230426_055549256.MP.jpg,file
+README.md,file
+README.txt,file
+Raspberry pi footprint.kicad_mod,file
+Raspberry_pi_3_standoffs.step,file
+Roboclaw Mount.kicad_mod,file
+RoverPic1.png,file
+RoverPic2.png,file
+S1.png,file
+S10.png,file
+S11.png,file
+S12.png,file
+S13.png,file
+S14.png,file
+S14A.png,file
+S15.png,file
+S16.png,file
+S16A.png,file
+S16B.png,file
+S17.png,file
+S18.png,file
+S18A.png,file
+S18B.png,file
+S19.png,file
+S2.png,file
+S20.png,file
+S21.png,file
+S22.png,file
+S23.png,file
+S24.png,file
+S25.png,file
+S26.png,file
+S27.png,file
+S29.png,file
+S2A.png,file
+S3.png,file
+S30.png,file
+S31.png,file
+S32.png,file
+S34.png,file
+S35.png,file
+S35A.png,file
+S36.png,file
+S37.png,file
+S38.png,file
+S39.png,file
+S4.png,file
+S40.png,file
+S41.png,file
+S42.png,file
+S43.png,file
+S44.png,file
+S45.png,file
+S46.png,file
+S47.png,file
+S48.png,file
+S49.png,file
+S5.png,file
+S6.png,file
+S7.png,file
+S7008-ND.kicad_mod,file
+S7038-ND.kicad_mod,file
+S7038-ND_nokeepout.kicad_mod,file
+S7038-ND_withkeepout.kicad_mod,file
+S8.png,file
+S9.png,file
+S9175-ND.kicad_mod,file
+SOURCES.txt,file
+SSW-104-01-F-T.kicad_mod,file
+STEP,dir
+T1.png,file
+T10.png,file
+T11.png,file
+T2.png,file
+T3.png,file
+T4.png,file
+T5.png,file
+T6.png,file
+T7.png,file
+T8.png,file
+T9.jpg,file
+TMUMechE,dir
+TSW-104-07-FT.kicad_mod,file
+Top Front Logo Clear.pdf,file
+Top Front Opaque.afdesign,file
+Top Front Opaque.pdf,file
+Top Front.afdesign,file
+W1.png,file
+W2.png,file
+W3.png,file
+WM6548-ND.kicad_mod,file
+X1.png,file
+X2.png,file
+X3.png,file
+X4.png,file
+X5.png,file
+X6.png,file
+XT30_F.step,file
+XT30_M.step,file
+alert_led_components.png,file
+all_layers.svg,file
+arduino_uno_shield,dir
+assembled,dir
+assembly,dir
+b6b-ph-k-s.step,file
+back_encoder.jpg,file
+back_encoder.yml,file
+back_plate_standoff.dxf,file
+back_plate_standoff.svg,file
+back_servo.jpg,file
+back_servo.yml,file
+bare_board.png,file
+beach_osr.jpg,file
+bigger_wasteland.png,file
+bobert,dir
+bobert_back.jpg,file
+bobert_front.jpg,file
+bobert_side.jpg,file
+body,dir
+body.png,file
+body_axial_clamp.png,file
+body_axial_clamp_exploded.png,file
+body_frame.png,file
+bom_v2.0.3_board_ref_parts.csv,file
+bom_v2.0.3_other_parts.csv,file
+bottom_plate.dxf,file
+bottom_plate.svg,file
+brain_board,dir
+brain_board.kicad_pcb,file
+brain_board_bottom.jpg,file
+brain_board_iso.jpg,file
+brain_board_mounting_hole.kicad_mod,file
+brain_board_v1,dir
+brain_board_v1.zip,file
+brain_board_v2.0.1.zip,file
+brain_board_v2.0.2.zip,file
+brain_bottom.png,file
+brain_bottom_iso.png,file
+brain_top.png,file
+brain_top_iso.png,file
+c3_installed.png,file
+cabling-rocker-bogie.jpg,file
+complete_pcb_bottom.jpg,file
+complete_pcb_top.jpg,file
+complete_pcb_top2.jpg,file
+components,dir
+connect45bracket.png,file
+connect45topbracket.png,file
+connector_images,dir
+control_board,dir
+controlboard-power-headers.jpeg,file
+corner_mirror.png,file
+corner_side.png,file
+corner_stops.jpg,file
+corner_wiring.jpg,file
+csv_to_md.py,file
+d24v150fx_headers.step,file
+d24v22fx_headers_standoff.step,file
+diff_pivot.png,file
+digikey_bom.csv,file
+digikey_bom_3-20-2023.csv,file
+digikey_bom_4-20-2023.csv,file
+digikey_upload_bom.png,file
+documentation,dir
+drive_motor_encoders.jpg,file
+drive_wheel_assy.png,file
+dsub.jpg,file
+dxf,dir
+electrical,dir
+electrical1.png,file
+electrical2.png,file
+electronics,dir
+encoder_extension.jpg,file
+encoder_extension.yml,file
+examples,dir
+exploded_mechanical.png,file
+exploded_view.png,file
+extra_parts.md,file
+fp-info-cache,file
+fp-lib-table,file
+from_kicad_bom2grouped_csv,dir
+front_encoder.jpg,file
+front_encoder.yml,file
+front_plate_standoff.dxf,file
+front_plate_standoff.svg,file
+front_servo.jpg,file
+front_servo.yml,file
+front_servo_to_rb.png,file
+gap_slat.dxf,file
+gap_slat.svg,file
+generateHarness.bat,file
+generateHarness.sh,file
+generate_drill_file.png,file
+generate_gerbers.png,file
+gerber_files,dir
+gerbers,dir
+gui.PNG,file
+head_pivot_mechanism.PNG,file
+heat_gun.png,file
+hinge_assy.jpg,file
+hinges.jpg,file
+hinges.png,file
+hinges2.png,file
+images,dir
+ina260_headers.png,file
+inserts,dir
+j19_c19.png,file
+j20_j21_r6_r10.png,file
+jlcpcb_ordering.png,file
+jpl_robotics.pretty,dir
+jpl_rover,dir
+jpl_rover_1.jpg,file
+laser_cut_parts,dir
+layout,dir
+lit_up_shot.jpg,file
+mechanical,dir
+middle_encoder.jpg,file
+middle_encoder.yml,file
+mkdocs.yml,file
+motor_board,dir
+motor_board.kicad_pcb,file
+motor_board_v1,dir
+motor_board_v1.zip,file
+motor_board_v2.0.1.zip,file
+motor_board_v2.0.2.zip,file
+motor_bottom.png,file
+motor_bottom_iso.png,file
+motor_direction_diagram.png,file
+motor_supply_headers.png,file
+motor_top.png,file
+motor_top_iso.png,file
+multimeter.png,file
+osr-onshape.gif,file
+osr-side-outside.jpg,file
+osr_onshape.png,file
+osr_outside.jpg,file
+osr_sendcutsend_cart.png,file
+paddy,dir
+paddy1.jpg,file
+paddy2.png,file
+parse_parts_lists.yaml,file
+parts_list,dir
+parts_list.csv,file
+patch.png,file
+patch_logo_scaled.kicad_mod,file
+pcb,dir
+pcb_assembly,dir
+pcie-bottom.jpg,file
+pcie-top.jpg,file
+pdf,dir
+pivot_almost.png,file
+pivot_complete_inplace.png,file
+pivot_complete_side.png,file
+pivot_start.png,file
+power_headers.png,file
+power_headers_attached.png,file
+power_supply.png,file
+power_usage_osr.png,file
+r2_r3_r4.png,file
+r5_c1.png,file
+raf,dir
+raf_roof_rack.jpg,file
+raspberry_pi_3b.kicad_mod,file
+rc1_pop.png,file
+readme.md,file
+requirements.txt,file
+rev_20,dir
+rev_b,dir
+rev_c,dir
+rev_d,dir
+rev_e,dir
+ring_bearing.jpg,file
+robert,dir
+robert1.png,file
+robert2.jpg,file
+roboclaw_2x7a_headers_standoffs.step,file
+roboclaw_mount.kicad_mod,file
+roboclaw_wired_1.png,file
+roboclaw_wired_2.png,file
+roboclaws_installed.png,file
+rocker-body-axis-screws.png,file
+rocker-bogie-sleeves.jpeg,file
+rocker_bogie,dir
+rocker_bogie.png,file
+rocker_bogie_inside.PNG,file
+rocker_extr_to_bogie_joint.png,file
+rover image.kicad_mod,file
+rover-climbing.jpg,file
+rover-construction.png,file
+rover.png,file
+rover_at_open_house_1.jpg,file
+rover_at_open_house_2.jpg,file
+rover_image.kicad_mod,file
+rover_image_scaled.mod,file
+roverto,dir
+roverto.jpg,file
+roverto_climbing_wheel.jpg,file
+rpi zero mounting.kicad_mod,file
+samwise,dir
+samwise_front.jpg,file
+samwise_side.jpg,file
+schematics,dir
+schematics.pdf,file
+screws,dir
+screws.md,file
+separate_layers,dir
+servo_arm_assembly.jpg,file
+side_plate.dxf,file
+side_plate.svg,file
+sinuhe,dir
+sinuhe1.png,file
+slack_logo.png,file
+slit_direction_closeup.png,file
+smaller_wasteland.png,file
+solder.png,file
+solder_wick.png,file
+soldering_iron.png,file
+standoff.png,file
+standoffs,dir
+step_6.png,file
+structural,dir
+svg,dir
+sym-lib-table,file
+templates.yml,file
+test_image.kicad_mod,file
+test_point.kicad_mod,file
+test_point_big.kicad_mod,file
+test_point_hole.kicad_mod,file
+tools,dir
+top_front.dxf,file
+top_front.svg,file
+top_rear.dxf,file
+top_rear.svg,file
+two_corners_assembled.png,file
+u5_installed.png,file
+u7_bare.png,file
+u7_installed.png,file
+ul_1760510000,dir
+v1,dir
+v1.x.x,dir
+v2.0.0,dir
+v2.0.1,dir
+v2.0.2,dir
+v2.0.3,dir
+v2_0_1,dir
+video_icon.png,file
+washers,dir
+wheel.png,file
+wheel_aligned.png,file
+wheel_assembly,dir
+wheel_drill.png,file
+wheels.png,file
+wire.png,file
+wireviz,dir
+wiring,dir
+wiring_detail.png,file
+wiring_diagram.png,file
+workflows,dir
+youtube-thumbnail.png,file

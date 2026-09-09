@@ -1,0 +1,14 @@
+name,type
+.gitattributes,file
+.gitignore,file
+CheckVersion.ps1,file
+GitPrompt.ps1,file
+GitTabExpansion.ps1,file
+GitUtils.ps1,file
+LICENSE.txt,file
+TortoiseGit.ps1,file
+Utils.ps1,file
+install.ps1,file
+posh-git.psm1,file
+profile.example.ps1,file
+readme.md,file

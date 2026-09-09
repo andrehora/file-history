@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+LICENSE,file
+README.en.md,file
+README.md,file
+README.zh-Hans.md,file
+crowdin.yml,file
+dependabot.yml,file
+package.json,file
+pnpm-lock.yaml,file
+renovate.json,file
+test.yml,file
+workflows,dir

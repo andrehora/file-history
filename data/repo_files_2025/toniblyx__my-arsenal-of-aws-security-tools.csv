@@ -1,0 +1,12 @@
+name,type
+LICENSE,file
+Makefile,file
+README.md,file
+ami,dir
+arsenal-kreator.sh,file
+arsenal.csv,file
+former-list.md,file
+install-tools.sh,file
+kreator,dir
+manifest.json,file
+my-aws-security-arsenal-packer-config.json,file

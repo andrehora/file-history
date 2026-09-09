@@ -1,0 +1,15 @@
+name,type
+LICENSE,file
+README.md,file
+_config.yml,file
+de-DE.md,file
+fa-IR.md,file
+fr-FR.md,file
+ja-JP.md,file
+pl_PL.md,file
+pt-BR.md,file
+ru-RU.md,file
+th-TH.md,file
+translations,dir
+zh-CN.md,file
+zh-TW.md,file

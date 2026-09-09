@@ -1,0 +1,16 @@
+name,type
+.DS_Store,file
+.gitignore,file
+Embodied-AI-Guide-logo.png,file
+LICENSE,file
+Lumina.png,file
+README.md,file
+algorithm.md,file
+control.md,file
+files,dir
+hardware.md,file
+images,dir
+infrastructure.md,file
+logo.png,file
+sponsor.png,file
+topics,dir

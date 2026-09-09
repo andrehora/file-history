@@ -1,0 +1,69 @@
+name,type
+.github,dir
+Assistant.png,file
+Colab.png,file
+Discord button.png,file
+Discord.png,file
+Documentation Button.png,file
+FUNDING.yml,file
+Free version button.png,file
+Kaggle.png,file
+Kofi button.png,file
+LAION 2GPU.png,file
+LICENSE,file
+Merge.png,file
+README.md,file
+Run.png,file
+Slim Orca 2GPUs.png,file
+Terminal_Type.png,file
+Where_Terminal.png,file
+__init__.py,file
+_auto_install.py,file
+_utils.py,file
+buy me a coffee button.png,file
+chat_templates.py,file
+cohere.py,file
+cross_entropy_loss.py,file
+documentation github button.png,file
+documentation green button.png,file
+documentation lighter.png,file
+documentation white button.png,file
+dpo.py,file
+fast_lora.py,file
+flex_attention.py,file
+geglu.py,file
+gemma.py,file
+gemma2.py,file
+granite.py,file
+images,dir
+kernels,dir
+layernorm.py,file
+llama.py,file
+loader.py,file
+loader_utils.py,file
+made with unsloth.png,file
+mapper.py,file
+mistral.py,file
+models,dir
+ollama.png,file
+peft x trl button.png,file
+pyproject.toml,file
+qwen2.py,file
+rms_layernorm.py,file
+rope_embedding.py,file
+save.py,file
+start free finetune button.png,file
+swiglu.py,file
+tokenizer_utils.py,file
+trainer.py,file
+unsloth,dir
+unsloth end.png,file
+unsloth loading page render.png,file
+unsloth logo black text.png,file
+unsloth logo only.png,file
+unsloth logo white text.png,file
+unsloth made with love.png,file
+unsloth new logo.png,file
+unsloth-cli.py,file
+utils.py,file
+vision.py,file

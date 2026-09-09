@@ -1,0 +1,13 @@
+name,type
+14F27_launchd.csv,file
+15B42_launchd.csv,file
+16A323_launchd.csv,file
+CNAME,file
+InstallESD_Hashes.csv,file
+LICENSE,file
+README-cn.md,file
+README.md,file
+_config.yml,file
+comments.csv,file
+launchd,dir
+read_launch_plists.py,file

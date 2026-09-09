@@ -1,0 +1,5 @@
+name,type
+CONTRIBUTING.markdown,file
+README.markdown,file
+autoload,dir
+pathogen.vim,file

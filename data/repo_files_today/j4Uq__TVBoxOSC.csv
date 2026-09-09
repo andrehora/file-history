@@ -1,0 +1,9 @@
+name,type
+.github,dir
+README.md,file
+TVBoxOSC.jks,file
+dependabot.yml,file
+scripts,dir
+test.yml,file
+upload.py,file
+workflows,dir

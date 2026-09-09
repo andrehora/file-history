@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+GPL-LICENSE.txt,file
+MIT-LICENSE.txt,file
+Makefile,file
+bower.json,file
+favico-0.3.10.min.js,file
+favico.js,file
+package.json,file
+readme.md,file

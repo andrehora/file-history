@@ -1,0 +1,12 @@
+name,type
+LICENSE,file
+MANIFEST.in,file
+README.md,file
+__init__.py,file
+common.onnx,file
+common_det.onnx,file
+common_old.onnx,file
+ddddocr,dir
+logo.png,file
+requirements.txt,file
+setup.py,file

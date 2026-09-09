@@ -1,0 +1,8 @@
+name,type
+.github,dir
+PULL_REQUEST_TEMPLATE.md,file
+contributing.md,file
+logo.png,file
+logo.psd,file
+media,dir
+readme.md,file

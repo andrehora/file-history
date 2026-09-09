@@ -1,0 +1,200 @@
+name,type
+0. Course Introduction .pptx,file
+00-Introduction.pdf,file
+01-StableMatching.pdf,file
+01DemoGaleShapley.pdf,file
+01_Introduction_fang.pdf,file
+02-AlgorithmAnalysis.pdf,file
+02_Computer Evolution and Performance_fang.pdf,file
+03Graphs.pdf,file
+03_Top Level View of Computer Function and Interconnection_fang.pdf,file
+04-GreedyAlgorithmsI.pdf,file
+04-GreedyAlgorithmsII.pdf,file
+04_ Instructions Language of the Computer_fang.pdf,file
+04a_ Instructions Language of the Computer_fang.pdf,file
+04b_ Instructions Language of the Computer_fang.pdf,file
+04c_ Instructions Language of the Computer_fang.pdf,file
+04d_ Instructions Language of the Computer_fang.pdf,file
+05-DivideAndConquerI.pdf,file
+05-DivideAndConquerII.pdf,file
+05_The Processor_fang.pdf,file
+05a_The Processor_fang.pdf,file
+05b_The Processor_fang.pdf,file
+05c_The Processor_fang.pdf,file
+06DynamicProgrammingI.pdf,file
+06DynamicProgrammingII.pdf,file
+06_Large and Fast Exploiting Memory Hierarchy_fang.pdf,file
+06a_Large and Fast Exploiting Memory Hierarchy_fang.pdf,file
+06b_Large and Fast Exploiting Memory Hierarchy_fang.pdf,file
+07NetworkFlowI.pdf,file
+07NetworkFlowII.pdf,file
+07NetworkFlowIII.pdf,file
+07_Multicores^JMultiprocessors and Clusters_fang.pdf,file
+08IntractabilityI.pdf,file
+08IntractabilityII.pdf,file
+08IntractabilityIII.pdf,file
+1-Introduction.ppt,file
+1. Introduction to SE.pptx,file
+10-Knowledge Representation.ppt,file
+10.Mapping Models to Code.pptx,file
+10ExtendingTractability.pdf,file
+11.Testing(S).pptx,file
+11ApproximationAlgorithms.pdf,file
+12LocalSearch.pdf,file
+13-uncertainty.ppt,file
+13RandomizedAlgorithms.pdf,file
+14-Probabilistic Reasoning.ppt,file
+15-Probabilistic Reasoning over Time.ppt,file
+16-Making_Simple_Decisions.pdf,file
+16-Making_Simple_Decisions.ppt,file
+17-making_complex_decisions.ppt,file
+18-LearningfromObervations.ppt,file
+2-Intell-Agents.ppt,file
+2. Modeling with UML.pptx,file
+3-uninformedSearch.ppt,file
+3. Project Organization and ManagementV2.pptx,file
+4-Informed Search and Exploration.key,file
+4-Informed Search and Exploration.ppt,file
+4. Requirements Elicitation .pptx,file
+5-BeyondClassicalSearch.key,file
+5-BeyondClassicalSearch.ppt,file
+5. Analysis .pptx,file
+6-Adversarial Search.key,file
+6-Adversarial Search.ppt,file
+6. System Design-Decomposing the System.pptx,file
+7-Constraint Satisfaction Problems.ppt,file
+7-Logical Agents.ppt,file
+7.System Design-Addressing Design Goals.pptx,file
+8-First-Order Logic.ppt,file
+8. Object Design-Reusing Pattern Solutions.pptx,file
+9-Inference in first-order logic.key,file
+9-Inference in first-order logic.ppt,file
+9. Object Design-Specifying Interfaces.pptx,file
+A1.pdf,file
+A2.pdf,file
+A3.pdf,file
+A4.pdf,file
+A5.pdf,file
+A6.pdf,file
+Algorithm Design-Solutions.pdf,file
+Artificial Intelligence_A Modern Approach.pdf,file
+Assignments,dir
+CA-lec1.pdf,file
+CA-lec2.pdf,file
+CA-lec3.pdf,file
+CA-lec4.pdf,file
+CA-lec5.pdf,file
+Ch3-Fourier Series.ppt,file
+Ch4-CT Fourier Transform.ppt,file
+Ch5-DT Fourier Transform.ppt,file
+Ch6-Laplace Transform.ppt,file
+Ch7-z Transform.ppt,file
+Chapter 3 Arithmetic for Computers.pdf,file
+Chapter 6 Storage and Other IO Topics.pdf,file
+Computer Architecture-A Quantitative Approach_5 edition.pdf,file
+Computer Organization and Architecture(8th Edition).pdf,file
+Convex Optimization.pdf,file
+Database System Concepts (6th Edition).pdf,file
+Doc_template,dir
+Elements of Information Theory.pdf,file
+"Information Theory, Inference, and Learning Algorithms.pdf",file
+L10_Storage.pdf,file
+L11_Indexing.pdf,file
+L12_QueryProcess.pdf,file
+L13_Transaction.pdf,file
+L1_Intro.pdf,file
+L2_Model.pdf,file
+L3_SQL.pdf,file
+L4_SQL.pdf,file
+L5_SQL.pdf,file
+L6_ER1.pdf,file
+L7_ER2.pdf,file
+L8_Design1.pdf,file
+L9_Design2.pdf,file
+LICENSE,file
+Lecture 8.pptx,file
+Lectures,dir
+Misc,dir
+Numerical Optimization.pdf,file
+"Operating System Concepts_Gagne, Silberschatz, and Galvin_9th edition.pdf",file
+Pattern Recognition And Machine Learning.pdf,file
+Q1_sol.pptx,file
+Q2_sol.pptx,file
+Q3_sol.pptx,file
+Q5_sol.pptx,file
+Quiz,dir
+README.md,file
+README_en.md,file
+Readme.md,file
+Slides,dir
+Study-Guide.pdf,file
+Summary.pdf,file
+Text-Books,dir
+Textbooks,dir
+Tutorial.ppt,file
+assign1.pdf,file
+assignments,dir
+ch1-Introduction.ppt,file
+ch2-LTI Systems.ppt,file
+exercise 2.pptx,file
+exercise 3.pptx,file
+homework1.pdf,file
+homework2.pdf,file
+homework3.pdf,file
+homework4.pdf,file
+hw1.pdf,file
+hw2.pdf,file
+hw3.pdf,file
+hw4.pdf,file
+hw5.pdf,file
+lec0-intro.pdf,file
+lec1-OS.pdf,file
+lec1-linear models.pdf,file
+lec1-slides.pdf,file
+lec1.pdf,file
+lec10-HMM.pdf,file
+lec10-OS.pdf,file
+lec10.pdf,file
+lec11-GM.pdf,file
+lec11-OS.pdf,file
+lec11.pdf,file
+lec12-OS.pdf,file
+lec2-Bayes classifiers.pdf,file
+lec2-OS.pdf,file
+lec2-slides.pdf,file
+lec2.pdf,file
+lec3-OS.pdf,file
+lec3-SVM.pdf,file
+lec3-slides.pdf,file
+lec3.pdf,file
+lec4-CLT.pdf,file
+lec4-OS.pdf,file
+lec4-slides.pdf,file
+lec4.pdf,file
+lec5-OS.pdf,file
+lec5-model selection.pdf,file
+lec5.pdf,file
+lec6-Neural Network.pdf,file
+lec6-OS.pdf,file
+lec6.pdf,file
+lec7-Clustering.pdf,file
+lec7-OS.pdf,file
+lec7.pdf,file
+lec8-Feature Reduction.pdf,file
+lec8-OS.pdf,file
+lec8.pdf,file
+lec9-EM.pdf,file
+lec9-OS.pdf,file
+lec9.pdf,file
+lecture 1.pdf,file
+lecture 2.pdf,file
+lecture 3.pdf,file
+lecture 4.pdf,file
+lecture 5.pdf,file
+lecture 6.pdf,file
+lecture 7.pdf,file
+lecture 9.pdf,file
+notes,dir
+projects2018.pdf,file
+ps-1.pdf,file
+slides,dir

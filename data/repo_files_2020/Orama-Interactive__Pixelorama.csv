@@ -1,0 +1,362 @@
+name,type
+%Grass1.png,file
+%Grass2.png,file
+%Grass3.png,file
+%Grass4.png,file
+%Grass5.png,file
+%star1.png,file
+%star2.png,file
+%star3.png,file
+%star4.png,file
+%star5.png,file
+%star6.png,file
+.gdignore,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+AboutDialog.gd,file
+AboutDialog.tscn,file
+Add_Palette.png,file
+Add_Palette.png.import,file
+Add_Palette_Hover.png,file
+Add_Palette_Hover.png.import,file
+Assets,dir
+Brush.png,file
+Brush.png.import,file
+BrushButton.gd,file
+BrushButton.tscn,file
+Brush_button.png,file
+Brush_button.png.import,file
+Brush_l.png,file
+Brush_l.png.import,file
+Brush_l_r.png,file
+Brush_l_r.png.import,file
+Brush_r.png,file
+Brush_r.png.import,file
+Brushes,dir
+Bucket.png,file
+Bucket.png.import,file
+Bucket_Cursor.png,file
+Bucket_Cursor.png.import,file
+Bucket_l.png,file
+Bucket_l.png.import,file
+Bucket_l_r.png,file
+Bucket_l_r.png.import,file
+Bucket_r.png,file
+Bucket_r.png.import,file
+CameraMovement.gd,file
+Canvas Backgrounds,dir
+Canvas.gd,file
+Canvas.tscn,file
+Canvas_split.png,file
+Canvas_split.png.import,file
+Canvas_unsplit.png,file
+Canvas_unsplit.png.import,file
+Changelog.md,file
+Clone_Layer.png,file
+Clone_Layer.png.import,file
+Clone_Layer_Hover.png,file
+Clone_Layer_Hover.png.import,file
+Color defaults.png,file
+Color defaults.png.import,file
+Color switch.png,file
+Color switch.png.import,file
+ColorPicker.png,file
+ColorPicker.png.import,file
+ColorPicker_Cursor.png,file
+ColorPicker_Cursor.png.import,file
+ColorPicker_l.png,file
+ColorPicker_l.png.import,file
+ColorPicker_l_r.png,file
+ColorPicker_l_r.png.import,file
+ColorPicker_r.png,file
+ColorPicker_r.png.import,file
+Complementary.json,file
+CreateNewImage.gd,file
+CreateNewImage.tscn,file
+Cursor.png,file
+Cursor.png.import,file
+Dark Theme,dir
+Dark Theme.tres,file
+Dark Themes,dir
+DarkRulerStyle.tres,file
+DarkTopMenuStyle.tres,file
+Default.json,file
+Delete_Layer.png,file
+Delete_Layer.png.import,file
+Delete_Layer_Disabled.png,file
+Delete_Layer_Disabled.png.import,file
+Delete_Layer_Hover.png,file
+Delete_Layer_Hover.png.import,file
+Dialogs,dir
+EditPalettePopup.gd,file
+EditPalettePopup.tscn,file
+Edit_Palette.png,file
+Edit_Palette.png.import,file
+Edit_Palette_Hover.png,file
+Edit_Palette_Hover.png.import,file
+Eraser.png,file
+Eraser.png.import,file
+Eraser_Cursor.png,file
+Eraser_Cursor.png.import,file
+Eraser_l.png,file
+Eraser_l.png.import,file
+Eraser_l_r.png,file
+Eraser_l_r.png.import,file
+Eraser_r.png,file
+Eraser_r.png.import,file
+ExportSprites.gd,file
+ExportSprites.tscn,file
+FUNDING.yml,file
+Fonts,dir
+FrameButton.gd,file
+FrameButton.tscn,file
+Global.gd,file
+Go_To_First_Frame.png,file
+Go_To_First_Frame.png.import,file
+Go_To_First_Frame_Disabled.png,file
+Go_To_First_Frame_Disabled.png.import,file
+Go_To_First_Frame_Hover.png,file
+Go_To_First_Frame_Hover.png.import,file
+Go_To_Last_Frame.png,file
+Go_To_Last_Frame.png.import,file
+Go_To_Last_Frame_Disabled.png,file
+Go_To_Last_Frame_Disabled.png.import,file
+Go_To_Last_Frame_Hover.png,file
+Go_To_Last_Frame_Hover.png.import,file
+Godot's Theme,dir
+Godot's Theme.tres,file
+Godot.png,file
+Gold Theme,dir
+Gold Theme.tres,file
+Gold Themes,dir
+GoldRulerStyle.tres,file
+GoldTopMenuStyle.tres,file
+Graphics,dir
+Grass,dir
+Gray Theme,dir
+Gray Theme.tres,file
+GrayTopMenuStyle.tres,file
+Guides.gd,file
+HorizontalRuler.gd,file
+Import.gd,file
+ImportSprites.gd,file
+ImportSprites.tscn,file
+LICENSE,file
+LayerContainer.gd,file
+LayerContainer.tscn,file
+Layer_Invisible.png,file
+Layer_Invisible.png.import,file
+Layer_Invisible_Hover.png,file
+Layer_Invisible_Hover.png.import,file
+Layer_Visible.png,file
+Layer_Visible.png.import,file
+Layer_Visible_Hover.png,file
+Layer_Visible_Hover.png.import,file
+Layers,dir
+Light Theme,dir
+Light Theme.tres,file
+Light Themes,dir
+LightRulerStyle.tres,file
+LightTopMenuStyle.tres,file
+LightenDarken.png,file
+LightenDarken.png.import,file
+LightenDarken_Cursor.png,file
+LightenDarken_Cursor.png.import,file
+LightenDarken_l.png,file
+LightenDarken_l.png.import,file
+LightenDarken_l_r.png,file
+LightenDarken_l_r.png.import,file
+LightenDarken_r.png,file
+LightenDarken_r.png.import,file
+Linux,dir
+Loop.png,file
+Loop.png.import,file
+Loop_None.png,file
+Loop_None.png.import,file
+Loop_PingPong.png,file
+Loop_PingPong.png.import,file
+Main.gd,file
+Main.tscn,file
+Merge_Down.png,file
+Merge_Down.png.import,file
+Merge_Down_Disabled.png,file
+Merge_Down_Disabled.png.import,file
+Merge_Down_Hover.png,file
+Merge_Down_Hover.png.import,file
+Misc,dir
+Monochromatic.json,file
+Move_Down.png,file
+Move_Down.png.import,file
+Move_Down_Disabled.png,file
+Move_Down_Disabled.png.import,file
+Move_Down_Hover.png,file
+Move_Down_Hover.png.import,file
+Move_Up.png,file
+Move_Up.png.import,file
+Move_Up_Disabled.png,file
+Move_Up_Disabled.png.import,file
+Move_Up_Hover.png,file
+Move_Up_Hover.png.import,file
+NewPaletteDialog.tscn,file
+New_Frame.png,file
+New_Frame.png.import,file
+New_Frame_Hover.png,file
+New_Frame_Hover.png.import,file
+New_Layer.png,file
+New_Layer.png.import,file
+New_Layer_Hover.png,file
+New_Layer_Hover.png.import,file
+Next_Frame.png,file
+Next_Frame.png.import,file
+Next_Frame_Disabled.png,file
+Next_Frame_Disabled.png.import,file
+Next_Frame_Hover.png,file
+Next_Frame_Hover.png.import,file
+NotificationLabel.gd,file
+NotificationLabel.tscn,file
+NotoSansCJKtc-Regular.otf,file
+NotoSansCJKtc-Regular.tres,file
+OutlineDialog.gd,file
+OutlineDialog.tscn,file
+Palette,dir
+Palette.gd,file
+PaletteButton.gd,file
+PaletteButton.tscn,file
+PaletteColor.gd,file
+PaletteContainer.gd,file
+PaletteImportFileDialog.tscn,file
+Palettes,dir
+Pause.png,file
+Pause.png.import,file
+Pause_Hover.png,file
+Pause_Hover.png.import,file
+Pencil.png,file
+Pencil.png.import,file
+Pencil_Cursor.png,file
+Pencil_Cursor.png.import,file
+Pencil_l.png,file
+Pencil_l.png.import,file
+Pencil_l_r.png,file
+Pencil_l_r.png.import,file
+Pencil_r.png,file
+Pencil_r.png.import,file
+Pixelorama Logo.png,file
+Pixelorama Logo.png.import,file
+Pixelorama.png,file
+Play Backwards.png,file
+Play Backwards.png.import,file
+Play Backwards_Hover.png,file
+Play Backwards_Hover.png.import,file
+Play.png,file
+Play.png.import,file
+Play_Hover.png,file
+Play_Hover.png.import,file
+Prefabs,dir
+PreferencesDialog.gd,file
+PreferencesDialog.tscn,file
+Previous_Frame.png,file
+Previous_Frame.png.import,file
+Previous_Frame_Disabled.png,file
+Previous_Frame_Disabled.png.import,file
+Previous_Frame_Hover.png,file
+Previous_Frame_Hover.png.import,file
+README.md,file
+RectSelect.png,file
+RectSelect.png.import,file
+RectSelect_Cursor.png,file
+RectSelect_Cursor.png.import,file
+RectSelect_l.png,file
+RectSelect_l.png.import,file
+RectSelect_l_r.png,file
+RectSelect_l_r.png.import,file
+RectSelect_r.png,file
+RectSelect_r.png.import,file
+Roboto-Italic.tres,file
+Roboto-Italic.ttf,file
+Roboto-Regular.tres,file
+Roboto-Regular.ttf,file
+Roboto-Small.tres,file
+RulerStyle.tres,file
+Rulers,dir
+ScaleImage.gd,file
+ScaleImage.tscn,file
+Scripts,dir
+SecondViewport.gd,file
+SelectionRectangle.gd,file
+Shades.json,file
+Snow.png,file
+Splash Art.png,file
+Splash Art.png.import,file
+SplashDialog.gd,file
+SplashDialog.tscn,file
+Star,dir
+StyleBoxes,dir
+Themes & Styles,dir
+Timeline,dir
+TimelineSeconds.gd,file
+Tool Cursors,dir
+Tools,dir
+TopMenuStyle.tres,file
+Translations,dir
+Translations.pot,file
+Transparent Background Dark.png,file
+Transparent Background Dark.png.import,file
+Transparent Background Godot.png,file
+Transparent Background Godot.png.import,file
+Transparent Background Gold.png,file
+Transparent Background Gold.png.import,file
+Transparent Background Gray.png,file
+Transparent Background Gray.png.import,file
+Transparent Background Light.png,file
+Transparent Background Light.png.import,file
+Triad.json,file
+VerticalRuler.gd,file
+bubblegum16.json,file
+circle_9x9.png,file
+circle_9x9.png.import,file
+circle_blended.png,file
+circle_filled_9x9.png,file
+circle_filled_9x9.png.import,file
+com.orama_interactive.Pixelorama.appdata.xml,file
+com.orama_interactive.Pixelorama.desktop,file
+de.po,file
+el.po,file
+en.po,file
+fr.po,file
+hline_3x3.png,file
+icon.ico,file
+icon.png,file
+icon.png.import,file
+icon_64x64.png,file
+icon_64x64.png.import,file
+new_swatch_button.png,file
+new_swatch_button.png.import,file
+new_swatch_button_hover.png,file
+new_swatch_button_hover.png.import,file
+orama_64x64.png,file
+orama_64x64.png.import,file
+palette_button.png,file
+palette_button.png.import,file
+palette_button_fill.png,file
+palette_button_fill.png.import,file
+palette_stylebox_focus.tres,file
+palette_stylebox_hover.tres,file
+palette_stylebox_normal.tres,file
+palette_stylebox_pressedr.tres,file
+pixel_image.png,file
+pixel_image.png.import,file
+pl.po,file
+project.godot,file
+pt_BR.po,file
+remove_swatch_button.png,file
+remove_swatch_button.png.import,file
+remove_swatch_button_hover.png,file
+remove_swatch_button_hover.png.import,file
+ru.po,file
+splash.png,file
+splash.png.import,file
+swatch_drag_preview.png,file
+swatch_drag_preview.png.import,file
+vline_3x3.png,file
+zh_TW.po,file

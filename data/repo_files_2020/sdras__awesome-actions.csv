@@ -1,0 +1,11 @@
+name,type
+.github,dir
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+awesome-actions.png,file
+code-of-conduct.md,file
+contributing.md,file
+ideas.md,file
+lint.yml,file
+workflows,dir

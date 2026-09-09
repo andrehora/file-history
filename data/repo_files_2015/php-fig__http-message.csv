@@ -1,0 +1,11 @@
+name,type
+IncomingRequestInterface.php,file
+IncomingResponseInterface.php,file
+LICENSE,file
+MessageInterface.php,file
+OutgoingRequestInterface.php,file
+OutgoingResponseInterface.php,file
+README.md,file
+StreamableInterface.php,file
+composer.json,file
+src,dir

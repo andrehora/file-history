@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+CNAME,file
+Command.swift,file
+Config.swift,file
+LICENSE,file
+Makefile,file
+Package.resolved,file
+Package.swift,file
+Patcher.swift,file
+README.md,file
+Sources,dir
+WeChatTweak,dir
+_config.yml,file
+config.json,file
+main.swift,file

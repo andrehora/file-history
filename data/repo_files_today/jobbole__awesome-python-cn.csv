@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.gitkeep,file
+LICENSE,file
+Makefile,file
+README.md,file
+docs,dir
+mkdocs.yml,file

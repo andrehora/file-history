@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+Dockerfile,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+__init__.py,file
+__main__.py,file
+analysis.py,file
+colors.py,file
+howmanypeoplearearound,dir
+oui.py,file
+plotlyjs.py,file
+setup.py,file

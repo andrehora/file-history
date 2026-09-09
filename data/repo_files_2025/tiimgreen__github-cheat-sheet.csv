@@ -1,0 +1,11 @@
+name,type
+.github,dir
+.travis.yml,file
+CONTRIBUTING.md,file
+FUNDING.yml,file
+LICENSE,file
+README.ja.md,file
+README.ko.md,file
+README.md,file
+README.zh-cn.md,file
+README.zh-tw.md,file

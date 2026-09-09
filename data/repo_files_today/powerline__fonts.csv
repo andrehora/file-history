@@ -1,0 +1,241 @@
+name,type
+.gitignore,file
+3270,dir
+3270-Regular.ttf,file
+3270Condensed-Regular.ttf,file
+3270SemiCondensed-Regular.ttf,file
+50-enable-terminess-powerline.conf,file
+All.md,file
+Anonymice Powerline Bold Italic.ttf,file
+Anonymice Powerline Bold.ttf,file
+Anonymice Powerline Italic.ttf,file
+Anonymice Powerline.ttf,file
+AnonymousPro,dir
+AnonymousPro.md,file
+Arimo,dir
+Arimo Bold Italic for Powerline.ttf,file
+Arimo Bold for Powerline.ttf,file
+Arimo Italic for Powerline.ttf,file
+Arimo for Powerline.ttf,file
+BDF,dir
+CPMono,dir
+CPMono_v07 Black.otf,file
+CPMono_v07 Bold.otf,file
+CPMono_v07 ExtraLight.otf,file
+CPMono_v07 Light.otf,file
+CPMono_v07 Plain.otf,file
+Cousine,dir
+Cousine Bold Italic for Powerline.ttf,file
+Cousine Bold for Powerline.ttf,file
+Cousine Italic for Powerline.ttf,file
+Cousine for Powerline.ttf,file
+D2Coding,dir
+DejaVu Sans Mono Bold Oblique for Powerline.ttf,file
+DejaVu Sans Mono Bold for Powerline.ttf,file
+DejaVu Sans Mono Oblique for Powerline.ttf,file
+DejaVu Sans Mono for Powerline.ttf,file
+DejaVuSansMono,dir
+DejaVuSansMono.md,file
+Droid Sans Mono Dotted for Powerline.ttf,file
+Droid Sans Mono Slashed for Powerline.ttf,file
+Droid Sans Mono for Powerline.otf,file
+DroidSansMono,dir
+DroidSansMono.md,file
+DroidSansMonoDotted,dir
+DroidSansMonoSlashed,dir
+FiraMono,dir
+FiraMono.md,file
+FuraMono-Bold Powerline.otf,file
+FuraMono-Medium Powerline.otf,file
+FuraMono-Regular Powerline.otf,file
+Go Mono Bold Italic for Powerline.ttf,file
+Go Mono Bold for Powerline.ttf,file
+Go Mono Italic for Powerline.ttf,file
+Go Mono for Powerline.ttf,file
+GoMono,dir
+Hack,dir
+Hack-Bold.ttf,file
+Hack-BoldItalic.ttf,file
+Hack-Italic.ttf,file
+Hack-Regular.ttf,file
+Hack.md,file
+Inconsolata,dir
+Inconsolata Bold for Powerline.ttf,file
+Inconsolata for Powerline.otf,file
+Inconsolata-dz for Powerline.otf,file
+Inconsolata-g,dir
+Inconsolata-g for Powerline.otf,file
+Inconsolata-g.md,file
+Inconsolata.md,file
+InconsolataDz,dir
+InconsolataDz.md,file
+InputMono,dir
+InputMono.md,file
+LICENCE.TXT,file
+LICENCE.txt,file
+LICENSE,file
+LICENSE.txt,file
+LICENSE_OFL.txt,file
+LiberationMono,dir
+LiberationMono.md,file
+Literation Mono Powerline Bold Italic.ttf,file
+Literation Mono Powerline Bold.ttf,file
+Literation Mono Powerline Italic.ttf,file
+Literation Mono Powerline.ttf,file
+Meslo Dotted,dir
+Meslo LG L Bold Italic for Powerline.ttf,file
+Meslo LG L Bold for Powerline.ttf,file
+Meslo LG L DZ Bold Italic for Powerline.ttf,file
+Meslo LG L DZ Bold for Powerline.ttf,file
+Meslo LG L DZ Italic for Powerline.ttf,file
+Meslo LG L DZ Regular for Powerline.ttf,file
+Meslo LG L Italic for Powerline.ttf,file
+Meslo LG L Regular for Powerline.ttf,file
+Meslo LG M Bold Italic for Powerline.ttf,file
+Meslo LG M Bold for Powerline.ttf,file
+Meslo LG M DZ Bold Italic for Powerline.ttf,file
+Meslo LG M DZ Bold for Powerline.ttf,file
+Meslo LG M DZ Italic for Powerline.ttf,file
+Meslo LG M DZ Regular for Powerline.ttf,file
+Meslo LG M Italic for Powerline.ttf,file
+Meslo LG M Regular for Powerline.ttf,file
+Meslo LG S Bold Italic for Powerline.ttf,file
+Meslo LG S Bold for Powerline.ttf,file
+Meslo LG S DZ Bold Italic for Powerline.ttf,file
+Meslo LG S DZ Bold for Powerline.ttf,file
+Meslo LG S DZ Italic for Powerline.ttf,file
+Meslo LG S DZ Regular for Powerline.ttf,file
+Meslo LG S Italic for Powerline.ttf,file
+Meslo LG S Regular for Powerline.ttf,file
+Meslo Slashed,dir
+Meslo.md,file
+Monofur,dir
+Monofur Bold for Powerline.ttf,file
+Monofur Italic for Powerline.ttf,file
+Monofur for Powerline.ttf,file
+Monofur.md,file
+Noto Mono for Powerline.ttf,file
+NotoMono,dir
+NovaMono,dir
+NovaMono for Powerline.ttf,file
+PCF,dir
+PSF,dir
+ProFont,dir
+ProFont Bold For Powerline.ttf,file
+ProFont For Powerline.ttf,file
+README.markdown,file
+README.rst,file
+Roboto Mono Bold Italic for Powerline.ttf,file
+Roboto Mono Bold for Powerline.ttf,file
+Roboto Mono Italic for Powerline.ttf,file
+Roboto Mono Light Italic for Powerline.ttf,file
+Roboto Mono Light for Powerline.ttf,file
+Roboto Mono Medium Italic for Powerline.ttf,file
+Roboto Mono Medium for Powerline.ttf,file
+Roboto Mono Thin Italic for Powerline.ttf,file
+Roboto Mono Thin for Powerline.ttf,file
+Roboto Mono for Powerline.ttf,file
+RobotoMono,dir
+Source Code Pro Black for Powerline.otf,file
+Source Code Pro Bold for Powerline.otf,file
+Source Code Pro ExtraLight for Powerline.otf,file
+Source Code Pro Light for Powerline.otf,file
+Source Code Pro Medium for Powerline.otf,file
+Source Code Pro Powerline BlackItalic.otf,file
+Source Code Pro Powerline BoldItalic.otf,file
+Source Code Pro Powerline ExtraLightItalic.otf,file
+Source Code Pro Powerline Italic.otf,file
+Source Code Pro Powerline LightItalic.otf,file
+Source Code Pro Powerline MediumItalic.otf,file
+Source Code Pro Powerline SemiboldItalic.otf,file
+Source Code Pro Semibold for Powerline.otf,file
+Source Code Pro for Powerline.otf,file
+SourceCodePro,dir
+SourceCodePro.md,file
+Space Mono Bold Italic for Powerline.ttf,file
+Space Mono Bold for Powerline.ttf,file
+Space Mono Italic for Powerline.ttf,file
+Space Mono for Powerline.ttf,file
+SpaceMono,dir
+SpaceMono-Bold.ttf,file
+SpaceMono-BoldItalic.ttf,file
+SpaceMono-Italic.ttf,file
+SpaceMono-Regular.ttf,file
+Symbol Neu for Powerline.ttf,file
+SymbolNeu,dir
+Terminus,dir
+Tinos,dir
+Tinos Bold Italic for Powerline.ttf,file
+Tinos Bold for Powerline.ttf,file
+Tinos Italic for Powerline.ttf,file
+Tinos for Powerline.ttf,file
+Ubuntu Mono derivative Powerline Bold Italic.ttf,file
+Ubuntu Mono derivative Powerline Bold.ttf,file
+Ubuntu Mono derivative Powerline Italic.ttf,file
+Ubuntu Mono derivative Powerline.ttf,file
+UbuntuMono,dir
+UbuntuMono.md,file
+fontconfig,dir
+fonts.dir,file
+fonts.scale,file
+hack-specimen-for-Powerline.png,file
+install.ps1,file
+install.sh,file
+license.txt,file
+samples,dir
+ter-powerline-v12n.psf.gz,file
+ter-powerline-v14b.psf.gz,file
+ter-powerline-v14n.psf.gz,file
+ter-powerline-v14v.psf.gz,file
+ter-powerline-v16b.psf.gz,file
+ter-powerline-v16n.psf.gz,file
+ter-powerline-v16v.psf.gz,file
+ter-powerline-v18b.psf.gz,file
+ter-powerline-v18n.psf.gz,file
+ter-powerline-v20b.psf.gz,file
+ter-powerline-v20n.psf.gz,file
+ter-powerline-v22b.psf.gz,file
+ter-powerline-v22n.psf.gz,file
+ter-powerline-v24b.psf.gz,file
+ter-powerline-v24n.psf.gz,file
+ter-powerline-v28b.psf.gz,file
+ter-powerline-v28n.psf.gz,file
+ter-powerline-v32b.psf.gz,file
+ter-powerline-v32n.psf.gz,file
+ter-powerline-x12b.bdf,file
+ter-powerline-x12b.pcf.gz,file
+ter-powerline-x12n.bdf,file
+ter-powerline-x12n.pcf.gz,file
+ter-powerline-x14b.bdf,file
+ter-powerline-x14b.pcf.gz,file
+ter-powerline-x14n.bdf,file
+ter-powerline-x14n.pcf.gz,file
+ter-powerline-x16b.bdf,file
+ter-powerline-x16b.pcf.gz,file
+ter-powerline-x16n.bdf,file
+ter-powerline-x16n.pcf.gz,file
+ter-powerline-x18b.bdf,file
+ter-powerline-x18b.pcf.gz,file
+ter-powerline-x18n.bdf,file
+ter-powerline-x18n.pcf.gz,file
+ter-powerline-x20b.bdf,file
+ter-powerline-x20b.pcf.gz,file
+ter-powerline-x20n.bdf,file
+ter-powerline-x20n.pcf.gz,file
+ter-powerline-x22b.bdf,file
+ter-powerline-x22b.pcf.gz,file
+ter-powerline-x22n.bdf,file
+ter-powerline-x22n.pcf.gz,file
+ter-powerline-x24b.bdf,file
+ter-powerline-x24b.pcf.gz,file
+ter-powerline-x24n.bdf,file
+ter-powerline-x24n.pcf.gz,file
+ter-powerline-x28b.bdf,file
+ter-powerline-x28b.pcf.gz,file
+ter-powerline-x28n.bdf,file
+ter-powerline-x28n.pcf.gz,file
+ter-powerline-x32b.bdf,file
+ter-powerline-x32b.pcf.gz,file
+ter-powerline-x32n.bdf,file
+ter-powerline-x32n.pcf.gz,file
+uninstall.sh,file

@@ -1,0 +1,9 @@
+name,type
+.dockerignore,file
+.gitignore,file
+Dockerfile,file
+LICENSE,file
+README.md,file
+Vagrantfile,file
+docker-entrypoint.sh,file
+ufw-docker,file

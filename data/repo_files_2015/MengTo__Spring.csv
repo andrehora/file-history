@@ -1,0 +1,12 @@
+name,type
+BlurView.swift,file
+Data.swift,file
+DesignableButton.swift,file
+DesignableImageView.swift,file
+DesignableLabel.swift,file
+DesignableTextField.swift,file
+DesignableTextView.swift,file
+DesignableView.swift,file
+Misc.swift,file
+SpringAnimation.swift,file
+UnwindSegue.swift,file

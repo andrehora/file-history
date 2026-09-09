@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+CHANGELOG.md,file
+Dockerfile,file
+Dockerfile.pi,file
+LICENSE,file
+README.md,file
+dropShell.sh,file
+dropbox_uploader.sh,file
+testUnit.sh,file

@@ -1,0 +1,30 @@
+name,type
+!!-frontmatter.pdf,file
+!!-preface.pdf,file
+.github,dir
+00-intro.pdf,file
+01-recursion.pdf,file
+02-backtracking.pdf,file
+03-dynprog.pdf,file
+04-greedy.pdf,file
+05-graphs.pdf,file
+06-dfs.pdf,file
+07-mst.pdf,file
+08-sssp.pdf,file
+09-apsp.pdf,file
+0th edition,dir
+10-maxflow.pdf,file
+11-maxflowapps.pdf,file
+12-nphard.pdf,file
+1st edition,dir
+99-backmatter.pdf,file
+99-postscript.pdf,file
+Algorithms-JeffE-BW.pdf,file
+Algorithms-JeffE.pdf,file
+Chapters,dir
+ERRATA.md,file
+ISSUE_TEMPLATE,dir
+README.md,file
+error-report.md,file
+feature_request.md,file
+other-feedback.md,file

@@ -1,0 +1,16 @@
+name,type
+CMakeLists.txt,file
+Common,dir
+ELFLoader.cpp,file
+ELFLoader.h,file
+ELFSymbolDatabase.cpp,file
+ELFSymbolDatabase.h,file
+LICENSE,file
+LogManager.cpp,file
+LogManager.h,file
+MathUtils.h,file
+SonicUtils,dir
+Source,dir
+VM.cpp,file
+VM.h,file
+include,dir

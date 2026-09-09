@@ -1,0 +1,14 @@
+name,type
+.github,dir
+CloudflareSpeedTest.csv,file
+LICENSE,file
+README-FA.md,file
+README.md,file
+_worker.js,file
+addressesapi.txt,file
+addressescsv.csv,file
+addressesipv6api.txt,file
+socks5Data,file
+sub.png,file
+sync.yml,file
+workflows,dir

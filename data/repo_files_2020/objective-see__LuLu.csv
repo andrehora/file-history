@@ -1,0 +1,280 @@
+name,type
+.gitignore,file
+3rdParty,dir
+AboutWindow.xib,file
+AboutWindowController.h,file
+AboutWindowController.m,file
+AddRule.xib,file
+AddRuleWindowController.h,file
+AddRuleWindowController.m,file
+AlertWindow.xib,file
+AlertWindowController.h,file
+AlertWindowController.m,file
+Alerts.h,file
+Alerts.m,file
+AppDelegate.h,file
+AppDelegate.m,file
+AppIcon.appiconset,dir
+AppReceipt.h,file
+AppReceipt.m,file
+Assets.xcassets,dir
+Base.lproj,dir
+Baseline.h,file
+Baseline.m,file
+Cartfile,file
+Cartfile.resolved,file
+ConfigFiles,dir
+Configure,dir
+Configure.h,file
+Configure.m,file
+ConfigureWindowController.h,file
+ConfigureWindowController.m,file
+ConfigureWindowController.xib,file
+Contents.json,file
+FriendsAiro.imageset,dir
+FriendsMacPaw.imageset,dir
+FriendsMalwarebytes.imageset,dir
+FriendsSophos.imageset,dir
+GrayList.h,file
+GrayList.m,file
+Helper,dir
+Helper.m,file
+HelperComms.h,file
+HelperComms.m,file
+HelperInterface.h,file
+HelperInterface.m,file
+HelperListener.h,file
+HelperListener.m,file
+HyperlinkTextField.h,file
+HyperlinkTextField.m,file
+IDEWorkspaceChecks.plist,file
+Info.plist,file
+InstallerIcon.imageset,dir
+InstallerLuLuText.imageset,dir
+KextComms.h,file
+KextComms.m,file
+KextListener.h,file
+KextListener.m,file
+LICENSE.md,file
+Launchd.plist,file
+LoginItem Any.pdf,file
+LoginItem Dark.pdf,file
+LoginItem Light.pdf,file
+LoginItem StatusBar Active.pdf,file
+LoginItem StatusBar Inactive.pdf,file
+LoginItemAncestry.imageset,dir
+LoginItemIcon.imageset,dir
+LoginItemSigned.imageset,dir
+LoginItemSignedApple.imageset,dir
+LoginItemSignedUnknown.imageset,dir
+LoginItemStatusActive.imageset,dir
+LoginItemStatusInactive.imageset,dir
+LoginItemUnsigned.imageset,dir
+LoginItemVTIcon.imageset,dir
+LuLu Helper.entitlements,file
+LuLu Installer.entitlements,file
+LuLu.entitlements,file
+MainAppHeart.imageset,dir
+MainAppIcon.imageset,dir
+MainAppKext.imageset,dir
+MainAppLuLuText.imageset,dir
+MainAppPrefsMode.imageset,dir
+MainAppPrefsRules.imageset,dir
+MainAppPrefsUpdate.imageset,dir
+MainAppRulesAllow.imageset,dir
+MainAppRulesApple.imageset,dir
+MainAppRulesApps.imageset,dir
+MainAppRulesBlock.imageset,dir
+MainAppRulesExport.imageset,dir
+MainAppRulesImport.imageset,dir
+MainAppRulesSystem.imageset,dir
+MainAppRulesUser.imageset,dir
+MainMenu.xib,file
+NSApplicationKeyEvents.h,file
+NSApplicationKeyEvents.m,file
+ParentsWindowController.h,file
+ParentsWindowController.m,file
+Preferences.h,file
+Preferences.m,file
+Preferences.xib,file
+PrefsWindowController.h,file
+PrefsWindowController.m,file
+ProcListener.h,file
+ProcListener.m,file
+README.md,file
+Rule.h,file
+Rule.m,file
+RuleRow.h,file
+RuleRow.m,file
+RuleRowCell.h,file
+RuleRowCell.m,file
+Rules.h,file
+Rules.m,file
+Rules.xib,file
+RulesTable.h,file
+RulesTable.m,file
+RulesWindowController.h,file
+RulesWindowController.m,file
+Script,dir
+Shared,dir
+SigningInfoViewController.h,file
+SigningInfoViewController.m,file
+StatusBarItem.h,file
+StatusBarItem.m,file
+StatusBarPopover.xib,file
+StatusBarPopoverController.h,file
+StatusBarPopoverController.m,file
+Unknown any.pdf,file
+Unknown dark.pdf,file
+Unknown light.pdf,file
+Update.h,file
+Update.m,file
+UpdateWindow.xib,file
+UpdateWindowController.h,file
+UpdateWindowController.m,file
+UserClientShared.h,file
+VT Any-1.pdf,file
+VT Dark.pdf,file
+VT Light.pdf,file
+VirusTotal.h,file
+VirusTotal.m,file
+VirusTotalViewController.h,file
+VirusTotalViewController.m,file
+Welcome.xib,file
+WelcomeWindowController.h,file
+WelcomeWindowController.m,file
+XPCDaemon.h,file
+XPCDaemon.m,file
+XPCDaemonClient.h,file
+XPCDaemonClient.m,file
+XPCDaemonProto.h,file
+XPCListener.h,file
+XPCListener.m,file
+XPCProtocol.h,file
+XPCUser.h,file
+XPCUser.m,file
+XPCUserClient.h,file
+XPCUserClient.m,file
+XPCUserProto.h,file
+airo.png,file
+block Any.pdf,file
+block Dark.pdf,file
+block Light.pdf,file
+broadcastEvents.cpp,file
+broadcastEvents.hpp,file
+com.objective-see.lulu.plist,file
+configure,dir
+configure.sh,file
+configure.xcodeproj,dir
+configure.xcscheme,file
+consts.h,file
+contents.xcworkspacedata,file
+driver.cpp,file
+driver.hpp,file
+heart_dark.pdf,file
+heart_light-1.pdf,file
+heart_light.pdf,file
+helper.xcscheme,file
+icon_128x128.png,file
+icon_128x128@2x.png,file
+icon_16x16.png,file
+icon_16x16@2x.png,file
+icon_256x256.png,file
+icon_256x256@2x.png,file
+icon_32x32.png,file
+icon_32x32@2x.png,file
+icon_512x512.png,file
+images,dir
+kernelExtension,dir
+kernelExtension.xcodeproj,dir
+kext_dark.pdf,file
+kext_light-1.pdf,file
+kext_light.pdf,file
+launchDaemon,dir
+launchDaemon.xcodeproj,dir
+launchDaemon.xcscheme,file
+launchDaemonBundle,dir
+libprocInfo.a,file
+libs,dir
+logging.h,file
+logging.m,file
+loginItem,dir
+loginItem.xcodeproj,dir
+loginItem.xcscheme,file
+lulu.xcworkspace,dir
+luluIcon-1.pdf,file
+luluIcon.pdf,file
+luluIconDark.pdf,file
+luluIconLight.pdf,file
+luluIcon_dark.pdf,file
+luluText.pdf,file
+lulu_text-1.pdf,file
+lulu_text-2.pdf,file
+lulu_text.pdf,file
+macpaw.pdf,file
+main.h,file
+main.m,file
+mainApp,dir
+mainApp.xcodeproj,dir
+mainApp.xcscheme,file
+malwarebytes.pdf,file
+objectiveSeeLogo.png,file
+objectiveSeeText.png,file
+parents any.pdf,file
+parents dark.pdf,file
+parents light.pdf,file
+patrons.txt,file
+prefsMode Any.pdf,file
+prefsMode Dark.pdf,file
+prefsMode Light.pdf,file
+prefsRules Any.pdf,file
+prefsRules Dark.pdf,file
+prefsRules Light.pdf,file
+prefsUpdate Any.pdf,file
+prefsUpdate Dark.pdf,file
+prefsUpdate Light.pdf,file
+procInfo.h,file
+project.pbxproj,file
+project.xcworkspace,dir
+rules.cpp,file
+rules.hpp,file
+rulesAllow Any.pdf,file
+rulesAllow Dark.pdf,file
+rulesAllow Light.pdf,file
+rulesApple Dark.pdf,file
+rulesApple any-1.pdf,file
+rulesApple any.pdf,file
+rulesApps Light-1.pdf,file
+rulesApps Light-2.pdf,file
+rulesApps Light.pdf,file
+rulesExport dark.pdf,file
+rulesExport light-1.pdf,file
+rulesExport light.pdf,file
+rulesImport dark.pdf,file
+rulesImport light-1.pdf,file
+rulesImport light.pdf,file
+rulesSystem dark.pdf,file
+rulesSystem light-1.pdf,file
+rulesSystem light.pdf,file
+rulesUser Any.pdf,file
+rulesUser Dark.pdf,file
+rulesUser Light.pdf,file
+shared,dir
+signed Any.pdf,file
+signed Dark.pdf,file
+signed Light.pdf,file
+signedApple Any.pdf,file
+signedApple Dark.pdf,file
+signedApple Light.pdf,file
+socketEvents.cpp,file
+socketEvents.hpp,file
+sophos.png,file
+unsigned Any.pdf,file
+unsigned Dark.pdf,file
+unsigned Light.pdf,file
+userInterface.cpp,file
+userInterface.hpp,file
+utilities.h,file
+utilities.m,file
+xcschemes,dir
+xcshareddata,dir

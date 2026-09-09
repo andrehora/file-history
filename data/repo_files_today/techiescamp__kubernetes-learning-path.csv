@@ -1,0 +1,5 @@
+name,type
+.gitignore,file
+README.md,file
+architecture,dir
+garbage-collection.md,file

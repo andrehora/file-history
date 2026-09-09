@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+.travis.yml,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+cupp-example.gif,file
+cupp.cfg,file
+cupp.py,file
+test_cupp.py,file

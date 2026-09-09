@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE,file
+Makefile,file
+README.md,file
+git-standup,file
+installer.sh,file
+package.json,file
+snap,dir
+snapcraft.yaml,file

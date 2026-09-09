@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+.travis.yml,file
+HISTORY.md,file
+LICENSE,file
+README.md,file
+cookie.js,file
+fixtures,dir
+index.js,file
+memory.js,file
+package.json,file
+server.crt,file
+server.key,file
+session,dir
+session.js,file
+store.js,file
+test,dir

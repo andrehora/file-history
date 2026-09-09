@@ -1,0 +1,11 @@
+name,type
+.appends,dir
+.github,dir
+CODE_OF_CONDUCT.md,file
+README.md,file
+first-time-issue.yml,file
+labels.yml,file
+links.md,file
+stop-hacktoberfest-spam.yml,file
+sync-labels.yml,file
+workflows,dir

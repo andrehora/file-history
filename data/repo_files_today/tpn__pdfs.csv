@@ -1,0 +1,1984 @@
+name,type
+.github,dir
+.gitignore,file
+.site,dir
+100G Networking Technology Overview - Slides - Toronto (August 2016).pdf,file
+1980 - Minimal Perfect Hash Functions Made Simple (p17-cichelli).pdf,file
+1984 - Storing a Sparse Table with O(1) Worst Case Access Time (fks-perfecthash).pdf,file
+1986 - Finding Minimal Perfect Hash Functions (10.1.1.144.9650).pdf,file
+1987 - A Versatile Graph Structure for Edge-Oriented Graph Algorithms (Ebert1987AVD).pdf,file
+1989 - An Informal Analysis of Perfect Hash Function Search.pdf,file
+1990 - GPERF - A Perfect Hash Function Generator.pdf,file
+1992 - An Optimal Algorithm for Generating Minimal Perfect Hash Functions (CHM92) (10.1.1.51.5566).pdf,file
+1994 - Graph Theoretic Obstacles to Perfect Hashing (TR0257).pdf,file
+"1994 - Graphs, Hypergraphs and Hashing.pdf",file
+1996 - A Family of Perfect Hashing Methods (TR0242).pdf,file
+1999 - Hash and Displace - Efficient Evaluation of Minimum Perfect Hash Functions (10.1.1.148.7694).pdf,file
+2004 - The Bloomier Filter - An Efficient Data Structure for Static Support Lookup Tables (soda-rev04).pdf,file
+2005 - A Practical Minimal Perfect Hashing Method.pdf,file
+2006 - An Approach for Minimal Perfect Hash Functions for Very Large Databases (tr06).pdf,file
+2007 - Balanced Families of Perfect Hash Functions and Their Applications.pdf,file
+2007 - Simple and Space-Efficient Minimal Perfect Hash Functions (WADS07).pdf,file
+"2009 - Hash, Displace, and Compress (esa09).pdf",file
+2010 - Perfect Hash Families in Polynomial Time - Slides (552phf).pdf,file
+2013 - Cache-Oblivious Peeling of Random Hypergraphs - 2nd Dec 2013 (1312.0526).pdf,file
+2014 - Monotone Minimal Perfect Hashing - Searching a Sorted Table with O(1) Accesses.pdf,file
+"2016 - Fast Scalable Construction of (Minimal Perfect Hash) Functions - 22 Mar 2016, v2 (1603.04330).pdf",file
+2016 - Fast Scalable Construction of (Minimal Perfect Hash) Functions.pdf,file
+2017 - Fast and Scalable Minimal Perfect Hashing for Massive Key Sets (1702.03154).pdf,file
+2018 - Efficient Hashing with Lookups in two Memory Accesses (0407023v1).pdf,file
+2018 CppCon Unwinding the Stack - Exploring how C++ Exceptions work on Windows - James McNellis.pdf,file
+2019 - Constructing Minimal Perfect Hash Functions Using SAT Technology (1911.10099).pdf,file
+2019 - RecSplit - Minimal Perfect Hashing via Recursive Splitting (1910.06416).pdf,file
+2021 - PTHash - Revisiting FCH Minimal Perfect Hashing (2104.10402).pdf,file
+2022 - An Efficient Parallel Implementation of a Perfect Hashing Method for Hypergraphs (singhUcar-GrAPL2022).pdf,file
+2022 - Can Learned Models Replace Hash Functions (p532-sabek),file
+2022 - Perfect Hash Function Generation on the GPU with RecSplit.pdf,file
+2024 - ShockHash - Near Optimal-Space Minimal Perfect Hashing Beyond Brute Force (2310.14959v2).pdf,file
+37 Million Compilations - Investigating Novice Programming Mistakes in Large-Scale Student Data - 2015 (fp1187-altadmri).pdf,file
+"5-Level Paging and 5-Level EPT - Intel - Revision 1.0 (December, 2016).pdf",file
+"5-Level Paging and 5-Level EPT - Intel - Revision 1.1 (May, 2017).pdf",file
+"A Block-sorting Lossless Data Compression Algorithm - May 10th, 1994 (SRC-RR-124).pdf",file
+A Brief Introduction to Neural Networks - 2012 (neuronalenetze-en-zeta2-2col-dkrieselcom).pdf,file
+A Brief Introduction to the Standard Annotation Language (SAL) - 2006.pdf,file
+"A Brief Tutorial on Database Queries, Data Mining, and OLAP - 2006 (hamel-197-manuscript-final).pdf",file
+A Case Study in Optimizing HTM-Enabled Dynamic Data Structures - Patricia Tries (2015).pdf,file
+A Catalogue of Optimizing Transformations (1971-allen-catalog).pdf,file
+A Comparison of Programming Languages in Economics (16-Jun-2014).pdf,file
+A Comparison of Software and Hardware Techniques for x86 Virtualization - Oct 2015 (asplos235_adams).pdf,file
+A Compilation Target for Probabilistic Programming Languages - 2014 (paige14).pdf,file
+A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort - 2014 (sigmod14I).pdf,file
+A Compressed Suffix Tree Based Implementation with Low Peak Memory Usage (2014).pdf,file
+A Course in Machine Learning - 2015 (ciml-v0_9-all).pdf,file
+A Course of Pure Mathmatics (1921).pdf,file
+A Crash Course in x86 Assembly for Reverse Engineers - SensePost (2014).pdf,file
+A Detailed Analysis of the Component Object Model - 1989 (Muijadi_okstate_0664M_1681).pdf,file
+A Dive in to Hyper-V Architecture and Vulnerabilities (2018).pdf,file
+A Dive in to Hyper-V Architecture and Vulnerabilities - Slides (BlackHat 2018).pdf,file
+A Durable Main-Memory Index Using Flash (2011).pdf,file
+A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table - 1984 (P245).PDF,file
+A Family of Perfect Hashing Methods - 1996 (TR0242).pdf,file
+A Fast x86 Implementation of Select - 2017 (1706.00990).pdf,file
+"A Fast, Minimal Memory, Consistent Hash Algorithm (1406.2294).pdf",file
+"A Fast, Minimal Memory, Consistent Hash Algorithm (1406.2294v1).pdf",file
+A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization - MIT - 2015 (1508.04874).pdf,file
+A Few Billion Lines of Code Later - Using Static Analysis to Find Bugs in the Real World - ACM - 2010 (BLOC-coverity).pdf,file
+A Few Experiments with Intel's Cache Allocation Technology - Slides (2015).pdf,file
+A File Comparison Program - 1985 (10.1.1.189.70).pdf,file
+A File is Not a File - Understanding IO Behavior of Apple Desktop Applications (2011).pdf,file
+A First Encounter with Machine Learning - 2011 (IntroMLBook).pdf,file
+A Forensic Analysis of CSG 11 Encounter with an Anomalous Aerial Vehicle (2019).pdf,file
+A Framework for Building Extensible C++ Class Libraries - 1993.pdf,file
+A GPU-friendly Skiplist Algorith - 2014 (GPUSkiplist).pdf,file
+A History of Modern 64-bit Computing - Feb 2007 (CSEP590A).pdf,file
+A Journey in Creating an Operating System Kernel - The 539Kernel Book (Nov 2022).pdf,file
+A Little Journey Inside Windows Memory (2009).pdf,file
+A Locality-Sensitive Hash for Real Vectors - 2010 (10.1.1.215.7690).pdf,file
+A Lock-Free Wait-Free Hash Table - Slides - 2007 (070221_LockFreeHash).pdf,file
+A Look at Intel's Dataplane Development Kit (2014).pdf,file
+"A Malloc Tutorial (Feb 16, 2009).pdf",file
+A Mathematical Theory of Communication (1948).pdf,file
+A Mathematician's Lament - Paul Lockhart (2008).pdf,file
+A Method for the Construction of Minimum-Redundancy Codes - Huffman (1952).pdf,file
+A NUMA API for Linux - Novell (2005).pdf,file
+A Nanopass Framework for Compiler Education (2005).pdf,file
+A Neural Probabilistic Language Model - 2003 (bengio03a).pdf,file
+A New Algorithm for Data Compression (1994).pdf,file
+A New Basis for Shifters in General-Purpose Processors for Existing and Advanced Bit Manipulations - 2009 (IEEE_TC09_NewBasisForShifters).pdf,file
+A Novel Hybrid Quicksort Algorithm Vectorized using AVX-512 on Intel Skylake (1704.08579).pdf,file
+A Novel Hybrid Quicksort Algorithm Vectorized using AVX-512 on Intel Skylake - 2017 (Paper_44-A_Novel_Hybrid_Quicksort_Algorithm_Vectorized).pdf,file
+A Parallel Page Cache- IOPS and Caching for Multicore Systems (2012).pdf,file
+A Pattern Language - Alexander (1977).pdf,file
+A PlusCal User's Manual - C-Syntax Version 1.8 (31 Aug 2018).pdf,file
+A Practical Guide to Support Vector Classification (2010).pdf,file
+A Practical Minimal Perfect Hashing Method (2005).pdf,file
+A Primer on Memory Consistency and Cache Coherence - 2011 (10.1.1.225.9278).pdf,file
+A Primer on Memory Consistency and Cache Coherence - 2nd Edition (2020).pdf,file
+A Probabilistic Theory of Deep Learning (1504.00641v1).pdf,file
+A Proposal for Hardware Assisted Arithmetic Overflow Detection - 2010 - Slides (Mihocka-Troeger-CGO-WISH-2010_final).pdf,file
+A Proposal for Hardware Assisted Arithmetic Overflow Detection for Array and Bitfield Operations - 2010 (LazyOverflowDetect_Final).pdf,file
+A Quick Guide To LaTeX (2017).pdf,file
+A Relational Model of Data for Large Shared Data Banks - E.F. Codd (1970).pdf,file
+A Reliable Randomized Algorithm for the Closest-Pair Problem - 1997 (CP-11.4.1997).pdf,file
+A Scalable Concurrent malloc Implementation for FreeBSD - 2006 (jemalloc).pdf,file
+A Scalable Lock-free Stack Algorithm (2004).pdf,file
+A Scalable and Explicit Event Delivery Mechanism for UNIX (1999).pdf,file
+A Sense of Self for Unix Processes - 1996 (ieee-sp-96-unix).pdf,file
+A Seven-Dimensional Analysis of Hashing Methods and its Implications on Query Processing - 2015 (p249-richter).pdf,file
+A Study of Wheat and Chaff in Source Code (1502.01410v1).pdf,file
+A Survey of Rollback-Recovery Protocols in Message-Passing Systems - 1996 (10.1.1.52.4299).pdf,file
+A Systematic Evaluation of Transient Execution Attacks and Defenses - 15th May 2019 (1811.05441).pdf,file
+A Theoretical Framework for Back-Propagation (2001).pdf,file
+A Tool for the Symbolic Execution of Linux Binaries - PySymemu - 2013 (Slides).pdf,file
+A Trip Through The Graphics Pipeline - All (2011).docx,file
+A Trip Through The Graphics Pipeline - All (2011).pdf,file
+A Trip Through The Graphics Pipeline - All - 2011 (Short Version).pdf,file
+A Trip Through The Graphics Pipeline - All Huge (2011).pdf,file
+A Trip Through The Graphics Pipeline - Index (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 1 - Introduction - The Software Stack (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 10 - Geometry Shaders (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 11 - Stream-Out (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 12 - Tessellation (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 13 - Compute Shaders (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 2 - GPU Memory Architecture and the Command Processor (2011).pdf,file
+"A Trip Through The Graphics Pipeline - Part 3 - 3D Pipeline Overview, Vertex Processing (2011).pdf",file
+A Trip Through The Graphics Pipeline - Part 4 - Texture Samplers (2011).pdf,file
+"A Trip Through The Graphics Pipeline - Part 5 - Primitive Assembly, Clip and Cull, Projection, and Viewport Transform (2011).pdf",file
+A Trip Through The Graphics Pipeline - Part 6 - (Triangle) Rasterization and Setup (2011).pdf,file
+"A Trip Through The Graphics Pipeline - Part 7 - Z Stencil Processing, 3 Different Ways (2011).pdf",file
+A Trip Through The Graphics Pipeline - Part 8 - Pixel Processing (Fork Phase) (2011).pdf,file
+A Trip Through The Graphics Pipeline - Part 9 - Pixel Processing (Join Phase) (2011).pdf,file
+A Truly Concurrent Semantics for the K Framework Based on Graph Transformations - Slides (serbanuta-rosu-2012-icgt-slides).pdf,file
+A Tunable Compression Framework for Bitmap Indices - 2014 (Guzun_ICDE_2014).pdf,file
+"A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning - 12th Dec 2016 (bayopt).pdf",file
+A Universal Approximation Theorem of Deep Neural-Networks for Expressing Probability Distributions (2020).pdf,file
+A Versatile Graph Structure for Edge-Oriented Graph Algorithms - 1987 (Ebert1987AVD).pdf,file
+A Very Fast Substring Search Algorithm - 1999 (p132-sunday).pdf,file
+"A Wavelet Tree Based FM-Index for Biological Sequences in SeqAn (January 30, 2012).pdf",file
+A Way Forward in Parallelising Dynamic Languages - 2014 (PyPy Position Paper).pdf,file
+A comparison of SPDY and HTTP performance - Microsoft Research (2012).pdf,file
+A comprehensive study of Convergent and Commutative Replicated Data Types (2011).pdf,file
+A note on the algebra of CuTe Layouts (2024-01).pdf,file
+"A study of code abstraction (Patrick Lambert - Oct 15th, 2014).pdf",file
+ACPI 6.3 Final (30 Jan 2019).pdf,file
+AIX43_f.gif,file
+AIX43_h.gif,file
+AIX43_j.gif,file
+AMD - AMD64 Archictecture Programmer's Manual - Volume 4 - 128-bit and 256-bit Media Instructions - Rev 3.23 - Feb 2019 (26568).pdf,file
+AMD - AMD64 Architecture Programmer's Manual - Volume 1 - Application Programming - Rev 3.22 - Dec 2017 (24592).pdf,file
+AMD - AMD64 Programmer's Manual - Volume 2 - System Programming - Rev 3.30 - Sept 2018 (24593).pdf,file
+AMD - AMD64 Programmer's Manual - Volume 3 - General Purpose and System Instructions - Rev 3.26 - May 2018 (24594).pdf,file
+"AMD - BIOS and Kernel Developer's Guide (BKDG) for AMD Family 15h Models 70h-7Fh Processors - Rev 3.09 - June 20th, 2018 (55072).pdf",file
+AMD - CPUID (2010).pdf,file
+"AMD - GCN3 Instruction Set Architecture - Graphics Core Next Architecture, Generation 3 (Revision 1.0, March 2015).pdf",file
+AMD - Open-Source Register Reference for AMD Family 17h Processors - Models 00h-2Fh - Rev 3.03 July 2018 (56255_3_03).PDF,file
+"AMD - Preliminary Processor Programming Reference (PPR) for AMD Family 17h Models 00h-0Fh Processors - Rev 1.14 - April 15th, 2017 (54945).pdf",file
+AMD - Software Optimization Guide for AMD Family 15h Processors - Rev 3.08 - Jan 2014 (47414_15h_sw_opt_guide).pdf,file
+AMD - System Programming - 2012 (24593).pdf,file
+"AMD64 - Software Optimization Guide for AMD64 Processors (25112, r3.06, Sep-2005).PDF",file
+"AMD64 Architecture Programmer's Manual - Volume 1 - Application Programming (24592, r3.21, Oct-2013).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 2 - System Programming (24593, r3.24, Oct-2013).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 2 - System Programming (24593, r3.25, Jun-2015).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 3 - General-Purpose and System Instructions (24594, r3.21, Oct-2013).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 3 - General-Purpose and System Instructions (24594, r3.22, Jun-2015).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 3 - General-Purpose and System Instructions (24594, r3.25, Dec-2017).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 4 - 128-Bit and 256-Bit Media Instructions (26568, r3.18, Oct-2013).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 4 - 128-Bit and 256-Bit Media Instructions (26568, r3.19, Jun-2015).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 5 - 64-Bit Media and x87 Floating-point Instructions (26569, r3.12, Mar-2012).pdf",file
+"AMD64 Architecture Programmer's Manual - Volume 5 - 64-Bit Media and x87 Floating-point Instructions (26569, r3.13, May-2013).pdf",file
+ARIES - A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging (1992).pdf,file
+ARM - Instruction Set Quick Reference Card (QRC0001_UAL.)pdf (2007).pdf,file
+ASLR on the Line - Practical Cache Attacks on the MMU - 2017 (anc_ndss17).pdf,file
+ATOM - A System for Building Customized Program Analysis Tools - 1994.pdf,file
+Abstract Algebra - 2016 (aata-20160809-sage-7.3).pdf,file
+Abstract Rendering - Out-of-core Rendering for Information Visualization (2014).pdf,file
+"Abusing Mach on Mac OS X - May, 2006 (uninformed_v4a3).pdf",file
+Accelerating Network Receive Processing - Intel IO Acceleration Technology - 2005 (ols2005v1-pages-289-296).pdf,file
+Achieving Full-Motion Video on the Nintnedo 64 -GDM (September 2000).pdf,file
+Adam - A Method for Stochastic Optimization (1412.6980v9).pdf,file
+Adaptive Insertion Policies for High Performance Caching (ISCA-2007-Qureshi-SetDuelingControl).pdf,file
+Adaptive Ray Packet Reordering - 2008 (reorder_rt08).pdf,file
+Adaptive String Dictionary Compression in In-Memory Column-Store Database Systems (2014).pdf,file
+Adding Lock Elision to Linux - Slides (2012).pdf,file
+AddressSanitizer - A Fast Address Sanity Checker - 2012 (atc12-final39).pdf,file
+Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams - 17th Dec 2012 (1212.3964v1).pdf,file
+Advanced Data Structures - MIT 6.851 (2012).pdf,file
+Advanced Topics in CUDA - Slides (2011).pdf,file
+Advances in Cloud-Scale Machine Learning for Cyber-Defense - Russinovich 2017 (exp-t11-advances-in-cloud-scale-machine-learning-for-cyber-defense).pdf,file
+"Advances in Memory Management for Windows - October 12, 2007 (136_MemMgt).pdf",file
+Adversarial Reprogramming of Neural Networks (1806.11146v2).pdf,file
+Affinity Accept - Improving Network Connection Locality on Multicore Systems (2012).pdf,file
+Agner Fog - C++ vector class library (2013).pdf,file
+Agner Fog - C++ vector class library v2 (2019).pdf,file
+Agner Fog - Calling Conventions for different C++ compilers and operating systems (2013-09-04).pdf,file
+Agner Fog - Calling Conventions for different C++ compilers and operating systems (2017-05-01).pdf,file
+Agner Fog - Instruction Tables (2013-04-03).pdf,file
+Agner Fog - Instruction Tables (2018-04-09).pdf,file
+Agner Fog - Instruction Tables (2018-04-09).xlsx,file
+"Agner Fog - Microarchitecture of Intel, AMD and VIA CPUs - An optimization guide for assembly programmers and compiler makers (2013-09-04).pdf",file
+"Agner Fog - Microarchitecture of Intel, AMD and VIA CPUs - An optimization guide for assembly programmers and compiler makers (2018-04-09).pdf",file
+Agner Fog - Optimizing Software in C++ (2014-08-07).pdf,file
+Agner Fog - Optimizing Software in C++ (2017-05-02).pdf,file
+Agner Fog - Optimizing Subroutines in Assembly Language - An optimization guide to x86 platforms (2013-09-28).pdf,file
+Agner Fog - Optimizing Subroutines in Assembly Language - An optimization guide to x86 platforms (2017-05-01).pdf,file
+"Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning - 2019 (math-deep).pdf",file
+Algorithms for Random 3-SAT (2008).pdf,file
+"Algorithms for Routing Lookups and Packet Classification - PhD Thesis (Pankaj Gupta, 2000).pdf",file
+"Alice's Adventures in a Differentiable Wonderland - A Primer on Designing Neural Networks - Volume 1 - A Tour of the Land (May 13, 2024).pdf",file
+Allocation Removal by Partial Evaluation in a Tracing JIT - 2010 (bolz-allocation-removal).pdf,file
+Almost Random Graphs with Simple Hash Functions - Slides (2007).pdf,file
+Alpha AXP Architecture - 1992 (vol4num4art1).pdf,file
+"Alternating Coding and its Decoder Architectures for Unary-Prefixed Codes - PhD Thesis, Shang Xue (2005).pdf",file
+An Adaptive Hash Join Algorithm for Multiuser Environments - 1990 (P186).pdf,file
+An Approach for Minimal Perfect Hash Functions for Very Large Databases - 2006 (tr06).pdf,file
+An Elegant Algorithm for the Construction of Suffix Arrays (2014).pdf,file
+An Evaluation of Network Stack Parallelization Strategies in Modern Operating Systems (2006).pdf,file
+"An Experimental Exploration of Marsaglia's Xorshift Generators, Scrambled - 13 Oct 2016 (1402.6246).pdf",file
+An Exploration of Using the Intel AVX2 Gather Load Instructions for Vectorised Image Processing - 2018 (190046503).pdf,file
+An In-Depth Analysis of Disassembly on Full-Scale x86-x64 Binaries - 2016 (sec16_paper_andriesse).pdf,file
+An Informal Analysis of Perfect Hash Function Search (1989).pdf,file
+An Introduction To Statistical Learning with Applications in R - 2015 (ISLR Sixth Printing).pdf,file
+An Introduction To Statistical Learning with Applications in R - 2017 (ISLR Seventh Printing).pdf,file
+An Introduction to CUDA-OpenCL and Graphics Processors (CS267-GPUs-2014).pptx,file
+An Introduction to Computational Networks and the Computational Network Toolkit - Microsoft - 2016 (CNTKBook-20160121).pdf,file
+"An NUMA API for Linux - Andi Kleen, Aug 2004.pdf",file
+An Object-Oriented Random-Number Package with Many Long Streams and Substreams - 2000 (streams4).pdf,file
+An Optimal Algorithm for Generating Minimal Perfect Hash Functions - 1992 (10.1.1.51.5566).pdf,file
+An Overview of Linux Kernel Locking Improvements (August 2014).pdf,file
+An Overview of the Singularity Project (tr-2005-135).pdf,file
+Analysing the Performance of GPU Hash Tables for State Space Exploration - 2017 (1712.09494).pdf,file
+Analysis of B-tree Data Structure and its Usage in Computer Forensics - 2010 (484192.B-tree).pdf,file
+Analysis of GS protections in Microsoft Windows Vistal - Symantec (2007).pdf,file
+"Analyzing Contextual Bias of Program Execution on Modern CPUs (Lars Kirkholt Melhus, NTNU, June 2013).pdf",file
+Analyzing Dynamic Hypergraphs with Parallel Aggregated Ordered Hypergraph Visualization - 2021 (Paohvis).pdf,file
+Analyzing GPGPU Pipeline Latency - Poster - 2014 (poster_andresch_acaces2014).pdf,file
+Analyzing General Purpose Computing Performance on GPU - Thesis (2015).pdf,file
+Analyzing Runtime and Size Complexity of Integer Programs - Microsoft Research (2016).pdf,file
+Analyzing and Exploiting Branch Mispredictions in Microcode - 2025 (2501.12890v1).pdf,file
+Analyzing your game performance using Event Tracing for Windows (2016).pdf,file
+Anatomy of High-Performance Matrix Multiplication - 2008 (gotoPaper).pdf,file
+"Answering Reachability Queries on Large Directed Graphs - INF-SCR-10-10 (September, 2010).pdf",file
+Anti-Debugging Reference - Peter Ferrie (4 May 2011).pdf,file
+"Apache Parquet - Open, Standard, Efficient Columnar Storage - Antoine Pitrou - Slides (2024).pdf",file
+Applications of Finite Automata Representing Large Vocabularies - 1993 (10.1.1.56.5272).pdf,file
+Applications of Finite Geometry in Coding Theory and Cryptography (2011).pdf,file
+Applying the Proactor Pattern to High-Performance Web Servers (1998).pdf,file
+Approximate Hypergraph Partitioning and Applications (2007).pdf,file
+Architectural Support for SWAR Text Processing with Parallel Bit Streams - The Inductive Doubling Principle - 2009 (p337-cameron).pdf,file
+Architecture of a Database System - 2007 (fntdb07-architecture).pdf,file
+"Array Layouts for Comparison-based Searching (March 14, 2017).pdf",file
+"Array Layouts for Comparison-based Searching (September, 2015).pdf",file
+Array programming with NumPy - Nature - 2020 (s41586-020-2649-2).pdf,file
+Art Of Intel x86 Assembly.pdf,file
+As If Summoned from the Void - The Life of Alexandre Grothendieck - 2004 (fea-grothendieck-part2).pdf,file
+Asim - A Performance Model Framework (2002.02.computer.asim).pdf,file
+AsmDB - Understanding and Mitigating Front-End Stalls in Warehouse-Scale Computers (2019).pdf,file
+Aspects Related to Data Access and Transfer in CUDA - Slides - 2014 (TR-2014-09).pdf,file
+Aspects Related to Data Access and Transfer in CUDA - Slides - 2014 (TR-2014-09).pptx,file
+Assembly Language for Beginners - 2018 (AL4B-EN).pdf,file
+Assessing the Relationship between Software Assertions and Code Quality - An Empirical Investigation (tr-2006-54).pdf,file
+Assessment of Windows Vista Kernel-Mode Security - Matthew Conover - 2006 (Symantec).pdf,file
+AstroClearNet - Deep image prior for multi-frame astronomical image restoration - 2025 (1-s2.0-S2213133725000721-main).pdf,file
+Asynchronous Teams - Cooperation Schemes for Autonomous Agents (1996).pdf,file
+Attacking the Windows Kernel - 2007.pdf,file
+Attention Is All You Need - 2017 (1706.03762).pdf,file
+AutoML - A Survey of State-of-the-Art (1908.00709v6).pdf,file
+AutoML - Chapter 01 - Hyperparameter Optimization (2018).pdf,file
+Automated Instruction Stream Throughput Prediction for Intel and AMD Microarchitectures - 2018 (1809.00912).pdf,file
+Automatic Self-Allocating Threads on an SGI Challenge - 1996 (10.1.1.37.3403).pdf,file
+Automatically Proving Termination and Memory Safety for Programs with Pointer Arithmetic - Microsoft Research (2016).pdf,file
+Avoiding AVX to SSE Transition Penalties (2011).pdf,file
+Azul Java - A Lock-Free Wait-Free Hash Table - 2021 (070221_LockFreeHash).pdf,file
+"B-trees, Shadowing, and Clones (2007).pdf",file
+BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding (2018).pdf,file
+BGP in 2013 (and a bit of 2014) - Slides (156-2014-05-12-bgp2013).pdf,file
+BIOS and Kernel Developer's Guide for AMD Athlon 64 and AMD Opteron Processors - r3.30 Feb 2006.pdf,file
+"BLAKE2 - Simpler, Smaller, Fast as MD5 (2013-01-29).pdf",file
+BPF - In-memory Virtual Machine - 2015 (bpf_collabsummit_2015feb20).pdf,file
+"Background, Motivation, and a Retrospective View of the BLAS - 1999 (Lawson_BLAS).pdf",file
+Backward Search FM-Index (Full-text Index in a Minute Space) - Slides (2016).pdf,file
+Backward Search FM-Index (Full-text Index in a Minute Space) - Slides.ppt,file
+Balanced Families of Perfect Hash Functions and Their Applications - 2007.pdf,file
+Bash Redirections - Cheat Sheet (2012).pdf,file
+Basic Linear Algebra Subprograms for Fortran Usage - BLAS (1979).pdf,file
+Basic Performance Measurements of the Intel Optane DC Persistent Memory Module - 2019 (1903.05714v3).pdf,file
+Basics of Compiler Design - Anniversary Edition (2010).pdf,file
+Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift (1502.03167v3).pdf,file
+Battle of SKM and IUM - How Windows 10 Rewrites OS Architecture - Alex Ionescu - 2015 (blackhat2015).pdf,file
+Bayesian Data Analysis - Third Edition (13th Feb 2020).pdf,file
+Bayesian Reasoning and Machine Learning - 2015 (181115).pdf,file
+"BeOS - CS-450-1 - Operating Systems, Fall 2003.doc",file
+Benchmarking a B-tree Compression Method (2009).pdf,file
+Benefits of IO Acceleration Technology in Clusters (2007).pdf,file
+Best Practices for Gathering Optimizer Statistics for Oracle 12c (June 2013).pdf,file
+Best Practices for Vectorization - Getting Ready for Intel AVX-512 (2015).pdf,file
+Better Bitmap Performance with Roaring Bitmaps (2014).pdf,file
+Better Performance at Lower Occupancy - Slides - 2010 (volkov10-GTC).pdf,file
+Better with Fewer Bits - Improving the Performance of Cardinality Estimation of Large Data Streams - 2017 (INFOCOM2017).pdf,file
+Beyond Block IO - Rethinking Traditional Storage Primitives - 2011 (ouyangx-hpca2011).pdf,file
+Beyond Block IO - Rethinking Traditional Storage Primitives - 2011 (ouyangx-hpca2011-slides).pdf,file
+Biased Reference Counting - Minimizing Atomic Operations in Garbage Collection - 2018 (3243176.3243195).pdf,file
+Big Data - New Tricks for Econometrics (2014).pdf,file
+BigQuery Technical Whitepaper - Google (2012).pdf,file
+Binarized Neural Networks - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 - 2016 (1602.02830v3).pdf,file
+Binarized Neural Networks- Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 - 2016 (1602.02830v3).pdf,file
+Binary Coding (2017).pdf,file
+Binary Combinatorial Coding (2003).pdf,file
+Binary Search Tree with SIMD Bandwidth Optimizations Using SSE - 2012 (Preso06-SIMDTree).pdf,file
+Bipartite ShockHash - Pruning ShockHash Search for Efficient Perfect Hashing - 2023 (2310.14959).pdf,file
+Bit Operations (Ray Seyfarth 2011).pdf,file
+"BitPath - Label Order Constrained Reachability Queries over Large Graphs - 1203.2886 (13th March, 2012).pdf",file
+Bitcoin - A Peer-to-Peer Electronic Cash System (2008).pdf,file
+Bitmap Graphics and Bitblit - Course Notes - SIGGRAPH 1984 (pike84bitblt).pdf,file
+Bitmap Graphs SIGGRAPH84 Course Notes - 1984 (pike84bitblt).pdf,file
+Bitmap Index Design Choices and Their Performance Implications - 2007 (LBNL-62756).pdf,file
+Bitmap Index Design and Evaluation - 1998 (P355).pdf,file
+Bitmap Indexing and Related Techniques - Slides (2003).pdf,file
+Bitmap Indices for Data Warehouses (2007).pdf,file
+Blackout - What Really Happened - Slides (2007).pdf,file
+Blade - A Data Center Garbage Collector - 2015 (1504.02578).pdf,file
+Blogel - A Block-Centric Framework for Distributed Computation on Real-World Graphs (2014).pdf,file
+Boosting Vector Calculus with the Graphical Notation - 3 Nov 2019 (1911.00892).pdf,file
+Bounds Checking on the GPU - Futhark - 2020 (hlpp20).pdf,file
+Branch Prediction and the Performance of Interpreters - Don't Trust the Folklore - 2013 (RR-8405).pdf,file
+Branch Prediction with Neural Networks - Hidden layers and Recurrent Connections.pdf,file
+Branch and Data Herding - Reducing Control and Memory Divergence for Error-tolerant GPU Applications - 2012 (tmm12_preprint).pdf,file
+BrandLogoMsdn.png,file
+"Brief Calculus - Benjamin Crowell  - Nov 10th, 2015.pdf",file
+Bringing SIMD-128 to JavaScript - 2014 (TC-39).pdf,file
+Broadword Implementation of Parenthesis Queries (2013).pdf,file
+"Broadword Implementation of Rank-Select Queries (Nov 19, 2014).pdf",file
+Brook for GPUs - Stream Computing on Graphics Hardware - Paper (2004).pdf,file
+Brook for GPUs - Stream Computing on Graphics Hardware - Slides (2004).pdf,file
+Bugs as Deviant Behavior - A General Approach to Inferring Errors in Systems Code - ACM - 2001 (deviant-sosp-01).pdf,file
+Build Systems a la Carte - 2018 (build-systems-5ab0f42d0f937).pdf,file
+Building R Packages - An Introduction (2012).pdf,file
+Building a Bw-Tree Takes More Than Just Buzz Words - 2018 (mod342-wangA).pdf,file
+Bumper Sticker Computer Science (1985).pdf,file
+"Burrows-Wheeler Transform and FM Index - Slides - 2014 (Ben Langmead, Johns Hopkins).pdf",file
+Bypass Control Flow Guard Comprehensively - 2015 (us-15-Zhang).pdf,file
+Bypass Control Flow Guard Comprehensively - Slides (2015).pdf,file
+C Cheat Sheet - 2015 (ashlyn-black_c-reference).pdf,file
+C++ Design Patterns for Low-Latency Applications Including High-Frequency Trading (2309.04259v1).pdf,file
+C++ Standard - 2012-01-16 - Working Draft (N3337).pdf,file
+C++14 - Working Draft - 2013 (N3797).pdf,file
+C++17 Language Features Reference Card (2019).pdf,file
+C++20 Reference Card - 29th Jan 2020.pdf,file
+CAF - The C++ Actor Framework for Scalable and Resource-efficient Applications - ACM 2014 (ageresplash2014_submission_5).pdf,file
+CASEVision - ClearCase Administration Guide - 1994 (007-1774-020).pdf,file
+CK-12 Probability and Statistics Advanced - Second Edition (2014).pdf,file
+CORFU - A Shared Log Design for Flash Clusters (2012).pdf,file
+COZ - Finding Code that Counts with Causal Profiling - 2015 (090-curtsinger).pdf,file
+COZ - Finding Code that Counts with Causal Profiling - 2015 (UM-CS-2015-008).pdf,file
+COZ - Finding Code that Counts with Causal Profiling - Slides (2015).pdf,file
+CPU Caches - Slides (2017).pdf,file
+CS195V Brown - Week 1 - Advanced GPU Programming - 2012 (Intro).pdf,file
+CS195V Brown - Week 10 - CUDA Part 1 - Slides (2012).pdf,file
+CS195V Brown - Week 11 - CUDA Part 2 - Slides (2012).pdf,file
+CS195V Brown - Week 2 - Modern OpenGL - Slides (2012).pdf,file
+CS195V Brown - Week 3 - GLSL Programming - Slides (2012).pdf,file
+CS195V Brown - Week 4 - Noise Functions - Slides (2012).pdf,file
+CS195V Brown - Week 6 - Image Samplers and Atomic Operations - Slides (2012).pdf,file
+CS195V Brown - Week 7 - Fluids - Slides (2012).pdf,file
+CS195V Brown - Week 8 - Materials and BRDFs - Slides (2012).pdf,file
+CS195V Brown - Week 9 - GPU Architecture and Other Shading Languages - Slides (2012).pdf,file
+CUDA - CSE 591 - GPU Programming - Using CUDA in Practice - 2015 (Slides).pdf,file
+CUDA - CUDA Streams Best Practices - Slides - 2014 (S4158).pdf,file
+CUDA - Cooperative Groups - GTC 2017 (s7622-Kyrylo-perelygin-robust-and-scalable-cuda).pdf,file
+"CUDA - Lecture 4 - Warp Shuffles, and Reduction and Scan Operations - 2023 (Oxford).pdf",file
+CUDA - Quick Reference (2012).pdf,file
+CUDA Asynchronous Memory Usage and Execution - 2010 (cuda_05_ykhung).pdf,file
+CUDA Best Practices - 2020 (Slides).pdf,file
+CUDA C Programming Guide - 12.9 (2025).pdf,file
+CUDA C Programming Guide v12.1 (Feb 28 2023).pdf,file
+"CUDA C Programming Guide v8.0 - Design Guide - September, 2016 (PG-02829-001_v8.0).pdf",file
+CUDA C and C++ Streams and Concurrency - NVIDIA - Slides (2012).pdf,file
+CUDA Debugging with Command Line Tools - 2014 (S4578).pdf,file
+"CUDA GDB - Release 12.1 (Feb 28, 2023).pdf",file
+"CUDA GDB - Release 12.3 (Oct 17, 2023).pdf",file
+CUDA Managed Memory - Slides (2020).pdf,file
+CUDA Math API (January 2022).pdf,file
+CUDA Optimizations - Slides (April 2016).pdf,file
+CUDA Shuffle - Tips and Tricks (GTC 2013).pdf,file
+CUDA Streams - Best Practices and Common Pitfalls - Slides (2012).pdf,file
+CUDA Thread Basics - Slides (2011).pdf,file
+CUDA Thread-Indexing Cheatsheet (2013).pdf,file
+CUDA Threads - GPU Architecture and Programming - NYU CSCI-GA.3033-012 (2012).pdf,file
+CUDA Training Series - 01 - Introduction to CUDA C++ (2020).pdf,file
+CUDA Training Series - 02 - CUDA Shared Memory (2020).pdf,file
+CUDA Training Series - 03 - Fundamental CUDA Optimization - Part 1 (2020).pdf,file
+CUDA Training Series - 04 - Fundamental CUDA Optimization - Part 2 (2020).pdf,file
+"CUDA Training Series - 05 - Atomics, Reductions, and Warp Shuffle (2020).pdf",file
+CUDA Training Series - 06 - Managed Memory (2020).pdf,file
+CUDA Training Series - 07 - CUDA Concurrency (2020).pdf,file
+CUDA Training Series - 08 - GPU Performance Analysis (2020).pdf,file
+CUDA Training Series - 09 - Cooperative Groups (2020).pdf,file
+CUDA Training Series - 10 - CUDA Multithreading with Streams (2021).pdf,file
+CUDA Training Series - 11 - CUDA Multi-Process Service (2021).pdf,file
+CUDA Training Series - 12 - CUDA Debugging (2021).pdf,file
+CUDA Training Series - 13 - CUDA Graphs (2021).pdf,file
+CUDA Training Series - All (2020-2021).pdf,file
+CUDA Unified Memory - GPGPU - Slides (2015).pdf,file
+CUDA and Applications to Task-based Programming - Deck - Eurographics 2021.pdf,file
+CUDAsmith - A Fuzzer for CUDA Compilers (TR-2020-05).pdf,file
+Cache Aware Bi-tier Task-stealing in Multi-socket Multi-core Architecture - 2011 (icpp11).pdf,file
+Cache Organization and Memory Management of the Intel Nehalem Computer Architecture (2009).pdf,file
+Cache and IO Efficient Algorithms (2013).pdf,file
+"Cache, Hash and Space-Efficient Bloom Filters (2007).pdf",file
+"Cache, Hash and Space-Efficient Bloom Filters - 2007 (10.1.1.93.7688).pdf",file
+Cache-Aware Lock-Free Queues for Multiple Producers-Consumers and Weak Memory Consistency (2010).pdf,file
+Cache-Aware Lock-Free Queues for Multiple Producers-Consumers and Weak Memory Consistency 1 (2010).pdf,file
+"Cache-Oblivious Algorithms and Data Structures (Demaine, 2002).pdf",file
+Cache-Oblivious Peeling of Random Hypergraphs - 2nd Dec 2013 (1312.0526).pdf,file
+Cache-Oblivious Streaming B-trees (2007).pdf,file
+Calculus By and For Young People Worksheets (1991).pdf,file
+Calculus Made Easy (2012).pdf,file
+"Calculus Refresher, Version 2008.4 (Paul Garrett).pdf",file
+"Calculus for Mathematicians, Computer Scientists, and Physists (2008).pdf",file
+Can't Get To Performing Without Storming - 2003 (pat-ma03).pdf,file
+Canopy - An End-to-End Performance Tracing and Analysis System - 2017 (sosp17-final14).pdf,file
+Captain Hook - Pirating AVs to Bypass Exploit Mitigations - Slides (2016).pdf,file
+Challenges in visualizing large graphs and hypergraphs - 2017 - Slides (3_Xavier_Ouvrard).pdf,file
+ChatGPT Cheat Sheet (2023).pdf,file
+"Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions - 2000 (mc-osdi).pdf",file
+"Chihuahua - A Concurrent, Moving, Garbage Collector using Transactional Memory - 2015 (anderson-transact-2015).pdf",file
+Chinese Remainder Theorem and its Applications (2008).pdf,file
+"Choosing a Good Chart (A. Abela, 2006).pdf",file
+Chord - A Scalable Peer-to-peer Lookup Service for Internet Applications (2001).pdf,file
+CityHash - Fast Hash Functions for Strings - Slides - 2012 (121017-slides).pdf,file
+Classification of real and bogus transients using active learning and semi-supervised learning - 2025 (aa48581-23).pdf,file
+ClearCase Administrator's Guide - 2001 (7165_2167_cc_proj.admin).pdf,file
+Cluster-based Mixed Coding Schemes for Inverted File Index Compression - 2008 (v6i10a4).pdf,file
+"Codes for Positive Integers - CS423, Lecture 6, McGill (2008).pdf",file
+Cognitive Biases Potentially Affecting Judgment of Global Risks (2008).pdf,file
+Colfax - Programming and Optimization for Intel Architecture (2016).pdf,file
+Colfax Optimization Techniques for the Intel MIC Architecture - Part 1 of 3 - Multi-threading and Parallel Reduction (2015).pdf,file
+Colfax Optimization Techniques for the Intel MIC Architecture - Part 2 of 3 - Strip-Mining for Vectorization (2015).pdf,file
+Colfax Optimization Techniques for the Intel MIC Architecture - Part 3 of 3 - False Sharing and Padding (2015).pdf,file
+Combined(1).js,file
+Combined(2).js,file
+Combined(3).js,file
+Combined(4).css,file
+Combined.css,file
+Combined.js,file
+Comdb2 - Bloomberg's Highly Available Relational Database System - 2017 (p1377-scotti).pdf,file
+Communication Efficient Distributed Machine Learning with the Parameter Server (2014).pdf,file
+Comparative Performance of Memory Reclamation Strategies for Lock-Free and Concurrently-Readable Data Structures (2005).pdf,file
+"Competitive Programmer's Handbook - Antti Laaksonen - (10th December, 2017).pdf",file
+Compiler Calling Conventions (2011).pdf,file
+Compiler Confidential - Eric Brumer (6th Sept 2013).pdf,file
+Compiler Confidential - Eric Brumer (6th Sept 2013).pptx,file
+Compiler Construction - Niklaus Wirth - 1996 (CBEAll).pdf,file
+Compiler Construction - Niklaus Wirth - 2005 (CBEAll).pdf,file
+Compiler Construction - The Art of Niklaus Wirth (2000).pdf,file
+"Compiler Design - Theory, Tools and Examples (2010).pdf",file
+Compiler Design In C (1990).pdf,file
+Compiler Internals - Exceptions and RTTI - Igor Skorchinsky (Hex-Rays) - Recon 2012.pdf,file
+Compiler Internals - Recon 2012 - Skochinsky.pdf,file
+Compiling Python Modules to Native Parallel Modules Using Pythran and OpenMP Annotations (2013).pdf,file
+Component Object Model - An Overview and Practical Implementation - 2017 (IJSARTV3I38438636248891114924768).pdf,file
+Compressed Bloom Filters (2001).pdf,file
+Compressed Inverted Indexes - Slides (2010).pdf,file
+Compressed Perfect Embedded Skip Lists for Quick Inverted-Index Lookups (2005).pdf,file
+Compression - Slides (2006).pdf,file
+Computer Systems Research (1999).pdf,file
+Concurrent Hash Tables - Fast and General - 2016 (1601.04017v2).pdf,file
+Concurrent Hash Tables - Fast and General - ACM - 2019 (3309206).pdf,file
+Concurrent Programming for Scalable Web Architectures - Benjamin Erb - Thesis (April 2012) (vts_8082_11772).pdf,file
+Concurrent Reference Counting and Resource Management in Constant Time - 29 Feb 2020 (2002.07053).pdf,file
+Conflict-Free Vectorization of Associative Irregular Applications with Recent SIMD Architectural Advances - Feb 2018 (cgo18).pdf,file
+Consistently Faster and Smaller Compressed Bitmaps with Roaring (1603.06549v4).pdf,file
+"Consistently Faster and Smaller Compressed Bitmaps with Roaring - 19th April, 2016 (1603.06549).pdf",file
+Constraint Propagation Algorithms for Temporal Reasoning - A Revised Report - 1990 (vilain-kautz-book).pdf,file
+Container Choice.png,file
+Convex Optimization (2009).pdf,file
+Convex Optimization - Slides (2016).pdf,file
+Cooperative Kernels - GPU Multitasking for Blocking Algorithms - 2017 (fse2017).pdf,file
+Copy-and-Patch Compilation - A Fast Compilation Algorithm for High-Level Languages and Bytecode - Oct 2021 (3485513).pdf,file
+Coq - The World's Best Macro Assembler (2013).pdf,file
+Cores That Don't Count - 2021 (hotos21-s01-hochschild).pdf,file
+Cores of Random r-Partite Hypergraphs - Dec 15 2010 (tr001_10).pdf,file
+Crash Dump Analysis Poster v3.0 (HTML version).html,file
+Creating R Packages - A Tutorial (Sept 14 2009).pdf,file
+Critique of Microkernel Architectures - 2004 (Slides).pdf,file
+Cuckoo Filter - Practically Better Than Bloom (2014).pdf,file
+Cuckoo++ Hash Tables - High-Performance Hash Tables for Networking Applications - 2017 (1712.09624).pdf,file
+Cuckoo-GPU - Accelerating Cuckoo Filters on Modern GPUs (2603.15486v1).pdf,file
+Current Best Practices for Training LLMs from Scratch - Final - 2023 (6435aabdc0a041194b243eef).pdf,file
+Curves and Surfaces - Lecture Notes for Geometry 1 - Henrik Schlichtkrull - University of Copenhagen (2011).pdf,file
+Cushion Treemaps - Visualization of Hierarchical Information (1999).pdf,file
+DEC - The Mistakes That Led To Its Downfall - 2009 (Goodwin Paper).pdf,file
+DEC - The Mistakes that led to its Downfall (2009).pdf,file
+DGX-1 User Guide (2018).pdf,file
+DI-MMAP - A High Performance Memory Map Runtime for Data-Intensive Applications (Nov 16 2012) - Deck.pdf,file
+DI-MMAP - A High Performance Memory Map Runtime for Data-Intensive Applications (Nov 16 2012) - Paper.pdf,file
+DPDK Optimization Techniques and Open vSwitch Enhancements for Netdev DPDK - Slides - OVS 2015 (1335-jayakumar).pptx,file
+"DTrace Dynamic Tracing In Oracle Solaris, Mac OS X & FreeBSD (2011).pdf",file
+Dapper - A Large-Scale Distributed Systems Tracing Infrastructure - 2010 (36356).pdf,file
+Data Compression Techniques - Lecture 1 - Shannon's Theorem - University of Helsinky - Slides (2015).pdf,file
+Data Compression Techniques - Lecture 2 - Morse Code to Huffman Coding - University of Helsinky - Slides (2015).pdf,file
+Data Compression Techniques - Lecture 3 - Integer Codes 1 - University of Helsinky - Slides - 2015 (DCT2015-Lecture3Web).pdf,file
+Data Compression Techniques - Lecture 4 - Integer Codes 2 - University of Helsinky - Slides - 2015 (DCT2015-Lecture4).pdf,file
+Data Compression Techniques - Lecture 5 - Adaptive Prefix-Free Coding - University of Helsinky - Slides (2015).pdf,file
+Data Compression Techniques - Lecture 6 - Arithmetic Coding (2015).pdf,file
+Data Compression Techniques - Lecture 7 - Dictionary Compression - 2015 (DCT2015-Lecture7Web).pdf,file
+Data Structures and Algorithms (2008).pdf,file
+Data Structures for Data-Intensive Applications - Tradeoffs and Design Guidelines - 2023 (fnt23-athanassoulis).pdf,file
+Data Structures for Text Sequences (1998).pdf,file
+Data Transfer Matters for GPU Computing - 2013 (icpads13).pdf,file
+Data-Parallel Hashing Techniques for GPU Architectures - 11 Jul 2018 (1807.04345).pdf,file
+DataMining-ch1 (2013).pdf,file
+DataMining-ch2 (2014).pdf,file
+DataMining-ch3 (2014).pdf,file
+DataMining-ch4 (2014).pdf,file
+DataMining-ch5 (2014).pdf,file
+DataMining-ch6 (2014).pdf,file
+DataMining-ch7 (2014).pdf,file
+Database Compression on Graphics Processors (2010).pdf,file
+Database Fundamentals (2010).pdf,file
+Database System Implementation - COSC 404 - Slides (2015).pdf,file
+Debugging Programs that use Atomic Blocks and Transactional Memory (2010).pdf,file
+"Debugging Tools for Windows - 2017 (WinDbg, KD, CDB, NTSD).pdf",file
+Debugging Tools for Windows - 2019 (b7f35e165e8b2083ad68d4dbd398b7ba).pdf,file
+Debunking the 100x GPU vs CPU Myth - An Evaluation of Throughput Computing on CPU and GPU (2010).pdf,file
+Deep Learning Approach to Real-Bogus Classification for LSST Alert Production - 2023 (DMTN-216).pdf,file
+Deep Learning Tutorial - Slides - 2013 (lecun-ranzato-icml2013).pdf,file
+Deep Residual Learning for Image Recognition (1512.03385v1).pdf,file
+DeepSeek LLM - Scaling Open-Source Language Models with Longtermism - 2024 (2401.02954v1).pdf,file
+DeepSeek V3 - Technical Report (2024).pdf,file
+DeepSeek-Prover-V1.5 - Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search - 2024 (2408.08152v1).pdf,file
+DeepSeek-R1 - Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025).pdf,file
+"DeepSeek-V2 - A Strong, Economical, and Efficient Mixture-of-Experts Language Model - 2024 (2405.04434v5).pdf",file
+DeepState - Symbolic Unit Testing for C and C++ - 2018 (bar18).pdf,file
+Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification (1502.01852v1).pdf,file
+"Demystifying DAS, SAN, NAS, NAS Gateways, Fibre Channel, and iSCSI (2001).pdf",file
+Demystifying GPU Microarchitecture through Microbenchmarking - 2010 (gpuarch-ispass2010).pdf,file
+Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply (2020).pdf,file
+"Deny Capabilities for Safe, Fast Actors - Ponylang (2015).pdf",file
+Depth-First Search and Linear Graph Algorithms - Tarjan (1972).pdf,file
+"Derivability, Consistency - 1969 (rj599).pdf",file
+"Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks - E. F. Codd (1969).pdf",file
+Designing COM Interfaces - 1995.pdf,file
+Deterministic Dynamic Deadlock Detection and Recovery (2012).pdf,file
+Detours - Binary Interception of Win32 Functions - 1999 (huntusenixnt99).pdf,file
+Developing and Porting Applications to AIX - 2003 (sg245674).pdf,file
+Digital Equipment Corporation - RIP or Future Lean and Mean Competitor (1994).pdf,file
+Digital FX32 - Running 32-bit x86 Applications on Alpha NT (1997).pdf,file
+Digital at Work (1992).pdf,file
+"Dijkstra's in Disguise - Eric Jang (12th August, 2018).pdf",file
+Direct Cache Access for High Bandwidth Network IO - 2005 (huggahalli05).pdf,file
+"Disk Based Hash Tables and Quantified Numbers (24th March, 2014).pdf",file
+Disruptor - High performance alternative to bounded queues for exchanging data between concurrent threads (May 2011).pdf,file
+Dissecting the NVIDIA Turing T4 GPU via Microbenchmarking - 18 Mar 2019 (1903.07486).pdf,file
+Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking - 2018 (1804.06826).pdf,file
+Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking - 2018 - Slides (1804.06826).pdf,file
+Distilling the Knowledge in a Neural Network (1503.02531v1).pdf,file
+Distinct Elements in Streams - An Algorithm for the (Text) Book (2301.10191v2).pdf,file
+"Distributed Component Object Model (DCOM) Remote Protocol - MS-DCOM-2015 (October 16th, 2015).pdf",file
+Distributed and Parallel Time Series Feature Extraction for Industrial Big Data Applications - 25th October 2016 (1610.07717v1).pdf,file
+Dodd-Frank Act Stress Test 2014 - Supervisory Stress Test Methodology and Results - March 2014 (bcreg20140320a1).pdf,file
+Dota 2 with Large Scale Deep Reinforcement Learning (2019).pdf,file
+Down For The Count - Getting Reference Counting Back in the Ring (rc-ismm-2012).pdf,file
+Doxygen Quick Reference (2007).pdf,file
+Doxygen Quick Reference (2013).pdf,file
+Draw Me A Local Kernel Debuger - Slides (2015).pdf,file
+Driver Annotations in Depth - Part 2 - Slides - 2008 (dde-t676_ddc08).pdf,file
+Driver Annotations in Depth - Part 2 - Slides - 2010 (dde-t676_ddc08).pdf,file
+Driver Annotations in Depth - Part 2 - Slides - 2010 (dde-t676_ddc08).pptx,file
+Dropout - A Simple Way to Prevent Neural Network Overfitting - 2014 (srivastava14a).pdf,file
+Dropout - A Simple Way to Prevent Neural Networks from Overfitting - 2014 (JMLRdropout).pdf,file
+Dueling UNIXes and the UNIX Wars - 2015 (login_apr15_17_salus.pdf).pdf,file
+Dynamic Storage Allocation - A Survey and Critical Review (1995).pdf,file
+Dynamic Storage Allocation - Survey and Critical Review (1995).pdf,file
+ECMangenReference.mht,file
+EIT - The Internal Extent Formula for Compacted Tries (2010).pdf,file
+ELF Format (1993).pdf,file
+ELF Handling for Thread-Local Storage - Ulrich Drepper (2005).pdf,file
+EMOGI - Efficient Memory-access for Out-of-memory Graph-traversal in GPUs - 2021 (p114-min).pdf,file
+ESET - A Machine-Learning Method to Explore the UEFI Landscape (Sept 2019).pdf,file
+Effective Computation of Biased Quantiles over Data Streams - 2005 (bquant).pdf,file
+Efficient Algorithms for Large-Scale Image Analysis - 2012 (978-3-86644-786-8_PDFA).pdf,file
+Efficient Computation of Binomial Coefficients Using Splay Trees - 2016 (10.11648.j.ijdst.20160201.14).pdf,file
+Efficient Estimation of Mutual Information for Strongly Dependent Variables - 2015 (gao15).pdf,file
+Efficient Estimation of Word Representations in Vector Space - 2013 (1301.3781).pdf,file
+Efficient Estimation of Word Representations in Vector Space - 7th Sep 2013 (1301.3781).pdf,file
+Efficient Exploitation of Parallelism on Pentium III and Pentium 4 Processor-Based Systems - 2001 (art_6).pdf,file
+Efficient Hash Probes on Modern Processors - 2007 (icde2007).pdf,file
+Efficient Hashing using the AES Instruction Set - 2011 (69170507).pdf,file
+Efficient Hashing with Lookups in two Memory Accesses - 2004 (0407023v1).pdf,file
+Efficient Hashing with Lookups in two Memory Accesses - 2018 (0407023v1).pdf,file
+Efficient IO with io_uring (2019).pdf,file
+Efficient Implementation of Lazy Suffix Trees (gie-kur-sto-2003).pdf,file
+Efficient Implementation of Reductions on GPU Architectures (2017).pdf,file
+Efficient Implementation of Sorting on Multicore SIMD CPU Architecture - Slides - VLDB 2008 (9-29-15).pdf,file
+Efficient Implementation of Sorting on Multicore SIMD CPU Architecture - VLDB 2008 (1454171).pdf,file
+Efficient Lightweight Compression Algorithm Alongside Fast Scans - 2015 (damon15).pdf,file
+Efficient Lossless Compression of Trees and Graphs (1996).pdf,file
+Efficient Parallel Graph Exploration on Multi-Core CPU and GPU - 2011 (pact11-hong).pdf,file
+Efficient Processing of Window Functions in Analytical SQL Queries - 2015 (p1058-leis).pdf,file
+Efficient String Matching - An Aid to Bibliographic Search - Aho-Corasick (1975).pdf,file
+Efficient Virtual Memory for Big Memory Servers - 2013 (isca13_direct_segment).pdf,file
+Efficiently Compiling Efficient Query Plans for Modern Hardware - 2011 (p539-neumann).pdf,file
+Egocentrism Over E-Mail - Can We Communicate as Well as We Think - 2005 (krugeretal05).pdf,file
+Elementary Calculus - An Infinitesimal Approach - 2017 (keislercalc-03-07-17).pdf,file
+Elevated - Function 2009.pdf,file
+Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory - 2014 (PPoPP2014_RubyGILHTM).pdf,file
+Empirical Study of the Anatomy of Modern SAT Solvers (2010).pdf,file
+Encyclopedia of Controller Fundamentals and Features - Firmware Version 3.2 to 8.0 - 2001 (8_0_775041-01C).pdf,file
+"Engineering Better Software at Microsoft - Jason Yang, Slides - 30th Nov 2011 (25-sal).pdf",file
+Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis - 2023 (2301.04419).pdf,file
+Enhancing Server Availability and Security Through Failure-Oblivious Computing - 2004 (rinard).pdf,file
+Errors of Probability in Historical Context - Gorroochurn (2011).pdf,file
+Establishing a Base of Trust with Performance Counters for Enterprise Workloads - 2015 (atc15-paper-nowak).pdf,file
+Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles - 2019 (entropy-21-00939-v2).pdf,file
+Estoteric Hooks - Alex Ionescu - Slides (2015).pdf,file
+Evaluation of Contemporary Graph Databases for Efficient Persistence of Large-Scale Models (2014).pdf,file
+Evaluation of Parallel Design Patterns for Message Processing Systems on Embedded Multicore Systems (2011).pdf,file
+Evaluation of Rolling Sphere Method Using Leader Potential Concept - A Case Study - 2006 (IT P501-124).pdf,file
+Event Source User Guide (2014).docx,file
+Event Source User Guide (2014).pdf,file
+EventSource Activities Specification (2016).docx,file
+EventSource Activities Specification (2016).pdf,file
+"Everything We Know About CRC But Afraid To Forget (3rd September, 2010).pdf",file
+Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask - 2013 (p33-david).pdf,file
+Exact Minimum Degree Thresholds for Perfect Matchings in Uniform Hypergraphs (2012).pdf,file
+Experiences Porting Real Time Signal Processing Pipeline CUDA Kernels to Kepler and Windows 8 - Slides - 2014 (S4148-rt-signal-processing-pipeline-cuda-kernels-kepler-win8).pdf,file
+Experiences in the Land of Virtual Abstractions - Slides - 2014 (VEE14-present601).pdf,file
+Expert programmers have fine-tuned cortical representations of source code (2020.01.28.923953v1.full).pdf,file
+Explaining AdaBoost (2013).pdf,file
+Exploiting Coarse-Grain Speculative Parallelism (2011).pdf,file
+Exploiting Deferred Destruction - An Analysis of Read-Copy-Update Techniques in Operating System Kernels (RCUdissertation.2004.07.14e1).pdf,file
+Exploiting Parallelism Opportunities with Deep Learning Frameworks (1908.04705v2).pdf,file
+Exploiting SIMD for Complex Numerical Predicates - 2015 (HardBD16_3).pdf,file
+Exploration by Random Network Distillation (1810.12894v1).pdf,file
+Exploring Control Flow Guard in Windows 10 - Trend Micro (2015).pdf,file
+Exploring PLSQL New Features Best Practices - OOW 2013 Aharonovich.pdf,file
+Exponential Golomb and Rice Error Correction Codes for Generalized Near-Capacity Joint Source and Channel Coding - 2016 (ExpgECRiceEC).pdf,file
+Extending Numba - FOSDEM 2019 (Deck).pdf,file
+Extending Oracle E-Business Suite Release 12.1 and above using Oracle Application Express - 2014 (345780).pdf,file
+"Extending Python for High-performance Data-Parallel Programming (March 24, 2014).pdf",file
+External Perfect Hashing for Very Large Key Sets - 2007 (cikm07).pdf,file
+"Extra 300 - Pilot's Operating Handbook (20th Sept, 2009).pdf",file
+FAST - Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs (2010).pdf,file
+FAST - Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs - Slides (2011).pdf,file
+FASTHash - FPGA-Based High Througput Parallel Hash Table - 2020 (978-3-030-50743-5_Chapter_1).pdf,file
+FERRARI - Flexible and Efficient Reachability Range Assignment for Graph Indexing (2013).pdf,file
+FLASHRELATE - Extracting Relational Data from Semi-Structured Spreadsheets Using Examples (Microsoft Research - April 2014).pdf,file
+FPGA Acceleration by Dynamically-Loaded Hardware Libraries - 2016 (tr16_03_Nannarelli_A).pdf,file
+Faliure-Atomic msync() - A Simple and Efficient Mechanism for Preserving the Integrity of Durable Data (2013).pdf,file
+Fallout - Reading Kernel Writes From User Space - 29th May 2019 (1905.12701).pdf,file
+Fast Bit Compression and Expansion with Parallel Extract and Parallel Deposit Instructions - 2006 (hilewitz06).pdf,file
+"Fast Bit Gather, Bit Scatter and Bit Permutation Instructions for Commodity Microprocessors - 2008 (Hilewitz_JSPS_08).pdf",file
+"Fast CRC Computation for Generic Polynomials Using PCLMULQDQ Instruction - Intel (December, 2009).pdf",file
+Fast Databases with Fast Durability and Recovery Through Multicore Parallelism - 2014 (osdi14-paper-zheng_wenting).pdf,file
+Fast Deterministic Selection - Andrei Alexandrescu - June 2016 (1606.00484v1).pdf,file
+Fast Exact Multiplication by the Hessian - 1993 (nc-hessian).pdf,file
+Fast Keyed Hash and Pseudo-Random Function using SIMD Multiply and Permute - 20 Nov 2016 (1612.06257v2).pdf,file
+Fast Multiple String Matching Using Streaming SIMD Extensions Technology - 2013 (psc13p08_presentation).pdf,file
+Fast Multiplication in Binary Fields on GPUs via Register Cache - 2016 (ics16gpufft).pdf,file
+Fast Packed String Matching for Short Patterns - 2012 (1209.6449).pdf,file
+Fast Parallel GPU-Sorting Using a Hybrid Sort (2007).pdf,file
+Fast Parallel Suffix Array on the GPU (2015).pdf,file
+"Fast Prefix Search in Little Space, with Applications (2010).pdf",file
+Fast Quicksort Implementation Using AVX Instructions - 2015 (10.1.1.1009.7773).pdf,file
+Fast Scalable Construction of (Minimal Perfect Hash) Functions (2016).pdf,file
+"Fast Scalable Construction of (Minimal Perfect Hash) Functions - 22 Mar 2016, v2 (1603.04330).pdf",file
+Fast Search in Hamming Space with Multi-Index Hashing (2012).pdf,file
+"Fast Sort on CPUs, GPUs and Intel MIC Architectures - Technical Report - Intel Labs - 2010 (intel-labs-radix-sort-mic-report).pdf",file
+Fast Sorted-Set Intersection using SIMD Instructions - 2011 (p1-SCHLEGEL).pdf,file
+Fast Sorting Algorithms using AVX-512 on Intel Knight's Landing (1704.08579).pdf,file
+Fast Sorting Algorithms using AVX-512 on Intel Knights Landing - 24 Apr 2017 (1704.08579).pdf,file
+Fast Splittable Pseudorandom Number Generators - 2014 (oopsla14).pdf,file
+Fast String Correction with Levenshtein-Automata (2002) (10.1.1.16.652).pdf,file
+Fast Succinct Retrieval and Approximate Membership using Ribbon - 2019 (2109.01892).pdf,file
+Fast and Furious - Outrunning Windeows Kernel Notification Routines from User-Mode (2020).pdf,file
+Fast and Scalable Minimal Perfect Hashing for Massive Key Sets - 2017 (1702.03154).pdf,file
+Fast and Space Efficient Trie Searches - Phil Bagwell - ACM (2000).pdf,file
+FastBDT - A speed-optimized and cache-friendly implementation of stochastic gradient-boosted decision trees for multivariate classification - 2016 (1609.06119v1).pdf,file
+Faster 64-bit Universal Hashing using Carry-less Multiplication - 2015 (1503.03465).pdf,file
+Faster Base64 Encoding and Decoding Using AVX2 Instructions v4 (2018) (1704.00605).pdf,file
+Faster Catalog Matching on Graphics Processing Units (2018).pdf,file
+Faster Methods for Random Sampling - 1984 (Vit84.sampling).pdf,file
+Faster Population Counts using AVX2 Instructions (1611.07612v1).pdf,file
+Featherweight Threads for Communication - 2011 (parasites_tech11).pdf,file
+Fibers Under The Magnifying Glass - 2018 (p1364r0).pdf,file
+Fibre Channel Fundamentals (2003).pdf,file
+Fibre Channel Reference Card (2001).pdf,file
+Filter Manager - Windows (2003).pdf,file
+Filter Manager - Windows (2003).ppt,file
+Filter Representation in Vectorized Query Execution - 2021 (ngom-damon2021).pdf,file
+Finance - Salomon Smith Barney Introductory Guide to Equity Options (1998).pdf,file
+Finding Frequent Items in Data Streams (2002).pdf,file
+Finding Frequent Items in Data Streams - PLVDB - 2008.pdf,file
+Finding Minimal Perfect Hash Functions - 1986 (10.1.1.144.9650).pdf,file
+Finding Similar Items (2011).pdf,file
+Finding Small Balanced Separators (2006).pdf,file
+Finding Structure in Time (1990).pdf,file
+Flash-KMeans - Fast and Memory-Efficient Exact K-Means (2603.09229v2).pdf,file
+FlashAttention - Fast and Memory-Efficient Exact Attention with IO-Awareness (2205.14135v2).pdf,file
+FlashAttention-2 - Faster Attention with Better Parallelism and Work Partitioning (2023).pdf,file
+FlashAttention-2 - Faster Attention with Better Parallelism and Work Partitioning (2307.08691v1).pdf,file
+FlashAttention-3 - Fast and Accurate Attention with Asynchrony and Low-precision (2024).pdf,file
+"Flush+Reload - A High-Resolution, Low-Noise, L3 Cache Side-Channel Attack (2014).pdf",file
+Folding and Unfolding - Erik D. Demaine - Ph.D Thesis 2001 (eddemaine2001).pdf,file
+Foreign Library Interface (2011).pdf,file
+Foundations of Data Science (2014).pdf,file
+"Foundations of Data Science (June, 2016).pdf",file
+Foundations of Databases (1995).pdf,file
+Fractal Prefetching B+ Trees - Optimizing Both Cache and Disk Performance (2002).pdf,file
+FractalSortCPU - Bandwidth-Efficient Compressed Radix Sort on CPU (2605.10390v2).pdf,file
+Framework for Instruction-level Tracing and Analysis of Program Executions (2006).pdf,file
+Free Launch - Optimizing GPU Dynamic Kernel Launches through Thread Reuse (2015).pdf,file
+From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library - Vincent Reverdy - CppCon 2016.pdf,file
+Fully Concurrent Garbage Collection of Actors on Many-Core Machines - 2013 (opsla237-clebsch).pdf,file
+Fundamentals of COM(+) - Part 1 - Slides - Don Box (1999).pdf,file
+Fundamentals of Calculs - Crowell et al - 2016.pdf,file
+Fundamentals of Deep Learning of Representations - 2014 (Tel-Aviv-7nov2014).pdf,file
+Fundamentals of Learning (2015).pdf,file
+Further Scramblings of Marsaglia's Xorshift Generators - 23 May 2016 (1404.0390).pdf,file
+Futexes Are Tricky - Ulrich Depper (2005).pdf,file
+Futexes Are Tricky - Ulrich Drepper (2011).pdf,file
+GDB Cheat Sheet (2007).pdf,file
+GDB Quick Reference (2022).pdf,file
+GPERF - A Perfect Hash Function Generator (1998).pdf,file
+GPT-4 System Card (2023).pdf,file
+GPT-4 Technical Report (2023).pdf,file
+GPU Control Flow and Synchronization - Slides (2016).pdf,file
+GPU Optimization Fundamentals (2013).pdf,file
+GPU Programming Basics - Slides (2017).pdf,file
+GPU Random Numbers via the Tiny Encryption Algorithm (2010).pdf,file
+"GPU-ArraySort - A parallel, in-place algorithm for sorting large number of arrays (2016).pdf",file
+GPUDirect Storage - Slides - 2019 (sc1922).pdf,file
+"GPUDriver - Data-driven, multi-agent driving simulation at 1 million FPS (2408.01584v1).pdf",file
+GRIM - Leveraging GPUs for Kernel Integrity Monitoring (2016).pdf,file
+GShard - Scaling Giant Models with Conditional Computation and Automatic Sharding - 2020 (2006.16668v1).pdf,file
+GTC 2010 (Part 1) - High Productivity Development.pdf,file
+GTC 2010 (Part 2) - Thrust By Example.pdf,file
+GTC 2017 - Parallel Depth First on GPU - Slides (s7469-maxim-naumov-parallel-depth-first-on-gpu).pdf,file
+GateLoop - Fully Data-Controlled Linear Recurrence for Sequence Modeling (2311.01927v2).pdf,file
+Gaussian Error Linear Units (GELUs) (1606.08415v5).pdf,file
+Gazing Beyond Reflection - CppCon2024 - Deck (2024).pdf,file
+General Analysis of Maxima and Minima in Constrained Optimization Problems (2004).pdf,file
+General Incremental Sliding-Window Aggregation - 2015 (p702-tangwongsan).pdf,file
+General-Purpose Graphics Processor Architecture (2018).pdf,file
+"Generalized Golomb Codes and Adaptive Coding of Wavelet-Transformed Image Subbands (August 15th, 2003).pdf",file
+Generalized Histogram Algorithms for CUDA GPUs - Slides - 2012 (histogram_para2012).pdf,file
+Generating Sequences With Recurrent Neural Networks (1308.0850v5).pdf,file
+Generating Text with Recurrent Neural Networks - 2011 (524_icmlpaper).pdf,file
+Generating Text with Recurrent Neural Networks - 2011 (LANG-RNN).pdf,file
+Getting Physical - Extreme Abuse of Intel-based Paging Systems - Slides - 2016 (CSW2016_Economou-Nissim_GettingPhysical).pdf,file
+Getting Started with CUDA (2008).pdf,file
+"Getting Started with Software Tracing in Windows Drivers (WinHEC 2005 - April 18, 2005).pdf",file
+Git Magic (2007).pdf,file
+Git from the Bottom Up (2009).pdf,file
+Go 1.5 Concurrent Garbage Collector Pacing (2015).pdf,file
+Goals Gone Wild - The Systematic Side Effects of Over-Prescribing Goal Setting - Harvard Business School - 2009 (09-083).pdf,file
+Google C++ Style Guide (2023).pdf,file
+Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation - 2016 (1609.08144v1).pdf,file
+Gradient-Based Learning Applied to Document Recognition - 1998 (Lecun98).pdf,file
+Grand Central Dispatch - FreeBSD Dev Summit (18 Sep 2009).pdf,file
+Graph Coloring Methods (2024).pdf,file
+Graph Theoretic Obstacles to Perfect Hashing - 1994 (TR0257).pdf,file
+Graph Theory (2005).pdf,file
+Graph-Based Algorithms for Boolean Function Manipulation - 1986 (BDD_ieeetc86).pdf,file
+"GraphBLAS Mathmatics - Provisional Release 1.0 - Jeremy Kepner (26th April, 2017).pdf",file
+"Graphs, Hypergraphs and Hashing (1994).pdf",file
+Guaranteed DGEMM Accuracy While Using Reduced Precision Tensor Cores Through Extensions of the Ozaki Scheme - 2025 (2511.13778v1).pdf,file
+"Guide to Automatic Vectorization with Intel AVX-512 Instructions in Knights Landing Processors - Bonan Zhang - Colfax International, 2016 (Colfax_KNL_AVX512_Guide).pdf",file
+Gunrock - A Fast and Programmable Multi-GPU Graph Processing Library - Slides - 2015 (SC5139).pdf,file
+Gunrock - A Fast and Programmable Multi-GPU Graph Processing Library - Slides - 2016 (S6374).pdf,file
+Gunrock - A High-Performance Graph Processing Library on the GPU - 2016.pdf,file
+"H2O - The Opytimized HTTP Server (Kazuho Oku, 2014).pdf",file
+HARE - Hardware Acceleration for Regular Expressions - 2016 (micro16).pdf,file
+HASHI - An Application-Specific Instruction Set Extension for Hashing - 2014 (adms14_arnold).pdf,file
+HAT-trie - A Cache-conscious Trie-based Data Structure for Strings - 2007 (CRPITV62Askitis).pdf,file
+HDF5 - Taming Parallel IO Complexity with Auto-Tuning - 2013 (P4091-0713_2).pdf,file
+HELIX-RC - An Architecture-Compiler Co-Design for Automatic Parallelization of Irregular Programs - 2014 (campanoni14-isca).pdf,file
+HTTP as the Narrow Waist of the Future Internet (2010).pdf,file
+"Hardware Acceleration for Memory-to-Memory Copies - January 13, 2017 (EECS-2017-2).pdf",file
+Hardware Breakpoint (or watchpoint) usage in Linux Kernel - 2009 (ols2009-pages-149-158).pdf,file
+Hardware Transactional Memory on Haswell (2013).pdf,file
+Hardware is the new software - 2017 (baumann-hotos17).pdf,file
+Hardware-Aware Optimization- Using Intel Streaming SIMD Extensions - Slides (2010).pdf,file
+Harnessing Intel Processor Trace on Windows for Vulnerability Discovery - D1T1 - Richard Johnson - Slides (2017).pdf,file
+Harnessing the Universal Geometry of Embeddings (2505.12540v2).pdf,file
+Hash Functions for GPU Rendering - 2020 (Jarzynski2020Hash).pdf,file
+Hash Tables - Jeff Erickson (2014).pdf,file
+Hash and Displace - Efficient Evaluation of Minimum Perfect Hash Functions - 1999 (10.1.1.148.7694).pdf,file
+"Hash, Displace, and Compress - 2009 (esa09).pdf",file
+"Hashcash - A Denial of Service Counter-Measure (1st August, 2002).pdf",file
+Haskell vs. F# vs. Scala - A High-Level Language Features and Parallelism Support Comparison - 2012 (fhpc12).pdf,file
+Haswell Block Diagram (2013).pdf,file
+Heapy - A Memory Profiler and Debugger for Python - 2006 (heapy-thesis).pdf,file
+Heracles - Improving Resource Efficiency at Scale (2015).pdf,file
+Heracles- Improving Resource Efficiency at Scale (2015.heracles.isca).pdf,file
+HexRaysCodeXplorer - Making Object-Oriented RE Easier - Slides (2013).pdf,file
+HexRaysCodeXplorer - Making Object-Oriented RE Easier - Slides (2014).pdf,file
+Hidden Markov Model (2008).pdf,file
+High Performance Construction of RecSplit Based Minimal Perfect Hash Functions -19 Dec 2022 (2212.09562).pdf,file
+"High Performance Histograms on SIMT and SIMD Architectures - M.E.R. Berger, Master's Thesis (2015).pdf",file
+High Performance IO with NUMA Systems in Linux (2013).pdf,file
+High Speed Hashing for Integers and Strings - 2020 (1504.06804).pdf,file
+High Speed Hashing for Integers and Strings - 2022 (1504.06804).pdf,file
+High Throughput Heavy Hitter Aggregation for Modern SIMD Processors - 2013 (damon13).pdf,file
+High-performance Concurrency Control Mechanisms for Main-memory Databases - 2012 (p298_per-akelarson_vldb2012).pdf,file
+Highly accurate protein structure prediction with AlphaFold - 2021 (s41586-021-03819-2).pdf,file
+Highway - Intro (2021).pdf,file
+Histograms - CUDA Handbook - Slides (2015).pdf,file
+Hoard - A Scalable Memory Allocator for Multithreaded Applications - 2000 (berger-asplos2000).pdf,file
+How Does a GPU Shader Work (2018).pdf,file
+How Microsoft Builds Software (1997).pdf,file
+How Not To Measure Latency - Gil Tene - LL Summit NYC (12-Nov-2013).pdf,file
+How To Code In HTML5 And CSS3 - Damian Wielgosik (2015).pdf,file
+How To Overcome the GIL Limitations (While Staying In Python Ecosphere) - Francesc Alted (2011).pdf,file
+How To Write Fast Numerical Code - Slides (2011).pdf,file
+"How To Write Shared Libraries - v4.1.2 (Drepper, 2001).pdf",file
+How TokuDB Fractal Tree Databases Work Presentation (2010).pdf,file
+How fast can we make interpreted Python - NYU (2012).pdf,file
+How the VAX Lost Its POLY (and EMOD and ACB_floating too) - 2011 (vax_poly).pdf,file
+"How to Benchmark Code Execution Times on Intel IA-32 and IA-64 Instruction Set Architectures - September, 2010 (324264-001).pdf",file
+How to Partition a Billion-Node Graph - Microsoft Research (2016).pdf,file
+How to Read a Paper (Feb 17th 2016).pdf,file
+"How to Test 10G Ethernet - WhitePaper - Spirent (March, 2012).pdf",file
+How to Write Fast Code - SIMD Vectorization - CMU - 2008 - Slides (slides-18-645-simd).pdf,file
+How to miscompile programs with benign data races - 2011 (Boehm).pdf,file
+How to use Event Tracing for Windows for Performance Analysis (2005).pdf,file
+How to use Event Tracing for Windows for Performance Analysis (2005).ppt,file
+Huffman Coding - Slides (2012).pdf,file
+HyperANF - Approximating the Neighbourhood Function of Very Large Graphs on a Budget (2011).pdf,file
+HyperLogLog - The Analysis of a Near-Optimal Cardinality Estimation Algorithm - 2007 (914-3045-2-PB).pdf,file
+HyperNetX - A Python Package for Modeling Complex Network Data as Hypergraphs - 2024 (10.21105.joss.06016).pdf,file
+Hyperedge Replacement Graph Grammars (1997).pdf,file
+"Hypergraph Algorithms and Applications - CS6824 - Slides  (January 22, 2014).pdf",file
+Hypergraph-Based Anomaly Detection in Very Large Networks - 2007 (silva_willett_tpami07).pdf,file
+"Hypergraphs - Algorithms, Implementations, and Applications - Poster (2015).pdf",file
+Hypergraphx - A Library for Higher-Order Network Analysis (2303.15356v1).pdf,file
+Hyperparameter Optimization using Hyperopt - Slides (2016).pdf,file
+I Got 99 Problems But a Kernel Pointer Ain't One - Recon 2013 - Slides - Alex Ionescu.pdf,file
+IBM DB2 for i - Indexing Methods and Strategies (2011).pdf,file
+IBM Fibre Channel Basic Storage Area Network (SAN) Configuration Setup Guide (2001).pdf,file
+IC147612.gif,file
+IC17357.gif,file
+IC33205.gif,file
+IC534970.png,file
+IC535098.png,file
+IC535101.png,file
+IC535107.png,file
+IC535109.png,file
+IC535110.png,file
+IC535111.png,file
+IC535112.png,file
+IC535113.png,file
+IC553386.png,file
+IC553387.png,file
+IC553388.png,file
+IC553389.png,file
+IC553390.png,file
+IC554550.png,file
+IC554551.png,file
+IC554552.png,file
+IC559043.png,file
+IC559044.png,file
+IC559045.png,file
+IC559047.png,file
+IC559048.png,file
+IC559049.png,file
+IC596026.png,file
+IC686629.png,file
+IC686630.png,file
+IC831359.png,file
+IC831360.png,file
+IDA Plug-in Writing in C-C++ - Version 1.1 - Steve Micallef (2009).pdf,file
+IDF 2012 NVM Express and the PCI Express SSD Revolution.pdf,file
+IEEE 802.3ad Link Aggregation (2007).pdf,file
+IMP - Indirect Memory Prefetcher - MIT (2015).pdf,file
+IO is Faster Than the CPU - Let's Partition Resources and Eliminate (Most) OS Abstractions - 2019 (parakernel-hotos19).pdf,file
+IRON File Systems - 2005 (iron-sosp05).pdf,file
+IcebergHT - High Performance PMEM Hash Tables Through Stability and Low Associativity (2210.04068).pdf,file
+Ideal Hash Trees - Phil Bagwell - ACM (2001).pdf,file
+Idle Connection Resiliency (2014).docx,file
+Image and Video Processing - Binary Encoding and Quantization (2016).pdf,file
+ImageMM - Joint Multi-frame Image Restoration and Super-resolution - 2025 (Sukurdeep_2025_AJ_170_233).pdf,file
+ImageMM - Joint multi-frame image restoration and super-resolution (2501.03002v3).pdf,file
+ImageSprite.png,file
+Implementation Techniques for Main Memory Database Systems - 1984 (971697.602261).pdf,file
+Implementation of a Vectorized Quicksort in AVX-512 (2021).pdf,file
+"Implementing Algebraic Effects in C, or, Monads for Free in C - 2017 (algeff-in-c-tr-v2).pdf",file
+Implementing Sorting in Databases (2006).pdf,file
+"Improved Bounds For Covering Complete Uniform Hypergraphs - (April 3rd, 2007).pdf",file
+Improved Division by Invariant Integers (2011).pdf,file
+Improved Fast Similarity Search in Dictionaries - 2010 (1008.1191v2).pdf,file
+Improvement of Fitch function for Maximum Parsimony in Phylogenetic Reconstruction with Intel AVX2 Assembler Instructions - 24 June 2013 (TR20130624-1).pdf,file
+Improving Automated Analysis of Windows x64 Binaries - Uninformed v4a1 (April 2006).pdf,file
+Improving Compiler Optimization with Machine Learning - 2014 (2014_Kulkarni_Sameer_PhD).pdf,file
+Improving Language Understanding by Generative Pre-Training (2018).pdf,file
+Improving Python's Memory Allocator - Evan Jones (2005).pdf,file
+Improving Real-Time Performance with CUDA Persistent Threads (CuPer) on the Jetson TX2 - Concurrent Real-Time White Paper (2016).pdf,file
+Improving the speed of neural networks on CPUs - 2011 (37631).pdf,file
+In-memory Columnar Store for PostgreSQL - 2014 (322_IMCS).pdf,file
+InK-Compact- In-Kernel Stream Compaction and Its Application to Multi-Kernel Data Visualization on General-Purpose GPUs - 2013.pdf,file
+Incremental Construction of Minimal Acyclic Finite State Automata and Transducers (1998).pdf,file
+Index Compression - Slides (2007).pdf,file
+Index Compression - Slides (2011).pdf,file
+Index Internals - Rebuilding the Truth (2007).pdf,file
+Index Search Algorithms for Databases and Modern CPUs - Florian Gloss (Nov 2010).pdf,file
+Induced subgraphs of hypercubes and a proof of the Sensitivity Conjecture (2019).pdf,file
+Infinite-Alphabet Prefix Codes Optimal for Beta-Exponential Penalties - 2007 (10.1.1.560.4484).pdf,file
+"Information Retrieval - Compression, Encoding - Slides - Cornell (2013).pdf",file
+Information Theory for Intelligent People (2018).pdf,file
+Initial End-to-End Performance Evaluation of 10-Gigabit Ethernet - 2003 (hoti03).pdf,file
+Inline Function Expansion for Compiling C Programs - 1989 (p246-chang).pdf,file
+Inside IO Completion Ports.html,file
+Inside IO Completion Ports_files,dir
+Inside IOCP (1998).pdf,file
+"Inside The Deal That Made Bill Gates 350,000,000 (1986).pdf",file
+Inside the Python GIL - Dave Beazley (2009).pdf,file
+Instant Loading for Main Memory Databases - 2013 (p1702-muehlbauer).pdf,file
+"Instant Loading for Main Memory Databases - VLDB - 2013, Vol 6, No 14 (p1702-muehlbauer).pdf",file
+Instant Neural Graphics Primitives with a Multiresolution Hash Encoding - 2022 (mueller2022instant).pdf,file
+Instruction Matrix.pdf,file
+Integer Encoding - Chapter 9 (2013).pdf,file
+Intel - A Novel Hashing Method Suitable for Lookup Functions  (February 2012).pdf,file
+Intel - Advanced Vector Extensions - 2012 (319433-014).pdf,file
+Intel - Advanced Vector Extensions 10 (AVX10) - - 2023 (356368-intel-avx10-tech-paper).pdf,file
+Intel - Avoiding AVX-SSE Transition Penalties - 2011 (11MC12_Avoiding_2BAVX-SSE_2BTransition_2BPenalties_2Brh_2Bfinal).pdf,file
+Intel - Cache Allocation Technology - Whitepaper (2015).pdf,file
+Intel - Flexible Return and Event Delivery (2023).pdf,file
+Intel - How to Benchmark Code Execution Times on Intel IA-32 and IA-64 Instruction Set Architectures (2010).pdf,file
+Intel - Improving Real-Time Performance by Utilizing Cache Allocation Technology - Whitepaper (April 2015).pdf,file
+Intel - Mitigations for Jump Conditional Code Erratum - Revision 1.0 (Nov 2019).pdf,file
+Intel - PMU Sharing Guidelines - 2009 (30388).pdf,file
+"Intel - Unleash the Power of AVX-512 through Architecture, Compiler and Code Modernization - Slides - September 2012 (2016-PACT-Intel-AVX512-Tutorial-v3.0).pdf",file
+Intel - _vectorcall and __regcall Demystified (2014).pdf,file
+Intel 5th Generation Processor Family - Specification Update - Revision 029 - July 2017 (330836-029).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - April 2018 (248966-040).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - April 2019 (248966-041).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - December 2017 (248966-039).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - June 2016 (248966-033).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - May 2020 (248966-043).pdf,file
+Intel 64 and IA-32 Architectures Optimization Reference Manual - Sept 2014 (248966-030).pdf,file
+Intel 64 and IA-32 Architectures Performance Monitoring Events - Revision 1.0 - December 2017 (335279-001).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-3 - June 2016 (325462-059US).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-3 - Sept 2014 (325462-052US).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-4 - December 2017 (325462-sdm-vol-1-2abcd-3abcd).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-4 - June 2021 (325462-sdm-vol-1-2abcd-3abcd).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-4 - May 2018 (325462-sdm-vol-1-2abcd-3abcd).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-4 - May 2019 (325462-sdm-vol-1-2abcd-3abcd).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Combined Volumes 1-4 - October 2019 (325462-071US-sdm-vol-1-2abcd-3abcd).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Documentation Changes - June 2016 (252046-051).pdf,file
+Intel 64 and IA-32 Architectures Software Developer's Manual - Documentation Changes - May 2019 (252046-062).pdf,file
+"Intel 64 and IA-32 Architectures Software Developer's Manual - Volume 2A - Instruction Set Reference, A-L - June 2016 (253666-059US).pdf",file
+"Intel 64 and IA-32 Architectures Software Developer's Manual - Volume 2B - Instruction Set Reference, M-U - June 2016 (253667-059US).pdf",file
+Intel AVX-512 - Permuting Data within and Between AVX Registers - Technology Guide - 2022 (1668169807).pdf,file
+Intel AVX-512 Architecture - Poster - 2013 (Demikhovsky-Poster).pdf,file
+Intel AVX-512 Instructions and Their Use in the Implementation of Math Functions - Slides - 2015 (s1-cornea).pdf,file
+Intel Advanced Encryption Standard (AES) New Instructions Set (2010).pdf,file
+"Intel Advanced Encryption Standard (AES) New Instructions Set - White Paper - Rev 3.0, May 2010 (323641-001).pdf",file
+"Intel Advanced Vector Extensions, 2015-2016, Support in GNU C Compiler Collection, GNU Tools Cauldron 2014 (Cauldron14_AVX-512_Vector_ISA_Kirill_Yukhin_20140711).pdf",file
+Intel Architecture - Instruction Set Extensions and Future Features - Programming Reference (January 2018).pdf,file
+Intel Architecture - Instruction Set Extensions and Future Features - Programming Reference - March 2020 (319433-038).pdf,file
+Intel Architecture - Instruction Set Extensions and Future Features - Programming Reference - May 2019 (319433-037).pdf,file
+Intel Architecture Code Analyzer - User's Guide - v3.0 (2017).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - 2013 (319433-015).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - 2013 (319433-017).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - April 2017 (319433-029).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - Feb 2016 (319433-024).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - January 2018 (319433-032).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - Oct 2014 (319433-022).pdf,file
+Intel Architecture Instruction Set Extensions Programming Reference - Sep 2016 (319433-025).pdf,file
+"Intel Carry-Less Multiplication Instruction and its Usage for Computing the GCM Mode - Revision 2.0 (323640-001, May 2010).pdf",file
+Intel Compiler Features + Performance Tips - Slides (2015) (IntelCompilerNERSC.201505013).pdf,file
+Intel Compiler Optimization and Building for KNL - Slides (2016).pdf,file
+"Intel Ethernet Controller 82571EB, 82572EI, 82571GB, 82571GI - Specification Update - Rev 6.8 Nov 2014.pdf",file
+Intel IO Acceleration Technology (IOAT) Overview (2006).pdf,file
+Intel IO Acceleration Technology Overview (2006).pdf,file
+Intel IO Acceleration Technology Overview (2007).pdf,file
+"Intel Multimedia Instructions (MMX, SSE, SSE2, SSE3 and SSE4) - Slides (2011).pdf",file
+Intel PCI Express Ethernet Networking - White Paper - Sept 2005.pdf,file
+Intel Pro-1000 PT Quad Port Bypass Server Adapter (2006).pdf,file
+Intel Pro-1000 PT Quad Port LP Server Adapter - Product Brief (2008).pdf,file
+Intel SIMD - Austronomy and Space Science - Slides - 2014 (DIFX_2014-SIMD).pdf,file
+Intel SIMD Architecture - Yung-Yu - UCONN (2007).pdf,file
+Intel Technical Journal - MMX (1997-vol01-iss-3-intel-technology-journal).pdf,file
+Intel Xeon E5 Product Family - Specification Update - Revision 020 - February 2017 (326510-020).pdf,file
+Intel Xeon Phi - System Software Developers Guide (Nov 2012).pdf,file
+Intel Xeon Phi Coprocessor Datasheet (April 2014).pdf,file
+Intel Xeon Processor E5 v2 and E7 v2 Product Families - Uncore Performance Monitoring - Reference Manual - February 2014 (329468-002).pdf,file
+Intel Xeon Processor E7 Family - Uncore Performance Monitoring - Programming Guide - April 2011 (325294-001).pdf,file
+Intel Xeon Scalable Processor - Throughput Latency (2017).pdf,file
+Interrupts in Linux - Slides - 2013 (L07-LinuxEvents).pdf,file
+Interval hash tree - An efficient index structure for searching object queries in large image databases - 2000 (caivd99).pdf,file
+Introduction to AMD GPU Programming with HIP - 2019 (AMD_GPU_HIP_training_20190906).pdf,file
+Introduction to Coccinelle - 2011 (Slides).pdf,file
+Introduction to Computer Theory - Cohen (1990).pdf,file
+Introduction to DPDK - Slides (2015).pdf,file
+Introduction to Debugging the FreeBSD Kernel - Paper - BSDCan 2008.pdf,file
+Introduction to Debugging the FreeBSD Kernel -BSDCan 2008.pdf,file
+"Introduction to Dynamic Unary Encoding (Dec 19, 2014).pdf",file
+Introduction to GPUs - CS378 - Spring 2015 - Slides.pdf,file
+Introduction to Intel Ethernet Flow Director (2014).pdf,file
+Introduction to Machine Learning - CMU-10701 - Deep Learning - Slides (Spring 2014).pdf,file
+"Introduction to Mathematics for Game Development - James Cowley  (June 23, 2016).pdf",file
+Introduction to Parallel Architectures - Josep Torrellas - CS533 (2012).pdf,file
+Introduction to Probability and Statistics with R - 2011 (IPSUR).pdf,file
+"Introduction to Python for Computational Science and Engineering - A Beginner's Guide - September 7th, 2015.pdf",file
+Introduction to Random Graphs - Frieze and Karonski - 2016 (Book).pdf,file
+Introduction to Random Graphs - Slides - 2015 (Slides_TomaszLuczak1).pdf,file
+Introduction to the Pin Instrumentation Tool - Slides (27 Mar 2013).pdf,file
+Introduction to x64 Assembly (2009).pdf,file
+Introspection for C and its Applications to Library Robustness - 2017 (1712.01163).pdf,file
+Investigation of Hardware Transactional Memory - 2015 (Andrew-Nguyen-Thesis).pdf,file
+It's Time for Low Latency - 2011 (latency_hotos11).pdf,file
+Itanium - A System Implementor's Tale (2005).pdf,file
+Item-Based Collaborative Filtering Recommendation Algorithms (2001).pdf,file
+Java Callstack Trace - HTTP to JDBC - 2006 (jtrac-callstack).pdf,file
+"JavaScript - ECMA-262 Standard (v5.1, 2011).pdf",file
+JavaScript Cheat Sheet.pdf,file
+Jeanne D'Arc Skill-binding Cheatsheet (2007).pdf,file
+Jeanne D'Arc Walkthrough (2008).pdf,file
+"Join-Idle-Queue- A Novel Load Balancing Algorithm for Dynamically Scalable Web Services - October 1, 2011 (idleq).pdf",file
+Joint Strike Fighter Air Vehicle C++ Coding Standards - Dec 2005 (Doc. 2RDU00001 Rev. C).pdf,file
+Jump Over ASLR - Attacking Branch Predictors to Bypass ASLR - 2016 (micro16).pdf,file
+Jump the Queue to Lower Latency - USENIX - April 2015 (login_apr15_02_grosvenor_041315).pdf,file
+Just-in-Time Static Type Checking for Dynamic Languages (1604.03641v1).pdf,file
+K - A Rewriting-Based Framework for Computations (rosu-2007-tr-c).pdf,file
+KAN - Kolmogorov-Arnold Networks (2404.19756v3).pdf,file
+KASLR is Dead - Long Live KASLR (2017).pdf,file
+KIVI - A Tuning-Free Asymmetric 2bit Quantization for KV Cache (2402.02750v2).pdf,file
+KLAP - Kernel Launch Aggregation and Promotion for Optimizing Dynamic Parallelism (2016).pdf,file
+KLEE - Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs (klee-osdi-2008).pdf,file
+KMDF - How To Develop Framework Drivers - Microsoft - Slides (2007).pdf,file
+KQguard - Protecting Kernel Callback Queues - 2012 (WRK_Tech_Report_03_12).pdf,file
+KVQuant - Towards 10 Million Context Length LLM Inference with KV Cache Quantization - 2024 (2401.18079v5).pdf,file
+Kam1n0 - MapReduce-based Assembly Clone Search for Reverse Engineering - 2016 (DFC16kdd).pdf,file
+"Keccak and the SHA-3 Standardization - Slides (Feb 6th, 2013).pdf",file
+Kerncraft - A Tool for Analytic Performance Modeling of Loop Kernels - 2018 (1702.04653).pdf,file
+Kernel Debugging with Windbg (2005).pdf,file
+Kernel Patch Tutorial (2012).pdf,file
+Kernel Pool Exploitation on Windows 7 - 2011 (16032-kernel-pool-exploitation-on-windows-7).pdf,file
+Kernel Pool Exploitation on Windows 7 - 2011 (BlackHat_DC_2011_Mandt_kernelpool-wp).pdf,file
+Kernel-Mode Driver Architecture Design Guide - 2019 (Microsoft).pdf,file
+Kmd Kit - 0x07 Lookaside Lists (2004).pdf,file
+Know Your HTTP Status Codes (2013).pdf,file
+LATEX for Computer Scientists - 15th May 2006.pdf,file
+LLM.int8() - 8-bit Matrix Multiplication for Transformers at Scale - 2022 (2208.07339v2).pdf,file
+LLaMA - Open and Efficient Foundation Language Models - 27 Feb 2023 (2302.13971).pdf,file
+LMAX Disruptor - High performance alternative to bounded queues for exchanging data between concurrent threads - 2011 (Disruptor-1.0).pdf,file
+LSM-trie - An LSM-tree-based Ultra-Large Key-Value Store for Small Data - 2015 (wu15-lsm-trie).pdf,file
+LSM-trie - An LSM-tree-based Ultra-Large Key-Value Store for Small Data - Slides - 2015 (atc15_slides_wu).pdf,file
+Language Models are Few-Shot Learners (2005.14165v4).pdf,file
+Language Models are Unsupervised Multitask Learners (2019).pdf,file
+Latency and Bandwidth Impact on GPU Systems - 2008 (ms-proj-gpgpu-latency-bandwidth).pdf,file
+Layer Normalization (1607.06450v1).pdf,file
+Lazy Asynchronous IO for Event-Driven Servers (2004).pdf,file
+"Lazy and Speculative Execution - Microsoft Research - Slides (12th December, 2006).pdf",file
+Learn OpenGL Graphics Programming (2020).pdf,file
+Learned Monotone Minimal Perfect Hashing - 2023 (2304.11012).pdf,file
+Learning Representations by Back-Propagating Errors (1986).pdf,file
+Learning Statistics with R - 2015 (lsr-0.5).pdf,file
+Learning a Hidden Hypergraph - 2006 (angluin06a).pdf,file
+"Learning with Hypergraphs - Clustering, Classification, and Embedding (2017).pdf",file
+Learning-based Query Performance Modeling and Prediction - 2011 (qperf-tr).pdf,file
+Lecture 11 - Programming on GPUs - Part 1 - Slides - 2014 (Lec-11-GPU).pdf,file
+Lecture Notes on AVL Trees - March 2011 (18-avl).pdf,file
+Lecture Notes on Linear Algebra (2015).pdf,file
+"Less Hashing, Same Performance - Building a Better Bloom Filter - 2008 (10.1.1.152.579).pdf",file
+Let your GPU do the Heavy Lifting in your Data Warehouse - Slides - 2013 (S3190-GPU-Heavy-Lifting-Data-Warehouse).pdf,file
+Leveraging Compression in In-Memory Databases - 2012 (dbkda_2012_6_20_30160).pdf,file
+LightGBM - A Highly-Efficient Gradient Boosting Decision Tree (2017).pdf,file
+LightScan - Faster Scan Primitive on CUDA Compatible Manycore Processors (1604.04815v1).pdf,file
+Lightweight Contention Management for Efficient Compare-and-Swap Operations (2013).pdf,file
+Linear Algebra (2013).pdf,file
+Linear Algebra - Jim Hefferon - 4th Ed (2020).pdf,file
+"Linear Algebra Abridged - Sheldon Axler (13th March, 2016).pdf",file
+Linear Road - A Stream Data Management Benchmark (2004).pdf,file
+Linked List Problems - Stanford (2002).pdf,file
+Linux - FS Workshop (2007).pdf,file
+Linux Block IO - Introducing Multi-queue SSD Access on Multicore Systems (2013).pdf,file
+Linux Kernel Architecture for Device Drivers - 2010 (Thomas Petazzoni).pdf,file
+Linux Productivity Tools - Slides - 2019 (lisa19_maheshwari).pdf,file
+Linux Symposium 2004 - All.pdf,file
+LinuxCon 2009 - 10Gbs Bi-directional Routing.pdf,file
+Locality Exists in Graph Processing - Workload Characterization on an Ivy Bridge Server (2015).pdf,file
+Lock-free Concurrent Data Structures - 12 Feb 2013 (1302.2757).pdf,file
+Lockless Programming - GDC 2009 - Slides (Bruce Dawson).pdf,file
+Lockless Programming - GDC 2009 - Slides (Bruce Dawson).ppt,file
+"Locks, Deadlocks and Synchronization - Windows Hardware and Driver Central (2006).pdf",file
+"Locks, Deadlocks and Synchronization - Windows Hardware and Driver Central (2006).pdf.docx",file
+Logistic Regression (2012).pdf,file
+Lonestar- A Suite of Parallel Irregular Programs - 2009 (ispass2009).pdf,file
+Long Gaps Between Primes - 2016 (1412.5029).pdf,file
+Long Short-Term Memory (1997).pdf,file
+Long-term Recurrent Convolutional Networks for Visual Recognition and Description (1411.4389v3).pdf,file
+Longest Common Extension with Recompression - 16th Nov 2016 (1611.05359).pdf,file
+"Loop Independence, Compiler Vectorization and Threading of Loops (SSE and AVX) - Intel - Slides (2010).pdf",file
+"Lossless Compression in Lossy Compression Systems - Stanford, EE398A - Slides - 2012 (01-EntropyLosslessCoding).pdf",file
+Lossless Source Coding - 2012 (03_Lossless-Coding-WS12).pdf,file
+Lower Bound Techniques for Data Structures (2008).pdf,file
+LumberChunker - Long-Form Narrative Document Segmentation (2406.17526v1).pdf,file
+Lynx - Using OS and Hardware Support for Fast Fine-Grained Inter-Core Communication - 2016 (mitropoulou16-ics).pdf,file
+M4 - A Visualization-Oriented Time Series Data Aggregation - 2014 (p797-jugel).pdf,file
+MARX - Uncovering Class Hierarchies in C++ Programs - (NDSS 2017).pdf,file
+MGtoolkit - A Python Package for Implementing Metagraphs (2017).pdf,file
+MIPSpro C and C++ Pragmas - 2003 (007-3587-005).pdf,file
+MIPSpro MIPSpro Assembly Language Programmer's Guide - 2003 (007-2418-006).pdf,file
+MISTRAL - Processing Relational Queries Using a Multidimensional Access Method - 2000 - Slides and Comments.pdf,file
+MISTRAL - Processing Relational Queries Using a Multidimensional Access Method - 2000 - Slides.pdf,file
+MMLSpark - Unifying Machine Learning Ecosystems at Massive Scales - 2019 (1810.08744).pdf,file
+"MSDN - Compound Synchronization Objects (July 21, 1994).pdf",file
+"MSDN - DLLs the Dynamic Way (November, 1999).pdf",file
+"MSDN - Emulating Operating System Synchronization (October, 1997).pdf",file
+"MSDN - Multithreading Performance (January 31, 1996).pdf",file
+"MSDN - Multithreading for Rookies (September 24, 1993).pdf",file
+"MSDN - Writing Scalable Applications for Windows NT (Revision 1.0 June 6, 1995).pdf",file
+"MSDN - Writing Windows NT Server Applications in MFC Using IO Completion Ports (September, 1996).pdf",file
+Mach - A New Kernel Foundation for UNIX Developers - 1986 (accetta86).pdf,file
+Mach - A New Kernel Foundation for UNIX Developers - 1986 (mach_usenix86).pdf,file
+Machine Learning - The High-Interest Credit Card of Technical Debt - Google - 2014 (43146).pdf,file
+Magazines and Vmem- Extending the Slab Allocator to Many CPUs and Arbitrary Resources (2001).pdf,file
+Maintaining Knowledge about Temporal Intervals - 1983.pdf,file
+Making Lockless Synchronization Fast - Performance Implications of Memory Reclamation - 2006 (hart_ipdps06).pdf,file
+Making networking apps scream on Windows with DPDK (2017).pdf,file
+Mamba - Linear-Time Sequence Modeling with Selective State Spaces (2312.00752v2).pdf,file
+Managing Traffic with ALTQ (1999).pdf,file
+Managing the Development of Large Software Systems - 1970 (waterfall).pdf,file
+Managing the Google T1-5 Relational Database - 2010 (10.1.1.456.9390).pdf,file
+Markov Chains and Random Walks (2002).pdf,file
+Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems - 2012 (p1064_martina-cezaraalbutiu_vldb2012).pdf,file
+"Massively-Parallel Similarity Join, Edge-Isoperimetry, and Distance Correlations on the Hypercube - 15th Nov 2016 (1611.04999).pdf",file
+Mastering the Game of Go with Deep Neural Networks and Tree Search (2016).pdf,file
+Matchings in 3-uniform Hypergraphs (2012).pdf,file
+Matchings in k-partite k-uniform Hypergraphs (2018).pdf,file
+"Matchings in k-partite k-uniform Hypergraphs (Feb 17th, 2018).pdf",file
+"Matchings, Hamilton Cycles and Cycle Packings in Uniform Hypergraphs - 2005 (dmAE0154).pdf",file
+Math for Machine Learning (2009).pdf,file
+Mathematics Cheat Sheet (2013).pdf,file
+Mathematics for Computer Science (2012).pdf,file
+Mathematics for Computer Science (2018).pdf,file
+Mathematics for Programmers - 2020 (Early Draft).pdf,file
+Matplotlib Cheat Sheet.png,file
+Maximally Consistent Sampling and the Jaccard Index of Probability Distributions - 2018 (1809.04052).pdf,file
+Maximizing File Transfer Performance Using 10Gb Ethernet and Virtualization - FedEx Case Study - Intel (2010).pdf,file
+Maximizing GPU Throughput Across Multiple Streams - Tips and Tricks - Slides - 2017 (s7393-chuck-seberino-maximizing-gpu).pdf,file
+Maximizing Performance of PC Games on 64-bit Platforms - 2004 (AMD_GDC_2005_Mike_Wall).pdf,file
+Measuring the Impact of Event Dispatching and Concurrency Models on Web Server Performance Over High-speed Networks (1997).pdf,file
+MegaPipe - A New Programming Interface for Scalable Network IO (2012).pdf,file
+Megatron-LM - Training Multi-Billion Parameter Language Models Using Model Parallelism - 2020 (1909.08053v4).pdf,file
+Mellanox ConnectX-2 10GbE Cards - Product Data Sheet (2013).pdf,file
+Meltdown (2018).pdf,file
+"Memory Barriers - a Hardware View for Software Hackers (July 23, 2010).pdf",file
+Memory Efficient Hard Real-Time Garbage Collection (2003).pdf,file
+Memory Ordering in Modern Microprocessors (ordering.2007.09.19a).pdf,file
+Memory-Efficient Search Trees for Database Management Systems - Feb 2020 - Thesis (CMU-CS-20-101).pdf,file
+"Mental models, Consistency and Programming Aptitude - 2008 (CRPITV78Bornat).pdf",file
+Merge Path - Parallel Merging Made Simple (2012).pdf,file
+Message Passing or Shared Memory - Evaluating the Delegation Abstraction for Multicores (2013-opodis).pdf,file
+Meta Large Language Model Compiler - Foundation Models of Compiler Optimization (2024).pdf,file
+Microsoft Portable Executable and Common Object File Format Specification - 1999 (pecoff).doc,file
+Microsoft Portable Executable and Common Object File Format Specification - 1999 (pecoff).pdf,file
+"Microsoft Portable Executable and Common Object File Format Specification - Revision 8.3 (6th Feb, 2013).docx",file
+"Microsoft Portable Executable and Common Object File Format Specification - Revision 8.3 (6th Feb, 2013).pdf",file
+Microsoft Windows - Software Development Kit - Programmer's Learning Guide - Version 2.0 (1987).pdf,file
+Microsoft Windows - Software Development Kit - Programming Tools - Version 2.0 (1987).pdf,file
+Microsoft Windows NT Server 4.0 versus UNIX.html,file
+Microsoft Windows NT Server 4.0 versus UNIX_files,dir
+Microsoft Windows RPC Security Vulnerabilities (2003).pdf,file
+Microsoft Windows RPC Security Vulnerabilities (2003).pptx,file
+Mihai Patrascu - Obituary and Open Problems (2012).pdf,file
+Minimal Perfect Hash Functions Made Simple - 1980 (p17-cichelli).pdf,file
+Misomorphism - A Semiotic Model of Computer Security Circumvention - 2015 (TR2015-768).pdf,file
+Mison - A Fast JSON Parser for Data Analytics - 2017 (p1118-li).pdf,file
+Mixed Model Universal Software Thread-Level Speculation - 2013 (ICCP2013).pdf,file
+Mobile Computing Research Is a Hornet's Nest of Deception and Chicanery (2013).pdf,file
+Modeling High-Frequency Limit Order Book Dynamics with Support Vector Machines (2013).pdf,file
+Modern C (2015).pdf,file
+Modern C v2 (2019).pdf,file
+Modern Microprocessors - A 90 Minute Guide (2012).pdf,file
+MonetDB-X100 - Hyper-Pipelining Query Execution (CIDR 2005 P19).pdf,file
+Monotone Minimal Perfect Hashing - Searching a Sorted Table with O(1) Accesses - 2009 (1496770.1496856).pdf,file
+Monotone Minimal Perfect Hashing - Searching a Sorted Table with O(1) Accesses - 2014 (MonotoneMinimalPerfectHashing).pdf,file
+"More Than You Ever Wanted to Know about Synchronization - Synchrobench, Measuring the Impact of the Synchronization on Concurrent Algorithms - 2015 (gramoli-synchrobench).pdf",file
+"Multi-Core, Main-Memory Joins - Sort vs. Hash Revisited - 2014 (p85-balkesen).pdf",file
+Multi-core is Here - But How Do You Resolve Data Bottlenecks in Native Code - 2008 (AMD_Webcast_Jan_2008_MW).pdf,file
+Multi-core with less pain - Deterministic Parallel Programming with Haskell (2012).pdf,file
+Multidigit Multiplication for Mathematicians (2001).pdf,file
+Multiple Byte Processing with Full-Word Instructions - Leslie Lamport (1975).pdf,file
+NT Insider - 2017-01.pdf,file
+NT Insider - 2017-02.pdf,file
+NT Insider - 2020-01.pdf,file
+NTFS Cheat Sheet (2011).pdf,file
+NTFS Documentation (2005).pdf,file
+"NTFS System Crash - Marius Tivadar - July 19th, 2017.pdf",file
+NVDIMM Block Window Driver Writer's Guide - Intel (April 2015).pdf,file
+"NVDIMM Namespace Specification - Intel (Revision 1.0, April 2015).pdf",file
+NVDIMM-N Cookbook - A Soup-to-Nuts Primer on Using NVDIMM-Ns to Improve Your Storage Performance - 2015 (Chang-Sainio_NVDIMM_Cookbook).pdf,file
+NVIDIA - Accelerated Computing and the Democratization of Supercomputing Technical Overview - 2018 (sc18-tesla-democratization-tech-overview-r4-web).pdf,file
+NVIDIA - Cooperative Groups - Slides - GTC 2017 (s7622-Kyrylo-perelygin-robust-and-scalable-cuda).pdf,file
+"NVIDIA - Effective, Scalable Multi-GPU Joins (Slides) - 2019 (s9557).pdf",file
+NVIDIA - Fermi Compute Architecture - Whitepaper - v1.1 (2009).pdf,file
+NVIDIA - GeForce GTX 1080 - Whitepaper (2016).pdf,file
+NVIDIA - GeForce GTX 1080 Whitepaper - Gaming Perfected (2016).pdf,file
+NVIDIA - GeForce GTX 980 - Whitepaper (2014).pdf,file
+NVIDIA - Optimizing Parallel Reduction in CUDA - Slides (2007).pdf,file
+NVIDIA - Performance Optimization - Slides GTC 2013 (S3466-Programming-Guidelines-GPU-Architecture).pdf,file
+NVIDIA - Profiling GPU Programs - Slides (2021).pdf,file
+NVIDIA - Turing GPU Architecture - Graphics Reinveted (2018).pdf,file
+NVIDIA - Understanding and Using Atomic Memory Operations - Slides - 2013 (S3101-Atomic-Memory-Operations).pdf,file
+NVIDIA A100 Tensor Core GPU - NVIDIA Whitepaper (2020).pdf,file
+NVIDIA Blackwell Architecture Technical Brief (2024).pdf,file
+NVIDIA CUDA 5.5 - Getting Started Guide for Windows - July 2013 (DU-05349-001_v5.5).pdf,file
+NVIDIA DGX-1 Datasheet (2016).pdf,file
+NVIDIA DGX-1 With Tesla V100 System Architecture - 2017 (Whitepaper).pdf,file
+NVIDIA GPU Computing Webinars - CUDA Memory Optimization (2011).pdf,file
+NVIDIA H100 Tensor Core GPU Architecture - NVIDIA Whitepaper (2023).pdf,file
+NVIDIA Tesla - A Unified Graphics and Computing Architecture (2008).pdf,file
+NVIDIA Tesla K80 Data Sheet (2014).pdf,file
+NVIDIA Tesla K80 GPU Accelerator - 2015 (Tesla-K80-BoardSpec-07317-001-v05).pdf,file
+NVIDIA Tesla V100 Volta GPU Architecture v1.1 (August 2017).pdf,file
+NVIDIA cuFile API Reference (Oct 2022).pdf,file
+NVML - Implementing Persistent Memory Applications - 2015.pdf,file
+NYSE OpenBook Ultra Spec v1.9 (2013).pdf,file
+NYU CUDA Advanced Techniques 1 - Slides (2016).pdf,file
+NYU CUDA Advanced Techniques 2 - Slides (2016).pdf,file
+NYU CUDA Advanced Techniques 3 - Slides (2016).pdf,file
+NYU CUDA Advanced Techniques 4 - Slides (2016).pdf,file
+Name Mangling Demystified (2007).pdf,file
+Near-Optimal Space Perfect Hashing Algorithms - 2009 (ctd09).pdf,file
+Near-Optimal Space Perfect Hashing Algorithms - PhD Thesis (2008).pdf,file
+Network Stack Challenges at Increasing Speeds - The 100Gbs Challenge - RedHat 2015.pdf,file
+Network Stack Specialization for Performance - 2013 (hotnets-final43).pdf,file
+"Networks of Collaborations - Hypergraph Modeling and Visualisation - 4th July, 2017 (1707.00115).pdf",file
+Neural Machine Translation of Rare Words with Subword Units (1508.07909v5).pdf,file
+Neural Turing Machines (1410.5401v2).pdf,file
+Neural Word Embedding as Implicit Matrix Factorization - 2014 (5477-neural-word-embedding-as-implicit-matrix-factorization).pdf,file
+NeuralSVG - An Implicit Representation for Text-to-Vector Generation - 2025 (2501.03992v1).pdf,file
+New Approach for Graph Algorithms on GPU using CUDA - 2013 (10.1.1.402.6651).pdf,file
+New Cardinality Estimation Algorithms for HyperLogLog Sketches (1702.01284).pdf,file
+New sendfile(2) - FreeBSD (20 Feb 2015).pdf,file
+Next Generation Collaborative Reversing with Ida Pro and CollabREate - 2008 (BH_US_08_Eagle_Vidas_Collabreate_paper).pdf,file
+Nobody ever got fired for using Hadoop on a Cluster - Microsoft 2012 (hotcbp12).pdf,file
+Noise2Noise - Learning Image Restoration without Clean Data (1803.04189v3).pdf,file
+Nonblocking Algorithms and Scalable Multicore Programming - ACM - 2013 (Samy Al Bahra).pdf,file
+Notes on Differential Equations (2014).pdf,file
+NumPy Binning Tutorial (2015).pdf,file
+Numba - Python Compiler for NumPy-SciPy (2012).pdf,file
+ObCaptureObjectName.pdf,file
+Objconv - Instructions (2016).pdf,file
+"Object-Oriented Programming - Some History, and Challenges For The Next Fifty Years - 2012 (O-JDahl).pdf",file
+Object-relative Addressing - Compressed Pointers in 64-bit Java Virtual Machines - 2007 (P107_134).pdf,file
+On End-to-End Program Generation from User Intention by Deep Neural Networks - 2015 (1510.07211v1).pdf,file
+On Hamilton Cycle Decompositions of r-uniform and r-partite Hypergraphs (2013).pdf,file
+On the Construction and Application of Compressed Text Indexes (2004).pdf,file
+On the Data Access Issue (Or Why CPUs Are Starving) - EuroSciPy 2009.pdf,file
+On the Expressive Power of Deep Neural Networks (1606.05336v6).pdf,file
+On the Implementation of Minimum Redundancy Prefix Codes (1997).pdf,file
+On the Performance of Bitmap Indices for High Cardinality Attributes - 2004 (RS1P2).PDF,file
+"On the Performance of Bitmap Indices for High Cardinality Attributes - 2014 (822860, LBNL-54673).pdf",file
+"On the Quest for an Acyclic Graph - 9th Oct, 2017 (1708.01745).pdf",file
+On the de Bruijn-Newman Constant (2009).pdf,file
+"On the k-Independence Required by Linear Probing and Minwise Independece - December 25th, 2014 (1302.5127).pdf",file
+On the optimal Time-Space Tradeoff for Hash Tables (2111.00602).pdf,file
+On-the-Fly Garbage Collection - An Exercise in Cooperation - Dijkstra (1978).pdf,file
+One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling (1312.3005v3).pdf,file
+One Size Fits All - An Idea Whose Time Has Come and Gone - Relational Databases - 2005 (icde05).pdf,file
+Online Normalizer Calculation for Softmax (1805.02867v2).pdf,file
+Open Crypto Audit Project - TrueCrypt - 2014 (iSec).pdf,file
+Open Source Kernel Enhancements for Low-Latency Sockets using Busy Poll - Intel - 2013 (Whitepaper).pdf,file
+OpenGIS Implementation Standard for Geographic Information - Simple Feature Access - Part 2 - SQL option v1.2.1 (2010).pdf,file
+OpenVMS RTL String Manipulation (STR$) Manual - April 2006 (AA-PV6MD-TK).pdf,file
+Opportunistic Data Structures with Applications (2000).pdf,file
+Optimization Techniques for GPU Programming - 2023 (3570638).pdf,file
+Optimization of Generalized Unary Coding (1611.03353).pdf,file
+Optimizations in C++ Compilers - ACM - Nov 2019 (3371595.3372264).pdf,file
+Optimizing Bloom Filters for Modern GPU Architectures (2512.15595v1).pdf,file
+Optimizing For AMD Ryzen - Slides - 2017 (GDC2017).pdf,file
+Optimizing Indirect Memory References with milk - 2016 (p299-kiriansky).pdf,file
+Optimizing Parallel Prefix Operations for the Fermi Architecture (2011).pdf,file
+Optimizing Parallel Reduction in CUDA - 2007 (Slides).pdf,file
+Optimizing Pattern Matching (2001).pdf,file
+Optimizing TLS for High-Bandwidth Applications on FreeBSD - Netflix - 2015 (asiabsd_2015_tls).pdf,file
+Optimizing and Interfacing with Cython - Slides - 2010 (cours_cython).pdf,file
+Optimizing synchronization primitives in Wine - Slides - 2023 (lpc2023).pdf,file
+Oracle - Beginning Performance Tuning - 2013 (Arup Nanda).pdf,file
+Oracle - Fraud and Anomaly Detection Using Oracle Advanced Analytic Option 12c - 2013 (fraudoaa12c-1979769).pdf,file
+Oracle - Multitenant Databases - 2013 (Arup Nanda).pdf,file
+Oracle - New Features for Developers in 12c - 2013 (Arup Nanda).pdf,file
+Oracle - Partitioning Tips and Tricks - 2013 (Arup Nanda).pdf,file
+Oracle - Tips and Techniques for Statistics Gathering - 2013 (Arup Nanda).pdf,file
+Oracle - Understanding Oracle Locking - 2014 (Arup Nanda).pdf,file
+Oracle - x86 Assembly Reference Manual - 2010 (817-5477).pdf,file
+Oracle 11 Data Warehousing Guide - 2013 (e25554).pdf,file
+Oracle 11g - Advanced Compression Whitepaper (Jan 2012).pdf,file
+Oracle 11gr1 Administrator's Guide - 2008 (b28310).pdf,file
+Oracle 11gr1 Concepts - 2011 (b28318).pdf,file
+Oracle 11gr1 Data Cartridge Developer Guide - 2008 (b28425).pdf,file
+Oracle 11gr1 Reference - 2009 (b28320).pdf,file
+Oracle 11gr1 SQL Language Reference - 2013 (b28286).pdf,file
+Oracle 11gr2 Advanced Application Developer's Guide - 2014 (e41502).pdf,file
+Oracle 11gr2 Application Developer's Guide - 2014 (e24435).pdf,file
+Oracle 11gr2 Data Warehousing Guide - 2012 (e25555).pdf,file
+Oracle 11gr2 Object-Relational Developer's Guide - 2013 (e11822).pdf,file
+Oracle 11gr2 PLSQL Language Reference - 2014 (e25519).pdf,file
+Oracle 11gr2 PLSQL Packages and Types - 2013 (e40758).pdf,file
+Oracle 11gr2 Performance Tuning Guide - 2013 (e41573).pdf,file
+Oracle 11gr2 Text Reference - 2014 (e24436).pdf,file
+Oracle 11gr2 VLDB and Partitioning Guide - 2010 (e16541).pdf,file
+Oracle 12c - Utilities - 2015 (E41528-05).pdf,file
+Oracle B-Tree Index Internals - Rebuilding the Truth - 2007 (Richard Foote).pdf,file
+"Oracle Bitmaps (1999, Jan) - Make a Little Bit Go a Long Way (oracle-01_bitmap_1).doc",file
+"Oracle Bitmaps (2003, Sept) - [1] Understanding Bitmap Indexes (oracle-03_bitmap_1).doc",file
+"Oracle Bitmaps (2003, Sept) - [2] Star Transformations (oracle-06_bitmap_2).doc",file
+"Oracle Bitmaps (2003, Sept) - [3] Bitmap Join Indexes (oracle-07_bitmap_3).doc",file
+"Oracle PLSQL Coding Guidelines (Top Coder, 2006).pdf",file
+Oracle PLSQL in 12c - 2013 (Arup Nanda).pdf,file
+Oracle Row Pattern Matching in Sequences of Rows (2007).pdf,file
+Oracle Spatial - Developing Location-Enabled Applications - Oracle Spatial Geocoding and Routing Engines (2010).pdf,file
+Oral History of David Cutler - Computer History Museum - Feb 25 2016 (102717163-05-01-acc).pdf,file
+Order-Preserving Key Compression for In-Memory Search Trees - 2003 (2003.02391).pdf,file
+Original Microsoft Source Code (1975).pdf,file
+Origins of the Simplex Method - George B. Dantzig - 1987 (a182708).pdf,file
+Out of the Tar Pit (2006).pdf,file
+Out of the Tar Pit - 2006 (MoseleyMarks06a).pdf,file
+Outlier Detection (2005).pdf,file
+Overlapping Matrix Pattern Visualization - A Hypergraph Approach (2008).pdf,file
+Overplotting - Unified Solutions under Abstract Rendering (2013).pdf,file
+Overview of RDMA on Windows (2011).pdf,file
+Ownership - A Distributed Futures System for Fine-Grained Tasks - 2021 (nsdi21-wang).pdf,file
+Ownership and Reference Counting based Garbage Collection in the Actor World - Ponylang (2015).pdf,file
+P - Safe Asynchronous Event-Driven Programming - Microsoft Research Labs - November 2012 (tr-8).pdf,file
+P - Tutorial (2016).pdf,file
+"PC Assembly Language (July 23, 2006).pdf",file
+PC Assembly Language - 2006.pdf,file
+PCI Express Basics (2007).pdf,file
+PE File Structure (2008).pdf,file
+PE Format Layout (2007).pdf,file
+PE Format Walkthrough (2007).pdf,file
+PE Injection Explained (2014).pdf,file
+"PLPython - Python inside the PostgreSQL RDBMS (Slides, EuroPython 2011).pdf",file
+PLWAH+ - A Bitmap Index Compressing Scheme - 2014 (jcao_c_plwah).pdf,file
+POSH - Python Object Sharing (2003).pdf,file
+POSIX Base - Issue 7 - 2013 (C138).pdf,file
+PS4 Toolchain - 2013.pdf,file
+PageRank as a Function of the Damping Factor (2005).pdf,file
+Pandas Cheat Sheet (2021).pdf,file
+Pandas v0.14.1 (2014).pdf,file
+"Pandas, SciPy, NumPy - Cheat Sheet (2013).pdf",file
+Pandoc User's Guide (2015).pdf,file
+"Paper - B-Trees, Shadowing and Clones (2008).pdf",file
+Paper - Fractal Prefetching B-Trees (2002).pdf,file
+Paper - How to write Shared Libraries (2011).pdf,file
+Paper - Interleaving (2003).pdf,file
+"Paper - The Need for Asynchronous, Zero-Copy Network IO (2006).pdf",file
+Paper - The Zephyr Abstract Syntax Description Language (1997).pdf,file
+Paper - Wegner Transactive Memory (1987).pdf,file
+Parallel Computation - CSE260 - Lecture 9 - Matrix Multiplication (Fall 2015).pdf,file
+Parallel Depth-First Search for Directed Acyclic Graphs - 2017 (nvr-2017-001).pdf,file
+Parallel Depth-First Search for Directed Acyclic Graphs - 2018.pdf,file
+Parallel Depth-First Search for Directed Acyclic Graphs - Paper (2018).pdf,file
+Parallel Depth-First Search for Directed Acyclic Graphs - Poster (2018).pdf,file
+Parallel Depth-First Search for Directed Acyclic Graphs - Slides (2018).pdf,file
+Parallel Lossless Data Compression on the GPU (2012).pdf,file
+Parallel Prefix Sum with SIMD - 2020 (ADMS20_05).pdf,file
+Parallel Programming with Transactional Memory - 2008 (p38-drepper).pdf,file
+"Parallel Random Numbers - As Easy as 1, 2, 3 (2011).pdf",file
+Parallel Scans and Prefix Sums - Slides (2013).pdf,file
+Parallel and External-Memory Construction of Minimal Perfect Hash Functions with PTHash - 4 Jun 2021 (2106.02350).pdf,file
+Parallel and Sequential Data Structures and Algorithms - Lecture 27 - Hashing II (2012).pdf,file
+Parallelism in Randomized Incremental Algorithms - 2016 (BGSS16).pdf,file
+Parsed_Syscalls.h,file
+Parsing Gigabytes of JSON per Second - 25 Feb 2019 (1902.08318).pdf,file
+Parsing a SWIFT Message (May 2007).pdf,file
+Partial Redundancy Elimination for Global Value Numbering (2004).pdf,file
+"Pattern Matching using Suffix Trays, Arrays and Trees (2014).pdf",file
+Patterns Of Software - Tales from the Software Community (1996).pdf,file
+PeachPy - A Python Framework for Developing High-Performance Assembly Kernels (2013).pdf,file
+Peering Inside the PE - A Tour of the Win32 Portable Executable File Format (1994).pdf,file
+Peering Inside the PE - A Tour of the Win32 Portable Executable File Format - MSDN (1994).pdf,file
+Per-CPU Operations in the Linux Kernel - Slides (2011).pdf,file
+Perceus - Garbage Free Reference Counting with Reuse - MSR-TR-2020-42 (Nov 29 2020).pdf,file
+Perfect Hash Families in Polynomial Time - Slides - October 2010 (552phf).pdf,file
+Perfect Hash Functions - Slides (2009).pdf,file
+Perfect Hashing,dir
+Perfect Hashing Structures for Parallel Similarity Searches - 2015 (HICOMB2015-01).pdf,file
+Perfect Hashing for Data Management Applications - 2007 (0702159).pdf,file
+"Perfect Matchings in 4-uniform hypergraphs (1st Feb, 2011).pdf",file
+Perfect Matchings in Large Uniform Hypergraphs with Large Minimum Collective Degree (2008).pdf,file
+Perfect Spatial Hashing (2006).pdf,file
+Perfect matchings in r-partite r-graphs (2008).pdf,file
+Perfect matchings in r-partite r-graphs (2009).pdf,file
+Performance Analysis of BSTs in System Software - 2004 (libavl).pdf,file
+Performance Evaluation of Concurrent Lock-free Data Structures on GPUs (2012).pdf,file
+Performance Evaluation of Concurrent Lock-free Data Structures on GPUs - Slides (2012).pdf,file
+Performance Evaluation of Concurrent Lock-free Data Structures on GPUs - Slides (2012).pptx,file
+Performance and Reliability Analysis Using Directed Acyclic Graphs - 1987 (10.1.1.380.4352).pdf,file
+Performing Advanced Bit Manipulations Efficiently in General-Purpose Processors - 2007 (hilewitz-PerformingBitManipulations).pdf,file
+"Persistence Programming Models for Non-Volatile Memory - July, 2015 (HPL-2015-59).pdf",file
+Persistent Memory in Windows - 2017 (Tom_Talpey_Persistent_Memory_in_Windows_Server_2016).pdf,file
+Peter Hlavaty - Back To The CORE - 2015 (syscan2015).pdf,file
+Pin - Building Customized Program Analysis Tools with Dynamic Instrumentation (2005).pdf,file
+Pin Tutorial - Slides (2007).pdf,file
+Playstation - Ordering Table (1998).pdf,file
+Pointer Analysis (2015).pdf,file
+Polynomial-Time Perfect Matchings in Dense Hypergraphs - 2013 (stoc212fp-keevash).pdf,file
+Pool Tag Quick Scanning for Windows Memory Analysis - 2016.pdf,file
+Portable versus Open Instruction Set Architectures - 2016 (ieeemicro16_card_isa).pdf,file
+Porting Linux to a New Processor Architecture (elc-2016).pdf,file
+Porting of Win32 API WaitFor to Solaris (2001).pdf,file
+PowerShell Basic Cheat Sheet (2012).pdf,file
+Practical Data Compression for Modern Memory Hierarchies - July 2016 - CMU-CS-16-116 (1609.02067).pdf,file
+Practical File System Design - The Be Filesystem (1999).pdf,file
+Practical Implementations of Arithmetic Coding (1992).pdf,file
+Practical R (2013).pdf,file
+Predicate Transfer - Efficient Pre-Filtering on Multi-Join Queries (2307.15255).pdf,file
+Predicate Transfer - Efficient Pre-Filtering on Multi-Join Queries - 2024 (p22-yang).pdf,file
+Preemptable Ticket Spinlocks - Improving Consolidated Performance in the Cloud (2013).pdf,file
+Prefix B-trees - 1977.pdf,file
+Prefix Hash Tree - An Indexing Data Structure over Distributed Hash Tables (2004).pdf,file
+Prefix Sums and Their Application - 1993 (Ble93).pdf,file
+Prefix Sums and Their Applications - 1993 (10.1.1.128.6230).pdf,file
+Prelimary Assessment - UAP - (2021-06-25).pdf,file
+Princeton - Lecture 19 - Virtual Memory (2004).pdf,file
+Principles of Computer System Design - An Introduction - Part II - Version 5.0 - 2009 (part_ii_open_5_0).pdf,file
+Principles of Distributed Computing (2014).pdf,file
+PrintBook.css,file
+PrintExportButton.js,file
+Printing Floating-Point Numbers - An Always-Correct Method - 2016 (fp-printing-popl16).pdf,file
+Printing Floating-Point Numbers Quickly and Accurately with Integers - 2010 (dtoa-pldi2010).pdf,file
+Proactor - An Object Behavioral Pattern for Demultiplexing and Dispatching Handlers for Asynchronous Events (1997).pdf,file
+Probabilistic Graph and Hypergraph Matching (2008).pdf,file
+Probability and Statistics Cookbook (2016).pdf,file
+Processing Relational Queries Using a Multidimensional Access Method - 2000 (ubtree-comments).pdf,file
+Production Tracing with Event Tracing for Windows (ETW) - MSBuild 2017 - Slides.pdf,file
+Production Tracing with Event Tracing for Windows (ETW) - MSBuild 2017 - Slides.pptx,file
+Program Analysis with PREfast & SAL - Slides - 2016 (3_StaticAnalysisPREfast).pdf,file
+Program Analysis with PREfast and SAL - Erik Poll - Slides - 2015 (3_StaticAnalysisPREfast).pdf,file
+Program Design in the UNIX Environment. (1984).pdf,file
+Program Synthesis By Sketching (EECS-2008-177).pdf,file
+Programming Interfaces to Non-Volatile Memory - Slides (2015).pdf,file
+Programming Satan's Computer - 1995 (AndersonNeedham).pdf,file
+Programming with Hardware Lock Elision (2013).pdf,file
+Programming with the x87 Floating Point Unit - Intel.pdf,file
+"Proof of Concept or GTFO - v13 (October 18th, 2016).pdf",file
+"Proof of Concept or GTFO - v17 (30th December, 2017).pdf",file
+Proofs and Refutations (1963).pdf,file
+"Providing Safe, User Space Access to Fast, Solid State Disks (2012).pdf",file
+Proving the Correctness of Nonblocking Data Structures - ACM - 2013 (p30-desnoyers).pdf,file
+Pseudo-Random Number Generators for Vector Processors and Multicore Processors - Agner Fog (2015).pdf,file
+Purify - Fast Detection of Memory Leaks and Access Errors (1992).pdf,file
+Putting Coroutines to Work with the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf,file
+PyEmu - A Multi-purpose Scriptable IA-32 Emulator - 2007 (bh-usa-07-pierce-WP).pdf,file
+"PyParallel - How We Removed The GIL And Exploited All Cores - (PyData NYC, 2013).pdf",file
+Python Bokeh Cheat Sheet (2016).pdf,file
+Pythran - Enabling Static Optimization of Scientific Python Programs (2013).pdf,file
+Quantifying TPC-H Choke Points and Their Optimizations - 2020 (p1206-dreseler).pdf,file
+Quasi-Succinct Indices (2012).pdf,file
+Quick Introduction into SAT and SMT Solvers and Symbolic Execution (2016 - Draft).pdf,file
+QuickThread - Comparative analysis between QuickThread and Intel Threading Building Blocks (2009).pdf,file
+QuickThread - Comparison between QuickThread and OpenMP 3.0 under system loads (2009).pdf,file
+QuickThread - Programming Guide (2009).pdf,file
+QuickThread - Superscalar Programming 101 - Parts 1-5 (2009).pdf,file
+"RAPIDS - Numba for CUDA Programmers - Session 3 - Porting, Performance, Interop, Debugging - 2021 (Slides).pdf",file
+RAPIDS - cuDF Cheat Sheet (2023).pdf,file
+README.md,file
+REFRAG - Rethinking RAG-based Decoding - 2025 (2509.01092).pdf,file
+RTop-K - Ultra-Fast Row-wise Top-K Selection for Neural Network Acceleration on GPUs (2025).pdf,file
+RWKV - Reinventing RNNs for the Transformer Era (2305.13048v2).pdf,file
+RadixVM - (Slides) Scalable address spaces for multithreaded applications (2013).pdf,file
+RadixVM - Scalable address spaces for multithreaded applications (2013).pdf,file
+Rainbow matchings in r-partite r-graphs - 2009 (v16i1r119).pdf,file
+Random Number Generation on GPUs - Slides - 2019 (7_IstvanKiss).pdf,file
+Random number generators for massively parallel simulations on GPU (1204.6193).pdf,file
+Ray v2 Architecture (2022).pdf,file
+Reactor - An Object Behavioral Pattern for Demultiplexing and Dispatching Handles for Synchronous Events (1998).pdf,file
+Reading from External Memory (2102.11198v1).pdf,file
+Real Programming in Functional Languages - James H. Morries (1981).pdf,file
+Real World Concurrency (2008).pdf,file
+Real-Time Parallel Hashing on the GPU (2009).pdf,file
+Real-time Neural Radiance Caching for Path Tracing - 2021 (mueller21realtime).pdf,file
+Realizing Quality Improvement Through Test Driven Development - Results and Experiences of Four Industrial Teams - 2008 (nagappan_tdd).pdf,file
+Reasoning about Temporal Relations - A Maximal Tractable Subclass of Allen's Interval Algebra - 1994 (10.1.1.57.5336).pdf,file
+RecSplit - Minimal Perfect Hashing via Recursive Splitting (1910.06416).pdf,file
+Recognizing Unordered Depth-First Search Trees of an Undirected Graph in Parallel (2000).pdf,file
+Recollections of Early Chip Development at Intel (2001).pdf,file
+Reconsidering Custom Memory Allocation - 2002 (berger-oopsla2002).pdf,file
+Reducing Cache Pollution Through Detection and Elimination of Non-Temporal Memory Accesses - 2010 (pap368s4).pdf,file
+Reducing the Space Requirement of Suffix Trees - 1999 (Kurtz_SWPracticeandExperiment_1999).pdf,file
+Reevaluation of Programmed IO with Write-Combining Buffers to Improve IO Performance on Cluster Systems - 2015 (NAS2015_kPIO+WC).pdf,file
+Refactoring the FreeBSD Kernel with Checked C - 2020 (freebsd_checkedc).pdf,file
+Reflective DLL Injection v1.0 - Stephen Fewer (31st October 2008).pdf,file
+Register Level Sort Algorithm on Multicore SIMD Processors - 2013 (xiaochen_rocki_IA3_SC13).pdf,file
+Regular and Almost Universal Hashing - An Efficient Implementation - 2016 (1609.09840).pdf,file
+Regular and Almost-Universal Hashing - An Efficient Implementation (1609.09840).pdf,file
+Regularized Evolution for Image Classifier Architecture Search (1802.01548v7).pdf,file
+"Relative Suffix Trees - 15th Dec, 2017 (1508.02550).pdf",file
+Remote Library Injection (April 6th 2004).pdf,file
+"Repeating History Beyond ARIES - C. Mohan (VLDB Conf, 1999).pdf",file
+Replacing Suffix Trees with Enhanced Suffix Arrays (2004).pdf,file
+Resumable Functions v3 - Microsoft C++ - 2014 (n4286).pdf,file
+Resurrecting Recurrent Neural Networks for Long Sequences (2303.06349v1).pdf,file
+Rethinking SIMD Vectorization for In-Memory Databases (2015).pdf,file
+Retroactive Data Structures (2012).pdf,file
+Retrofitting Word Vectors to Semantic Lexicons - 2015 (15HLT-retrofitting-word-vectors).pdf,file
+Reverse Engineering for Beginners (2015).pdf,file
+Reverse-Engineering Instruction Encodings - 2000 (derive-usenix01).pdf,file
+Rewriting History - USC FBE Finance Seminar - - 2007 (F_2-15-07_MALLOY-Anonymous).pdf,file
+Rewriting x86 Binaries without Code Producer Cooperation - 2012 (wartell12thesis).pdf,file
+Rich vs King - The Entrepreneur's Dilemma - Harvard (2006).pdf,file
+Ring 0 to Ring-1 Attacks - Hyper-V IPC Internals - Alex Ionescu - 2015 (syscan2015).pdf,file
+Rise of the VMs - 2012 (Slides).pdf,file
+RoFormer - Enhanced Transformer with Rotary Position Embedding - 2023 (2104.09864v5).pdf,file
+"Robust Combinatorial Optimization with Exponential Scenarios (November 10th, 2006).pdf",file
+Runtime Composition of Iterations for Fusing Loop-carried Sparse Dependence (SC 2023).pdf,file
+SALSA - Scalable and Low Synchronization NUMA-aware Algorithm for Producer-Consumer Pools - 2012 (spaa049-gidron).pdf,file
+SC11 - Overview of RDMA on Windows (2011).pdf,file
+SCSI Command Table (2010).pdf,file
+"SEDA - An Architecture for Well-Conditioned, Scalable Internet Services - 2001 (seda-sosp01).pdf",file
+"SEDA - An Architecture for Well-Conditioned, Scalable Internet Services - Deck - 2001 (seda-sosp01-talk).pdf",file
+"SEDA - An Architecture for Well-Conditioned, Scalable Internet Services - Dissertation - 2002 (mdw-phdthesis).pdf",file
+SIMD Compression and the Intersection of Sorted Integers (1401.6399v11).pdf,file
+SIMD Compression and the Intersection of Sorted Integers - 2014 (simdcompressionarxiv).pdf,file
+SIMD Compression and the Intersection of Sorted Integers - 2015 (1401.6399v12).pdf,file
+SIMD Parallelization of Applications that Traverse Irregular Data Structures (2013).pdf,file
+SIMD Vectorization of Histogram Functions - 2007 (10.1.1.80.9041).pdf,file
+SIMD at Insomniac Games (How We Do The Shuffle) - Slides - 2015.pdf,file
+SIMNET and Beyod - A History of the Development of Distributed Simulation - 2015 (2015_FellowPaper_Miller).pdf,file
+SLAM and Static Driver Verifier- Technology Transfer of Formal Methods inside Microsoft (tr-2004-08).pdf,file
+"SLIDE - Accelerating SLIDE Deep Learning on Modern CPUs - Vectorization, Quantizations, Memory Optimizations, and More - 2021 (2103.10891).pdf",file
+SLIDE - In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems - 2020 (1903.03129).pdf,file
+SMT and Z3 - Microsoft Research - Slides (2009).pdf,file
+SPARC - v9 Architecture Manual (1994).pdf,file
+SPECK - A Kernel for Scalable Predictability - 2015 (rtas15speck).pdf,file
+SQLGraph - An Efficient Relational-Based Property Graph Store - 2015 (43287).pdf,file
+STOPLESS - A Real-Time Garbage Collector for Multiprocessors - 2007 (10.1.1.108.322).pdf,file
+Safe Concurrent Programming and Execution (2013).pdf,file
+Safe Memory Reclamation for Dynamic Lock-Free Objects Using Atomic Reads and Writes - 2002 (podc-2002).pdf,file
+Satisfiability Modulo Theories - An Appetizer - Microsoft Research - Slides - 2009 (sbmf09-slides).pdf,file
+Scalable Lock-Free Dynamic Memory Allocation (pldi-2004).pdf,file
+Scaling Address Space Operations on Linux with TSX (2011).pdf,file
+Scaling Joins to a Thousand GPUs - 2021 (gao_adms21).pdf,file
+Scaling SQL to the Supercomputer for Interactive Analysis of Simulation Data (2021).pdf,file
+"Scheduling, Thread Context and Synchronization - Windows Hardware and Driver Central (2004).pdf",file
+SciPy 1.0 - Fundamental Algorithms for Scientific Computing in Python - 2020 (s41592-019-0686-2).pdf,file
+Scoop the Windows 10 Pool (19H1) - SSTIC (2020).pdf,file
+Scrambled Linear Pseudorandom Number Generators (2018).pdf,file
+Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions (FAST-2013-GF).pdf,file
+Scriptable Operating Systems with Lua (2014).pdf,file
+SearchBox.jss,file
+Security Engineering - Ross Anderson - 2001 (v1).pdf,file
+Sega Saturn - 1995 (ST-238-R1-051795).pdf,file
+Self-Adjusting Binary Search Trees (1985).pdf,file
+Self-Verifying Execution (Position Paper) - Microsoft Research (2016).pdf,file
+Self-stabilizing Systems in Spite of Distributed Control - ACM - 1974 - (EWD426).PDF,file
+Semantic Patches - Documenting and Automating Collateral Evolutions in Linux Device Drivers - 2007 (ols07-padioleau).pdf,file
+Seminars - A Collection of Materials on Seminar Approaches and Evaluation Strategies.pdf,file
+Sequence to Sequence Learning with Neural Networks (1409.3215v3).pdf,file
+Sequent Calculus as a Compiler Intermediate Language - ICFP (2016).pdf,file
+Serial Order - A Parallel Distributed Processing Approach - 1986 (Jordan-TR-8604-OCRed).pdf,file
+Serving Large Language Models on Huawei CloudMatrix384 (2506.12708v1).pdf,file
+Setting Up a Production Monitoring and Diagnostic Environment - Slides - 2016 (SELA).pdf,file
+Shining Light on Shadow Stacks - 7 Nov 2018 (1811.03165).pdf,file
+Shuffle - Tips and Tricks - Slides - GPU Tech Conf 2013 (S3174).pdf,file
+Shuffler - Fast and Deployable Continuous Code Re-Randomization - 2016 (shuffler-osdi16).pdf,file
+SicHash - Small Irregular Cuckoo Tables for Perfect Hashing - 22 Nov 2022 (2210.01560).pdf,file
+Simple Image File Formats - PPM Format (2009).pdf,file
+Simple and Space-Efficient Minimal Perfect Hash Functions - 2007 (wads07).pdf,file
+Simple implementation of deletion from open-address hash table (0909.2547).pdf,file
+Sine and Cosine using CORDIC (2006).pdf,file
+Single-pass Parallel Prefix Scan with Decoupled Look-back (nvr-2016-002).pdf,file
+"SipHash - A Fast, Short-Input PRF - 18th Sept 2012 (2117_siphash).pdf",file
+Six methods for transforming layered hypergraphs to apply layered graph layout algorithms (2022).pdf,file
+Skip Lists - A Probabilistic Alternative to Balanced Trees - 1990 (pugh-skiplists-cacm1990).pdf,file
+SmartIndex - Learning to Index Caches to Improve Performance (2023).pdf,file
+Snel - SQL Native Execution for LLVM - 21 Feb 2020 (2002.09449).pdf,file
+Software Engineering Code of Ethics (1999).pdf,file
+Software Tracing - Microsoft - Slides (2003).ppt,file
+Software Tracing - Slides - Microsoft 2003.pdf,file
+Software Tracing - Slides - Microsoft 2003.pptx,file
+Software Transactional Memory - Why Is It Only a Research Toy - 2008 (p46-cascaval).pdf,file
+Solaris 10 System Administration Guide - Solaris Fibre Channel Storage Configuration and Multipathing Support Guide (2004).pdf,file
+Solaris 11 - Cheat Sheet - 2012 (1556378).pdf,file
+Solaris Dynamic Tracing Guide - 2008 (817-6223).pdf,file
+Solaris Internals - Core Kernel Architecture (2001).pdf,file
+Solidifying Modern SMT Solvers - PhD Thesis (2024).pdf,file
+Sorting improves word-aligned bitmap indexes - 2014 (0901.3751v6).pdf,file
+"Sortledon - A Universal, Transactional Graph Data Structure - 2022 (p1173-fuchs).pdf",file
+SpaceJMP - Programming with Multiple Virtual Address Spaces - 2016 (spacejmp_asplos16).pdf,file
+Specialising Dynamic Techniques For Implementing The Ruby Programming Language (2015).pdf,file
+Spectre Attacks - Exploiting Speculative Execution (2018).pdf,file
+Speeding up Networking - Precision IO (2006).pdf,file
+Sphinx Cheat Sheet (2013).pdf,file
+Spin-Based Reader-Writer Synchronization for Multiprocessor Real-Time Systems_ (2010).pdf,file
+Spread Unary Coding (1412.6122).pdf,file
+Squares - A Fast Counter-Based RNG (2004.06278).pdf,file
+Squarified Treemaps (2000).pdf,file
+Stable-Baselines3 - Reliable Reinforcement Learning Implementation (2021).pdf,file
+Star Schema Benchmark (2009).PDF,file
+Staring Into The Abyss - An Evaluation of Concurrency Control with One Thousand Cores - 2014 (p209-yu).pdf,file
+Statis - Flexible Transactional Storage (EECS-2010-2).pdf,file
+Statistically adaptive learning for a general class of cost functions (SA L-BFGS) (1209.0029v3).pdf,file
+"Stochastic Gradient Descent Tricks (Microsoft Research, 2012).pdf",file
+Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks - 2020 (1905.11286v3).pdf,file
+Storing a Sparse Table with O(1) Worst Case Access Time - 1984 (fks-perfecthash).pdf,file
+Stratified B-trees and Versioning Dictionaries - 2011 (1103.4282v2).pdf,file
+Stratified B-trees and Versioning Dictionaries - 30 March 2011 (1103.4282v2).pdf,file
+Stratified Synthesis - Automatically Learning the x86-64 Instruction Set - 2016 (pldi16-strata).pdf,file
+Streaming Data Mining (2012).pdf,file
+Streaming Store Instructions in the Intel Xeon Phi coprocessor - Slides (2012).pdf,file
+Strongly Universal String Hashing is Fast - 15 May 2014 (1202.4961).pdf,file
+Structured Deferral - Synchronization via Procrastination - ACM - 2013 (p20-mckenney).pdf,file
+Structured Exception Handler Exploitation - 2011 (17505).pdf,file
+Subdivision of Hypergraphs and their Colorings (2020).pdf,file
+Successfully Deploying Persistent Memory and Acceleration via Compute Express Link (2019).pdf,file
+"Suffix Trees - Slides - 2014 (Ben Langmead, Johns Hopkins).pdf",file
+SuffixDecoding - Extreme Speculative Decoding for Emerging AI Applications (2411.04975v2).pdf,file
+Sum of Degrees of Vertices Theorem - Slides (2014).pdf,file
+System Evaluation of the Intel Optane Byte-addressable NVM - 2019 (1908.06503v1).pdf,file
+System Management BIOS (SMBIOS) Reference 5 Specification v3.2.0 - 2018 (DSP0134_3.2.0).pdf,file
+"System V Application Binary Interface (ABI) AMD64 Architecture Processor Supplement - v0.99.6 (October 7, 2013).pdf",file
+System V Application Binary Interface AMD64 Architecture Processor Supplement (2013).pdf,file
+Systolic Arrays for VLSI - 1978 (ADA066060).pdf,file
+TCP Fast Open (2011).pdf,file
+TPC-H v3.0.1 (2022).pdf,file
+Tackling Latency Using FG - 2011 (TR2011-706).pdf,file
+Taming Win32 Threads with Static Analysis - Slides - 2008 (08161-yangjasonyue-slides).pdf,file
+Taming Win32 Threads with Static Analysis - Slides - 2008 (08161-yangjasonyue-slides).pptx,file
+Tango - Distributed Data Structures over a Shared Log (2013).pdf,file
+TelaMalloc - Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators - 2023 (3567955.3567961).pdf,file
+Temporally Bounding TSO for Fence-Free Asymmetric Synchronization - 2015 (asplos2015-tbtso).pdf,file
+Ten Lessons I Wish I Had Learned Before I Started Teaching Differential Equations (1997).pdf,file
+Ten Years with DragonFlyBSD Network Stack (2017).pdf,file
+Tensor Product Attention Is All You Need (2501.06425v1).pdf,file
+"TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems (Nov 9th, 2015).pdf",file
+"Tesla - GPU Computing - Past, Present and Future - Slides (2011).pdf",file
+Test-driving Intel Xeon Phi - 2013 (p137).pdf,file
+TestU01 - A Software Library in ANSI C for Emperical Testing of Random Number Generators - 2013 (guideshorttestu01).pdf,file
+"The 12 Commandments of Synchronization - October 4, 2011 (10.1.1.227.3871).pdf",file
+The ART of Practical Synchronization (2016).pdf,file
+The AWK Programming Language (1988).pdf,file
+The Allure of Machine Learning - Azure ML (2015).pdf,file
+The BW-Tree - A B-tree for New Hardware Platforms - 2013 (Microsoft Research - Presentation).pptx,file
+"The Bias Against Creativity - Why People Desire But Reject Creative Ideas (Cornell, 1-1-2011).pdf",file
+"The Burrows-Wheeler Algorithm - Daniel Schiller (August 5th, 2012).pdf",file
+The Bw-Tree - A B-tree for New Hardware Platforms - 2013 (Microsoft Research).pdf,file
+The C and C++ Memory Model (2014).pdf,file
+The CUDA C++ Standard Library (2019).pdf,file
+The Cache Performance and Optimizations of Blocked Algorithms - 1991 (lam-asplos91).pdf,file
+The Continuous Linked Settlement (CLS) Foreign Exchange Settlement System (2009).pdf,file
+The Dark Side of Winsock - 2005 (DC_13-Levin).pdf,file
+The Data Plane Development Kit (DPDK) - What it is and where it's going - Slides (2015).pdf,file
+The Datacenter as a Computer - Designing Warehouse-Scale Machines - 3rd Edition - 2018 (00874ed3v01y201809cac046).pdf,file
+"The Dataflow Model - A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing - 2015 (p1792-Akidau).pdf",file
+The Dawning of the Age of Stochasticity (2000).pdf,file
+The Death of Optimizing Compilers - 2015 (slides-djb-20150416-a4).pdf,file
+The Debugging Application Programming Interface - MSDN (1992).pdf,file
+The Design and Implementation of Modern Column-Oriented Database Systems - 2013 (abadi-column-stores).pdf,file
+The Design of a High-Performance File Server - 1989 (10.1.1.38.5481).pdf,file
+The Development of JOVIAL - 1978 (p203-schwartz-jovial).pdf,file
+The Development of the C Language (1993).pdf,file
+The DragonFlyBSD System (2004).pdf,file
+The Economics of Immediate Gratification - 2000 (jbdmfinal).pdf,file
+"The Elements of Statistical Learning - Data Mining, Inference and Prediction - 2nd Edition - 2009 (ESLII_print4).pdf",file
+"The Evolution of Effective B-tree Page Organization and Techniques - A Personal Account - David Lomer, Microsoft Research - 2001 (a1-lomet).pdf",file
+The Evolution of Operating Systems - 2001 (2001b).pdf,file
+The Expressive Power of Transformers with Chain of Thought - 2024 (2310.07923v5).pdf,file
+The Forgotten Interface - Windows Named Pipes - Gil Cohen - Slides (2017).pdf,file
+"The Function of Dream Sleep - Nature Vol. 304 (14th July, 1983).pdf",file
+The Geometry Engine - A VLSI Geometry System for Graphics - James H. Clark (1982).pdf,file
+The Hideous Name - 1985 (pike85hideous).pdf,file
+The IBM POWER8 Review - Challenging the Intel Xeon - Anandtech (2015).pdf,file
+The Impact of the Lambda Calculus in Logic and Computer Science (1997).pdf,file
+The Influence of Organizational Structure On Software Quality - An Empirical Case Study (tr-2008-11).pdf,file
+The K Semantic Framework (CS422-Spring-2010-K).pdf,file
+The Linux Kernel Hidden Inside Windows 10 - Alex Ionescu - Slides - Black Hat 2016.pdf,file
+The Linux Scheduler - A Decade of Wasted Cores - 2016 (eurosys16-final29).pdf,file
+The Little Book of Deep Learning (2023).pdf,file
+The Little Book of Semaphores - Version 2.1.5 - 2008 (downey08semaphores).pdf,file
+The Longest Common Extension Problem Revisited and Applications to Approximate String Searching (2010).pdf,file
+The Matrix Calculus You Need For Deep Learning - 2018 (1802.01528).pdf,file
+The Memory Pool System (2002).pdf,file
+"The Microarchitecture of Intel, AMD and VIA CPUs - An Optimization Guide for Assembly Programmers and Compiler Makers (2018).pdf",file
+The Misuse of Colour in Science Communication - 2020 (s41467-020-19160-7).pdf,file
+The NT Insider (2017-01).pdf,file
+The NVIDIA C++ Standard Library (2021).pdf,file
+"The Need for Asynchronous, Zero-Copy Network IO - Drepper - 2006 (Slides).pdf",file
+The Night Watch (2013).pdf,file
+The Notorious Four-Color Problem (2013).pdf,file
+The NumPy Array - A Structure for Efficient Numerical Computation (2011).pdf,file
+The NumPy Array - A Structure for Efficient Numerical Computation - 8th Feb 2011 (1102.1523).pdf,file
+The Perceptron - A Probabilistic Model for Information Storage and Organization in the Brain (1958).pdf,file
+The Pool Party You Will Never Forget (2023).pdf,file
+The Principles of Deep Learning Theory (2106.10165v2).pdf,file
+The Probabilistic Relevance Framework - BM25 and Beyond (2009).pdf,file
+The Query-flow Graph - Model and Applications (2008).pdf,file
+"The R Inferno (30th April, 2011).pdf",file
+"The RFB Protocol (v3.0, 26-Nov-2010).pdf",file
+The RFB Protocol v3.8 (26 Nov 2010).pdf,file
+The ReactOS Project - An Open Source OS Platform for Learning - Slides - Ionescu (2007).pdf,file
+The RecordLinkage Package - Detecting Errors in Data (2010).pdf,file
+The Reversal Test - Eliminating Status Quo Bias in Applied Ethics (2006).pdf,file
+The Reyes Image Rendering Architecture - 1987.pdf,file
+The Road Towards a Linux TSN (Time-Sensitive Network) Infrastructure - Intel - Slides - 2018 (ELC-2018-USA-TSNonLinux).pdf,file
+The Robust Beauty of Improper Linear Models in Decision Making - July 1979.pdf,file
+The Roots of Trigonometric Integrals - 1950 (597490).pdf,file
+The Saddest Moment (2013).pdf,file
+The Scientist's Guide To Digital Signal Processing - Second Edition (1999).pdf,file
+"The Significance of SIMD, SSE and AVX - Intel - Slides - 2012 (3a_SIMD).pdf",file
+The Skein Hash Function Family - v1.2 - 15 Sep 2009 (skein1.2).pdf,file
+The Slow Winter (2013).pdf,file
+The Smol Training Playbook - The Secrets to Building World-Class LLMs (2025).pdf,file
+The Transactional Memory - Garbage Collection Analogy - 2007 (analogy_oopsla07).pdf,file
+The Trill Incremental Analytics Engine (MSR-TR-2014-54).pdf,file
+The UNIX Time-Sharing System (1974).pdf,file
+The UVM Virtual Memory System (1999).pdf,file
+The Ubiquitous B-Tree - 1979 (comer-b-tree).pdf,file
+The VAD Tree - A Process-Eye View of Physical Memory (2007).pdf,file
+The Vertica Analytic Database- C-Store 7 Years Later - 2012 (p1790_andrewlamb_vldb2012).pdf,file
+The chemfp Project - 2019 (s13321-019-0398-8).pdf,file
+The stabs debug format (2021).pdf,file
+Theory and Practice of Monotone Minimal Perfect Hashing (2009).pdf,file
+Theory of Locality Sensitive Hashing - CS246 Stanford - 2015 (Slides).pdf,file
+Thermometer Encoding - One Hot Way To Resist Adversarial Examples - ICLR 2018.pdf,file
+These Are Not Your Grand Daddys CPU Performance Counters - CPU Hardware Performance Counters For Security - Slides (2015).pdf,file
+Things You Didn't Known About Portable Executable File Format (PECOFF) - Slides - 2011 (BH_US_11_VuksanPericin_PECOFF_Slides).pdf,file
+Thinking like Transformers (2106.06981v2).pdf,file
+Thirty-three Miniatures - Mathematical and Algorithmic Applications of Linear Algebra - 2017 (stml-53-matousek-1).pdf,file
+This World of Ours (2014).pdf,file
+Thread Synchronization in Linux and Windows - 2019 (Auriga_Trunov_EN).pdf,file
+Threads and DragonFlyBSD - Slides - 2009 (luciani_dcbsdcon2009).pdf,file
+Thrill - High-Performance Algorithmic Distributed Batch Data Processing in C++ - Slides (2016).pdf,file
+Thrill - High-Performance Algorithmic Distributed Batch Data Processing with C++ (1608.05634).pdf,file
+Thrust - A Productivity-Oriented Library for CUDA (2011).pdf,file
+Thrust - A Productivity-Oriented Library for CUDA (2012).pdf,file
+Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries (2306.02253).pdf,file
+"Time, Clocks, and the Ordering of Events in a Distributed System - Leslie Lamport, 1978 (p558-lamport).pdf",file
+TinyLFU - A Highly Efficient Cache Admission Policy (1512.00727).pdf,file
+Titans - Learning to Memorize at Test Time (2501.00663v1).pdf,file
+To Compress or Not to Compress- Self-Supervised Learning and Information Theory - A Review (2304.09355v5).pdf,file
+To Search or to Crawl - Toward a Query Optimizer for Text-Centric Tasks - 2006 (sigmod2006).pdf,file
+To Wash It All Away (2014).pdf,file
+Tokutek - Data Structures and Algorithms for Big Databases (2012).pdf,file
+Tokutek - Fractal Tree Technology and the Art of Indexing (2012).pdf,file
+Tokutek - Solving the Challenges of Big Databases with MySQL (MySQL Connect 2012).pdf,file
+Toolformer - Language Models Can Teach Themselves to Use Tools (2302.04761v1).pdf,file
+Top 50 LLM Interview Questions (May 2025).pdf,file
+Topic Indexing - Slides (2013).pdf,file
+Topics in IRIX 6.5 Programming (2004).pdf,file
+Topological Transformation Approaches To Database Query Processing (2015).pdf,file
+Towards Deep Symbolic Reinforcement Learning - 2016 (1609.05518).pdf,file
+Towards Deep Symbolic Reinforcement Learning - 2016 (1609.05518v2).pdf,file
+Towards End-to-End Speech Recognition with Recurrent Neural Networks - 2014 (graves14).pdf,file
+Towards a Database System for Large-scale Analytics on Strings - PhD Thesis (2015).pdf,file
+Towards a New File Format for Big Data - SIMD-Friendly Composable Compression (2020-AzimAfroozeh).pdf,file
+Trace-based Just-in-Time Type Specialization for Dynamic Languages - 2009 (tracemonkey).pdf,file
+Tracing Function Calls in the Windows NT Kernel - PhD Thesis - 2015 (BPTX_2014_2_11320_0_348076_0_164038).pdf,file
+Tracing Privileged Memory Accesses to Discover Software Vulnerabilities (2015).pdf,file
+Track Join - Distributed Joins with Minimal Network Traffic - 2014 (sigmod14II).pdf,file
+Training Language Models To Follow Instructions With Human Feedback - 2022 (2203.02155v1).pdf,file
+Training of CC4 Neural Network using Unary and Spread-Unary Inputs - 2015 (Potluri_okstate_0664M_14453).pdf,file
+Transactional Memory - CS4021 - Slides (2017).pdf,file
+Transformers are SSMs - Generalized Models and Efficient Algorithms Through Structured State Space Duality (2405.21060v1).pdf,file
+Transparent Pointer Compression for Linked Data Structures (2005-06-12).pdf,file
+Traps and Pitfalls of Topic-Biased PageRank (2006).pdf,file
+Trie Memtables in Cassandra - 2022 (p3359-lambov).pdf,file
+Tries and String Matching - Slides - 2009 (Small09).pdf,file
+"Tries and Suffix Tries - Slides - 2014 (Ben Langmead, Johns Hopkins).pdf",file
+Trig Cheat Sheet (2005).pdf,file
+Triton - An Intermediate Language and Compiler for Tiled Neural Network Computations (2019-mapl-tillet-kung-cox).pdf,file
+Tru64 - Assembly - 2000 (ARH9LCTE).PDF,file
+Tru64 - Calling Standard - 2000 (ARH9MCTE).PDF,file
+Tru64 - Object File and Symtable Spec (2002).PDF,file
+Tru64 - Programmer's Guide - 2002 (ARH9VDTE).PDF,file
+Tru64 - Programming Support Tools - 2002 (ARH9WBTE).PDF,file
+TruRank - Taking PageRank to the Limit (2005).pdf,file
+True IOMMU Protection from DMA Attacks - When Copy is Faster than Zero Copy - 2016 (cim-asplos-2016).pdf,file
+Tuning a Database Reorganization for Maximum Speed - 2002 (Quest Software).pdf,file
+Twenty-Five Comparators is Optimal when Sorting Nine Inputs (and Twenty-Nine for Ten) (1405.5754).pdf,file
+Two-Way String Matching (1991).pdf,file
+UNIX IO and its Slouch Towards Multicore NUMA - 2009 (libtorque).pdf,file
+"UNIX Time Sharing System - UNIX Programmer's Manual - Seventh Edition, Volume 1A - January, 1979 (v7vol1a).pdf",file
+"UNIX Time Sharing System - UNIX Programmer's Manual - Seventh Edition, Volume 2A - January, 1979 (v7vol2a).pdf",file
+"UNIX Time Sharing System - UNIX Programmer's Manual - Seventh Edition, Volume 2B - January, 1979 (v7vol2b).pdf",file
+Ultrafast and Memory-Efficient Alignment of Short DNA Sequences to the Human Genome - 2009 (gb-2009-10-3-r25).pdf,file
+Unary Coding for Neural Network Learning (1009.4495).pdf,file
+Unary Negation - 2013 (1309.2069).pdf,file
+Understanding Deep Learning (2023-02-17).pdf,file
+Understanding Deep Learning Requires Rethinking Generalization - 2016 (1611.03530v1).pdf,file
+"Understanding Latency Hiding on GPUs - August 12th, 2016 (EECS-2016-143).pdf",file
+Understanding Open Market Operations (1997).pdf,file
+Understanding and Expressing Scalable Concurrency - Aaron Turon - Thesis (2013).pdf,file
+Understanding and Improving Bloom Filter Configuration for Lazy Address-set Disambiguation (2011).pdf,file
+Understanding and Using Atomic Memory Operations - GTC 2013 - Slides (S3101-Atomic-Memory-Operations).pdf,file
+Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation (2012).pdf,file
+Understanding the Difficulty of Training Deep Feed-Forward Neural Networks (2010).pdf,file
+Understanding the Overheads of Launching CUDA Kernels - 2019 (Poster17-moc).pdf,file
+"Understanding the Performance of PCI Express Systems - Xilinx (October, 2014).pdf",file
+Understanding the Python GIL - David Beazley (2010).pdf,file
+Undocumented PECOFF - 2011 (BH_US_11_VuksanPericin_PECOFF_WP).pdf,file
+Unified Memory - Notes on GPU Data Transfers (2017).pdf,file
+Uninformed v4a1 - Improving Automated Analysis of Windows x64 Binaries (2006).pdf,file
+Universal and Perfect Hashing - 2011 (lect1004).pdf,file
+Unleashing the Power of Static Analysis - Slides - 2006 (sas06-das).pdf,file
+Unleashing the Power of Static Analysis - Slides - 2006 (sas06-das).pptx,file
+Unmixed d-uniform and r-partite Hypergraphs - 2016 (1605.02655).pdf,file
+Unreliable Guide to Hacking the Linux Kernel (2000).pdf,file
+UofW - Memory Hierarchy (2010).pdf,file
+User Mode Memory Page Management (2011).pdf,file
+Using CUDA in Practice - GPU Programming - CSE 591 - Slides (2015).pdf,file
+Using Graphics Processors for Parallelizing Hash-based Data Carving - 2009 (10.1.1.405.6531).pdf,file
+Using Jupyter for Reproducible Scientific Workflows - 2021 (2102.09562).pdf,file
+Using Memory Management to Detect and Extract Illegitimate Code for Malware Analysis - Slides - 2012.pdf,file
+Using Python for Model Inference in Deep Learning (2104.00254v1).pdf,file
+Using non-volatile memory (NVDIMM-N) as byte-addressable storage in Windows Server 2016 (P470).pdf,file
+Using non-volatile memory (NVDIMM-N) as byte-addressable storage in Windows Server 2016 (P470).pptx,file
+Using the Output Embedding to Improve Language Models (1608.05859v3).pdf,file
+"VAX-VMS Internals 2 Student Workbook - 1986 (Oct-86, EY-2280E-SG-0001).pdf",file
+VLDB 2023 - DBSP - Automatic Incremental View Maintenance for Rich Query Languages (p1601-budiu).pdf,file
+VLDB 2023 - Motiflets - Simple and Accurate Detection of Motifs in Time Series (p725-schafer).pdf,file
+VLDB 2023 - OneShotSTL - One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting (p1399-he).pdf,file
+VLDB 2023 - Simple Adaptive Query Processing vs Learned Query Optimizers - Observations and Analysis (p2962-zhang).pdf,file
+Variants of Mersenne Twister Suitable for Graphic Processors - 21 Mar 2012 (1005.4973).pdf,file
+Vectorized Bloom Filters for Advanced SIMD Processors - 2014 (damon14).pdf,file
+Vectorized Bloom Filters for Advanced SIMD Processors - Columbia - Slides (2014).pdf,file
+Vectorized and performance-portable Quicksort (2205.05982).pdf,file
+Verification Techniques (2000).pdf,file
+"Verification of the Tree-Based Hierarchical Read-Copy Update in the Linux Kernel - 10th October, 2016 (1610.03052).pdf",file
+Versioned external-memory dictionaries with optimal query-update tradeoffs - 2011 (1103.2566v2).pdf,file
+Vim Book - 2001 (vimbook-OPL).pdf,file
+Vim for Humans (2015).pdf,file
+Virtual Threads - 2000 (cs263_cheong_reiss).pdf,file
+Virtualization Without Direct Execution or Jitting - Designing a Portable Virtual Machine Infrastructure (2008).pdf,file
+"Visual Studio, Microsoft Portable Executable and Common Object File Format Specification - Revision 9.3 - 29th Dec, 2015 (pecoff_v93).docx",file
+"Visual Studio, Microsoft Portable Executable and Common Object File Format Specification - Revision 9.3 - 29th Dec, 2015 (pecoff_v93).pdf",file
+Vulcan - Binary Transformation in a Distributed Environment (tr-2001-50).pdf,file
+Wake-up Latencies for Processor Idle States on Current x86 Processors - Slides (2014).pdf,file
+"Warp Shuffles, and Reduction and Scan Operations - CUDA - Slides (2016).pdf",file
+WarpCore - A Library for fast Hash Tables on GPUs (2009.07914).pdf,file
+WarpCore - A Library for fast Hash Tables on GPUs - GPU Tech Conference 2021 (Slides).pdf,file
+Weaving Relations for Cache Performance - 2001 (P169).pdf,file
+Weird Things that Surprise Academics Trying to Commercialize a Static Checking Tool - 2005 (spin05-coverity).pdf,file
+WekaFS Architectural White Paper (2021).pdf,file
+What Every Hacker Should Know about TLB Invalidation (Dec 2024).pdf,file
+What Every Programmer Should Know About Memory - Ulrich Drepper (2007).pdf,file
+What Happens During a Join - Dissecting CPU and Memory Optimization Effects - 2000 (P339).pdf,file
+"What Modern NVMe Storage Can Do, And How To Exploit It -- High-Performance IO for High-Performance Storage Engines - 2023 (p2090-haas).pdf",file
+What's New In Apple File Systems - Slides - WWDC 2019.pdf,file
+What's New with io_uring - Slides - 2022 (axboe-kr2022).pdf,file
+What's Wrong With Deep Learning - 2015 (lecun-20150610-cvpr-keynote).pdf,file
+What's new with io_uring - 2022 (axboe-kr2022-1).pdf,file
+When Corrections Fail - The Persistence of Political Misperceptions - 2010 (nyhan-reifler).pdf,file
+"When Prefetching Works, When It Doesn't, and Why - ACM, 2012 (lee_taco12).pdf",file
+When To Use Splay Trees (2007).pdf,file
+Why Aren't Operating Systems Getting Faster As Fast As Hardware - WRL-TN-11 (October 1989).pdf,file
+Why BitBlt was So Successful - SIGGRAPH 84 (pike84bitblt).pdf,file
+Why Modern CPUs Are Starving And What Can Be Done About It - Francesc Alted (StarvingCPUs-CISE-2010).pdf,file
+Why Rust (2015).pdf,file
+Why Threads Are A Bad Idea (For Most Purposes) - John Ousterhout (Sept 1995).pdf,file
+Win32 Static Analysis in Python - Ero Carrera - Sabre Security GmbH - 2006 (Slides).pdf,file
+WinDbg - A to Z - 2007 (Slides).pdf,file
+WinDbg Cheat Sheet (2014).pdf,file
+Windows - A Software Engineering Odyssey - 2000 (Lucovsky).pdf,file
+Windows - A Software Engineering Odyssey - 2000 (Lucovsky).ppt,file
+Windows - Disk Subsystem Performance Analysis (March 2004).doc,file
+Windows - Disk Subsystem Performance Analysis (March 2004).pdf,file
+"Windows - Timers, Timer Resolution, and Development of Efficient Code (10 June 2016).docx",file
+"Windows - Timers, Timer Resolution, and Development of Efficient Code (10 June 2016).pdf",file
+Windows 10 Control Flow Guard Internals - 2014 (mj0011).pdf,file
+Windows 10 Internals (2016).pdf,file
+Windows 10 Segment Heap Internals (2016).pdf,file
+Windows 8 Registered IO - 2011 (SAC-593T_Briggs).pdf,file
+Windows 8 Registered IO - 2011 (SAC-593T_Briggs).pptx,file
+"Windows Assembly Programming Tutorial - Jeff Huang (v1.02, Dec 10 2003).pdf",file
+Windows Commands (2018).pdf,file
+Windows Error Codes (2015).pdf,file
+Windows Exceptions - MSDN Journal - Figures.htm,file
+Windows Exceptions - MSDN Journal - Figures_files,dir
+Windows Filter Manager - Slides (2003).pdf,file
+Windows Filter Manager - Slides (2003).ppt,file
+"Windows Kernel - MSDN Export (7th Feb, 2019).pdf",file
+Windows Kernel Architecture Internals - 2010 (Dave_Probert_1).pdf,file
+Windows Kernel Attacks through User-Mode Callbacks (Black Hat USA 2011).pdf,file
+Windows Kernel Debugging Tutorial (2005).pdf,file
+Windows Kernel Development Articles (2016-03-30).html,file
+Windows Kernel Development Articles (2016-03-30)_files,dir
+Windows Kernel Internals - Advance Virtual Memory (2004).pdf,file
+Windows Kernel Internals - Cache Manager (2003).pdf,file
+Windows Kernel Internals - Cache Manager (2003).ppt,file
+Windows Kernel Internals - IO Architecture (2004).pdf,file
+Windows Kernel Internals - Lightweight Procedure Calls (2003).pdf,file
+Windows Kernel Internals - NT Registry Implementation (2003).pdf,file
+Windows Kernel Internals - NTFS (2003).pdf,file
+Windows Kernel Internals - Object Manager (2003).pdf,file
+Windows Kernel Internals - Overview (2004).pdf,file
+Windows Kernel Internals - Synchronization (2003).pdf,file
+"Windows Kernel Internals - Traps, Interrupts and Exceptions (2003).pdf",file
+Windows Logon Forensics - 30th Jan 2013 (6928).pdf,file
+"Windows Management Instrumentation (WMI) - Offense, Defense, and Forensics - White Paper - FireEye (2015).pdf",file
+Windows NT pagefile.sys Virtual Memory Analysis (2015).pdf,file
+Windows Network Services Internals - Hivercon 2003 (Jean-Baptiste Marchand).pdf,file
+Windows New Security Features - Control Flow Guard - Slides - 2014 (MR201412_Control_Flow_Guard_ENG).pdf,file
+Windows Persistent Memory Support - 2016 (20160811_S301B_Christiansen).pdf,file
+Windows Persistent Memory Support - Slides - 2018 (04_B_PM_Summit_18_Christiansen_Final_Post).pdf,file
+"Windows Privilege Escalation Through LPC and ALPC Interfaces (June, 2008).pdf",file
+"Windows Research Kernel - Design Notes (David Cutler et al, 1989).pdf",file
+Windows User-Mode Drivers - Alex Ionescu (2012).pdf,file
+Windows and Some Differences from Linux - Slides (Brian Railing).pdf,file
+"Witnesses for Non-Satisfiability of Dense Random 3CNF Formulas (May 9th, 2006).pdf",file
+Writing Linux Device Drivers in Assembly Language - 2002.pdf,file
+Writing Network Drivers in Go (2018-ixy-go).pdf,file
+Writing Network Drivers in Rust (2018-ixy-rust).pdf,file
+Writing R Extensions (2003).pdf,file
+Writing a Simple Operating System from Scratch - Nick Blundell - Dec 2010.pdf,file
+X-Ray - A Function Call Tracing System (2016).pdf,file
+XGBoost - A Scalable Tree Boosting System (1603.02754).pdf,file
+Xorshift RNGs - George Marsaglia (2003).pdf,file
+YOLOv3 - An Incremental Improvement (1804.02767v1).pdf,file
+"You Only Write Thrice - Creating Documents, Computational Notebooks and Presentations from a Single Source - 2021 (2107.06639).pdf",file
+ZFS Administration Guide (2007).pdf,file
+"ZFS On-Disk Data Walk (Or, Where's My Data) - Slides (2008).pdf",file
+ZFS On-Disk Specification - Draft - 2006 (ondiskformat0822).pdf,file
+ZeroMQ (2013).pdf,file
+analytics.js,file
+app.js,file
+automemcpy - A Framework for Automatic Generation of Fundamental Memory Operations (2021).pdf,file
+background.gif,file
+banner-styles.css,file
+comport.gif,file
+comport1.gif,file
+cuda-debugging (2021).pdf,file
+default.css,file
+disclaim-element.js,file
+"eXplode- A Lightweight, General System for Finding Serious Storage System Errors - 2006 (explode-osdi06).pdf",file
+filler.gif,file
+gdb (2022).pdf,file
+geek64-abc edition _ X86 Opcode and Instruction Reference 1.12.html,file
+geek64-abc edition _ X86 Opcode and Instruction Reference 1.12_files,dir
+generate_manifest.py,file
+generate_thumbnails.py,file
+graph-calc.js,file
+graph.jsp,file
+iBFS - Concurrent Breadth-First Search on GPUs - 2016 (ibfs_tcm18-284417).pdf,file
+iSAX 2.0 - Indexing and Mining One Billion Time Series (2010).pdf,file
+index.html,file
+ispc - A SPMD Compiler for High-Performance CPU Programming - 2012 (ispc_inpar_2012).pdf,file
+jargn10-thejargonfilever00038gut (1992).txt,file
+jquery.min.js,file
+k-Ary Search on Modern Processors (2009).pdf,file
+libtorque - Portable Multithreaded Continuations for Scalable Event-Driven Programs (2010).pdf,file
+logo.gif,file
+lwref - BSDCan2014 - FreeBSD (2014).pdf,file
+msjwatermark.gif,file
+pre-print-oopsla16 (2016).pdf,file
+screenshot-dark.webp,file
+screenshot-light.webp,file
+side_menu_98_information.gif,file
+side_menu_98_source.gif,file
+side_menu_98_utilities.gif,file
+side_menu_information.gif,file
+side_menu_middle.gif,file
+side_menu_source.gif,file
+side_menu_top.gif,file
+side_menu_utilities.gif,file
+site.yml,file
+stdgpu - Efficient STL-like Data Structures on the GPU (16 Aug 2019).pdf,file
+style.css,file
+test_parser.py,file
+top_arch.gif,file
+top_menu_aboutus.gif,file
+top_menu_end.gif,file
+top_menu_filler.gif,file
+top_menu_home.gif,file
+top_menu_licensing.gif,file
+top_menu_resources.gif,file
+top_menu_sitemap.gif,file
+"uops.info - Characterizing Latency, Throughput, and Port Usage of Instructions on Intel Microarchitectures - 10 Oct 2018 (1810.04610).pdf",file
+urchin.js.download,file
+vh40.gif,file
+wayback-toolbar-logo.png,file
+wm_tb_nxt_on.png,file
+wm_tb_prv_on.png,file
+workflows,dir
+wtid.js,file
+x86 Intrinsics Cheatsheet v2.1 (2013).pdf,file
+x86 Intrinsics Cheatsheet v2.2 (2015).pdf,file
+x86asm.net,dir
+"xv6 - a simple, Unix-like teaching operating system (Aug 28 2012, draft 7).pdf",file

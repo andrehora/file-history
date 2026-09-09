@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+adicionar-nova-vaga.md,file
+issue.yml,file
+stale-issues.yml,file
+workflows,dir

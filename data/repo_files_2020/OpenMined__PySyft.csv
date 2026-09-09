@@ -1,0 +1,336 @@
+name,type
+.flake8,file
+.gitattributes,file
+.gitbook.yaml,file
+.github,dir
+.gitignore,file
+.pre-commit-config.yaml,file
+.travis.yml,file
+AccuracyvsFlops.png,file
+Asynchronous-federated-learning-on-MNIST.ipynb,file
+BostonHousing,dir
+Build your own tensor type (advanced).ipynb,file
+CONTRIBUTING.md,file
+Challenge Setup.ipynb,file
+DP Tensor Experimentation - v1.ipynb,file
+DP Tensor Experimentation - v2.ipynb,file
+DP Tensor Experimentation - v3.ipynb,file
+DP Tensor Experimentation - v4.ipynb,file
+DP Tensor Experimentation - v5.ipynb,file
+DP Tensor Experimentation - v8.ipynb,file
+Dockerfile,file
+Encrypted Linear Regression.ipynb,file
+FL Experiment.ipynb,file
+Federated CIFAR10.ipynb,file
+Federated Dataset.ipynb,file
+Federated Learning Experiment,dir
+Federated Learning Reinforcement Learning Agent.ipynb,file
+Federated Learning with TrainConfig,dir
+Federated Recurrent Neural Network.ipynb,file
+Federated SMS Spam prediction,dir
+Federated SMS Spam prediction.ipynb,file
+Federated Word Vectors.ipynb,file
+Federated learning with websockets and federated averaging.ipynb,file
+FoldedNN.png,file
+INSTALLATION.md,file
+ISSUE_TEMPLATE,dir
+Introduction to Promises and PromiseTensors.ipynb,file
+Introduction to TrainConfig.ipynb,file
+LICENSE,file
+Large Precision Tensor.ipynb,file
+Makefile,file
+Monitor_Network_Traffic,dir
+MultiSplitNN.png,file
+P2P-DL.png,file
+PATE Analysis.ipynb,file
+PaillierTensor.ipynb,file
+Part 01 - The Basic Tools of Private Deep Learning.ipynb,file
+Part 02 - Intro to Federated Learning.ipynb,file
+Part 03 - Advanced Remote Execution Tools.ipynb,file
+Part 04 - Federated Learning via Trusted Aggregator.ipynb,file
+Part 05 - Welcome to the Sandbox.ipynb,file
+Part 06 - Federated Learning on MNIST using a CNN.ipynb,file
+Part 07 - Federated Learning with Federated Dataset.ipynb,file
+Part 08 - Introduction to Plans.ipynb,file
+Part 08 bis - Introduction to Protocols.ipynb,file
+Part 09 - Intro to Encrypted Programs.ipynb,file
+Part 10 - Federated Learning with Secure Aggregation.ipynb,file
+Part 11 - Secure Deep Learning Classification.ipynb,file
+Part 12 - Train an Encrypted Neural Network on Encrypted Data.ipynb,file
+Part 12 bis - Encrypted Training on MNIST.ipynb,file
+Part 13a - Secure Classification with Syft Keras and TFE - Public Training.ipynb,file
+Part 13b - Secure Classification with Syft Keras and TFE - Secure Model Serving.ipynb,file
+Part 13c - Secure Classification with Syft Keras and TFE - Private Prediction Client.ipynb,file
+Parte 02 - Intro al Aprendizaje Federado.ipynb,file
+Parte 05 - Bem-vindo ao Sandbox.ipynb,file
+Parte 12 - Entrenar una red neuronal encriptada con datos encriptados .ipynb,file
+PointersAhead.ipynb,file
+Private Tensor Mockup.ipynb,file
+PromiseTensor Mockup.ipynb,file
+PySyft-Arch.png,file
+PySyft-Arch.xml,file
+PySyftArch.png,file
+README.md,file
+Split Neural Network,dir
+Tutorial 1 - SplitNN Introduction.ipynb,file
+Tutorial 2 - MultiLayer Split Neural Network.ipynb,file
+Tutorial 3 - Folded Split Neural Network.ipynb,file
+WebsocketClientWorker.ipynb,file
+WebsocketServerWorker.ipynb,file
+__init__.py,file
+_modules,dir
+abstract.py,file
+additive_shared.py,file
+advanced,dir
+art,dir
+assertions.py,file
+attributes.py,file
+autograd.py,file
+bandwidth.png,file
+base.py,file
+beaver.py,file
+boston_housing.pickle,file
+bug_report.md,file
+build_gradients.py,file
+callable_pointer.py,file
+codes.py,file
+compression.py,file
+computation.png,file
+conf.py,file
+conftest.py,file
+constructor.py,file
+crt_precision.py,file
+crypto,dir
+data,dir
+dataloader.py,file
+dataset.py,file
+decorators,dir
+dependency_check.py,file
+deploy-and-connect.ipynb,file
+deploy_workers,dir
+derivatives.yaml,file
+differential_privacy,dir
+docker-compose.yaml,file
+docker-images,dir
+docs,dir
+doctrees,dir
+dp,dir
+efficiency_tests,dir
+entrypoint.sh,file
+environment.pickle,file
+examples,dir
+exceptions.py,file
+experimental,dir
+feature_request.md,file
+federated,dir
+federated_client.py,file
+fl,dir
+frameworks,dir
+functions.py,file
+generic,dir
+gradients.py,file
+gradients_core.py,file
+grid.py,file
+handcrafted_GRU.py,file
+he,dir
+hindi,dir
+hook,dir
+hook.py,file
+hook_args.py,file
+id_provider.py,file
+images,dir
+index.doctree,file
+index.md,file
+index.rst,file
+interpreters,dir
+keras,dir
+korean,dir
+large_precision.py,file
+layers,dir
+linalg,dir
+logging.py,file
+lr.py,file
+markdown,dir
+material,dir
+message,dir
+message.py,file
+messaging,dir
+metrics.ipynb,file
+metrics.py,file
+microsoft_build_tools_choice.png,file
+microsoft_build_tools_main.png,file
+model,dir
+modules.doctree,file
+modules.md,file
+mpc,dir
+msgpack,dir
+multi_pointer.py,file
+mypy.ini,file
+native.py,file
+native_serde.py,file
+nn,dir
+notebooks,dir
+object.py,file
+object_pointer.py,file
+object_storage.py,file
+object_wrapper.py,file
+operations.py,file
+overload.py,file
+paillier.py,file
+pate.py,file
+pen_testing,dir
+pip-dep,dir
+plaintext_speed_regression.ipynb,file
+plan,dir
+plan.py,file
+plusisminus.py,file
+pointer_plan.py,file
+pointer_protocol.py,file
+pointer_tensor.py,file
+pointers,dir
+polynomial.py,file
+precision.py,file
+preprocess.py,file
+private.py,file
+procedure.py,file
+promise.py,file
+proto.py,file
+protobuf,dir
+protocol.py,file
+pyproject.toml,file
+pysyft-notebook,dir
+pysyft-worker,dir
+pythonpublish.yml,file
+raais.png,file
+remote.py,file
+requirements.txt,file
+requirements_dev.txt,file
+requirements_notebooks.txt,file
+requirements_tensorflow.txt,file
+requirements_udacity.txt,file
+rnn.py,file
+romanian,dir
+run_websocket_client.py,file
+run_websocket_server.py,file
+sandbox.py,file
+scripts,dir
+securenn.py,file
+sequential.py,file
+serde,dir
+serde.py,file
+serde_helpers.py,file
+server.py,file
+setup.cfg,file
+setup.py,file
+smpc_illustration.png,file
+spdz.py,file
+start_websocket_servers.py,file
+start_worker.py,file
+state.py,file
+steal_data_over_sockets,dir
+string.py,file
+string_pointer.py,file
+syft,dir
+syft.doctree,file
+syft.frameworks.doctree,file
+syft.frameworks.md,file
+syft.frameworks.torch.crypto.doctree,file
+syft.frameworks.torch.crypto.md,file
+syft.frameworks.torch.differential_privacy.doctree,file
+syft.frameworks.torch.differential_privacy.md,file
+syft.frameworks.torch.doctree,file
+syft.frameworks.torch.federated.doctree,file
+syft.frameworks.torch.federated.md,file
+syft.frameworks.torch.md,file
+syft.frameworks.torch.tensors.decorators.doctree,file
+syft.frameworks.torch.tensors.decorators.md,file
+syft.frameworks.torch.tensors.doctree,file
+syft.frameworks.torch.tensors.interpreters.doctree,file
+syft.frameworks.torch.tensors.interpreters.md,file
+syft.frameworks.torch.tensors.md,file
+syft.md,file
+syft.workers.doctree,file
+syft.workers.md,file
+sysdmcpl.png,file
+sysdmcpl2.png,file
+sysdmcpl3.png,file
+tensor.py,file
+tensorflow,dir
+tensors,dir
+test,dir
+test_activations_time.py,file
+test_additive_shared.py,file
+test_autograd.py,file
+test_base.py,file
+test_callable_pointer.py,file
+test_crt_precision.py,file
+test_dataloader.py,file
+test_dataset.py,file
+test_dependency_check.py,file
+test_exceptions.py,file
+test_federated_client.py,file
+test_federated_learning.py,file
+test_functions.py,file
+test_gc.py,file
+test_grid.py,file
+test_hook.py,file
+test_hook_args.py,file
+test_id_provider.py,file
+test_large_precision.py,file
+test_linalg_time.py,file
+test_local_worker.py,file
+test_logging.py,file
+test_lr.py,file
+test_message.py,file
+test_msgpack_serde.py,file
+test_msgpack_serde_full.py,file
+test_multi_pointer.py,file
+test_native.py,file
+test_notebooks.py,file
+test_object_storage.py,file
+test_operations.py,file
+test_paillier.py,file
+test_parameter.py,file
+test_pate.py,file
+test_plan.py,file
+test_pointer_plan.py,file
+test_pointer_protocol.py,file
+test_pointer_tensor.py,file
+test_polynomial.py,file
+test_precision.py,file
+test_private.py,file
+test_promise.py,file
+test_protobuf_serde.py,file
+test_protobuf_serde_full.py,file
+test_protocol.py,file
+test_sandbox.py,file
+test_sequential.py,file
+test_snn.py,file
+test_string.py,file
+test_tensor.py,file
+test_train_config.py,file
+test_udacity.py,file
+test_utils.py,file
+test_virtual.py,file
+test_websocket_worker.py,file
+test_worker.py,file
+tfe.py,file
+torch,dir
+torch_attributes.py,file
+torch_serde.py,file
+train_config.py,file
+translations,dir
+tutorials,dir
+types.py,file
+utils.py,file
+version.py,file
+virtual.py,file
+visual_sudio_download.png,file
+websocket,dir
+websocket_client.py,file
+websocket_server.py,file
+websockets-example-MNIST,dir
+websockets-example-MNIST-parallel,dir
+worker-server.py,file
+workers,dir
+workflows,dir

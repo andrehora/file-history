@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+Makefile,file
+README.md,file
+chatlib.c,file
+chatlib.h,file
+smallchat-client.c,file
+smallchat-server.c,file

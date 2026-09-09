@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.travis.yml,file
+CODE_OF_CONDUCT.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+awesome-display.svg,file
+awesome-ui.svg,file
+contributing.md,file
+free.svg,file
+media,dir
+oss.svg,file

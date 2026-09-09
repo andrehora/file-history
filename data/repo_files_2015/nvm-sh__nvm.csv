@@ -1,0 +1,106 @@
+name,type
+.gitignore,file
+.npmignore,file
+.travis.yml,file
+Aliases,dir
+CONTRIBUTING.md,file
+LICENSE.md,file
+Listing paths,dir
+Listing versions,dir
+Makefile,file
+README.markdown,file
+"Running ""nvm alias <aliasname>"" should list but one alias.",file
+"Running ""nvm alias"" lists implicit aliases when they do not exist",file
+"Running ""nvm alias"" lists manual aliases instead of implicit aliases when present",file
+"Running ""nvm alias"" should create a file in the alias directory.",file
+"Running ""nvm alias"" should list all aliases.",file
+"Running ""nvm copy-packages $(nvm ls current)"" should error out",file
+"Running ""nvm current"" should display current nvm environment.",file
+"Running ""nvm deactivate"" should unset the nvm environment variables.",file
+"Running ""nvm exec 0.x"" should work",file
+"Running ""nvm exec"" should pick up .nvmrc version",file
+"Running ""nvm install"" with ""--reinstall-packages-from"" requires a valid version",file
+"Running ""nvm install"" with an invalid version fails nicely",file
+"Running ""nvm ls 0.0.2"" should display only version 0.0.2.",file
+"Running ""nvm ls 0.2"" should display only 0.2.x versions.",file
+"Running ""nvm ls foo"" should return a nonzero exit code when not found",file
+"Running ""nvm ls node"" should return a nonzero exit code when not found",file
+"Running ""nvm ls stable"" and ""nvm ls unstable"" should return the appropriate implicit alias",file
+"Running ""nvm ls system"" should include ""system"" when appropriate",file
+"Running ""nvm ls"" should display all installed versions.",file
+"Running ""nvm ls"" should filter out "".nvm""",file
+"Running ""nvm ls"" should filter out ""versions""",file
+"Running ""nvm ls"" should include ""system"" when appropriate",file
+"Running ""nvm ls"" should list versions in the ""versions"" directory",file
+"Running ""nvm ls"" with node-like versioning vx.x.x should only list a matched version",file
+"Running ""nvm run 0.x"" should work",file
+"Running ""nvm run"" should pick up .nvmrc version",file
+"Running ""nvm unalias"" should remove the alias file.",file
+"Running ""nvm uninstall"" should remove the appropriate directory.",file
+"Running ""nvm unload"" should unset all function and variables.",file
+"Running ""nvm use foo"" where ""foo"" is circular aborts",file
+"Running ""nvm use system"" should work as expected",file
+"Running ""nvm use x"" should create and change the ""current"" symlink",file
+"Running ""nvm use x"" should not create the ""current"" symlink if $NVM_SYMLINK_CURRENT is false",file
+"Running ""nvm which 0.0.2"" should display only version 0.0.2.",file
+"Running ""nvm which foo"" should return a nonzero exit code when not found",file
+Sourcing nvm.sh should make the nvm command available.,file
+Sourcing nvm.sh should use the default if available,file
+Sourcing nvm.sh with --install and .nvmrc should install it,file
+Sourcing nvm.sh with --install should install the default,file
+Unit tests,dir
+bash_completion,file
+circular,dir
+fast,dir
+install already installed uses it,file
+install from binary,file
+install from source,file
+install two versions and use the latest one,file
+install version specified in .nvmrc from binary,file
+install version specified in .nvmrc from source,file
+install while reinstalling packages,file
+install.sh,file
+install_script,dir
+installation,dir
+nvm exec,dir
+nvm reinstall-packages,dir
+nvm run,dir
+nvm-exec,file
+nvm.sh,file
+nvm_alias,file
+nvm_checksum,file
+nvm_detect_profile,file
+nvm_do_install,file
+nvm_find_up,file
+nvm_format_version,file
+nvm_get_latest,dir
+nvm_get_latest,file
+nvm_get_latest failed redirect,file
+nvm_get_latest missing curl or wget,file
+nvm_has,file
+nvm_has_system_node,file
+nvm_ls_current,file
+nvm_ls_remote,file
+nvm_num_version_groups,file
+nvm_prepend_path,file
+nvm_print_implicit_alias errors,file
+nvm_print_implicit_alias success,file
+nvm_remote_version,file
+nvm_reset,file
+nvm_resolve_alias,file
+nvm_source,file
+nvm_strip_path,file
+nvm_tree_contains_path,file
+nvm_validate_implicit_alias,file
+nvm_version_dir,file
+nvm_version_greater,file
+nvm_version_path,file
+package.json,file
+setup,file
+setup_dir,file
+should work as expected,file
+slow,dir
+sourcing,dir
+teardown,file
+teardown_dir,file
+test,dir

@@ -1,0 +1,290 @@
+name,type
+#letstalkaboutstress 64040a0733074994976118bbe0acc7fb,dir
+#letstalkaboutstress 64040a0733074994976118bbe0acc7fb.md,file
+.chroma,dir
+.gitignore,file
+.gitkeep,file
+.nojekyll,file
+.streamlit,dir
+2-1.png,file
+2-2.png,file
+2-3.png,file
+2-4.png,file
+3-1.png,file
+3-2.png,file
+3-3.png,file
+3-4.png,file
+3-5.png,file
+3_additional methods.png,file
+3_additional_methods.png,file
+4-1.png,file
+4-2.png,file
+5-1.png,file
+5-2.png,file
+5-3.png,file
+5-4.png,file
+6-1.png,file
+6-2.png,file
+6-3.png,file
+6-4.png,file
+6-5.png,file
+6.txt,file
+6_LLM_benchmarks.png,file
+6_error_analysis.png,file
+6_good_test_data.png,file
+About this document and the author 76a144f94cbd4d779f0098fe25b7ec74.md,file
+Addressing harassment 4605ba2f211445c19ef7f0ba79b4768c.md,file
+Alexander's personal user guide e12c70a9ad9e4450924c012213e036c5.md,file
+Anaconda-file-list.png,file
+Blendle Social Code 33b085aa2d4d430185fe2bb9a63027e6,dir
+Blendle Social Code 33b085aa2d4d430185fe2bb9a63027e6.md,file
+Blendle library a8ce7db8587a4ae5bf786446454bf45e.md,file
+Blendle's Employee Handbook d331da39bd0341ed8d5ee2942fecf17a.md,file
+C0,dir
+C1,dir
+C2,dir
+C3,dir
+C4,dir
+Calling in sick better 9219eaa9dabc456bb1b49f2e9decbc1a.md,file
+ChatBot.png,file
+Chatbot-pizza-cn.png,file
+Compression.png,file
+DNA & culture 237e15b3264d46adb866936cd13f6dd3.md,file
+Data.csv,file
+Different types of finetuning.png,file
+Diversity and inclusion 460f5e9759fd439bb7bccceae81c21ff.md,file
+E & D-2-1.png,file
+E & D-2-10.png,file
+E & D-2-11.png,file
+E & D-2-12.png,file
+E & D-2-13.png,file
+E & D-2-2.png,file
+E & D-2-3.png,file
+E & D-2-4.png,file
+E & D-2-5.png,file
+E & D-2-6.png,file
+E & D-2-7.png,file
+E & D-2-8.png,file
+E & D-2-9.png,file
+E & D-2-sprite_sample.png,file
+E & T-5-1.png,file
+E & T-5-10.png,file
+E & T-5-2.png,file
+E & T-5-3.png,file
+E & T-5-4.png,file
+E & T-5-5.png,file
+E & T-5-6.png,file
+E & T-5-7.png,file
+E & T-5-8.png,file
+E & T-5-9.png,file
+Embedding Adapter.png,file
+Env-Setup.md,file
+Expansion with generated answers.png,file
+Expansion with multiple queries.png,file
+FLLM-3-1.png,file
+FLLM-3-2.png,file
+FLLM-3-3.png,file
+FLLM-3-4.png,file
+FLLM-3-5.png,file
+FLLM-3-6.png,file
+FLLM-3-7.png,file
+FLLM-3-8.png,file
+Feedback cycle 76db1b6873c9447780fc41d81a69441b.md,file
+Finetuning Large Language Models,dir
+Firing d930cdc39090418ea504f297425c97d7.md,file
+Fitness subscription with discount 6d96d6b1bc3647b6a415c170e666bd57.md,file
+General & practical 437c608f7c4e4cfeabf76af7b831a441,dir
+General & practical 437c608f7c4e4cfeabf76af7b831a441.md,file
+General disciplinary measures 99aa3536e14f4055b7563101d1ec38e1.md,file
+Getting people in (branding&sourcing) 3c64133079924ff6820b3b7631074a83.md,file
+Goals 96276a9614204d1ea000613c432d5724.md,file
+Good reads e817491d84d549f886af972e0668192e.md,file
+Headspace Things 2f805b807f734860858677534b7c0c45.md,file
+Highly Skilled Migrants and relocation ddf512ef9032450f9d4b2ad8a2221bea.md,file
+Hiring 553b27f441d44be6bc98653afbe0dd61,dir
+Hiring 553b27f441d44be6bc98653afbe0dd61.md,file
+Hiring process 21b759ccebb1488bb11de2cc783fe418.md,file
+History 73f3f1512c1949079eed545034c25739.md,file
+Holidays b309d1e278d2418f828a0f85b733c5d1.md,file
+How to lead at Blendle 08d66c91017c4a3c85da0601bf9fe150.md,file
+Instruction finetuning generalization.png,file
+Interviewing 9e084758ad2a4922a2cbc86a6d01b3d4.md,file
+Intro two things you should know b5fd0c5393a9498b93396e79fe71e8bf.md,file
+Iterative Prompt Develelopment.png,file
+Iterative-Prompt-Develelopment.png,file
+LCEL.png,file
+LLM Aided Retrieval.png,file
+LLM data generation.png,file
+LORA.png,file
+Leading Feedback 304a48f9a954482bb434e75cc581f04b.md,file
+MMR_algorithm.png,file
+MachineLearning-Lecture01.pdf,file
+MachineLearning-Lecture02.pdf,file
+MachineLearning-Lecture03.pdf,file
+MachineLearning-Lecture04.pdf,file
+Model sizes x compute.png,file
+Modular_components.png,file
+Notion_DB,dir
+Office aa9cf6e6bdfa4277932056d700608387.md,file
+Opening up a new job df2ca8fd3d4e4e1ab62a0c97618141a8.md,file
+OutdoorClothingCatalog_1000.csv,file
+PEFT.png,file
+Parenthood 909ce46f34174854a7b011778689ff56.md,file
+Party and study budget 93163720d55940beb0a1e70c7f121a96.md,file
+Perks and benefits 2f1a58f0a86d4c4d88c178e131dde968,dir
+Perks and benefits 2f1a58f0a86d4c4d88c178e131dde968.md,file
+Personal User Guide c4cfa4e0683144aabf09ff955a5177be,dir
+Personal User Guide c4cfa4e0683144aabf09ff955a5177be.md,file
+Practical approach to finetuning.png,file
+Question_Answering.png,file
+README.md,file
+Rating systems 53c7d4de5be4490f8277a30f4019c805.md,file
+Retrieval.png,file
+RetrievalQA_chain.png,file
+Salary talks 9878e565393348189d8816689013b4f1.md,file
+Sexual harassment ad537dbaafd74442a86785d41b5df204.md,file
+Sickness absence 2a1d61a941c940068ecbb1e4521a90b2,dir
+Sickness absence 2a1d61a941c940068ecbb1e4521a90b2.md,file
+Soft shizzle 7fa3bb0ec8114b34b18fd6143cd17171.md,file
+Tasks to finetune vs model size.png,file
+Temperature.jpg,file
+Time off holidays and national holidays dc2d206a3096412abe58e1db0ac79450.md,file
+To Do Read in your first week 3b93655c75fc4b0db0f20d09be26ab1d.md,file
+Tools and tips 3a39f08a1bf04e659a4d91e15bc5c8de.md,file
+Travel costs and reimbursements 0fbe38e2e708470b8079e33ec39205a0.md,file
+What can Blendle do 618ab89df4a647bf96e7b432af82779f.md,file
+What can I do 09c1b13703ef42d4a889e2059c5b25fe.md,file
+What is instruction finetuning.png,file
+What is stress b198b685ed6a474ab14f6fafff7004b6.md,file
+When is there too much stress a4f312be82cd46d8a8660be180f29fb8.md,file
+When is there too much stress dc135b9a86a843cbafd115aa128c5c90.md,file
+Your 1st month eef9b2e7b3a54d11ae0aa7d64e77e30f.md,file
+Your check-list 6928b6412e4a4026a25bb9003661dcab.md,file
+__init__.py,file
+_sidebar.md,file
+add_update_toc.py,file
+categories.json,file
+ch03_answer_rele.jpg,file
+ch03_answer_rele_ex.jpg,file
+ch03_bench.jpg,file
+ch03_context_example.jpg,file
+ch03_context_rele.jpg,file
+ch03_eva.jpg,file
+ch03_evaIte.jpg,file
+ch03_feedback.jpg,file
+ch03_leadboard.jpg,file
+ch03_rele_example.jpg,file
+ch03_result.jpg,file
+ch03_structure_answer.jpg,file
+ch03_structure_context.jpg,file
+ch03_traid.jpg,file
+ch06_animal.png,file
+ch06_animal_in_context.png,file
+ch06_law_1.png,file
+ch06_law_2.png,file
+ch06_law_3.png,file
+ch06_math.png,file
+ch06_math_with_template.png,file
+ch6-products.png,file
+ch8-example.png,file
+charts.png,file
+chat-format.png,file
+chat_bot.png,file
+chat_robot.py,file
+chroma,dir
+chroma-collections.parquet,file
+chroma-embeddings.parquet,file
+compare-method.png,file
+config,dir
+config.toml,file
+configuration.py,file
+configuration_set.py,file
+content,dir
+context_model.pth,file
+credentials.toml,file
+cs229_lectures,dir
+data,dir
+docs,dir
+document-splitting.png,file
+eBook-How-to-Build-a-Career-in-AI.pdf,file
+embedding_load_model.py,file
+eval_questions.txt,file
+eval_questions_en.txt,file
+example-splitter.png,file
+figures,dir
+generated_questions.txt,file
+generated_questions_en.txt,file
+helper_utils.py,file
+helpers.py,file
+id_to_uuid_2c556e44-e373-4a46-8e99-287a49f46a5b.pkl,file
+id_to_uuid_2e82e9e8-21b4-417f-9108-7aef665dd192.pkl,file
+id_to_uuid_929a3c06-e745-4005-beba-6d0b93e399fe.pkl,file
+id_to_uuid_96510571-d0cf-41be-8f06-e35c32c20f64.pkl,file
+id_to_uuid_d2286c4f-c613-4617-bede-678577318a21.pkl,file
+id_to_uuid_eb8f4e00-842c-4cfd-a16b-ac92826c96cc.pkl,file
+id_to_uuid_f4d0527f-8207-4f46-b2bf-b0502252f3d3.pkl,file
+image2text_chat.py,file
+image_demo.py,file
+images,dir
+index,dir
+index.html,file
+index_2c556e44-e373-4a46-8e99-287a49f46a5b.bin,file
+index_2e82e9e8-21b4-417f-9108-7aef665dd192.bin,file
+index_929a3c06-e745-4005-beba-6d0b93e399fe.bin,file
+index_96510571-d0cf-41be-8f06-e35c32c20f64.bin,file
+index_d2286c4f-c613-4617-bede-678577318a21.bin,file
+index_eb8f4e00-842c-4cfd-a16b-ac92826c96cc.bin,file
+index_f4d0527f-8207-4f46-b2bf-b0502252f3d3.bin,file
+index_metadata_2c556e44-e373-4a46-8e99-287a49f46a5b.pkl,file
+index_metadata_2e82e9e8-21b4-417f-9108-7aef665dd192.pkl,file
+index_metadata_929a3c06-e745-4005-beba-6d0b93e399fe.pkl,file
+index_metadata_96510571-d0cf-41be-8f06-e35c32c20f64.pkl,file
+index_metadata_d2286c4f-c613-4617-bede-678577318a21.pkl,file
+index_metadata_eb8f4e00-842c-4cfd-a16b-ac92826c96cc.pkl,file
+index_metadata_f4d0527f-8207-4f46-b2bf-b0502252f3d3.pkl,file
+lamini_docs.jsonl,file
+langchain_chat.py,file
+loss0.png,file
+loss1.png,file
+matplotlib,dir
+microsoft_annual_report_2022.pdf,file
+moderation-api.png,file
+openai-choose.png,file
+openai-get-key.png,file
+overview.png,file
+product_data.csv,file
+products.json,file
+products_zh.json,file
+prompt-injection.png,file
+pyproject.toml,file
+qrcode.jpeg,file
+readme.jpeg,file
+readme.jpg,file
+readme.md,file
+readme2.png,file
+readme_english.png,file
+requirements.txt,file
+sprite_labels_nc_1788_16x16.npy,file
+sprites_1788_16x16.npy,file
+star-history-2023828.png,file
+text2text_chat.py,file
+tiny-generations.png,file
+tokenizing.png,file
+tokens.png,file
+types-of-splitters.png,file
+utilities.py,file
+utilities_zh.py,file
+utils,dir
+utils.py,file
+utils_en.py,file
+utils_zh.py,file
+uuid_to_id_2c556e44-e373-4a46-8e99-287a49f46a5b.pkl,file
+uuid_to_id_2e82e9e8-21b4-417f-9108-7aef665dd192.pkl,file
+uuid_to_id_929a3c06-e745-4005-beba-6d0b93e399fe.pkl,file
+uuid_to_id_96510571-d0cf-41be-8f06-e35c32c20f64.pkl,file
+uuid_to_id_d2286c4f-c613-4617-bede-678577318a21.pkl,file
+uuid_to_id_eb8f4e00-842c-4cfd-a16b-ac92826c96cc.pkl,file
+uuid_to_id_f4d0527f-8207-4f46-b2bf-b0502252f3d3.pkl,file
+uv.lock,file
+weights,dir
+youtube,dir

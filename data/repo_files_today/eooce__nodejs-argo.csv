@@ -1,0 +1,9 @@
+name,type
+.github,dir
+Dockerfile,file
+README.md,file
+build-docker-image.yml,file
+index.html,file
+index.js,file
+package.json,file
+workflows,dir

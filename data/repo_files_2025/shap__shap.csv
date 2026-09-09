@@ -1,0 +1,574 @@
+name,type
+.git-blame-ignore-revs,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.npmignore,file
+.pre-commit-config.yaml,file
+.psiturk_history,file
+.readthedocs.yml,file
+Abstractive Summarization Benchmark Demo.ipynb,file
+Abstractive Summarization Explanation Demo.ipynb,file
+AdditiveForceArrayVisualizer.jsx,file
+AdditiveForceVisualizer.jsx,file
+An introduction to explainable AI with Shapley values.ipynb,file
+Analyse Results.ipynb,file
+Approve Hits.ipynb,file
+Basic SHAP Interaction Value Example in XGBoost.ipynb,file
+Be careful when interpreting predictive models in search of causal insights.ipynb,file
+Benchmark Debug Mode.ipynb,file
+Benchmark XGBoost explanations.ipynb,file
+CONTRIBUTING.md,file
+Catboost tutorial.ipynb,file
+Census income classification with Keras.html,file
+Census income classification with Keras.ipynb,file
+Census income classification with LightGBM.html,file
+Census income classification with LightGBM.ipynb,file
+Census income classification with XGBoost.html,file
+Census income classification with XGBoost.ipynb,file
+Census income classification with scikit-learn.html,file
+Census income classification with scikit-learn.ipynb,file
+CommViolPredUnnormalizedData.txt,file
+Debrief.jsx,file
+DeepExplainer Genomics Example.ipynb,file
+Diabetes regression.ipynb,file
+Emotion classification multiclass example.ipynb,file
+Exact.ipynb,file
+Example of loading a custom tree model into SHAP.ipynb,file
+Example1.png,file
+Example1_nobar.png,file
+Example2.png,file
+Example2_nobar.png,file
+Explain MobilenetV2 using the Partition explainer (PyTorch).ipynb,file
+Explain ResNet50 using the Partition explainer.ipynb,file
+Explain an Intermediate Layer of VGG16 on ImageNet (PyTorch).html,file
+Explain an Intermediate Layer of VGG16 on ImageNet (PyTorch).ipynb,file
+Explain an Intermediate Layer of VGG16 on ImageNet.html,file
+Explain an Intermediate Layer of VGG16 on ImageNet.ipynb,file
+Explaining a Question Answering Transformers Model.ipynb,file
+Explaining a model that uses standardized features.ipynb,file
+Explaining a simple OR function.ipynb,file
+Explaining quantitative measures of fairness.ipynb,file
+Explaining the Loss of a Model.ipynb,file
+February 2018 Talk.pptx,file
+Federal Reserve 2021 talk.pptx,file
+Figure 1 - Simple Inconsistency Example.ipynb,file
+Figure 3 - User Study.ipynb,file
+Figure 4 - Supervised Clustering Adult Census Data.ipynb,file
+Figure 5 - Runtime.ipynb,file
+Figure 6 - Supervised Clustering R-squared.ipynb,file
+Figure 7 - Airline Tweet Sentiment Analysis.ipynb,file
+Figures 8-11 NHANES I Survival Model-Copy1.ipynb,file
+Figures 8-11 NHANES I Survival Model.ipynb,file
+Fitting a Linear Simulation with XGBoost.ipynb,file
+Force Plot Colors.ipynb,file
+Front Page DeepExplainer MNIST Example.html,file
+Front Page DeepExplainer MNIST Example.ipynb,file
+Front page example (XGBoost).ipynb,file
+GPUTree.ipynb,file
+INFORMS 2019.pptx,file
+ISSUE_TEMPLATE,dir
+Image Captioning using Azure Cognitive Services.ipynb,file
+Image Captioning using Open Source.ipynb,file
+Image Multi Class.ipynb,file
+Image Multiclass Classification Benchmark Demo.ipynb,file
+ImageNet VGG16 Model with Keras.html,file
+Instructions.jsx,file
+Iris classification with scikit-learn.html,file
+Iris classification with scikit-learn.ipynb,file
+Keras LSTM for IMDB Sentiment Classification.html,file
+Keras LSTM for IMDB Sentiment Classification.ipynb,file
+LICENSE,file
+Language Modeling Explanation Demo.ipynb,file
+League of Legends Win Prediction with XGBoost.html,file
+League of Legends Win Prediction with XGBoost.ipynb,file
+MANIFEST.in,file
+Machine Translation Benchmark Demo.ipynb,file
+Machine Translation Explanations.ipynb,file
+Main.jsx,file
+Makefile,file
+Math behind LinearExplainer with correlation feature perturbation.ipynb,file
+Multi-class ResNet50 on ImageNet (TensorFlow)-checkpoint.ipynb,file
+Multi-class ResNet50 on ImageNet (TensorFlow).ipynb,file
+Multi-input Gradient Explainer MNIST Example.ipynb,file
+Multioutput Regression SHAP.ipynb,file
+NHANES I Survival Model.html,file
+NHANES I Survival Model.ipynb,file
+NHANESI_X.csv,file
+NHANESI_subset_X.csv,file
+NHANESI_subset_y.csv,file
+NHANESI_y.csv,file
+NIPS 2017 Talk.pptx,file
+ODSC West talk.pptx,file
+Open Ended GPT2 Text Generation Explanations.ipynb,file
+PULL_REQUEST_TEMPLATE.md,file
+Perfomance Comparison.ipynb,file
+Performance comparison copy.ipynb,file
+Performance comparison.ipynb,file
+Permutation.ipynb,file
+Positive vs. Negative Sentiment Classification.ipynb,file
+PyTorch Deep Explainer MNIST example.html,file
+PyTorch Deep Explainer MNIST example.ipynb,file
+Python Version of Tree SHAP.ipynb,file
+Questions.jsx,file
+README.md,file
+SHAP_NIPS_2017_Errata.pdf,file
+Scatter Density vs. Violin Plot Comparison.ipynb,file
+Sentiment Analysis with Logistic Regression.html,file
+Sentiment Analysis with Logistic Regression.ipynb,file
+Simple California Demo.ipynb,file
+Simple Kernel SHAP.ipynb,file
+SimpleListVisualizer.jsx,file
+Squashing Effect.ipynb,file
+TMLS 2020 talk.pptx,file
+Tabular Prediction Benchmark Demo.ipynb,file
+Text Emotion Multiclass Classification Benchmark Demo.ipynb,file
+Textual Entailment Explanation Demo.ipynb,file
+Tree SHAP in Python.ipynb,file
+Understanding Tree SHAP for Simple Models.ipynb,file
+Using custom functions and tokenizers.ipynb,file
+__init__.py,file
+__snapshots__,dir
+_action.py,file
+_additive.py,file
+_bar.py,file
+_beeswarm.py,file
+_benchmark.py,file
+_cext.cc,file
+_cext_gpu.cc,file
+_cext_gpu.cu,file
+_clustering.py,file
+_coefficient.py,file
+_colorconv.py,file
+_colors.py,file
+_composite.py,file
+_compute.py,file
+_decision.py,file
+_deep,dir
+_embedding.py,file
+_exact.py,file
+_exceptions.py,file
+_explainer.py,file
+_explanation.py,file
+_explanation_error.py,file
+_fixed.py,file
+_fixed_composite.py,file
+_force.py,file
+_force_matplotlib.py,file
+_general.py,file
+_gpu_tree.py,file
+_gradient.py,file
+_group_difference.py,file
+_heatmap.py,file
+_image.py,file
+_keras.py,file
+_kernel.py,file
+_labels.py,file
+_legacy.py,file
+_lime.py,file
+_linear.py,file
+_maple.py,file
+_masked_model.py,file
+_masker.py,file
+_model.py,file
+_monitoring.py,file
+_optimizer.py,file
+_output_composite.py,file
+_partial_dependence.py,file
+_partition.py,file
+_permutation.py,file
+_random.py,file
+_result.py,file
+_sampling.py,file
+_scatter.py,file
+_sequential.py,file
+_serializable.py,file
+_show_progress.py,file
+_static,dir
+_style.py,file
+_tabular.py,file
+_teacher_forcing.py,file
+_templates,dir
+_text.py,file
+_text_generation.py,file
+_topk_lm.py,file
+_transformers_pipeline.py,file
+_tree.py,file
+_treegain.py,file
+_types.py,file
+_ubjson.py,file
+_utils.py,file
+_violin.py,file
+_waterfall.py,file
+a1a.svmlight,file
+actions,dir
+ad.html,file
+adult.data,file
+api.rst,file
+api_examples,dir
+api_examples.rst,file
+appveyor,dir
+artwork,dir
+babel.config.js,file
+backbone-min.js,file
+bar.ipynb,file
+baseline,dir
+beeswarm.ipynb,file
+benchmark,dir
+benchmarks,dir
+benchmarks.rst,file
+bootstrap.min.css,file
+bootstrap.min.js,file
+bug-report.yml,file
+build,dir
+build_wheels.yml,file
+bundle.js,file
+california_beeswarm.png,file
+california_dataset.html,file
+california_dataset.png,file
+california_global_bar.png,file
+california_instance.html,file
+california_instance.png,file
+california_scatter.png,file
+california_waterfall.png,file
+cext,dir
+closepopup.html,file
+codecov.yml,file
+codeql-analysis.yml,file
+cognitive_score.txt,file
+color-set.js,file
+colors,dir
+common.py,file
+complete.html,file
+conf.py,file
+config.txt,file
+config.yml,file
+conftest.py,file
+consent.html,file
+contributing.rst,file
+crime.pickle,file
+crime.py,file
+css,dir
+custom.ipynb,file
+d3.v3.min.js,file
+data,dir
+datasets.py,file
+decision_plot.html,file
+decision_plot.ipynb,file
+deep_explainer,dir
+deep_pytorch.py,file
+deep_tf.py,file
+deep_utils.py,file
+default.html,file
+dependabot.yml,file
+dependence_plot.html,file
+developer-docs.md,file
+docs,dir
+error.html,file
+eventdata.csv,file
+exp.html,file
+experiments.py,file
+explainers,dir
+favicon.ico,file
+feature-request.yml,file
+fonts,dir
+force_plot_matplotlib_rotate.png,file
+framework.py,file
+genomic_examples,dir
+genomic_examples.rst,file
+global_summary.jpg,file
+glyphicons-halflings-regular.eot,file
+glyphicons-halflings-regular.svg,file
+glyphicons-halflings-regular.ttf,file
+glyphicons-halflings-regular.woff,file
+gpu_treeshap.h,file
+gradient_explainer,dir
+gradient_imagenet_plot.png,file
+heart.pickle,file
+heatmap.ipynb,file
+human_and_survey.pdf,file
+human_or_survey.pdf,file
+human_sum_survey.pdf,file
+human_xor_survey.pdf,file
+image,dir
+image.ipynb,file
+image.py,file
+image_captioning,dir
+image_classification,dir
+image_examples,dir
+image_examples.rst,file
+imagenet50,dir
+imagenet50_224x224.npy,file
+imagenet50_labels.csv,file
+images,dir
+imdb_train.txt,file
+index.html,file
+index.jsx,file
+index.rst,file
+install.ps1,file
+iris_dataset.png,file
+iris_instance.png,file
+javascript,dir
+jest.config.js,file
+jquery-min.js,file
+js,dir
+language_modelling,dir
+layout.html,file
+lib,dir
+linear_explainer,dir
+linear_models,dir
+links.py,file
+logo.ai,file
+logo.pdf,file
+logo.png,file
+logoSmallGray.png,file
+make.bat,file
+maskers,dir
+measures.py,file
+methods.py,file
+metrics.py,file
+migrating-to-new-api.ipynb,file
+mnist_image_plot.png,file
+model_agnostic,dir
+models,dir
+models.py,file
+module_expression.txt,file
+nature_bme.bib,file
+neural_networks,dir
+neuropath.txt,file
+nhanes1_chol_interaction.png,file
+nhanes_age_sex_interaction.png,file
+notebooks,dir
+other,dir
+others,dir
+overviews,dir
+overviews.rst,file
+package-lock.json,file
+package.json,file
+participants.db,file
+pdfs,dir
+perf.pdf,file
+perturbation.py,file
+plots,dir
+plots.py,file
+presentations,dir
+pyproject.toml,file
+pytree.py,file
+question_answering,dir
+questiondata.csv,file
+random-explanation.js,file
+references,dir
+release.yml,file
+release_notes.rst,file
+render.spec.jsx,file
+render.spec.jsx.snap,file
+requirements-docs.txt,file
+requirements.txt,file
+resources,dir
+run_notebooks.yml,file
+run_notebooks_timeouts.py,file
+run_tests.yml,file
+run_with_env.cmd,file
+scatter.ipynb,file
+scripts,dir
+sentiment_analysis,dir
+sentiment_analysis_plot.png,file
+server.log,file
+setup.py,file
+shap,dir
+shap_diagram.png,file
+shap_header.png,file
+shap_header.svg,file
+shap_logo.png,file
+shap_logo_scratch.ai,file
+shap_logo_white.png,file
+shap_nips.bib,file
+sickness_scores,dir
+sickness_scores.zip,file
+sim_n01549053_4208.jpg,file
+sim_n01624305_3109.jpg,file
+sim_n01642257_3703.jpg,file
+sim_n01687978_7467.jpg,file
+sim_n01887474_9375.jpg,file
+sim_n02010272_1613.jpg,file
+sim_n02011805_6117.jpg,file
+sim_n02033561_2663.jpg,file
+sim_n02138441_3552.jpg,file
+sim_n02190166_6252.jpg,file
+sim_n02382204_7427.jpg,file
+sim_n02395694_14311.jpg,file
+sim_n02968333_22100.jpg,file
+sim_n03029197_6381.jpg,file
+sim_n03049924_13.jpg,file
+sim_n03061345_7223.jpg,file
+sim_n03118969_4898.jpg,file
+sim_n03235180_7802.jpg,file
+sim_n03245889_16148.jpg,file
+sim_n03268918_3662.jpg,file
+sim_n03433637_2002.jpg,file
+sim_n03488887_15199.jpg,file
+sim_n03518943_2240.jpg,file
+sim_n03523987_7290.jpg,file
+sim_n03809603_3531.jpg,file
+sim_n03822767_7285.jpg,file
+sim_n04260364_2410.jpg,file
+sim_n04288533_9519.jpg,file
+sim_n04404412_26251.jpg,file
+sim_n04564581_8170.jpg,file
+sim_n04583212_9954.jpg,file
+sim_n07560652_7278.jpg,file
+sim_n07581931_2919.jpg,file
+sim_n07663899_6767.jpg,file
+sim_n07697313_11105.jpg,file
+sim_n07714571_3105.jpg,file
+sim_n07910656_7115.jpg,file
+sim_n07930554_10266.jpg,file
+sim_n09406793_39048.jpg,file
+sim_n09691729_2568.jpg,file
+sim_n09706255_4386.jpg,file
+sim_n09906704_22866.jpg,file
+sim_n09988703_14533.jpg,file
+sim_n10374849_811.jpg,file
+sim_n11508382_9183.jpg,file
+sim_n11769176_1973.jpg,file
+sim_n12560282_16028.jpg,file
+sim_n12709103_15667.jpg,file
+sim_n12828791_5672.jpg,file
+sim_n13052670_6077.jpg,file
+simple_iris_dataset.png,file
+simple_iris_explanation.png,file
+stale_issues.yml,file
+static,dir
+strawberry_example.png,file
+style.css,file
+summarization,dir
+tabular,dir
+tabular_examples,dir
+tabular_examples.rst,file
+task.js,file
+templates,dir
+test_bar.png,file
+test_bar.py,file
+test_bar_local_feature_importance.png,file
+test_bar_with_clustering.png,file
+test_bar_with_cohorts_dict.png,file
+test_beeswarm.png,file
+test_beeswarm.py,file
+test_beeswarm_no_group_remaining.png,file
+test_bundle.js,file
+test_clustering.py,file
+test_colormaps_red_blue.png,file
+test_colormaps_red_blue_circle.png,file
+test_colormaps_red_blue_no_bounds.png,file
+test_colormaps_red_blue_transparent.png,file
+test_colormaps_red_transparent_blue.png,file
+test_colormaps_red_white_blue.png,file
+test_colormaps_transparent_blue.png,file
+test_colormaps_transparent_red.png,file
+test_colors.py,file
+test_custom.py,file
+test_datasets.py,file
+test_decision.py,file
+test_decision_multioutput.png,file
+test_decision_plot.png,file
+test_decision_plot_interactions.png,file
+test_decision_plot_single_instance.png,file
+test_deep.py,file
+test_dependence.py,file
+test_dependence_string_features.py,file
+test_exact.py,file
+test_explainer.py,file
+test_explanation.py,file
+test_fixed_composite.py,file
+test_force.py,file
+test_force_plot_negative_sign.png,file
+test_force_plot_positive_sign.png,file
+test_general.py,file
+test_gpu_tree.py,file
+test_gradient.py,file
+test_group_difference.png,file
+test_group_difference.py,file
+test_heatmap.png,file
+test_heatmap.py,file
+test_heatmap_feature_order.png,file
+test_image.py,file
+test_image_multi.png,file
+test_image_single.png,file
+test_imports.py,file
+test_install.py,file
+test_js.yml,file
+test_kernel.py,file
+test_linear.py,file
+test_masked_model.py,file
+test_partition.py,file
+test_permutation.py,file
+test_sampling.py,file
+test_scatter.py,file
+test_scatter_categorical.png,file
+test_scatter_custom.png,file
+test_scatter_dotchain.png,file
+test_scatter_interaction.png,file
+test_scatter_multiple_cols_overlay.png,file
+test_scatter_single.png,file
+test_style.py,file
+test_summary.png,file
+test_summary.py,file
+test_summary_bar_multiclass.png,file
+test_summary_bar_with_data.png,file
+test_summary_dot_with_data.png,file
+test_summary_layered_violin_with_data.png,file
+test_summary_multi_class.png,file
+test_summary_multi_class_legend.png,file
+test_summary_multi_class_legend_decimals.png,file
+test_summary_multiclass_explanation.png,file
+test_summary_plot.png,file
+test_summary_plot.py,file
+test_summary_violin_with_data.png,file
+test_summary_with_data.png,file
+test_summary_with_log_scale.png,file
+test_tabular.py,file
+test_teacher_forcing_logits.py,file
+test_text.py,file
+test_text_generation.py,file
+test_tree.py,file
+test_ubjson.py,file
+test_utils.py,file
+test_violin.png,file
+test_violin.py,file
+test_waterfall.png,file
+test_waterfall.py,file
+test_waterfall_bounds.png,file
+test_waterfall_custom_style.png,file
+test_waterfall_legacy.png,file
+tests,dir
+text,dir
+text.ipynb,file
+text_entailment,dir
+text_examples,dir
+text_examples.rst,file
+text_generation,dir
+tf_utils.py,file
+thanks-mturksubmit.html,file
+thanks.html,file
+transformers.py,file
+translation,dir
+tree_based_models,dir
+tree_explainer,dir
+tree_explainer.bib,file
+tree_shap.h,file
+tree_shap_paper,dir
+treeshap_arxiv.bib,file
+trial_data2_3_3_2019.csv,file
+trial_data_3_3_2019.csv,file
+trialdata.csv,file
+tweets.csv,file
+underscore-min.js,file
+university.png,file
+user_studies,dir
+utils,dir
+utils.js,file
+violin.ipynb,file
+visualizers,dir
+waterfall.ipynb,file
+webpack.config.js,file
+workflows,dir

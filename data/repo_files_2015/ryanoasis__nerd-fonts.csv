@@ -1,0 +1,24 @@
+name,type
+Anonymice Powerline Plus Nerd File Types.ttf,file
+Anonymice Powerline.ttf,file
+Droid Sans Mono for Powerline Plus Nerd File Types.otf,file
+Droid Sans Mono for Powerline.otf,file
+LICENSE,file
+Literation Mono Powerline Plus Nerd File Types.ttf,file
+Literation Mono Powerline.ttf,file
+ProggyClean.ttf,file
+ProggyCleanTT Plus Nerd File Types.ttf,file
+Sauce Code Powerline Plus Nerd File Types.otf,file
+Sauce Code Powerline Regular.otf,file
+Ubuntu Mono Plus Nerd File Types.ttf,file
+Ubuntu Mono derivative Powerline Plus Nerd File Types.ttf,file
+Ubuntu Mono derivative Powerline.ttf,file
+UbuntuMono-R.ttf,file
+changelog.md,file
+devicons.ttf,file
+font-patcher,file
+glyph-source-fonts,dir
+original-source.otf,file
+patched-fonts,dir
+readme.md,file
+unpatched-sample-fonts,dir

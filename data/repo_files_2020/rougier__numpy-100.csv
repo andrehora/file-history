@@ -1,0 +1,15 @@
+name,type
+.gitattributes,file
+.gitignore,file
+LICENSE.txt,file
+README.md,file
+data_source.py,file
+generators.py,file
+initialise.py,file
+numpy_100.ipynb,file
+numpy_100.md,file
+numpy_100_random.ipynb,file
+numpy_100_with_hints.md,file
+numpy_100_with_hints_with_solutions.md,file
+numpy_100_with_solutions.md,file
+requirements.txt,file

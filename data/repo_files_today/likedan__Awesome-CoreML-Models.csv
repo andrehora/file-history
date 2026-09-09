@@ -1,0 +1,14 @@
+name,type
+.github,dir
+.gitignore,file
+.idea,dir
+CONTRIBUTING.md,file
+LICENSE.txt,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+content.json,file
+coreml.png,file
+generate_readme.py,file
+images,dir
+markdown-navigator.xml,file
+vcs.xml,file

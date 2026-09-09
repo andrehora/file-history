@@ -1,0 +1,7 @@
+name,type
+.github,dir
+README.md,file
+auto_update.yml,file
+requirements.txt,file
+update_readme.py,file
+workflows,dir

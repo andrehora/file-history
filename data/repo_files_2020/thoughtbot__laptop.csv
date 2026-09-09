@@ -1,0 +1,7 @@
+name,type
+.circleci,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+config.yml,file
+mac,file

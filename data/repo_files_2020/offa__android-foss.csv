@@ -1,0 +1,8 @@
+name,type
+.travis.yml,file
+CONTRIBUTING.md,file
+Install-Rooted-OTA.md,file
+LICENSE,file
+README.md,file
+check.sh,file
+tutorials,dir

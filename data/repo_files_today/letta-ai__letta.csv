@@ -1,0 +1,16 @@
+name,type
+.github,dir
+AGENTS.md,file
+AI_POLICY.md,file
+CITATION.cff,file
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+PRIVACY.md,file
+README.md,file
+SECURITY.md,file
+TERMS.md,file
+TRUSTED_CONTRIBUTORS,file
+config.yml,file
+issue-guard.yml,file
+workflows,dir

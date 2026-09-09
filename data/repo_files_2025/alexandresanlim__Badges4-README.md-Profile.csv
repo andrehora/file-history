@@ -1,0 +1,8 @@
+name,type
+.gitattributes,file
+.github,dir
+FUNDING.yml,file
+README.md,file
+chat-btc.png,file
+pull_request_template.md,file
+sponsors,dir

@@ -1,0 +1,8 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+_worker.js,file
+sub.png,file
+sync.yml,file
+workflows,dir

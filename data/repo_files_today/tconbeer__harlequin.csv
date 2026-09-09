@@ -1,0 +1,440 @@
+name,type
+.claude,dir
+.claude-plugin,dir
+.gitattributes,file
+.github,dir
+.gitignore,file
+.hidden,file
+.pre-commit-config.yaml,file
+.python-version,file
+AGENTS.md,file
+CHANGELOG.md,file
+CLAUDE.md,file
+CONTRIBUTING.md,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+Makefile,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+SKILL.md,file
+__init__.py,file
+__init__.pyi,file
+__main__.py,file
+__snapshots__,dir
+actions.py,file
+adapter.py,file
+adapter_tests,dir
+app.py,file
+app.tcss,file
+app_base.py,file
+autocomplete,dir
+bad_option_name.toml,file
+bar.csv,file
+baz.parquet,file
+bindings.py,file
+bug_report.md,file
+bump_versions.py,file
+cache.py,file
+catalog.py,file
+catalog_cache.py,file
+catalog_lag.py,file
+catalog_search.py,file
+catppuccin-latte.svg,file
+catppuccin-mocha.svg,file
+changelog.md,file
+cli.py,file
+cli_options.py,file
+client.py,file
+code_editor.py,file
+cold_start.py,file
+colors.py,file
+completers.py,file
+completion.py,file
+completions,dir
+completions.py,file
+components,dir
+compute.pyi,file
+config,dir
+config-v1.json,file
+config.md,file
+config.py,file
+config.toml,file
+config_schema.py,file
+config_wizard.py,file
+confirm_modal.py,file
+conftest.py,file
+constants.py,file
+copy_formats.py,file
+copy_widgets.py,file
+crash-recovery-design.md,file
+crash.py,file
+crash_report.md,file
+data,dir
+data_catalog,dir
+database_tree.py,file
+dataset.pyi,file
+debug_info.py,file
+default_no_exist.toml,file
+default_no_profiles.toml,file
+diagnostics.py,file
+docs,dir
+dracula.svg,file
+driver.py,file
+drivers.csv,file
+editor_cache.py,file
+environment.py,file
+exception.py,file
+export.py,file
+export_screen.py,file
+export_screenshots.py,file
+extensions,dir
+external.py,file
+extra_key.toml,file
+feather.pyi,file
+file_tree.py,file
+files,dir
+first_pass.py,file
+flexoki.svg,file
+foo,dir
+foo.csv,file
+fs.pyi,file
+functional_tests,dir
+generated,dir
+global.tcss,file
+good_config.toml,file
+gruvbox.svg,file
+harlequin,dir
+harlequin-for-agents.md,file
+harlequin.svg,file
+harlequin_duckdb,dir
+harlequin_sqlite,dir
+harlequin_vscode,dir
+hello0.dll,file
+hello0.dylib,file
+hello0.so,file
+help_screen.md,file
+help_screen.py,file
+history.py,file
+history_screen.py,file
+hsql,dir
+hsql-reference.md,file
+hsql-warm-sessions-design.md,file
+hsql_sessions.py,file
+info.py,file
+interactions.py,file
+iris_db.json,file
+keymap.py,file
+keymaps.toml,file
+keymaps_bad_binding.toml,file
+keymaps_not_array.toml,file
+keymaps_plugin_name.toml,file
+keys_app.py,file
+keys_app.tcss,file
+layout.py,file
+lib.pyi,file
+load.sql,file
+locale_manager.py,file
+m1-hsql-technical-plan.md,file
+m2-hsql-technical-plan.md,file
+m3-hsql-technical-plan.md,file
+m4-hsql-technical-plan.md,file
+marketplace.json,file
+messages.py,file
+modes,dir
+monokai.svg,file
+navigate.py,file
+none_profile.toml,file
+nord.svg,file
+not_toml.toml,file
+options.py,file
+orc.pyi,file
+output.py,file
+packaging,dir
+parquet.pyi,file
+plans,dir
+plugin.json,file
+plugins.py,file
+profile_buffers.py,file
+profile_fast_query.py,file
+profile_not_table.toml,file
+profiles_not_table.toml,file
+protocol.py,file
+publish-artifacts.yml,file
+publish.yml,file
+publish_artifacts.py,file
+py.typed,file
+pyarrow,dir
+pyperclip,dir
+pyproject.toml,file
+queries.md,file
+query.py,file
+qux.py,file
+redact.py,file
+references,dir
+release.yml,file
+renovate.json,file
+results_viewer.py,file
+rules,dir
+run_query_bar.py,file
+s3_tree.py,file
+schema.sql,file
+schema_sqlite.sql,file
+schemas,dir
+scripting.md,file
+scripts,dir
+server.py,file
+session.py,file
+skill,dir
+skill.py,file
+skill_evals,dir
+small,dir
+solarized-light.svg,file
+spec.py,file
+sqlite,dir
+sqlite_extension,dir
+src,dir
+ssh,dir
+ssh,file
+ssh-tunnels-design.md,file
+ssh.py,file
+statements.py,file
+static,dir
+static.yml,file
+stubs,dir
+symbols.py,file
+test-build.yml,file
+test.yml,file
+test_app,dir
+test_app.py,file
+test_bindings.py,file
+test_cache.py,file
+test_cli.py,file
+test_cli_reference.py,file
+test_completers.py,file
+test_config.py,file
+test_config_schema.py,file
+test_config_wizard.py,file
+test_context_menu[db context menu expanded].svg,file
+test_context_menu[db name inserted].svg,file
+test_context_menu[schema context menu expanded].svg,file
+test_context_menu[table context menu expanded].svg,file
+test_copy_data[duckdb][paste values from table].svg,file
+test_copy_data[sqlite][paste values from table].svg,file
+test_crash.py,file
+test_data_catalog,dir
+test_data_catalog.py,file
+test_data_catalog[Initialization].svg,file
+test_data_catalog[Inserted small.main].svg,file
+test_data_catalog[small expanded].svg,file
+test_data_catalog[small.main expanded].svg,file
+test_data_catalog[small.main.drivers.dob inserted].svg,file
+test_data_catalog[small.main.drivers.dob selected].svg,file
+test_data_truncated_with_tooltip[duckdb][hover over truncated value].svg,file
+test_data_truncated_with_tooltip[sqlite][hover over truncated value].svg,file
+test_debug_info_screen,dir
+test_debug_info_screen.py,file
+test_debug_info_screen[Debug Info Screen Focus].svg,file
+test_debug_info_screen[Debug Info Screen].svg,file
+test_documented_flags.py,file
+test_duckdb.py,file
+test_dupe_column_names[duckdb][dupe columns].svg,file
+test_dupe_column_names[sqlite][dupe columns].svg,file
+test_editor_cache.py,file
+test_environment.py,file
+test_exception.py,file
+test_export,dir
+test_export.py,file
+test_export[duckdb-one.csv][After Export].svg,file
+test_export[duckdb-one.csv][Export Screen].svg,file
+test_export[duckdb-one.csv][Export with Path].svg,file
+test_export[duckdb-one.feather][After Export].svg,file
+test_export[duckdb-one.feather][Export Screen].svg,file
+test_export[duckdb-one.feather][Export with Path].svg,file
+test_export[duckdb-one.json][After Export].svg,file
+test_export[duckdb-one.json][Export Screen].svg,file
+test_export[duckdb-one.json][Export with Path].svg,file
+test_export[duckdb-one.orc][After Export].svg,file
+test_export[duckdb-one.orc][Export Screen].svg,file
+test_export[duckdb-one.orc][Export with Path].svg,file
+test_export[duckdb-one.parquet][After Export].svg,file
+test_export[duckdb-one.parquet][Export Screen].svg,file
+test_export[duckdb-one.parquet][Export with Path].svg,file
+test_export[sqlite-one.csv][After Export].svg,file
+test_export[sqlite-one.csv][Export Screen].svg,file
+test_export[sqlite-one.csv][Export with Path].svg,file
+test_export[sqlite-one.feather][After Export].svg,file
+test_export[sqlite-one.feather][Export Screen].svg,file
+test_export[sqlite-one.feather][Export with Path].svg,file
+test_export[sqlite-one.json][After Export].svg,file
+test_export[sqlite-one.json][Export Screen].svg,file
+test_export[sqlite-one.json][Export with Path].svg,file
+test_export[sqlite-one.orc][After Export].svg,file
+test_export[sqlite-one.orc][Export Screen].svg,file
+test_export[sqlite-one.orc][Export with Path].svg,file
+test_export[sqlite-one.parquet][After Export].svg,file
+test_export[sqlite-one.parquet][Export Screen].svg,file
+test_export[sqlite-one.parquet][Export with Path].svg,file
+test_external.py,file
+test_file_formats[csv].csv,file
+test_file_formats[json].json,file
+test_file_formats[jsonl].jsonl,file
+test_file_formats[tsv].tsv,file
+test_file_tree[Initialization].svg,file
+test_file_tree[expanded foo dir].svg,file
+test_footer_inputs[Find Input visible].svg,file
+test_footer_inputs[Goto Input visible].svg,file
+test_footer_inputs[No Input visible].svg,file
+test_footer_inputs[Open Input visible].svg,file
+test_footer_inputs[Save Input visible].svg,file
+test_golden_formats,dir
+test_golden_formats.py,file
+test_help_screen,dir
+test_help_screen.py,file
+test_help_screen[Help Screen].svg,file
+test_history_screen,dir
+test_history_screen.py,file
+test_history_screen[History Viewer].svg,file
+test_history_screen[New buffer with select 14].svg,file
+test_hsql.py,file
+test_hsql_equivalence.py,file
+test_hsql_serve.py,file
+test_hsql_session.py,file
+test_import_hygiene.py,file
+test_infinity_timestamp[hover over truncated value].svg,file
+test_keymap_from_config,dir
+test_keymap_from_config.py,file
+test_keymap_vscode.py,file
+test_keys_app,dir
+test_keys_app.py,file
+test_keys_app[Edit Modal f3 and f4].svg,file
+test_keys_app[Edit Modal f3].svg,file
+test_keys_app[Edit Modal f4 removed].svg,file
+test_keys_app[Edit Modal].svg,file
+test_keys_app[Enter Key Modal].svg,file
+test_keys_app[Initialization].svg,file
+"test_keys_app[Main modal, Focus F3].svg",file
+test_keys_app[Quit modal].svg,file
+test_layout,dir
+test_layout.py,file
+test_layouts[markdown].txt,file
+test_layouts[table].txt,file
+test_layouts[vertical].txt,file
+test_member_autocomplete[driver members].svg,file
+test_member_autocomplete[submitted].svg,file
+test_member_autocomplete[with quote].svg,file
+test_multiple_buffers[Tab 1 of 1 (No tabs)].svg,file
+test_multiple_buffers[Tab 1 of 3].svg,file
+"test_multiple_buffers[Tab 1 of [1,3]].svg",file
+test_multiple_buffers[Tab 2 of 2].svg,file
+test_multiple_buffers[Tab 2 of 3].svg,file
+test_multiple_buffers[Tab 3 of 3].svg,file
+"test_multiple_buffers[Tab 3 of [1,3]].svg",file
+"test_multiple_queries[duckdb][Both queries, tab 1].svg",file
+"test_multiple_queries[duckdb][Both queries, tab 2].svg",file
+test_multiple_queries[duckdb][Both queries].svg,file
+test_multiple_queries[duckdb][One query].svg,file
+"test_multiple_queries[sqlite][Both queries, tab 1].svg",file
+"test_multiple_queries[sqlite][Both queries, tab 2].svg",file
+test_multiple_queries[sqlite][Both queries].svg,file
+test_multiple_queries[sqlite][One query].svg,file
+test_navigate.py,file
+test_options.py,file
+test_packaging.py,file
+test_plugin.py,file
+test_plugins.py,file
+test_publish_artifacts.py,file
+test_query.py,file
+test_query_editor,dir
+test_query_editor.py,file
+test_query_errors[duckdb-select 0.test_query_errors[duckdb-select 0struct(id int); select 1][After dismissing error].svg,file
+test_query_errors[duckdb-select 0.test_query_errors[duckdb-select 0struct(id int); select 1][Error visible].svg,file
+test_query_errors[duckdb-select 0.test_query_errors[duckdb-select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[duckdb-select 0.test_query_errors[duckdb-select 0struct(id int)][Error visible].svg,file
+test_query_errors[duckdb-select 1; select 0.test_query_errors[duckdb-select 1; select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[duckdb-select 1; select 0.test_query_errors[duckdb-select 1; select 0struct(id int)][Error visible].svg,file
+test_query_errors[duckdb-select; select 0.test_query_errors[duckdb-select; select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[duckdb-select; select 0.test_query_errors[duckdb-select; select 0struct(id int)][Error visible].svg,file
+test_query_errors[duckdb-select][After dismissing error].svg,file
+test_query_errors[duckdb-select][Error visible].svg,file
+test_query_errors[sqlite-select 0.test_query_errors[sqlite-select 0struct(id int); select 1][After dismissing error].svg,file
+test_query_errors[sqlite-select 0.test_query_errors[sqlite-select 0struct(id int); select 1][Error visible].svg,file
+test_query_errors[sqlite-select 0.test_query_errors[sqlite-select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[sqlite-select 0.test_query_errors[sqlite-select 0struct(id int)][Error visible].svg,file
+test_query_errors[sqlite-select 1; select 0.test_query_errors[sqlite-select 1; select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[sqlite-select 1; select 0.test_query_errors[sqlite-select 1; select 0struct(id int)][Error visible].svg,file
+test_query_errors[sqlite-select; select 0.test_query_errors[sqlite-select; select 0struct(id int)][After dismissing error].svg,file
+test_query_errors[sqlite-select; select 0.test_query_errors[sqlite-select; select 0struct(id int)][Error visible].svg,file
+test_query_errors[sqlite-select][After dismissing error].svg,file
+test_query_errors[sqlite-select][Error visible].svg,file
+test_redact.py,file
+test_results_viewer,dir
+test_results_viewer.py,file
+test_rich_markup[select markup].svg,file
+test_run_query_bar,dir
+test_run_query_bar.py,file
+test_run_query_bar[duckdb][Invalid limit].svg,file
+test_run_query_bar[duckdb][Limit 100].svg,file
+test_run_query_bar[duckdb][Limit 500].svg,file
+test_run_query_bar[duckdb][No limit].svg,file
+test_run_query_bar[sqlite][Invalid limit].svg,file
+test_run_query_bar[sqlite][Limit 100].svg,file
+test_run_query_bar[sqlite][Limit 500].svg,file
+test_run_query_bar[sqlite][No limit].svg,file
+test_s3_tree.py,file
+test_s3_tree[Initialization].svg,file
+test_s3_tree[expanded one dir].svg,file
+test_s3_tree_does_not_crash_without_boto3[Error visible].svg,file
+test_select_1[duckdb][select 1 as foo].svg,file
+test_select_1[sqlite][select 1 as foo].svg,file
+test_skill.py,file
+test_sqlite.py,file
+test_ssh.py,file
+test_ssh_recovery.py,file
+test_statements.py,file
+test_symbols.py,file
+test_toggle_full_screen[Editor Full Screen (sidebar already hidden)].svg,file
+test_toggle_full_screen[Editor Full Screen with Sidebar].svg,file
+test_toggle_full_screen[Editor Full Screen].svg,file
+test_toggle_full_screen[Exit Full Screen (sidebar already visible)].svg,file
+test_toggle_full_screen[Exit Full Screen (sidebar remains hidden)].svg,file
+test_toggle_full_screen[Exit RV Full Screen (sidebar visible)].svg,file
+test_toggle_full_screen[Initialization].svg,file
+test_toggle_full_screen[Results Viewer Full Screen with Sidebar].svg,file
+test_toggle_full_screen[Results Viewer Full Screen].svg,file
+test_toggle_full_screen[Sidebar hidden].svg,file
+test_toggle_sidebar[Hidden Again].svg,file
+test_toggle_sidebar[Hidden].svg,file
+test_toggle_sidebar[Initialization].svg,file
+test_toggle_sidebar[Unhidden].svg,file
+test_transaction_button[After click with Tx Manual].svg,file
+test_transaction_button[Initialize with Tx Auto].svg,file
+test_view_cell_modal[view cell modal].svg,file
+test_word_autocomplete[duckdb][s].svg,file
+test_word_autocomplete[duckdb][se again].svg,file
+test_word_autocomplete[duckdb][se].svg,file
+test_word_autocomplete[duckdb][sel].svg,file
+test_word_autocomplete[duckdb][submitted].svg,file
+test_word_autocomplete[sqlite][s].svg,file
+test_word_autocomplete[sqlite][se again].svg,file
+test_word_autocomplete[sqlite][se].svg,file
+test_word_autocomplete[sqlite][sel].svg,file
+test_word_autocomplete[sqlite][submitted].svg,file
+tests,dir
+text_modal.py,file
+textual-dark.svg,file
+textual-light.svg,file
+themes,dir
+timeout.py,file
+tiny,dir
+tokyo-night.svg,file
+transaction_mode.py,file
+tree.py,file
+troubleshooting.md,file
+types.pyi,file
+unit_tests,dir
+uv.lock,file
+windows_timezone.py,file
+workflows,dir
+write_cli_reference.py,file
+write_config_schema.py,file

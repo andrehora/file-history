@@ -1,0 +1,12 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+links.yml,file
+lint.yml,file
+pr-title.yml,file
+pull_request_template.md,file
+typos.toml,file
+typos.yml,file
+workflows,dir

@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+.gitmodules,file
+DEBUGGING.md,file
+README.md,file
+TRADEMARK.md,file
+ci.yml,file
+docs,dir
+justfile,file
+scripts,dir
+tag.sh,file
+workflows,dir

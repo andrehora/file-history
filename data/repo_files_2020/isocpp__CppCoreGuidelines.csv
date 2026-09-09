@@ -1,0 +1,39 @@
+name,type
+.gitignore,file
+.remarkrc,file
+.travis.yml,file
+CONTRIBUTING.md,file
+Contracts-for-Dependable-C++.pdf,file
+CppCoreGuidelines.md,file
+Introduction to type and resource safety.pdf,file
+LICENSE,file
+Large-Scale-C++-With-Modules.pdf,file
+Lifetime.pdf,file
+MacIntosh - A Few Good Types.pdf,file
+MacIntosh - Static Analysis and C++.pdf,file
+Makefile,file
+Makefile.in,file
+P0122R4.pdf,file
+README.md,file
+Stroustrup - CppCon 2015 keynote.pdf,file
+Sutter - CppCon 2015 day 2 plenary .pdf,file
+cpp_core_guidelines_logo_text.png,file
+cpplint.py,file
+cpplint_wrap.py,file
+ctor-dtor-raii-popl12.pdf,file
+docs,dir
+dump.cpp,file
+en_US.aff,file
+en_US.dic,file
+gsl-intro.md,file
+hunspell,dir
+isocpp.dic,file
+md-split.py,file
+nodejs,dir
+package.json,file
+param-passing-advanced.png,file
+param-passing-normal.png,file
+python,dir
+remark,dir
+scripts,dir
+talks,dir

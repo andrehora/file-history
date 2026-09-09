@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.jshintrc,file
+CHANGELOG.md,file
+README.md,file
+example.js,file
+fsevents-handler.js,file
+index.js,file
+is-binary.js,file
+lib,dir
+nodefs-handler.js,file
+package.json,file
+test.js,file

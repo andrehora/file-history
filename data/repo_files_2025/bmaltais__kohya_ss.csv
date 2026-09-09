@@ -1,0 +1,295 @@
+name,type
+.augmentignore,file
+.cache,dir
+.dockerignore,file
+.env,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.gitmodules,file
+.hadolint.yml,file
+.keep,file
+.put your own presets here,file
+.release,file
+.vscode,dir
+10_darius kawasaki person,dir
+Dariusz_Zawadzki.jpg,file
+Dariusz_Zawadzki.txt,file
+Dariusz_Zawadzki_2.jpg,file
+Dariusz_Zawadzki_2.txt,file
+Dariusz_Zawadzki_3.jpg,file
+Dariusz_Zawadzki_3.txt,file
+Dariusz_Zawadzki_4.jpg,file
+Dariusz_Zawadzki_4.txt,file
+Dariusz_Zawadzki_5.jpg,file
+Dariusz_Zawadzki_5.txt,file
+Dariusz_Zawadzki_6.jpg,file
+Dariusz_Zawadzki_6.txt,file
+Dariusz_Zawadzki_7.jpg,file
+Dariusz_Zawadzki_7.txt,file
+Dariusz_Zawadzki_8.jpg,file
+Dariusz_Zawadzki_8.txt,file
+Diag-OFT-AdamW8bit-toml.json,file
+Dockerfile,file
+DyLoRA-Adafactor-toml.json,file
+FUNDING.yml,file
+Finetuning,dir
+LICENSE.md,file
+LoKR-AdamW8bit-toml.json,file
+LoRA,dir
+LoRA based finetuning 2 phase.ps1,file
+Put localization files here.txt,file
+README.md,file
+SDXL - 1 image LoRA v1.0.json,file
+SDXL - AI_Now PagedAdamW8bit v1.0.json,file
+SDXL - Essenz series by AI_Characters_Training v1.0.json,file
+SDXL - LoHA AI_Characters v1.0.json,file
+SDXL - LoKR v1.0.json,file
+SDXL - LoRA AI_Now ADamW v1.0.json,file
+SDXL - LoRA AI_Now prodigy v1.0.json,file
+SDXL - LoRA AI_characters standard v1.0.json,file
+SDXL - LoRA AI_characters standard v1.1.json,file
+SDXL - LoRA adafactor v1.0.json,file
+SDXL - LoRA aitrepreneur clothing v1.0.json,file
+SDXL - LoRA by malcolmrey training v1.0.json,file
+SDXL - LoRA face dogu_cat v1.0.json,file
+SDXL - LoRA finetuning phase 1_v1.1.json,file
+SDXL - LoRA finetuning phase 2_v1.1.json,file
+SDXL - LoRA kudou-reira dadaptadam v1.0.json,file
+SDXL - LoRA kudou-reira dadaptadam v1.1.json,file
+SDXL - LoRA kudou-reira prodigy v4.0.json,file
+SDXL - edgLoRAXL AI_Now.json,file
+SDXL - edgLoRAXL.json,file
+SDXL-Standard-Adafactor.json,file
+SDXL-Standard-AdamW.json,file
+SDXL-Standard-AdamW8bit.json,file
+SECURITY.md,file
+Scripts,dir
+Standard-AdamW.json,file
+Standard-AdamW8bit.json,file
+TI-AdamW8bit-SDXL.json,file
+TI-AdamW8bit-toml.json,file
+TI-AdamW8bit.json,file
+__init__.py,file
+_typos.toml,file
+accelerate,dir
+adafactor.json,file
+assets,dir
+basic_caption_gui.py,file
+blip2_caption_gui.py,file
+blip_caption_gui.py,file
+caption.ps1,file
+caption.py,file
+caption_from_filename.py,file
+caption_subfolders.ps1,file
+check_local_modules.py,file
+chinese-sample.json,file
+class_accelerate_launch.py,file
+class_advanced_training.py,file
+class_basic_training.py,file
+class_command_executor.py,file
+class_configuration_file.py,file
+class_flux1.py,file
+class_folders.py,file
+class_gui_config.py,file
+class_huggingface.py,file
+class_lora_tab.py,file
+class_metadata.py,file
+class_sample_images.py,file
+class_sd3.py,file
+class_sdxl_parameters.py,file
+class_source_model.py,file
+class_tensorboard.py,file
+cleanup_captions.py,file
+common_gui.py,file
+config,dir
+config example.toml,file
+config_README-ja.md,file
+config_files,dir
+convert_html_to_md.py,file
+convert_images_to_hq_jpg.py,file
+convert_images_to_webp.py,file
+convert_lcm_gui.py,file
+convert_model_gui.py,file
+create_txt_from_images.py,file
+create_user_files.py,file
+crop_images_to_n_buckets.py,file
+custom_logging.py,file
+dataset,dir
+dataset-finetune.toml,file
+dataset-masked_loss.toml,file
+dataset-multires.toml,file
+dataset.toml,file
+dataset_balancing_gui.py,file
+debug_info.py,file
+default_config.yaml,file
+dependabot.yml,file
+deprecated,dir
+docker-compose.yaml,file
+docker_publish.yml,file
+docker_setup.py,file
+docs,dir
+dreambooth,dir
+dreambooth-Adafactor.json,file
+dreambooth-AdamW.json,file
+dreambooth-AdamW8bit-masked_loss-toml.json,file
+dreambooth-AdamW8bit-toml.json,file
+dreambooth-AdamW8bit.json,file
+dreambooth-DAdaptAdam.json,file
+dreambooth-Prodigy-SDXL.json,file
+dreambooth-Prodigy.json,file
+dreambooth.json,file
+dreambooth_folder_creation_gui.py,file
+dreambooth_gui.py,file
+en-GB.json,file
+examples,dir
+extract_locon.py,file
+extract_lora_from_dylora_gui.py,file
+extract_lora_gui.py,file
+extract_lycoris_locon_gui.py,file
+fine_tune_README_ja.md,file
+finetune,dir
+finetune-AdamW-toml.json,file
+finetune-AdamW.json,file
+finetune_gui.py,file
+finetune_latent.ps1,file
+flux1D - adamw8bit fp8.json,file
+flux_extract_lora_gui.py,file
+flux_merge_lora_gui.py,file
+ft,dir
+gen_img_README-ja.md,file
+git_caption_gui.py,file
+gradio_theme_builder.py,file
+group_images.py,file
+group_images_gui.py,file
+group_images_recommended_size.py,file
+gui.bat,file
+gui.ps1,file
+gui.sh,file
+iA3-Prodigy-sd15.json,file
+iA3-Prodigy.json,file
+ia3-sd15.json,file
+image_folder_structure.md,file
+images,dir
+img,dir
+img with spaces,dir
+js,dir
+keras,dir
+kohya-1-folders.ps1,file
+kohya-3-folders.ps1,file
+kohya.ps1,file
+kohya_finetune.ps1,file
+kohya_gui,dir
+kohya_gui.py,file
+kohya_new-v3.ps1,file
+kohya_train_db_fixed_with-reg_SDv2 512 base.ps1,file
+lcm_convert.py,file
+lion.json,file
+localization.js,file
+localization.py,file
+localization_ext.py,file
+localizations,dir
+locon-Adafactor.json,file
+locon-AdamW.json,file
+locon-AdamW8bit-masked_loss-toml.json,file
+locon-AdamW8bit-toml.json,file
+locon-AdamW8bit.json,file
+locon-Prodigy.json,file
+locon-dadaptation-sdxl.json,file
+log,dir
+logs,dir
+loha-Prodigy.json,file
+loha-sd15.json,file
+lokr-sd15.json,file
+lora,dir
+lora_gui.py,file
+lucoris extract examples.txt,file
+lycoris_locon_extract.py,file
+lycoris_utils.py,file
+manual_caption_gui.py,file
+masked_loss,dir
+merge_lora_gui.py,file
+merge_lycoris.py,file
+merge_lycoris_gui.py,file
+meta-1_lat.json,file
+models,dir
+nv,dir
+options.md,file
+outputs,dir
+prepare_presets.md,file
+prepare_presets.py,file
+presets,dir
+prune.py,file
+pull kohya_ss sd-scripts updates in.md,file
+python.exe,file
+regularization,dir
+rename_depth_mask.py,file
+requirements.txt,file
+requirements_linux.txt,file
+requirements_linux_docker.txt,file
+requirements_linux_ipex.txt,file
+requirements_linux_rocm.txt,file
+requirements_macos_amd64.txt,file
+requirements_macos_arm64.txt,file
+requirements_pytorch_windows.txt,file
+requirements_runpod.txt,file
+requirements_windows.txt,file
+resize_lora.py,file
+resize_lora_gui.py,file
+runpod.yaml,file
+script.js,file
+sd15 - EDG_LoConOptiSettings.json,file
+sd15 - EDG_LoHaOptiSettings.json,file
+sd15 - EDG_LoraOptiSettings.json,file
+sd15 - GLoRA v1.0.json,file
+sd15 - LoKR v1.0.json,file
+sd15 - LoKr v1.1.json,file
+sd15 - LoKr v2.0.json,file
+sd3_bdsqlsz_v1.json,file
+sd3_bdsqlsz_v2.json,file
+sd_modeltype.py,file
+settings.json,file
+setup,dir
+setup-3.10.bat,file
+setup-runpod.sh,file
+setup.bat,file
+setup.ps1,file
+setup.sh,file
+setup_common.py,file
+setup_linux.py,file
+setup_runpod.py,file
+setup_windows.py,file
+stable_cascade,dir
+style.css,file
+svd_merge_lora_gui.py,file
+test,dir
+test.toml,file
+textual_inversion_gui.py,file
+tools,dir
+top_level.md,file
+train_README-ja.md,file
+train_README-zh.md,file
+train_README.md,file
+train_db_README-ja.md,file
+train_db_README-zh.md,file
+train_lllite_README-ja.md,file
+train_lllite_README.md,file
+train_network_README-ja.md,file
+train_network_README-zh.md,file
+train_ti_README-ja.md,file
+triton,dir
+typos.yaml,file
+update_bitsandbytes.py,file
+user,dir
+user_presets,dir
+utilities.py,file
+utilities_gui.py,file
+validate_requirements.py,file
+venv3,dir
+verify_lora_gui.py,file
+wd14_caption_gui.py,file
+word_frequency.ps1,file
+workflows,dir
+zh-CN.json,file
+zh-TW.json,file

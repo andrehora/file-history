@@ -1,0 +1,8 @@
+name,type
+.editorconfig,file
+.github,dir
+CONTRIBUTING.md,file
+dummy.css,file
+frontaid.png,file
+media,dir
+readme.md,file

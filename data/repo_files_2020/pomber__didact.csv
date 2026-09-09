@@ -1,0 +1,7 @@
+name,type
+.github,dir
+.prettierrc,file
+didact.js,file
+funding.yml,file
+package.json,file
+readme.md,file

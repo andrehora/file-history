@@ -1,0 +1,66 @@
+name,type
+.gitignore,file
+.gitmodules,file
+ACPI,dir
+APIC-1.aml,file
+Artefacts,dir
+BCM94360 - Bluetooth - Sonoma and Sequoia,dir
+BCM94360 - VM Crash when connect in WiFi - Sonoma and Sequoia,dir
+BGRT-1.aml,file
+CHANGELOG.md,file
+CHECK-IOMMU.sh,file
+CPU,dir
+CPUInfo.txt,file
+CREATE-ISO-macOS.command,file
+DSDT.aml,file
+DUMP-IOREG.ioreg,file
+DataV1.bin,file
+DriverImageNames.txt,file
+Drivers,dir
+EFI,dir
+EntryV1.bin,file
+FACP-1.aml,file
+GOP,dir
+GOPInfo.txt,file
+HOWTO - Fix WiFi Crash in VM-macOS Sonoma or Sequoia in BCM04360.txt,file
+HPET-1.aml,file
+IOMMU-Groups.sh,file
+IOREG,dir
+MCFG-1.aml,file
+OSX-Print-Installs,dir
+PCI,dir
+PCIInfo.txt,file
+PVE-Q35-4.0-config,dir
+Patches,dir
+README.md,file
+RSDP.aml,file
+RSDT.aml,file
+SMBIOS,dir
+SSDT-1.aml,file
+SysReport - VM Proxmox 7.0-11,dir
+SysReport - VM Proxmox 7.1-7,dir
+SysReport - VM Proxmox 7.2-3,dir
+SysReport - VM Proxmox 8.4.0,dir
+Tweaks macOS - for VM.txt,file
+VFCT-1.aml,file
+WAET-1.aml,file
+XSDT.aml,file
+boards.json,file
+build-image.sh,file
+install.sh,file
+macrecovery,dir
+macrecovery.py,file
+opencore-osx-proxmox-vm.iso,file
+patch-bcm-virtual.plist,file
+pve-q35-4.0.cfg,file
+recovery_urls.txt,file
+setup,file
+tools,dir
+v10.13 - High Sierra.png,file
+v10.14 - Mojave.png,file
+v10.15 - Catalina.png,file
+v11 - Big Sur.png,file
+v12 - Monterey.png,file
+v13 - Ventura.png,file
+v14 - Sonoma.png,file
+v15 - Sequoia.png,file

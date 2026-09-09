@@ -1,0 +1,60 @@
+name,type
+.github,dir
+.gitignore,file
+.islands_dark_first_run,file
+.islands_dark_first_run_antigravity,file
+.vscodeignore,file
+BearSansUI-Bold.otf,file
+BearSansUI-BoldItalic.otf,file
+BearSansUI-Italic.otf,file
+BearSansUI-Medium.otf,file
+BearSansUI-MediumItalic.otf,file
+BearSansUI-Regular.otf,file
+BearSansUIHeading-Bold.otf,file
+BearSansUIHeading-BoldItalic.otf,file
+BearSansUIHeading-Regular.otf,file
+BearSansUIHeading-RegularItalic.otf,file
+CHANGELOG.md,file
+CleanShot 2026-02-13 at 23.11.51@2x.png,file
+CleanShot 2026-02-13 at 23.27.47@2x.png,file
+CleanShot 2026-02-14 at 21.42.45@2x.png,file
+CleanShot 2026-02-14 at 21.45.00@2x.png,file
+CleanShot 2026-02-14 at 21.47.05@2x.png,file
+CleanShot 2026-02-19 at 19.37.59@2x.png,file
+FUNDING.yml,file
+README.md,file
+animations.css,file
+assets,dir
+bootstrap-antigravity.sh,file
+bootstrap-cursor.sh,file
+bootstrap.ps1,file
+bootstrap.sh,file
+flake.lock,file
+flake.nix,file
+fonts,dir
+install-antigravity.bat,file
+install-antigravity.ps1,file
+install-antigravity.sh,file
+install-cursor.sh,file
+install.ps1,file
+install.sh,file
+islands-dark.json,file
+issues,dir
+merge-settings.ps1,file
+package.json,file
+panel-glass-borders-and-styling.md,file
+readme-antigravity.sh,file
+release.yml,file
+settings-cursor.json,file
+settings.json,file
+terminal-panel-bottom-cutoff.md,file
+tests,dir
+themes,dir
+uninstall-antigravity-no-register.sh,file
+uninstall-antigravity-regression.sh,file
+uninstall-antigravity.sh,file
+uninstall-cursor.sh,file
+uninstall.ps1,file
+uninstall.sh,file
+validate.yml,file
+workflows,dir

@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+Makefile,file
+README.md,file
+beamercolorthememetropolis.sty,file
+beamerfontthememetropolis.sty,file
+beamerthemem.sty,file
+demo.pdf,file
+demo.tex,file
+images,dir
+valley.jpg,file

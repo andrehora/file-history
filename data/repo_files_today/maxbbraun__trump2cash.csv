@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+Dockerfile,file
+LICENSE,file
+README.md,file
+analysis.py,file
+analysis_tests.py,file
+benchmark.md,file
+benchmark.py,file
+logs.py,file
+logs_tests.py,file
+main.py,file
+requirements.txt,file
+trading.py,file
+trading_tests.py,file
+twitter.py,file
+twitter_tests.py,file

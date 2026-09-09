@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.npmignore,file
+README.md,file
+dynamics.coffee,file
+package.json,file
+src,dir
+test,dir

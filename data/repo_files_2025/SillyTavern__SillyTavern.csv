@@ -1,0 +1,783 @@
+name,type
+!README.md,file
+.dockerignore,file
+.editorconfig,file
+.eslintrc.cjs,file
+.eslintrc.js,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.nomedia,file
+.npmignore,file
+.replit,file
+.vscode,dir
+01ai.svg,file
+AbortReason.js,file
+AbstractEventTarget.js,file
+Ace of Spades.json,file
+Actor.json,file
+Adventure.json,file
+Alpaca-Single-Turn.json,file
+Alpaca.json,file
+Asper-Kayra.json,file
+Assistant - Expert.json,file
+Assistant - Simple.json,file
+Asterism.json,file
+AutoComplete.js,file
+AutoCompleteFuzzyScore.js,file
+AutoCompleteNameResult.js,file
+AutoCompleteNameResultBase.js,file
+AutoCompleteOption.js,file
+AutoCompleteSecondaryNameResult.js,file
+AutoExecuteHandler.js,file
+Azure.json,file
+Basic Coherence.json,file
+Beam Search.json,file
+Best Guess.json,file
+Big O.json,file
+Black Magic Time.json,file
+Blank.json,file
+BlankAutoCompleteOption.js,file
+Blended-Coffee-Kayra.json,file
+Blook-Kayra.json,file
+BulkEditOverlay.js,file
+ButtonUi.js,file
+CONTRIBUTING.md,file
+Cappuccino.json,file
+Carefree-Kayra.json,file
+Celestial Macaron.json,file
+Chain of Thought.json,file
+Char_Avatar_Comfy_Workflow.json,file
+ChatML-Names.json,file
+ChatML.json,file
+Coherent Creativity.json,file
+Command R.json,file
+ContextMenu.js,file
+Contrastive Search.json,file
+CosmicCube-Kayra.json,file
+Dark Lite.json,file
+Dark V 1.0.json,file
+Default.json,file
+Default_Comfy_Workflow.json,file
+Deterministic.json,file
+Divine Intellect.json,file
+Dockerfile,file
+DreamGen Role-Play V1 ChatML.json,file
+DreamGen Role-Play V1 Llama3.json,file
+Edgewise-Clio.json,file
+Eldoria.json,file
+Erato-Dragonfruit.json,file
+Erato-Golden Arrow.json,file
+Erato-Shosetsu.json,file
+Erato-Wilder.json,file
+Erato-Zany Scribe.json,file
+Fresh-Coffee-Clio.json,file
+Fresh-Coffee-Kayra.json,file
+GPU.ipynb,file
+Gemma 2.json,file
+Genesis.json,file
+Godlike.json,file
+Good Winds.json,file
+Green-Active-Writer-Kayra.json,file
+ISSUE_TEMPLATE,dir
+Keelback-Clio.json,file
+Koala.json,file
+Kobold (Godlike).json,file
+Kobold (Liminal Drift).json,file
+LICENSE,file
+LLaMa-Precise.json,file
+Libra-32B.json,file
+Lightning 1.1.json,file
+Liminal Drift.json,file
+Llama 2 Chat.json,file
+Llama 3 Instruct.json,file
+Llama-3-Instruct-Names.json,file
+Long-Press-Clio.json,file
+Low Rider.json,file
+Luna Moth.json,file
+MacroAutoCompleteOption.js,file
+Mayday.json,file
+MenuHeader.js,file
+MenuItem.js,file
+Metharme.json,file
+Midnight Enigma.json,file
+Minimalist.json,file
+Miro Bronze.json,file
+Miro Gold.json,file
+Miro Silver.json,file
+Mirostat.json,file
+Mistral V1.json,file
+Mistral V2 & V3.json,file
+Mistral V3-Tekken.json,file
+Mistral V7.json,file
+Naive.json,file
+Neutral - Chat.json,file
+No-Image-Placeholder.svg,file
+NotoSans,dir
+NotoSans-Black.woff,file
+NotoSans-Black.woff2,file
+NotoSans-BlackItalic.woff,file
+NotoSans-BlackItalic.woff2,file
+NotoSans-Bold.woff,file
+NotoSans-Bold.woff2,file
+NotoSans-BoldItalic.woff,file
+NotoSans-BoldItalic.woff2,file
+NotoSans-ExtraBold.woff,file
+NotoSans-ExtraBold.woff2,file
+NotoSans-ExtraBoldItalic.woff,file
+NotoSans-ExtraBoldItalic.woff2,file
+NotoSans-ExtraLight.woff,file
+NotoSans-ExtraLight.woff2,file
+NotoSans-ExtraLightItalic.woff,file
+NotoSans-ExtraLightItalic.woff2,file
+NotoSans-Italic.woff,file
+NotoSans-Italic.woff2,file
+NotoSans-Light.woff,file
+NotoSans-Light.woff2,file
+NotoSans-LightItalic.woff,file
+NotoSans-LightItalic.woff2,file
+NotoSans-Medium.woff,file
+NotoSans-Medium.woff2,file
+NotoSans-MediumItalic.woff,file
+NotoSans-MediumItalic.woff2,file
+NotoSans-Regular.woff,file
+NotoSans-Regular.woff2,file
+NotoSans-SemiBold.woff,file
+NotoSans-SemiBold.woff2,file
+NotoSans-SemiBoldItalic.woff,file
+NotoSans-SemiBoldItalic.woff2,file
+NotoSans-Thin.woff,file
+NotoSans-Thin.woff2,file
+NotoSans-ThinItalic.woff,file
+NotoSans-ThinItalic.woff2,file
+NotoSansMono,dir
+NovelAI (Best Guess).json,file
+NovelAI (Decadence).json,file
+NovelAI (Genesis).json,file
+NovelAI (Lycaenidae).json,file
+NovelAI (Ouroboros).json,file
+NovelAI (Pleasing Results).json,file
+NovelAI (Sphinx Moth).json,file
+NovelAI (Storywriter).json,file
+NovelAI.json,file
+OldDefault.json,file
+OpenOrca-OpenChat.json,file
+Ouroboros.json,file
+Phi.json,file
+Pilotfish-Kayra.json,file
+Pleasing Results.json,file
+Pro Writer.json,file
+Pro_Writer-Kayra.json,file
+PromptManager.js,file
+Pygmalion.json,file
+QuickReply.js,file
+QuickReplyApi.js,file
+QuickReplyConfig.js,file
+QuickReplyContextLink.js,file
+QuickReplySet.js,file
+QuickReplySetLink.js,file
+QuickReplySettings.js,file
+README.md,file
+RecoveredRuins.json,file
+Remote-Link.cmd,file
+Roleplay - Detailed.json,file
+Roleplay - Immersive.json,file
+Roleplay - Simple.json,file
+RossAscends-mods.js,file
+SECURITY.md,file
+Seraphina,dir
+SettingsUi.js,file
+Shortwave.json,file
+Simple-1.json,file
+SlashCommand.js,file
+SlashCommandAbortController.js,file
+SlashCommandArgument.js,file
+SlashCommandAutoCompleteNameResult.js,file
+SlashCommandBreak.js,file
+SlashCommandBreakController.js,file
+SlashCommandBreakPoint.js,file
+SlashCommandBrowser.js,file
+SlashCommandClosure.js,file
+SlashCommandClosureResult.js,file
+SlashCommandCommandAutoCompleteOption.js,file
+SlashCommandCommonEnumsProvider.js,file
+SlashCommandDebugController.js,file
+SlashCommandEnumAutoCompleteOption.js,file
+SlashCommandEnumValue.js,file
+SlashCommandExecutionError.js,file
+SlashCommandExecutor.js,file
+SlashCommandHandler.js,file
+SlashCommandNamedArgumentAssignment.js,file
+SlashCommandNamedArgumentAutoCompleteOption.js,file
+SlashCommandParser.js,file
+SlashCommandParserError.js,file
+SlashCommandQuickReplyAutoCompleteOption.js,file
+SlashCommandReturnHelper.js,file
+SlashCommandScope.js,file
+SlashCommandUnnamedArgumentAssignment.js,file
+SlashCommandVariableAutoCompleteOption.js,file
+Space Alien.json,file
+StarChat.json,file
+Start.bat,file
+Stelenes-Kayra.json,file
+Story.json,file
+Storywriter.json,file
+StructuredCloneMap.js,file
+SubMenu.js,file
+Synthia.json,file
+TFS-with-Top-A.json,file
+Talker-Chat-Clio.json,file
+TavernCardValidator.js,file
+Tea_Time-Kayra.json,file
+Tesseract-Kayra.json,file
+Text Adventure.json,file
+Titanic.json,file
+Tulu.json,file
+Universal-Creative.json,file
+Universal-Light.json,file
+Universal-Super-Creative.json,file
+Update-Instructions.txt,file
+UpdateAndStart.bat,file
+UpdateForkAndStart.bat,file
+Vicuna 1.0.json,file
+Vicuna 1.1.json,file
+Vingt-Un-Clio.json,file
+WizardLM-13B.json,file
+WizardLM.json,file
+Writer - Creative.json,file
+Writer - Realistic.json,file
+Writers-Daemon-Kayra.json,file
+Yara.json,file
+__transparent.png,file
+_black.jpg,file
+_white.jpg,file
+accounts.css,file
+add-comment-from-tag.yml,file
+add-custom-expression.html,file
+addbg3.png,file
+additional-headers.js,file
+admin.html,file
+admiration.png,file
+ai21.svg,file
+ai4.png,file
+alltalk.js,file
+amusement.png,file
+anger.png,file
+animations.css,file
+annoyance.png,file
+anthropic.js,file
+aphrodite.svg,file
+api,dir
+apple-icon-114x114.png,file
+apple-icon-144x144.png,file
+apple-icon-57x57.png,file
+apple-icon-72x72.png,file
+approval.png,file
+ar-sa.json,file
+assets,dir
+assets.js,file
+assistantNote.html,file
+attach-button.html,file
+attachments,dir
+authors-note.js,file
+autocomplete,dir
+avatars.js,file
+azure.js,file
+backends,dir
+backgrounds,dir
+backgrounds.js,file
+backups,dir
+basicAuth.js,file
+bedroom clean.jpg,file
+bedroom cyberpunk.jpg,file
+bedroom red.jpg,file
+bedroom tatami.jpg,file
+blockentropy.svg,file
+bookmarks.js,file
+brands.min.css,file
+bright.min.css,file
+browser-fixes.js,file
+bug-report.yml,file
+bulk-edit.js,file
+button.html,file
+buttons.html,file
+caption,dir
+caption.js,file
+caring.png,file
+cfg-scale.js,file
+changeName.html,file
+changePassword.html,file
+char-data.js,file
+charTagImport.html,file
+charTagImport.i18n.html,file
+character-card-parser.js,file
+character-group-overlay.css,file
+character.html,file
+characters.js,file
+chat-completions.js,file
+chat-templates.js,file
+chatLorebook.html,file
+chatRename.html,file
+chats.js,file
+check-merge-conflicts.yml,file
+cityscape medieval market.jpg,file
+cityscape medieval night.jpg,file
+cityscape postapoc.jpg,file
+classify.js,file
+claude.json,file
+claude.svg,file
+close-label.yml,file
+close-stale-issues.yml,file
+cohere-vectors.js,file
+cohere.svg,file
+colab,dir
+comfyWorkflowEditor.html,file
+config.yaml,file
+confusion.png,file
+connection-manager,dir
+constants.js,file
+content,dir
+content-manager.js,file
+context,dir
+coqui.js,file
+coqui_api_models_settings.json,file
+coqui_api_models_settings_full.json,file
+cosyvoice.js,file
+createCheckpoint.html,file
+cropper.min.css,file
+cropper.min.js,file
+css,dir
+ctx,dir
+curiosity.png,file
+custom.svg,file
+customEndpointAdditionalParameters.html,file
+data,dir
+de-de.json,file
+debug.html,file
+default,dir
+default-expressions,dir
+default_Seraphina.png,file
+deleteConfirm.html,file
+deleteConfirmation.html,file
+deleteUser.html,file
+deserialize.js,file
+desire.png,file
+desire1.png,file
+desire2.png,file
+dialog-polyfill.css,file
+dialog-polyfill.esm.js,file
+disappointment.png,file
+disapproval.png,file
+disgust.png,file
+docker,dir
+docker-compose.yml,file
+docker-entrypoint.sh,file
+docker-publish.yml,file
+down-arrow.svg,file
+dragdrop.js,file
+dreamgen.svg,file
+dropdown.html,file
+duplicateConfirm.html,file
+dynamic-styles.js,file
+edge.js,file
+edit.html,file
+editor.html,file
+elevenlabs.js,file
+embarrassment.png,file
+embeddedScripts.html,file
+embedding.js,file
+en.json,file
+endpoints,dir
+engine.js,file
+epub.min.js,file
+es-es.json,file
+eventemitter.js,file
+excitement.png,file
+express-common.js,file
+expressions,dir
+extensions,dir
+extensions-panel.css,file
+extensions-slashcommands.js,file
+extensions.js,file
+extensions.json,file
+extras-vectors.js,file
+f-localStorage.js,file
+fa-brands-400.ttf,file
+fa-brands-400.woff2,file
+fa-solid-900.ttf,file
+fa-solid-900.woff2,file
+fandom-scrape.html,file
+favicon.ico,file
+fear.png,file
+featherless.svg,file
+feature-request.yml,file
+file-form.css,file
+files-dropped.html,file
+files.js,file
+filters.js,file
+five.png,file
+fontawesome.min.css,file
+forbidMedia.html,file
+forest treehouse fireworks air baloons (by kallmeflocc).jpg,file
+formatting.html,file
+fr-fr.json,file
+gallery,dir
+gemma.model,file
+generic.svg,file
+get-pr-size.yml,file
+global.d.ts,file
+google-translate.js,file
+google.js,file
+gpt-sovits-v2.js,file
+gratitude.png,file
+grief.png,file
+groq.svg,file
+group-avatars.css,file
+group-chats.js,file
+groups.js,file
+gsvi.js,file
+help.html,file
+horde.js,file
+hotkeys.html,file
+html,dir
+huggingface.svg,file
+i18n.js,file
+images.js,file
+img,dir
+importCharacters.html,file
+importTarget.html,file
+index.d.ts,file
+index.html,file
+index.i18n.html,file
+index.js,file
+index.json,file
+infermaticai.svg,file
+input-md-formatting.js,file
+installExtension.html,file
+instruct,dir
+instruct-mode.js,file
+is-is.json,file
+issue-auto-comments.yml,file
+it-it.json,file
+itemizationChat.html,file
+itemizationText.html,file
+ja-jp.json,file
+jamba.model,file
+japan classroom side.jpg,file
+japan classroom.jpg,file
+japan path cherry blossom.jpg,file
+japan university.jpg,file
+jest.config.json,file
+jest.setup.js,file
+joy.png,file
+jquery-3.5.1.min.js,file
+jquery-cookie-1.4.1.min.js,file
+jquery-cropper.min.js,file
+jquery-ui.min.css,file
+jquery-ui.min.js,file
+jquery.izoomify.js,file
+jquery.nanogallery2.min.js,file
+jquery.transit.min.js,file
+jquery.ui.touch-punch.min.js,file
+jsconfig.json,file
+json.js,file
+jszip.min.js,file
+kai-settings.js,file
+keyboard.js,file
+ko-kr.json,file
+kobold,dir
+kobold.js,file
+kobold.svg,file
+koboldcpp.svg,file
+koboldhorde.svg,file
+labeler.yml,file
+landscape autumn great tree.jpg,file
+landscape beach day.png,file
+landscape beach night.jpg,file
+landscape mountain lake.jpg,file
+landscape postapoc.jpg,file
+landscape winter lake house.jpg,file
+lang.json,file
+lib,dir
+lib.js,file
+list-item.html,file
+llama.model,file
+llama3.json,file
+llamacpp-vectors.js,file
+llamacpp.svg,file
+loader.css,file
+loader.js,file
+locales,dir
+login.css,file
+login.html,file
+login.js,file
+logit-bias.js,file
+logo.png,file
+logprobs.css,file
+logprobs.js,file
+love.png,file
+macros.html,file
+macros.js,file
+makersuite-vectors.js,file
+makersuite.svg,file
+manage-button.html,file
+manage-pending-labels-closed.yml,file
+manage-pending-labels.yml,file
+manager.html,file
+mancer.svg,file
+manifest.json,file
+manual.svg,file
+market.html,file
+masterExport.html,file
+masterImport.html,file
+mediawiki-scrape.html,file
+memory,dir
+message.mp3,file
+middleware,dir
+migrateInstructPrompt.html,file
+mistral.model,file
+mistralai.svg,file
+mobile-styles.css,file
+monkey-patch.js,file
+move-attachment.html,file
+moving-ui,dir
+moving-ui.js,file
+multerMonkeyPatch.js,file
+nai-settings.js,file
+nanogallery2.woff.min.css,file
+nanogpt.svg,file
+nerdstash.model,file
+nerdstash_v2.model,file
+nervousness.png,file
+neutral.png,file
+newChatConfirm.html,file
+nl-nl.json,file
+nomicai-vectors.js,file
+notepad.html,file
+noto-sans-mono-v30-100.woff2,file
+noto-sans-mono-v30-200.woff2,file
+noto-sans-mono-v30-300.woff2,file
+noto-sans-mono-v30-500.woff2,file
+noto-sans-mono-v30-600.woff2,file
+noto-sans-mono-v30-700.woff2,file
+noto-sans-mono-v30-800.woff2,file
+noto-sans-mono-v30-900.woff2,file
+noto-sans-mono-v30-regular.woff2,file
+novel,dir
+novel.js,file
+novel.svg,file
+novelai.js,file
+npm-publish.yml,file
+ollama-vectors.js,file
+ollama.svg,file
+openai,dir
+openai-compatible.js,file
+openai-vectors.js,file
+openai.js,file
+openai.svg,file
+openrouter.js,file
+openrouter.svg,file
+optimism.png,file
+package-lock.json,file
+package.json,file
+pagination.js,file
+palm.svg,file
+pdf.min.mjs,file
+pdf.worker.min.mjs,file
+perplexity.svg,file
+personaLorebook.html,file
+personas.js,file
+plugin-loader.js,file
+plugins,dir
+plugins.js,file
+polyfill.js,file
+popup-safari-fix.css,file
+popup.css,file
+popup.js,file
+post-install.js,file
+power-user.js,file
+preset-manager.js,file
+presets,dir
+presets.js,file
+pride.png,file
+profile.html,file
+prompt-converters.js,file
+promptManagerExportForCharacter.html,file
+promptManagerExportPopup.html,file
+promptManagerFooter.html,file
+promptManagerHeader.html,file
+promptManagerListHeader.html,file
+promptmanager.css,file
+proxyConnectionWarning.html,file
+pt-pt.json,file
+public,dir
+pull_request_template.md,file
+qrEditor.html,file
+quick-replies,dir
+quick-replies.js,file
+quick-reply,dir
+quill.png,file
+quotaError.html,file
+readme-de_de.md,file
+readme-ja_jp.md,file
+readme-ko_kr.md,file
+readme-ru_ru.md,file
+readme-zh_cn.md,file
+readme-zh_tw.md,file
+readme.md,file
+realization.png,file
+recover.js,file
+regex,dir
+relief.png,file
+remorse.png,file
+remove-custom-expression.html,file
+replit.nix,file
+request-proxy.js,file
+resetSettings.html,file
+rm-groups.css,file
+robots.txt,file
+royal.jpg,file
+ru-ru.json,file
+sadness.png,file
+sample.test.js,file
+samplerSelect.js,file
+sbvits2.js,file
+scaffold,dir
+scale-alt.js,file
+scale.svg,file
+scenarioOverride.html,file
+scrapers.js,file
+script.js,file
+scriptTemplate.html,file
+scripts,dir
+scrollable-button.css,file
+search.js,file
+secrets.js,file
+select2-overrides.css,file
+select2-search-placeholder.js,file
+select2.min.css,file
+select2.min.js,file
+serialize.js,file
+server-history.js,file
+server.js,file
+setting-search.js,file
+settings.html,file
+settings.js,file
+settings.json,file
+shared.js,file
+showdown-exclusion.js,file
+showdown-patch.js,file
+showdown-underscore.js,file
+silence.mp3,file
+silerotts.js,file
+simple-proxy-for-tavern.json,file
+slash-commands,dir
+slash-commands.js,file
+snapshotsView.html,file
+solid.min.css,file
+sounds,dir
+speech.js,file
+speecht5.js,file
+sprites.js,file
+src,dir
+sse-stream.js,file
+st-context.js,file
+st-launcher.ico,file
+st-tailwind.css,file
+st.ico,file
+stable-diffusion,dir
+stable-diffusion.js,file
+start.sh,file
+stats.js,file
+step-into.svg,file
+step-out.svg,file
+step-over.svg,file
+step-resume.svg,file
+structured-clone,dir
+style.css,file
+style.less,file
+stylesheet.css,file
+surprise.png,file
+swiped-events.js,file
+sysprompt,dir
+sysprompt.js,file
+system.js,file
+tabby.svg,file
+tabbyDownloader.html,file
+tagManagement.html,file
+tags.css,file
+tags.js,file
+tavern day.jpg,file
+templates,dir
+templates.js,file
+tests,dir
+text-completions.js,file
+textgen,dir
+textgen-models.js,file
+textgen-settings.js,file
+textgenerationwebui.svg,file
+themeDelete.html,file
+themeImportWarning.html,file
+themes,dir
+themes.js,file
+third-party,dir
+thumbnails.js,file
+times-circle.svg,file
+toastr.js.map,file
+toastr.min.css,file
+toastr.min.js,file
+togetherai.svg,file
+toggle-dependent.css,file
+token-counter,dir
+tokenizers,dir
+tokenizers.js,file
+tool-calling.js,file
+toolcool-color-picker.js,file
+transformers.js,file
+translate,dir
+translate.js,file
+tts,dir
+types.js,file
+ui,dir
+uk-ua.json,file
+update-i18n.yaml,file
+user-default.png,file
+user.css,file
+user.js,file
+userProfile.html,file
+userReset.html,file
+users-admin.js,file
+users-private.js,file
+users-public.js,file
+users.js,file
+util,dir
+util.js,file
+utils.js,file
+validator,dir
+variables.js,file
+vectors,dir
+vectors.js,file
+vi-vn.json,file
+view.html,file
+vits.js,file
+vllm-vectors.js,file
+wandButton.html,file
+wandMenu.html,file
+web-scrape.html,file
+webfonts,dir
+webpack-serve.js,file
+webpack.config.js,file
+welcome.html,file
+welcomePrompt.html,file
+whitelist.js,file
+window.html,file
+workflows,dir
+world-info.css,file
+world-info.js,file
+worldInfoKeywordHeaders.html,file
+worldinfo.js,file
+xtts.js,file
+yi.model,file
+youtube-scrape.html,file
+zh-cn.json,file
+zh-tw.json,file

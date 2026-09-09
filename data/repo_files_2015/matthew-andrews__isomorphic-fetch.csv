@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+README.md,file
+bower.json,file
+client.js,file
+package.json,file
+server.js,file

@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+code-of-conduct.md,file
+contributing.md,file
+package.json,file
+readme.md,file

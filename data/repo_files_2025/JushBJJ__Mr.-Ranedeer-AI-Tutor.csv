@@ -1,0 +1,17 @@
+name,type
+.github,dir
+CHANGES.md,file
+Config Guide.md,file
+Extensions,dir
+GPT_Prompt.txt,file
+Guides,dir
+How to use Mr. Ranedeer.md,file
+ISSUE_TEMPLATE,dir
+Mr_Ranedeer.txt,file
+My_Information.txt,file
+PULL_REQUEST_TEMPLATE.md,file
+Prompt Analysis.md,file
+README.md,file
+Wizard.txt,file
+bug_report.md,file
+feature_request.md,file

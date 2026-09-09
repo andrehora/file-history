@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+ClearCommits.yml,file
+LICENSE,file
+README.md,file
+Route_b.jpg,file
+THIRD_PARTY_LICENSES.txt,file
+assets,dir
+cat.svg,file
+dashboard_b.jpg,file
+menu_b.jpg,file
+workflows,dir

@@ -1,0 +1,11 @@
+name,type
+128.png,file
+16.png,file
+48.png,file
+README.md,file
+devtoolsBackground.html,file
+devtoolsBackground.js,file
+icons,dir
+manifest.json,file
+screenshots,dir
+todomvc.png,file

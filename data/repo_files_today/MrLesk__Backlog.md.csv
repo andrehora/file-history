@@ -1,0 +1,1338 @@
+name,type
+.claude,dir
+.codex,dir
+.gitattributes,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.husky,dir
+.npmignore,file
+5-minute-tour-256.png,file
+ADVANCED-CONFIG.md,file
+AGENTS.md,file
+AcceptanceCriteriaEditor.tsx,file
+AcceptanceCriteriaProgress.tsx,file
+AmbiguousIdNotice.tsx,file
+App.tsx,file
+Board.tsx,file
+BoardLoadingSkeleton.tsx,file
+BoardPage.tsx,file
+BranchIndexingIndicator.tsx,file
+CLAUDE.md,file
+CLI-INSTRUCTIONS.md,file
+CONTRIBUTING.md,file
+ChipInput.tsx,file
+CleanupModal.tsx,file
+DEVELOPMENT.md,file
+DecisionDetail.tsx,file
+DependencyGraphSection.tsx,file
+DependencyInput.tsx,file
+DocumentationDetail.tsx,file
+DraftsList.tsx,file
+DuplicateIdRepairModal.tsx,file
+DuplicateIdWarning.tsx,file
+EXAMPLES.md,file
+ErrorBoundary.tsx,file
+HealthCheckContext.tsx,file
+HealthIndicator.tsx,file
+ISSUE_TEMPLATE,dir
+InitializationScreen.tsx,file
+LICENSE,file
+LabelFilterDropdown.tsx,file
+Layout.tsx,file
+LoadingSpinner.tsx,file
+MANIFESTO.md,file
+MermaidMarkdown.tsx,file
+MilestoneTaskRow.tsx,file
+MilestonesPage.tsx,file
+Modal.tsx,file
+Navigation.tsx,file
+PULL_REQUEST_TEMPLATE.md,file
+ProjectBadge.tsx,file
+README.md,file
+SKILL.md,file
+Settings.tsx,file
+SideNavigation.tsx,file
+Statistics.tsx,file
+StoredDate.tsx,file
+SuccessToast.tsx,file
+TaskCard.tsx,file
+TaskColumn.tsx,file
+TaskDetailsModal.tsx,file
+TaskIdIndexContext.tsx,file
+TaskList.tsx,file
+TaskTypeBadge.tsx,file
+ThemeContext.tsx,file
+ThemeToggle.tsx,file
+_backlog,file
+acceptance-criteria-manager.test.ts,file
+acceptance-criteria-progress.ts,file
+acceptance-criteria-structured.test.ts,file
+acceptance-criteria.test.ts,file
+advanced-config-wizard.ts,file
+agent-guidelines.md,file
+agent-instructions.test.ts,file
+agent-instructions.ts,file
+agent-nudge.md,file
+agent-selection.test.ts,file
+agent-selection.ts,file
+agents,dir
+api.ts,file
+app-info.ts,file
+append-implementation-notes.test.ts,file
+append-implementation-plan.test.ts,file
+archive,dir
+assets,dir
+assignee.ts,file
+atomic-task-create.test.ts,file
+atomic-task-edit.test.ts,file
+auto-commit.test.ts,file
+back-1 - cli-setup-core-project.md,file
+back-100 - Add-embedded-web-server-to-Backlog-CLI.md,file
+back-100.1 - Setup-React-project-structure-with-shadcn-ui.md,file
+back-100.2 - Create-HTTP-server-module.md,file
+back-100.3 - Implement-API-endpoints.md,file
+back-100.4 - Build-Kanban-board-component.md,file
+back-100.5 - Create-task-management-components.md,file
+back-100.6 - Add-CLI-serve-command.md,file
+back-100.7 - Bundle-web-assets-into-executable.md,file
+back-100.8 - Add-documentation-and-examples.md,file
+back-100.9 - Integrate-TaskDetail-modal-with-Board-component.md,file
+back-101 - show-task-file-path-in-plain-view.md,file
+back-102 - Consolidate-agent-guidelines-into-single-source.md,file
+back-102.1 - Add-copilot-instructions-file.md,file
+back-103 - update-guidelines-to-keep-tasks-focused-on-what-not-how.md,file
+back-104 - Add-notes-flag-to-task-edit-command-for-implementation-notes.md,file
+back-105 - Remove-dot-from-.backlog-folder-name.md,file
+back-106 - Add-desc-alias-for-description-flag.md,file
+back-107 - Add-agents-update-instructions-command.md,file
+back-108 - Fix-bug-Acceptance-criteria-removed-when-updating-description.md,file
+back-111 - Add-editor-shortcut-(E)-to-kanban-and-task-views.md,file
+back-112 - Add-Tab-key-switching-between-task-and-kanban-views-with-background-loading.md,file
+back-113 - Test-web-UI-task.md,file
+back-114 - cli-filter-task-list-by-parent-task.md,file
+back-115 - Add-live-health-check-system-to-web-UI.md,file
+back-116 - Add-dark-mode-toggle-to-web-UI.md,file
+back-117 - Always-return-file-path-when-running-task-view-with-plain-flag.md,file
+back-118 - Add-side-navigation-menu-to-web-UI.md,file
+back-118.1 - UI-UX-improvements-and-responsive-design-enhancements.md,file
+back-118.2 - Implement-health-check-API-endpoint-for-web-UI-monitoring.md,file
+back-118.3 - Advanced-search-and-navigation-features-beyond-basic-requirements.md,file
+back-119 - Add-documentation-and-decisions-pages-to-web-UI.md,file
+back-119.1 - Fix-comprehensive-test-suite-for-data-model-consistency.md,file
+back-119.2 - Core-architecture-improvements-and-ID-generation-enhancements.md,file
+back-120 - Add-offline-mode-configuration-for-remote-operations.md,file
+back-13.1 - cli-agent-instruction-file-selection.md,file
+back-163 - Fix-intermittent-git-failure-in-task-edit.md,file
+back-164 - Add-auto_commit-config-option-with-default-false.md,file
+back-165 - Fix-BUN_OPTIONS-environment-variable-conflict.md,file
+back-166 - Audit-and-fix-autoCommit-behavior-across-all-commands.md,file
+back-167 - Add-notes-option-to-task-create-command.md,file
+back-168 - Fix-editor-integration-issues-with-vim-nano.md,file
+back-168 - Test-notes-functionality.md,file
+back-169 - Fix-browser-and-board-crashes.md,file
+back-171 - Implement-drafts-list-functionality-in-CLI-and-web-UI.md,file
+back-172 - Order-tasks-by-status-and-ID-in-both-web-and-CLI-lists.md,file
+back-173 - Add-CLI-command-to-export-Kanban-board-to-markdown.md,file
+back-174 - Implement-backlog-cleanup-command-with-completed-folder-management.md,file
+"back-175 - Add-hour-and-minute-to-all-dates-in-drafts,-tasks,-documents,-decisions.md",file
+back-176 - Add-Priority-Filtering-Sorting-to-Task-List.-Especially-with-the-plain-flag..md,file
+back-177 - Automate-Kanban-board-updates-in-README.md-on-release.md,file
+back-178 - Enhance-backlog-init-with-comprehensive-configuration-and-re-initialization-support.md,file
+back-179 - Add-Settings-page-to-web-UI-with-configuration-management.md,file
+back-180 - Add-statistics-overview-command-to-CLI-with-TUI-interface.md,file
+back-181 - Add-statistics-dashboard-to-web-UI.md,file
+back-182 - Document-agents-command-and-reorganize-README-CLI-reference-tables.md,file
+back-183 - Add-ordinal-field-for-custom-task-ordering-in-web-UI.md,file
+back-184 - Investigate-Windows-bug-with-task-edit-status-command.md,file
+back-185 - Fix-task-listing-incorrectly-including-README.md-files.md,file
+back-186 - Fix-unreliable-ID-generation-causing-duplicate-IDs-for-new-items.md,file
+back-187 - Fix-autoCommit-setting-not-being-respected-by-all-CLI-commands.md,file
+back-188 - Add-zero-padded-IDs-configuration-option.md,file
+back-189 - Fix-CLI-hang-due-to-infinite-loop-in-config-loading.md,file
+back-19 - cli-fix-default-task-status-and-remove-draft-from-statuses.md,file
+back-190 - Fix-Git-errors-and-TypeScript-compilation-issues.md,file
+back-191 - Migrate-from-Bun.spawn-to-Bun-shell-API.md,file
+back-192 - Fix-drag-and-drop-not-working-in-web-view.md,file
+back-193 - Fix-custom-markdown-editor-styles-missing-in-compiled-build.md,file
+back-194 - Add-graceful-port-handling-for-browser-command.md,file
+back-195 - Fix-React-Router-deep-linking-for-documentation-and-decisions-pages.md,file
+back-196-add-nixos-packaging-support.md,file
+back-197 - Fix-decision-page-refresh-showing-blank-screen.md,file
+back-198 - Fix-markdown-content-overflow-beyond-screen-width.md,file
+back-199 - Add-version-parameter-to-board-export-command.md,file
+back-2 - cli-core-logic-library.md,file
+back-20 - add-agent-guideline-to-mark-tasks-in-progress-on-start.md,file
+back-200 - Add-Claude-Code-integration-with-workflow-commands-during-init.md,file
+back-201 - Add-configurable-git-hooks-bypass-option.md,file
+back-202 - Fix-editor-integration-regression-with-Helix-and-other-interactive-editors.md,file
+back-203 - Show-meaningful-description-in-web-kanban.md,file
+back-204 - Add-Claude-Code-backlog-agent-integration-to-init-command.md,file
+back-205 - Fix-Claude-Code-agent-trying-to-use-slash-commands-instead-of-backlog-CLI.md,file
+back-206 - Order-done-column-by-updatedDate-in-board-export.md,file
+back-207 - Reorganize-backlog-init-command-questions-order.md,file
+back-208 - Add-paste-as-markdown-support-in-Web-UI.md,file
+back-209 - Fix-cleanup-command-to-handle-non-standard-task-filenames.md,file
+back-21 - kanban-board-vertical-layout.md,file
+back-210 - Refactor-Nix-packaging-to-build-node_modules-offline.md,file
+back-211 - Add-version-number-display-to-browser-UI.md,file
+back-212 - Improve-task-visualization-format-in-board-exports.md,file
+back-213 - Compute-sequences-from-task-dependencies.md,file
+back-214 - Add-CLI-command-to-list-sequences.md,file
+back-215 - Implement-TUI-view-for-sequences.md,file
+back-215.01 - TUI-sequences-read-only-view.md,file
+back-215.02 - TUI-sequences-navigation-and-detail-view.md,file
+back-215.03 - TUI-sequences-move-tasks-with-dependency-updates.md,file
+back-215.04 - TUI-sequences-create-new-sequences-via-drop-positions.md,file
+back-215.05 - TUI-sequences-tests-and-stability.md,file
+back-216 - Add-server-API-endpoints-for-sequences.md,file
+back-217 - Create-web-UI-for-sequences-with-drag-and-drop.md,file
+back-217.01 - Sequences-server-endpoints-for-list-and-move.md,file
+back-217.02 - Sequences-web-UI-list-sequences.md,file
+back-217.03 - Sequences-web-UI-move-tasks-and-update-dependencies.md,file
+back-217.04 - Sequences-web-UI-tests.md,file
+back-218 - Update-documentation-and-tests-for-sequences.md,file
+back-219 - Refactor-server-component-to-fix-separation-of-concerns-violations.md,file
+back-22 - cli-prevent-double-dash-in-task-filenames.md,file
+back-220 - Fix-Helix-editor-integration-with-proper-TUI-suspension.md,file
+back-221 - Add-favicon-to-web-interface.md,file
+back-222 - Improve-task-and-subtask-visualization-in-web-UI.md,file
+back-222.1 - Show-parent-and-subtask-hierarchy-in-the-web-task-details-modal.md,file
+back-223 - Optimize-statistics-dashboard-loading-performance.md,file
+back-224 - Add-non-interactive-flags-to-init-command-for-automation-support.md,file
+back-225 - Fix-CLI-board-command-ignoring-checkActiveBranches-config-setting.md,file
+back-226 - CLI-per-index-add-remove-of-acceptance-criteria.md,file
+back-227 - Web-UI-interactive-acceptance-criteria-editor.md,file
+back-228 - Replace-@uiw-react-md-editor-with-TOAST-UI-Editor-for-rich-text-editing.md,file
+back-23 - cli-kanban-board-order-tasks-by-id-asc.md,file
+back-230 - Add-plain-to-task-create-edit-and-print-plain-details-after-operation.md,file
+back-231 - Fix-case-insensitive-status-grouping-and-status-normalization.md,file
+back-232 - Nix-build-fails-due-to-missing-libstdc++.so.6.md,file
+back-233 - MVP-Live-task-watcher-in-TUI-(Bun.watch).md,file
+back-234 - Investigate-newline-handling-in-CLI-descriptions.md,file
+back-235 - Consolidate-duplicate-AC-sections-and-overwrite-Implementation-Notes.md,file
+back-236 - Fix-TUI-Unicode-rendering-for-CJK-(Chinese-shows-as-).md,file
+back-237 - Fix-invalid-git-ref-'origin-origin'-during-remote-task-loading.md,file
+back-238 - Fix-web-editor-selection-cursor-issues-(MDEditor-integration).md,file
+back-239 - Feature-Auto-link-tasks-to-documents-decisions-+-backlinks.md,file
+back-24 - handle-subtasks-in-the-kanban-view.md,file
+back-24.02 - CLI-TUI-Add-milestone-swimlanes-to-interactive-board-view.md,file
+back-24.1 - cli-kanban-board-milestone-view.md,file
+back-240 - Improve-binary-resolution-on-Apple-Silicon-(Rosetta-arch-mismatch).md,file
+back-241 - Consolidate-assignee-normalization-into-helper.md,file
+back-242 - Centralize-task-filtering-logic-to-eliminate-duplication.md,file
+back-245 - Fix-case-insensitive-priority-filtering.md,file
+back-246 - Domain-split-Description-Plan-Notes-into-first-party-Task-fields.md,file
+back-247 - Web-UI-Read-only-Description-with-Edit-Toggle-(Hide-Editor-Mode-Buttons).md,file
+back-248 - Circular-navigation-in-TUI-list-and-Kanban-board.md,file
+back-25 - cli-export-kanban-board-to-readme.md,file
+back-250 - Docs-fix-subpath-documents-listing-view-+-unique-IDs.md,file
+back-251 - Board-harden-remote-branch-normalization-to-avoid-origin-origin-refs.md,file
+back-252 - Packaging-fix-local-install-bin-symlink-with-optional-platform-packages.md,file
+back-253 - Web-Board-fix-layout-for-4+-columns-(horizontal-scroll).md,file
+back-254 - Init-default-'No'-for-Claude-agent-installation.md,file
+back-255 - Add-TUI-splash-screen-for-bare-backlog-command.md,file
+back-256 - Add-CLI-command-to-append-implementation-notes.md,file
+back-257 - Deep-link-URLs-for-tasks-in-board-and-list-views.md,file
+back-258 - Filesystem-ignore-leading-zeros-in-task-IDs.md,file
+back-259 - Add-task-list-filters-for-Status-and-Priority.md,file
+back-260 - Web-UI-Add-filtering-to-All-Tasks-view.md,file
+back-261 - Init-Handle-missing-git-origin-gracefully.md,file
+back-262 - TUI-Show-all-configured-status-columns-in-Kanban.md,file
+back-263 - Ensure-explicit-agent-instruction-selection-during-init.md,file
+back-264 - TUI-Fix-regression-in-task-popup-scrolling-with-arrow-keys.md,file
+back-265 - Web-UI-Enhance-all-tasks-view-with-in-progress-highlighting-and-done-tasks-toggle.md,file
+back-266 - Fix-Implementation-Notes-heading-truncation-in-web-UI.md,file
+back-267 - Add-agent-instruction-version-metadata.md,file
+back-268 - Show-agent-instruction-version-status.md,file
+back-269 - Refactor-backlog-init-agent-selection.md,file
+back-27 - add-contributing-guidelines.md,file
+back-270 - Prevent-command-substitution-in-task-creation-inputs.md,file
+back-271 - Fix-acceptance-criteria-section-removal-when-list-emptied.md,file
+back-272 - Adopt-npm-trusted-publishing-for-releases.md,file
+back-273 - Refactor-search.md,file
+back-273.01 - 273.01-Migrate-domain-types-to-rawContent.md,file
+back-273.02 - 273.02-Introduce-shared-content-store.md,file
+back-273.03 - 273.03-Build-core-Fuse-search-service.md,file
+back-273.04 - 273.04-CLI-&-TUI-search-integration.md,file
+back-273.05 - 273.05-Server-endpoints-on-shared-store-search.md,file
+back-273.06 - 273.06-Web-UI-on-centralized-search.md,file
+back-273.07 - 273.07-Web-UI-status-and-priority-filters-on-All-Tasks-view.md,file
+back-274 - Fix-Kanban-boards-missing-live-updates.md,file
+back-275 - Extract-task-reordering-logic-to-core-module.md,file
+back-275 - Show-all-configured-status-columns-in-TUI-kanban-board.md,file
+back-278 - Consolidate-task-forms-and-restore-archive-functionality.md,file
+back-279 - Add-cleanup-functionality-to-web-UI-for-managing-completed-tasks.md,file
+back-280 - Fix-TUI-task-list-selection-and-detail-pane-synchronization-bug.md,file
+back-281 - Fix-backlog-init-skip-option.md,file
+back-282 - Fix-TUI-detail-pane-loading-state-regression.md,file
+back-283 - Fix-TUI-board-duplicating-cards-after-external-status-changes.md,file
+back-284 - Simplify-init-flow;-launch-advanced-settings-via-backlog-config.md,file
+back-285 - adjust-z-index-tooltip-style.md,file
+back-286 - Add-npm-script-and-shell-script-for-updating-bun.nix-via-Docker.md,file
+back-287 - Add-MCP-support-for-agent-integration.md,file
+back-288 - Fix-browser-UI-error-display-and-make-priority-optional.md,file
+back-289 - Implement-resource-templates-list-handler-to-return-empty-list-instead-of-error.md,file
+back-29 - add-github-templates.md,file
+back-290 - Improve-MCP-status-field-to-use-enum-dropdown-with-config-values.md,file
+back-297 - Fix-Windows-MCP-git-fetch-hang-during-task_create.md,file
+back-298 - Fix-document-title-renames.md,file
+"back-299 - Fix-MCP-initialization-for-multiple-AI-coding-agents-(Codex,-Gemini,-Claude).md",file
+back-3 - cli-implement-backlog-init.md,file
+back-300 - Fix-backlog-init-MCP-registration-flags-for-Claude-and-Gemini.md,file
+back-301 - Feature-MCP-document-tools.md,file
+back-302 - Support-flexible-ID-formats-for-tasks-and-docs.md,file
+back-304 - Update-MCP-integration-documentation-and-CLI-client-commands.md,file
+back-305 - Improve-MCP-guidelines-to-cross-link-workflows-and-clarify-documentation-notes.md,file
+back-307 - Add-dual-mode-MCP-guidance-for-workflow-docs.md,file
+back-308 - Add-shell-tab-completion-support-for-CLI-commands.md,file
+back-308.01 - Research-shell-completion-frameworks-and-implementation-approaches.md,file
+back-308.02 - Implement-bash-completion-script.md,file
+back-308.03 - Implement-zsh-completion-script.md,file
+back-308.04 - Implement-fish-completion-script.md,file
+back-308.05 - Add-dynamic-completions-for-task-IDs-and-config-values.md,file
+back-308.06 - Add-completion-installation-command.md,file
+back-308.07 - Add-completion-documentation-and-tests.md,file
+back-309 - Improve-TUI-empty-state-when-task-filters-return-no-results.md,file
+back-31 - update-readme-for-open-source.md,file
+back-310 - Strengthen-Backlog-workflow-overview-emphasis-on-reading-detailed-guides.md,file
+back-311 - Rollback-CI-to-Bun-1.2.23.md,file
+back-312 - Add-baseline-build-targets-for-older-CPUs-without-AVX2-support.md,file
+back-314 - Fix-release-workflow-to-use-Bun-1.2.23-with-baseline-targets.md,file
+back-315 - Fix-NixOS-flake-to-use-baseline-Bun-for-build-process.md,file
+back-316 - Serve-backlog-images-and-static-assets-under-assets-backlog.md,file
+back-317 - Add-Mermaid-diagram-rendering-in-web-UI.md,file
+back-318 - Fix-editor-stdio-inheritance-for-interactive-editors-(vim-neovim).md,file
+back-319 - Add-move-mode-keyboard-navigation-to-Kanban-board.md,file
+back-32 - cli-hide-empty-'no-status'-column.md,file
+back-320 - Refactor-and-fix-move-mode-implementation.md,file
+back-321 - Status-change-callbacks-in-task-frontmatter.md,file
+back-322 - Fix-flake.nix-for-devenv-compatibility.md,file
+back-324 - Add-browser-UI-initialization-flow-for-uninitialized-projects.md,file
+back-326 - Add-local-branch-task-discovery-to-board-loading.md,file
+back-327 - Fix-loadTaskById-to-search-remote-branches.md,file
+back-328 - Make-filename-sanitization-stricter-by-default.md,file
+back-330 - Fix-browser-CLI-sync-issue-when-reordering-cross-branch-tasks.md,file
+back-331 - Fix-content-store-refresh-dropping-cross-branch-tasks.md,file
+back-332 - Unify-CLI-task-list-board-loading-and-view-switching-UX.md,file
+back-333 - Keep-cross-branch-tasks-out-of-plain-CLI-MCP-listings.md,file
+back-334 - Fix-task-numbering-reset-when-all-tasks-archived.md,file
+back-335 - Fix-CLI-to-find-Backlog.md-root-from-subfolders.md,file
+back-336 - Rollback-GitHub-workflows-to-Bun-1.2.x-to-avoid-websocket-CPU-regression.md,file
+back-337 - Add-label-filter-to-TUI-task-list.md,file
+back-338 - Add-label-filter-to-web-all-tasks-page-(core-backed).md,file
+back-339 - Investigate-GH-issue-#445-tasks-disappear-when-assignee-list-populated.md,file
+back-34 - split-readme.md-for-users-and-contributors.md,file
+back-340 - Fix-nix-build-by-pinning-bun2nix-to-V1.md,file
+back-341 - Web-UI-Milestones-overview-page.md,file
+back-342 - Web-Kanban-add-swimlanes-milestone-MVP-to-board-view.md,file
+back-343 - Clarify-Done-vs-Archived-in-MCP-guidance-add-task_complete-tool.md,file
+back-344 - MCP-Manage-milestones-list-add-rename-remove-task-milestone-support.md,file
+back-345 - Configurable-ID-prefix-system-task-draft-custom.md,file
+back-345.01 - Create-PrefixConfig-abstraction-layer.md,file
+back-345.02 - Update-ID-generation-and-normalization-utilities.md,file
+back-345.03 - Update-file-system-operations-for-configurable-prefixes.md,file
+back-345.04 - Update-task-loaders-for-configurable-prefixes.md,file
+back-345.05 - Update-sorting-content-store-and-search-for-configurable-prefixes.md,file
+back-345.06 - Update-UI-components-and-CLI-for-configurable-prefixes.md,file
+back-345.07 - Implement-promote-demote-with-ID-reassignment.md,file
+back-345.08 - Add-draft-prefix-migration-on-config-load.md,file
+back-345.09 - Allow-configuring-task-prefix-during-backlog-init.md,file
+back-345.10 - Fix-ID-generation-bugs-and-cleanup-prefix-config-leftovers.md,file
+back-346 - Add-milestone-completion-archival-workflow.md,file
+back-347 - Add-milestone-editing-in-Web-UI.md,file
+back-348 - Redesign-All-Tasks-page-with-table-layout.md,file
+back-349 - Publish-Backlog.md-as-an-Agent-Skill-with-bundled-guidance-no-MCP-resources-required-for-instructions.md,file
+back-35 - finalize-package.json-metadata-for-publishing.md,file
+back-350 - Fix-TUI-editor-launch-leaving-terminal-keypad-mode-enabled.md,file
+back-351 - Strengthen-MCP-task-creation-guidance-for-standalone-tasks.md,file
+back-352 - Include-subtask-list-in-plain-task-output-CLI-MCP.md,file
+back-353 - Add-documentation-field-to-task-domain-object.md,file
+back-354 - Project-Definition-of-Done-defaults.md,file
+back-354.01 - Core-Definition-of-Done-defaults-and-persistence.md,file
+back-354.02 - CLI-MCP-DoD-create-options-and-outputs.md,file
+back-354.03 - Web-UI-DoD-in-task-modal-and-create-flow.md,file
+back-354.04 - TUI-DoD-in-task-detail-and-kanban-popup.md,file
+back-354.05 - Web-UI-edit-Definition-of-Done-defaults-in-Settings.md,file
+back-355 - Add-task-type-field-bug-feature-enhancement-etc..md,file
+back-355.01 - Core-Add-type-field-to-task-domain-model-and-persistence.md,file
+back-355.02 - CLI-Add-type-flag-to-task-create-and-edit-commands.md,file
+back-355.03 - MCP-Add-type-parameter-to-task_create-and-task_edit-tools.md,file
+back-355.04 - Filtering-Add-type-based-filtering-to-task-list-and-search.md,file
+back-355.05 - TUI-Display-task-type-in-board-and-detail-views.md,file
+back-355.06 - Web-UI-Display-and-edit-task-type.md,file
+back-356 - Add-references-field-to-task-domain-object.md,file
+back-357 - Fix-Web-UI-acceptance-criteria-disappearing-after-save.md,file
+back-358 - Rename-Task-Completion-Guide-to-Task-Finalization-Guide.md,file
+back-359 - Pass-configured-task-prefix-to-cross-branch-loading-functions.md,file
+back-36 - cli-prompt-for-project-name-in-init.md,file
+back-360 - Fix-cross-branch-index-case-mismatch-for-custom-prefixes.md,file
+back-361 - Add-label-based-filtering-to-TUI-and-web-UI-task-list-views.md,file
+back-362 - Include-completed-tasks-in-MCP-task_search-results.md,file
+back-363 - Fix-localById-case-mismatch-in-cross-branch-task-loading.md,file
+back-364 - Fix-getTask-to-use-configured-prefix-for-numeric-ID-lookups.md,file
+back-365 - Fix-acceptance-criteria-insertion-adding-blank-lines.md,file
+back-366 - Evaluate-and-replace-prompts-library-with-clack-in-CLI-wizards.md,file
+back-366.01 - Refactor-init-wizard-prompts-to-clack.md,file
+back-366.02 - Refactor-advanced-config-wizard-prompts-to-clack.md,file
+back-366.03 - Refactor-remaining-CLI-prompt-flows-and-tests-to-clack.md,file
+back-367 - Add-Final-Summary-field-to-tasks-for-PR-style-completion-notes.md,file
+back-367.01 - CLI-and-plain-text-formatter-integration-for-Final-Summary-field.md,file
+back-367.02 - MCP-tools-and-schemas-integration-for-Final-Summary-field.md,file
+back-367.03 - Web-UI-integration-for-Final-Summary-field.md,file
+back-367.04 - TUI-task-viewer-integration-for-Final-Summary-field.md,file
+back-367.5 - Ignore-nested-section-markers-when-parsing-structured-sections.md,file
+back-368 - TUI-Add-section-aware-navigation-for-task-popup-and-detail-pane.md,file
+back-369 - Fix-web-UI-acceptance-criteria-toggle-flicker-via-ContentStore-sync.md,file
+back-37 - cli-board-view-open-tasks-in-ide.md,file
+back-370 - Release-publish-platform-binaries-before-main-npm-package.md,file
+back-371 - Investigate-flaky-CI-test-failure-in-PR-494.md,file
+back-372 - CI-drop-sourcemap-in-compile-and-smoke-test-to-avoid-InvalidSourceMap-flake.md,file
+back-373 - Support-Drafts-via-MCP-task-tools-no-new-tools.md,file
+back-374 - Ensure-MCP-server-exits-when-stdio-closes-and-disposes-watchers.md,file
+back-375 - Fix-inconsistent-draft-IDs-for-`task-create-draft`.md,file
+back-376 - Fix-web-task-creation-dropping-selected-milestone.md,file
+back-377 - Prevent-web-preview-crash-on-angle-bracket-type-strings.md,file
+back-378 - Fix-timezone-configuration-docs-and-local-date-display-in-task-modal.md,file
+back-379 - Auto-plain-output-when-stdout-is-not-a-TTY.md,file
+back-38 - cli-improved-agent-selection-for-init.md,file
+back-380 - Fix-MCP-milestone-persistence-to-use-milestone-IDs.md,file
+back-381 - Fix-frontmatter-parsing-corruption-when-titles-contain-dollar-sign-sequences.md,file
+back-382 - Sanitize-dependencies-and-references-when-archiving-tasks.md,file
+back-383 - Restructure-README-into-two-usage-paths-MCP-spec-driven-vs-manual-CLI-based-on-conference-guidance.md,file
+back-384 - Fix-milestone-rename-to-use-milestone-files-as-single-source-of-truth.md,file
+back-385 - Release-harden-npm-propagation-gates-for-platform-binaries-and-install-sanity.md,file
+back-386 - Add-quick-milestone-search-on-Milestones-page-using-Fuse.js.md,file
+back-387 - Hide-Done-tasks-from-Unassigned-group-on-Milestones-page.md,file
+back-388 - Remove-legacy-config.milestones-logic-and-keep-milestone-files-as-sole-source-of-truth.md,file
+back-389 - Fix-TUI-editor-handoff-regression-for-issue-457-with-deterministic-interactive-tests.md,file
+back-39 - cli-fix-empty-agent-instruction-files-on-init.md,file
+back-390 - Add-Kiro-support-in-initialization-flow-and-documentation.md,file
+back-391 - Add-CWD-override-support-for-MCP-start-and-CLI-root-resolution.md,file
+back-392 - CLI-advanced-config-interactive-Definition-of-Done-defaults-editor.md,file
+back-393 - CLI-task-create-edit-unified-Clack-wizard-with-edit-prefill.md,file
+back-394 - MCP-clarify-DoD-semantics-and-add-DoD-default-management-tools.md,file
+back-395 - Web-prevent-stale-SPA-loads-by-disabling-index.html-caching.md,file
+back-396 - Reproduce-and-permanently-fix-TUI-editor-key-passthrough-regression-in-shipped-builds.md,file
+back-397 - Fix-drag-and-drop-between-kanban-columns-when-target-column-is-shorter.md,file
+back-398 - Add-Milestone-Filter-to-TUI-Board.md,file
+back-399 - Refactor-TUI-filter-UX-parity-between-task-list-and-kanban.md,file
+back-4 - cli-task-management-commands.md,file
+back-4.1 - cli-task-create.md,file
+back-4.10 - use-cli-to-mark-tasks-done.md,file
+back-4.11 - docs-add-definition-of-done-to-agent-guidelines.md,file
+back-4.12 - cli-handle-task-id-conflicts-across-branches.md,file
+back-4.13 - cli-fix-config-command-local-global-logic.md,file
+back-4.2 - cli-task-list-view.md,file
+back-4.3 - cli-task-edit.md,file
+back-4.4 - cli-task-archive-transition.md,file
+back-4.5 - cli-init-prompts-for-reporter-name-and-global-local-config.md,file
+back-4.6 - cli-add-empty-assignee-array-field-for-new-tasks.md,file
+back-4.7 - cli-parse-unquoted-created_date.md,file
+back-4.8 - cli-enforce-description-header.md,file
+back-4.9 - cli-normalize-task-id-inputs.md,file
+back-40 - cli-board-command-defaults-to-view.md,file
+back-400 - Add-milestone-filter-support-to-task-list-CLI-and-MCP.md,file
+back-401 - Add-dueDate-support-for-tasks-and-milestones-across-CLI-TUI-Web-and-MCP.md,file
+back-402 - Support-project-local-custom-backlog-directories.md,file
+back-403 - Expose-and-honor-task-ordinal-in-MCP-task-tools.md,file
+back-404 - Harden-task-ID-locking-for-concurrent-create-promote-demote-operations.md,file
+back-404.1 - Converge-task-creation-into-a-single-canonical-core-pipeline.md,file
+back-406 - Use-MCP-roots-for-project-root-discovery-when-cwd-fails.md,file
+back-407 - Align-MCP-server-with-latest-spec-annotations-logging-error-codes-roots-notifications.md,file
+back-408 - Consolidate-MCP-workflow-guide-tools-into-get_backlog_instructions.md,file
+back-409 - clarify-acceptance-criteria-format-in-task-creation-guide.md,file
+back-41 - cli-migrate-terminal-ui-to-bblessed.md,file
+back-41.1 - cli-bblessed-init-wizard.md,file
+back-41.2 - cli-bblessed-task-view.md,file
+back-41.3 - cli-bblessed-doc-view.md,file
+back-41.4 - cli-bblessed-board-view.md,file
+back-41.5 - cli-audit-remaining-ui-for-bblessed.md,file
+back-410 - Init-CLI-add-Cursor-as-a-native-first-party-agent-option.md,file
+back-411 - Prototype-a-Codex-plugin-for-Backlog-binary-and-MCP.md,file
+back-412 - Add-touched-files-field-to-tasks-and-filename-based-search.md,file
+back-413 - Fix-browser-labels-filter-dropdown-stacking-over-task-table-header.md,file
+back-414 - Add-basic-Web-UI-theme-customization.md,file
+back-415 - Add-CLI-milestone-create-command.md,file
+back-416 - Add-full-content-task-view-output-mode.md,file
+back-417 - Improve-Web-UI-content-viewer-sizing-and-mode-persistence.md,file
+back-418 - Publish-supported-container-runtime-for-backlog-browser.md,file
+back-419 - Add-Web-UI-demote-to-draft-action.md,file
+back-42 - visual-hierarchy.md,file
+back-420 - Add-task-content-TOC-and-scrollspy-in-Web-UI.md,file
+back-421 - Resolve-dateFormat-config-behavior.md,file
+back-422 - Support-XDG_CONFIG_HOME-for-global-user-config.md,file
+back-423 - Add-folder-grouping-for-docs-in-Web-UI.md,file
+back-424 - Support-multiple-status-filters-in-Web-task-lists.md,file
+back-425 - Add-compact-TUI-task-list-view.md,file
+back-426 - Fix-in-document-markdown-hash-links.md,file
+back-427 - Support-unassigned-task-filtering-in-CLI-and-MCP.md,file
+back-428 - Document-npx-backlog.md-usage.md,file
+back-429 - Preserve-unsaved-Web-drafts-across-file-refreshes.md,file
+back-43 - remove-duplicate-acceptance-criteria-and-style-metadata.md,file
+back-430 - Create-tasks-from-the-TUI-board.md,file
+back-431 - Avoid-Claude-rejected-shell-forms-in-agent-guidance.md,file
+back-432 - Parse-definition_of_done-with-standard-YAML-semantics.md,file
+back-433 - Make-task-edit-preserve-unrelated-file-details.md,file
+back-434 - Use-request-scoped-MCP-roots-discovery.md,file
+back-435 - Optimize-Mermaid-browser-bundle-loading.md,file
+back-436 - Align-document-management-across-CLI-Web-UI-and-MCP.md,file
+back-437 - Document-running-backlog-browser-as-a-background-service.md,file
+back-438 - Add-automatic-core-level-task-drift-detection.md,file
+back-439 - Allow-backdrop-click-to-close-task-modal.md,file
+back-44 - checklist-alignment.md,file
+back-440 - Handle-cancel-in-agents-update-prompt.md,file
+back-441 - Add-kanban-board-filters-to-web-UI.md,file
+back-442 - Prevent-DoD-defaults-config-injection.md,file
+back-443 - Add-PowerShell-completion-support.md,file
+back-444 - Support-filesystem-only-Backlog-projects-without-Git.md,file
+back-445 - Add-command-filters-to-web-search.md,file
+back-447 - Add-No-milestone-option-to-TUI-milestone-filters.md,file
+back-449 - Document-task-image-handling-and-docs-management-in-agent-guidelines.md,file
+back-45 - safe-line-wrapping.md,file
+back-450 - Add-CLI-document-update-command.md,file
+back-451 - Fix-Guard-cross-branch-loading-behind-checkActiveBranches-flag.md,file
+back-452 - Add-TUI-keyboard-shortcuts-Yank-Archive-and-Help-Menu.md,file
+back-453 - Stabilize-Windows-CI-test-suite.md,file
+back-454 - Default-ordinals-for-created-tasks.md,file
+back-455 - Support-task-milestone-assignment-in-CLI-task-CRUD.md,file
+back-456 - Lock-milestone-ID-allocation-during-creation.md,file
+back-457 - Avoid-stale-task-reads-after-milestone-mutations.md,file
+back-458 - Fix-promoted-draft-default-status.md,file
+back-459 - Add-priority-sorting-to-Kanban-columns.md,file
+back-46 - split-pane-layout.md,file
+back-460 - Fix-TUI-selected-row-readability-in-board-and-task-list.md,file
+back-461 - Add-community-tools-section-to-README.md,file
+back-462 - Use-terminal-status-for-cleanup-instead-of-hardcoded-Done.md,file
+back-463 - Align-web-task-filters-between-board-and-all-tasks.md,file
+back-464 - Use-shared-multi-label-filter-dropdown-on-board.md,file
+back-465 - Fix-Windows-MCP-document-tool-hangs.md,file
+back-466 - Add-win32-arm64-Windows-on-ARM-prebuilt-binary.md,file
+back-467 - Build-win32-arm64-release-binary-on-a-Linux-runner.md,file
+back-468 - Update-GitHub-Actions-to-latest-versions-across-workflows.md,file
+back-469 - TUI-theme-adaptive-rendering-remove-hardcoded-colors-add-scroll-improvements.md,file
+back-47 - sticky-header-in-detail-view.md,file
+back-470 - Add-task-comments-across-Backlog.md.md,file
+back-470.1 - Core-task-comment-model-and-markdown-persistence.md,file
+back-470.2 - Expose-task-comments-in-CLI-and-MCP.md,file
+back-470.3 - Add-task-comments-to-server-API-and-Web-UI.md,file
+back-470.4 - Render-task-comments-in-terminal-UI-and-update-public-guidance.md,file
+back-471 - Display-task-dates-consistently-as-UTC-in-TUI-plain-output-and-MCP.md,file
+back-473 - handle-port-congestion-for-backlog-browser.md,file
+back-48 - footer-hint-line.md,file
+back-49 - status-styling.md,file
+back-5 - cli-docs-decisions.md,file
+back-50 - borders-&-padding.md,file
+back-506 - Fix-Codex-MCP-connection-failure.md,file
+back-507 - CLI-workflow-guidance-for-agents-and-humans.md,file
+back-507.1 - Shared-workflow-instruction-registry-and-CLI-access.md,file
+back-507.10 - Task-complete-CLI-parity-with-MCP-cleanup-operation.md,file
+back-507.11 - Concrete-CLI-help-values-for-agent-schemas.md,file
+back-507.12 - Use-required-overview-nudge-and-configured-prefixes-in-CLI-guidance.md,file
+back-507.13 - Restore-colorized-root-command-splash-for-TTY-output.md,file
+back-507.2 - Short-agent-nudge-and-init-default-migration.md,file
+back-507.3 - Text-input-schemas-in-public-command-help.md,file
+back-507.4 - Self-correcting-CLI-errors-for-agents-and-humans.md,file
+back-507.5 - Documentation-and-MCP-compatibility-updates.md,file
+back-507.6 - Root-command-local-instruction-hub.md,file
+back-507.7 - Milestone-CLI-parity-with-MCP-operations.md,file
+back-507.8 - Document-search-CLI-parity-with-MCP-operation.md,file
+back-507.9 - Task-list-CLI-parity-with-MCP-filters.md,file
+back-508 - Resolve-MCP-project-root-from-client-workspace-roots.md,file
+back-509 - Fix-CLI-auto-commit-for-doc-decision-task-create-commands.md,file
+back-51 - code-path-styling.md,file
+back-510 - Fix-repeated-task-edit-label-flags.md,file
+back-513 - Investigate-stale-worktree-branch-discovery.md,file
+back-515 - Fix-TUI-completion-status-update.md,file
+back-516 - Detect-and-warn-about-duplicate-task-IDs.md,file
+back-517 - Show-acceptance-criteria-numbers-in-browser-task-detail.md,file
+back-518 - Preserve-updated_date-for-ordinal-only-task-reorders.md,file
+back-519 - Rework-README-into-a-landing-page-centered-on-the-review-surface-value-proposition.md,file
+back-52 - cli-filter-tasks-list-by-status-or-assignee.md,file
+back-520 - Remove-the-sequences-feature.md,file
+back-521 - Improve-agent-experience-for-weaker-local-models.md,file
+back-522 - Hide-empty-status-columns-on-Board-when-no-tasks.md,file
+back-523 - Add-plain-support-to-doc-view.md,file
+back-524 - Speed-up-CI-test-workflow.md,file
+back-525 - Modernize-browser-UI-bundling-with-Bun-and-Tailwind.md,file
+back-526 - Sort-web-milestone-cards-in-creation-order.md,file
+back-527 - Add-ordinal-sorting-to-task-list-views.md,file
+back-528 - Fix-All-Tasks-ID-sorting-for-subtasks.md,file
+back-529 - Sort-browser-label-filters-alphabetically.md,file
+back-53 - fix-blessed-screen-bug-in-bun-install.md,file
+back-530 - Support-user-defined-priority-values.md,file
+back-531 - Add-creation-date-sorting-to-board-column-menu.md,file
+back-532 - Add-exclude-status-filtering-to-task-list-and-search.md,file
+back-533 - Prevent-stale-ContentStore-refresh-from-overwriting-newer-state.md,file
+back-534 - Eliminate-MCP-milestone-mutation-CI-timeout.md,file
+back-535 - Audit-and-modernize-test-suite-reliability.md,file
+back-535.1 - Replace-simulated-CLI-tests-with-real-surface-coverage.md,file
+back-535.10 - Split-CLI-contract-test-monolith-into-coherent-suites.md,file
+back-535.11 - Define-retention-for-tracked-temporary-diagnostics.md,file
+back-535.13 - Replace-overlap-refresh-polling-with-observable-synchronization.md,file
+back-535.14 - Replace-deep-link-test-polling-with-observable-synchronization.md,file
+back-535.2 - Harden-test-lifecycle-timeout-and-cleanup-handling.md,file
+back-535.3 - Make-filesystem-fixture-cleanup-fail-visible.md,file
+back-535.4 - Make-server-and-process-test-teardown-deterministic.md,file
+back-535.5 - Replace-vacuous-catch-based-test-assertions.md,file
+back-535.6 - Consolidate-compiled-build-coverage-and-CI-diagnostics.md,file
+back-535.7 - Isolate-compiled-smoke-fixtures-from-repository-remotes.md,file
+back-535.8 - Thin-duplicated-MCP-semantic-test-permutations.md,file
+back-535.9 - Replace-private-browser-and-server-test-assertions-with-observable-behavior.md,file
+back-536 - Enforce-just-in-time-implementation-planning-in-workflow-guidance.md,file
+back-537 - Make-checklist-edits-and-serialization-deterministic.md,file
+back-538 - Fix-port-availability-probe-so-browser-port-congestion-handling-works-on-macOS.md,file
+back-539 - Surface-duplicate-task-ID-warning-in-TUI-task-list-and-detail-views.md,file
+back-54 - fix-init-prompt-colors.md,file
+back-540 - Parse-block-style-YAML-lists-in-config-and-fix-config-set-guidance-for-list-keys.md,file
+back-541 - Archive-one-week-old-completed-backlog-tasks.md,file
+back-543 - Add-progressive-scope-and-metadata-to-the-TUI-task-composer.md,file
+back-544 - Add-structured-TUI-task-editing-with-a-raw-Markdown-power-path.md,file
+back-545 - Add-stable-JSON-output-to-read-commands.md,file
+back-546 - Add-dependency-readiness-guidance-to-TUI-and-browser.md,file
+back-547 - Make-TUI-live-refresh-resilient-to-atomic-writes.md,file
+back-548 - Expose-bidirectional-dependency-graphs-in-task-details.md,file
+back-549 - Improve-parent-and-subtask-presentation-in-the-TUI.md,file
+back-55 - simplify-init-text-prompt.md,file
+back-550 - Add-append-plan-option-to-task-edit-CLI.md,file
+back-551 - Show-acceptance-criteria-completion-on-TUI-task-summaries.md,file
+back-552 - Show-acceptance-criteria-progress-on-browser-task-summaries.md,file
+back-553 - Explore-task-dependencies-in-a-navigable-Web-graph.md,file
+back-554 - Modernize-Nix-packaging-and-restore-runnable-builds.md,file
+back-555 - Add-a-context-independent-handoff-check-to-task-creation-guidance.md,file
+back-557 - Treat-same-path-cross-branch-task-versions-as-one-identity.md,file
+back-558 - Prevent-browser-shortcuts-from-intercepting-inline-task-fields.md,file
+back-559 - Eliminate-repeated-task-corpus-scans-from-browser-updates.md,file
+back-56 - simplify-tui-blessed-import.md,file
+back-560 - Bind-the-browser-server-to-loopback-only.md,file
+back-561 - Normalize-acceptance-criteria-metadata-for-Done-tasks.md,file
+back-562 - Honor-BROWSER-for-devcontainer-browser-launch.md,file
+back-563 - Scope-autoCommit-to-exactly-the-files-each-write-touches.md,file
+back-564 - Match-milestone-ID-queries-in-task-list-milestone-filtering.md,file
+back-565 - Fix-TUI-task-composer-navigation-with-directional-arrows.md,file
+back-566 - Temporarily-disable-TUI-task-creation-entrypoint.md,file
+back-567 - Stop-idle-browser-refresh-loop-from-duplicate-task-preview.md,file
+back-568 - Preserve-genuine-task-publications-during-duplicate-preview-refresh.md,file
+back-569 - Bring-Windows-CI-tests-below-three-minutes.md,file
+back-569 - Make-browser-task-loading-asynchronous-and-idle-stable.md,file
+back-57 - fix-version-command-to-support-v-flag-and-display-correct-version.md,file
+back-570 - Make-browser-task-loading-asynchronous-and-idle-stable.md,file
+back-571 - Show-genuine-loading-indicators-in-the-browser-board-and-sidebar.md,file
+back-572 - Clear-task-dependencies-through-the-CLI.md,file
+back-573 - Clear-shared-loading-ownership-after-terminal-browser-initialization-errors.md,file
+back-574 - Allow-clearing-defaultEditor.md,file
+back-575 - Fail-fast-instead-of-silently-losing-concurrent-task-edits.md,file
+back-576 - Multi-assignee-parity-for-task-create.md,file
+back-577 - Include-the-project-name-in-TUI-window-titles.md,file
+back-578 - Stop-the-Rosetta-sysctl-probe-from-leaking-stderr.md,file
+back-579 - Document-real-newline-handling-for-every-multiline-Markdown-flag.md,file
+back-58 - unify-task-list-view-to-use-task-viewer-component.md,file
+back-580 - Fail-closed-on-ambiguous-document-and-decision-identity.md,file
+back-581 - Make-init-honor-BACKLOG_CWD.md,file
+back-582 - Add-a-decision-list-command.md,file
+back-583 - Implement-defaultAssignee.md,file
+back-584 - Keep-vim-keys-inside-the-list-at-navigation-boundaries.md,file
+back-585 - Diagnose-and-fix-the-ubuntu-latest-CI-test-runner-flake.md,file
+back-586 - Clear-references-and-documentation-through-the-CLI.md,file
+back-588 - Make-the-TUI-help-popup-robust-to-resize-and-wrapped-lines.md,file
+back-589 - Improve-composer-usability-at-extreme-terminal-sizes.md,file
+back-59 - simplify-init-command-with-modern-cli.md,file
+back-590 - Support-mouse-clicks-in-the-TUI-task-composer.md,file
+back-591 - Decide-how-board-task-creation-interacts-with-prefiltered-views.md,file
+back-592 - Make-TUI-text-field-insertion-Unicode-safe.md,file
+back-593 - Auto-link-task-IDs-in-web-markdown-to-task-deep-links.md,file
+back-594 - Modernize-the-MCP-server-for-the-stateless-2026-07-28-protocol.md,file
+back-595 - Ship-Backlog.md-as-an-Agent-Plugin-with-skill-based-instructions.md,file
+back-596 - Explore-a-read-only-board-view-as-an-MCP-App.md,file
+back-597 - Add-incremental-reference-flags-to-task-edit.md,file
+back-598 - Resolve-open-Dependabot-alerts.md,file
+back-599 - Align-web-task-link-identity-with-route-resolution-and-preserve-return-routes.md,file
+back-6 - cli-packaging.md,file
+back-6.1 - cli-local-installation-support-for-bunx-npx.md,file
+back-6.2 - cli-github-actions-for-build-&-publish.md,file
+back-60 - cli-migrate-terminal-ui-to-ink.md,file
+back-60.1 - add-ink-and-react-dependencies.md,file
+back-60.2 - replace-scrollable-viewer-with-ink.md,file
+back-60.3 - implement-ink-board-view.md,file
+back-60.4 - rewrite-task-viewer-with-ink.md,file
+back-60.5 - convert-generic-list-component-to-ink.md,file
+back-60.6 - use-ink-spinner-for-loading.md,file
+back-60.7 - remove-blessed-dependency.md,file
+back-60.8 - document-ink-usage.md,file
+back-600 - Key-document-and-decision-writes-on-frontmatter-identity.md,file
+back-601 - Readiness-follow-ups-draft-dependencies-board-filter-carry-cross-branch-graph.md,file
+back-602 - Close-doctor-and-web-gaps-from-the-identity-review.md,file
+back-603 - Align-create-and-draft-flag-handling-with-the-edit-path.md,file
+back-604 - Allow-explicit-unassign-in-CLI-and-TUI-when-defaultAssignee-is-set.md,file
+back-605 - Route-all-TUI-operations-through-shared-core-with-runtime-cwd.md,file
+back-606 - Fail-fast-with-a-clear-error-on-malformed-config-list-values.md,file
+back-607 - Resolve-bare-numeric-task-IDs-consistently-across-all-commands.md,file
+back-608 - Remove-gray-matter-cache-poisoning-with-a-shared-no-cache-parse-wrapper.md,file
+back-609 - Fix-small-CLI-and-TUI-polish-defects-from-the-Aug-2026-review-rounds.md,file
+back-61 - embed-blessed-in-standalone-binary.md,file
+back-610 - Fail-fast-on-wrong-typed-config-values.md,file
+back-611 - Remove-dead-TUI-view-files-and-duplicated-helpers.md,file
+back-612 - Deduplicate-generateNextDecisionId-and-remove-the-core-to-CLI-dynamic-import.md,file
+back-613 - Fix-content-store-document-watcher-retry-and-rename-reconciliation.md,file
+back-614 - Let-the-web-create-form-express-an-explicitly-unassigned-task.md,file
+back-615 - Take-over-PR-808-hide-empty-board-columns-in-the-TUI.md,file
+back-616 - Salvage-vi-navigation-from-PR-809-for-TUI-filter-popups.md,file
+back-617 - Fix-web-board-drag-and-drop-when-hideEmptyColumns-is-enabled.md,file
+back-618 - Accept-an-explicit-empty-value-as-a-clear-on-task-edit-list-flags.md,file
+back-619 - Fix-README-example-for-custom-backlog-directory-and-add-missing-config-key-reference.md,file
+back-620 - Align-the-filter-footer-hint-between-TUI-kanban-and-task-list.md,file
+back-621 - Make-the-web-task-list-fit-without-horizontal-scroll-and-trim-page-padding.md,file
+back-622 - Return-acceptance-criteria-progress-in-task-JSON-outputs.md,file
+back-623 - Make-common-task-commands-avoid-unnecessary-cross-branch-work.md,file
+back-624 - Make-shared-cross-branch-task-loading-fast-and-incremental.md,file
+back-625 - Align-MCP-task-reads-with-the-CLI-local-first-approach.md,file
+back-626 - Make-task-archive-complete-and-demote-local-first-like-view-and-edit.md,file
+back-627 - Prevent-forced-allocation-refresh-from-joining-an-in-flight-stale-fetch.md,file
+back-628 - Stop-findIdentity-rename-fallback-from-publishing-freshness-without-installing-the-corpus.md,file
+back-629 - Close-transient-staleness-windows-in-web-statistics-and-cold-store-initialization.md,file
+back-630 - Filter-the-web-dependency-picker-to-locally-resolvable-tasks.md,file
+back-631 - Reconcile-local-vs-cross-branch-gaps-in-the-web-API-client-and-task-search.md,file
+back-632 - Decide-remote-freshness-policy-for-identity-sensitive-mutations-on-warm-web-and-MCP.md,file
+back-633 - Show-and-edit-modified-files-in-the-web-task-modal.md,file
+back-634 - Fix-web-UI-draft-editing.md,file
+back-635 - Reserve-draft-doc-and-decision-prefixes-at-init.md,file
+back-636 - Fail-closed-on-ambiguous-draft-identities.md,file
+back-637 - Preserve-consecutive-blank-lines-inside-fenced-code-blocks-in-notes-issue-930.md,file
+back-638 - Allow-task-list-status-to-accept-several-statuses.md,file
+back-639 - Make-drafts-editable-from-the-CLI-and-TUI.md,file
+back-640 - Use-one-identity-lookup-for-tasks-documents-decisions-and-drafts.md,file
+back-641 - Add-`backlog-task-dependencies`-command-with-TUI-and-plain-graph-views.md,file
+back-642 - Show-acceptance-criteria-progress-in-MCP-and-plain-task-lists.md,file
+back-643 - Add-a-project-task-attribute-for-monorepo-backlogs.md,file
+back-643.1 - Core-Add-project-field-to-task-domain-model-and-persistence.md,file
+back-643.2 - CLI-Add-project-flag-to-task-create-edit-config-get-and-completions.md,file
+back-643.3 - MCP-Add-project-parameter-to-task_create-and-task_edit-tools.md,file
+back-643.4 - Add-project-based-filtering-to-task-list-search-and-server-API.md,file
+back-643.5 - TUI-Display-and-filter-task-project-in-board-and-detail-views.md,file
+back-643.6 - Web-UI-Display-and-edit-task-project.md,file
+back-644 - Keep-the-board-task-popup-in-sync-with-live-task-state.md,file
+back-645 - Move-multiple-selected-tasks-between-statuses-in-one-action.md,file
+back-646 - Count-emoji-as-double-width-in-the-TUI.md,file
+back-648 - Fall-back-to-a-placeholder-filename-for-punctuation-only-titles.md,file
+back-649 - Single-source-task-search-config-and-filters-in-core.md,file
+back-650 - Route-TUI-and-milestone-page-task-search-through-the-shared-core-search.md,file
+back-651 - Remove-the-temp-file-roundtrip-in-README-board-export.md,file
+back-652 - Replace-the-ASCII-progress-bar-on-web-task-summaries-with-a-web-native-indicator.md,file
+back-653 - Update-web-views-in-place-instead-of-full-reload-on-data-changes.md,file
+back-654 - Polish-the-cross-branch-indexing-loading-indicator-in-the-web-UI.md,file
+back-655 - Open-task-details-in-place-from-sidebar-dependency-chips.md,file
+back-656 - Reject-self-referential-task-dependencies.md,file
+back-657 - Make-the-TUI-acceptance-criteria-bar-degrade-gracefully-without-Block-Element-glyphs.md,file
+back-658 - Resolve-dependency-targets-in-completed-and-archived-tasks.md,file
+back-659 - Include-grandchild-subtasks-in-board-export-grouping.md,file
+back-660 - Reject-nested-section-markers-in-notes-and-fix-append-truncation.md,file
+back-661 - TUI-multi-select-move-with-shift-arrow-recruitment.md,file
+back-662 - Add-references-and-modifiedFiles-to-task-list-json.md,file
+back-663 - Dependency-graph-follow-ups-from-BACK-548-review.md,file
+back-664 - Read-the-Backlog-overview-once-per-conversation-instead-of-per-request.md,file
+back-665 - Polish-the-web-UI-initial-loading-state.md,file
+back-666 - Compact-colored-acceptance-criteria-bar-in-the-TUI.md,file
+back-667 - Fix-the-flaky-browser-corpus-loading-progress-test.md,file
+back-668 - Replace-dead-rounded-full-classes-across-the-web-UI.md,file
+back-669 - Close-residual-self-dependency-gaps-from-the-BACK-656-review.md,file
+back-67 - add-p-shorthand-for-parent-option-in-task-create-command.md,file
+back-67.1 - test-subtask-with-p-option.md,file
+back-670 - Remove-the-standalone-task-dependencies-command-and-its-TUI.md,file
+back-671 - Add-backlog-task-graph-for-a-dependency-ordered-view-of-the-backlog.md,file
+back-672 - Compute-task-readiness-once-in-core-and-carry-isReady-on-task-lists.md,file
+back-673 - Clean-dependency-references-when-archiving-or-demoting-a-task.md,file
+back-674 - Sort-the-TUI-list-view-through-the-shared-task-ID-comparator.md,file
+back-675 - Fix-Windows-TUI-keyboard-input-after-Tab-view-switch.md,file
+back-676 - Make-agent-task-descriptions-carry-the-why.md,file
+back-677 - Show-local-time-in-the-web-UI-with-the-UTC-value-on-hover.md,file
+back-678 - Accept-local-time-in-web-due-date-entry.md,file
+back-679 - Quote-assignee-and-reporter-under-every-frontmatter-key-spelling.md,file
+back-68 - verify-windows-binary-uses-.exe.md,file
+back-680 - Stop-one-bad-draft-from-hiding-every-draft.md,file
+back-681 - Show-due-dates-on-the-surfaces-that-omit-them.md,file
+back-682 - Make-frontmatter-preprocessing-robust-to-valid-YAML-shapes.md,file
+back-683 - Render-TUI-acceptance-criteria-progress-as-a-pie-glyph.md,file
+back-684 - Move-the-acceptance-criteria-ring-into-the-web-card-header.md,file
+back-69 - cli-start-tasks-ids-at-1.md,file
+back-7 - cli-kanban-view.md,file
+back-7.1 - cli-kanban-board-detect-remote-task-status.md,file
+back-70 - ci-eliminate-extra-binary-download.md,file
+back-71 - fix-single-task-view-regression.md,file
+back-72 - fix-board-view-on-windows-without-terminfo.md,file
+back-73 - fix-windows-binary-package-name-resolution.md,file
+back-74 - fix-tui-crash-on-windows-by-disabling-blessed-tput.md,file
+back-75 - fix-task-selection-in-board-view-opens-wrong-task.md,file
+back-76 - add-implementation-plan-section.md,file
+back-76 - migrate-from-blessed-to-neo-neo-blessed-for-esm-support-and-tree-shaking.md,file
+back-76.1 - assess-neo-neo-blessed-api-compatibility-and-differences.md,file
+back-76.2 - update-package.json-and-install-neo-neo-blessed.md,file
+back-76.3 - migrate-ui-components-to-use-neo-neo-blessed.md,file
+back-76.4 - update-build-system-and-remove-cjs-workarounds.md,file
+back-76.5 - test-and-verify-all-tui-functionality.md,file
+back-76.6 - update-ci-cd-workflows-and-binary-packaging.md,file
+back-77 - migrate-from-blessed-to-bblessed-for-better-bun-and-windows-support.md,file
+back-79 - fix-task-list-ordering-sort-by-decimal-id-not-string.md,file
+back-80 - preserve-case-in-task-filenames-for-better-agent-discoverability.md,file
+back-81 - fix-task-list-navigation-skipping-issue.md,file
+back-81 - test-mixed-case-filename.md,file
+back-82 - Add-plain-flag-to-task-view-command-for-AI-agents.md,file
+back-82 - UPDATED-Title-With-CAPS.md,file
+back-83 - Add-case-insensitive-status-filter-support.md,file
+back-84 - Add-ac-flag-for-acceptance-criteria-in-task-create-edit.md,file
+back-85 - Merge-and-consolidate-loading-screen-functions.md,file
+back-86 - Update-agent-guidelines-to-emphasize-outcome-focused-acceptance-criteria.md,file
+back-87 - Make-agent-guideline-file-updates-idempotent-during-init.md,file
+back-88 - Fix-missing-metadata-and-implementation-plan-in-task-view-command.md,file
+back-88 - Test-AC-Feature.md,file
+back-89 - Add-dependency-parameter-for-task-create-and-edit-commands.md,file
+back-89 - Test-AC-Feature-2.md,file
+back-90 - Fix-task-list-scrolling-behavior-selector-should-move-before-scrolling.md,file
+back-90 - Test-Full-Flag.md,file
+back-91 - Fix-Windows-issues-empty-task-list-and-weird-Q-character.md,file
+back-92 - CI-Fix-intermittent-Windows-test-failures.md,file
+back-93 - Fix-Windows-agent-instructions-file-reading-hang.md,file
+back-94 - cli-show-created-task-file-path.md,file
+back-95 - Add-priority-field-to-tasks.md,file
+back-96 - Fix-demoted-task-board-visibility-check-status-across-archive-and-drafts.md,file
+back-97 - Cross-branch-task-ID-checking-and-branch-info.md,file
+back-98 - Invert-task-order-in-Done-column-only.md,file
+back-99 - Fix-loading-screen-border-rendering-and-improve-UX.md,file
+backlog,dir
+backlog-directory.test.ts,file
+backlog-directory.ts,file
+backlog-logo.png,file
+backlog-technical-project-manager,dir
+backlog-v1.40.gif,file
+backlog.bash,file
+backlog.fish,file
+backlog.jpg,file
+backlog.mp4,file
+backlog.ps1,file
+backlog.ts,file
+benchmark-task-loading.ts,file
+biome.json,file
+board-command.test.ts,file
+board-core-view-integration.test.ts,file
+board-hide-empty-columns.test.ts,file
+board-loading.test.ts,file
+board-popup-sync.test.ts,file
+board-render.test.ts,file
+board-tui-move.test.ts,file
+board-tui-multi-move-pty.test.ts,file
+board-ui-selection.test.ts,file
+board-ui.test.ts,file
+board.test.ts,file
+board.ts,file
+branch-task-loader-resilience.test.ts,file
+browser-launch.ts,file
+browser-loading-state.test.ts,file
+browser-loading-state.ts,file
+bug_report.md,file
+build.ts,file
+bun-options.test.ts,file
+bun.lock,file
+bun.nix,file
+bunfig.toml,file
+checklist.test.ts,file
+checklist.ts,file
+ci.yml,file
+claude-agent-install.test.ts,file
+cleanup.test.ts,file
+cli-agent-nudge.md,file
+cli-agents.test.ts,file
+cli-auto-plain-non-tty.test.ts,file
+cli-browser-port.test.ts,file
+cli-commit-behaviour.test.ts,file
+cli-custom-prefix-id-resolution.test.ts,file
+cli-dependency-graph.test.ts,file
+cli-dependency.test.ts,file
+cli-doc-decision-board.test.ts,file
+cli-doc-search.test.ts,file
+cli-doc-view.test.ts,file
+cli-doctor.test.ts,file
+cli-draft-edit.test.ts,file
+cli-due-date.test.ts,file
+cli-exclude-status-filtering.test.ts,file
+cli-final-summary.test.ts,file
+cli-guidance.test.ts,file
+cli-incrementing-ids.test.ts,file
+cli-init-claude-default.test.ts,file
+cli-init-create.test.ts,file
+cli-init-cursor-pty.test.ts,file
+cli-init-no-git.test.ts,file
+cli-instructions,dir
+cli-json-output.test.ts,file
+cli-launcher.test.ts,file
+cli-milestone-filter.test.ts,file
+cli-milestone-management.test.ts,file
+cli-parent-filter.test.ts,file
+cli-parent-shorthand.test.ts,file
+cli-plain-create-edit.test.ts,file
+cli-plain-output.test.ts,file
+cli-reference-256.png,file
+cli-refs-docs.test.ts,file
+cli-root-entry.test.ts,file
+cli-search-command.test.ts,file
+cli-status-filtering.test.ts,file
+cli-task-batch-edit.test.ts,file
+cli-task-list-ordinal-sort.test.ts,file
+cli-task-list.test.ts,file
+cli-task-milestone.test.ts,file
+cli-task-project.test.ts,file
+cli-task-state.test.ts,file
+cli-task-type.test.ts,file
+cli-task-view-edit.test.ts,file
+cli-task-wizard.test.ts,file
+cli-zero-padded-ids.test.ts,file
+cli.cjs,file
+cli.ts,file
+clipboard.ts,file
+code-path.test.ts,file
+code-path.ts,file
+command-structure.ts,file
+commands,dir
+comments.test.ts,file
+completed,dir
+completion.test.ts,file
+completion.ts,file
+completions,dir
+components,dir
+config-commands.test.ts,file
+config-migration.test.ts,file
+config-migration.ts,file
+config-watcher.test.ts,file
+config-watcher.ts,file
+config.yml,file
+configuration-256.png,file
+configure-advanced-settings.ts,file
+confirm-popup.ts,file
+constants,dir
+content-identity.test.ts,file
+content-store.test.ts,file
+content-store.ts,file
+contexts,dir
+copilot-instructions.md,file
+core,dir
+core-autocommit-scope.test.ts,file
+core-move-tasks-to-status.test.ts,file
+core-task-corpus-regressions.test.ts,file
+core.test.ts,file
+cross-branch-tasks.ts,file
+data-providers.ts,file
+date-display.test.ts,file
+date-display.ts,file
+decision-1 - Use-Tailwind-CSS-v4-for-web-UI-development.md,file
+decision-id.ts,file
+decisions,dir
+definition-of-done,dir
+definition-of-done-cli.test.ts,file
+definition-of-done.test.ts,file
+dependency-graph-surfaces.test.tsx,file
+dependency-graph-text.ts,file
+dependency-graph.test.ts,file
+dependency-graph.ts,file
+dependency.test.ts,file
+desc-alias.test.ts,file
+description-newlines.test.ts,file
+doc-001 - Testing-Style-Guide.md,file
+doc-002 - Configuring-VIM-and-Neovim-as-Default-Editor.md,file
+doc-003 - Running-Backlog-Browser-as-a-Service.md,file
+docs,dir
+docs-recursive.test.ts,file
+docs-tree.test.ts,file
+docs-tree.ts,file
+document-id.ts,file
+document-path.ts,file
+document-response.ts,file
+documentation.test.ts,file
+documents,dir
+draft-1 - Agents-add-board-export-step-to-agent-DoD.md,file
+draft-10 - CLI-Add-Agent-Instruction-Prompt.md,file
+draft-11 - Improve-tasks-readme-with-generic-example-and-CLI-command-reference.md,file
+draft-12 - GUI-introduction-screens.md,file
+draft-13 - Create-CHANGELOG.md,file
+draft-14 - GUI-Implement-GUI-Task-Creation-Editing-Forms.md,file
+draft-15 - Improve-decisions-readme-with-generic-example-and-CLI-command-reference.md,file
+draft-2 - GUI-Implement-GUI-for-Drafts-Docs-Decisions.md,file
+draft-3 - Improve-drafts-readme-with-generic-example-and-CLI-command-reference.md,file
+draft-4 - Add-CODE-OF-CONDUCT.md,file
+draft-41 - temporary-test-task.md,file
+draft-5 - GUI-Setup-GUI-Project-Structure.md,file
+draft-6 - GUI-Implement-GUI-Kanban-Board-Display-Interaction.md,file
+draft-7 - CLI-Export-milestones-board-as-roadmap.md,file
+draft-8 - GUI-Implement-`backlog-init`-in-GUI-GUI-Packaging.md,file
+draft-9 - Improve-docs-readme-with-generic-example-and-CLI-command-reference.md,file
+draft-create-consistency.test.ts,file
+draft-lifecycle-autocommit-scope.test.ts,file
+drafts,dir
+due-date.test.ts,file
+due-date.ts,file
+duplicate-detection.test.ts,file
+duplicate-detection.ts,file
+duplicate-task-repair.test.ts,file
+duplicate-task-repair.ts,file
+editor.test.ts,file
+editor.ts,file
+enhanced-init.test.ts,file
+entity-id.ts,file
+errors,dir
+favicon.png,file
+feature_request.md,file
+file-system,dir
+filesystem-task-cache.test.ts,file
+filesystem.test.ts,file
+filter-header-navigation.test.ts,file
+filter-header.ts,file
+filter-popup.ts,file
+final-summary.test.ts,file
+find-backlog-root.test.ts,file
+find-backlog-root.ts,file
+flake.lock,file
+flake.nix,file
+footer-content.test.ts,file
+footer-content.ts,file
+formatters,dir
+frontmatter.ts,file
+generic-list-selection.test.ts,file
+generic-list.ts,file
+git,dir
+git.test.ts,file
+guidelines,dir
+handlers.ts,file
+heading.test.ts,file
+heading.ts,file
+help-popup.test.ts,file
+help-popup.ts,file
+help-schema.ts,file
+helper.test.ts,file
+helper.ts,file
+hooks,dir
+id-generation.test.ts,file
+id-generators.ts,file
+images,dir
+implementation-notes.test.ts,file
+implementation-plan.test.ts,file
+index.html,file
+index.ts,file
+init-required,dir
+init-required.md,file
+init.ts,file
+instructions.ts,file
+json-output.ts,file
+kanban-tasks.test.ts,file
+kanban-tasks.ts,file
+label-filter.test.ts,file
+label-filter.ts,file
+lanes.test.ts,file
+lanes.ts,file
+lib,dir
+line-wrapping.test.ts,file
+loading.ts,file
+local-task-command-performance.test.ts,file
+m-0 - project-setup.md,file
+m-1 - cli.md,file
+m-2 - cli-kanban.md,file
+m-3 - gui.md,file
+m-4 - gui-kanban.md,file
+m-5 - gui-advanced.md,file
+m-6 - new-milestones-ui.md,file
+m-7 - agent-cli-workflow.md,file
+m-8 - tui-task-composer.md,file
+main.tsx,file
+markdown,dir
+markdown.d.ts,file
+markdown.test.ts,file
+mcp,dir
+mcp-client-setup.test.ts,file
+mcp-client-setup.ts,file
+mcp-definition-of-done-defaults.test.ts,file
+mcp-documents.test.ts,file
+mcp-drafts.test.ts,file
+mcp-errors.ts,file
+mcp-fallback.test.ts,file
+mcp-final-summary.test.ts,file
+mcp-milestones.test.ts,file
+mcp-refs-docs.test.ts,file
+mcp-roots-discovery.test.ts,file
+mcp-server.test.ts,file
+mcp-stdio-exit.test.ts,file
+mcp-task-complete.test.ts,file
+mcp-task-project-filtering.test.ts,file
+mcp-task-type-filtering.test.ts,file
+mcp-tasks-local-filter.test.ts,file
+mcp-tasks.test.ts,file
+mcp-workspace-root.test.ts,file
+mcp.ts,file
+mermaid-dist.d.ts,file
+mermaid-markdown.test.tsx,file
+mermaid.test.ts,file
+mermaid.ts,file
+milestone-filter.test.ts,file
+milestone-filter.ts,file
+milestone-resolution.ts,file
+milestone-storage.ts,file
+milestones,dir
+milestones.test.ts,file
+milestones.ts,file
+modified-files.ts,file
+neo-neo-bblessed.d.ts,file
+no-remote-preflight.test.ts,file
+offline-integration.test.ts,file
+offline-mode.test.ts,file
+openai.yaml,file
+operations.ts,file
+overview-tools.md,file
+overview-tui.ts,file
+overview.md,file
+overview.ts,file
+package.json,file
+packaging-bin.test.ts,file
+parent-id-normalization.test.ts,file
+parser.ts,file
+pin-timezone.ts,file
+popup-chrome.test.ts,file
+postuninstall.cjs,file
+pre-commit,file
+prefix-config.test.ts,file
+prefix-config.ts,file
+prefix-migration.test.ts,file
+prefix-migration.ts,file
+priority-config.ts,file
+priority.test.ts,file
+project-config.ts,file
+project-manager-backlog.md,file
+project.ts,file
+proper-lockfile.d.ts,file
+raw.d.ts,file
+react-dom-input.ts,file
+react-dom-preload.test.ts,file
+react-dom-preload.ts,file
+read-output-mode.test.ts,file
+read-output-mode.ts,file
+readiness-surface-agreement.test.ts,file
+readiness.test.tsx,file
+readiness.ts,file
+readme-board.test.ts,file
+readme.md,file
+readme.ts,file
+reconcile.test.ts,file
+reconcile.ts,file
+references.test.ts,file
+release.yml,file
+remote-id-conflict.test.ts,file
+reorder-utils.test.ts,file
+reorder.ts,file
+resolveBinary.cjs,file
+resolveBinary.test.ts,file
+resources,dir
+root-entry.ts,file
+run-ci-tests.ts,file
+run-tui-interactive-tests.sh,file
+runtime-cwd.test.ts,file
+runtime-cwd.ts,file
+schema-generators.ts,file
+schemas.ts,file
+scripts,dir
+search-command-query.test.ts,file
+search-command-query.ts,file
+search-service.test.ts,file
+search-service.ts,file
+section-marker-safety.test.ts,file
+section-titles.ts,file
+serializer.ts,file
+server,dir
+server-assets.test.ts,file
+server-browser-open.test.ts,file
+server-cache.test.ts,file
+server-cleanup-endpoint.test.ts,file
+server-demote-endpoint.test.ts,file
+server-dependency-error-copy.test.ts,file
+server-documents-endpoint.test.ts,file
+server-drafts-endpoint.test.ts,file
+server-due-date-endpoint.test.ts,file
+server-duplicate-repair.test.ts,file
+server-hostname.test.ts,file
+server-init.test.ts,file
+server-loading-progress.test.ts,file
+server-milestone-broadcast.test.ts,file
+server-move-tasks-endpoint.test.ts,file
+server-port.test.ts,file
+server-reorder-publication.test.ts,file
+server-search-endpoint.test.ts,file
+server-search-project-filter.test.ts,file
+server-statistics-endpoint.test.ts,file
+server-task-detail-dependency-graph.test.ts,file
+server-task-project-endpoint.test.ts,file
+server-tasks-spa-fallback.test.ts,file
+server.ts,file
+shared-branch-task-loader.test.ts,file
+sharing-export-256.png,file
+skills,dir
+skills,file
+smoke-compiled-build.ts,file
+smoke-parallel-task-locking.sh,file
+source.css,file
+src,dir
+start-id.test.ts,file
+statistics.test.ts,file
+statistics.ts,file
+status-callback.test.ts,file
+status-callback.ts,file
+status-filter.test.ts,file
+status-filter.ts,file
+status-icon.test.ts,file
+status-icon.ts,file
+status.ts,file
+strip-tags.test.ts,file
+strip-tags.ts,file
+structured-sections-code-fences.test.ts,file
+structured-sections.ts,file
+styles,dir
+subtask-ordering-consistency.test.ts,file
+subtask-progress.test.ts,file
+symlink-backlog-root.test.ts,file
+tab-switching.test.ts,file
+task-autocommit-index-scope.test.ts,file
+task-builders.ts,file
+task-composer.ts,file
+task-creation.md,file
+task-detail.ts,file
+task-edit-args.ts,file
+task-edit-builder.ts,file
+task-edit-preservation.test.ts,file
+task-execution.md,file
+task-finalization.md,file
+task-id-links.ts,file
+task-id-resolution.test.ts,file
+task-id-search.ts,file
+task-id.ts,file
+task-identity-index.test.ts,file
+task-identity-index.ts,file
+task-lifecycle.ts,file
+task-links.ts,file
+task-loader.ts,file
+task-path.test.ts,file
+task-path.ts,file
+task-plain-text.ts,file
+task-project-filtering.test.ts,file
+task-project.test.ts,file
+task-record-index.ts,file
+task-response.ts,file
+task-search-label-filter.test.ts,file
+task-search-parity.test.ts,file
+task-search.ts,file
+task-sorting.test.ts,file
+task-sorting.ts,file
+task-subtasks.ts,file
+task-type-config.test.ts,file
+task-type-config.ts,file
+task-type-filtering.test.ts,file
+task-type.test.ts,file
+task-type.ts,file
+task-updated-date.test.ts,file
+task-updated-date.ts,file
+task-viewer-boundary-navigation.test.ts,file
+task-viewer-milestone-filter-model.test.ts,file
+task-viewer-with-search.ts,file
+task-watcher.test.ts,file
+task-watcher.ts,file
+task-wizard.test.ts,file
+task-wizard.ts,file
+tasks,dir
+terminal-status.test.ts,file
+terminal-status.ts,file
+test,dir
+test-cli.ts,file
+test-preload.ts,file
+test-utils.test.ts,file
+test-utils.ts,file
+tool-wrapper.ts,file
+tools,dir
+tsconfig.json,file
+tui-acceptance-criteria-progress.test.ts,file
+tui-definition-of-done.test.ts,file
+tui-documentation.test.ts,file
+tui-draft-edit.test.ts,file
+tui-edit-session.test.ts,file
+tui-emoji-width.test.ts,file
+tui-final-summary.test.ts,file
+tui-input-lifecycle.test.ts,file
+tui-interactive-editor-handoff.test.ts,file
+tui-ready-filter-pty.test.ts,file
+tui-runtime-cwd.test.ts,file
+tui-screenshot-compare-script.test.ts,file
+tui-screenshot-compare.sh,file
+tui-startup-warning.test.ts,file
+tui-task-composer.test.ts,file
+tui-task-lifecycle.test.ts,file
+tui-task-project.test.ts,file
+tui-task-type.test.ts,file
+tui-vim-boundary-navigation.test.ts,file
+tui-window-title.test.ts,file
+tui.ts,file
+types,dir
+types.ts,file
+ui,dir
+unicode-rendering.test.ts,file
+unified-view-filters.test.ts,file
+unified-view-loading.test.ts,file
+unified-view.ts,file
+update-task-description.test.ts,file
+urlHelpers.test.ts,file
+urlHelpers.ts,file
+useHealthCheck.tsx,file
+utc-date-display.test.ts,file
+utc-date-display.ts,file
+utils,dir
+vacated-task-references.test.ts,file
+validation,dir
+validators.ts,file
+version.ts,file
+video-presentation.md,file
+view-switcher.test.ts,file
+view-switcher.ts,file
+web,dir
+web-ambiguous-id.test.tsx,file
+web-api-demote.test.ts,file
+web-api-error.test.ts,file
+web-app-open-detail-refresh.test.tsx,file
+web-board-batch-move.test.tsx,file
+web-board-drag-hidden-columns.test.tsx,file
+web-board-filters.test.tsx,file
+web-board-loading-skeleton.test.tsx,file
+web-branch-indexing-indicator.test.tsx,file
+web-dependency-cleanup-notice.test.tsx,file
+web-dependency-graph-section.test.tsx,file
+web-dependency-input-links.test.tsx,file
+web-dependency-picker-local-only.test.tsx,file
+web-draft-editing.test.tsx,file
+web-duplicate-id-repair.test.tsx,file
+web-in-place-refresh.test.tsx,file
+web-initialization-cursor.test.tsx,file
+web-interface-256.png,file
+web-milestones-page-search.test.tsx,file
+web-milestones-page-unassigned-filter.test.tsx,file
+web-side-navigation-loading.test.tsx,file
+web-task-acceptance-progress.test.tsx,file
+web-task-column-sort.test.tsx,file
+web-task-detail-deeplink.test.tsx,file
+web-task-details-modal-acceptance-criteria.test.tsx,file
+web-task-details-modal-default-assignee.test.tsx,file
+web-task-details-modal-demote.test.tsx,file
+web-task-details-modal-documentation.test.tsx,file
+web-task-details-modal-final-summary.test.tsx,file
+web-task-details-modal-keyboard-shortcuts.test.tsx,file
+web-task-details-modal-modified-files.test.tsx,file
+web-task-details-modal-subtasks.test.tsx,file
+web-task-details-modal-unsaved-navigation.test.tsx,file
+web-task-list-labels-menu.test.tsx,file
+web-task-list-table-width.test.tsx,file
+web-task-project.test.tsx,file
+web-task-readiness-badge.test.tsx,file
+web-task-types.test.tsx,file
+web.jpeg,file
+workflow,dir
+workflow-guides.ts,file
+workflows,dir
+worktree-refresh.test.ts,file
+worktree-task-id-allocation.test.ts,file

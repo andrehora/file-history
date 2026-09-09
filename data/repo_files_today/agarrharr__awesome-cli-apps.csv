@@ -1,0 +1,13 @@
+name,type
+.github,dir
+AGENTS.md,file
+ISSUE_TEMPLATE,dir
+PULL_REQUEST_TEMPLATE.md,file
+auto-close-prs,file
+banner.png,file
+check-for-deprecation.sh,file
+config.yml,file
+contributing.md,file
+discussion.yml,file
+media,dir
+readme.md,file

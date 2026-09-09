@@ -1,0 +1,57 @@
+name,type
+.gitignore,file
+Computing the optimal road trip across the U.S..ipynb,file
+Example Machine Learning Notebook.ipynb,file
+Hill_Valley_with_noise.csv.gz,file
+Hill_Valley_without_noise.csv.gz,file
+KCLT.csv,file
+KCQT.csv,file
+KHOU.csv,file
+KIND.csv,file
+KJAX.csv,file
+KMDW.csv,file
+KNYC.csv,file
+KPHL.csv,file
+KPHX.csv,file
+KSAF.csv,file
+KSEA.csv,file
+OptimalRoadTripHtmlSaveAndDisplay.py,file
+README.md,file
+Rethinking the population pyramid.ipynb,file
+Revisiting the vaccine visualizations.ipynb,file
+Simulating baseball in Python.ipynb,file
+TPOT - A Python tool for automating data science.ipynb,file
+Twitter Follower Factory.ipynb,file
+Where's Waldo path optimization.ipynb,file
+environment.yml,file
+example-data-science-notebook,dir
+follower-factory,dir
+gender_degree_data.tsv,file
+images,dir
+iris-data-clean.csv,file
+iris-data.csv,file
+iris_dtc.dot,file
+iris_dtc.png,file
+iris_setosa.jpg,file
+iris_versicolor.jpg,file
+iris_virginica.jpg,file
+mnist.csv.gz,file
+my-waypoints-dist-dur.tsv,file
+optimal-road-trip,dir
+optimized-state-capitols-trip.ipynb,file
+pareto-optimized-road-trip,dir
+pct-bachelors-degrees-conferred-women-usa,dir
+petal_sepal.jpg,file
+python-baseball-simulator,dir
+rethinking-population-pyramid,dir
+revisiting-vaccine-visualizations,dir
+tpot-demo,dir
+traveling-salesman-portrait,dir
+traveling-salesman-portrait.py,file
+twitter-app-example.png,file
+us-weather-history,dir
+visualize_weather.py,file
+wheres-waldo-locations.csv,file
+wheres-waldo-path-optimization,dir
+wunderground_parser.py,file
+wunderground_scraper.py,file

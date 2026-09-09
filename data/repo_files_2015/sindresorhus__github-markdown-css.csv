@@ -1,0 +1,10 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.gitignore,file
+bower.json,file
+github-markdown.css,file
+index.html,file
+license,file
+package.json,file
+readme.md,file

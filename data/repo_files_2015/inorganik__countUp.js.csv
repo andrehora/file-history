@@ -1,0 +1,9 @@
+name,type
+CHANGELOG.md,file
+LICENSE.md,file
+README.md,file
+bower.json,file
+component.json,file
+countUp.js,file
+countUp.min.js,file
+index.html,file

@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+.gitignore,file
+LICENSE,file
+MANIFEST.in,file
+README.md,file
+api,dir
+main.py,file
+requirements.txt,file
+setup.py,file

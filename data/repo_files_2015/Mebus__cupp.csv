@@ -1,0 +1,8 @@
+name,type
+CHANGES,file
+LICENSE,file
+README,file
+README.md,file
+cupp.cfg,file
+cupp.py,file
+docs,dir

@@ -1,0 +1,13 @@
+name,type
+.github,dir
+LICENSE.md,file
+README.md,file
+color.go,file
+color_test.go,file
+color_windows.go,file
+dependabot.yml,file
+doc.go,file
+go.mod,file
+go.sum,file
+go.yml,file
+workflows,dir

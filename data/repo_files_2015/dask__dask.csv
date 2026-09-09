@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+__init__.py,file
+array.py,file
+core.py,file
+dask,dir
+dot.py,file
+obj.py,file
+test_array.py,file
+test_core.py,file
+test_obj.py,file
+test_thget.py,file
+tests,dir
+thget.py,file
+utils.py,file

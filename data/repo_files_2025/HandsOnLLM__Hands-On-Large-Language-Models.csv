@@ -1,0 +1,65 @@
+name,type
+.setup,dir
+Chapter 1 - Introduction to Language Models.ipynb,file
+Chapter 10 - Creating Text Embedding Models.ipynb,file
+Chapter 11 - Fine-Tuning BERT.ipynb,file
+Chapter 12 - Fine-tuning Generation Models.ipynb,file
+Chapter 2 - Tokens and Token Embeddings.ipynb,file
+Chapter 3 - Looking Inside LLMs.ipynb,file
+Chapter 4 - Text Classification.ipynb,file
+Chapter 5 - Text Clustering and Topic Modeling.ipynb,file
+Chapter 6 - Prompt Engineering.ipynb,file
+Chapter 7 - Advanced Text Generation Techniques and Tools.ipynb,file
+Chapter 8 - Semantic Search.ipynb,file
+Chapter 9 - Multimodal Large Language Models.ipynb,file
+LICENSE,file
+README.md,file
+bonus,dir
+bonus_bitnet.png,file
+bonus_int8.png,file
+bonus_moe.png,file
+bonus_overview.png,file
+bonus_sd.png,file
+bonus_sd1.png,file
+bonus_ssm.png,file
+bonus_ssm1.png,file
+bonus_vmoe.png,file
+book_cover.png,file
+build_tools_1.png,file
+build_tools_2.png,file
+build_tools_3.png,file
+build_tools_4.png,file
+car.png,file
+cat.png,file
+chapter01,dir
+chapter02,dir
+chapter03,dir
+chapter04,dir
+chapter05,dir
+chapter06,dir
+chapter07,dir
+chapter08,dir
+chapter09,dir
+chapter10,dir
+chapter11,dir
+chapter12,dir
+common_issues.md,file
+conda,dir
+cuda_is_available.PNG,file
+diffusion.png,file
+environment.yml,file
+error.png,file
+error1.png,file
+images,dir
+jupyter1.PNG,file
+jupyter2.PNG,file
+mamba.png,file
+miniconda_linux.png,file
+miniconda_windows.png,file
+moe.png,file
+puppy.png,file
+pytorch.png,file
+quant.png,file
+requirements.txt,file
+requirements_min.txt,file
+toc.png,file

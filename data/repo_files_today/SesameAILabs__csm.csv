@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+generator.py,file
+models.py,file
+requirements.txt,file
+run_csm.py,file
+setup.py,file
+watermarking.py,file

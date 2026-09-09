@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+bower.json,file
+index-svg.html,file
+index.html,file
+index.svg,file
+jquery.min.js,file
+qrcode.js,file
+qrcode.min.js,file

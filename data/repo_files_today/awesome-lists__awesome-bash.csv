@@ -1,0 +1,9 @@
+name,type
+.editorconfig,file
+.github,dir
+LICENSE,file
+README.md,file
+code-of-conduct.md,file
+contributing.md,file
+hello.sh,file
+pull_request_template.md,file

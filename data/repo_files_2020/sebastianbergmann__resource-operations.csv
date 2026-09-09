@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+.php_cs.dist,file
+ChangeLog.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+ResourceOperations.php,file
+ResourceOperationsTest.php,file
+build,dir
+build.xml,file
+composer.json,file
+generate.php,file
+src,dir
+tests,dir

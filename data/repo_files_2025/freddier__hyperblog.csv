@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+README.md,file
+blogpost.html,file
+css,dir
+dragon.png,file
+estilos.css,file
+historia.txt,file
+imagenes,dir

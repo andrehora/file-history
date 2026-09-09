@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+CONTRIBUTING.md,file
+LICENSE,file
+Makefile,file
+README.md,file
+cli.md,file
+golang.md,file
+java.md,file
+javascript.md,file
+manuals.md,file
+perl.md,file
+php.md,file
+python.md,file
+ruby.md,file

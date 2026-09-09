@@ -1,0 +1,16 @@
+name,type
+.github,dir
+.gitignore,file
+1-Bug_report.md,file
+2-Question.md,file
+3-Feature-Request.md,file
+ISSUE_TEMPLATE,dir
+README.md,file
+proxyman_dashboard.png,file
+proxyman_dashboard_1.8.0.png,file
+proxyman_dashboard_4.8.1.jpg,file
+proxyman_logo.png,file
+proxyman_logo_v2.png,file
+proxyman_logo_v3.jpg,file
+proxyman_on_light_theme.jpg,file
+screenshots,dir

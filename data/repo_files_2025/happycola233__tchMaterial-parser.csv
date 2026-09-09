@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+PixPin_2024-08-19_15-02-38.png,file
+README.md,file
+favicon_223x223.png,file
+favicon_48x48.ico,file
+python-app.yml,file
+res,dir
+src,dir
+tchMaterial-parser.pyw,file
+workflows,dir

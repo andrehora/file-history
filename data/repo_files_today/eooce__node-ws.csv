@@ -1,0 +1,15 @@
+name,type
+.github,dir
+Build_go_binary.yml,file
+Dockerfile,file
+LICENSE,file
+README.md,file
+build-binary.yml,file
+build-golang-docker-image.yml,file
+build-hug-image.yml,file
+build-image.yml,file
+index.html,file
+index.js,file
+package.json,file
+web-hosting.md,file
+workflows,dir

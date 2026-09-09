@@ -1,0 +1,632 @@
+name,type
+! Documentation.url,file
+! MeasureSleep.exe,file
+.atlasPsModulesPath,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.vscode,dir
+1. Software,dir
+2. Drivers,dir
+3. General Configuration,dir
+4. Interface Tweaks,dir
+5. Windows Settings,dir
+6. Advanced Configuration,dir
+7. Security,dir
+8. Troubleshooting,dir
+AI Features,dir
+ASSOC.ps1,file
+Acknowledgements,dir
+Activation.url,file
+Add Container Context Menu.cmd,file
+Add Extract.reg,file
+Add Idle Toggle in Desktop Context Menu.reg,file
+Add Run With Priority in Context Menu.reg,file
+Add Security Tray to Startup.reg,file
+Add Take Ownership to Context Menu.reg,file
+Add Terminals (no Windows Terminal).reg,file
+Add Terminals.reg,file
+AllRegistryUsers,dir
+AllRegistryUsers.psm1,file
+Allow Edge Swipe (default).reg,file
+Alt-Tab,dir
+Always Go to Advanced Boot Options.cmd,file
+App Icons on Thumbnails,dir
+Appearance,dir
+Apple devices.url,file
+Atlas Discord.url,file
+Atlas Discussions.url,file
+Atlas Documentation.url,file
+Atlas GitHub.url,file
+Atlas Open-Shell Preset.xml,file
+Atlas Utilities (Zusier).url,file
+Atlas Visual Effects (default).cmd,file
+Atlas Website.url,file
+Atlas-Defender-Remover-Arm.yaml,file
+Atlas-Defender-Remover.yaml,file
+Atlas-Misc-Arm.yaml,file
+Atlas-Misc.yaml,file
+Atlas-NoTelemetry-Arm.yaml,file
+Atlas-NoTelemetry.yaml,file
+AtlasDesktop,dir
+AtlasModules,dir
+AutoGpuAffinity.url,file
+Automatic Folder Discovery,dir
+Automatic Repair.cmd,file
+Automatic Updates,dir
+Automatically Set Static IP.cmd,file
+BACKUP.ps1,file
+Background Apps,dir
+Battery Flyout,dir
+Behavior,dir
+Blank.ico,file
+Bluetooth,dir
+Bluetooth.url,file
+Boot Configuration,dir
+Boot Logo.cmd,file
+CLEANUP.ps1,file
+CLIENTCBS.ps1,file
+CODEOWNERS,file
+CONTRIBUTING.md,file
+CPU Idle,dir
+Classic.ico,file
+Classic.reg,file
+Colors.url,file
+Compact View,dir
+ConfigVBS.ps1,file
+Configuration,dir
+Context Menu,dir
+Context Menus,dir
+Core Isolation (VBS),dir
+Core Isolation - Windows Security.url,file
+Current Configuration.cmd,file
+DISABLENOTIFS.cmd,file
+DISABLEPNP.ps1,file
+Date & Time.url,file
+Date and Time Flyout,dir
+Debloat Send To Context Menu.cmd,file
+DebloatSendToContextMenu.ps1,file
+Default Apps.url,file
+Default Graphics Settings (HAGS).url,file
+Default Power-saving.cmd,file
+Default Windows (default).reg,file
+Default Windows Visual Effects.cmd,file
+DefaultPowerSaving.ps1,file
+Defender,dir
+Delivery Optimization,dir
+Desktop Context Menu,dir
+Desktop Icons.lnk,file
+Disable All Mitigations.cmd,file
+Disable App Icons on Thumbnails.reg,file
+Disable Automatic Driver Installation.reg,file
+Disable Automatic Folder Discovery (default).reg,file
+Disable Automatic Updates (default).reg,file
+Disable Background Apps (default).reg,file
+Disable Bluetooth.cmd,file
+Disable Compact View.reg,file
+Disable Delivery Optimization (default).reg,file
+Disable Drivers from Windows Update.reg,file
+Disable FSO and Game Bar Support.cmd,file
+Disable FTH (default).reg,file
+Disable File Sharing (default).cmd,file
+Disable Gallery (default).reg,file
+Disable Give Access To Menu (default).reg,file
+Disable Hibernation (default).cmd,file
+Disable Idle.cmd,file
+Disable Lanman Workstation.cmd,file
+Disable Location (default).cmd,file
+Disable Microsoft Copilot (default).cmd,file
+Disable Mobile Device Settings (default).cmd,file
+Disable NVIDIA Display Container LS.cmd,file
+Disable Network Discovery Services.cmd,file
+Disable Network Navigation Pane (default).reg,file
+Disable Power-saving.cmd,file
+Disable Printing.cmd,file
+Disable Recall Support (default).reg,file
+Disable Recent Items (default).cmd,file
+Disable Removable Drives in Sidebar (default).reg,file
+Disable Search Indexing.cmd,file
+Disable Shortcut Text (default).reg,file
+Disable Sleep Study (default).cmd,file
+Disable Sleep.cmd,file
+Disable Snap Layouts.reg,file
+Disable Store App Archiving (default).reg,file
+Disable SuperFetch.cmd,file
+Disable System Restore.reg,file
+Disable Update Notifications.reg,file
+Disable VBS.reg,file
+Disable Verbose Messages (default).reg,file
+Disable Web Search (default).cmd,file
+Disable Widgets (default).cmd,file
+Disable Windows Spotlight (default).reg,file
+Disable timer resolution (default).cmd,file
+DisableFileSharing.ps1,file
+DisablePowerSaving.ps1,file
+Disallow Edge Swipe.reg,file
+Driver Configuration,dir
+Driver Documentation (Recommended).url,file
+Drivers from Windows Update,dir
+Dynamic Theme (Alternative).url,file
+ENABLENOTIFS.cmd,file
+Edge Swipe,dir
+Editing Kernel Parameters on Startup.cmd,file
+Enable All Mitigations.cmd,file
+Enable App Icons on Thumbnails (default).reg,file
+Enable Automatic Folder Discovery.reg,file
+Enable Automatic Updates.reg,file
+Enable Background Apps.reg,file
+Enable Bluetooth (default).cmd,file
+Enable Compact View (default).reg,file
+Enable Delivery Optimization.reg,file
+Enable Drivers from Windows Update.reg,file
+Enable FSO and Game Bar Support (default).cmd,file
+Enable FTH.reg,file
+Enable File Sharing.cmd,file
+Enable Gallery.reg,file
+Enable Give Access To Menu.reg,file
+Enable Hibernation.cmd,file
+Enable Idle (default).cmd,file
+Enable Lanman Workstation (default).cmd,file
+Enable Location.cmd,file
+Enable Microsoft Copilot.cmd,file
+Enable Mobile Device Settings.cmd,file
+Enable NVIDIA Display Container LS (default).cmd,file
+Enable Network Discovery Services (default).cmd,file
+Enable Printing (default).cmd,file
+Enable Recall Support.reg,file
+Enable Removable Drives in Sidebar.reg,file
+Enable Search Indexing.cmd,file
+Enable Sleep (default).cmd,file
+Enable Sleep Study.cmd,file
+Enable Snap Layouts (default).reg,file
+Enable Store App Archiving.reg,file
+Enable SuperFetch (default).cmd,file
+Enable System Restore (default).reg,file
+Enable Update Notifications (default).reg,file
+Enable VBS.reg,file
+Enable Verbose Messages.reg,file
+Enable Web Search.cmd,file
+Enable Widgets.cmd,file
+Enable Windows Spotlight.reg,file
+Enable timer resolution.cmd,file
+EnableFileSharing.ps1,file
+Executables,dir
+Exit Safe Mode.cmd,file
+Explanations from Microsoft.url,file
+ExplorerPatcher.url,file
+Extract,dir
+FILEASSOC.cmd,file
+FSO and Game Bar,dir
+FUNDING.yml,file
+Fault Tolerant Heap,dir
+File Explorer Customization,dir
+File Sharing,dir
+Fix Errors 2502 and 2503.cmd,file
+Folders in This PC,dir
+Force Timer Resolution.xml,file
+Gallery,dir
+General Configuration Documentation.url,file
+Give Access To Menu,dir
+GoInterruptPolicy.url,file
+Hibernation,dir
+Hide App and Browser Control,dir
+Hide App and Browser Control (default).reg,file
+Hide Lock Screen.reg,file
+Highest Mode.cmd,file
+ISSUE_TEMPLATE,dir
+Images,dir
+Install Open-Shell.cmd,file
+Install Process Explorer.cmd,file
+Install Software.cmd,file
+Install or Remove Edge.cmd,file
+InstallSoftware.ps1,file
+Interface Tweaks Documentation.url,file
+Interrupt Affinity Tool.url,file
+LIBREWOLF.ps1,file
+LICENSE,file
+Language.url,file
+Lanman Workstation (SMB),dir
+Layout.xml,file
+Legacy Alt-Tab.reg,file
+Location,dir
+Lock Screen,dir
+MSI Utility V3.url,file
+Microsoft Copilot,dir
+Minimal Search Indexing (default).cmd,file
+Mitigations,dir
+Mobile Devices (Phone Link),dir
+Modern Alt-Tab (default).reg,file
+Modern Battery Flyout (default).reg,file
+Modern Date and Time Flyout (default).reg,file
+Modern Volume Flyout (default).reg,file
+Modules,dir
+Must Read First (Documentation).url,file
+Must Read First.url,file
+NGEN.ps1,file
+NVIDIA Display Container,dir
+NVIDIA.ico,file
+Network,dir
+Network Discovery,dir
+Network Navigation Pane,dir
+New Boot Menu.cmd,file
+New Context Menu.reg,file
+None (security risk).reg,file
+ONED.cmd,file
+Old Battery Flyout.reg,file
+Old Context Menu (default).reg,file
+Old Date and Time Flyout.reg,file
+Old Flyouts,dir
+Old Volume Flyout.reg,file
+Other,dir
+PFP.ps1,file
+Packages,dir
+Power-saving,dir
+Printing,dir
+Privacy.url,file
+Process Explorer,dir
+Quick Access,dir
+README.md,file
+Read the Install Guide First!.url,file
+Recall,dir
+Region.lnk,file
+Removable Drives in Sidebar,dir
+Remove Container Context Menu (default).cmd,file
+Remove Extract (default).reg,file
+Remove Idle Toggle in Desktop Context Menu (default).reg,file
+Remove Quick Access.reg,file
+Remove Run With Priority In Context Menu (default).reg,file
+Remove Security Tray from Startup (default).reg,file
+Remove Take Ownership to Context Menu (default).reg,file
+Remove Terminals Context Menu (default).reg,file
+Remove all folders in This PC (default).reg,file
+RemoveEdge.ps1,file
+Repair Windows Components.cmd,file
+Reset FTH entries.lnk,file
+Reset Network to Atlas Default.cmd,file
+Reset Network to Windows Default.cmd,file
+Reset this PC (read first).url,file
+Restart Explorer.cmd,file
+Restore Shortcut Text.reg,file
+Restore all folders in This PC.reg,file
+Revert Static IP.cmd,file
+Run With Priority,dir
+RunAsTI.cmd,file
+SECURITY.md,file
+SHORTCUTS.ps1,file
+SOFTWARE.ps1,file
+STARTMENU.ps1,file
+Safe Mode,dir
+Safe Mode with Command Prompt.cmd,file
+Safe Mode with Networking.cmd,file
+Safe Mode.cmd,file
+ScriptWrappers,dir
+Scripts,dir
+Search Indexing,dir
+Security Documentation.url,file
+Security Health Tray,dir
+Send To,dir
+Services,dir
+Set Windows Default Mitigations.cmd,file
+Set services to defaults.cmd,file
+SetTimerResolution.exe,file
+Shortcut Icon,dir
+Shortcut Text,dir
+Shortcuts,dir
+Shortcuts.psm1,file
+Show App and Browser Control.reg,file
+Show Lock Screen (default).reg,file
+Show Quick Access (default).reg,file
+Sleep,dir
+Sleep Study,dir
+Snap Layouts,dir
+Software Documentation.url,file
+Spinning Animation.cmd,file
+Start Menu,dir
+StartAllBack.url,file
+Static IP,dir
+Store App Archiving,dir
+Superfetch,dir
+System Restore,dir
+TASKBARPINS.ps1,file
+Take Ownership,dir
+Taskbar.url,file
+Telemetry Components.cmd,file
+TelemetryComponents.ps1,file
+Terminals,dir
+Themes,dir
+Themes.psm1,file
+Timer Resolution,dir
+Timer Resolution (amitxv).url,file
+Toggle Defender.cmd,file
+ToggleDefender.ps1,file
+Tools,dir
+Uninstall Process Explorer.cmd,file
+Unlock Recent Items,dir
+Unlock Recent Items.cmd,file
+Update Notifications,dir
+User Network Navigation Pane choice.reg,file
+UserPaths,dir
+UserPaths.psm1,file
+Utils,dir
+Utils.psm1,file
+Verbose Status Messages,dir
+ViVeTool-v0.3.3-ARM64CLR.zip,file
+ViVeTool-v0.3.3.zip,file
+View Current Values.cmd,file
+Visual Effect Settings.lnk,file
+Visual Effects (Animations),dir
+Volume Flyout,dir
+Wallpapers,dir
+Web Search (includes Search Highlights),dir
+Widgets (News and Interests),dir
+Windows 11,dir
+Windows Settings Documentation.url,file
+Windows Spotlight,dir
+Z-Atlas-NoDefender-Package31bf3856ad364e35amd645.0.0.0.cab,file
+Z-Atlas-NoDefender-Package31bf3856ad364e35arm645.0.0.0.cab,file
+Z-Atlas-NoTelemetry-Package31bf3856ad364e35amd645.0.0.0.cab,file
+Z-Atlas-NoTelemetry-Package31bf3856ad364e35arm645.0.0.0.cab,file
+add-context-menus,dir
+add-music-videos-to-home.yml,file
+add-newUsers-script.yml,file
+add-sharing-settings-shortcut.yml,file
+advertising,dir
+alt-tab-open-windows.yml,file
+always-more-details-transfer.yml,file
+apbx.yaml,file
+appearance,dir
+apps,dir
+appx.yml,file
+atlas,dir
+atlas-folder.ico,file
+atlas-network-settings.yml,file
+atlas-solid.png,file
+atlas-solid.theme,file
+atlas-theme.yml,file
+atlas-v0.3.x-dark.png,file
+atlas-v0.3.x-dark.theme,file
+atlas-v0.3.x-light.png,file
+atlas-v0.3.x-light.theme,file
+atlas-v0.4.x-dark.png,file
+atlas-v0.4.x-dark.theme,file
+atlas-v0.4.x-light.png,file
+atlas-v0.4.x-light.theme,file
+bcdedit-tweaks.yml,file
+best-wallpaper-quality.yml,file
+block-anonymous-enum-sam.yml,file
+blue-tooltips.yml,file
+brave.png,file
+bug_report.yml,file
+build-playbook.cmd,file
+build-playbook.sh,file
+cast-to-device.yml,file
+chrome.png,file
+classic-search.yml,file
+cloud,dir
+cmd-win-x.yml,file
+components.yml,file
+config-app-permissions.yml,file
+config-automatic-maintenance.yml,file
+config-autorun.yml,file
+config-content-delivery.yml,file
+config-mmcss.yml,file
+config-oem-information.yml,file
+config-pins.yml,file
+config-powershell.yml,file
+config-start-menu.yml,file
+config-storage-sense.yml,file
+config-time.yml,file
+config-windows-ink-workspace.yml,file
+config-windows-media-player.yml,file
+config.yml,file
+crash-control-qol.yml,file
+create-shortcuts.yml,file
+custom.yml,file
+debloat,dir
+debloat-send-to.yml,file
+decrease-shutdown-time.yml,file
+delete-windows-specific-files.yml,file
+dependencies,dir
+disable-activation-telemetry.yml,file
+disable-activity-feed.yml,file
+disable-advertising-info.yml,file
+disable-aero-shake.yml,file
+disable-always-read-section.yml,file
+disable-annoying-features-shortcuts.yml,file
+disable-app-launch-tracking.yml,file
+disable-auto-app-archival.yml,file
+disable-auto-folder-discovery.yml,file
+disable-auto-reboot.yml,file
+disable-auto-updates.yml,file
+disable-background-apps.yml,file
+disable-ceip.yml,file
+disable-check-boxes.yml,file
+disable-cloud-optimized-content.yml,file
+disable-copilot.yml,file
+disable-delivery-optimization.yml,file
+disable-desktop-peek.yml,file
+disable-device-monitoring.yml,file
+disable-diagnostic-tracing.yml,file
+disable-dotnet-cli-telemetry.yml,file
+disable-dynamic-lighting.yml,file
+disable-experimentation.yml,file
+disable-feature-updates.yml,file
+disable-folders-this-pc.yml,file
+disable-fth.yml,file
+disable-gallery.yml,file
+disable-game-bar.yml,file
+disable-input-telemetry.yml,file
+disable-insider.yml,file
+disable-invalid-shortcuts-search.yml,file
+disable-llmnr.yml,file
+disable-lockscreen-camera.yml,file
+disable-low-disk-warning.yml,file
+disable-making-touch-easier.yml,file
+disable-menu-delay.yml,file
+disable-mouse-accel.yml,file
+disable-msrt-telemetry.yml,file
+disable-nagging.yml,file
+disable-nearby-sharing.yml,file
+disable-network-location-wizard.yml,file
+disable-network-navigation-pane.yml,file
+disable-news-and-interests.yml,file
+disable-nvidia-telemetry.yml,file
+disable-office-telemetry.yml,file
+disable-online-speech-recognition.yml,file
+disable-paging.yml,file
+disable-pca.yml,file
+disable-perf-track.yml,file
+disable-privacy-experience.yml,file
+disable-recall-snap.yml,file
+disable-remote-assistance.yml,file
+disable-reserved-storage.yml,file
+disable-rsop-logging.yml,file
+disable-scheduled-tasks.yml,file
+disable-screen-capture-hotkey.yml,file
+disable-service-host-split.yml,file
+disable-setting-sync.yml,file
+disable-settings-tips.yml,file
+disable-sleep-study.yml,file
+disable-smb-bandwidth-throttling.yml,file
+disable-speech-auto-updates.yml,file
+disable-spell-checking.yml,file
+disable-startup-delay.yml,file
+disable-store-auto-updates.yml,file
+disable-suggest-ways-to-finish-setup.yml,file
+disable-sync-provider-notifs.yml,file
+disable-tablet-mode.yml,file
+disable-tailored-experiences.yml,file
+disable-tips.yml,file
+disable-touch-keyboard-features.yml,file
+disable-touch-visual-feedback.yml,file
+disable-uac-secure-desktop.yml,file
+disable-usb-issues-notifications.yml,file
+disable-user-tracking.yml,file
+disable-warning-sounds.yml,file
+disable-web-lang-list-access.yml,file
+disable-win-error-reporting.yml,file
+disable-win11-settings-banner.yml,file
+disable-windows-chat.yml,file
+disable-windows-feedback.yml,file
+disable-windows-spotlight.yml,file
+disable-wpbt.yml,file
+disallow-data-collection.yml,file
+disallow-message-cloud-sync.yml,file
+disallow-ms-accounts.yml,file
+disallow-theme-changes.yml,file
+disallow-user-activity-upload.yml,file
+do-not-reduce-sounds.yml,file
+dont-show-office-files.yml,file
+ease-of-access,dir
+edgeCheck.cmd,file
+enable-long-paths.yml,file
+enable-notifications.yml,file
+enable-verbose-messages.yml,file
+end-task.yml,file
+explorer,dir
+extend-cache.yml,file
+extensions.json,file
+extract.yml,file
+feature_request.yml,file
+firefox.png,file
+force-end-shutdown-apps.yml,file
+full-context-on-more-than-15-items.yml,file
+hide-disabled-disconnected-sounds.yml,file
+hide-frequently-used-items.yml,file
+hide-meet-now.yml,file
+hide-task-view.yml,file
+hide-unused-security-pages.yml,file
+import-power-plan.yml,file
+include-in-library.yml,file
+indexConf.cmd,file
+initPowerShell.ps1,file
+labeler.yaml,file
+labeler.yml,file
+launch.json,file
+librewolf.png,file
+local-build.ps1,file
+lockscreen.png,file
+make-measuresleep-admin.yml,file
+merge-as-trustedinstaller.yml,file
+minimize-mouse-hover-time.yml,file
+misc,dir
+multichoice.exe,file
+networking,dir
+new-bat.yml,file
+new-bitmap.yml,file
+new-ps1.yml,file
+new-reg.yml,file
+new-rtf.yml,file
+newUsers.ps1,file
+no-internet-open-with.yml,file
+no-recommendations-start-menu.yml,file
+online-sxs GitHub (he3als).url,file
+open-to-this-pc.yml,file
+optimize-ntfs.yml,file
+packageInstall.ps1,file
+paint-3D.yml,file
+performance,dir
+playbook,dir
+playbook.conf,file
+playbook.png,file
+printing.yml,file
+privacy,dir
+pull_request_template.md,file
+qol,dir
+rebuild-perf-counters.yml,file
+release-zip,dir
+removable-drives-only-this-pc.yml,file
+remove-context-menus,dir
+remove-previous-versions.yml,file
+remove-shortcut-text.yml,file
+respect-power-modes-search.yml,file
+restore-old-context-menu.yml,file
+restrict-anonymous-access.yml,file
+restrict-anonymous-enumeration.yml,file
+script-backup2.yml,file
+script-clientcbs.yml,file
+script-core-isolation.yml,file
+script-devices.yml,file
+script-file-associations.yml,file
+script-mitigations.yml,file
+script-ngen.yml,file
+script-pfp.yml,file
+script-power.yml,file
+scripts,dir
+search-settings.yml,file
+security,dir
+services.yml,file
+set-hidden-settings-pages.yml,file
+set-to-left.yml,file
+set-unpinned-notification-items.yml,file
+setSvc GitHub (he3als).url,file
+setSvc.cmd,file
+settings.json,file
+settingsPages.cmd,file
+share.yml,file
+shares,dir
+shell,dir
+show-all-tasks-control-panel.yml,file
+show-files.yml,file
+show-more-pins.yml,file
+src,dir
+start.yml,file
+startup-shutdown,dir
+sxsc,dir
+sxsc GitHub (echnobas).url,file
+sxsc GitHub page (echnobas).url,file
+sxsc-disabled,dir
+system,dir
+taskbar,dir
+telemetry,dir
+toggleDev.cmd,file
+troubleshooting-compat.yml,file
+tweaks,dir
+tweaks.yml,file
+use-compact-mode.yml,file
+user.png,file
+visual-effects.yml,file
+win32-priority-seperation.yml,file
+windows-update,dir
+wingetCheck.cmd,file
+workflows,dir

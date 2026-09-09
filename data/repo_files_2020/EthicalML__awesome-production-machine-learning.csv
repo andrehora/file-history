@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+awesome.svg,file
+guidelines.jpg,file
+images,dir
+mleng.png,file
+mlops1.png,file
+video.png,file

@@ -1,0 +1,108 @@
+name,type
+.gitignore,file
+README.md,file
+bonus - fast convex hull.ipynb,file
+day 00 - logo.ipynb,file
+day 01 - hanoi tower.ipynb,file
+day 02 - matrix chain multiplication.ipynb,file
+day 03 - next permutation.ipynb,file
+day 04 - counting 1-bits.ipynb,file
+day 05 - eratosthenes sieve.ipynb,file
+day 06 - postfix notation.ipynb,file
+day 07 - binary addition FSA.ipynb,file
+day 08 - binary search.ipynb,file
+day 09 - monte carlo - pi.ipynb,file
+day 10 - karatsuba multiplication.ipynb,file
+day 11 - McCarthy 91.ipynb,file
+day 12 - roots of polynomial.ipynb,file
+day 13 - extended euclidean algorithm.ipynb,file
+day 14 - huffman codes.ipynb,file
+day 15 - breaking OTP.ipynb,file
+day 16 - no-condition swap.ipynb,file
+day 17 - perceptron.ipynb,file
+day 18 - monopoly.ipynb,file
+day 19 - counting inversions.ipynb,file
+day 20 - linearithmic multiplication.ipynb,file
+day 21 - k-means.ipynb,file
+day 22 - determinant.ipynb,file
+day 23 - sudoku.ipynb,file
+day 24 - closest pair.ipynb,file
+day 25 - conjugate gradients.ipynb,file
+day 26 - karger's mincut.ipynb,file
+day 27 - spiral matrix.ipynb,file
+day 28 - convex hull.ipynb,file
+day 29 - string searching.ipynb,file
+day 30 - strassen multiplication.ipynb,file
+day 31 - timeit.ipynb,file
+day 32 - pagerank.ipynb,file
+day 33 - reservoir sampling.ipynb,file
+day 34 - aho-corasick.ipynb,file
+day 35 - median.ipynb,file
+day 36 - bulls and cows.ipynb,file
+day 37 - longest common subsequence.ipynb,file
+day 38 - burrows-wheeler.ipynb,file
+day 39 - 4sum.ipynb,file
+day 40 - counting ones.ipynb,file
+day 41 - union-find.ipynb,file
+day 42 - hamming codes.ipynb,file
+day 43 - shuffle.ipynb,file
+day 44 - gradient approximation.ipynb,file
+day 45 - binary search tree.ipynb,file
+day 47 - factoradic.ipynb,file
+day 48 - dijkstra.ipynb,file
+day 49 - ford-fulkerson.ipynb,file
+day 50 - game of life.ipynb,file
+day 51 - rabin-miller.ipynb,file
+day 52 - RSA.ipynb,file
+day 53 - RSA encryption scheme.ipynb,file
+day 54 - longest unique sequence.ipynb,file
+day 55 - quincunx.ipynb,file
+day 56 - lzw.ipynb,file
+day 57 - quicksort.ipynb,file
+day 58 - integer exponentation.ipynb,file
+day 59 - colored tiling.ipynb,file
+day 60 - bloom filter.ipynb,file
+day 61 - hanoi tower II.ipynb,file
+day 62 - linked-list cycle.ipynb,file
+day 63 - zig-zag.ipynb,file
+day 64 - k-clique.ipynb,file
+day 65 - floyd-warshall.ipynb,file
+day 66 - gram-schmidt.ipynb,file
+day 67 - linked-list mergesort.ipynb,file
+day 68 - gale-shapley.ipynb,file
+day 69 - rmsprop.ipynb,file
+day 70 - deadlock.ipynb,file
+day 71 - hashtable - chaining.ipynb,file
+day 72 - hashtable - open addressing.ipynb,file
+day 73 - bresenhams line.ipynb,file
+day 74 - google interview question.ipynb,file
+day 75 - merkles puzzles.ipynb,file
+day 76 - 2-3 tree.ipynb,file
+day 77 - unification.ipynb,file
+day 78 - horn-satifiability.ipynb,file
+day 79 - logistic regression.ipynb,file
+day 80 - hopfield net.ipynb,file
+day 81 - topological sort.ipynb,file
+day 82 - flood fill.ipynb,file
+day 83 - breaking AES.ipynb,file
+day 84 - maze generation.ipynb,file
+day 85 - coin success runs.ipynb,file
+day 86 - binary heap.ipynb,file
+day 87 - gray code.ipynb,file
+day 88 - perlin noise.ipynb,file
+day 89 - bipartiteness.ipynb,file
+day 90 - simple nim - AI.ipynb,file
+day 91 - variations.ipynb,file
+day 92 - PCA.ipynb,file
+day 93 - first and follow.ipynb,file
+day 94 - earley parser.ipynb,file
+day 95 - strongly connected components.ipynb,file
+day 96 - eagle.jpg,file
+day 96 - floyd-steinberg.ipynb,file
+day 96 - valinka.jpg,file
+day 96 - winter.jpg,file
+day 97 - locally weighted regression.ipynb,file
+day 98 - romberg integration.ipynb,file
+day 99 - simplex.ipynb,file
+day I00 - segmented eratosthenes sieve.ipynb,file
+resource,dir

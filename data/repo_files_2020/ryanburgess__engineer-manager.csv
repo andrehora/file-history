@@ -1,0 +1,10 @@
+name,type
+.gitignore,file
+README.md,file
+gulpfile.js,file
+index.js,file
+lib,dir
+link.js,file
+list.json,file
+package.json,file
+update.js,file

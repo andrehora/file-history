@@ -1,0 +1,9 @@
+name,type
+.gitattributes,file
+.github,dir
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE.md,file
+LICENSE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+broken-link-collectorr.py,file

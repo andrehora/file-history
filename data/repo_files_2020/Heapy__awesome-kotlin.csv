@@ -1,0 +1,433 @@
+name,type
+.editorconfig,file
+.gitignore,file
+.links,dir
+.travis.yml,file
+10 Features I Wish Java Would Steal From the Kotlin Language.kts,file
+10 Kotlin Tricks in 10(ish) Minutes by Jake Wharton.kts,file
+10 Kotlin Tutorials for Beginners Dive Into Kotlin Programming.kts,file
+2013,dir
+2014,dir
+2015,dir
+2016,dir
+2017,dir
+2018,dir
+400 percent faster layouts with Anko.kts,file
+A DSL Workbench with Gradle and Kotlin.kts,file
+"A Geospatial Messenger with Kotlin, Spring Boot and PostgreSQL.kts",file
+"A Very Peculiar, but Possibly Cunning Kotlin Language Feature.kts",file
+A Whirlwind Tour of the Kotlin Type Hierarchy.kts,file
+A clean status bar with Android System UI and QuickDemo.kts,file
+A new hope for the JVM Kotlin.kts,file
+Ad-hoc polymorphism in Kotlin.kts,file
+Algebraic Data Types In Kotlin.kts,file
+An Introduction to Kotlin.kts,file
+An adventure with Kotlin - Part I.kts,file
+"Andrey Breslav Kotlin Coroutines, JVMLS 2016.kts",file
+Android + Kotlin = love.kts,file
+Android And Kotlin.kts,file
+Android development with Kotlin.kts,file
+Android.kts,file
+Android: Improving sign-in experience with Google Sign-In and SmartLock.kts,file
+Announcing KotlinConf.kts,file
+Announcing the Support Program for Kotlin User Groups and Events.kts,file
+App State as a tree.kts,file
+Application.kt,file
+ApplicationConfiguration.kt,file
+Archive.kts,file
+Articles.kt,file
+Bar.tsx,file
+Better Android Development with Kotlin and Gradle.kts,file
+Builder.kt,file
+Building DSL Instead of an IDE Plugin.kts,file
+Building a Kotlin project 1-2.kts,file
+Building a Kotlin project 2-2.kts,file
+Building a compiler for your own language validation.kts,file
+Building microservices with Kotlin and Spring Boot.kts,file
+Bytecode behind coroutines in Kotlin.kts,file
+CONTRIBUTING.md,file
+Cache.kt,file
+Calling on EAPers.kts,file
+Christina Lee Kotlin in Production.kts,file
+Classes in Kotlin: More power with less effort.kts,file
+Code Swarm for kotlin.kts,file
+Code improvements with Kotlin.kts,file
+Coding Functional Android Apps in Kotlin: Getting Started.kts,file
+Communities.kt,file
+Composing functions in Kotlin with extensions and operators.kts,file
+Concurrency Primitives in Kotlin.kts,file
+CopyTask.kt,file
+Corda - Kotlin.kts,file
+Costruiamo un treno in Kotlin.kts,file
+Crafting Log4j Configuration DSL.kts,file
+Creating an AndroidWear watchface using Kotlin.kts,file
+Custom Views in Android with Kotlin.kts,file
+DSL builder in Kotlin.kts,file
+Data Binding in Anko.kts,file
+Data Driven Testing with Spek.kts,file
+Decision Trees with Kotlin.kts,file
+DefaultStarsGenerator.kt,file
+DefaultStarsGeneratorTest.kt,file
+Dep.kt,file
+Developing Spring Boot applications with Kotlin.kts,file
+Developing a Geospatial Webservice with Kotlin and Spring Boot.kts,file
+Developing on Android sucks a lot less with Kotlin.kts,file
+Draft,file
+Early Impressions of Kotlin.kts,file
+Easy DSL design with Kotlin.kts,file
+Exercises in Kotlin Part 1 - Getting Started.kts,file
+Exercises in Kotlin Part 2 - High level syntax and Variables.kts,file
+Exercises in Kotlin Part 3 - Functions.kts,file
+Exercises in Kotlin Part 4 - Control flows and return.kts,file
+Exercises in Kotlin Part 5 - Classes.kts,file
+Experimental Kotlin and mutation testing.kts,file
+Experimental status of coroutines in 1.1 and related compatibility concerns.kts,file
+Experimenting with mutation testing and Kotlin.kts,file
+Exploring Delegation in Kotlin.kts,file
+Exploring Kotlin.kts,file
+Exploring an Either Monad in Kotlin.kts,file
+Exploring the Kotlin Standard Library - Part 1.kts,file
+Exploring the Kotlin Standard Library - Part 2.kts,file
+Exploring the Kotlin Standard Library - Part 3.kts,file
+Exploring the Kotlin standard library.kts,file
+Extension Functions Can Be Utility Functions.kts,file
+Extension functions for more consistent APIs.kts,file
+FRP + Kotlin.kts,file
+Feedback on the Jospehus problem.kts,file
+Few thoughts about Kotlin and why I like it so much.kts,file
+"First glimpse of Kotlin 1.1 Coroutines, Type aliases and more.kts",file
+"FoldingTabBar Comes to Android. Thank You, Google!.kts",file
+From Groovy to Kotlin.kts,file
+Fun with Kotlin.kts,file
+Functional Programming in Kotlin with funKTionale (Video).kts,file
+Functional Programming in Kotlin with funKTionale.kts,file
+Functional Programming with Kotlin.kts,file
+Functions as Data.kts,file
+Future of Kotlin - How agile can language development be video.kts,file
+Future of Kotlin - How agile can language development be.kts,file
+GeeCON Prague 2014 Andrey Cheptsov - A Reactive and Type-safe Kotlin DSL for NoSQL and SQL.kts,file
+"Generating Kotlin Code for Better Refactorings, Tests, and IDE Support.kts",file
+Getting Started with Kotlin and Anko on Android.kts,file
+"Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android.kts",file
+Getting started with Kotlin in Android development.kts,file
+GithubTrending.kt,file
+Gradle Elevates the Build to First-Class Programming With Kotlin Language.kts,file
+Gradle Meets Kotlin.kts,file
+Gradle Script Kotlin 0.8.0 Release Notes.kts,file
+Gradle Script Kotlin 0.9.0 Release Notes.kts,file
+How I built my first Kotlin-VertX-Hibernate stack.kts,file
+How to Hot Deploy Java-Kotlin classes in Dev.kts,file
+How to get IDEA to detect kotlin generated sources using Gradle.kts,file
+HttpClient.kt,file
+I wrote my website in Kotlin.kts,file
+ISSUE_TEMPLATE.md,file
+Implementing Android App Shortcuts.kts,file
+Improved Pattern Matching in Kotlin.kts,file
+Introducing Kotlin support in Spring Framework 5.0.kts,file
+Issues Faced With Kotlin During Android Development.kts,file
+JDK7-8 features in Kotlin 1.0.kts,file
+JMock and Kotlin.kts,file
+JUnit 5 with Spring Boot (plus Kotlin).kts,file
+JVM Newcomer Kotlin 1.0 is GA.kts,file
+JVMLS 2015 - Flexible Types in Kotlin.kts,file
+Java vs. Kotlin: Should You Be Using Kotlin for Android Development?.kts,file
+JavaScript.kts,file
+Kanvas generating a simple IDE from your ANTLR grammar.kts,file
+Keddit - Part 7 Infinite Scroll Higher-Order functions and Lambdas.kts,file
+"KillerTask, the solution to AsyncTask implementation.kts",file
+Konsent.kts,file
+Kotlin & Android A Brass Tacks Experiment Wrap-Up.kts,file
+"Kotlin & Android A Brass Tacks Experiment, Part 1.kts",file
+"Kotlin & Android A Brass Tacks Experiment, Part 2.kts",file
+"Kotlin & Android A Brass Tacks Experiment, Part 3.kts",file
+"Kotlin & Android A Brass Tacks Experiment, Part 4.kts",file
+"Kotlin & Android A Brass Tacks Experiment, Part 5.kts",file
+"Kotlin & Android A Brass Tacks Experiment, Part 6.kts",file
+Kotlin + Android First Impressions.kts,file
+Kotlin + Android.kts,file
+Kotlin + RxJava = Functional Powerhouse.kts,file
+Kotlin - 2 Years On.kts,file
+Kotlin - Love at first line.kts,file
+Kotlin - Ready for Production.kts,file
+Kotlin 1.0 Release Candidate is Out!.kts,file
+Kotlin 1.0 Released Pragmatic Language for JVM and Android.kts,file
+"Kotlin 1.0 The good, the bad and the evident.kts",file
+Kotlin 1.0 is finally released!.kts,file
+Kotlin 1.0.1 is Here.kts,file
+Kotlin 1.0.2 is Here.kts,file
+Kotlin 1.0.3 EAP.kts,file
+Kotlin 1.0.3 Is Here!.kts,file
+Kotlin 1.0.4 is here.kts,file
+Kotlin 1.0.5 is here.kts,file
+Kotlin 1.0.6 is here!.kts,file
+Kotlin 1.0.7 is out.kts,file
+Kotlin 1.1 Beta 2 is here.kts,file
+Kotlin 1.1 Beta Is Here!.kts,file
+Kotlin 1.1 Event Report.kts,file
+Kotlin 1.1 Event in Your City.kts,file
+Kotlin 1.1 Event.kts,file
+Kotlin 1.1 Release Candidate is Here.kts,file
+"Kotlin 1.1 Released with JavaScript Support, Coroutines and more.kts",file
+Kotlin 1.1 is also for Android Developers.kts,file
+Kotlin 1.1-M02 is here!.kts,file
+Kotlin 1.1-M03 is here!.kts,file
+Kotlin 1.1-M04 is here!.kts,file
+Kotlin 1.1.1 is out.kts,file
+Kotlin 1.1.2 is out.kts,file
+Kotlin Coding.kts,file
+Kotlin Configuration Scripts - An Introduction.kts,file
+Kotlin Digest 2016.Q1.kts,file
+Kotlin EE Boost Your Productivity.kts,file
+Kotlin Easily storing a list in SharedPreferences with Custom Accessors.kts,file
+Kotlin Eclipse Plugin 0.7 Is Here!.kts,file
+Kotlin Educational Plugin.kts,file
+Kotlin How to Make Your Java Code Base Cleaner and More Readable.kts,file
+Kotlin How to Make a Java Developer's Life Easier.kts,file
+Kotlin Lang.kts,file
+Kotlin Meets Gradle.kts,file
+Kotlin Month Post 1 Assorted Features.kts,file
+Kotlin Month Post 2 Inheritance and Defaults.kts,file
+Kotlin Month Post 3 Safety.kts,file
+Kotlin Month Post 4 Properties.kts,file
+Kotlin Native 0.2 Release.kts,file
+Kotlin Native Tech Preview - Kotlin without a VM.kts,file
+Kotlin Native.kts,file
+Kotlin NetBeans plugin beta is out!.kts,file
+Kotlin New Hope in a Java 6 Wasteland.kts,file
+Kotlin Night London - Nov 2016.kts,file
+Kotlin Night in San Francisco Recordings.kts,file
+Kotlin NoSQL for MongoDB in Action.kts,file
+Kotlin Post-1.0 Roadmap.kts,file
+Kotlin Practical Experience .kts,file
+Kotlin Retrofit + RxAndroid + Realm.kts,file
+Kotlin Ternary Operator.kts,file
+"Kotlin The Good, The Bad, and The Ugly.kts",file
+Kotlin VS Java: Basic Syntax Differences.kts,file
+Kotlin XML Binding.kts,file
+Kotlin a new JVM language you should try.kts,file
+Kotlin and Ceylon.kts,file
+Kotlin census call to action.kts,file
+Kotlin for Data Science.kts,file
+Kotlin for Java Developers 10 Features You Will Love About Kotlin.kts,file
+Kotlin for Java developers.kts,file
+Kotlin for Scala Developers.kts,file
+Kotlin in Practice with Spring Boot and Vaadin.kts,file
+"Kotlin in Production - What works, Whats broken.kts",file
+Kotlin in Real Projects.kts,file
+"Kotlin is A Low-Ceremony, High-Integration Language.kts",file
+Kotlin is cheating on me.kts,file
+Kotlin love FP.kts,file
+Kotlin null safety and its performance considerations -- part 1.kts,file
+Kotlin recipes for Android (I) OnGlobalLayoutListener.kts,file
+"Kotlin val does not mean immutable, it just means readonly, yeah.kts",file
+Kotlin vs Java Compilation speed.kts,file
+Kotlin vs Java puzzlers - Svetlana Isakova.kts,file
+"Kotlin, dragging java into the modern world.kts",file
+"Kotlin, the somewhat obscure modern Android-friendly programming language.kts",file
+Kotlin-Native v0.2 is out.kts,file
+KotlinLifeguard #1.kts,file
+KotlinVersion.tsx,file
+LICENSE,file
+LanguageCodes.kt,file
+Lessons from converting an app to 100% Kotlin.kts,file
+Leveraging TornadoFX to the fullest.kts,file
+Libraries.kts,file
+Link Kotlin DSL Anko.kts,file
+Link.kt,file
+LinkChecker.kt,file
+LinkCheckerConfig.kt,file
+Links.kts,file
+Living (Android) without Kotlin.kts,file
+Logging in Kotlin & Android AnkoLogger vs kotlin-logging.kts,file
+Making Android Development Easier.kts,file
+Meet the Kotlin Team at Gradle Summit.kts,file
+Mimicking Kotlin Builders in Java and Python.kts,file
+Mocking Kotlin with Mockito.kts,file
+Model.kt,file
+More Kotlin Extension Fun.kts,file
+More Kotlin Features to Love.kts,file
+More readable tests with Kotlin.kts,file
+My Kotlin Adventure.kts,file
+Native.kts,file
+Natural testing with Kotlin.kts,file
+Neural Network in Kotlin.kts,file
+Neural Networks in Kotlin (part 2).kts,file
+Never say final mocking Kotlin classes in unit tests.kts,file
+News from KotlinTest.kts,file
+Non-trivial constructors in Kotlin.kts,file
+Non-volatile vs volatile captured refs by default.kts,file
+Our Experiment Building a Multiselection Solution for Android in Kotlin.kts,file
+Our first book about Kotlin is out.kts,file
+PagesGenerator.kt,file
+PaperParcel with Kotlin.kts,file
+Performance comparison - building Android UI with code (Anko) vs XML Layout.kts,file
+"Playing with Spring Boot, Vaadin and Kotlin.kts",file
+Production Ready Kotlin.kts,file
+ProjectLinks.kt,file
+Projects.kts,file
+PultusORM Sqlite ORM for Kotlin.kts,file
+"Quasar Efficient and Elegant Fibers, Channels and Actors.kts",file
+Quick dive in Kotlin extensions.kts,file
+README.md,file
+Reactor Kotlin Extensions 1.0.0.M1 released.kts,file
+Readability.kt,file
+ReadmeGenerator.kt,file
+ReadmeGeneratorTest.kt,file
+Redux for Android using Kotlin.kts,file
+Rest API plumbing with kotlin.kts,file
+Revisiting Types In Kotlin.kts,file
+RssGenerator.kt,file
+RxAndroid and Kotlin (Part 1).kts,file
+Scala vs Kotlin Operator overloading.kts,file
+Scala vs Kotlin Pimp my library.kts,file
+Scala vs Kotlin inline and infix.kts,file
+Scala vs Kotlin.kts,file
+ScriptCompiler.kt,file
+Seductive Code.kts,file
+Setting animation scale for Android UI tests.kts,file
+Setting up Kotlin with Android and tests .kts,file
+Sitemap.kt,file
+SitemapGenerator.kt,file
+Solutions to multiple inheritance in Kotlin.kts,file
+Solving the Josephus problem in Kotlin.kts,file
+Some of my favorite Kotlin features (that we use a lot in Basecamp).kts,file
+"Spring Boot and Kotlin, a match made in Heaven.kts",file
+Spring Tips the Kotlin Programming Language.kts,file
+Swift vs Kotlin for real iOS-Android apps.kts,file
+Taking Kotlin for a ride.kts,file
+"Taking Kotlin to production, Seriously.kts",file
+Ten Kotlin Features To Boost Android Development.kts,file
+Testing in Kotlin.kts,file
+The Advent of Kotlin A Conversation with JetBrains' Andrey Breslav.kts,file
+The Design and Construction of Modern Build Tools.kts,file
+The Design and Construction of Modern Build Tools.png,file
+The Journey of a Spring Boot application from Java 8 to Kotlin The Application Class.kts,file
+"The Journey of a Spring Boot application from Java 8 to Kotlin, part 2 Configuration Classes.kts",file
+"The Journey of a Spring Boot application from Java 8 to Kotlin, part 3 Data Classes.kts",file
+The Kobalt diaries Automatic Android SDK management.kts,file
+The Kobalt diaries Parallel builds.kts,file
+The Kobalt diaries testing.kts,file
+The Reactive Scrabble benchmarks.kts,file
+The Rise and Fall of JVM Languages.kts,file
+The Road to Gradle Script Kotlin 1.0.kts,file
+The power of templating in a DSL.kts,file
+Things We've Learned During Coolcal Development in Kotlin.kts,file
+Thinking Functionally.kts,file
+Type safe JavaFX CSS with TornadoFX.kts,file
+UI Testing separating Assertions from Actions with Kotlin DSL.kts,file
+"Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More.kts",file
+Upgrade your workflow with 0-installation kotlin scriptlets.kts,file
+"Use Kotlin with npm, webpack and react.kts",file
+UserGroups.kts,file
+Using Kotlin For Tests in Android.kts,file
+Using Kotlin type-safe builders to create a DSL for Forms.kts,file
+Using Mockito for unit testing with Kotlin (1x).kts,file
+Using the Kotlin Language with Apache Spark.kts,file
+Utils.kt,file
+VersionFetcher.kt,file
+Weekend resources for new Kotlin programmers.kts,file
+When Kotlin met Gradle.kts,file
+Where We Stand & What's Next for Kotlin.kts,file
+Why I don't want to use Kotlin for Android Development yet.kts,file
+Why I prefer Kotlin.kts,file
+Why Kotlin is my next programming language.kts,file
+Why Kotlin is the next big thing for Java developers.kts,file
+Why You Must Try Kotlin For Android Development.kts,file
+"Write a lightweight, cross-platform HTML5 desktop app with Kotlin.kts",file
+Writing Concise Code With Kotlin.kts,file
+Writing Gradle Build Scripts in Kotlin.kts,file
+Writing Kotlin Idiomatic Code.kts,file
+Writing a RESTful backend using Kotlin and Spring Boot.kts,file
+You can do Better with Kotlin.kts,file
+Zero boilerplate delegation in Kotlin.kts,file
+app,dir
+articles,dir
+articles.tsx,file
+awesome-kotlin.svg,file
+bar,dir
+build.gradle.kts,file
+buildSrc,dir
+category,dir
+category.less,file
+category.tsx,file
+chinese,dir
+deploy.sh,file
+deploy@morty.enc,file
+draft.md,file
+english,dir
+favicon-114.png,file
+favicon-120.png,file
+favicon-144.png,file
+favicon-152.png,file
+favicon-16.png,file
+favicon-180.png,file
+favicon-196.png,file
+favicon-32.png,file
+favicon-57.png,file
+favicon-76.png,file
+favicon.ico,file
+favicon.svg,file
+forkme_right_white_ffffff.png,file
+github.css,file
+gradle,dir
+gradle-wrapper.jar,file
+gradle-wrapper.properties,file
+gradle.properties,file
+gradlew,file
+gradlew.bat,file
+head,dir
+head.less,file
+head.tsx,file
+hebrew,dir
+highlight.pack.js,file
+icons,dir
+import,dir
+index.html,file
+italian,dir
+kc2019.svg,file
+kotlin,dir
+kotlin-0.svg,file
+kotlin-1.svg,file
+kotlin-2.png,file
+kotlin-force.svg,file
+kotlin.link.logo.svg,file
+link,dir
+links,dir
+list,dir
+list.less,file
+list.tsx,file
+listitem,dir
+listitem.less,file
+listitem.tsx,file
+locations.tsx,file
+logback.xml,file
+main,dir
+main.tsx,file
+mask-favicon.svg,file
+model,dir
+package.json,file
+page,dir
+page.less,file
+page.tsx,file
+pages,dir
+resources,dir
+robots.txt,file
+root.tsx,file
+russian,dir
+scripts,dir
+search,dir
+search.less,file
+search.svg,file
+search.tsx,file
+settings.gradle.kts,file
+src,dir
+star.svg,file
+style.less,file
+styles.css,file
+test,dir
+tsconfig.json,file
+utils,dir
+vars.less,file
+webpack.config.js,file
+wrapper,dir
+yarn.lock,file

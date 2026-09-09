@@ -1,0 +1,27 @@
+name,type
+.gitignore,file
+FiraMono-Medium.otf,file
+LICENSE,file
+README.md,file
+SIL Open Font License.txt,file
+__init__.py,file
+coco_annotation.py,file
+coco_classes.txt,file
+convert.py,file
+darknet53.cfg,file
+font,dir
+kmeans.py,file
+model.py,file
+model_data,dir
+tiny_yolo_anchors.txt,file
+train.py,file
+train_bottleneck.py,file
+utils.py,file
+voc_annotation.py,file
+voc_classes.txt,file
+yolo.py,file
+yolo3,dir
+yolo_anchors.txt,file
+yolo_video.py,file
+yolov3-tiny.cfg,file
+yolov3.cfg,file

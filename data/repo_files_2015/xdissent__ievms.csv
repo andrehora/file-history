@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+README.md,file
+Vagrantfile,file
+build.sh,file
+control,dir
+deuac.reg,file
+ievms.bat,file
+ievms.sh,file
+ievms.xml,file
+isolinux.cfg,file
+kernel.config,file
+reuac.reg,file
+stage2,file
+vboxga.bat,file
+xp.reg,file

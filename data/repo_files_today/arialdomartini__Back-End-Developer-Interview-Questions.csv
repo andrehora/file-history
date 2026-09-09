@@ -1,0 +1,10 @@
+name,type
+LICENSE,file
+README.md,file
+active-record.md,file
+design-patterns,dir
+dont-repeat-yourself.md,file
+inversion-of-control.md,file
+kill-the-if-chain.md,file
+law-of-demeter.md,file
+snippets,dir

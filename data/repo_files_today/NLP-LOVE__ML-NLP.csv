@@ -1,0 +1,129 @@
+name,type
+1.Liner Regression.md,file
+10. Neural Network,dir
+11. CNN,dir
+12. RNN,dir
+12.1 GRU,dir
+12.2 LSTM,dir
+13. Transfer Learning,dir
+14. Reinforcement Learning,dir
+15. DL Optimizer,dir
+16. NLP,dir
+16.1 Word Embedding,dir
+16.2 fastText,dir
+16.3 GloVe,dir
+16.4 textRNN & textCNN,dir
+16.5 seq2seq,dir
+16.6 Attention,dir
+16.7 Transformer,dir
+16.8 BERT,dir
+16.9 XLNet,dir
+17. Recommendation System,dir
+18. Intelligent Customer Service,dir
+2.Logistics Regression,dir
+2.Logistics Regression.md,file
+2019-9-28_21-34-11.png,file
+3.1 Random Forest,dir
+3.1 Random Forest.md,file
+3.2 GBDT,dir
+3.2 GBDT.md,file
+3.3 XGBoost,dir
+3.3 XGBoost.ipynb,file
+3.3 XGBoost.md,file
+3.4 LightGBM,dir
+3.4 LightGBM.ipynb,file
+3.4 LightGBM.md,file
+3.Desition Tree,dir
+4. SVM,dir
+4. SVM.md,file
+5.1 Bayes Network,dir
+5.1 Bayes Network.md,file
+5.2 HMM.ipynb,file
+5.2 Markov,dir
+5.2 Markov.md,file
+5.3 Topic Model,dir
+6. EM,dir
+7. Clustering,dir
+9. KNN,dir
+CNN.ipynb,file
+CreditScoring.ipynb,file
+DecisionTree.csv,file
+DecisionTree.ipynb,file
+Deep Learning,dir
+Desition Tree.md,file
+GBDT_demo.ipynb,file
+GMM.ipynb,file
+GRU.ipynb,file
+GloVe.ipynb,file
+HillaryEmail.ipynb,file
+HillaryEmails.csv,file
+K-Means.ipynb,file
+KaggleCredit2.csv.zip,file
+LSTM.ipynb,file
+Liner Regression,dir
+Machine Learning,dir
+NLP,dir
+Naive Bayes Classifier.ipynb,file
+Project,dir
+README.md,file
+RNN.ipynb,file
+RandomForestRegression.ipynb,file
+TensorFlow_LR.ipynb,file
+Transfer Learning.ipynb,file
+bert-Chinese-classification-task.md,file
+chinese1w.txt,file
+cnews_loader.py,file
+cnn_model.py,file
+corpus_train.txt,file
+data,dir
+datautil.py,file
+demo,dir
+dev.tsv,file
+download_glue_data.py,file
+english1w.txt,file
+fanyichina,dir
+fastText.ipynb,file
+from,dir
+fromids,dir
+genSample.py,file
+gmm.data,file
+gmm.py,file
+gmm_em,dir
+handwritingClass,dir
+handwritingClass.py,file
+housing_price.py,file
+images,dir
+kc_test.txt,file
+kc_train.txt,file
+main.py,file
+modeling.py,file
+myjiebadict.txt,file
+news classification,dir
+optimization.py,file
+pima-indians-diabetes.csv,file
+qrcode.jpg,file
+rnn_model.py,file
+run.sh,file
+run_classifier_word.py,file
+sample.data,file
+seq2seq.ipynb,file
+seq2seq_model.py,file
+svm_classification.ipynb,file
+test,file
+test.py,file
+testDigits.zip,file
+test_feat.txt,file
+textCNN.ipynb,file
+textRNN.ipynb,file
+to,dir
+toids,dir
+tokenization_word.py,file
+train.ipynb,file
+train.tsv,file
+train_feat.txt,file
+trainingDigits.zip,file
+wechat.png,file
+wechat1.png,file
+wechat3.png,file
+word2vec.ipynb,file
+yuliao,dir

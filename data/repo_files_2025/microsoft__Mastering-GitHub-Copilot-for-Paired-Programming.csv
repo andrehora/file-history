@@ -1,0 +1,62 @@
+name,type
+.devcontainer,dir
+.gitignore,file
+005OpenRepoInCodeSpaces.png,file
+006RunBackEndProject.png,file
+007ProjectRunningOpenInNewTab.png,file
+008TestRunningApi.png,file
+009DebugBackEndDemo.png,file
+01-Getting-Started-with-GitHub-Copilot-for-Azure.md,file
+01-Introduction-to-GitHub,dir
+010DebugForecastValue.png,file
+011OpenBackEndProject.png,file
+011SlashCommandExplain.gif,file
+012SlashCmdTests.gif,file
+013SlashCmdDoc.gif,file
+014AddNewRecord.gif,file
+02-Build-and-deploy-your-application-with-GitHub-Copilot-for-Azure.md,file
+02-Introduction-to-GitHub-Codespaces,dir
+020GeneratedCode.gif,file
+03-Get-Answers-to-your-Questions-about-Azure-Services-and-Resources.md,file
+03-Introduction-to-GitHub-Copilot,dir
+030RunAndDebugTheBackEndProject.png,file
+032TestAndDebugUsingUrls.png,file
+04-Using-GitHub-Copilot-with-JavaScript,dir
+05-Using-GitHub-Copilot-with-Python,dir
+06-Creating-Mini-Game-with-GitHub-Copilot-001.png,file
+06-Creating-Mini-Game-with-GitHub-Copilot-002.png,file
+06-Creating-Mini-Game-with-GitHub-Copilot-003.png,file
+06-Using-GitHub-Copilot-with-CSharp,dir
+07-Creating-Mini-Game-with-GitHub-Copilot,dir
+08-Using-Advanced-GitHub-Copilot-Features,dir
+09-Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud,dir
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Getting Started with Copilot for Azure to Deploy to the Cloud.pdf,file
+GitHub 101 - Curriculum v2.png,file
+GitHub 101 - Curriculum.png,file
+GitHub 101- Copilot Intro.pdf,file
+LICENSE,file
+LICENSE.md,file
+README.MD,file
+README.md,file
+SECURITY.md,file
+SUPPORT.md,file
+app.py,file
+devcontainer.json,file
+github 101 - Introduction.pdf,file
+github 101 - codespaces.pdf,file
+images,dir
+learn.gif,file
+mod2-CopilotChat-2.png,file
+mod2-CopilotChat-3.png,file
+mod2-CopilotChat-4.png,file
+mod2-CopilotChat-5.png,file
+mod2-CopilotChat-6.png,file
+mod2-CopilotChat-7.png,file
+mod2-CopilotChat-8.png,file
+mod2-CopilotChat-9.png,file
+mod2-CopilotChat.png,file
+mod3-prompt-example.png,file
+requirements.txt,file
+welcome,file

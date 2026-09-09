@@ -1,0 +1,129 @@
+name,type
+.devcontainer,dir
+.dockerignore,file
+.github,dir
+.gitignore,file
+010 - Windows 11 Enterprise,dir
+020 - Windows 11 LTSC,dir
+030 - Windows 10 Pro,dir
+040 - Windows 10 Enterprise,dir
+050 - Windows 10 LTSC,dir
+060 - Windows 8.1 Enterprise,dir
+070 - Windows 7 Ultimate,dir
+080 - Windows Vista Ultimate,dir
+090 - Windows XP Professional,dir
+1-issue.yml,file
+100 - Windows 2000 Professional,dir
+102 - Windows ME,dir
+104 - Windows 98,dir
+106 - Windows 95,dir
+110 - Windows Server 2025,dir
+120 - Windows Server 2022,dir
+130 - Windows Server 2019,dir
+140 - Windows Server 2016,dir
+150 - Windows Server 2012 R2,dir
+160 - Windows Server 2008 R2,dir
+170 - Windows Server 2003,dir
+180 - Tiny11 Core,dir
+190 - Tiny11,dir
+2-feature.yml,file
+200 - Tiny10,dir
+210 - Reactos,dir
+3-bug.yml,file
+4-question.yml,file
+Dockerfile,file
+ISSUE_TEMPLATE,dir
+answer.sh,file
+assets,dir
+batch.sh,file
+build.yml,file
+check.yml,file
+codespaces.yml,file
+compose.yml,file
+config.yml,file
+define.sh,file
+dependabot.yml,file
+devcontainer.json,file
+display.sh,file
+docs,dir
+entry.sh,file
+environment.md,file
+hub.yml,file
+image.sh,file
+install.sh,file
+install.yml,file
+kubernetes.yml,file
+legacy.sh,file
+license.md,file
+links.yml,file
+logo.png,file
+mido.sh,file
+power.sh,file
+readme.md,file
+renovate.json,file
+review.yml,file
+samba.sh,file
+settings.yml,file
+sif.sh,file
+src,dir
+test.yml,file
+validate.yml,file
+win10x64-enterprise.cmd,file
+win10x64-enterprise.xml,file
+win10x64-iot.cmd,file
+win10x64-iot.xml,file
+win10x64-ltsc.cmd,file
+win10x64-ltsc.xml,file
+win10x64.cmd,file
+win10x64.xml,file
+win11x64-enterprise.cmd,file
+win11x64-enterprise.xml,file
+win11x64-iot.cmd,file
+win11x64-iot.xml,file
+win11x64-ltsc.cmd,file
+win11x64-ltsc.xml,file
+win11x64.cmd,file
+win11x64.xml,file
+win2008r2.cmd,file
+win2008r2.xml,file
+win2012r2.cmd,file
+win2012r2.xml,file
+win2016.cmd,file
+win2016.xml,file
+win2019-hv.cmd,file
+win2019-hv.xml,file
+win2019.cmd,file
+win2019.xml,file
+win2022.cmd,file
+win2022.xml,file
+win2025.cmd,file
+win2025.xml,file
+win7x64-enterprise.cmd,file
+win7x64-enterprise.xml,file
+win7x64-ultimate.cmd,file
+win7x64-ultimate.xml,file
+win7x64.cmd,file
+win7x64.xml,file
+win7x86-enterprise.cmd,file
+win7x86-enterprise.xml,file
+win7x86-ultimate.cmd,file
+win7x86-ultimate.xml,file
+win7x86.cmd,file
+win7x86.xml,file
+win81x64-enterprise.cmd,file
+win81x64-enterprise.xml,file
+win81x64.cmd,file
+win81x64.xml,file
+winvistax64-enterprise.cmd,file
+winvistax64-enterprise.xml,file
+winvistax64-ultimate.cmd,file
+winvistax64-ultimate.xml,file
+winvistax64.cmd,file
+winvistax64.xml,file
+winvistax86-enterprise.cmd,file
+winvistax86-enterprise.xml,file
+winvistax86-ultimate.cmd,file
+winvistax86-ultimate.xml,file
+winvistax86.cmd,file
+winvistax86.xml,file
+workflows,dir

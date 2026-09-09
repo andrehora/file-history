@@ -1,0 +1,15 @@
+name,type
+.claude-plugin,dir
+.github,dir
+AGENTS.md,file
+LICENSE,file
+README.md,file
+SKILL.md,file
+agents,dir
+marketplace.json,file
+openai.yaml,file
+plugin.json,file
+scripts,dir
+validate-package.py,file
+validate.yml,file
+workflows,dir

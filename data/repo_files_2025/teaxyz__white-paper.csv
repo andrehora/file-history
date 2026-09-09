@@ -1,0 +1,32 @@
+name,type
+.gitbook,dir
+.github,dir
+.gitignore,file
+.markdownlint.json,file
+Makefile,file
+README.md,file
+SUMMARY.md,file
+Token Allocation (1).png,file
+Token Allocation-Updated.svg,file
+Token Allocation.png,file
+assets,dir
+cd.yml,file
+ci.yml,file
+es,dir
+figure-1.svg,file
+figure-2.png,file
+figure-2.svg,file
+figure-3.svg,file
+i18n,dir
+img,dir
+make.yml,file
+metadata.yml,file
+mk-pantry-accessible.sh,file
+pt-br,dir
+release.yml,file
+tea.csl,file
+vi,dir
+white-paper.md,file
+workflows,dir
+xkcd-dependency (1).png,file
+xkcd-dependency.png,file

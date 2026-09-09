@@ -1,0 +1,70 @@
+name,type
+.flake8,file
+.github,dir
+.gitignore,file
+1.1 Black-Scholes numerical methods.ipynb,file
+1.2 SDE simulations and statistics.ipynb,file
+1.3 Fourier transform methods.ipynb,file
+1.4 SDE - Heston model.ipynb,file
+2.1 Black-Scholes PDE and sparse matrices.ipynb,file
+2.2 Exotic options.ipynb,file
+2.3 American Options.ipynb,file
+"3.1 Merton jump-diffusion, PIDE method.ipynb",file
+"3.2 Variance Gamma model, PIDE method.ipynb",file
+3.3 Pricing with the NIG Process.ipynb,file
+4.1 Option pricing with transaction costs.ipynb,file
+4.2 Volatility smile and model calibration.ipynb,file
+5.1 Linear regression - Kalman filter.ipynb,file
+5.2 Kalman auto-correlation tracking - AR(1) process.ipynb,file
+5.3 Volatility tracking.ipynb,file
+6.1 Ornstein-Uhlenbeck process and applications.ipynb,file
+7.1 Classical MVO.ipynb,file
+A.1 Solution of linear equations.ipynb,file
+"A.2 Optimize and speed up the code. (SOR algorithm, Cython and C).ipynb",file
+BS_SOR_main.c,file
+BS_pricer.py,file
+BS_sor,file
+C,dir
+CF.py,file
+CITATION.cff,file
+Dockerfile,file
+FFT.py,file
+FMNM,dir
+FUNDING.yml,file
+Heston_pricer.py,file
+Kalman_filter.py,file
+LICENSE,file
+Makefile,file
+Merton_pricer.py,file
+NIG_pricer.py,file
+PDE_solver.c,file
+PDE_solver.h,file
+Parameters.py,file
+Processes.py,file
+README.md,file
+SOR.c,file
+SOR.h,file
+Solvers.py,file
+TC_pricer.py,file
+VG_pricer.py,file
+__init__.py,file
+cost_utils.py,file
+cython,dir
+data,dir
+docker-compose.yml,file
+environment.yml,file
+heston.pyx,file
+historical_data.csv,file
+latex,dir
+list_of_packages.txt,file
+mainSOR.c,file
+portfolio_optimization.py,file
+probabilities.py,file
+pyproject.toml,file
+requirements.txt,file
+setup.py,file
+solvers.pyx,file
+spy-options-exp-2020-07-10-weekly-show-all-stacked-07-05-2020.csv,file
+spy-options-exp-2021-01-15-weekly-show-all-stacked-07-05-2020.csv,file
+src,dir
+stocks_data.csv,file

@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+LICENSE,file
+Makefile,file
+README.md,file
+qoi.h,file
+qoibench.c,file
+qoiconv.c,file
+qoifuzz.c,file

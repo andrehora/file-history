@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+auto-cpufreq.py,file
+cpufreqctl.sh,file
+daemon-deploy.sh,file
+scripts,dir

@@ -1,0 +1,16 @@
+name,type
+.github,dir
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+agpr.gif,file
+assets,dir
+bug_report.md,file
+config.yml,file
+contributing.md,file
+feature_request.md,file
+language.vue,file
+prettier.yml,file
+workflows,dir

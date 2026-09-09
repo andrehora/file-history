@@ -1,0 +1,13 @@
+name,type
+LICENSE.txt,file
+README.md,file
+chocolateyinstall.ps1,file
+chocolateyuninstall.ps1,file
+flarevm.installer.flare,dir
+flarevm.installer.flare.nuspec,file
+flarevm.png,file
+install.ps1,file
+packages.csv,file
+packages.json,file
+profile.json,file
+tools,dir

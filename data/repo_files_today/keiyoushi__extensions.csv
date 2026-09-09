@@ -1,0 +1,11 @@
+name,type
+README.md,file
+eu.kanade.tachiyomi.extension.all.keiyoushi.png,file
+eu.kanade.tachiyomi.extension.all.mihon.png,file
+icon,dir
+index.html,file
+index.json,file
+index.min.json,file
+index.pb,file
+release-assets.json,file
+repo.json,file

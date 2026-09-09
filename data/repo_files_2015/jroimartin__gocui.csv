@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+AUTHORS,file
+LICENSE,file
+Mark.Twain-Tom.Sawyer.txt,file
+README.md,file
+_demos,dir
+attribute.go,file
+demo1.go,file
+demo2.go,file
+demo3.go,file
+demo4.go,file
+doc.go,file
+edit.go,file
+gui.go,file
+keybinding.go,file
+view.go,file

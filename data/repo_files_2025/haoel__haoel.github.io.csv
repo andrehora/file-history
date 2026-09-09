@@ -1,0 +1,14 @@
+name,type
+.github,dir
+README.md,file
+_config.yml,file
+bg_hr.png,file
+blacktocat.png,file
+cover.webp,file
+icon_download.png,file
+images,dir
+install.ubuntu.18.04.sh,file
+scripts,dir
+shellcheck.yml,file
+sprite_download.png,file
+workflows,dir

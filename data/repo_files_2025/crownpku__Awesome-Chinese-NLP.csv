@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+1.jpg,file
+CODE_OF_CONDUCT.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+contributing.md,file
+images,dir

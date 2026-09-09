@@ -1,0 +1,7 @@
+name,type
+README.mkd,file
+doc,dir
+pattern-check,file
+plugin,dir
+tmux-navigator.txt,file
+tmux_navigator.vim,file

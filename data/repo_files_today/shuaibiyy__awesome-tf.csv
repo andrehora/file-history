@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+contributing.md,file
+dependabot.yml,file
+link-checker.yml,file
+lychee.toml,file
+misspell.yml,file
+notfound.yml,file
+terraform.svg,file
+workflows,dir

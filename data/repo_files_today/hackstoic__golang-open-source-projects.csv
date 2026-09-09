@@ -1,0 +1,9 @@
+name,type
+README.md,file
+README_EN.md,file
+category-and-maintenance-policy.md,file
+docs,dir
+generate_readme.go,file
+projects.json,file
+removal-and-migration-log.md,file
+tools,dir

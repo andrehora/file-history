@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+__init__.py,file
+build.py,file
+extreme_examples.jpg,file
+hull_lights_diffuse.png,file
+hull_lights_emit.png,file
+hull_normal.png,file
+screenshots,dir
+spaceship_generator.py,file
+spaceships_grid.jpg,file
+step-by-step-animation.gif,file
+textures,dir

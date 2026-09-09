@@ -1,0 +1,16 @@
+name,type
+.claude-plugin,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+SKILL.md,file
+index-template.html,file
+knockout.py,file
+marketplace.json,file
+pipeline.md,file
+plugin.json,file
+prompts.md,file
+references,dir
+scroll-world,dir
+scrub-engine.js,file
+skills,dir

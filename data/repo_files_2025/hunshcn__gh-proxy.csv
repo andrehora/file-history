@@ -1,0 +1,9 @@
+name,type
+Dockerfile,file
+LICENSE,file
+README.md,file
+app,dir
+entrypoint.sh,file
+index.js,file
+main.py,file
+uwsgi.ini,file

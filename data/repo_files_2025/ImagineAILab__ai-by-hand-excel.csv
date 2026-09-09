@@ -1,0 +1,27 @@
+name,type
+.gitignore,file
+AlphaFold.xlsx,file
+Autoencoder.xlsx,file
+Backpropgation.xlsx,file
+LICENSE,file
+LSTM.xlsx,file
+LeakyReLU.xlsx,file
+Mamba.xlsx,file
+Multi-Layer Perceptron.xlsx,file
+Multihead-Attention.xlsx,file
+README.md,file
+RNN.xlsx,file
+ResNet.xlsx,file
+Self-Attention.xlsx,file
+Softmax.xlsx,file
+Temperature.xlsx,file
+Transformer-Full-Stack.xlsx,file
+Transformer.xlsx,file
+W1_Dot-Product.xlsx,file
+W2_Matrix-Multiplication.xlsx,file
+W3_Linear-Layer.xlsx,file
+advanced,dir
+basic,dir
+gallery.png,file
+workbook,dir
+xLSTM.xlsx,file

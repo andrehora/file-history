@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+bin,dir
+lib,dir
+npm-check-updates,file
+npm-check-updates.js,file
+package.json,file
+test,dir
+testversionmanager.js,file
+versionmanager.js,file

@@ -1,0 +1,14 @@
+name,type
+Package Control.sublime-settings,file
+Preferences.sublime-settings,file
+README.md,file
+SublimeLinter.sublime-settings,file
+aliases,file
+git_setup.sh,file
+gitconfig,file
+install.sh,file
+irbrc,file
+rspec,file
+tm_properties,file
+vimrc,file
+zshrc,file

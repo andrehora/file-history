@@ -1,0 +1,1050 @@
+name,type
+!b.bat,file
+!ball.bat,file
+!ballxl.bat,file
+!bdll.bat,file
+##c_all.bat,file
+##c_d10x.bat,file
+#bdll.bat,file
+#c_tb2n.bat,file
+#c_tb2na.bat,file
+#c_tb64.bat,file
+#c_tbita.bat,file
+#c_tbtyp.bat,file
+#c_tcv.bat,file
+#c_tdat.bat,file
+#c_tfio.bat,file
+#c_thrt.bat,file
+#c_tsort.bat,file
+#c_tstat.bat,file
+#ca.bat,file
+#ca_dll.bat,file
+#ca_fca.bat,file
+#ca_fca256.bat,file
+#ca_fcs256.bat,file
+#ca_fct256.bat,file
+#ca_fzca.bat,file
+#ca_tfcs.bat,file
+#ca_tfct.bat,file
+#capp.bat,file
+#times,file
+#times.aes,file
+#times.tf,file
+$d25.zip,file
+$log_aes.zip,file
+$log_crc.zip,file
+$log_fca.zip,file
+$log_sp.zip,file
+$log_tf.zip,file
+$log_utl.zip,file
+$testlog.zip,file
+$tstlogp.zip,file
+.editorconfig,file
+.github,dir
+.gitignore,file
+.gitmodules,file
+.vsconfig,file
+0.txt,file
+1.txt,file
+10.txt,file
+11.txt,file
+12.txt,file
+13.txt,file
+14.txt,file
+15.txt,file
+2.txt,file
+3.txt,file
+4.txt,file
+5.txt,file
+6.txt,file
+7.txt,file
+7z,dir
+7z License.txt,file
+7z codecs LICENSE.txt,file
+7z note.txt,file
+7z-brotli.txt,file
+8.txt,file
+9.txt,file
+Add to 7Z and send by mail.lnk,file
+Add to 7Z.lnk,file
+Add to 7z.bat,file
+Add to 7z.sh,file
+Add to Archive,file
+Add to BZip2.lnk,file
+Add to Brotli.lnk,file
+Add to GZip.lnk,file
+Add to PEA.lnk,file
+Add to TAR.lnk,file
+Add to WIM.lnk,file
+Add to XZ.lnk,file
+Add to ZIP and send by mail.lnk,file
+Add to ZIP.lnk,file
+Add to Zpaq.lnk,file
+Add to Zstd.lnk,file
+Add to archive.bat,file
+Add to archive.lnk,file
+Add to archive.sh,file
+Add to brotli.bat,file
+Add to brotli.sh,file
+Add to bzip2.bat,file
+Add to bzip2.sh,file
+Add to gzip.bat,file
+Add to gzip.sh,file
+Add to pea.bat,file
+Add to pea.sh,file
+Add to self-extracting archive.lnk,file
+Add to separate .7Z.lnk,file
+Add to separate .ZIP.lnk,file
+Add to separate 7Z.lnk,file
+Add to separate ZIP.lnk,file
+Add to sfx and send by mail.lnk,file
+Add to tar.bat,file
+Add to tar.sh,file
+Add to wim.bat,file
+Add to wim.sh,file
+Add to xz.bat,file
+Add to xz.sh,file
+Add to zip.bat,file
+Add to zip.sh,file
+Add to zpaq.bat,file
+Add to zpaq.sh,file
+Add to zstd.bat,file
+Add to zstd.sh,file
+AnalyzeCommand.cpp,file
+AnalyzeCommand.h,file
+AppList.scale-100.png,file
+AppList.scale-200.png,file
+AppList.scale-400.png,file
+AppList.targetsize-16.png,file
+AppList.targetsize-16_altform-lightunplated.png,file
+AppList.targetsize-16_altform-unplated.png,file
+AppList.targetsize-24.png,file
+AppList.targetsize-24_altform-lightunplated.png,file
+AppList.targetsize-24_altform-unplated.png,file
+AppList.targetsize-256.png,file
+AppList.targetsize-256_altform-lightunplated.png,file
+AppList.targetsize-256_altform-unplated.png,file
+AppList.targetsize-32.png,file
+AppList.targetsize-32_altform-lightunplated.png,file
+AppList.targetsize-32_altform-unplated.png,file
+AppList.targetsize-48.png,file
+AppList.targetsize-48_altform-lightunplated.png,file
+AppList.targetsize-48_altform-unplated.png,file
+Archiving,dir
+Assets,dir
+Browse path with PeaZip.lnk,file
+BrowsePathCommand.cpp,file
+BrowsePathCommand.h,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Commands.h,file
+Contents,dir
+Convert,file
+Convert.bat,file
+Convert.lnk,file
+Convert.sh,file
+CustomDark.darkstylecolors,file
+CustomDark.lrs,file
+Directory.Build.props,file
+DragDrop.dcr,file
+DragDrop.inc,file
+DragDrop.pas,file
+DragDropComObj.pas,file
+DragDropContext.dcr,file
+DragDropContext.pas,file
+DragDropDesign.dcr,file
+DragDropDesign.lrs,file
+DragDropDesign.pas,file
+DragDropFile.dcr,file
+DragDropFile.pas,file
+DragDropFormats.pas,file
+DragDropGraphics.dcr,file
+DragDropGraphics.pas,file
+DragDropHandler.dcr,file
+DragDropHandler.pas,file
+DragDropInternet.dcr,file
+DragDropInternet.pas,file
+DragDropLazarus.lpk,file
+DragDropLazarus.pas,file
+DragDropPIDL.dcr,file
+DragDropPIDL.pas,file
+DragDropText.dcr,file
+DragDropText.pas,file
+DropComboTarget.dcr,file
+DropComboTarget.pas,file
+DropHandler.dcr,file
+DropHandler.pas,file
+DropSource.dcr,file
+DropSource.pas,file
+DropTarget.dcr,file
+DropTarget.pas,file
+DropTargetCur.res,file
+Encrypt (PEA).lnk,file
+ExplorerCommandBase.cpp,file
+ExplorerCommandBase.h,file
+ExplorerCommandRoot.cpp,file
+ExplorerCommandRoot.h,file
+Extract Archive,file
+Extract Here,file
+Extract here (smart new folder).bat,file
+Extract here (smart new folder).lnk,file
+Extract here (smart new folder).sh,file
+Extract here.lnk,file
+Extract to Desktop.bat,file
+Extract to Desktop.lnk,file
+Extract to Desktop.sh,file
+Extract to Documents.bat,file
+Extract to Documents.lnk,file
+Extract to Documents.sh,file
+Extract to Downloads.bat,file
+Extract to Downloads.lnk,file
+Extract to Downloads.sh,file
+Extract to Folder,file
+Extract....bat,file
+Extract....lnk,file
+Extract....sh,file
+FUNDING.yml,file
+ISSUE_TEMPLATE,dir
+Images,dir
+Info.plist,file
+KDE-servicemenus,dir
+KDE3-konqueror,dir
+KDE4-dolphin,dir
+KDE5-dolphin,dir
+KDE6-dolphin,dir
+LICENSE,file
+LargeTile.scale-100.png,file
+LargeTile.scale-200.png,file
+LargeTile.scale-400.png,file
+ManifestResources.resw,file
+Nautilus-scripts,dir
+Open Archive,file
+Open as archive.bat,file
+Open as archive.lnk,file
+Open as archive.sh,file
+Open command prompt here.lnk,file
+Package.appxmanifest,file
+Pea.scale-100.png,file
+Pea.targetsize-16.png,file
+Pea.targetsize-16_altform-lightunplated.png,file
+Pea.targetsize-16_altform-unplated.png,file
+Pea.targetsize-24.png,file
+Pea.targetsize-24_altform-lightunplated.png,file
+Pea.targetsize-24_altform-unplated.png,file
+Pea.targetsize-256.png,file
+Pea.targetsize-256_altform-lightunplated.png,file
+Pea.targetsize-256_altform-unplated.png,file
+Pea.targetsize-32.png,file
+Pea.targetsize-32_altform-lightunplated.png,file
+Pea.targetsize-32_altform-unplated.png,file
+Pea.targetsize-48.png,file
+Pea.targetsize-48_altform-lightunplated.png,file
+Pea.targetsize-48_altform-unplated.png,file
+PeaZip,dir
+"PeaZip, add to BZ2.workflow",dir
+"PeaZip, add to Brotli.workflow",dir
+"PeaZip, add to GZ.workflow",dir
+"PeaZip, add to TAR.workflow",dir
+"PeaZip, add to XZ.workflow",dir
+"PeaZip, add to Zstd.workflow",dir
+"PeaZip, add to archive.workflow",dir
+"PeaZip, convert.workflow",dir
+"PeaZip, extract here (smart new folder).workflow",dir
+"PeaZip, extract to Desktop.workflow",dir
+"PeaZip, extract to Documents.workflow",dir
+"PeaZip, extract to Downloads.workflow",dir
+PeaZip.Package,dir
+PeaZip.Package.assets.cache,file
+PeaZip.Package.wapproj,file
+PeaZip.Package.wapproj.nuget.dgspec.json,file
+PeaZip.Package.wapproj.nuget.g.props,file
+PeaZip.Package.wapproj.nuget.g.targets,file
+PeaZip.Package.wapproj.user,file
+PeaZip.Package_TemporaryKey.pfx,file
+PeaZip.ShellEx,dir
+PeaZip.ShellEx.sln,file
+PeaZip.ShellEx.vcxproj,file
+PeaZip.ShellEx.vcxproj.filters,file
+PeaZip.ShellEx.vcxproj.user,file
+PeaZip.icns,file
+PeaZip.ico,file
+PeaZip_7z.icns,file
+PeaZip_7z.ico,file
+PeaZip_7z_alt.ico,file
+PeaZip_alt.icns,file
+PeaZip_alt.ico,file
+PeaZip_app.ico,file
+PeaZip_block.icns,file
+PeaZip_block.ico,file
+PeaZip_cd.icns,file
+PeaZip_cd.ico,file
+PeaZip_package.icns,file
+PeaZip_package.ico,file
+PeaZip_rar.icns,file
+PeaZip_rar.ico,file
+PeaZip_rar_alt.ico,file
+PeaZip_zip.icns,file
+PeaZip_zip.ico,file
+PeaZip_zip_alt.ico,file
+QuickLook,dir
+READEME.zh.md,file
+README.md,file
+Remove comment.bat,file
+Remove comment.sh,file
+Resources.resw,file
+SECURITY.md,file
+Secure delete.lnk,file
+SendTo,dir
+SendTo_Program Files,dir
+SendTo_Program Files (x86),dir
+Set comment from file.bat,file
+Set comment from file.sh,file
+Set comment.bat,file
+Set comment.sh,file
+SmallTile.scale-100.png,file
+SmallTile.scale-200.png,file
+SmallTile.scale-400.png,file
+Source.def,file
+Split file.lnk,file
+Square150x150Logo.scale-100.png,file
+Square150x150Logo.scale-200.png,file
+Square150x150Logo.scale-400.png,file
+StoreLogo.scale-100.png,file
+StoreLogo.scale-200.png,file
+StoreLogo.scale-400.png,file
+Strings,dir
+Test archive(s).lnk,file
+Thumbnail.png,file
+Wide310x150Logo.scale-100.png,file
+Wide310x150Logo.scale-200.png,file
+Wide310x150Logo.scale-400.png,file
+Windows,dir
+Windows 11 mini context menu,dir
+_tsc.asm,file
+_tsc.obj,file
+"add PeaZip, add to 7Z.reg",file
+"add PeaZip, add to BZip2.reg",file
+"add PeaZip, add to Brotli.reg",file
+"add PeaZip, add to GZip.reg",file
+"add PeaZip, add to PEA.reg",file
+"add PeaZip, add to TAR.reg",file
+"add PeaZip, add to WIM.reg",file
+"add PeaZip, add to XZ.reg",file
+"add PeaZip, add to ZIP.reg",file
+"add PeaZip, add to Zpaq.reg",file
+"add PeaZip, add to Zstd.reg",file
+"add PeaZip, add to archive.reg",file
+"add PeaZip, convert archives.reg",file
+"add PeaZip, extract here (smart new folder).reg",file
+"add PeaZip, extract here.reg",file
+"add PeaZip, extract to Desktop.reg",file
+"add PeaZip, extract to Documents.reg",file
+"add PeaZip, extract to Downloads.reg",file
+"add PeaZip, extract....reg",file
+"add PeaZip, open file or folder.reg",file
+adler32.pas,file
+aes_base.pas,file
+aes_cbc.pas,file
+aes_ccm.pas,file
+aes_cfb.pas,file
+aes_cfb8.pas,file
+aes_cmac.pas,file
+aes_conf.inc,file
+aes_cprf.pas,file
+aes_ctr.pas,file
+aes_decr.pas,file
+aes_dll.dof,file
+aes_dll.dpr,file
+aes_dll.res,file
+aes_eax.pas,file
+aes_ecb.pas,file
+aes_encr.pas,file
+aes_gcm.pas,file
+aes_intf.pas,file
+aes_intv.pas,file
+aes_ofb.pas,file
+aes_omac.pas,file
+aes_seek.inc,file
+aes_type.pas,file
+aes_xts.pas,file
+align.inc,file
+alt,dir
+ansiutf8_utils.pas,file
+ar.txt,file
+arc,dir
+arc license.txt,file
+arc.txt,file
+base2n.pas,file
+bat,dir
+batch,dir
+bcm LICENSE.txt,file
+bcm note.txt,file
+bcrc32.pas,file
+bcrc64.pas,file
+be,dir
+be-Latn,dir
+bg,dir
+bg.reg,file
+bg.txt,file
+bin,dir
+bitarray.pas,file
+bjl3.pas,file
+blakb384.pas,file
+blakb512.pas,file
+blake2b.pas,file
+blake2s.pas,file
+blaks224.pas,file
+blaks256.pas,file
+brotli,dir
+brotli note.txt,file
+brotli.txt,file
+btypes.pas,file
+bug_report.md,file
+by-cr.reg,file
+by-cr.txt,file
+by-lt.reg,file
+by-lt.txt,file
+ca,dir
+ca.reg,file
+ca.txt,file
+cb7.txt,file
+cbr.txt,file
+cbt.txt,file
+cbz.txt,file
+ch_dll.dof,file
+ch_dll.dpr,file
+ch_dll.res,file
+ch_intf.pas,file
+ch_intv.pas,file
+chs.reg,file
+chs.txt,file
+cht.reg,file
+cht.txt,file
+cl.bat,file
+comp_speed,file
+compvers.pas,file
+conf,dir
+conf.txt,file
+copying,dir
+copying.txt,file
+copying_we.txt,file
+crc16.pas,file
+crc24.pas,file
+crc32.pas,file
+crc64.pas,file
+crc_sick.pas,file
+crcm_cat.pas,file
+crcmodel.pas,file
+cs-cz,dir
+custom,dir
+custom.md,file
+cz.reg,file
+cz.txt,file
+dates.pas,file
+de,dir
+de-uml.reg,file
+de-uml.txt,file
+dec_ca16.inc,file
+dec_cdat.inc,file
+dec_cp16.inc,file
+dec_cp32.inc,file
+dec_fa16.inc,file
+dec_fdat.inc,file
+dec_fp16.inc,file
+dec_fp32.inc,file
+default.reg,file
+default.txt,file
+dependabot.yml,file
+dev,dir
+different.theme.7z,file
+dllmain.cpp,file
+document.wflow,file
+dragdropfilesdll.lpi,file
+dragdropfilesdll.lpr,file
+dragdropfilesdll.lps,file
+dragdropfilesdll.pas,file
+dragdropfilesdll.src,dir
+droid.theme.7z,file
+ed2k.pas,file
+el-gr,dir
+en,dir
+en-gb,dir
+en-gb.reg,file
+en-gb.txt,file
+en.reg,file
+en.txt,file
+enc_ca16.inc,file
+enc_cdat.inc,file
+enc_cp16.inc,file
+enc_cp32.inc,file
+enc_fa16.inc,file
+enc_fdat.inc,file
+enc_fp16.inc,file
+enc_fp32.inc,file
+es-419,dir
+es-es,dir
+es-es.reg,file
+es-es.txt,file
+es-la.reg,file
+es-la.txt,file
+eu,dir
+eu.reg,file
+eu.txt,file
+fca.pas,file
+fca256.pas,file
+fca_dec.pas,file
+fca_enc.pas,file
+fcaes256.pas,file
+fcrc32.pas,file
+fcrypta.pas,file
+fcrypts.pas,file
+fcryptt.pas,file
+fcsp256.pas,file
+fctf256.pas,file
+feature_request.md,file
+fi,dir
+fi.reg,file
+fi.txt,file
+file_id.diz,file
+fio.pas,file
+fm-theme.bmp,file
+fpc-res.res,file
+fr,dir
+fr.reg,file
+fr.txt,file
+fr_alt.reg,file
+fr_alt.txt,file
+fr_alt2.reg,file
+freedesktop_integration,dir
+fzca.pas,file
+gl.txt,file
+gr.reg,file
+gr.txt,file
+hash.pas,file
+he-prototype.txt,file
+history,file
+history.crc,file
+hmac.pas,file
+hmac_md5.pas,file
+hmacs5t.pas,file
+hmacsha1.pas,file
+hmacsha2.pas,file
+hmacsha5.pas,file
+hmacwhir.pas,file
+hotp.pas,file
+how-to-use-translations.txt,file
+hrtimer.pas,file
+hu,dir
+hu.reg,file
+hu.txt,file
+icons,dir
+id,dir
+id.reg,file
+id.txt,file
+img_utils.pas,file
+installer,dir
+intro.txt,file
+it,dir
+it.reg,file
+it.txt,file
+ja-JP,dir
+ja.reg,file
+ja.txt,file
+kdf.pas,file
+keyderiv.pas,file
+ko,dir
+ko.reg,file
+ko.txt,file
+kperm_16.inc,file
+kperm_32.inc,file
+kperm_64.inc,file
+kperm_mp.inc,file
+kperm_mx.inc,file
+lang,dir
+lang-wincontext,dir
+legal.txt,file
+link.res,file
+link10720.res,file
+link13004.res,file
+link6028.res,file
+link6236.res,file
+link7124.res,file
+link8836.res,file
+link9384.res,file
+list_utils.pas,file
+lpaq,dir
+lpaq COPYING.txt,file
+lpaq note.txt,file
+lv,dir
+lv.reg,file
+lv.txt,file
+mac.theme.7z,file
+macOS service menus,dir
+main-box.theme.7z,file
+main-cube.theme.7z,file
+main-embedded,dir
+main-mug.theme.7z,file
+main.theme.7z,file
+mak_fca256.bat,file
+mak_fzca.bat,file
+make.ps1,file
+make.sh,file
+make.yml,file
+make_fca.bat,file
+manifest,file
+manifest.aes,file
+manifest.crc,file
+manifest.rc,file
+manifest.res,file
+manifest.tf,file
+manifest.utl,file
+manifests.bat,file
+md4.pas,file
+md5.pas,file
+mem_util.pas,file
+memh.pas,file
+metadarkstyle,dir
+metadarkstyle.lpk,file
+metadarkstyle.pas,file
+metadarkstyledsgnoptions.pas,file
+metadarkstyledsgnoptionsframe.lfm,file
+metadarkstyledsgnoptionsframe.pas,file
+ministat.pas,file
+mymetafile.pas,file
+nl,dir
+nl.reg,file
+nl.txt,file
+no.txt,file
+nographic-embedded,dir
+obj,dir
+options.zip,file
+packages.config,file
+paq,dir
+paq COPYING.txt,file
+paq note.txt,file
+pb_kdf.pas,file
+pch.cpp,file
+pch.h,file
+pea.rc,file
+pea.res,file
+pea_utils.pas,file
+peach.lfm,file
+peach.lrs,file
+peach.pas,file
+pealauncher.ico,file
+pealauncher.res,file
+peazip-add-to-7z.desktop,file
+peazip-add-to-archive.desktop,file
+peazip-add-to-brotli.desktop,file
+peazip-add-to-bzip2.desktop,file
+peazip-add-to-gzip.desktop,file
+peazip-add-to-pea.desktop,file
+peazip-add-to-tar.desktop,file
+peazip-add-to-wim.desktop,file
+peazip-add-to-xz.desktop,file
+peazip-add-to-zip.desktop,file
+peazip-add-to-zpaq.desktop,file
+peazip-add-to-zstd.desktop,file
+peazip-convert.desktop,file
+peazip-extract-desktop.desktop,file
+peazip-extract-documents.desktop,file
+peazip-extract-downloads.desktop,file
+peazip-extract-here.desktop,file
+peazip-extract-smart.desktop,file
+peazip-extract.desktop,file
+peazip-icon-green.ico,file
+peazip-kde6-minimal.desktop,file
+peazip-kde6.desktop,file
+peazip-open.desktop,file
+peazip-reset.bat,file
+peazip-reset.sh,file
+peazip-setup_script-configure.iss,file
+peazip-setup_script_WIN64.iss,file
+peazip-setup_script_WINDOWS.iss,file
+peazip-sources,dir
+peazip.ai,file
+peazip.desktop,file
+peazip.ico,file
+peazip.png,file
+peazip.rc,file
+peazip.res,file
+peazip.svg,file
+peazip16.ico,file
+peazip_7z.png,file
+peazip_add.png,file
+peazip_add_alt.png,file
+peazip_alt.png,file
+peazip_app.png,file
+peazip_block.png,file
+peazip_browse.png,file
+peazip_cd.png,file
+peazip_convert.png,file
+peazip_extract.png,file
+peazip_extract_alt.png,file
+peazip_help.pdf,file
+peazip_package.png,file
+peazip_rar.png,file
+peazip_seven.icl,file
+peazip_zip.png,file
+peazipadd.desktop,file
+peazipconvert.desktop,file
+peazipext.desktop,file
+peazipextfolder.desktop,file
+peazipexthere.desktop,file
+peazipmac.icns,file
+peazipmac.png,file
+peazipopen.desktop,file
+pl,dir
+pl.reg,file
+pl.txt,file
+place 7z binary here.txt,file
+place arc binary here.txt,file
+place brotli binary here.txt,file
+place lpaq binary here.txt,file
+place paq binary here.txt,file
+place quad binary here.txt,file
+place upx binary here.txt,file
+place zpaq binary here.txt,file
+place zstd binary here.txt,file
+portable,file
+ppas.bat,file
+ppp.pas,file
+presets,dir
+project.assets.json,file
+project.nuget.cache,file
+project_demo_lib.lpi,file
+project_demo_lib.lpr,file
+project_pea.ico,file
+project_pea.lpi,file
+project_pea.lpr,file
+project_pea.manifest,file
+project_pea.obj,file
+project_pea.rc,file
+project_pea.res,file
+project_peach.ico,file
+project_peach.lpi,file
+project_peach.lpr,file
+project_peach.manifest,file
+project_peach.obj,file
+project_peach.rc,file
+project_peach.res,file
+pt-br,dir
+pt-br.reg,file
+pt-br.txt,file
+pt-pt,dir
+pt-pt.reg,file
+pt-pt.txt,file
+quad,dir
+readme,dir
+readme mini context menu.txt,file
+readme-SendTo.txt,file
+readme-batch.txt,file
+readme-bin.txt,file
+readme-dragdropfilesdll.txt,file
+readme-icons.txt,file
+readme-pack.txt,file
+readme-res.txt,file
+readme.aes,file
+readme.crc,file
+readme.eng,file
+readme.fca,file
+readme.ger,file
+readme.tf,file
+readme.txt,file
+readme.utl,file
+readme_Linux.txt,file
+readme_Windows.txt,file
+readme_about_translations.txt,file
+readme_about_windows_context_menu.txt,file
+readme_freedesktop_integration.txt,file
+readme_macOS.txt,file
+registermetadarkstyledsgn.pas,file
+remove PeaZip entries.reg,file
+res,dir
+rfs_utils.pas,file
+rmd160.pas,file
+ro.txt,file
+ru,dir
+ru.reg,file
+ru.txt,file
+samples.zip,file
+scrypt.pas,file
+sh,dir
+sha1.pas,file
+sha224.pas,file
+sha256.pas,file
+sha256unroll.zip,file
+sha3.pas,file
+sha384.pas,file
+sha3_224.pas,file
+sha3_256.pas,file
+sha3_384.pas,file
+sha3_512.pas,file
+sha512.pas,file
+sha5_224.pas,file
+sha5_256.pas,file
+share,dir
+si.txt,file
+sk.txt,file
+sl,dir
+sl.reg,file
+sl.txt,file
+sort.pas,file
+sp_base.pas,file
+sp_cbc.pas,file
+sp_cfb.pas,file
+sp_ctr.pas,file
+sp_dll.dpr,file
+sp_dll.res,file
+sp_eax.pas,file
+sp_ecb.pas,file
+sp_intf.pas,file
+sp_intv.pas,file
+sp_ofb.pas,file
+sp_omac.pas,file
+sp_seek.inc,file
+src,dir
+src.bat,file
+std.inc,file
+sv,dir
+sv.reg,file
+sv.txt,file
+t_1mio_a.pas,file
+t_512mb.pas,file
+t_adler.pas,file
+t_aes_as.pas,file
+t_aes_cs.pas,file
+t_aes_ws.pas,file
+t_aes_xl.pas,file
+t_aescbc.pas,file
+t_aesccm.pas,file
+t_aescf8.pas,file
+t_aescfb.pas,file
+t_aescrp.pas,file
+t_aesctr.pas,file
+t_aesecb.pas,file
+t_aesgcm.pas,file
+t_aesofb.pas,file
+t_aestab.pas,file
+t_all.pas,file
+t_all_xl.pas,file
+t_allxl.pas,file
+t_bas2na.dpr,file
+t_bas2na.pas,file
+t_base2n.pas,file
+t_base64.pas,file
+t_bcrc32.pas,file
+t_bcrc64.pas,file
+t_bitar3.pas,file
+t_bitarr.pas,file
+t_btypes.pas,file
+t_by4.pas,file
+t_cbccts.pas,file
+t_cmac.pas,file
+t_cmodel.pas,file
+t_cprf.pas,file
+t_crc16.pas,file
+t_crc24.pas,file
+t_crc24c.pas,file
+t_crc32.pas,file
+t_crc64.pas,file
+t_ctab24.pas,file
+t_ctab64.pas,file
+t_cv.pas,file
+t_cyccnt.pas,file
+t_cycenc.pas,file
+t_dates.pas,file
+t_decrsp.pas,file
+t_eax1.pas,file
+t_eax2.pas,file
+t_ecbcts.pas,file
+t_ed2k.pas,file
+t_ed2kv.pas,file
+t_encrsp.pas,file
+t_fbmodi.pas,file
+t_fcrc32.pas,file
+t_fcs.pas,file
+t_fcs256.pas,file
+t_fct.pas,file
+t_fct256.pas,file
+t_fio.pas,file
+t_fnstr.pas,file
+t_gsp128.pas,file
+t_gspeed.pas,file
+t_hmac.pas,file
+t_hmac2.pas,file
+t_hmac3.pas,file
+t_hmacob.pas,file
+t_hmsha3.pas,file
+t_hotp.pas,file
+t_hrt.pas,file
+t_kderiv.pas,file
+t_kdf.c,file
+t_kdf.pas,file
+t_mcst.pas,file
+t_mctful.pas,file
+t_md4.pas,file
+t_md5.pas,file
+t_mkctab.pas,file
+t_mstat.pas,file
+t_oid.pas,file
+t_omac.pas,file
+t_pbkdf.pas,file
+t_ppp.pas,file
+t_rmd160.pas,file
+t_scrypt.pas,file
+t_self1.zip,file
+t_sha1.pas,file
+t_sha224.pas,file
+t_sha256.pas,file
+t_sha384.pas,file
+t_sha3_1.pas,file
+t_sha3_2.pas,file
+t_sha512.pas,file
+t_shak01.pas,file
+t_shak02.pas,file
+t_sick.pas,file
+t_sort.pas,file
+t_sp_csk.pas,file
+t_sp_cts.pas,file
+t_sp_cyc.pas,file
+t_sp_eax.pas,file
+t_sp_ws.pas,file
+t_sp_xl.pas,file
+t_speed.pas,file
+t_speeda.pas,file
+t_speedb.ini,file
+t_speedb.pas,file
+t_spomac.pas,file
+t_tf01.pas,file
+t_tf02.pas,file
+t_tf_csk.pas,file
+t_tf_eax.pas,file
+t_tf_ws.pas,file
+t_tf_xl.pas,file
+t_tfcycl.pas,file
+t_tfomac.pas,file
+t_whirl.pas,file
+t_whirlb.pas,file
+t_xts.pas,file
+tbigsha2.pas,file
+tcrc16.dpr,file
+tcrc16.res,file
+tcrc16u.dfm,file
+tcrc16u.pas,file
+ten.theme.7z,file
+tf_base.pas,file
+tf_cbc.pas,file
+tf_cfb.pas,file
+tf_ctr.pas,file
+tf_dll.dof,file
+tf_dll.dpr,file
+tf_dll.res,file
+tf_eax.pas,file
+tf_ecb.pas,file
+tf_intf.pas,file
+tf_intv.pas,file
+tf_ofb.pas,file
+tf_omac.pas,file
+tf_seek.inc,file
+themes,dir
+third-parties,dir
+tj.txt,file
+tr,dir
+tr.reg,file
+tr.txt,file
+tsc.pas,file
+tux.theme.7z,file
+tuxedo-alt.theme.7z,file
+tuxedo.theme.7z,file
+tv_hmac-sha3.txt,file
+udarkstyle.pas,file
+udarkstyleparams.pas,file
+udarkstyleschemes.pas,file
+udarkstyleschemesadditional.pas,file
+udarkstyleschemesloader.pas,file
+uimport.pas,file
+uk,dir
+uk.reg,file
+uk.txt,file
+umetadarkstyle.pas,file
+unit1.lfm,file
+unit1.lrs,file
+unit1.pas,file
+unit10.lfm,file
+unit10.lrs,file
+unit10.pas,file
+unit11.lfm,file
+unit11.lrs,file
+unit11.pas,file
+unit12.lfm,file
+unit12.lrs,file
+unit12.pas,file
+unit13.lfm,file
+unit13.lrs,file
+unit13.pas,file
+unit14.lfm,file
+unit14.lrs,file
+unit14.pas,file
+unit2.lfm,file
+unit2.lrs,file
+unit2.pas,file
+unit3.lfm,file
+unit3.lrs,file
+unit3.pas,file
+unit5.lfm,file
+unit5.lrs,file
+unit5.pas,file
+unit6.lfm,file
+unit6.lrs,file
+unit6.pas,file
+unit7.lfm,file
+unit7.lrs,file
+unit7.pas,file
+unit8.lfm,file
+unit8.lrs,file
+unit8.pas,file
+unit9.lfm,file
+unit9.lrs,file
+unit9.pas,file
+unit_demo_lib.lfm,file
+unit_demo_lib.lrs,file
+unit_demo_lib.pas,file
+unit_gwrap.lfm,file
+unit_gwrap.lrs,file
+unit_gwrap.pas,file
+unit_pea.lfm,file
+unit_pea.lrs,file
+unit_pea.pas,file
+unit_report.lfm,file
+unit_report.lrs,file
+unit_report.pas,file
+unitdragdropfilesdll.lfm,file
+unitdragdropfilesdll.pas,file
+upx,dir
+upx note.txt,file
+use,dir
+util.cnt,file
+util.hlp,file
+util.icon.cpp,file
+util.icon.ixx,file
+util.pas,file
+util.registry.cpp,file
+util.registry.ixx,file
+util.tph,file
+uwin32widgetsetdark.pas,file
+uz.txt,file
+vn.txt,file
+whirl512.pas,file
+windres_pea.bat,file
+windres_peazip.bat,file
+workflows,dir
+zh-Hans,dir
+zh-Hant,dir
+zip-bzip2.txt,file
+zpaq,dir
+zpaq note.txt,file
+zpaq.txt,file
+zstandard.txt,file
+zstd,dir
+zstd note.txt,file

@@ -1,0 +1,11 @@
+name,type
+LICENSE,file
+README.md,file
+blogs.md,file
+books.md,file
+courses.md,file
+meetups.md,file
+ml-curriculum.md,file
+pull_R_packages.py,file
+requirements.txt,file
+scripts,dir

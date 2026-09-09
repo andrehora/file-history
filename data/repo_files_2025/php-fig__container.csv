@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+.gitignore,file
+ContainerExceptionInterface.php,file
+ContainerInterface.php,file
+LICENSE,file
+NotFoundExceptionInterface.php,file
+README.md,file
+composer.json,file
+src,dir

@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.npmignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+index.js,file
+package.json,file
+src,dir
+test,dir
+utils.js,file

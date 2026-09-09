@@ -1,0 +1,25 @@
+name,type
+.gitattributes,file
+LICENSE,file
+README.md,file
+__init__.py,file
+activation,dir
+activation.py,file
+chapter 11.py,file
+chapter5.py,file
+chapter6.py,file
+chapter7.py,file
+chapter8.py,file
+chapter9.py,file
+code,dir
+contents.txt,file
+cover.jpg,file
+docs,dir
+method,dir
+optimizer,dir
+optimizer.py,file
+pay.jpg,file
+reference.txt,file
+update.txt,file
+weight,dir
+weight.py,file

@@ -1,0 +1,12 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.travis.yml,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE.md,file
+LICENSE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+package.json,file

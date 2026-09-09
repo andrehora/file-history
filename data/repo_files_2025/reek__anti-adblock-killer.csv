@@ -1,0 +1,9 @@
+name,type
+.gitattributes,file
+.gitignore,file
+CONTRIBUTING.md,file
+LICENSE,file
+README.md,file
+anti-adblock-killer-filters.txt,file
+anti-adblock-killer-icon.png,file
+anti-adblock-killer.user.js,file

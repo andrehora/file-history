@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+ci.yml,file
+contributing.md,file
+deta.svg,file
+expired-links.yml,file
+fastapi-logo.png,file
+images,dir
+markdown-links-config.json,file
+testdriven.svg,file
+workflows,dir

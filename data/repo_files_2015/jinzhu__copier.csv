@@ -1,0 +1,5 @@
+name,type
+Guardfile,file
+README.md,file
+copier.go,file
+copier_test.go,file

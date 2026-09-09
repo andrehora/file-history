@@ -1,0 +1,774 @@
+name,type
+.github,dir
+.gitignore,file
+.swiftlint.yml,file
+1200px-Closest_pair_of_points.png,file
+2D,dir
+2Sum.playground,dir
+3Sum and 4Sum,dir
+3Sum.playground,dir
+4Sum.playground,dir
+6ABF2F62-9363-4450-8DE1-D20F57026950.plist,file
+APSP,dir
+APSP.h,file
+APSP.playground,dir
+APSP.swift,file
+APSP.xcodeproj,dir
+APSP.xcscheme,file
+APSP.xcworkspace,dir
+APSPTests,dir
+APSPTests.swift,file
+APSPTests.xcscheme,file
+AVL Tree,dir
+AVLTree.playground,dir
+AVLTree.swift,file
+AVLTreeTests.swift,file
+AdjacencyList.graffle,file
+AdjacencyList.png,file
+AdjacencyListGraph.swift,file
+AdjacencyMatrix.graffle,file
+AdjacencyMatrix.png,file
+AdjacencyMatrixGraph.swift,file
+AfterFind.png,file
+AfterUnion.png,file
+Algorithm Design.markdown,file
+Algorithms.graffle,file
+Algorithms.png,file
+All-Pairs Shortest Paths,dir
+AnimatedExample.gif,file
+AnimatedExample.graffle,file
+AnimatedExample.psd,file
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+Array.graffle,file
+Array.png,file
+Array2D,dir
+Array2D.playground,dir
+Array2D.swift,file
+Array2DTests.swift,file
+Assets.xcassets,dir
+B-Tree,dir
+BTree.playground,dir
+BTree.swift,file
+BTree20.png,file
+BTreeNodeTests.swift,file
+BTreeTests.swift,file
+BalanceNotOK.graffle,file
+BalanceNotOK.png,file
+BalanceOK.graffle,file
+BalanceOK.png,file
+Balanced.graffle,file
+Balanced.png,file
+Base.lproj,dir
+Base.png,file
+BeforeFind.png,file
+BeforeUnion.png,file
+BellmanFord.swift,file
+Big-O Notation.markdown,file
+Binary Search,dir
+Binary Search Tree,dir
+Binary Tree,dir
+BinarySearch.playground,dir
+BinarySearch.swift,file
+BinarySearchTests.swift,file
+BinarySearchTree.playground,dir
+BinarySearchTree.swift,file
+BinarySearchTreeTests.swift,file
+BinaryTree.graffle,file
+BinaryTree.playground,dir
+BinaryTree.png,file
+BinaryTree.swift,file
+Bit Set,dir
+BitSet.playground,dir
+BitSet.swift,file
+Bloom Filter,dir
+BloomFilter.playground,dir
+BloomFilter.swift,file
+BloomFilterTests.swift,file
+Bounded Priority Queue,dir
+BoundedPriorityQueue.playground,dir
+BoundedPriorityQueue.swift,file
+BoundedPriorityQueueTests.swift,file
+Boyer-Moore-Horspool,dir
+BoyerMooreHorspool.playground,dir
+BoyerMooreHorspool.swift,file
+BoyerMooreHorspoolTests.swift,file
+BoyerMooreTests.swift,file
+Breadth-First Search,dir
+BreadthFirstSearch.playground,dir
+BreadthFirstSearch.swift,file
+BreadthFirstSearchTests.swift,file
+Brute-Force String Search,dir
+BruteForceStringSearch.playground,dir
+BruteForceStringSearch.swift,file
+Bubble Sort,dir
+BubbleSort.swift,file
+Bucket Sort,dir
+BucketSort.playground,dir
+BucketSort.png,file
+BucketSort.swift,file
+BuildTree.gif,file
+BuildTree.graffle,file
+BuildTree.psd,file
+CONTRIBUTING.md,file
+Case.png,file
+ChordMap.graffle,file
+ChordMap.png,file
+Closest Pair,dir
+ClosestPair.playground,dir
+Comb Sort,dir
+Comb Sort.playground,dir
+Comb Sort.swift,file
+CombSortTests.swift,file
+Combinatorics,dir
+Combinatorics.playground,dir
+CombineSets.graffle,file
+CombineSets.png,file
+Compression.graffle,file
+Compression.png,file
+Contents.json,file
+Contents.swift,file
+Convex Hull,dir
+Convex Hull.xcodeproj,dir
+CopiedIndirectStorage.png,file
+CoreData.graffle,file
+CoreData.png,file
+Count Occurrences,dir
+CountOccurrences.playground,dir
+CountOccurrences.swift,file
+Counting Sort,dir
+CountingSort.playground,dir
+CountingSort.swift,file
+CountingSortTest.swift,file
+CustomUI,dir
+Cycles.graffle,file
+Cycles.png,file
+DAG.graffle,file
+DAG.png,file
+DataStructuresAndAlgorithmsInSwiftBook.png,file
+Decompression.graffle,file
+Decompression.png,file
+DeleteLeaf.graffle,file
+DeleteLeaf.png,file
+DeleteOneChild.graffle,file
+DeleteOneChild.png,file
+DeleteTwoChildren.graffle,file
+DeleteTwoChildren.png,file
+Demo1.graffle,file
+Demo1.png,file
+Depth-First Search,dir
+DepthFirstSearch.playground,dir
+DepthFirstSearch.swift,file
+DepthFirstSearchTests.swift,file
+Deque,dir
+Deque-Optimized.swift,file
+Deque-Simple.swift,file
+Deque.playground,dir
+Dijkstra Algorithm,dir
+Dijkstra.playground,dir
+Dijkstra.swift,file
+DiningPhilosophers,dir
+DiningPhilosophers.xcodeproj,dir
+DiningPhilosophers.xcscheme,file
+DirectedGraph.png,file
+Docs,dir
+EB798E0A1DFEF79900F0628D.xcbaseline,dir
+Edge.o,file
+Edge.swift,file
+EdgeRepresentation.swift,file
+EditGraph.png,file
+EditGraph_k_move.png,file
+Egg Drop Problem,dir
+EggDrop.playground,dir
+EggDrop.swift,file
+Encode and Decode Tree,dir
+EncodeAndDecodeTree.playground,dir
+EncodeAndDecodeTree.swift,file
+EqualSegments.png,file
+ErrorView.swift,file
+Example 1.xcplaygroundpage,dir
+Example 2.xcplaygroundpage,dir
+Example 3.xcplaygroundpage,dir
+Example.graffle,file
+Example.png,file
+Fixed Size Array,dir
+FixedSizeArray.playground,dir
+FixedSizeArrays.graffle,file
+Fizz Buzz,dir
+FizzBuzz.playground,dir
+FizzBuzz.swift,file
+Flights.graffle,file
+Flights.png,file
+FlightsDirected.graffle,file
+FlightsDirected.png,file
+FloydWarshall.swift,file
+Full.png,file
+GCD,dir
+GCD.playground,dir
+GCD.swift,file
+Genetic,dir
+Graph,dir
+Graph.graffle,file
+Graph.h,file
+Graph.o,file
+Graph.playground,dir
+Graph.png,file
+Graph.sketch,file
+Graph.swift,file
+Graph.xcodeproj,dir
+Graph.xcscheme,file
+Graph.xcworkspace,dir
+GraphColors.swift,file
+GraphResult.graffle,file
+GraphResult.png,file
+GraphTests,dir
+GraphTests.swift,file
+GraphTests.xcscheme,file
+GraphView.swift,file
+Hash Set,dir
+Hash Table,dir
+HashSet.playground,dir
+HashSet.swift,file
+HashTable.playground,dir
+HashTable.swift,file
+Hashed Heap,dir
+Hashed Heap Tests.xcodeproj,dir
+Hashed Heap Tests.xcscheme,file
+HashedHeap.swift,file
+HashedHeapTests.swift,file
+HaversineDistance,dir
+HaversineDistance.playground,dir
+Heap,dir
+Heap Sort,dir
+Heap.swift,file
+Heap1.graffle,file
+Heap1.png,file
+HeapShape.graffle,file
+HeapShape.png,file
+HeapSort.swift,file
+HeapSortTests.swift,file
+HeapTests.swift,file
+Height.graffle,file
+Height.png,file
+Helpers.swift,file
+Huffman Coding,dir
+Huffman.playground,dir
+Huffman.swift,file
+IDEWorkspaceChecks.plist,file
+ISSUE_TEMPLATE.md,file
+Images,dir
+Info.plist,file
+Insert1.graffle,file
+Insert1.png,file
+Insert10.png,file
+Insert11.png,file
+Insert12.png,file
+Insert2.graffle,file
+Insert2.png,file
+Insert3.graffle,file
+Insert3.png,file
+Insert4.png,file
+Insert5.png,file
+Insert6.png,file
+Insert8.png,file
+Insert9.png,file
+Insertion Sort,dir
+InsertionSort.playground,dir
+InsertionSort.swift,file
+InsertionSortTests.swift,file
+InsertionSplit.png,file
+Intro.png,file
+IntroSort.swift,file
+Introsort,dir
+Introsort.playground,dir
+InvalidSort.graffle,file
+InvalidSort.png,file
+K-Means,dir
+KMeans.swift,file
+KMeansTests.swift,file
+Karatsuba Multiplication,dir
+KaratsubaMultiplication.playground,dir
+KaratsubaMultiplication.swift,file
+KaratsubaMultiplicationTests.swift,file
+KeyValuePair.swift,file
+Knuth-Morris-Pratt,dir
+KnuthMorrisPratt.playground,dir
+KnuthMorrisPratt.swift,file
+Kruskal.swift,file
+Kth Largest Element,dir
+LICENSE,file
+LICENSE.txt,file
+LRU Cache,dir
+LRUCache.playground,dir
+LRUCache.swift,file
+LargeHeap.graffle,file
+LargeHeap.png,file
+LaunchScreen.storyboard,file
+LazyPropagation,dir
+LazyPropagation.playground,dir
+LeftSegment.png,file
+Line2D.swift,file
+Linear Regression,dir
+Linear Search,dir
+LinearRegression.playground,dir
+LinearSearch.playground,dir
+LinearSearch.swift,file
+Linked List,dir
+LinkedList.playground,dir
+LinkedList.swift,file
+LinkedListTests.swift,file
+LinuxMain.swift,file
+Longest Common Subsequence,dir
+LongestCommonSubsequence.playground,dir
+LongestCommonSubsequence.swift,file
+LongestCommonSubsequenceTests.swift,file
+MRPrimality.playground,dir
+MRPrimality.swift,file
+Main.storyboard,file
+Matrix.swift,file
+MaxHeap.graffle,file
+MaxHeap.png,file
+Maximum.swift,file
+MaximumTests.swift,file
+Merge Sort,dir
+MergeSort.playground,dir
+MergeSort.swift,file
+MergingNodes.png,file
+Miller-Rabin Primality Test,dir
+MillerRabin.swift,file
+Minimum Edit Distance,dir
+Minimum Spanning Tree,dir
+Minimum Spanning Tree (Unweighted),dir
+Minimum spanning tree example.xcplaygroundpage,dir
+Minimum.swift,file
+MinimumCoinChange,dir
+MinimumCoinChange.swift,file
+MinimumCoinChangeTests,dir
+MinimumCoinChangeTests.swift,file
+MinimumEditDistance.playground,dir
+MinimumMaximum.graffle,file
+MinimumMaximum.png,file
+MinimumMaximumPairs.swift,file
+MinimumMaximumPairsTests.swift,file
+MinimumSpanningTree.playground,dir
+MinimumSpanningTree.png,file
+MinimumSpanningTree.sketch,file
+MinimumSpanningTree.swift,file
+MinimumSpanningTreeTests.swift,file
+MinimumTests.swift,file
+Minimum_Spanning_Tree.png,file
+MixedSegment.png,file
+Monty Hall Problem,dir
+MontyHall.playground,dir
+MovingKey.png,file
+Multiset,dir
+Multiset.playground,dir
+Multiset.swift,file
+MyPlayground.playground,dir
+MyShapeLayer.swift,file
+Myers Difference Algorithm,dir
+MyersDifferenceAlgorithm.playground,dir
+MyersDifferenceAlgorithm.swift,file
+NSData+Bits.swift,file
+Naive Bayes Classifier,dir
+NaiveBayes.playground,dir
+NaiveBayes.swift,file
+Node.o,file
+Node.png,file
+Node.swift,file
+Number.swift,file
+Octree,dir
+Octree.playground,dir
+Octree.swift,file
+Operations.graffle,file
+Operations.png,file
+Ordered Array,dir
+Ordered Set,dir
+OrderedArray.playground,dir
+OrderedArray.swift,file
+OrderedSet.playground,dir
+OrderedSet.swift,file
+PULL_REQUEST_TEMPLATE.md,file
+Package.swift,file
+Pages,dir
+Palindrome.swift,file
+Palindromes,dir
+Palindromes.playground,dir
+ParentChildren.graffle,file
+ParentChildren.png,file
+Partial.png,file
+Partition.swift,file
+Pause.png,file
+Player.swift,file
+Point2D.swift,file
+Points Lines Planes,dir
+Points Lines Planes.xcodeproj,dir
+Prim.swift,file
+Priority Queue,dir
+PriorityQueue.swift,file
+PriorityQueueTests.swift,file
+QuadTree,dir
+QuadTree.playground,dir
+QuadTree.swift,file
+Queue,dir
+Queue-Optimized.swift,file
+Queue-Simple.swift,file
+Queue.playground,dir
+Queue.swift,file
+QueueTests.swift,file
+Quicksort,dir
+Quicksort.playground,dir
+Quicksort.swift,file
+QuicksortTests.swift,file
+README.markdown,file
+README.md,file
+RLE.playground,dir
+RLE.swift,file
+Rabin-Karp,dir
+Rabin-Karp.playground,dir
+Radix Sort,dir
+Radix Tree,dir
+RadixSort.playground,dir
+RadixSortExample.swift,file
+RadixSortTests.swift,file
+RadixTree.playground,dir
+RadixTree.swift,file
+Random.swift,file
+RandomArrayOfSets.swift,file
+Randomize.swift,file
+ReadMe.md,file
+Readme.md,file
+Red-Black Tree,dir
+RedBlackTree.playground,dir
+RedBlackTree.swift,file
+RegularTree.graffle,file
+RegularTree.png,file
+Remove1.graffle,file
+Remove1.png,file
+Remove2.graffle,file
+Remove2.png,file
+Remove3.graffle,file
+Remove3.png,file
+Remove4.graffle,file
+Remove4.png,file
+Remove5.graffle,file
+Remove5.png,file
+Resources,dir
+RightSegment.png,file
+Ring Buffer,dir
+RingBuffer.playground,dir
+RingBuffer.swift,file
+Rootish Array Stack,dir
+RootishArrayStack.playground,dir
+RootishArrayStack.swift,file
+RootishArrayStackExample.png,file
+RootishArrayStackExample2.png,file
+RootishArrayStackIntro.png,file
+RootishArrayStackTests.swift,file
+RotationStep0.jpg,file
+RotationStep1.jpg,file
+RotationStep2.jpg,file
+RotationStep3.jpg,file
+RoundedButton.swift,file
+Run-Length Encoding,dir
+SSSP,dir
+SSSP.h,file
+SSSP.playground,dir
+SSSP.swift,file
+SSSP.xcodeproj,dir
+SSSP.xcscheme,file
+SSSP.xcworkspace,dir
+SSSPTests,dir
+SSSPTests.swift,file
+SSSPTests.xcscheme,file
+Search1.png,file
+Searching.graffle,file
+Searching.png,file
+Segment Tree,dir
+Segment-tree.png,file
+SegmentTree.playground,dir
+SegmentTree.swift,file
+Select Minimum Maximum,dir
+SelectMinimumMaximum.playground,dir
+Selection Sampling,dir
+Selection Sort,dir
+SelectionSampling.playground,dir
+SelectionSampling.swift,file
+SelectionSort.playground,dir
+SelectionSort.swift,file
+SelectionSortTests.swift,file
+Set Cover (Unweighted),dir
+SetCover.playground,dir
+SetCover.swift,file
+SharedIndirectStorage.png,file
+Shell Sort,dir
+Shell Sort.playground,dir
+ShellSortExample.swift,file
+ShellSortTests.swift,file
+Shortest Path (Unweighted),dir
+Shortest path example.xcplaygroundpage,dir
+ShortestPath.playground,dir
+ShortestPath.swift,file
+ShortestPathTests.swift,file
+Shuffle,dir
+Shuffle.playground,dir
+Shuffle.swift,file
+Shunting Yard,dir
+ShuntingYard.playground,dir
+ShuntingYard.swift,file
+Simple Example.xcplaygroundpage,dir
+Simple example.xcplaygroundpage,dir
+SimpleObjects,dir
+Simulated annealing,dir
+Single-Source Shortest Paths (Weighted),dir
+Singly Linked List,dir
+SinglyLinkedList.playground,dir
+SinglyLinkedList.swift,file
+SinglyLinkedListTests.swift,file
+Skip-List,dir
+SkipList.playground,dir
+SkipList.swift,file
+Slow Sort,dir
+SlowSort.playground,dir
+SlowSort.swift,file
+SocialNetwork.graffle,file
+SocialNetwork.png,file
+Solution 1,dir
+Solution 2,dir
+Sort3.swift,file
+Sorted Set,dir
+SortedArray.graffle,file
+SortedArray.png,file
+SortedSet.playground,dir
+SortedSet.swift,file
+SortingTestHelpers.swift,file
+Sources,dir
+Sparse Table,dir
+Sparse Table.playground,dir
+Splay Tree,dir
+SplayTree.playground,dir
+SplayTree.swift,file
+SplayTreeTests.swift,file
+SplayTreesWorstCaseExamples.svg,file
+Stack,dir
+Stack.playground,dir
+Stack.swift,file
+StackTests.swift,file
+Start.png,file
+StateMachine.graffle,file
+StateMachine.png,file
+Stop.png,file
+Strassen Matrix Multiplication,dir
+StrassensMatrixMultiplication.playground,dir
+Strip.png,file
+Structure.png,file
+SwiftAlgorithm-410-transp.png,file
+TST.playground,dir
+TSTNode.swift,file
+Tasks.graffle,file
+Tasks.png,file
+Ternary Search Tree,dir
+TernarySearchTree.swift,file
+TernarySearchTreeTests.swift,file
+Test,dir
+Test.swift,file
+Test.xcodeproj,dir
+Test.xcscheme,file
+TestHelper.swift,file
+Tests,dir
+Tests-Bridging-Header.h,file
+Tests-Quicksort.xcodeproj,dir
+Tests-Quicksort.xcscheme,file
+Tests.swift,file
+Tests.xcodeproj,dir
+Tests.xcscheme,file
+Threaded Binary Tree,dir
+ThreadedBinaryTree.playground,dir
+ThreadedBinaryTree.swift,file
+Topological Sort,dir
+Topological Sort.playground,dir
+TopologicalSort.graffle,file
+TopologicalSort.png,file
+TopologicalSort1.swift,file
+TopologicalSort2.swift,file
+TopologicalSort3.swift,file
+TopologicalSortTests.swift,file
+TraversalTree.graffle,file
+TraversalTree.png,file
+Traversing.graffle,file
+Traversing.png,file
+Treap,dir
+Treap.swift,file
+Treap.xcodeproj,dir
+TreapCollectionType.swift,file
+TreapMergeSplit.swift,file
+TreapTests,dir
+TreapTests.swift,file
+Tree,dir
+Tree.graffle,file
+Tree.playground,dir
+Tree.png,file
+Tree.swift,file
+Tree1.graffle,file
+Tree1.png,file
+Tree2.graffle,file
+Tree2.png,file
+TreeAndList.graffle,file
+TreeAndList.png,file
+TreeNodeTests.swift,file
+Trie,dir
+Trie.swift,file
+Trie.xcodeproj,dir
+TrieTests,dir
+TrieTests.swift,file
+TrieUITests,dir
+TrieUITests.swift,file
+Two-Sum Problem,dir
+Unbalanced.graffle,file
+Unbalanced.png,file
+Under Construction.markdown,file
+Union-Find,dir
+UnionFind.playground,dir
+UnionFind.swift,file
+UnionFindQuickFind.swift,file
+UnionFindQuickUnion.swift,file
+UnionFindWeightedQuickFind.swift,file
+UnionFindWeightedQuickUnion.swift,file
+UnionFindWeightedQuickUnionPathCompression.swift,file
+UserInterfaceState.xcuserstate,file
+Utils.swift,file
+Vector.swift,file
+Vertex.swift,file
+VertexView.swift,file
+Vertices.png,file
+View.swift,file
+ViewController.swift,file
+VisualizedDijkstra.playground,dir
+WeightedDirectedGraph.png,file
+WeightedDirectedGraphFinal.png,file
+WeightedUndirectedGraph.png,file
+What are Algorithms.markdown,file
+Why Algorithms.markdown,file
+Window.swift,file
+WorkspaceSettings.xcsettings,file
+Z-Algorithm,dir
+ZAlgorithm.swift,file
+ZetaAlgorithm.playground,dir
+ZetaAlgorithm.swift,file
+admin.xcuserdatad,dir
+append.png,file
+array.png,file
+bayes.gif,file
+code_example.png,file
+contents.xcplayground,file
+contents.xcworkspacedata,file
+d0.png,file
+d1.png,file
+d2.png,file
+d3.png,file
+delete-no-copy.png,file
+delete.png,file
+dictionary.txt,file
+eggdrop.png,file
+eggdrop2.png,file
+eurocoins.gif,file
+example-zigzig-1.png,file
+example-zigzig-2.png,file
+example-zigzig-3.png,file
+example-zigzig-4.png,file
+example-zigzig-5.png,file
+example1-1.png,file
+example1-2.png,file
+example1-3.png,file
+example_graph.png,file
+examplezig.svg,file
+examplezig1.png,file
+examplezig2.png,file
+examplezigzig.svg,file
+examplezigzig1.png,file
+examplezigzig2.png,file
+examplezigzig3.png,file
+gen.playground,dir
+gen.swift,file
+gfm-render.sh,file
+graph1.png,file
+graph2.png,file
+graph3.png,file
+idempotency.png,file
+image1.png,file
+image2.png,file
+image3.png,file
+image4.png,file
+image5.png,file
+image6.png,file
+image7.png,file
+images,dir
+img,dir
+img_pseudo.png,file
+indexing.png,file
+insert.png,file
+insert7.png,file
+install_swiftlint.sh,file
+k_means_bad1.png,file
+k_means_bad2.png,file
+k_means_good.png,file
+kruskal.png,file
+kthLargest.playground,dir
+kthLargest.swift,file
+kthLargest.xcscmblueprint,file
+lazy-sample-2.png,file
+main.swift,file
+mean.gif,file
+mst.png,file
+multinomial.gif,file
+negative_cycle_example.png,file
+normal_distribution.gif,file
+original_adjacency_matrix.png,file
+pi0.png,file
+pi1.png,file
+pi2.png,file
+pi3.png,file
+playground.xcworkspace,dir
+prim.png,file
+project.pbxproj,file
+project.xcworkspace,dir
+pushUp.png,file
+pushdown.png,file
+quadtree.png,file
+query.png,file
+query_example.png,file
+rabin-karp.swift,file
+radixSort.swift,file
+radixtree.png,file
+readme.md,file
+recursion.png,file
+recursion_examples.png,file
+scheme-settings-for-travis.png,file
+shellsort.swift,file
+simann.swift,file
+simann_example.swift,file
+standard_deviation.gif,file
+structure.png,file
+structure_examples.png,file
+tennis_dataset.png,file
+timeline.xctimeline,file
+trie.png,file
+weight_comparison_formula.png,file
+wine.csv,file
+worst-case-1.png,file
+worst-case-2.png,file
+worst-case-3.png,file
+worst-case-4.png,file
+worst-case-5.png,file
+worst-case-6.png,file
+xcbaselines,dir
+xcschememanagement.plist,file
+xcschemes,dir
+xcshareddata,dir
+xcuserdata,dir
+zig.png,file
+zigzag1.png,file
+zigzag2.png,file
+zigzig-wrongrotated.png,file
+zigzig1.png,file
+zigzig2.png,file

@@ -1,0 +1,12 @@
+name,type
+LICENSE.md,file
+README.md,file
+bower.json,file
+component.json,file
+favicon.png,file
+index.html,file
+package.json,file
+randomColor.js,file
+style.css,file
+tests,dir
+tests.js,file

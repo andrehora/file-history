@@ -1,0 +1,7 @@
+name,type
+.editorConfig,file
+.gitignore,file
+CODEOWNERS,file
+CODE_OF_CONDUCT.md,file
+LICENSE,file
+README.md,file

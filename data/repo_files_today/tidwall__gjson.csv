@@ -1,0 +1,14 @@
+name,type
+.github,dir
+LICENSE,file
+README.md,file
+SYNTAX.md,file
+gjson.go,file
+gjson_test.go,file
+go.mod,file
+go.sum,file
+go.yml,file
+images,dir
+logo-dark.png,file
+logo-light.png,file
+workflows,dir

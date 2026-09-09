@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+LICENSE.txt,file
+README.md,file
+bower.json,file
+index.htm,file
+js,dir
+main.css,file
+typed.js,file

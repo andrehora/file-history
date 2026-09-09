@@ -1,0 +1,16 @@
+name,type
+LICENSE,file
+PT-BR.md,file
+README.md,file
+above-the-fold-1.png,file
+above-the-fold-2.png,file
+assets,dir
+i18n,dir
+it-IT.md,file
+mk-MK.md,file
+modularity-1.png,file
+modularity-2.png,file
+sublime-angular-snippets.zip,file
+testing-tools.png,file
+webstorm-angular-file-template.settings.jar,file
+zh-CN.md,file

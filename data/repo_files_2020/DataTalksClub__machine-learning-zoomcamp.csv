@@ -1,0 +1,8 @@
+name,type
+02-carprice.ipynb,file
+03-churn.ipynb,file
+04-metrics.ipynb,file
+WA_Fn-UseC_-Telco-Customer-Churn.csv,file
+chapter-02-car-price,dir
+chapter-03-churn-prediction,dir
+data.csv,file

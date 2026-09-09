@@ -1,0 +1,8 @@
+name,type
+.gitignore,file
+LICENSE,file
+README.md,file
+jimp.js,file
+lenna.png,file
+package.json,file
+resize.js,file

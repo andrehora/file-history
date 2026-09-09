@@ -1,0 +1,32 @@
+name,type
+.gitignore,file
+LICENSE.txt,file
+README.md,file
+apA.md,file
+apB.md,file
+apC.md,file
+apD.md,file
+async & performance,dir
+ch1.md,file
+ch2.md,file
+ch3.md,file
+ch4.md,file
+ch5.md,file
+ch6.md,file
+ch7.md,file
+ch8.md,file
+cover.jpg,file
+es6 & beyond,dir
+fig1.png,file
+fig2.png,file
+fig3.png,file
+fig4.png,file
+fig5.png,file
+fig6.png,file
+foreword.md,file
+preface.md,file
+scope & closures,dir
+this & object prototypes,dir
+toc.md,file
+types & grammar,dir
+up & going,dir

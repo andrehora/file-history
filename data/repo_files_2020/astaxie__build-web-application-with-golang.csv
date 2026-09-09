@@ -1,0 +1,518 @@
+name,type
+.gitignore,file
+01.0.md,file
+01.1.md,file
+01.2.md,file
+01.3.md,file
+01.4.md,file
+01.5.md,file
+02.0.md,file
+02.1.md,file
+02.2.md,file
+02.3.md,file
+02.4.md,file
+02.5.md,file
+02.6.md,file
+02.7.md,file
+02.8.md,file
+03.0.md,file
+03.1.md,file
+03.2.md,file
+03.3.md,file
+03.4.md,file
+03.5.md,file
+04.0.md,file
+04.1.md,file
+04.2.md,file
+04.3.md,file
+04.4.md,file
+04.5.md,file
+04.6.md,file
+05.0.md,file
+05.0.md.orig,file
+05.1.md,file
+05.2.md,file
+05.3.md,file
+05.4.md,file
+05.5.md,file
+05.6.md,file
+05.7.md,file
+06.0.md,file
+06.1.md,file
+06.2.md,file
+06.3.md,file
+06.4.md,file
+06.5.md,file
+07.0.md,file
+07.1.md,file
+07.2.md,file
+07.3.md,file
+07.4.md,file
+07.5.md,file
+07.6.md,file
+07.7.md,file
+08.0.md,file
+08.1.md,file
+08.2.md,file
+08.3.md,file
+08.4.md,file
+08.5.md,file
+09.0.md,file
+09.1.md,file
+09.2.md,file
+09.3.md,file
+09.4.md,file
+09.5.md,file
+09.6.md,file
+09.7.md,file
+1.1.cmd.png,file
+1.1.cmd.png~380a8ee74c41759d8189ad553423467994187253,file
+1.1.cmd.png~update the structure for gitbook,file
+1.1.linux.png,file
+1.1.linux.png~380a8ee74c41759d8189ad553423467994187253,file
+1.1.linux.png~update the structure for gitbook,file
+1.1.mac.png,file
+1.1.mac.png~380a8ee74c41759d8189ad553423467994187253,file
+1.1.mac.png~update the structure for gitbook,file
+1.2,dir
+1.3.go.png,file
+1.3.go.png~380a8ee74c41759d8189ad553423467994187253,file
+1.3.go.png~update the structure for gitbook,file
+1.4.eclipse1.png,file
+1.4.eclipse1.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse1.png~update the structure for gitbook,file
+1.4.eclipse2.png,file
+1.4.eclipse2.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse2.png~update the structure for gitbook,file
+1.4.eclipse3.png,file
+1.4.eclipse3.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse3.png~update the structure for gitbook,file
+1.4.eclipse4.png,file
+1.4.eclipse4.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse4.png~update the structure for gitbook,file
+1.4.eclipse5.png,file
+1.4.eclipse5.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse5.png~update the structure for gitbook,file
+1.4.eclipse6.png,file
+1.4.eclipse6.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.eclipse6.png~update the structure for gitbook,file
+1.4.emacs.png,file
+1.4.emacs.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.emacs.png~update the structure for gitbook,file
+1.4.idea1.png,file
+1.4.idea1.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.idea1.png~update the structure for gitbook,file
+1.4.idea2.png,file
+1.4.idea2.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.idea2.png~update the structure for gitbook,file
+1.4.idea3.png,file
+1.4.idea3.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.idea3.png~update the structure for gitbook,file
+1.4.idea4.png,file
+1.4.idea4.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.idea4.png~update the structure for gitbook,file
+1.4.idea5.png,file
+1.4.idea5.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.idea5.png~update the structure for gitbook,file
+1.4.liteide.png,file
+1.4.liteide.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.liteide.png~update the structure for gitbook,file
+1.4.sublime1.png,file
+1.4.sublime1.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.sublime1.png~update the structure for gitbook,file
+1.4.sublime2.png,file
+1.4.sublime2.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.sublime2.png~update the structure for gitbook,file
+1.4.sublime3.png,file
+1.4.sublime3.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.sublime3.png~update the structure for gitbook,file
+1.4.sublime4.png,file
+1.4.sublime4.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.sublime4.png~update the structure for gitbook,file
+1.4.vim.png,file
+1.4.vim.png~380a8ee74c41759d8189ad553423467994187253,file
+1.4.vim.png~update the structure for gitbook,file
+1.4.vscode1.png,file
+1.4.vscode2.png,file
+1.4.vscode3.png,file
+10.0.md,file
+10.1.md,file
+10.2.md,file
+10.3.md,file
+10.4.md,file
+11.0.md,file
+11.1.md,file
+11.2.md,file
+11.3.md,file
+11.4.md,file
+12.0.md,file
+12.1.md,file
+12.2.md,file
+12.3.md,file
+12.4.md,file
+12.5.md,file
+13.0.md,file
+13.1.flow.png,file
+13.1.gopath.png,file
+13.1.gopath.png~380a8ee74c41759d8189ad553423467994187253,file
+13.1.gopath.png~update the structure for gitbook,file
+13.1.gopath2.png,file
+13.1.gopath2.png~380a8ee74c41759d8189ad553423467994187253,file
+13.1.gopath2.png~update the structure for gitbook,file
+13.1.md,file
+13.2.md,file
+13.3.md,file
+13.4.beego.png,file
+13.4.beego.png~380a8ee74c41759d8189ad553423467994187253,file
+13.4.beego.png~update the structure for gitbook,file
+13.4.md,file
+13.5.md,file
+13.6.md,file
+14.0.md,file
+14.1.bootstrap.png,file
+14.1.bootstrap.png~380a8ee74c41759d8189ad553423467994187253,file
+14.1.bootstrap.png~update the structure for gitbook,file
+14.1.bootstrap2.png,file
+14.1.bootstrap2.png~380a8ee74c41759d8189ad553423467994187253,file
+14.1.bootstrap2.png~update the structure for gitbook,file
+14.1.bootstrap3.png,file
+14.1.bootstrap3.png~380a8ee74c41759d8189ad553423467994187253,file
+14.1.bootstrap3.png~update the structure for gitbook,file
+14.1.md,file
+14.2.md,file
+14.3.md,file
+14.4.github.png,file
+14.4.github.png~380a8ee74c41759d8189ad553423467994187253,file
+14.4.github.png~update the structure for gitbook,file
+14.4.github2.png,file
+14.4.github2.png~380a8ee74c41759d8189ad553423467994187253,file
+14.4.github2.png~update the structure for gitbook,file
+14.4.github3.png,file
+14.4.github3.png~380a8ee74c41759d8189ad553423467994187253,file
+14.4.github3.png~update the structure for gitbook,file
+14.4.md,file
+14.5.md,file
+14.6.md,file
+14.6.pprof.png,file
+14.6.pprof.png~380a8ee74c41759d8189ad553423467994187253,file
+14.6.pprof.png~update the structure for gitbook,file
+14.6.pprof2.png,file
+14.6.pprof2.png~380a8ee74c41759d8189ad553423467994187253,file
+14.6.pprof2.png~update the structure for gitbook,file
+14.6.pprof3.png,file
+14.6.pprof3.png~380a8ee74c41759d8189ad553423467994187253,file
+14.6.pprof3.png~update the structure for gitbook,file
+14.7.md,file
+2.2.array.png,file
+2.2.array.png~380a8ee74c41759d8189ad553423467994187253,file
+2.2.array.png~update the structure for gitbook,file
+2.2.basic.png,file
+2.2.basic.png~380a8ee74c41759d8189ad553423467994187253,file
+2.2.basic.png~update the structure for gitbook,file
+2.2.makenew.png,file
+2.2.makenew.png~380a8ee74c41759d8189ad553423467994187253,file
+2.2.makenew.png~update the structure for gitbook,file
+2.2.slice.png,file
+2.2.slice.png~380a8ee74c41759d8189ad553423467994187253,file
+2.2.slice.png~update the structure for gitbook,file
+2.2.slice2.png,file
+2.2.slice2.png~380a8ee74c41759d8189ad553423467994187253,file
+2.2.slice2.png~update the structure for gitbook,file
+2.3.init.png,file
+2.3.init.png~380a8ee74c41759d8189ad553423467994187253,file
+2.3.init.png~update the structure for gitbook,file
+2.4.student_struct.png,file
+2.4.student_struct.png~380a8ee74c41759d8189ad553423467994187253,file
+2.4.student_struct.png~update the structure for gitbook,file
+2.5.rect_func_without_receiver.png,file
+2.5.rect_func_without_receiver.png~380a8ee74c41759d8189ad553423467994187253,file
+2.5.rect_func_without_receiver.png~update the structure for gitbook,file
+2.5.shapes_func_with_receiver_cp.png,file
+2.5.shapes_func_with_receiver_cp.png~380a8ee74c41759d8189ad553423467994187253,file
+2.5.shapes_func_with_receiver_cp.png~update the structure for gitbook,file
+2.5.shapes_func_without_receiver.png,file
+2.5.shapes_func_without_receiver.png~380a8ee74c41759d8189ad553423467994187253,file
+2.5.shapes_func_without_receiver.png~update the structure for gitbook,file
+3.1.dns2.png,file
+3.1.dns2.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.dns2.png~update the structure for gitbook,file
+3.1.dns2_Ru.png,file
+3.1.dns_hierachy.png,file
+3.1.dns_hierachy.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.dns_hierachy.png~update the structure for gitbook,file
+3.1.dns_inquery.png,file
+3.1.dns_inquery.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.dns_inquery.png~update the structure for gitbook,file
+3.1.http.png,file
+3.1.http.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.http.png~update the structure for gitbook,file
+3.1.httpPOST.png,file
+3.1.httpPOST.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.httpPOST.png~update the structure for gitbook,file
+3.1.response.png,file
+3.1.response.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.response.png~update the structure for gitbook,file
+3.1.web.png,file
+3.1.web.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.web.png~update the structure for gitbook,file
+3.1.web2.png,file
+3.1.web2.png~380a8ee74c41759d8189ad553423467994187253,file
+3.1.web2.png~update the structure for gitbook,file
+3.1.web2_Ru.png,file
+3.2.goweb.png,file
+3.2.goweb.png~380a8ee74c41759d8189ad553423467994187253,file
+3.2.goweb.png~update the structure for gitbook,file
+3.3.http.png,file
+3.3.http.png~380a8ee74c41759d8189ad553423467994187253,file
+3.3.http.png~update the structure for gitbook,file
+3.3.illustrator.png,file
+3.3.illustrator.png~380a8ee74c41759d8189ad553423467994187253,file
+3.3.illustrator.png~update the structure for gitbook,file
+3.3.illustrator_Ru.png,file
+4.1.login.png,file
+4.1.login.png~380a8ee74c41759d8189ad553423467994187253,file
+4.1.login.png~update the structure for gitbook,file
+4.1.slice.png,file
+4.1.slice.png~380a8ee74c41759d8189ad553423467994187253,file
+4.1.slice.png~update the structure for gitbook,file
+4.3.escape.png,file
+4.3.escape.png~380a8ee74c41759d8189ad553423467994187253,file
+4.3.escape.png~update the structure for gitbook,file
+4.4.token.png,file
+4.4.token.png~380a8ee74c41759d8189ad553423467994187253,file
+4.4.token.png~update the structure for gitbook,file
+4.5.upload.png,file
+4.5.upload.png~380a8ee74c41759d8189ad553423467994187253,file
+4.5.upload.png~update the structure for gitbook,file
+4.5.upload2.png,file
+4.5.upload2.png~380a8ee74c41759d8189ad553423467994187253,file
+4.5.upload2.png~update the structure for gitbook,file
+5.6.mongodb.png,file
+5.6.mongodb.png~380a8ee74c41759d8189ad553423467994187253,file
+5.6.mongodb.png~update the structure for gitbook,file
+6.1.cookie.png,file
+6.1.cookie.png~380a8ee74c41759d8189ad553423467994187253,file
+6.1.cookie.png~update the structure for gitbook,file
+6.1.cookie2.png,file
+6.1.cookie2.png~380a8ee74c41759d8189ad553423467994187253,file
+6.1.cookie2.png~update the structure for gitbook,file
+6.1.session.png,file
+6.1.session.png~380a8ee74c41759d8189ad553423467994187253,file
+6.1.session.png~update the structure for gitbook,file
+6.4.cookie.png,file
+6.4.cookie.png~380a8ee74c41759d8189ad553423467994187253,file
+6.4.cookie.png~update the structure for gitbook,file
+6.4.hijack.png,file
+6.4.hijack.png~380a8ee74c41759d8189ad553423467994187253,file
+6.4.hijack.png~update the structure for gitbook,file
+6.4.hijacksuccess.png,file
+6.4.hijacksuccess.png~380a8ee74c41759d8189ad553423467994187253,file
+6.4.hijacksuccess.png~update the structure for gitbook,file
+6.4.setcookie.png,file
+6.4.setcookie.png~380a8ee74c41759d8189ad553423467994187253,file
+6.4.setcookie.png~update the structure for gitbook,file
+7.4.template.png,file
+7.4.template.png~380a8ee74c41759d8189ad553423467994187253,file
+7.4.template.png~update the structure for gitbook,file
+8.1.socket.png,file
+8.1.socket.png~380a8ee74c41759d8189ad553423467994187253,file
+8.1.socket.png~update the structure for gitbook,file
+8.2.websocket.png,file
+8.2.websocket.png~380a8ee74c41759d8189ad553423467994187253,file
+8.2.websocket.png~update the structure for gitbook,file
+8.2.websocket2.png,file
+8.2.websocket2.png~380a8ee74c41759d8189ad553423467994187253,file
+8.2.websocket2.png~update the structure for gitbook,file
+8.2.websocket3.png,file
+8.2.websocket3.png~380a8ee74c41759d8189ad553423467994187253,file
+8.2.websocket3.png~update the structure for gitbook,file
+8.3.rest.png,file
+8.3.rest.png~380a8ee74c41759d8189ad553423467994187253,file
+8.3.rest.png~update the structure for gitbook,file
+8.3.rest2.png,file
+8.3.rest2.png~380a8ee74c41759d8189ad553423467994187253,file
+8.3.rest2.png~update the structure for gitbook,file
+8.3.rest3.png,file
+8.3.rest3.png~380a8ee74c41759d8189ad553423467994187253,file
+8.3.rest3.png~update the structure for gitbook,file
+8.4.rpc.png,file
+8.4.rpc.png~380a8ee74c41759d8189ad553423467994187253,file
+8.4.rpc.png~update the structure for gitbook,file
+8.4.rpc_Ru.png,file
+9.1.csrf.png,file
+9.1.csrf.png~380a8ee74c41759d8189ad553423467994187253,file
+9.1.csrf.png~update the structure for gitbook,file
+LANGS.md,file
+LICENSE.md,file
+README.md,file
+SUMMARY.md,file
+a_herf.go,file
+a_href.py,file
+alipay.png,file
+alipay.png~380a8ee74c41759d8189ad553423467994187253,file
+alipay.png~update the structure for gitbook,file
+apps,dir
+attach_methods_to_struct,dir
+basic_functions,dir
+bn,dir
+box_example,dir
+buffered_channel,dir
+build-web-application-with-golang.azw3,file
+build-web-application-with-golang.epub,file
+build.go,file
+build.sh,file
+build_new.go,file
+build_new.sh,file
+ch.1.2,dir
+ch.2.1,dir
+ch.2.2,dir
+ch.2.3,dir
+ch.2.4,dir
+ch.2.5,dir
+ch.2.6,dir
+ch.2.7,dir
+ch.3.2,dir
+ch.3.4,dir
+ch.4.1,dir
+ch.4.2,dir
+ch.4.3,dir
+ch.4.4,dir
+ch.4.5,dir
+ch.5.2,dir
+ch.5.3,dir
+ch.5.4,dir
+ch.5.5,dir
+ch.5.6,dir
+client_upload,dir
+code,dir
+compare_age,dir
+config,file
+cover.jpg,file
+cover.png,file
+cover.png~380a8ee74c41759d8189ad553423467994187253,file
+cover.png~update the structure for gitbook,file
+de,dir
+eBook,dir
+ebook.jpg,file
+ebook.jpg~380a8ee74c41759d8189ad553423467994187253,file
+ebook.jpg~update the structure for gitbook,file
+embedded_method,dir
+embedded_structs,dir
+embedded_structs2,dir
+embedded_structs_with_name_conflict,dir
+en,dir
+es,dir
+fa,dir
+foo.db,file
+fr,dir
+glossary.md,file
+goroutine,dir
+hidden_print_methods,dir
+images,dir
+import_packages,dir
+index.gtpl,file
+interface,dir
+ja,dir
+login.gtpl,file
+main.go,file
+main.go~HEAD,file
+main.go~eead24cf064976b648de5826eab51880c803b0fa,file
+method_overload,dir
+mongodb,dir
+mymath,dir
+navi1.png,file
+navi1.png~380a8ee74c41759d8189ad553423467994187253,file
+navi1.png~update the structure for gitbook,file
+navi10.png,file
+navi10.png~380a8ee74c41759d8189ad553423467994187253,file
+navi10.png~update the structure for gitbook,file
+navi10_Ru.png,file
+navi11.png,file
+navi11.png~380a8ee74c41759d8189ad553423467994187253,file
+navi11.png~update the structure for gitbook,file
+navi11_Ru.png,file
+navi12.png,file
+navi12.png~380a8ee74c41759d8189ad553423467994187253,file
+navi12.png~update the structure for gitbook,file
+navi12_Ru.png,file
+navi13.png,file
+navi13.png~380a8ee74c41759d8189ad553423467994187253,file
+navi13.png~update the structure for gitbook,file
+navi13_Ru.png,file
+navi14.png,file
+navi14.png~380a8ee74c41759d8189ad553423467994187253,file
+navi14.png~update the structure for gitbook,file
+navi14_Ru.png,file
+navi1_Ru.png,file
+navi2.png,file
+navi2.png~380a8ee74c41759d8189ad553423467994187253,file
+navi2.png~update the structure for gitbook,file
+navi2_Ru.png,file
+navi3.png,file
+navi3.png~380a8ee74c41759d8189ad553423467994187253,file
+navi3.png~update the structure for gitbook,file
+navi3_Ru.png,file
+navi4.png,file
+navi4.png~380a8ee74c41759d8189ad553423467994187253,file
+navi4.png~update the structure for gitbook,file
+navi4_Ru.png,file
+navi5.png,file
+navi5.png~380a8ee74c41759d8189ad553423467994187253,file
+navi5.png~update the structure for gitbook,file
+navi5_Ru.png,file
+navi6.png,file
+navi6.png~380a8ee74c41759d8189ad553423467994187253,file
+navi6.png~update the structure for gitbook,file
+navi6_Ru.png,file
+navi7.png,file
+navi7.png~380a8ee74c41759d8189ad553423467994187253,file
+navi7.png~update the structure for gitbook,file
+navi7_Ru.png,file
+navi8.png,file
+navi8.png~380a8ee74c41759d8189ad553423467994187253,file
+navi8.png~update the structure for gitbook,file
+navi8_Ru.png,file
+navi9.png,file
+navi9.png~380a8ee74c41759d8189ad553423467994187253,file
+navi9.png~update the structure for gitbook,file
+navi9_Ru.png,file
+nonce,dir
+only_call_init,dir
+only_call_init.go,file
+panic_and_recover,dir
+pass_by_value_and_pointer,dir
+pass_struct_to_method,dir
+polling.png,file
+polling.png~380a8ee74c41759d8189ad553423467994187253,file
+polling.png~update the structure for gitbook,file
+preface.md,file
+profile.gtpl,file
+pt-br,dir
+range_and_close_channel,dir
+readme.md,file
+redis,dir
+ref.md,file
+reflection,dir
+ru,dir
+schema.sql,file
+select_channel,dir
+sqrt.go,file
+sqrt.go~HEAD,file
+sqrt.go~eead24cf064976b648de5826eab51880c803b0fa,file
+src,dir
+stringer_interface,dir
+submission.gtpl,file
+switch_type_check,dir
+th,dir
+timeout,dir
+tr,dir
+type_check,dir
+type_function,dir
+unbuffered_channel,dir
+upload.gtpl,file
+validator,dir
+variadic_functions,dir
+what_is_wrong_with_this,dir
+working,dir
+zh,dir
+zh-tw,dir

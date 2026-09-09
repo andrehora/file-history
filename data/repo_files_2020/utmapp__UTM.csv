@@ -1,0 +1,262 @@
+name,type
+.gitmodules,file
+AppDelegate.h,file
+AppDelegate.m,file
+AppIcon.appiconset,dir
+Assets.xcassets,dir
+Base.lproj,dir
+COPYING.LIB,file
+CPU Icon.imageset,dir
+CSConnection.h,file
+CSConnection.m,file
+CSConnectionDelegate.h,file
+CSDisplayMetal.h,file
+CSDisplayMetal.m,file
+CSInput.h,file
+CSInput.m,file
+CSMain.h,file
+CSMain.m,file
+CocoaSpice,dir
+CocoaSpice.h,file
+Configuration,dir
+ConfigurationViews,dir
+Contents.json,file
+Display Icon.imageset,dir
+HDD Icon.imageset,dir
+IDETemplateMacros.plist,file
+Icon.png,file
+Info.plist,file
+Input Icon.imageset,dir
+Keyboard Hide.imageset,dir
+Keyboard Paste.imageset,dir
+LICENSE,file
+LICENSE.txt,file
+LaunchScreen.storyboard,file
+Main.storyboard,file
+Managers,dir
+Media Icon.imageset,dir
+Networking Icon.imageset,dir
+Play Icon.imageset,dir
+Printer Icon.imageset,dir
+README.md,file
+Renderer,dir
+Resume Icon.imageset,dir
+Share Icon.imageset,dir
+Sound Icon.imageset,dir
+Toolbar Back.imageset,dir
+Toolbar Hide.imageset,dir
+Toolbar Keyboard.imageset,dir
+Toolbar Left.imageset,dir
+Toolbar Maximize.imageset,dir
+Toolbar Minimize.imageset,dir
+Toolbar Pause.imageset,dir
+Toolbar Power.imageset,dir
+Toolbar Resume.imageset,dir
+Toolbar Right.imageset,dir
+Toolbar Settings.imageset,dir
+Toolbar Start.imageset,dir
+Toolbar Stop.imageset,dir
+UTM,dir
+UTM.xcodeproj,dir
+UTMConfiguration.h,file
+UTMConfiguration.m,file
+UTMConfigurationDelegate.h,file
+UTMJSONStream.h,file
+UTMJSONStream.m,file
+UTMJSONStreamDelegate.h,file
+UTMQemu.h,file
+UTMQemu.m,file
+UTMQemuImg.h,file
+UTMQemuImg.m,file
+UTMQemuManager.h,file
+UTMQemuManager.m,file
+UTMQemuManagerDelegate.h,file
+UTMQemuSystem.h,file
+UTMQemuSystem.m,file
+UTMRenderSource.h,file
+UTMRenderer.h,file
+UTMRenderer.m,file
+UTMShaderTypes.h,file
+UTMShaders.metal,file
+UTMVirtualMachine.h,file
+UTMVirtualMachine.m,file
+UTMVirtualMachineDelegate.h,file
+VMConfigCreateViewController.h,file
+VMConfigCreateViewController.m,file
+VMConfigDisplayViewController.h,file
+VMConfigDisplayViewController.m,file
+VMConfigDriveCreateViewController.h,file
+VMConfigDriveCreateViewController.m,file
+VMConfigDriveDetailViewController.h,file
+VMConfigDriveDetailViewController.m,file
+VMConfigDrivePickerViewController.h,file
+VMConfigDrivePickerViewController.m,file
+VMConfigDrivesViewController.h,file
+VMConfigDrivesViewController.m,file
+VMConfigExistingViewController.h,file
+VMConfigExistingViewController.m,file
+VMConfigInputViewController.h,file
+VMConfigInputViewController.m,file
+VMConfigNetworkingViewController.h,file
+VMConfigNetworkingViewController.m,file
+VMConfigNewStorageViewController.m,file
+VMConfigPrintingViewController.h,file
+VMConfigPrintingViewController.m,file
+VMConfigSharingViewController.h,file
+VMConfigSharingViewController.m,file
+VMConfigSoundViewController.h,file
+VMConfigSoundViewController.m,file
+VMConfigSystemViewController.h,file
+VMConfigSystemViewController.m,file
+VMConfigViewController.h,file
+VMConfigViewController.m,file
+VMDisplayMetalViewController.h,file
+VMDisplayMetalViewController.m,file
+VMKeyboardButton.h,file
+VMKeyboardButton.m,file
+VMKeyboardView.h,file
+VMKeyboardView.m,file
+VMKeyboardViewDelegate.h,file
+VMListViewCell.h,file
+VMListViewCell.m,file
+VMListViewController.h,file
+VMListViewController.m,file
+Views,dir
+__init__.py,file
+cf-input-visitor.c,file
+cf-input-visitor.h,file
+cf-output-visitor.c,file
+cf-output-visitor.h,file
+commands.py,file
+common.py,file
+cpu-icon@1x.png,file
+cpu-icon@2x.png,file
+cpu-icon@3x.png,file
+dealloc-visitor.h,file
+display-icon@1x.png,file
+display-icon@2x.png,file
+display-icon@3x.png,file
+doc.py,file
+error.c,file
+error.h,file
+events.py,file
+gendeps.sh,file
+glib-2.55.2.patch,file
+gst-plugins-base-1.15.2.patch,file
+gst_ios_init.h,file
+gst_ios_init.m,file
+gstreamer,dir
+hdd-icon@1x.png,file
+hdd-icon@2x.png,file
+hdd-icon@3x.png,file
+icon_20pt.png,file
+icon_20pt@2x-1.png,file
+icon_20pt@2x.png,file
+icon_20pt@3x.png,file
+icon_29pt.png,file
+icon_29pt@2x-1.png,file
+icon_29pt@2x.png,file
+icon_29pt@3x.png,file
+icon_40pt.png,file
+icon_40pt@2x-1.png,file
+icon_40pt@2x.png,file
+icon_40pt@3x.png,file
+icon_60pt@2x.png,file
+icon_60pt@3x.png,file
+icon_76pt.png,file
+icon_76pt@2x.png,file
+icon_83.5@2x.png,file
+input-icon@1x.png,file
+input-icon@2x.png,file
+input-icon@3x.png,file
+introspect.py,file
+keyboard-hide@1x.png,file
+keyboard-hide@2x.png,file
+keyboard-hide@3x.png,file
+keyboard-paste@1x.png,file
+keyboard-paste@2x.png,file
+keyboard-paste@3x.png,file
+libgcrypt-1.8.4.patch,file
+libpng-1.6.36.patch,file
+main.m,file
+media-icon@1x.png,file
+media-icon@2x.png,file
+media-icon@3x.png,file
+network-icon@1x.png,file
+network-icon@2x.png,file
+network-icon@3x.png,file
+patches,dir
+pauseandresume@1x.png,file
+pauseandresume@2x.png,file
+pauseandresume@3x.png,file
+pixman-0.38.0.patch,file
+play-button@1x.png,file
+play-button@2x.png,file
+play-button@3x.png,file
+printer-icon@1x.png,file
+printer-icon@2x.png,file
+printer-icon@3x.png,file
+project.pbxproj,file
+qapi,dir
+qapi-dealloc-visitor.c,file
+qapi-gen.py,file
+qapi-util.c,file
+qapi-visit-core.c,file
+qemu-4.0.0.patch,file
+qemu-compat.h,file
+qerror.h,file
+queue.h,file
+scripts,dir
+share-icon@1x.png,file
+share-icon@2x.png,file
+share-icon@3x.png,file
+sound-icon@1x.png,file
+sound-icon@2x.png,file
+sound-icon@3x.png,file
+spice-0.14.1.patch,file
+spice-gtk-0.36.patch,file
+toolbar-back@1x.png,file
+toolbar-back@2x.png,file
+toolbar-back@3x.png,file
+toolbar-hide@1x.png,file
+toolbar-hide@2x.png,file
+toolbar-hide@3x.png,file
+toolbar-keyboard@1x.png,file
+toolbar-keyboard@2x.png,file
+toolbar-keyboard@3x.png,file
+toolbar-left@1x.png,file
+toolbar-left@2x.png,file
+toolbar-left@3x.png,file
+toolbar-maximize@1x.png,file
+toolbar-maximize@2x.png,file
+toolbar-maximize@3x.png,file
+toolbar-minimize@1x.png,file
+toolbar-minimize@2x.png,file
+toolbar-minimize@3x.png,file
+toolbar-pause@1x.png,file
+toolbar-pause@2x.png,file
+toolbar-pause@3x.png,file
+toolbar-power@1x.png,file
+toolbar-power@2x.png,file
+toolbar-power@3x.png,file
+toolbar-resume@1x.png,file
+toolbar-resume@2x.png,file
+toolbar-resume@3x.png,file
+toolbar-right@1x.png,file
+toolbar-right@2x.png,file
+toolbar-right@3x.png,file
+toolbar-settings@1x.png,file
+toolbar-settings@2x.png,file
+toolbar-settings@3x.png,file
+toolbar-start@1x.png,file
+toolbar-start@2x.png,file
+toolbar-start@3x.png,file
+toolbar-stop@1x.png,file
+toolbar-stop@2x.png,file
+toolbar-stop@3x.png,file
+types.py,file
+util.h,file
+visit.py,file
+visitor-impl.h,file
+visitor.h,file
+xcshareddata,dir

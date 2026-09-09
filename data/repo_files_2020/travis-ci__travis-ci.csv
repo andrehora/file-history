@@ -1,0 +1,8 @@
+name,type
+.github,dir
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+README.md,file
+issue-close-app.yml,file
+issue_template.md,file
+stale.yml,file

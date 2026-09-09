@@ -1,0 +1,73 @@
+name,type
+.github,dir
+.gitignore,file
+AfterImported.png,file
+Argument.png,file
+Argument.png.meta,file
+AskFeedbackDialog.cs,file
+AskFeedbackDialog.cs.meta,file
+AssetModBlock,dir
+AssetModBlock.meta,file
+ClonesManager.cs,file
+ClonesManager.cs.meta,file
+ClonesManagerWindow.cs,file
+ClonesManagerWindow.cs.meta,file
+CustomArgumentExample.cs,file
+CustomArgumentExample.cs.meta,file
+Editor,dir
+Editor.meta,file
+EditorQuit.cs,file
+EditorQuit.cs.meta,file
+Examples,dir
+Examples.meta,file
+ExternalLinks.cs,file
+ExternalLinks.cs.meta,file
+FileUtilities.cs,file
+FileUtilities.cs.meta,file
+ISSUE_TEMPLATE,dir
+Images,dir
+Images.meta,file
+LICENSE.md,file
+LICENSE.md.meta,file
+NonCore,dir
+NonCore.meta,file
+OtherMenuItem.cs,file
+OtherMenuItem.cs.meta,file
+ParrelSync,dir
+ParrelSync.meta,file
+ParrelSyncAssetModificationProcessor.cs,file
+ParrelSyncAssetModificationProcessor.cs.meta,file
+ParrelSyncProjectSettings.cs,file
+ParrelSyncProjectSettings.cs.meta,file
+Preferences.cs,file
+Preferences.cs.meta,file
+Project.cs,file
+Project.cs.meta,file
+README.md,file
+README.md.meta,file
+ScreenShot 1.png,file
+ScreenShot 1.png.meta,file
+ScreenShot 2.png,file
+ScreenShot 2.png.meta,file
+Showcase 1.gif,file
+Showcase 1.gif.meta,file
+UPM_1.png,file
+UPM_2.png,file
+UpdateButton.png,file
+UpdateButton.png.meta,file
+UpdateChecker.cs,file
+UpdateChecker.cs.meta,file
+VERSION.txt,file
+VERSION.txt.meta,file
+ValidateCopiedFoldersIntegrity.cs,file
+ValidateCopiedFoldersIntegrity.cs.meta,file
+bug_report.md,file
+doc,dir
+doc.meta,file
+feature_request.md,file
+need-help.md,file
+other.md,file
+package.json,file
+package.json.meta,file
+projectCloner.asmdef,file
+projectCloner.asmdef.meta,file

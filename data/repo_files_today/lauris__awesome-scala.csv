@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+.python-version,file
+LICENSE,file
+Pipfile,file
+Pipfile.lock,file
+README.md,file
+add-metadata.py,file
+build-readme.yml,file
+template.md,file
+workflows,dir

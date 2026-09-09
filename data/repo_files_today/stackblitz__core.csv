@@ -1,0 +1,13 @@
+name,type
+.github,dir
+.gitignore,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+bug-report.md,file
+close-empty-issues.yml,file
+close-inactive-issues-without-repro.yaml,file
+close-lock-engineblock-issues.yml,file
+close-stale-issues.yml,file
+feature-request.md,file
+workflows,dir

@@ -1,0 +1,14 @@
+name,type
+StevenBlack,dir
+data,dir
+hosts,file
+hosts-file.net,dir
+malwaredomainlist.com,dir
+mvps.org,dir
+otherData,dir
+readme.md,file
+readme_template.md,file
+someonewhocares.org,dir
+update.info,file
+updateHostsFile.py,file
+yoyo.org,dir

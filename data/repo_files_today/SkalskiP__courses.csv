@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+CONTRIBUTING.md,file
+README.fr.md,file
+README.hi.md,file
+README.id.md,file
+README.it.md,file
+README.md,file
+automation,dir
+data.csv,file
+generate.py,file
+pull_request_template.md,file
+requirements.txt,file

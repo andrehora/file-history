@@ -1,0 +1,1306 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+2011UEFICA,dir
+2023UEFICA,dir
+7zTypes.h,file
+7zWindows.h,file
+AES.html,file
+AboutDialog.cpp,file
+AboutDialog.h,file
+Acknowledgements.html,file
+AddNewSystemVar.jpg,file
+Additional Security Requirements and Precautions.html,file
+Aes.h,file
+AesSmall.c,file
+AesSmall.h,file
+AesSmall_x86.asm,file
+Aes_hw_armv8.c,file
+Aes_hw_cpu.asm,file
+Aes_hw_cpu.h,file
+Aes_x64.asm,file
+Aes_x86.asm,file
+Aescrypt.c,file
+Aeskey.c,file
+Aesopt.h,file
+Aestab.c,file
+Aestab.h,file
+Alloc.c,file
+Alloc.h,file
+Apidrvr.h,file
+AppRun,file
+Application.cpp,file
+Application.h,file
+Argon2,dir
+Argon2id.html,file
+Authenticity and Integrity.html,file
+Authors.html,file
+Avoid Third-Party File Extensions.html,file
+BCH_Logo_30x30.png,file
+BC_Logo_30x30.png,file
+BLAKE2b-512.html,file
+BLAKE2s-256.html,file
+BaseCom.cpp,file
+BaseCom.h,file
+Beginner's Tutorial.html,file
+Beginner's Tutorial_Image_001.jpg,file
+Beginner's Tutorial_Image_001.png,file
+Beginner's Tutorial_Image_002.jpg,file
+Beginner's Tutorial_Image_002.png,file
+Beginner's Tutorial_Image_003.jpg,file
+Beginner's Tutorial_Image_003.png,file
+Beginner's Tutorial_Image_004.jpg,file
+Beginner's Tutorial_Image_004.png,file
+Beginner's Tutorial_Image_005.jpg,file
+Beginner's Tutorial_Image_005.png,file
+Beginner's Tutorial_Image_007.jpg,file
+Beginner's Tutorial_Image_007.png,file
+Beginner's Tutorial_Image_008.jpg,file
+Beginner's Tutorial_Image_008.png,file
+Beginner's Tutorial_Image_009.jpg,file
+Beginner's Tutorial_Image_009.png,file
+Beginner's Tutorial_Image_010.jpg,file
+Beginner's Tutorial_Image_010.png,file
+Beginner's Tutorial_Image_011.jpg,file
+Beginner's Tutorial_Image_011.png,file
+Beginner's Tutorial_Image_012.jpg,file
+Beginner's Tutorial_Image_012.png,file
+Beginner's Tutorial_Image_013.jpg,file
+Beginner's Tutorial_Image_013.png,file
+Beginner's Tutorial_Image_014.jpg,file
+Beginner's Tutorial_Image_014.png,file
+Beginner's Tutorial_Image_015.jpg,file
+Beginner's Tutorial_Image_015.png,file
+Beginner's Tutorial_Image_016.jpg,file
+Beginner's Tutorial_Image_016.png,file
+Beginner's Tutorial_Image_017.jpg,file
+Beginner's Tutorial_Image_017.png,file
+Beginner's Tutorial_Image_018.jpg,file
+Beginner's Tutorial_Image_018.png,file
+Beginner's Tutorial_Image_019.jpg,file
+Beginner's Tutorial_Image_019.png,file
+Beginner's Tutorial_Image_020.jpg,file
+Beginner's Tutorial_Image_020.png,file
+Beginner's Tutorial_Image_021.jpg,file
+Beginner's Tutorial_Image_021.png,file
+Beginner's Tutorial_Image_022.jpg,file
+Beginner's Tutorial_Image_022.png,file
+Beginner's Tutorial_Image_023.gif,file
+Beginner's Tutorial_Image_023.png,file
+Beginner's Tutorial_Image_024.gif,file
+Beginner's Tutorial_Image_024.png,file
+Beginner's Tutorial_Image_034.png,file
+BenchmarkDialog.cpp,file
+BenchmarkDialog.h,file
+Bios.h,file
+Boot,dir
+Boot.vcxproj,file
+Boot.vcxproj.filters,file
+Boot.vcxproj.user,file
+BootCommon.h,file
+BootConfig.cpp,file
+BootConfig.h,file
+BootConsoleIo.cpp,file
+BootConsoleIo.h,file
+BootCrt.asm,file
+BootDebug.cpp,file
+BootDebug.h,file
+BootDefs.h,file
+BootDiskIo.cpp,file
+BootDiskIo.h,file
+BootEncryptedIo.cpp,file
+BootEncryptedIo.h,file
+BootEncryption.cpp,file
+BootEncryption.h,file
+BootLoader.com.gz,file
+BootMain.cpp,file
+BootMain.h,file
+BootMemory.cpp,file
+BootMemory.h,file
+BootSector.asm,file
+BootSector.bin,file
+BootStrings.h,file
+Buffer.cpp,file
+Buffer.h,file
+Build,dir
+BuildDriver.cmd,file
+CMakeLists.txt,file
+COMReg,dir
+COMReg.cpp,file
+COMReg.rc,file
+COMReg.vcxproj,file
+COMReg.vcxproj.filters,file
+COMReg.vcxproj.user,file
+Cache.c,file
+Cache.h,file
+Camellia.c,file
+Camellia.h,file
+Camellia.html,file
+CamelliaSmall.c,file
+CamelliaSmall.h,file
+Camellia_aesni_x64.S,file
+Camellia_aesni_x86.S,file
+Camellia_x64.S,file
+Camellia_x86.S,file
+Cascades.html,file
+CertVerifyFails.jpg,file
+CertificateCannotBeVerified.jpg,file
+ChangeLog,file
+ChangePasswordDialog.cpp,file
+ChangePasswordDialog.h,file
+Changing Passwords and Keyfiles.html,file
+Choosing Passwords and Keyfiles.html,file
+Cipher.cpp,file
+Cipher.h,file
+Cmdline.c,file
+Cmdline.h,file
+ComSetup.cpp,file
+ComSetup.h,file
+ComSetup.rgs,file
+Combo.c,file
+Combo.h,file
+Command Line Usage for Unix.html,file
+Command Line Usage for Windows.html,file
+Command Line Usage.html,file
+CommandAPDU.cpp,file
+CommandAPDU.h,file
+CommandLineInterface.cpp,file
+CommandLineInterface.h,file
+Common,dir
+Common.h,file
+Common.rc,file
+Compiler.h,file
+CompilingGuidelineLinux.html,file
+CompilingGuidelineWin,dir
+CompilingGuidelineWin.html,file
+CompilingGuidelines.html,file
+Contact.html,file
+Contributed Resources.html,file
+Conversion_Guide_VeraCrypt_1.26_and_Later.html,file
+Converting TrueCrypt volumes and partitions.html,file
+Converting TrueCrypt volumes and partitions_truecrypt_convertion.jpg,file
+Converting TrueCrypt volumes and partitions_truecrypt_convertion.png,file
+Core,dir
+Core.h,file
+Core.make,file
+CoreBase.cpp,file
+CoreBase.h,file
+CoreException.cpp,file
+CoreException.h,file
+CoreFreeBSD.cpp,file
+CoreFreeBSD.h,file
+CoreLinux.cpp,file
+CoreLinux.h,file
+CoreMacOSX.cpp,file
+CoreMacOSX.h,file
+CoreOpenBSD.cpp,file
+CoreOpenBSD.h,file
+CoreService.cpp,file
+CoreService.h,file
+CoreServiceProxy.h,file
+CoreServiceRequest.cpp,file
+CoreServiceRequest.h,file
+CoreServiceResponse.cpp,file
+CoreServiceResponse.h,file
+CoreSolaris.cpp,file
+CoreSolaris.h,file
+CoreUnix.cpp,file
+CoreUnix.h,file
+CpuArch.c,file
+CpuArch.h,file
+Crc.c,file
+Crc.h,file
+Crc32.h,file
+Creating New Volumes.html,file
+Crypto,dir
+Crypto.c,file
+Crypto.h,file
+Crypto.vcxproj,file
+Crypto.vcxproj.filters,file
+Crypto.vcxproj.user,file
+Custom_InstallDir.wxs,file
+Custom_InstallDirDlg.wxs,file
+Data Leaks.html,file
+DcsBoot.efi,file
+DcsCfg.efi,file
+DcsInfo.efi,file
+DcsInt.efi,file
+DcsRe.efi,file
+Decompressor.c,file
+Decompressor.com,file
+Default Mount Parameters.html,file
+Default Mount Parameters_VeraCrypt_password_using_default_parameters.png,file
+Defragmenting.html,file
+DeviceSelectionDialog.cpp,file
+DeviceSelectionDialog.h,file
+Dictionary.c,file
+Dictionary.h,file
+Digital Signatures.html,file
+Dir.c,file
+Dir.h,file
+Directory.cpp,file
+Directory.h,file
+Disclaimers.html,file
+DistributionPackageDamaged.jpg,file
+DlgExpandVolume.cpp,file
+Dlgcode.c,file
+Dlgcode.h,file
+Documentation.html,file
+Donation.html,file
+Donation_VC_BTC_Sigwit.png,file
+Donation_VeraCrypt_Bitcoin_small.png,file
+Donation_VeraCrypt_Ethereum.png,file
+Donation_donate.gif,file
+Donation_donate_CHF.gif,file
+Donation_donate_Dollars.gif,file
+Donation_donate_Euros.gif,file
+Donation_donate_GBP.gif,file
+Donation_donate_PLN.gif,file
+Donation_donate_YEN.gif,file
+DownloadVS2010.jpg,file
+DownloadVS2019.jpg,file
+DownloadVSBuildTools.jpg,file
+DriveFilter.c,file
+DriveFilter.h,file
+Drive_icon_96dpi.bmp,file
+Drive_icon_mask_96dpi.bmp,file
+Driver,dir
+Driver.make,file
+Driver.rc,file
+Driver.vcxproj,file
+Driver.vcxproj.filters,file
+Driver.vcxproj.user,file
+DumpFilter.c,file
+DumpFilter.h,file
+EFI,dir
+EFI-DCS,dir
+EFISecureBoot.html,file
+EMV Smart Cards.html,file
+EMVCard.cpp,file
+EMVCard.h,file
+EMVToken.cpp,file
+EMVToken.h,file
+EncryptData.ps1,file
+EncryptedIoQueue.c,file
+EncryptedIoQueue.h,file
+Encryption Algorithms.html,file
+Encryption Scheme.html,file
+EncryptionAlgorithm.cpp,file
+EncryptionAlgorithm.h,file
+EncryptionMode.cpp,file
+EncryptionMode.h,file
+EncryptionModeWolfCryptXTS.cpp,file
+EncryptionModeWolfCryptXTS.h,file
+EncryptionModeXTS.cpp,file
+EncryptionModeXTS.h,file
+EncryptionOptionsWizardPage.cpp,file
+EncryptionOptionsWizardPage.h,file
+EncryptionTest.cpp,file
+EncryptionTest.h,file
+EncryptionTestDialog.cpp,file
+EncryptionTestDialog.h,file
+EncryptionThreadPool.c,file
+EncryptionThreadPool.cpp,file
+EncryptionThreadPool.h,file
+Endian.c,file
+Endian.h,file
+Ethereum_Logo_19x30.png,file
+Event.cpp,file
+Event.h,file
+Exception.cpp,file
+Exception.h,file
+ExpandVolume,dir
+ExpandVolume.c,file
+ExpandVolume.h,file
+ExpandVolume.rc,file
+ExpandVolume.vcxproj,file
+ExpandVolume.vcxproj.filters,file
+ExpandVolume.vcxproj.user,file
+FAQ.html,file
+FUNDING.yml,file
+Fat.c,file
+Fat.h,file
+FatFormatter.cpp,file
+FatFormatter.h,file
+FatalErrorHandler.cpp,file
+FatalErrorHandler.h,file
+Favorite Volumes.html,file
+FavoriteVolume.cpp,file
+FavoriteVolume.h,file
+FavoriteVolumesDialog.cpp,file
+FavoriteVolumesDialog.h,file
+Favorites.cpp,file
+Favorites.h,file
+File.cpp,file
+File.h,file
+FileCommon.cpp,file
+FileStream.h,file
+FilesystemPath.cpp,file
+FilesystemPath.h,file
+Finally.h,file
+ForEach.h,file
+Format,dir
+Format.c,file
+Format.h,file
+Format.manifest,file
+Format.rc,file
+Format.vcxproj,file
+Format.vcxproj.filters,file
+Format.vcxproj.user,file
+FormatCom.cpp,file
+FormatCom.h,file
+FormatCom.idl,file
+FormatDLL,dir
+FormatDLL.rc,file
+FormatDLL.vcxproj,file
+FormatDLL.vcxproj.filters,file
+Forms,dir
+Forms.cpp,file
+Forms.h,file
+FreeBSD,dir
+Functor.h,file
+Fuse,dir
+FuseService.cpp,file
+FuseService.h,file
+GfMul.c,file
+GfMul.h,file
+GlobalSign_R3Cross.cer,file
+GlobalSign_SHA256_EV_CodeSigning_CA.cer,file
+GraphicUserInterface.cpp,file
+GraphicUserInterface.h,file
+Hardware Acceleration.html,file
+Hash Algorithms.html,file
+Hash.cpp,file
+Hash.h,file
+Header Key Derivation.html,file
+Hibernation File.html,file
+Hidden Operating System.html,file
+Hidden Volume.html,file
+Home_VeraCrypt_Default_Mount_Parameters.png,file
+Home_VeraCrypt_menu_Default_Mount_Parameters.png,file
+Home_facebook_veracrypt.png,file
+Home_reddit.png,file
+Home_utilities-file-archiver-3.png,file
+HostDevice.cpp,file
+HostDevice.h,file
+Hot Keys.html,file
+Hotkey.cpp,file
+Hotkey.h,file
+Hotkeys.c,file
+Hotkeys.h,file
+How to Back Up Securely.html,file
+ISSUE_TEMPLATE,dir
+IccDataExtractor.cpp,file
+IccDataExtractor.h,file
+Icons,dir
+InPlace.c,file
+InPlace.h,file
+Include,dir
+Incompatibilities.html,file
+Inflate.c,file
+Inflate.h,file
+Info.plist.legacy.xml,file
+Info.plist.xml,file
+InfoWizardPage.cpp,file
+InfoWizardPage.h,file
+InitDataArea.c,file
+InitDataArea.h,file
+IntFilter.cpp,file
+IntFilter.h,file
+Introduction.html,file
+Issues and Limitations.html,file
+Journaling File Systems.html,file
+Key Derivation Algorithms.html,file
+Keyfile.cpp,file
+Keyfile.h,file
+KeyfileGeneratorDialog.cpp,file
+KeyfileGeneratorDialog.h,file
+Keyfiles in VeraCrypt.html,file
+Keyfiles in VeraCrypt_Image_040.gif,file
+Keyfiles in VeraCrypt_Image_040.png,file
+Keyfiles.c,file
+Keyfiles.h,file
+Keyfiles.html,file
+KeyfilesDialog.cpp,file
+KeyfilesDialog.h,file
+KeyfilesPanel.cpp,file
+KeyfilesPanel.h,file
+Kuznyechik.html,file
+LICENSE,file
+LTC_Logo_30x30.png,file
+Language Packs.html,file
+Language.ar.xml,file
+Language.be.xml,file
+Language.bg.xml,file
+Language.c,file
+Language.ca.xml,file
+Language.co.xml,file
+Language.cs.xml,file
+Language.da.xml,file
+Language.de.xml,file
+Language.el.xml,file
+Language.es.xml,file
+Language.et.xml,file
+Language.eu.xml,file
+Language.fa.xml,file
+Language.fi.xml,file
+Language.fr.xml,file
+Language.h,file
+Language.he.xml,file
+Language.hu.xml,file
+Language.id.xml,file
+Language.it.xml,file
+Language.ja.xml,file
+Language.ka.xml,file
+Language.ko.xml,file
+Language.lv.xml,file
+Language.my.xml,file
+Language.nb.xml,file
+Language.nl.xml,file
+Language.nn.xml,file
+Language.pl.xml,file
+Language.pt-br.xml,file
+Language.ro.xml,file
+Language.ru.xml,file
+Language.sk.xml,file
+Language.sl.xml,file
+Language.sv.xml,file
+Language.th.xml,file
+Language.tr.xml,file
+Language.uk.xml,file
+Language.uz.xml,file
+Language.vi.xml,file
+Language.xml,file
+Language.zh-cn.xml,file
+Language.zh-hk.xml,file
+Language.zh-tw.xml,file
+LanguageStrings.cpp,file
+LanguageStrings.h,file
+LegacySpeaker.efi,file
+Legal Information.html,file
+LegalNoticesDialog.cpp,file
+LegalNoticesDialog.h,file
+License.html,file
+License.rtf,file
+License.txt,file
+Linux,dir
+Logo_288dpi.bmp,file
+Logo_96dpi.bmp,file
+LzFind.c,file
+LzFind.h,file
+LzFindMt.c,file
+LzFindMt.h,file
+LzFindOpt.c,file
+LzHash.h,file
+Lzma.vcxproj,file
+Lzma.vcxproj.filters,file
+Lzma.vcxproj.user,file
+LzmaDec.c,file
+LzmaDec.h,file
+LzmaEnc.c,file
+LzmaEnc.h,file
+LzmaLib.c,file
+LzmaLib.h,file
+MacOSX,dir
+MacOSXFormatterDevice.h,file
+MacOSXSecureTextFieldHotkeys.h,file
+MacOSXSecureTextFieldHotkeys.mm,file
+Main,dir
+Main Program Window.html,file
+Main.cpp,file
+Main.h,file
+Main.make,file
+MainCom.cpp,file
+MainCom.h,file
+MainCom.idl,file
+MainFrame.cpp,file
+MainFrame.h,file
+Makefile,file
+Makefile.in,file
+Makefile.inc,file
+Malware.html,file
+Memory Dump Files.html,file
+Memory.cpp,file
+Memory.h,file
+MemoryStream.cpp,file
+MemoryStream.h,file
+Miscellaneous.html,file
+Modes of Operation.html,file
+Monero_Logo_30x30.png,file
+Mount,dir
+Mount.c,file
+Mount.h,file
+Mount.manifest,file
+Mount.rc,file
+Mount.vcxproj,file
+Mount.vcxproj.filters,file
+Mount.vcxproj.user,file
+MountOptions.cpp,file
+MountOptions.h,file
+MountOptionsDialog.cpp,file
+MountOptionsDialog.h,file
+MountedFilesystem.h,file
+Mounting VeraCrypt Volumes.html,file
+Multi-User Environment.html,file
+Mutex.cpp,file
+Mutex.h,file
+NEWS.md,file
+NOTICE,file
+NasmCommandLine.jpg,file
+NewSecurityTokenKeyfileDialog.cpp,file
+NewSecurityTokenKeyfileDialog.h,file
+Normal Unmount vs Force Unmount.html,file
+Notation.html,file
+Ntdriver.c,file
+Ntdriver.h,file
+Ntvol.c,file
+Ntvol.h,file
+OpenBSD,dir
+OpenBSDFormatterDevice.h,file
+PCSCException.cpp,file
+PCSCException.h,file
+PKCS11,dir
+PKGBUILD,file
+PKGBUILD.release.in,file
+Packaging,dir
+Paging File.html,file
+Parallelization.html,file
+Password.c,file
+Password.h,file
+Personal Iterations Multiplier (PIM).html,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step1.png,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step2.png,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step1.png,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step2.png,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step1.png,file
+Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step2.png,file
+Physical Security.html,file
+Pipe.cpp,file
+Pipe.h,file
+Pipelining.html,file
+Pkcs5.c,file
+Pkcs5.h,file
+Pkcs5Kdf.cpp,file
+Pkcs5Kdf.h,file
+Platform,dir
+Platform.cpp,file
+Platform.h,file
+Platform.make,file
+PlatformBase.h,file
+PlatformTest.cpp,file
+PlatformTest.h,file
+Plausible Deniability.html,file
+Poller.cpp,file
+Poller.h,file
+Portable Mode.html,file
+Portable.manifest,file
+Portable.rc,file
+Portable.vcxproj,file
+Portable.vcxproj.filters,file
+Portable.vcxproj.user,file
+Precomp.h,file
+Preface.html,file
+PreferencesDialog.cpp,file
+PreferencesDialog.h,file
+Process.cpp,file
+Process.h,file
+Product64.wxs,file
+ProductARM64.wxs,file
+Program Menu.html,file
+Progress.c,file
+Progress.h,file
+ProgressWizardPage.cpp,file
+ProgressWizardPage.h,file
+Protection of Hidden Volumes.html,file
+Protection of Hidden Volumes_Image_027.jpg,file
+Protection of Hidden Volumes_Image_027.png,file
+Protection of Hidden Volumes_Image_028.jpg,file
+Protection of Hidden Volumes_Image_028.png,file
+Protection of Hidden Volumes_Image_029.jpg,file
+Protection of Hidden Volumes_Image_029.png,file
+Protection of Hidden Volumes_Image_030.jpg,file
+Protection of Hidden Volumes_Image_030.png,file
+Protection of Hidden Volumes_Image_031.jpg,file
+Protection of Hidden Volumes_Image_031.png,file
+README,file
+README.md,file
+Random Number Generator.html,file
+Random.c,file
+Random.h,file
+RandomNumberGenerator.cpp,file
+RandomNumberGenerator.h,file
+RandomPoolEnrichmentDialog.cpp,file
+RandomPoolEnrichmentDialog.h,file
+Readme.txt,file
+Reallocated Sectors.html,file
+References.html,file
+RegeditPermissions-1.jpg,file
+RegeditPermissions-2.jpg,file
+RegeditPermissions-3.jpg,file
+RegeditPermissions-4.jpg,file
+Registry.c,file
+Registry.h,file
+Release,dir
+Release Notes.html,file
+Release_AES,dir
+Release_AES_SHA2,dir
+Release_Camellia,dir
+Release_Camellia_SHA2,dir
+Release_SHA2,dir
+Release_Serpent,dir
+Release_Serpent_SHA2,dir
+Release_Twofish,dir
+Release_Twofish_SHA2,dir
+Removable Medium Volume.html,file
+Removing Encryption.html,file
+Rescue,dir
+Rescue_AES,dir
+Rescue_AES_SHA2,dir
+Rescue_Camellia,dir
+Rescue_Camellia_SHA2,dir
+Rescue_SHA2,dir
+Rescue_Serpent,dir
+Rescue_Serpent_SHA2,dir
+Rescue_Twofish,dir
+Rescue_Twofish_SHA2,dir
+Resource.h,file
+Resources,dir
+Resources.cpp,file
+Resources.h,file
+ResponseAPDU.cpp,file
+ResponseAPDU.h,file
+SCard.cpp,file
+SCard.h,file
+SCardLoader.cpp,file
+SCardLoader.h,file
+SCardManager.cpp,file
+SCardManager.h,file
+SCardReader.cpp,file
+SCardReader.h,file
+SHA-256.html,file
+SHA-512.html,file
+SM4.html,file
+Security Model.html,file
+Security Requirements and Precautions.html,file
+Security Requirements for Hidden Volumes.html,file
+Security Tokens & Smart Cards.html,file
+SecurityToken.cpp,file
+SecurityToken.h,file
+SecurityTokenKeyfilesDialog.cpp,file
+SecurityTokenKeyfilesDialog.h,file
+SelectAdvancedSystemSettings.jpg,file
+SelectDirectoryWizardPage.cpp,file
+SelectDirectoryWizardPage.h,file
+SelectEnvironmentVariables.jpg,file
+SelectPathVariable.jpg,file
+SelectThisPC.jpg,file
+SelfExtract.c,file
+SelfExtract.h,file
+Serializable.cpp,file
+Serializable.h,file
+Serializer.cpp,file
+Serializer.h,file
+SerializerFactory.cpp,file
+SerializerFactory.h,file
+Serpent.c,file
+Serpent.h,file
+Serpent.html,file
+SerpentFast.c,file
+SerpentFast.h,file
+SerpentFast_sbox.h,file
+SerpentFast_simd.cpp,file
+Setup,dir
+Setup Files,dir
+Setup.c,file
+Setup.h,file
+Setup.ico,file
+Setup.manifest,file
+Setup.rc,file
+Setup.vcxproj,file
+Setup.vcxproj.filters,file
+Setup.vcxproj.user,file
+SetupDLL,dir
+SetupDLL.def,file
+SetupDLL.vcxproj,file
+SetupDLL.vcxproj.filters,file
+SetupDLL.vcxproj.user,file
+Sha2.c,file
+Sha2.h,file
+Sha2Intel.c,file
+Sha2Small.c,file
+Sha2Small.h,file
+SharedPtr.h,file
+SharedVal.h,file
+Sharing over Network.html,file
+Signing,dir
+SingleChoiceWizardPage.h,file
+Solaris,dir
+Source Code.html,file
+Sources,file
+Standard Compliance.html,file
+Stream.h,file
+Streebog.c,file
+Streebog.h,file
+Streebog.html,file
+StringConverter.cpp,file
+StringConverter.h,file
+StringFormatter.cpp,file
+StringFormatter.h,file
+Strings-en.wxl,file
+Supported Operating Systems.html,file
+Supported Systems for System Encryption.html,file
+SyncEvent.cpp,file
+SyncEvent.h,file
+System Encryption.html,file
+System Favorite Volumes.html,file
+System.cpp,file
+System.h,file
+SystemException.cpp,file
+SystemException.h,file
+SystemInfo.cpp,file
+SystemInfo.h,file
+SystemLog.cpp,file
+SystemLog.h,file
+SystemPrecompiled.h,file
+System_drive_icon_96dpi.bmp,file
+System_drive_icon_mask_96dpi.bmp,file
+TLVParser.cpp,file
+TLVParser.h,file
+Tcdefs.h,file
+Tcformat.c,file
+Tcformat.h,file
+Technical Details.html,file
+TestCertificate,dir
+Tests,dir
+Tests.c,file
+Tests.h,file
+TextReader.cpp,file
+TextReader.h,file
+TextUserInterface.cpp,file
+TextUserInterface.h,file
+Texts,dir
+Textual_logo_288dpi.bmp,file
+Textual_logo_96dpi.bmp,file
+Textual_logo_background.bmp,file
+Thread.cpp,file
+Thread.h,file
+Threads.c,file
+Threads.h,file
+Time.cpp,file
+Time.h,file
+Token.cpp,file
+Token.h,file
+Tools,dir
+Translations,dir
+Trim Operation.html,file
+Troubleshooting.html,file
+TrueCrypt Support.html,file
+TrueCrypt Support_truecrypt_mode_gui.jpg,file
+TrueCrypt Support_truecrypt_mode_gui.png,file
+TrueCrypt.fbp,file
+TrueCrypt.icns,file
+Twofish.c,file
+Twofish.h,file
+Twofish.html,file
+Twofish_x64.S,file
+Twofish_x86.S,file
+Unencrypted Data in RAM.html,file
+Uninstalling VeraCrypt.html,file
+Unix,dir
+UnixUser.h,file
+User.h,file
+UserInterface.cpp,file
+UserInterface.h,file
+UserInterfaceException.h,file
+UserInterfaceType.h,file
+UserPreferences.cpp,file
+UserPreferences.h,file
+Using VeraCrypt Without Administrator Privileges.html,file
+VS2010BuildSolution.jpg,file
+VS2010Win32Config.jpg,file
+VS2010X64Config.jpg,file
+VS2019ARM64Config.jpg,file
+VS2019BuildSolution.jpg,file
+VeraCrypt Background Task.html,file
+VeraCrypt Hidden Operating System.html,file
+VeraCrypt License.html,file
+VeraCrypt Memory Protection.html,file
+VeraCrypt RAM Encryption.html,file
+VeraCrypt Rescue Disk.html,file
+VeraCrypt System Files.html,file
+VeraCrypt User Guide.chm,file
+VeraCrypt User Guide.ru.chm,file
+VeraCrypt User Guide.zh-cn.chm,file
+VeraCrypt Volume Format Specification.html,file
+VeraCrypt Volume.html,file
+VeraCrypt-1024x1024.png,file
+VeraCrypt-128x128.png,file
+VeraCrypt-16x16.png,file
+VeraCrypt-22x22.png,file
+VeraCrypt-24x24.png,file
+VeraCrypt-256x256.png,file
+VeraCrypt-256x256.xpm,file
+VeraCrypt-32x32.png,file
+VeraCrypt-48x48.png,file
+VeraCrypt-512x512.png,file
+VeraCrypt-64x64.png,file
+VeraCrypt-symbolic.svg,file
+VeraCrypt.entitlements.plist,file
+VeraCrypt.hhc,file
+VeraCrypt.hhk,file
+VeraCrypt.hhp,file
+VeraCrypt.icns,file
+VeraCrypt.ico,file
+VeraCrypt.ru.hhc,file
+VeraCrypt.ru.hhk,file
+VeraCrypt.ru.hhp,file
+VeraCrypt.sln,file
+VeraCrypt.svg,file
+VeraCrypt.zh-cn.hhc,file
+VeraCrypt.zh-cn.hhk,file
+VeraCrypt.zh-cn.hhp,file
+VeraCrypt128x128.png,file
+VeraCryptExpander.manifest,file
+VeraCryptFormatSDK.cpp,file
+VeraCryptFormatSDK.h,file
+VeraCrypt_Volume.icns,file
+VeraCrypt_Volume.ico,file
+VeraCrypt_Wizard.bmp,file
+VeraCrypt_mounted.ico,file
+VeraCrypt_setup.bmp,file
+VeraCrypt_setup_background.bmp,file
+Version.h,file
+Volume,dir
+Volume Clones.html,file
+Volume.cpp,file
+Volume.h,file
+Volume.make,file
+VolumeCreationProgressWizardPage.cpp,file
+VolumeCreationProgressWizardPage.h,file
+VolumeCreationWizard.cpp,file
+VolumeCreationWizard.h,file
+VolumeCreator.cpp,file
+VolumeCreator.h,file
+VolumeException.cpp,file
+VolumeException.h,file
+VolumeFilter.c,file
+VolumeFilter.h,file
+VolumeFormatOptionsWizardPage.cpp,file
+VolumeFormatOptionsWizardPage.h,file
+VolumeHeader.cpp,file
+VolumeHeader.h,file
+VolumeHistory.cpp,file
+VolumeHistory.h,file
+VolumeInfo.cpp,file
+VolumeInfo.h,file
+VolumeLayout.cpp,file
+VolumeLayout.h,file
+VolumeLocationWizardPage.cpp,file
+VolumeLocationWizardPage.h,file
+VolumePassword.cpp,file
+VolumePassword.h,file
+VolumePasswordCache.cpp,file
+VolumePasswordCache.h,file
+VolumePasswordPanel.cpp,file
+VolumePasswordPanel.h,file
+VolumePasswordWizardPage.cpp,file
+VolumePasswordWizardPage.h,file
+VolumePimWizardPage.cpp,file
+VolumePimWizardPage.h,file
+VolumePropertiesDialog.cpp,file
+VolumePropertiesDialog.h,file
+VolumeSizeWizardPage.cpp,file
+VolumeSizeWizardPage.h,file
+VolumeSlot.h,file
+Volumes.c,file
+Volumes.h,file
+WaitDialog.cpp,file
+WaitDialog.h,file
+Wear-Leveling.html,file
+Whirlpool.c,file
+Whirlpool.h,file
+Whirlpool.html,file
+WinMain.cpp,file
+WindowEventHandlers.h,file
+Windows,dir
+Wipe.c,file
+Wipe.h,file
+Wizard.c,file
+Wizard.h,file
+WizardFrame.cpp,file
+WizardFrame.h,file
+WizardPage.h,file
+Xml.c,file
+Xml.cpp,file
+Xml.h,file
+Xts.c,file
+Xts.h,file
+YasmCommandLine.jpg,file
+Zip.vcxproj,file
+Zip.vcxproj.filters,file
+Zip.vcxproj.user,file
+adler32.c,file
+arch,dir
+argon2.c,file
+argon2.h,file
+arrow_right.gif,file
+bench.bat,file
+blake2,dir
+blake2-impl.h,file
+blake2b.c,file
+blake2b.h,file
+blake2s-load-sse2.h,file
+blake2s-load-sse41.h,file
+blake2s-ref.c,file
+blake2s-round.h,file
+blake2s.c,file
+blake2s.h,file
+blake2s_SSE2.c,file
+blake2s_SSE41.c,file
+blake2s_SSSE3.c,file
+blamka-round-opt.h,file
+blamka-round-ref.h,file
+bug.md,file
+build-linux.yml,file
+build_cmake_deb.sh,file
+build_cmake_opensuse.sh,file
+build_cmake_rpm.sh,file
+build_msi_arm64.bat,file
+build_msi_x64.bat,file
+build_veracrypt_freebsd.sh,file
+build_veracrypt_linux.sh,file
+build_veracrypt_linux_no_sse2.sh,file
+build_veracrypt_macosx.sh,file
+build_veracrypt_macosx_legacy.sh,file
+build_veracrypt_openwrt.sh,file
+chacha-xmm.c,file
+chacha256.c,file
+chacha256.h,file
+chachaRng.c,file
+chachaRng.h,file
+chacha_u1.h,file
+chacha_u4.h,file
+change.md,file
+chm,dir
+cmake_repro_clamp_mtimes.cmake.in,file
+compat.h,file
+compress.c,file
+config.h,file
+configs,dir
+contrib,dir
+core.c,file
+core.h,file
+cpack_source_date_epoch.cmake.in,file
+cpu.c,file
+cpu.h,file
+crc32.c,file
+crc32.h,file
+create_chm.bat,file
+cryptoki.h,file
+dcs_tpm_owner_02.pdf,file
+debian-control,dir
+deflate.c,file
+deflate.h,file
+disk_encryption_v1_2.pdf,file
+doc,dir
+donation.js,file
+en,dir
+feature.md,file
+flag-au-small.png,file
+flag-au.png,file
+flag-eu-small.png,file
+flag-eu.png,file
+flag-gb-small.png,file
+flag-gb.png,file
+flag-nz-small.png,file
+flag-nz.png,file
+flag-us-small.png,file
+flag-us.png,file
+flattr-badge-large.png,file
+gf2_mul.gif,file
+gost89_x86.asm,file
+gzclose.c,file
+gzguts.h,file
+gzipCommandLine.jpg,file
+gzlib.c,file
+gzread.c,file
+gzwrite.c,file
+html,dir
+idrix_SHA256TestRootCA.crt,file
+idrix_Sha256CodeSign.pfx,file
+idrix_TestRootCA.crt,file
+idrix_codeSign.pfx,file
+include,dir
+infback.c,file
+inffast.c,file
+inffast.h,file
+inffixed.h,file
+inflate.c,file
+inflate.h,file
+inftrees.c,file
+inftrees.h,file
+international.h,file
+jitterentropy-base-user.h,file
+jitterentropy-base.c,file
+jitterentropy.h,file
+kuznyechik.c,file
+kuznyechik.h,file
+kuznyechik_simd.c,file
+liberapay_donate.svg,file
+libzip,dir
+lzma,dir
+lzma-history.txt,file
+lzma-sdk.txt,file
+makeself_repro_finalize.py,file
+mastodon_veracrypt.PNG,file
+misc.h,file
+mount.veracrypt,file
+notarize.sh,file
+openwrt,dir
+opt_avx2.asm,file
+opt_avx2.c,file
+opt_sse2.c,file
+package,dir
+paypal_30x30.png,file
+pbkdf2.html,file
+pkcs11.h,file
+pkcs11f.h,file
+pkcs11t.h,file
+postinst,file
+postinstall.sh,file
+postinstall_fuse-t.sh,file
+postrm,file
+postuninstall.sh,file
+prerm,file
+prerm.sh,file
+rdrand.c,file
+rdrand.h,file
+rdrand_ml.asm,file
+rdseed_ml.asm,file
+reader.h,file
+ref.c,file
+repro_buildstamp.c,file
+resource.h,file
+rpm-control,dir
+ru,dir
+selftest.c,file
+sha256-x64-nayuki.S,file
+sha256-x86-nayuki.S,file
+sha256_armv8.c,file
+sha256_avx1_x64.asm,file
+sha256_avx1_x86.asm,file
+sha256_avx2_x64.asm,file
+sha256_avx2_x86.asm,file
+sha256_sse4_x64.asm,file
+sha256_sse4_x86.asm,file
+sha512-x64-nayuki.S,file
+sha512-x86-nayuki.S,file
+sha512_avx1_x64.asm,file
+sha512_avx1_x86.asm,file
+sha512_avx2_x64.asm,file
+sha512_avx2_x86.asm,file
+sha512_sse4_x64.asm,file
+sha512_sse4_x86.asm,file
+sign.bat,file
+sign_TESTSIGNING.bat,file
+sign_rpm.sh,file
+sign_test.bat,file
+sign_test_debug.bat,file
+sm4-impl-aesni.cpp,file
+sm4.cpp,file
+sm4.h,file
+source_date_epoch.sh,file
+src,dir
+stale.yml,file
+styles.css,file
+t1ha.h,file
+t1ha2.c,file
+t1ha2_selfcheck.c,file
+t1ha_bits.h,file
+t1ha_selfcheck.c,file
+t1ha_selfcheck.h,file
+template.dmg.bz2,file
+test.blake2s.hc,file
+test.sha256.hc,file
+test.sha512.hc,file
+test.streebog.hc,file
+test.whirlpool.hc,file
+test_veracrypt_openwrt_qemu.py,file
+trees.c,file
+trees.h,file
+twitter_veracrypt.PNG,file
+uncompr.c,file
+upxCommandLine.jpg,file
+utils,dir
+veracrypt,dir
+veracrypt-arm64.cat,file
+veracrypt-arm64.sys,file
+veracrypt-launchpad-uploader.py,file
+veracrypt-uninstall.sh,file
+veracrypt-x64.cat,file
+veracrypt-x64.sys,file
+veracrypt.AppDir,dir
+veracrypt.Inf,file
+veracrypt.desktop,file
+veracrypt.pkgproj,file
+veracrypt.xml,file
+veracrypt_Legacy.pkgproj,file
+veracrypt_fuse-t.pkgproj,file
+veracrypt_install_template.sh,file
+wolfCrypt.c,file
+wolfCrypt.md,file
+workflows,dir
+x86_64-minimal.config,file
+xmlvalidate.sh,file
+xmlvalidate.yml,file
+yasm,file
+zconf.h,file
+zh-cn,dir
+zip.h,file
+zip_add.c,file
+zip_add_dir.c,file
+zip_add_entry.c,file
+zip_algorithm_bzip2.c,file
+zip_algorithm_deflate.c,file
+zip_algorithm_xz.c,file
+zip_algorithm_zstd.c,file
+zip_buffer.c,file
+zip_close.c,file
+zip_crypto.h,file
+zip_crypto_commoncrypto.c,file
+zip_crypto_commoncrypto.h,file
+zip_crypto_gnutls.c,file
+zip_crypto_gnutls.h,file
+zip_crypto_mbedtls.c,file
+zip_crypto_mbedtls.h,file
+zip_crypto_openssl.c,file
+zip_crypto_openssl.h,file
+zip_crypto_win.c,file
+zip_crypto_win.h,file
+zip_delete.c,file
+zip_dir_add.c,file
+zip_dirent.c,file
+zip_discard.c,file
+zip_entry.c,file
+zip_err_str.c,file
+zip_error.c,file
+zip_error_clear.c,file
+zip_error_get.c,file
+zip_error_get_sys_type.c,file
+zip_error_strerror.c,file
+zip_error_to_str.c,file
+zip_extra_field.c,file
+zip_extra_field_api.c,file
+zip_fclose.c,file
+zip_fdopen.c,file
+zip_file_add.c,file
+zip_file_error_clear.c,file
+zip_file_error_get.c,file
+zip_file_get_comment.c,file
+zip_file_get_external_attributes.c,file
+zip_file_get_offset.c,file
+zip_file_rename.c,file
+zip_file_replace.c,file
+zip_file_set_comment.c,file
+zip_file_set_encryption.c,file
+zip_file_set_external_attributes.c,file
+zip_file_set_mtime.c,file
+zip_file_strerror.c,file
+zip_fopen.c,file
+zip_fopen_encrypted.c,file
+zip_fopen_index.c,file
+zip_fopen_index_encrypted.c,file
+zip_fread.c,file
+zip_fseek.c,file
+zip_ftell.c,file
+zip_get_archive_comment.c,file
+zip_get_archive_flag.c,file
+zip_get_encryption_implementation.c,file
+zip_get_file_comment.c,file
+zip_get_name.c,file
+zip_get_num_entries.c,file
+zip_get_num_files.c,file
+zip_hash.c,file
+zip_io_util.c,file
+zip_libzip_version.c,file
+zip_memdup.c,file
+zip_name_locate.c,file
+zip_new.c,file
+zip_open.c,file
+zip_pkware.c,file
+zip_progress.c,file
+zip_random_unix.c,file
+zip_random_uwp.c,file
+zip_random_win32.c,file
+zip_rename.c,file
+zip_replace.c,file
+zip_set_archive_comment.c,file
+zip_set_archive_flag.c,file
+zip_set_default_password.c,file
+zip_set_file_comment.c,file
+zip_set_file_compression.c,file
+zip_set_name.c,file
+zip_source_accept_empty.c,file
+zip_source_begin_write.c,file
+zip_source_begin_write_cloning.c,file
+zip_source_buffer.c,file
+zip_source_call.c,file
+zip_source_close.c,file
+zip_source_commit_write.c,file
+zip_source_compress.c,file
+zip_source_crc.c,file
+zip_source_error.c,file
+zip_source_file.h,file
+zip_source_file_common.c,file
+zip_source_file_stdio.c,file
+zip_source_file_stdio.h,file
+zip_source_file_stdio_named.c,file
+zip_source_file_win32.c,file
+zip_source_file_win32.h,file
+zip_source_file_win32_ansi.c,file
+zip_source_file_win32_named.c,file
+zip_source_file_win32_utf16.c,file
+zip_source_file_win32_utf8.c,file
+zip_source_free.c,file
+zip_source_function.c,file
+zip_source_get_dostime.c,file
+zip_source_get_file_attributes.c,file
+zip_source_is_deleted.c,file
+zip_source_layered.c,file
+zip_source_open.c,file
+zip_source_pass_to_lower_layer.c,file
+zip_source_pkware_decode.c,file
+zip_source_pkware_encode.c,file
+zip_source_read.c,file
+zip_source_remove.c,file
+zip_source_rollback_write.c,file
+zip_source_seek.c,file
+zip_source_seek_write.c,file
+zip_source_stat.c,file
+zip_source_supports.c,file
+zip_source_tell.c,file
+zip_source_tell_write.c,file
+zip_source_window.c,file
+zip_source_winzip_aes_decode.c,file
+zip_source_winzip_aes_encode.c,file
+zip_source_write.c,file
+zip_source_zip.c,file
+zip_source_zip_new.c,file
+zip_stat.c,file
+zip_stat_index.c,file
+zip_stat_init.c,file
+zip_strerror.c,file
+zip_string.c,file
+zip_unchange.c,file
+zip_unchange_all.c,file
+zip_unchange_archive.c,file
+zip_unchange_data.c,file
+zip_utf-8.c,file
+zip_winzip_aes.c,file
+zipconf.h,file
+zipint.h,file
+zlib,dir
+zlib.h,file
+zutil.c,file
+zutil.h,file

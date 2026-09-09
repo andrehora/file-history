@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+README.md,file
+awesome_bot.yaml,file
+banner.png,file
+img,dir
+workflows,dir

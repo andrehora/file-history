@@ -1,0 +1,36 @@
+name,type
+A Forgotten HTTP Invisibility Cloak.pdf,file
+Artificial Neural Network based WAF for SQL Injection.pdf,file
+Beyond SQLi - Obfuscate and Bypass WAFs.txt,file
+BlackHat US 12 - Protocol Level WAF Evasion (Slides).pdf,file
+BlackHat US 16 - Analysis of Attack Detection Logic.pdf,file
+Building Your Own WAF as a Service and Forgetting about False Positives.pdf,file
+Bypassing WAF XSS Detection Mechanisms.pdf,file
+Bypassing Web Application Firewalls with HTTP Parameter Pollution.pdf,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Evading All Web-Application Firewalls XSS Filters.pdf,file
+LICENSE,file
+Methods To Bypass A Web Application Firewall.pdf,file
+Modern WAF Fingerprinting and XSS Filter Bypass.pdf,file
+OWASP WAF Profiling & Evasion.pdf,file
+Our Favourite XSS WAF Filters And How To Bypass Them.pdf,file
+Playing Around with WAFs.pdf,file
+Poking A Hole In The Firewall.pdf,file
+Qualys Guide - Protocol-Level WAF Evasion.pdf,file
+README.md,file
+SANS Guide - WAF Evasion Testing.pdf,file
+Side Channel (Timing) Attacks for Fingerprinting WAF Rules.pdf,file
+Side Channel Attacks for Fingerprinting WAF Filter Rules.pdf,file
+WAF Bypasses and PHP Exploits (Slides).pdf,file
+WASC WAF Evaluation Criteria.pdf,file
+WEb Application Firewall Bypassing (How to Defeat the Blue Team).pdf,file
+Web Application Firewalls - Evaluation and Analysis.pdf,file
+character-interpretations.png,file
+how-wafs-work.png,file
+images,dir
+obfu.py,file
+others,dir
+papers,dir
+presentations,dir
+waf-general-arch.png,file

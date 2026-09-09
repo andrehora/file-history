@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+.travis.yml,file
+LICENSE,file
+README.md,file
+Xdg.php,file
+XdgTest.php,file
+composer.json,file
+phpunit.xml.dist,file
+src,dir
+tests,dir

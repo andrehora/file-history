@@ -1,0 +1,68 @@
+name,type
+1 - Table of contents.pdf,file
+2 - Overview of this book.pdf,file
+2 - Preface.pdf,file
+3 - Chapter 1 Basic Concepts.pdf,file
+3 - Chapter 10 Actor-Critic Methods.pdf,file
+3 - Chapter 2 State Values and Bellman Equation.pdf,file
+3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf,file
+3 - Chapter 4 Value Iteration and Policy Iteration.pdf,file
+3 - Chapter 5 Monte Carlo Methods.pdf,file
+3 - Chapter 6 Stochastic Approximation.pdf,file
+3 - Chapter 7 Temporal-Difference Methods.pdf,file
+3 - Chapter 8 Value Function Methods.pdf,file
+3 - Chapter 9 Policy Gradient Methods.pdf,file
+4 - Appendix.pdf,file
+Book-all-in-one.pdf,file
+Code for grid world,dir
+Figure_EnglishLectureVideo.png,file
+Figure_chapterMap.png,file
+L1-Basic concepts.pdf,file
+L1-basic concepts.pdf,file
+L10-Actor Critic.pdf,file
+L10_Actor Critic.pdf,file
+L2-Bellman equation.pdf,file
+L3-Bellman optimality equation.pdf,file
+L4-Value iteration and policy iteration.pdf,file
+L5-MC.pdf,file
+L5-Monte Carlo methods.pdf,file
+L6-Stochastic approximation and stochastic gradient descent.pdf,file
+L6-Stochastic approximation.pdf,file
+L7-Temporal-Difference Learning.pdf,file
+L7-Temporal-difference learning.pdf,file
+L8-Value function methods.pdf.pdf,file
+L8_Value function approximation.pdf,file
+L9-Policy gradient methods.pdf,file
+L9_Policy gradient.pdf,file
+Lecture slides,dir
+README.md,file
+Readme.md,file
+__pycache__,dir
+arguments.cpython-311.pyc,file
+arguments.py,file
+example_grid_world.py,file
+examples,dir
+figure_plot.m,file
+grid_world.cpython-311.pyc,file
+grid_world.cpython-38.pyc,file
+grid_world.py,file
+main_example.m,file
+matlab_version,dir
+plots,dir
+policy_offline_Q_learning.jpg,file
+policy_offline_Q_learning.pdf,file
+python_version,dir
+sample1.png,file
+sample2.png,file
+sample3.png,file
+sample4.png,file
+slidesContinuouslyUpdated,dir
+slidesForMyLectureVideos,dir
+springerBookCover.png,file
+src,dir
+trajectory_Bellman_Equation.jpg,file
+trajectory_Bellman_Equation.pdf,file
+trajectory_Bellman_Equation_dotted.jpg,file
+trajectory_Q_learning.jpg,file
+trajectory_Q_learning.pdf,file
+utils.cpython-311.pyc,file

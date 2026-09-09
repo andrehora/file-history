@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+.travis.yml,file
+AUTHORS.rst,file
+FAQ.rst,file
+HISTORY.rst,file
+LICENSE.txt,file
+MANIFEST.in,file
+README.rst,file
+__init__.py,file
+schedule,dir
+setup.cfg,file
+setup.py,file
+test_schedule.py,file
+tox.ini,file

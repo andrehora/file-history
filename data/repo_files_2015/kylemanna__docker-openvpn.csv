@@ -1,0 +1,17 @@
+name,type
+.gitignore,file
+Dockerfile,file
+README.md,file
+advanced.md,file
+backup.md,file
+bin,dir
+debug.md,file
+docs,dir
+easyrsa_vars,file
+ovpn_genconfig,file
+ovpn_getclient,file
+ovpn_initpki,file
+ovpn_run,file
+ovpn_status,file
+static-ips.md,file
+upstart.init,file

@@ -1,0 +1,17 @@
+name,type
+LICENSE,file
+Makefile,file
+README.md,file
+accelerated-domains.china.conf,file
+apple.china.conf,file
+bogus-nxdomain.china.conf,file
+cdn-testlist.txt,file
+dnsmasq-update-china-list,file
+find_redundant.py,file
+google.china.conf,file
+install.sh,file
+ns-blacklist.txt,file
+ns-whitelist.txt,file
+removed-cdn.txt,file
+updater.py,file
+verify.py,file

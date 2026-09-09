@@ -1,0 +1,12 @@
+name,type
+.gitignore,file
+LICENSE,file
+README,file
+README.md,file
+config.py,file
+lib,dir
+nasm.py,file
+peda.py,file
+shellcode.py,file
+skeleton.py,file
+utils.py,file

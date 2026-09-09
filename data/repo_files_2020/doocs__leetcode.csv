@@ -1,0 +1,560 @@
+name,type
+.github,dir
+.gitignore,file
+0001.Two Sum,dir
+0002.Add Two Numbers,dir
+0003.Longest Substring Without Repeating Characters,dir
+0004.Median of Two Sorted Arrays,dir
+0005.Longest Palindromic Substring,dir
+0006.ZigZag Conversion,dir
+0007.Reverse Integer,dir
+0008.String to Integer (atoi),dir
+0009.Palindrome Number,dir
+0010.Regular Expression Matching,dir
+0011.Container With Most Water,dir
+0012.Integer to Roman,dir
+0013.Roman to Integer,dir
+0014.Longest Common Prefix,dir
+0015.3Sum,dir
+0016.3Sum Closest,dir
+0017.Letter Combinations of a Phone Number,dir
+0018.4Sum,dir
+0019.Remove Nth Node From End of List,dir
+0020.Valid Parentheses,dir
+0021.Merge Two Sorted Lists,dir
+0022.Generate Parentheses,dir
+0023.Merge k Sorted Lists,dir
+0024.Swap Nodes in Pairs,dir
+0025.Reverse Nodes in k-Group,dir
+0026.Remove Duplicates from Sorted Array,dir
+0027.Remove Element,dir
+0028.Implement strStr(),dir
+0029.Divide Two Integers,dir
+0030.Substring with Concatenation of All Words,dir
+0031.Next Permutation,dir
+0032.Longest Valid Parentheses,dir
+0033.Search in Rotated Sorted Array,dir
+0034.Find First and Last Position of Element in Sorted Array,dir
+0035.Search Insert Position,dir
+0036.Valid Sudoku,dir
+0037.Sudoku Solver,dir
+0038.Count and Say,dir
+0039.Combination Sum,dir
+0040.Combination Sum II,dir
+0041.First Missing Positive,dir
+0042.Trapping Rain Water,dir
+0043.Multiply Strings,dir
+0044.Wildcard Matching,dir
+0045.Jump Game II,dir
+0046.Permutations,dir
+0047.Permutations II,dir
+0048.Rotate Image,dir
+0049.Group Anagrams,dir
+"0050.Pow(x, n)",dir
+0051.N-Queens,dir
+0052.N-Queens II,dir
+0053.Maximum Subarray,dir
+0054.Spiral Matrix,dir
+0055.Jump Game,dir
+0056.Merge Intervals,dir
+0057.Insert Interval,dir
+0058.Length of Last Word,dir
+0059.Spiral Matrix II,dir
+0060.Permutation Sequence,dir
+0061.Rotate List,dir
+0062.Unique Paths,dir
+0063.Unique Paths II,dir
+0064.Minimum Path Sum,dir
+0065.Valid,dir
+0066.Plus One,dir
+0067.Add Binary,dir
+0068.Text Justification,dir
+0069.Sqrt(x),dir
+0070.Climbing Stairs,dir
+0071.Simplify Path,dir
+0072.Edit Distance,dir
+0073.Set Matrix Zeroes,dir
+0074.Search a 2D Matrix,dir
+0075.Sort Colors,dir
+0076.Minimum Window Substring,dir
+0077.Combinations,dir
+0078.Subsets,dir
+0079.Word Search,dir
+0080.Remove Duplicates from Sorted Array II,dir
+0081.Search in Rotated Sorted Array II,dir
+0082.Remove Duplicates from Sorted List II,dir
+0083.Remove Duplicates from Sorted List,dir
+0084.Largest Rectangle in Histogram,dir
+0085.Maximal Rectangle,dir
+0086.Partition List,dir
+0087.Scramble String,dir
+0088.Merge Sorted Array,dir
+0089.Gray Code,dir
+0090.Subsets II,dir
+0091.Decode Ways,dir
+0092.Reverse Linked List II,dir
+0093.Restore IP Addresses,dir
+0094.Binary Tree Inorder Traversal,dir
+0095.Unique Binary Search Trees II,dir
+0096.Unique Binary Search Trees,dir
+0097.Interleaving String,dir
+0098.Validate Binary Search Tree,dir
+0099.Recover Binary Search Tree,dir
+0100.Same Tree,dir
+0101.Symmetric Tree,dir
+0102.Binary Tree Level Order Traversal,dir
+0103.Binary Tree Zigzag Level Order Traversal,dir
+0104.Maximum Depth of Binary Tree,dir
+0105.Construct Binary Tree from Preorder and Inorder Traversal,dir
+0106.Construct Binary Tree from Inorder and Postorder Traversal,dir
+0107.Binary Tree Level Order Traversal II,dir
+0108.Convert Sorted Array to Binary Search Tree,dir
+0109.Convert Sorted List to Binary Search Tree,dir
+0110.Balanced Binary Tree,dir
+0111.Minimum Depth of Binary Tree,dir
+0112.Path Sum,dir
+0113.Path Sum II,dir
+0114.Flatten Binary Tree to Linked List,dir
+0115.Distinct Subsequences,dir
+0116.Populating Next Right Pointers in Each Node,dir
+0117.Populating Next Right Pointers in Each Node II,dir
+0118.Pascal's Triangle,dir
+0119.Pascal's Triangle II,dir
+0120.Triangle,dir
+0121.Best Time to Buy and Sell Stock,dir
+0122.Best Time to Buy and Sell Stock II,dir
+0123.Best Time to Buy and Sell Stock III,dir
+0124.Binary Tree Maximum Path Sum,dir
+0125.Valid Palindrome,dir
+0126.Word Ladder II,dir
+0127.Word Ladder,dir
+0128.Longest Consecutive Sequence,dir
+0129.Sum Root to Leaf Numbers,dir
+0130.Surrounded Regions,dir
+0131.Palindrome Partitioning,dir
+0132.Palindrome Partitioning II,dir
+0133.Clone Graph,dir
+0134.Gas Station,dir
+0135.Candy,dir
+0136.Single Number,dir
+0137.Single Number II,dir
+0138.Copy List with Random Pointer,dir
+0139.Word Break,dir
+0140.Word Break II,dir
+0141.Linked List Cycle,dir
+0142.Linked List Cycle II,dir
+0143.Reorder List,dir
+0144.Binary Tree Preorder Traversal,dir
+0145.Binary Tree Postorder Traversal,dir
+0146.Lru Cache,dir
+0147.Insertion Sort List,dir
+0148.Sort List,dir
+0149.Max Points on a Line,dir
+0150.Evaluate Reverse Polish Notation,dir
+0151.Reverse Words in a String,dir
+0152.Maximum Product Subarray,dir
+0153.Find Minimum in Rotated Sorted Array,dir
+0154.Find Minimum in Rotated Sorted Array II,dir
+0155.Min Stack,dir
+0160.Intersection of Two Linked Lists,dir
+0162.Find Peak Element,dir
+0164.Maximum Gap,dir
+0165.Compare Version Numbers,dir
+0166.Fraction to Recurring Decimal,dir
+0167.Two Sum II - Input array is sorted,dir
+0168.Excel Sheet Column Title,dir
+0169.Majority Element,dir
+0171.Excel Sheet Column Number,dir
+0172.Factorial Trailing Zeroes,dir
+0175.Combine Two Tables,dir
+0176.Second Highest Salary,dir
+0177.Nth Highest Salary,dir
+0178.Rank Scores,dir
+0180.Consecutive Numbers,dir
+0181.Employees Earning More Than Their Managers,dir
+0182.Duplicate Emails,dir
+0183.Customers Who Never Order,dir
+0184.Department Highest Salary,dir
+0187.Repeated DNA Sequences,dir
+0188.Best Time to Buy and Sell Stock IV,dir
+0189.Rotate Array,dir
+0190.Reverse Bits,dir
+0191.Number of 1 Bits,dir
+0192.Word Frequency,dir
+0193.Valid Phone Numbers,dir
+0194.Transpose File,dir
+0195.Tenth Line,dir
+0196.Delete Duplicate Emails,dir
+0197.Rising Temperature,dir
+0198.House Robber,dir
+0200.Number of Islands,dir
+0201.Bitwise AND of Numbers Range,dir
+0202.Happy Number,dir
+0203.Remove Linked List Elements,dir
+0204.Count Primes,dir
+0206.Reverse Linked List,dir
+0207.Course Schedule,dir
+0213.House Robber II,dir
+0215.Kth Largest Element in an Array,dir
+0217.Contains Duplicate,dir
+0218.The Skyline Problem,dir
+0219.Contains Duplicate II,dir
+0223.Rectangle Area,dir
+0224.Basic Calculator,dir
+0226.Invert Binary Tree,dir
+0227.Basic Calculator II,dir
+0228.Summary Ranges,dir
+0229.Majority Element II,dir
+0230.Kth Smallest Element in a BST,dir
+0231.Power of Two,dir
+0234.Palindrome Linked List,dir
+0235.Lowest Common Ancestor of a Binary Search Tree,dir
+0237.Delete Node in a Linked List,dir
+0238.Product of Array Except Self,dir
+0239.Sliding Window Maximum,dir
+0240.Search a 2D Matrix II,dir
+0241.Different Ways to Add Parentheses,dir
+0242.Valid Anagram,dir
+0257.Binary Tree Paths,dir
+0260.Single Number III,dir
+0263.Ugly Number,dir
+0264.Ugly Number II,dir
+0268.Missing Number,dir
+0273.Integer to English Words,dir
+0274.H-Index,dir
+0275.H-Index II,dir
+0278.First Bad Version,dir
+0279.Perfect Squares,dir
+0283.Move Zeroes,dir
+0290.Word Pattern,dir
+0292.Nim Game,dir
+0295.Find Median from Data Stream,dir
+0300.Longest Increasing Subsequence,dir
+0312.Burst Balloons,dir
+0318.Maximum Product of Word Lengths,dir
+0319.Bulb Switcher,dir
+0326.Power of Three,dir
+0328.Odd Even Linked List,dir
+0329.Longest Increasing Path in a Matrix,dir
+0331.Verify Preorder Serialization of a Binary Tree,dir
+0343.Integer Break,dir
+0344.Reverse String,dir
+0347.Top K Frequent Elements,dir
+0349.Intersection of Two Arrays,dir
+0350.Intersection of Two Arrays II,dir
+0355.Design Twitter,dir
+0367.Valid Perfect Square,dir
+0371.Sum of Two Integers,dir
+0374.Guess Number Higher or Lower,dir
+0376.Wiggle Subsequence,dir
+0384.Shuffle an Array,dir
+0387.First Unique Character in a String,dir
+0392.Is Subsequence,dir
+0393.UTF-8 Validation,dir
+0394.Decode String,dir
+0397.Integer Replacement,dir
+0399.Find the Difference,dir
+0401.Binary Watch,dir
+0402.Remove K Digits,dir
+0405.Convert a Number to Hexadecimal,dir
+0406.Queue Reconstruction by Height,dir
+0410.Split Array Largest Sum,dir
+0412.Fizz Buzz,dir
+0414.Third Maximum Number,dir
+0415.Add Strings,dir
+0421.Maximum XOR of Two Numbers in an Array,dir
+0423.Reconstruct Original Digits from English,dir
+0424.Longest Repeating Character Replacement,dir
+0427.Construct Quad Tree,dir
+0429.N-ary Tree Level Order Traversal,dir
+0430.Flatten a Multilevel Doubly Linked List,dir
+0434.Number of Segments in a String,dir
+0438.Find All Anagrams in a String,dir
+0441.Arranging Coins,dir
+0443.String Compression,dir
+0445.Add Two Numbers II,dir
+0448.Find All Numbers Disappeared in an Array,dir
+0450.Delete Node in a BST,dir
+0452.Minimum Number of Arrows to Burst Balloons,dir
+0453.Minimum Moves to Equal Array Elements,dir
+0454.4Sum II,dir
+0455.Assign Cookies,dir
+0456.132 Pattern,dir
+0457.Circular Array Loop,dir
+0458.Poor Pigs,dir
+0459.Repeated Substring Pattern,dir
+0461.Hamming Distance,dir
+0462.Minimum Moves to Equal Array Elements II,dir
+0473.Matchsticks to Square,dir
+0475.Heaters,dir
+0476.Number Complement,dir
+0483.Smallest Good Base,dir
+0485. Max Consecutive Ones,dir
+0486.Predict the Winner,dir
+0493.Reverse Pairs,dir
+0496.Next Greater Element I,dir
+0500.Keyboard Row,dir
+0503.Next Greater Element II,dir
+0504.Base 7,dir
+0506.Relative Ranks,dir
+0509.Fibonacci,dir
+0518.Coin Change 2,dir
+0521.Longest Uncommon Subsequence I,dir
+0523.Continuous Subarray Sum,dir
+0525.Contiguous Array,dir
+0526.Beautiful Arrangement,dir
+0538.Convert BST to Greater Tree,dir
+0540.Single Element in a Sorted Array,dir
+0541.Reverse String II,dir
+0542.01 Matrix,dir
+0543.Diameter of Binary Tree,dir
+0554.Brick Wall,dir
+0556.Next Greater Element III,dir
+0557.Reverse Words in a String III,dir
+0559.Maximum Depth of N-ary Tree,dir
+0560.Subarray Sum Equals K,dir
+0561.Array Partition I,dir
+0567.Permutation in String,dir
+0572.Subtree of Another Tree,dir
+0576.Out of Boundary Paths,dir
+0581.Shortest Unsorted Continuous Subarray,dir
+0589.N-ary Tree Preorder Traversal,dir
+0590.N-ary Tree Postorder Traversal,dir
+0595.Big Countries,dir
+0596.Classes More Than 5 Students,dir
+0605.Can Place Flowers,dir
+0606.Construct String from Binary Tree,dir
+0611.Valid Triangle Number,dir
+0617.Merge Two Binary Trees,dir
+0620.Not Boring Movies,dir
+0622.Design Circular Queue,dir
+0627.Swap Salary,dir
+0633.Sum of Square Numbers,dir
+0650.2 Keys Keyboard,dir
+0652.Find Duplicate Subtrees,dir
+0657.Robot Return to Origin,dir
+0664.Strange Printer,dir
+0665.Non-decreasing Array,dir
+0669.Trim a Binary Search Tree,dir
+0670.Maximum Swap,dir
+0673.Number of Longest Increasing Subsequence,dir
+0674.Longest Continuous Increasing Subsequence,dir
+0684.Redundant Connection,dir
+0687.Longest Univalue Path,dir
+0695.Max Area of Island,dir
+0696.Count Binary Substrings,dir
+0700.Search in a Binary Search Tree,dir
+0701.Insert into a Binary Search Tree,dir
+0703.Kth Largest Element in a Stream,dir
+0704.Binary Search,dir
+0707.Design Linked List,dir
+0724.Find Pivot Index,dir
+0725.Split Linked List in Parts,dir
+0728.Self Dividing Numbers,dir
+0735.Asteroid Collision,dir
+0739.Daily Temperatures,dir
+0743.Network Delay Time,dir
+0744.Find Smallest Letter Greater Than Target,dir
+0746.Min Cost Climbing Stairs,dir
+0752.Open the Lock,dir
+0760.Find Anagram Mappings,dir
+0762.Prime Number of Set Bits in Binary Representation,dir
+0763.Partition Labels,dir
+0769.Max Chunks To Make Sorted,dir
+0771.Jewels and Stones,dir
+0777.Swap Adjacent in LR String,dir
+0783.Minimum Distance Between BST Nodes,dir
+0784.Letter Case Permutation,dir
+0789.Escape The Ghosts,dir
+0797.All Paths From Source to Target,dir
+0804.Unique Morse Code Words,dir
+0807.Max Increase to Keep City Skyline,dir
+0814.Binary Tree Pruning,dir
+0817.Linked List Components,dir
+0826.Most Profit Assigning Work,dir
+0829.Consecutive Numbers Sum,dir
+0832.Flipping an Image,dir
+0836.Rectangle Overlap,dir
+0848.Shifting Letters,dir
+0852.Peak Index in a Mountain Array,dir
+0853.Car Fleet,dir
+0856.Score of Parentheses,dir
+0857.Minimum Cost to Hire K Workers,dir
+0860.Lemonade Change,dir
+0862.Shortest Subarray with Sum at Least K,dir
+0867.Transpose Matrix,dir
+0874.Walking Robot Simulation,dir
+0875.Koko Eating Bananas,dir
+0876.Middle of the Linked List,dir
+0878.Nth Magical Number,dir
+0881.Boats to Save People,dir
+0883.Projection Area of 3D Shapes,dir
+0887.Super Egg Drop,dir
+0889.Construct Binary Tree from Preorder and Postorder Traversal,dir
+0891.Sum of Subsequence Widths,dir
+0892.Surface Area of 3D Shapes,dir
+0898.Bitwise ORs of Subarrays,dir
+0905.Sort Array By Parity,dir
+0912.Sort an Array,dir
+0914.X of a Kind in a Deck of Cards,dir
+0915.Partition Array into Disjoint Intervals,dir
+0917.Reverse Only Letters,dir
+0918.Maximum Sum Circular Subarray,dir
+0922.Sort Array By Parity II,dir
+0926.Flip String to Monotone Increasing,dir
+0929.Unique Email Addresses,dir
+0930.Binary Subarrays With Sum,dir
+0931.Minimum Falling Path Sum,dir
+0938.Range Sum of BST,dir
+0941.Valid Mountain Array,dir
+0944.Delete Columns to Make Sorted,dir
+0950.Reveal Cards In Increasing Order,dir
+0952.Largest Component Size by Common Factor,dir
+0953.Verifying an Alien Dictionary,dir
+0955.Delete Columns to Make Sorted II,dir
+0958.Check Completeness of a Binary Tree,dir
+0961.N-Repeated Element in Size 2N Array,dir
+0965.Univalued Binary Tree,dir
+0976.Largest Perimeter Triangle,dir
+0977.Squares of a Sorted Array,dir
+0978.Longest Turbulent Subarray,dir
+0985.Sum of Even Numbers After Queries,dir
+0987.Vertical Order Traversal of a Binary Tree,dir
+0989.Add to Array-Form of Integer,dir
+0994.Rotten Oranges,dir
+1004. Max Consecutive Ones III,dir
+1005.Maximize Sum Of Array After K Negations,dir
+1006.Clumsy Factorial,dir
+1007.Minimum Domino Rotations For Equal Row,dir
+1008.Construct Binary Search Tree from Preorder Traversal,dir
+1009.Complement of Base 10 Integer,dir
+1010.Pairs of Songs With Total Durations Divisible by 60,dir
+1012.Complement of Base 10 Integer,dir
+1013.Pairs of Songs With Total Durations Divisible by 60,dir
+1014.Capacity To Ship Packages Within D Days,dir
+1017.Convert to Base -2,dir
+1019.Next Greater Node In Linked List,dir
+1020.Partition Array Into Three Parts With Equal Sum,dir
+1021.Best Sightseeing Pair,dir
+1021.Remove Outermost Parentheses,dir
+1022.Smallest Integer Divisible by K,dir
+1022.Sum of Root To Leaf Binary Numbers,dir
+1023.Binary String With Substrings Representing 1 To N,dir
+1024.Video Stitching,dir
+1025.Divisor Game,dir
+1026.Maximum Difference Between Node and Ancestor,dir
+1027.Longest Arithmetic Sequence,dir
+1028.Recover a Tree From Preorder Traversal,dir
+1029.Two City Scheduling,dir
+1030.Matrix Cells in Distance Order,dir
+1033.Moving Stones Until Consecutive,dir
+1034.Coloring A Border,dir
+1037.Valid Boomerang,dir
+1038.Binary Search Tree to Greater Sum Tree,dir
+1041.Robot Bounded In Circle,dir
+1043.Partition Array for Maximum Sum,dir
+1046.Last Stone Weight,dir
+1047.Remove All Adjacent Duplicates In String,dir
+1048.Longest String Chain,dir
+1049.Last Stone Weight I,dir
+1051.Height Checker,dir
+1052.Grumpy Bookstore Owner,dir
+1053.Previous Permutation With One Swap,dir
+1054.Distant Barcodes,dir
+1071.Greatest Common Divisor of Strings,dir
+1072.Flip Columns For Maximum Number of Equal Rows,dir
+1073.Adding Two Negabinary Numbers,dir
+1079.Letter Tile Possibilities,dir
+1080.Insufficient Nodes in Root to Leaf Paths,dir
+1081.Smallest Subsequence of Distinct Characters,dir
+1089.Duplicate Zeros,dir
+1090.Largest Values From Labels,dir
+1091.Shortest Path in Binary Matrix,dir
+1093.Statistics from a Large Sample,dir
+1094.Car Pooling,dir
+1095.Find in Mountain Array,dir
+1103.Distribute Candies to People,dir
+1104.Path In Zigzag Labelled Binary Tree,dir
+1108.Defanging an IP Address,dir
+1109.Corporate Flight Bookings,dir
+1110.Delete Nodes And Return Forest,dir
+1111.Maximum Nesting Depth of Two Valid Parentheses Strings,dir
+1114.Print in Order,dir
+1115.Print FooBar Alternately,dir
+1116.Print Zero Even Odd,dir
+1117.Building H2O,dir
+1122.Relative Sort Array,dir
+1123.Lowest Common Ancestor of Deepest Leaves,dir
+1124.Longest Well-Performing Interval,dir
+1128.Number of Equivalent Domino Pairs,dir
+1137.N-th Tribonacci Number,dir
+1138.Alphabet Board Path,dir
+1139.Largest 1-Bordered Square,dir
+1140.Stone Game II,dir
+1144.Decrease Elements To Make Array Zigzag,dir
+1147.Longest Chunked Palindrome Decomposition,dir
+1155.Number of Dice Rolls With Target Sum,dir
+1171.Remove Zero Sum Consecutive Nodes from Linked List,dir
+1184.Distance Between Bus Stops,dir
+1185.Day of the Week,dir
+1234.Replace the Substring for Balanced String,dir
+1275.Find Winner on a Tic Tac Toe Game,dir
+1276.Number of Burgers with No Waste of Ingredients,dir
+1277.Count Squre Submatrices with All Ones,dir
+1278.Palindrome Partitioning III,dir
+5075.Number of Submatrices That Sum to Target,dir
+5076.Greatest Common Divisor of Strings,dir
+5077.Flip Columns For Maximum Number of Equal Rows,dir
+5078.Adding Two Negabinary Numbers,dir
+5083.Occurrences After Bigram,dir
+5084.Insufficient Nodes in Root to Leaf Paths,dir
+5086.Smallest Subsequence of Distinct Characters,dir
+5087.Letter Tile Possibilities,dir
+CODEOWNERS,file
+Construct-Binary-Search-Tree-from-Preorder-Traversal.png,file
+LICENSE,file
+Largest-Component-Size-by-Common-Factor1.png,file
+Largest-Component-Size-by-Common-Factor2.png,file
+Largest-Component-Size-by-Common-Factor3.png,file
+README.md,file
+README_EN.md,file
+Solution.c,file
+Solution.cpp,file
+Solution.go,file
+Solution.java,file
+Solution.js,file
+Solution.py,file
+Solution.rb,file
+Solution.scala,file
+Solution.sh,file
+Solution2.cpp,file
+Solution2.go,file
+Solution2.java,file
+Solution2.js,file
+Solution2.py,file
+Solution3.cpp,file
+Solution3.java,file
+brick_wall.png,file
+cc-by-nc-sa-80x15.png,file
+cc-by-nc-sa-88x31.png,file
+cc-by-sa-80x15.png,file
+cc-by-sa-88x31.png,file
+clone-fork-doocs-leetcode.jpg,file
+create-pull-request.png,file
+dev-pull-request.png,file
+doocs-leetcode.png,file
+email-of-pull-request.jpg,file
+hardcore-forking-yanglbme - 2.gif,file
+hardcore-forking-yanglbme.gif,file
+histogram.png,file
+histogram_area.png,file
+how-to-contribute.png,file
+img,dir
+leetcode-doocs.png,file
+new.md,file
+random-list-step1.png,file
+random-list-step2.png,file
+random-list-step3.png,file
+random-list.png,file
+robot_maze.png,file
+solution,dir

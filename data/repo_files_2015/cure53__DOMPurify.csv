@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.jshintrc,file
+LICENSE,file
+README.md,file
+bower.json,file
+build-demo.js,file
+demo,dir
+expect.json,file
+index.html,file
+index.tpl,file
+package.json,file
+purify.js,file
+scripts,dir
+server.js,file
+test,dir

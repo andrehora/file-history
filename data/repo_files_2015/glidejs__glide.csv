@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+@examples,dir
+Gruntfile.js,file
+README.md,file
+bower.json,file
+css,dir
+dist,dir
+index.html,file
+jquery.glide.js,file
+jquery.glide.min.js,file
+package.json,file
+sass,dir
+src,dir
+style.css,file
+style.scss,file

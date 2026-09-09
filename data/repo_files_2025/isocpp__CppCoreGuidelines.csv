@@ -1,0 +1,62 @@
+name,type
+.github,dir
+.gitignore,file
+.remarkrc,file
+.travis.yml,file
+CONTRIBUTING.md,file
+Contracts-for-Dependable-C++.pdf,file
+CppCoreGuidelines.md,file
+Introduction to type and resource safety.pdf,file
+LICENSE,file
+Large-Scale-C++-With-Modules.pdf,file
+Lifetime.pdf,file
+MacIntosh - A Few Good Types.pdf,file
+MacIntosh - Static Analysis and C++.pdf,file
+Makefile,file
+Makefile.in,file
+P0122R4.pdf,file
+README.md,file
+SECURITY.md,file
+Stroustrup - CppCon 2015 keynote.pdf,file
+Sutter - CppCon 2015 day 2 plenary .pdf,file
+_config.yml,file
+_includes,dir
+_layouts,dir
+bg_hr.png,file
+blacktocat.png,file
+build.yml,file
+cpp_core_guidelines_16b.png,file
+cpp_core_guidelines_logo_text.png,file
+cpplint.py,file
+cpplint_wrap.py,file
+css,dir
+ctor-dtor-raii-popl12.pdf,file
+custom.css,file
+default.html,file
+docs,dir
+en_US.aff,file
+en_US.dic,file
+gsl-intro.md,file
+head.html,file
+hunspell,dir
+hyde.css,file
+icon_download.png,file
+images,dir
+index.html,file
+isocpp.dic,file
+jekyll-gh-pages.yml,file
+md-split.py,file
+nodejs,dir
+package.json,file
+param-passing-advanced.png,file
+param-passing-normal.png,file
+params.json,file
+poole.css,file
+public,dir
+python,dir
+remark,dir
+scripts,dir
+sidebar.html,file
+sprite_download.png,file
+talks,dir
+workflows,dir

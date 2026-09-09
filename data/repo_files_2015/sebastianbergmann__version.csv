@@ -1,0 +1,16 @@
+name,type
+.gitattributes,file
+.gitignore,file
+ChangeLog.md,file
+LICENSE,file
+README.md,file
+Version.php,file
+autoload.php,file
+bootstrap.php,file
+build,dir
+build.xml,file
+composer.json,file
+package.xml,file
+phpunit.xml,file
+src,dir
+tests,dir

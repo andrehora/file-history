@@ -1,0 +1,13 @@
+name,type
+LICENSE,file
+Mbstring.php,file
+README.md,file
+Resources,dir
+bootstrap.php,file
+bootstrap80.php,file
+caseFolding.php,file
+composer.json,file
+lowerCase.php,file
+titleCaseRegexp.php,file
+unidata,dir
+upperCase.php,file

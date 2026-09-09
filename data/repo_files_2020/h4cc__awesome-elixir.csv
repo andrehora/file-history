@@ -1,0 +1,13 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+.travis.yml,file
+CONTRIBUTING.md,file
+ISSUE_TEMPLATE.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+check.exs,file
+mix.exs,file
+mix.lock,file
+tests,dir

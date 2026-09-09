@@ -1,0 +1,10 @@
+name,type
+.github,dir
+.gitignore,file
+README.md,file
+dependabot.yml,file
+links.yml,file
+markdown-links-config.json,file
+misspell.yml,file
+notfound.yml,file
+workflows,dir

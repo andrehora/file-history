@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+LICENSE,file
+Readme.md,file
+index.js,file
+package-lock.json,file
+package.json,file

@@ -1,0 +1,14 @@
+name,type
+.eslintignore,file
+.eslintrc,file
+.gitattributes,file
+.gitignore,file
+.jscsrc,file
+.travis.yml,file
+CHANGELOG.md,file
+LICENSE,file
+README.md,file
+appveyor.yml,file
+index.js,file
+package.json,file
+test,dir

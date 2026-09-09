@@ -1,0 +1,454 @@
+name,type
+.gitignore,file
+ACOverlayController.swift,file
+ACOverlayController.xib,file
+ACOverlayPanel.swift,file
+ACOverlayPreview.swift,file
+ACOverlayWrapper.swift,file
+ACPixelPicker.swift,file
+AccentColor.colorset,dir
+Action.swift,file
+AndroidIconGenerator.swift,file
+App,dir
+AppDelegate.swift,file
+AppIcon.appiconset,dir
+AppModel.swift,file
+AppViewController.swift,file
+AppWindowController.swift,file
+Area.swift,file
+Artboard Copy 2.pdf,file
+Artboard Copy 21.pdf,file
+Artboard Copy 22.pdf,file
+Artboard Copy 23.pdf,file
+Artboard.pdf,file
+Assets.xcassets,dir
+Audio Converter,dir
+AudioConverter.swift,file
+AudioConverterView+.swift,file
+AudioFileScanner.swift,file
+Base.lproj,dir
+Base64DecoderView+.swift,file
+Body,dir
+BodyViewController.swift,file
+BoxHSBColorPicker.swift,file
+Bridging-Header.h,file
+BrightnessBarView.swift,file
+Button.swift,file
+CameraViewController.swift,file
+ChecksumGeneratorView+.swift,file
+CircleBarsHSBColorPicker.swift,file
+CircleBoxHSBColorPicker.swift,file
+CircleHueBarView.swift,file
+Class,dir
+CodeTextView.swift,file
+Coder,dir
+Color Picker,dir
+Color.swift,file
+ColorBoxView.swift,file
+ColorPickerHandleLayer.swift,file
+ColorPickerView+.swift,file
+ColorSampleView.swift,file
+Combine,dir
+Combine+ObjectBag.swift,file
+Combine+Peek.swift,file
+Component,dir
+Components,dir
+Contents.json,file
+ControlBackgroundLayer.swift,file
+ControlContainer.swift,file
+Convert,dir
+CoreGraphics,dir
+CoreUtil,dir
+CoreUtil.h,file
+CoreUtil.xcodeproj,dir
+DateConverterView+.swift,file
+DatePicker.swift,file
+DefaultImageExporter.swift,file
+Delta.swift,file
+DevToys,dir
+DevToys.entitlements,file
+DevToys.xcodeproj,dir
+DevToys.xcscheme,file
+DevToys.xcworkspace,dir
+DragImageView.swift,file
+EmptyImageTableView.swift,file
+Ex+Array.swift,file
+Ex+CALayer.swift,file
+Ex+CGImage.swift,file
+Ex+CGPoint.swift,file
+Ex+CGRect.swift,file
+Ex+CGSize.swift,file
+Ex+Clamp.swift,file
+Ex+Image.swift,file
+Ex+Localize.swift,file
+Ex+NSBezierPath.swift,file
+Ex+NSColor.swift,file
+Ex+NSControl.swift,file
+Ex+NSEdgeInsets.swift,file
+Ex+NSEvent.swift,file
+Ex+NSMenuItem.swift,file
+Ex+NSPopover.swift,file
+Ex+NSTableView.swift,file
+Ex+Number.swift,file
+Ex+OptionSet.swift,file
+Ex+UI.swift,file
+ExceptionHandler.swift,file
+ExceptionHanlder,dir
+ExceptionHanlder.h,file
+ExceptionHanlder.m,file
+Export.swift,file
+Exporters,dir
+Extensions,dir
+FFMpegExecutor.swift,file
+FFProgressReport.swift,file
+FFTask.swift,file
+FFThumnailGenerator.swift,file
+FFTime.swift,file
+FileConflictAvoider.swift,file
+FileDrop.swift,file
+Folder,dir
+Format,dir
+Generator,dir
+Generators,dir
+GifConverter.swift,file
+GifConverterView+.swift,file
+Graphic,dir
+Group.pdf,file
+HTMLDecoderView+.swift,file
+HashGeneratorView+.swift,file
+HeicImageExporter.swift,file
+HomeView+.swift,file
+HotKey,dir
+HotKey.swift,file
+HueBarView.swift,file
+HyphenationRemoverView+.swift,file
+IDEWorkspaceChecks.plist,file
+IOSIconGenerator.swift,file
+IcnsGenerator.swift,file
+IcoGenerator.swift,file
+Icon Generator,dir
+Icon Templete,dir
+IconFolderGenerator.swift,file
+IconGenerator+Model.swift,file
+IconGeneratorView+.swift,file
+IconImageManager.swift,file
+IconSet.swift,file
+IconTemplete+.swift,file
+IconTemplete.swift,file
+IconsetGenerator.swift,file
+Identifier.swift,file
+Image Converter,dir
+Image Optimizer,dir
+ImageConverter.swift,file
+ImageConverterView+.swift,file
+ImageDropView.swift,file
+ImageDropper.swift,file
+ImageOptimaizerView.swift,file
+ImageOptimizer.swift,file
+Info.plist,file
+IosIconGenerator.swift,file
+JSON Search,dir
+JSONFormatterView+.swift,file
+JSONNormalSearchView.swift,file
+JSONSearchView+.swift,file
+JSONYamlConverterView+.swift,file
+JWTDecoderView+.swift,file
+Key.swift,file
+LICENSE,file
+Localizable.strings,file
+LoremIpsumGeneratorView+.swift,file
+Main.storyboard,file
+Main.strings,file
+Media,dir
+Model,dir
+Movie to Gif,dir
+NS+OnAwake.swift,file
+NSColorView.swift,file
+NSControl+Combine.swift,file
+NSEvent+HotKey.swift,file
+NSTextField+Combine.swift,file
+NSViewController+ChainObject.swift,file
+NSViewController+StateObject.swift,file
+NumberBaseConverterView+.swift,file
+NumberField.swift,file
+Observable.swift,file
+OpacityBarView.swift,file
+PDFGeneratorView+.swift,file
+Package.resolved,file
+Page.swift,file
+PipeOperator.swift,file
+Pixel Picker,dir
+PngIconGenerator.swift,file
+PopupButton.swift,file
+QRCodeGeneratorView+.swift,file
+QRCodeReaderView+.swift,file
+Query.swift,file
+R+ColorPicker.swift,file
+R.swift,file
+README.md,file
+Reachability+Publisher.swift,file
+Reachability.swift,file
+RegexTesterView+.swift,file
+RegexTextView.swift,file
+Release Checklist.md,file
+Resource,dir
+RestorableData.swift,file
+RestorableState.swift,file
+SQLFormatterView+.swift,file
+SaturationBarView.swift,file
+SearchCell.swift,file
+Section.swift,file
+SectionButton+.swift,file
+SectionButton.swift,file
+Separator.swift,file
+SettingView+.swift,file
+Settings.swift,file
+ShowAndHideCursor.h,file
+ShowAndHideCursor.m,file
+ShowAndHideCursor.swift,file
+Sidebar,dir
+SidebarView+.swift,file
+Slugify.swift,file
+Swift,dir
+TagCloudView.swift,file
+Terminal.swift,file
+Text,dir
+TextDiffView+.swift,file
+TextField.swift,file
+TextFieldSection.swift,file
+TextInspectorView+.swift,file
+TextView.swift,file
+TextViewSection.swift,file
+Toast.swift,file
+Tool+Default.swift,file
+ToolCategory+Default.swift,file
+ToolCategoryCell.swift,file
+ToolManager+.swift,file
+ToolMenuCell.swift,file
+UI,dir
+URLDecoderView+.swift,file
+UUIDGeneratorView+.swift,file
+Util+PixelPicker.swift,file
+Utils,dir
+View,dir
+ViewPlaceholder.swift,file
+WebpImageExporter.swift,file
+XMLFormatterView+.swift,file
+Zip3Sequence.swift,file
+android_mask.png,file
+api.imageset,dir
+appcast.xml,file
+applewatch.imageset,dir
+applewatch.pdf,file
+audio.convert.imageset,dir
+audio.convert.pdf,file
+base64.coder copy.pdf,file
+base64.coder.imageset,dir
+big_sur_icon,dir
+carplay.imageset,dir
+carplay.pdf,file
+check.imageset,dir
+clear.imageset,dir
+clear.pdf,file
+color.blindness.simulator copy.pdf,file
+color.blindness.simulator.imageset,dir
+color.picker.imageset,dir
+color.picker.pdf,file
+contents.xcworkspacedata,file
+convert copy.pdf,file
+convert.imageset,dir
+convert.pdf,file
+copy.imageset,dir
+copy.pdf,file
+cwebp,file
+date.convert.imageset,dir
+de.lproj,dir
+docs,dir
+drop.imageset,dir
+drop.pdf,file
+en.lproj,dir
+encoder.decoder copy.pdf,file
+encoder.decoder.imageset,dir
+error.imageset,dir
+es.lproj,dir
+export.imageset,dir
+export.pdf,file
+external_1024x1024.png,file
+external_128x128.png,file
+external_16x16.png,file
+external_256x256.png,file
+external_32x32.png,file
+external_512x512.png,file
+external_64x64.png,file
+external_drive,dir
+ffmpeg,dir
+ffmpeg,file
+folder_back,dir
+folder_back_1024_bs.png,file
+folder_back_128_bs.png,file
+folder_back_128_dark_bs.png,file
+folder_back_16_bs.png,file
+folder_back_16_dark_bs.png,file
+folder_back_256_bs.png,file
+folder_back_256_dark_bs.png,file
+folder_back_32_bs.png,file
+folder_back_32_dark_bs.png,file
+folder_back_512_bs.png,file
+folder_back_512_dark_bs.png,file
+folder_back_64_bs.png,file
+folder_back_64_dark_bs.png,file
+folder_back_dark,dir
+folder_back_dark_bs.png,file
+folder_mask,dir
+folder_mask2_1024_bs.png,file
+folder_mask2_128_bs.png,file
+folder_mask2_16_bs.png,file
+folder_mask2_256_bs.png,file
+folder_mask2_32_bs.png,file
+folder_mask2_512_bs.png,file
+folder_mask2_64_bs.png,file
+folder_top,dir
+folder_top_1024.png,file
+folder_top_512.png,file
+format.imageset,dir
+format.pdf,file
+formatter copy.pdf,file
+formatter.imageset,dir
+generator copy.pdf,file
+generator.imageset,dir
+gif.imageset,dir
+gif.pdf,file
+graphic copy.pdf,file
+graphic.imageset,dir
+hash.generator copy.pdf,file
+hash.generator.imageset,dir
+home copy.pdf,file
+home.imageset,dir
+html.coder copy.pdf,file
+html.coder.imageset,dir
+hyphen.imageset,dir
+hyphen.pdf,file
+icon.generator.imageset,dir
+icon.generator.pdf,file
+icon_128x128.png,file
+icon_128x128@2x.png,file
+icon_16x16.png,file
+icon_16x16@2x.png,file
+icon_256x256.png,file
+icon_256x256@2x.png,file
+icon_32x32.png,file
+icon_32x32@2x.png,file
+icon_512x512.png,file
+icon_512x512@2x.png,file
+image.compressor copy.pdf,file
+image.compressor.imageset,dir
+image.converter.imageset,dir
+image.converter.pdf,file
+index.html,file
+ipad.imageset,dir
+ipad.pdf,file
+ipaddress.imageset,dir
+ipaddress.pdf,file
+iphone.imageset,dir
+iphone.pdf,file
+ja.lproj,dir
+jpegoptim,file
+json.convert copy.pdf,file
+json.convert.imageset,dir
+json.formatter copy.pdf,file
+json.formatter.imageset,dir
+json.search.imageset,dir
+json.search.pdf,file
+jwt copy.pdf,file
+jwt.coder.imageset,dir
+libimageoptimjpeg.dylib,file
+lorem.ipsum.generator copy.pdf,file
+lorem.ipsum.generator.imageset,dir
+mac.imageset,dir
+mac.pdf,file
+markdown.preview.imageset,dir
+media.imageset,dir
+media.pdf,file
+network.imageset,dir
+network.pdf,file
+network.status.imageset,dir
+network.status.pdf,file
+number.base.convert copy 2.pdf,file
+number.base.convert copy.pdf,file
+number.base.convert.imageset,dir
+number.imageset,dir
+open.imageset,dir
+open.pdf,file
+optipng,file
+paramators.imageset,dir
+paramators.pdf,file
+paste.imageset,dir
+paste.pdf,file
+pdf.imageset,dir
+project.pbxproj,file
+project.xcworkspace,dir
+pt-BR.lproj,dir
+pulldown.indicator.imageset,dir
+qr.generator.imageset,dir
+qr.generator.pdf,file
+regex.tester copy.pdf,file
+regex.tester.imageset,dir
+search.imageset,dir
+settings.imageset,dir
+settings.pdf,file
+sidebar.disclosure.imageset,dir
+spacing.imageset,dir
+sparkle,dir
+speed.imageset,dir
+speed.pdf,file
+spuit.imageset,dir
+spuit.pdf,file
+sql.formatter.imageset,dir
+sql.formatter.pdf,file
+squircle_back_1024x1024.png,file
+squircle_back_128x128.png,file
+squircle_back_16x16.png,file
+squircle_back_256x256.png,file
+squircle_back_32x32.png,file
+squircle_back_512x512.png,file
+squircle_back_64x64.png,file
+squircle_bg_mask_1024x1024.png,file
+squircle_bg_mask_256x256.png,file
+squircle_bg_mask_512x512.png,file
+squircle_mask_1024x1024.png,file
+squircle_mask_128x128.png,file
+squircle_mask_16x16.png,file
+squircle_mask_256x256.png,file
+squircle_mask_32x32.png,file
+squircle_mask_512x512.png,file
+squircle_mask_64x64.png,file
+stepper.down.imageset,dir
+stepper.up.imageset,dir
+swiftpm,dir
+text copy 11.pdf,file
+text copy 13.pdf,file
+text copy 15.pdf,file
+text copy 23.pdf,file
+text copy 25.pdf,file
+text copy 26.pdf,file
+text copy 5.pdf,file
+text copy.pdf,file
+text.diff copy.pdf,file
+text.diff.imageset,dir
+text.imageset,dir
+text.inspector copy.pdf,file
+text.inspector.imageset,dir
+text.pdf,file
+tool,dir
+transparent_background.imageset,dir
+url.coder copy.pdf,file
+url.coder.imageset,dir
+uuid.generator copy.pdf,file
+uuid.generator.imageset,dir
+watermark_mask_bs.png,file
+watermark_mask_dark_bs.png,file
+xcschemes,dir
+xcshareddata,dir
+xml.format.pdf,file
+xml.formatter.imageset,dir
+zh-Hans.lproj,dir

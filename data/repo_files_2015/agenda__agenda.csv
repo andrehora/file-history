@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.npmignore,file
+.travis.yml,file
+History.md,file
+Makefile,file
+README.md,file
+addTests.js,file
+agenda-instance.js,file
+agenda.js,file
+fixtures,dir
+index.js,file
+job.js,file
+lib,dir
+package.json,file
+test,dir

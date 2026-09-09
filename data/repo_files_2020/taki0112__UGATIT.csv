@@ -1,0 +1,16 @@
+name,type
+.DS_Store,file
+.gitignore,file
+LICENSE,file
+README.md,file
+UGATIT.py,file
+ablation.png,file
+assets,dir
+discriminator.png,file
+generator.png,file
+kid.png,file
+main.py,file
+ops.py,file
+teaser.png,file
+user_study.png,file
+utils.py,file

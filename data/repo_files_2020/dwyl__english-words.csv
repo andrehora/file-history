@@ -1,0 +1,17 @@
+name,type
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+create_json.py,file
+gen.sh,file
+read_english_dictionary.py,file
+scripts,dir
+word_list_moby_README.txt,file
+word_list_moby_all_moby_words.icss.yaml,file
+word_list_moby_credits.txt,file
+words.txt,file
+words.zip,file
+words_alpha.txt,file
+words_alpha.zip,file
+words_dictionary.json,file
+words_dictionary.zip,file

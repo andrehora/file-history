@@ -1,0 +1,498 @@
+name,type
+.gitignore,file
+.ipynb_checkpoints,dir
+1543246677825.png,file
+AC.pdf,file
+AdaBoost,dir
+AdaBoost.py,file
+AdaBoost_test.py,file
+Adaboost.ipynb,file
+Algorithms-JeffE-BW.pdf,file
+Algorithms-JeffE.pdf,file
+Assignment #1.pdf,file
+Assignment #2.pdf,file
+BP (v2).pdf,file
+Bias and Variance.pdf,file
+CNN.pdf,file
+CRF-checkpoint.ipynb,file
+CRF.ipynb,file
+Classification (v2).pdf,file
+CourseNotes.pdf,file
+DL.pdf,file
+DNN tip.pdf,file
+DT.ipynb,file
+EM,dir
+Ensemble.pdf,file
+GAN (v3).pdf,file
+Gauss.m,file
+GaussWishart.m,file
+GaussianNB.ipynb,file
+Gmm.py,file
+Gradient Descent.pdf,file
+HMM,dir
+HMM.ipynb,file
+Hung-yi Lee GAN-Basic Idea (2017.04.21).pdf,file
+Hung-yi Lee GAN-Improving GAN (2017.05.05).pdf,file
+Hung-yi Lee RNN (v2).pdf,file
+Hung-yi Lee word2vec (v3).pdf,file
+IRL (v2).pdf,file
+Images,dir
+Iris_perceptron.ipynb,file
+KDT.py,file
+KNN.ipynb,file
+Keras.pdf,file
+LDS,dir
+LICENSE,file
+LR.ipynb,file
+Logistic Regression (v4).pdf,file
+MF.pdf,file
+MathematicalBasis.jpg,file
+MathematicalBasis.png,file
+Module 0_Preparation_0_Setup Instructions.pdf,file
+Module 0_Preparation_1_Python Numpy Tutorial.pdf,file
+Module 0_Preparation_2_IPython Tutorial.pdf,file
+Module 0_Preparation_3_Google Cloud Tutorial.pdf,file
+Module 0_Preparation_4_AWS Tutorial.pdf,file
+Module 1_Neural Networks_0_Image Classification.pdf,file
+Module 1_Neural Networks_1_Linear Classification.pdf,file
+Module 1_Neural Networks_2_Backpropagation.pdf,file
+Module 1_Neural Networks_3_Optimization.pdf,file
+Module 1_Neural Networks_4_Neural Networks Part 1.pdf,file
+Module 1_Neural Networks_4_Neural Networks Part 2.pdf,file
+Module 1_Neural Networks_4_Neural Networks Part 3.pdf,file
+Module 1_Neural Networks_5_Putting it together.pdf,file
+Module 2_Convolutional Neural Networks_0_Convolutional Neural Networks.pdf,file
+Module 2_Convolutional Neural Networks_1_Understanding and Visualizing Convolutional Neural Networks.pdf,file
+Module 2_Convolutional Neural Networks_2_Transfer Learning and Fine-tuning Convolutional Neural Networks.pdf,file
+Ng-MLY01-12.pdf,file
+PCA (v3).pdf,file
+PPO (v3).pdf,file
+PRML,dir
+PRML solution.pdf,file
+PRML-master-Python,dir
+PRMLT-master-MATLAB,dir
+PRML_Pattern Recognition And Machine Learning - Springer  2006.pdf,file
+PRML_Translation.pdf,file
+Projects,dir
+QLearning (v2).pdf,file
+README.md,file
+README.txt,file
+RL (v4).pdf,file
+Regression.pdf,file
+Reinforcement Learning.Sutton.pdf,file
+Reward (v3).pdf,file
+Semi-Supervised Learning with Graphs.pdf,file
+Special Structure (v6).pdf,file
+Structured Introduction.pdf,file
+TSNE.pdf,file
+Why.pdf,file
+[201810]Deep Reinforcement Learning.pdf,file
+[DL-CS231][2018][Fei-fei Li],dir
+[ML-CS229][2011][Andrew NG],dir
+[ML-Coursera][2014][Andrew Ng],dir
+"[Machine Learning (2017,Spring)][Hung-yi Lee]",dir
+"[Machine Learning and having it deep and structured (2018,Spring)][Hung-yi Lee]",dir
+__init__.py,file
+abs.py,file
+ada_delta.py,file
+ada_grad.py,file
+adaboostBin.m,file
+adaboostBinPred.m,file
+adaboostBin_demo.m,file
+adam.py,file
+add.py,file
+array,dir
+auto.pdf,file
+autoencoder.py,file
+bayesian_logistic_regression.py,file
+bayesian_pca.py,file
+bayesian_regression.py,file
+bayesnet,dir
+bernoulli.py,file
+bernoulli_mixture.py,file
+besseliLn.m,file
+beta.py,file
+betheEnergy.m,file
+binPlot.m,file
+books,dir
+broadcast.py,file
+cart_Classification_tree.py,file
+categorical.py,file
+categorical_hmm.py,file
+cauchy.py,file
+ch01,dir
+ch01_Introduction.ipynb,file
+ch02_Probability_Distributions.ipynb,file
+ch03,dir
+ch03_Linear_Models_for_Regression.ipynb,file
+ch04,dir
+ch04_Linear_Models_for_Classfication.ipynb,file
+ch05,dir
+ch05_Neural_Networks.ipynb,file
+ch06,dir
+ch06_Kernel_Methods.ipynb,file
+ch07,dir
+ch07_Sparse_Kernel_Machines.ipynb,file
+ch08,dir
+ch08_Graphical_Models.ipynb,file
+ch09,dir
+ch09_Mixture_Models_and_EM.ipynb,file
+ch10,dir
+ch10_Approximate_Inference.ipynb,file
+ch11,dir
+ch11_Sampling_Methods.ipynb,file
+ch12,dir
+ch12_Continuous_Latent_Variables.ipynb,file
+ch13,dir
+ch13_Sequential_Data.ipynb,file
+ch14,dir
+chapter01,dir
+chapter02,dir
+chapter03,dir
+chapter04,dir
+chapter05,dir
+chapter06,dir
+chapter07,dir
+chapter08,dir
+chapter09,dir
+chapter10,dir
+chapter11,dir
+chapter12,dir
+chapter13,dir
+chapter14,dir
+cholesky.py,file
+classifier.py,file
+clustering,dir
+code,dir
+common,dir
+condEntropy.m,file
+constant.py,file
+convolve2d.py,file
+d2l-zh.pdf,file
+decision_tree,dir
+demo,dir
+det.py,file
+dimreduction,dir
+dirichlet.py,file
+dirichletRnd.m,file
+discrete.py,file
+discreteRnd.m,file
+divide.py,file
+docker_practice .pdf,file
+dropout.py,file
+dual_algorithm_test.py,file
+em.ipynb,file
+emprical_bayes_regression.py,file
+entropy.m,file
+eve.py,file
+exp.py,file
+exponential.py,file
+fa.m,file
+fa_demo.m,file
+fda.m,file
+fishers_linear_discriminant.py,file
+flatten.py,file
+function.py,file
+gamma.py,file
+gaussRnd.m,file
+gauss_demo.m,file
+gaussian.py,file
+gaussian_hmm.py,file
+gaussian_mixture.py,file
+gaussian_process_classifier.py,file
+gaussian_process_regressor.py,file
+gibbsEnergy.m,file
+gmm_test.py,file
+gongzhong.jpg,file
+gongzhong.png,file
+gradient_ascent.py,file
+gson.m,file
+hmm.py,file
+hmmEm.m,file
+hmmFilter.m,file
+hmmRnd.m,file
+hmmSmoother.m,file
+hmmViterbi.m,file
+hmm_demo.m,file
+im2mrf.m,file
+image,dir
+images,dir
+info_demo.m,file
+init.m,file
+introduction.pdf,file
+inv.py,file
+invpd.m,file
+isequalf.m,file
+isingMeanField.m,file
+jointEntropy.m,file
+k_means.py,file
+k_nearest_neighbor,dir
+kalman.py,file
+kalmanFilter.m,file
+kalmanSmoother.m,file
+kernel,dir
+kernel.py,file
+kmeans.m,file
+kmeansPred.m,file
+kmeansRnd.m,file
+kmeans_demo.m,file
+kmeans_mixGaussEm_demo.m,file
+kmedoids.m,file
+kmedoids_demo.m,file
+kn2sd.m,file
+knCenter.m,file
+knCenter_demo.m,file
+knGauss.m,file
+knKmeans.m,file
+knKmeansPred.m,file
+knLin.m,file
+knLin_demo.m,file
+knPca.m,file
+knPcaPred.m,file
+knPoly.m,file
+knReg.m,file
+knRegPred.m,file
+knReg_demo.m,file
+knn_kdtree.py,file
+kseeds.m,file
+label_transformer.py,file
+laplace.py,file
+lattice.m,file
+ld.m,file
+ldsEm.m,file
+ldsRnd.m,file
+lds_demo.m,file
+least_sqaure_method.ipynb,file
+least_squares_classifier.py,file
+letterX.mat,file
+lihang-code,dir
+linReg.m,file
+linRegEm.m,file
+linRegEm_demo.m,file
+linRegFp.m,file
+linRegFp_demo.m,file
+linRegPred.m,file
+linRegVb.m,file
+linReg_demo.m,file
+linRnd.m,file
+linalg,dir
+linear,dir
+linear_regression.py,file
+log.py,file
+log1mexp.m,file
+log1pexp.m,file
+logDirichlet.m,file
+logGauss.m,file
+logKde.m,file
+logMn.m,file
+logMvGamma.m,file
+logSt.m,file
+logVmf.m,file
+logWishart.m,file
+log_softmax.py,file
+logdet.m,file
+logdet.py,file
+loggmpdf.m,file
+logistic_regression,dir
+logistic_regression.py,file
+logitBin.m,file
+logitBinPred.m,file
+logitBin_demo.m,file
+logitMn.m,file
+logitMnPred.m,file
+logitMn_demo.m,file
+lognormexp.m,file
+logsumexp.m,file
+machine_learning_algorithm-master,dir
+markov,dir
+math,dir
+matmul.py,file
+max_pooling2d.py,file
+maxdiff.m,file
+mean.py,file
+metropolis.py,file
+metropolis_hastings.py,file
+mgson.m,file
+mixBernEm.m,file
+mixBernEm_demo.m,file
+mixBernRnd.m,file
+mixDpGb.m,file
+mixDpGbOl.m,file
+mixGaussEm.m,file
+mixGaussEm_demo.m,file
+mixGaussEvidence.m,file
+mixGaussGb.m,file
+mixGaussGb_demo.m,file
+mixGaussPred.m,file
+mixGaussRnd.m,file
+mixGaussSample.m,file
+mixGaussVb.m,file
+mixGaussVbPred.m,file
+mixGaussVb_demo.m,file
+mixLinPred.m,file
+mixLinReg.m,file
+mixLinReg_demo.m,file
+mixLinRnd.m,file
+mixLogitBin.m,file
+mixLogitBinPred.m,file
+mixLogitBin_demo.m,file
+mlp.m,file
+mlpPred.m,file
+mlp_demo.m,file
+momentum.py,file
+mrfBelProp.m,file
+mrfExpProp.m,file
+mrfMeanField.m,file
+mrf_demo.m,file
+multiply.py,file
+multivariate_gaussian.py,file
+multivariate_gaussian_mixture.py,file
+mutInfo.m,file
+mytree.pdf,file
+naive_bayes,dir
+naive_bayes.py,file
+nbBern.m,file
+nbBernPred.m,file
+nbBern_demo.m,file
+nbGauss.m,file
+nbGaussPred.m,file
+nbGauss_demo.m,file
+negative.py,file
+network.py,file
+nmi.m,file
+nn,dir
+nndl-book.pdf,file
+nonlinear,dir
+normalize.m,file
+notebooks,dir
+notes,dir
+notes1.pdf,file
+notes10.pdf,file
+notes11.pdf,file
+notes12.pdf,file
+notes2.pdf,file
+notes3.pdf,file
+notes4.pdf,file
+notes5.pdf,file
+notes6.pdf,file
+notes7a.pdf,file
+notes7b.pdf,file
+notes8.pdf,file
+notes9.pdf,file
+nvi.m,file
+optimizer,dir
+optimizer.py,file
+parameter.py,file
+particle.py,file
+pca.m,file
+pca.py,file
+pcaEm.m,file
+pcaEmC.m,file
+pca_demo.m,file
+perceptron,dir
+perceptron.py,file
+plotClass.m,file
+plotCurveBar.m,file
+plotgm.m,file
+plotkde.m,file
+polynomial.py,file
+power.py,file
+ppcaEm.m,file
+ppcaEm_demo.m,file
+ppcaRnd.m,file
+ppcaVb.m,file
+ppcaVb_demo.m,file
+ppt,dir
+preprocess,dir
+prml,dir
+prml-errata-3rd-20110921.pdf,file
+probability_function.py,file
+product.py,file
+python_numpy_tutorial.ipynb.txt,file
+random,dir
+random.py,file
+random_variable.py,file
+randp.m,file
+rbf.py,file
+readme.md,file
+regression.py,file
+rejection_sampling.py,file
+relatEntropy.m,file
+relevance_vector_classifier.py,file
+relevance_vector_regressor.py,file
+relu.py,file
+reshape.py,file
+ridge_regression.py,file
+rmsprop.py,file
+rv,dir
+rv.py,file
+rvmBinEm.m,file
+rvmBinEm_demo.m,file
+rvmBinFp.m,file
+rvmBinFp_demo.m,file
+rvmBinPred.m,file
+rvmRegEm.m,file
+rvmRegEm_demo.m,file
+rvmRegEm_spSignal_demo.m,file
+rvmRegFp.m,file
+rvmRegFp_demo.m,file
+rvmRegFp_spSignal_demo.m,file
+rvmRegPred.m,file
+rvmRegSeq.m,file
+rvmRegSeq_demo.m,file
+rvmRegSeq_spSignal_demo.m,file
+rvmRegVb.m,file
+rvmRegVb_demo.m,file
+rvmRegVb_spSignal_demo.m,file
+sampling,dir
+sd2kn.m,file
+semi.pdf,file
+setup.py,file
+sigmoid.m,file
+sigmoid.py,file
+sigmoidal.py,file
+sir.py,file
+slice.m,file
+softmax.m,file
+softmax.py,file
+softmax_regression.py,file
+softplus.py,file
+solve.py,file
+solvpd.m,file
+split.py,file
+spring1718_assignment1.zip,file
+spring1718_assignment2_v2.zip,file
+sqdist.m,file
+sqrt.py,file
+square.py,file
+standardize.m,file
+state_space_model.py,file
+students_t.py,file
+sub.m,file
+subtract.py,file
+sum.py,file
+support-vector-machine.ipynb,file
+support_vector_classifier.py,file
+support_vector_machine,dir
+support_vector_machine.py,file
+symeig.m,file
+tanh.py,file
+tensor,dir
+tensor.py,file
+test,dir
+test.py,file
+test_bayesnet,dir
+test_discrete.py,file
+trace.py,file
+transfer.pdf,file
+transpose.py,file
+ud.m,file
+uniform.py,file
+unitize.m,file
+util.py,file
+variational_gaussian_mixture.py,file
+variational_linear_regression.py,file
+variational_logistic_regression.py,file
+weaker_classifier.py,file
+weaker_test.py,file
+word2vec (v2).pdf,file

@@ -1,0 +1,102 @@
+name,type
+.gitignore,file
+0. Course Logistics.ipynb,file
+1. Why are we here.ipynb,file
+2. Topic Modeling with NMF and SVD.ipynb,file
+3. Background Removal with Robust PCA.ipynb,file
+4. Compressed Sensing of CT Scans with Robust Regression.ipynb,file
+5. Health Outcomes with Linear Regression.ipynb,file
+6. How to Implement Linear Regression.ipynb,file
+7. PageRank with Eigen Decompositions.ipynb,file
+8. Implementing QR Factorization.ipynb,file
+AF1QipMKlINdas9JzCH0FUrOj7FyVKhQUAGBSHTLSbK9.url,file
+Finite_element_sparse_matrix.png,file
+Halide1.gif,file
+Halide2.gif,file
+Halide3.gif,file
+Homework 1.ipynb,file
+Homework 2.ipynb,file
+Homework 3.ipynb,file
+InsideImagenet.png,file
+L1vsL2.jpg,file
+L1vsL2_2.png,file
+Project_ideas.txt,file
+README.md,file
+adjaceny_matrix.jpg,file
+adjaceny_matrix.png,file
+arnoldi.jpg,file
+background.jpg,file
+block_matrix.png,file
+bloom_filter.png,file
+britlit.xlsx,file
+candes.png,file
+cholesky_factorization_speed.png,file
+cincinnati_reds.png,file
+cincinnati_reds2.png,file
+cnn1.png,file
+cnn2.png,file
+cnn3.png,file
+convolution-intro.ipynb,file
+ct_1.png,file
+cython_vs_numba.png,file
+data.png,file
+data_xray.png,file
+digit.gif,file
+document_term.png,file
+excel,dir
+face_nmf.png,file
+face_outputs.png,file
+face_pca.png,file
+faces_rpca.png,file
+faces_rpca_gross.png,file
+faces_rpca_gross2.png,file
+figures.jpg,file
+fltscale-wh.png,file
+fltscale.svg,file
+fpa.png,file
+full_qr.JPG,file
+full_svd.JPG,file
+graddesc.xlsm,file
+gradient-descent-intro.ipynb,file
+graph.png,file
+grid.jpg,file
+hermitian_eigen.JPG,file
+image1.bmp,file
+image1.jpg,file
+images,dir
+lesson4.png,file
+markov_health.jpg,file
+matrix_operations.png,file
+nbs,dir
+nimfa.png,file
+nmf_doc.png,file
+nonhermitian_eigen.JPG,file
+page_rank_graph.png,file
+pcp_algorithm.png,file
+pentium_nytimes.png,file
+prob1.png,file
+prob2.png,file
+proj.png,file
+projection.png,file
+projection_line.png,file
+randomizedSVDbenchmarks.png,file
+reduced_qr.JPG,file
+reduced_svd.JPG,file
+rpca_inexact.png,file
+shop.png,file
+skinny_image.jpg,file
+sklearn_ct.png,file
+sparse.png,file
+sportspredict.jpeg,file
+surveillance3.png,file
+svd_fb.png,file
+svddiagram.gif,file
+svp_value.png,file
+top10.png,file
+what_is_pytorch.png,file
+whole_image.jpg,file
+why_python.png,file
+word2vec_analogies.png,file
+word2vec_sexist.png,file
+xray.png,file
+zoom.bmp,file

@@ -1,0 +1,23 @@
+name,type
+.gitignore,file
+1. Simplest API.md,file
+2. Resource and Actions.md,file
+3. Named Resource and Actions.md,file
+4. Grouping Resources.md,file
+5. Responses.md,file
+6. Requests.md,file
+7. Parameters.md,file
+8. Resource Model.md,file
+API Blueprint Specification.md,file
+Gist Fox API + Auth.md,file
+Gist Fox API.md,file
+Glossary of Terms.md,file
+LICENSE,file
+README.md,file
+Real World API.md,file
+Tutorial.md,file
+assets,dir
+examples,dir
+lifecycle.png,file
+logo_apiblueprint.png,file
+map.png,file

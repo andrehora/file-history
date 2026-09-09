@@ -1,0 +1,7 @@
+name,type
+.gitignore,file
+README.markdown,file
+doc,dir
+plugin,dir
+surround.txt,file
+surround.vim,file

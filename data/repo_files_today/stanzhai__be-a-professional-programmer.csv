@@ -1,0 +1,6 @@
+name,type
+CNAME,file
+LICENSE,file
+README.md,file
+_config.yml,file
+google_host.txt,file

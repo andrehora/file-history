@@ -1,0 +1,7 @@
+name,type
+.github,dir
+FUNDING.yml,file
+README.md,file
+autounattend.xml,file
+tiny11Coremaker.ps1,file
+tiny11maker.ps1,file

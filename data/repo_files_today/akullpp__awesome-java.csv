@@ -1,0 +1,16 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+CONTRIBUTING.md,file
+GenerateReadme.java,file
+LICENSE,file
+LICENSE-CODE,file
+README.md,file
+README_SOURCE.md,file
+mise.toml,file
+pull_request_template.md,file
+scripts,dir
+update-readme.yml,file
+workflows,dir

@@ -1,0 +1,34 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+Appendix A -- Notation Conventions.md,file
+Appendix B -- Grammar Summary.md,file
+CONTRIBUTING.md,file
+Facebook-GraphQL-OWFa1.0.pdf,file
+GraphQL Logo.ai,file
+GraphQL Logo.png,file
+GraphQL Logo.svg,file
+GraphQL.md,file
+ISSUE_TEMPLATE.md,file
+InputUnion.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+Section 1 -- Overview.md,file
+Section 2 -- Language.md,file
+Section 3 -- Type System.md,file
+Section 4 -- Introspection.md,file
+Section 5 -- Validation.md,file
+Section 6 -- Execution.md,file
+Section 7 -- Response.md,file
+Subscriptions.md,file
+package.json,file
+publish.sh,file
+resources,dir
+rfcs,dir
+signed-agreements,dir
+spec,dir
+subscriptions_01.png,file
+subscriptions_02.png,file
+subscriptions_03.png,file
+yarn.lock,file

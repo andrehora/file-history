@@ -1,0 +1,9 @@
+name,type
+.github,dir
+.gitignore,file
+How_to_contribute.md,file
+README.md,file
+auto_organizer.py,file
+scripts,dir
+to_update.yml,file
+workflows,dir

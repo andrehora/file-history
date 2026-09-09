@@ -1,0 +1,15 @@
+name,type
+.github,dir
+CNAME,file
+CONTRIBUTING.md,file
+CURRICULAR_GUIDELINES.md,file
+FAQ.md,file
+HELP.md,file
+ISSUE_TEMPLATE,dir
+LICENSE,file
+README.md,file
+delete-empty-issues.yml,file
+documents,dir
+release.md,file
+request-for-comment-template.md,file
+workflows,dir

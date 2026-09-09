@@ -1,0 +1,56 @@
+name,type
+.codecov.yml,file
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+CONTRIBUTING.md,file
+EURUSD.csv,file
+FUNDING.yml,file
+GOOG.csv,file
+LICENSE.md,file
+MANIFEST.in,file
+Multiple Time Frames.ipynb,file
+Multiple Time Frames.py,file
+Parameter Heatmap & Optimization.ipynb,file
+Parameter Heatmap & Optimization.py,file
+Quick Start User Guide.ipynb,file
+Quick Start User Guide.py,file
+README.md,file
+Strategies Library.ipynb,file
+Strategies Library.py,file
+Trading with Machine Learning.ipynb,file
+Trading with Machine Learning.py,file
+__init__.py,file
+__main__.py,file
+_plotting.py,file
+_stats.py,file
+_test.py,file
+_util.py,file
+alternatives.md,file
+autoscale_cb.js,file
+backtesting,dir
+backtesting.py,file
+build.sh,file
+ci.yml,file
+config.mako,file
+credits.mako,file
+deploy-docs.yml,file
+deploy-gh-pages.sh,file
+doc,dir
+examples,dir
+head.mako,file
+ipython_config.py,file
+issue_template.md,file
+lib.py,file
+logo.mako,file
+logo.png,file
+logo.py,file
+pdoc_template,dir
+pyproject.toml,file
+requirements.txt,file
+scripts,dir
+setup.cfg,file
+setup.py,file
+strip_yaml.awk,file
+test,dir
+workflows,dir

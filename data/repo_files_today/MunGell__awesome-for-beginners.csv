@@ -1,0 +1,14 @@
+name,type
+.github,dir
+CONTRIBUTING.md,file
+FUNDING.yml,file
+README-template.j2,file
+README.md,file
+build.yml,file
+cghi.py,file
+data.json,file
+invalid.yml,file
+link-check.yml,file
+render-readme.py,file
+scripts,dir
+workflows,dir

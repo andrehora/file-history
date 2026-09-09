@@ -1,0 +1,8 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+README.md,file
+README_en_US.md,file
+images,dir
+propose.md,file
+weapp-qr.jpg,file

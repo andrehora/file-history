@@ -1,0 +1,9 @@
+name,type
+.gitignore,file
+FAQ.md,file
+LICENSE,file
+README.md,file
+docs,dir
+faq,dir
+preserve-cd-1.pdf,file
+preserve-cd-2.pdf,file

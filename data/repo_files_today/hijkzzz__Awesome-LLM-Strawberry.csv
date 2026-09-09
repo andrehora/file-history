@@ -1,0 +1,4 @@
+name,type
+.pre-commit-config.yaml,file
+LICENSE,file
+README.md,file

@@ -1,0 +1,9 @@
+name,type
+.github,dir
+CODE_OF_CONDUCT.md,file
+ISSUE_TEMPLATE.md,file
+README.md,file
+SECURITY.md,file
+dependabot.yml,file
+winget.yml,file
+workflows,dir

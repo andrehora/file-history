@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+LICENSE.txt,file
+README.md,file
+__init__.py,file
+api.py,file
+const.py,file
+flavor.json,file
+logger.py,file
+menu.py,file
+player.py,file
+setup.py,file
+src,dir
+ui.py,file

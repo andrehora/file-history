@@ -1,0 +1,59 @@
+name,type
+.DS_Store,file
+1-0.png,file
+1-1.png,file
+1-2.png,file
+1-3.jpeg,file
+1-3.png,file
+1-4.png,file
+1-5.png,file
+2-0.jpg,file
+2-0.png,file
+2-1.jpg,file
+2-1.png,file
+2-2.jpg,file
+2-2.png,file
+2-3.png,file
+2-4.jpg,file
+2-4.png,file
+2.2 Encoder-Decoder.md,file
+3-0.png,file
+3-1.png,file
+3.1 Encoder-Only.md,file
+3.2 Eocoder-Decoder.md,file
+3.3 Decoder-Only.md,file
+7.1-1.png,file
+8-1-Open LLM Leaderboard.png,file
+8-1-lmsys Chatbot Arena Leaderboard.png,file
+8-1-opencompass.png,file
+8-3-rag.png,file
+8-3-tinyrag.png,file
+8.3 RAG.md,file
+Embeddings.py,file
+LLM.py,file
+RAG,dir
+README.md,file
+VectorBase.py,file
+_sidebar.md,file
+chapter1,dir
+chapter2,dir
+chapter3,dir
+chapter4,dir
+chapter5,dir
+chapter7,dir
+chapter8,dir
+code,dir
+data,dir
+docs,dir
+figures,dir
+images,dir
+model.py,file
+preference.json,file
+preprocess.py,file
+requirements.txt,file
+sample.py,file
+tok4096.model,file
+tokenizer.py,file
+train.py,file
+train_vocab.py,file
+utils.py,file

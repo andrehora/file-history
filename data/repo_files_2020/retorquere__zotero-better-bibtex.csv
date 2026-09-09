@@ -1,0 +1,1995 @@
+name,type
+(non-)dropping particle handling #313.biblatex,file
+(non-)dropping particle handling #313.json,file
+",.;'[]{}`-=~!@#$%^&()_+.pdf",file
+.github,dir
+.gitignore,file
+.gitmodules,file
+.ignore,file
+.nightly.json,file
+.nvmrc,file
+.parentlock,file
+.ruby-gemset,file
+.trace.json,file
+.travis.yml,file
+1.pdf,file
+2.pdf,file
+32,dir
+404.html,file
+495DA550E7E643B1F3697E7380AF1FE3A1D9BC07,file
+"@jurisdiction; map court,authority to institution #326.biblatex",file
+"@jurisdiction; map court,authority to institution #326.json",file
+"@legislation; map code,container-title to journaltitle #327.biblatex",file
+"@legislation; map code,container-title to journaltitle #327.json",file
+A Contra Corriente.js,file
+ACLWeb.js,file
+ACM Digital Library.js,file
+ACS Publications.js,file
+ADS exports dates like 1993-00-00 #1066.biblatex,file
+ADS exports dates like 1993-00-00 #1066.json,file
+AEA Web.js,file
+AIP.js,file
+AMS Journals.js,file
+AMS MathSciNet.js,file
+APA PsycNET.js,file
+APN.ru.js,file
+APS-Physics.js,file
+APS.js,file
+ARCHIWUM,dir
+ARTFL Encyclopedie.js,file
+ARTnews.js,file
+ARTstor.js,file
+ASCE.js,file
+ASCO Meeting Library.js,file
+ATS International Journal.js,file
+AUX scanner-post.json,file
+AUX scanner-pre.json,file
+AUX scanner.aux,file
+AVX3W9~F.PDF,file
+Ab Imperio.js,file
+Abbreviations in key generated for Conference Proceedings #548.biblatex,file
+Abbreviations in key generated for Conference Proceedings #548.json,file
+Access Medicine.js,file
+Adams_Huaynaputina.pdf,file
+Agencia del ISBN.js,file
+Air University Journals.js,file
+Airiti.js,file
+Alexander Street Press.js,file
+AllAfrica.js,file
+Allow explicit field override.biblatex,file
+Allow explicit field override.json,file
+AlterNet.js,file
+AlternateServices.txt,file
+Aluka.js,file
+Amazon.js,file
+American Institute of Aeronautics and Astronautics.js,file
+American Prospect.js,file
+Ancestry.com US Federal Census.js,file
+Annual Reviews.js,file
+Antikvarium.hu.js,file
+Archeion.js,file
+Archiv fuer Sozialgeschichte.js,file
+Archive Ouverte en Sciences de l'Information et de la Communication  (AOSIC).js,file
+Archives Canada-France.js,file
+Archives Canada.js,file
+Artefacts Canada.js,file
+Artykuly_materialy,dir
+"Async import, large library #720.bib",file
+"Async import, large library #720.json",file
+Atlanta Journal Constitution.js,file
+Atypon Journals.js,file
+AustLII and NZLII.js,file
+Australian Dictionary of Biography.js,file
+Author splitter failure.bib,file
+Author splitter failure.json,file
+BAILII.js,file
+BBC Genome.js,file
+BBC.js,file
+BBT CSL JSON; Do not use shortTitle and journalAbbreviation #372.csl.json,file
+BBT CSL JSON; Do not use shortTitle and journalAbbreviation #372.json,file
+BBT export of square brackets in date #245 -- xref should not be escaped #246.biblatex,file
+BBT export of square brackets in date #245 -- xref should not be escaped #246.json,file
+BIBSYS.js,file
+BOCC.js,file
+BOFiP-Impots.js,file
+Baidu Scholar.js,file
+Baltes_Staudinger_2000_Wisdom.pdf,file
+Be robust against misconfigured journal abbreviator #127.biblatex,file
+Be robust against misconfigured journal abbreviator #127.json,file
+Beobachter.js,file
+Better BibLaTeX import improvements #549.bib,file
+Better BibLaTeX import improvements #549.json,file
+Better BibLaTeX.001.biblatex,file
+Better BibLaTeX.001.json,file
+Better BibLaTeX.002.biblatex,file
+Better BibLaTeX.002.json,file
+Better BibLaTeX.003.biblatex,file
+Better BibLaTeX.003.json,file
+Better BibLaTeX.004.biblatex,file
+Better BibLaTeX.004.json,file
+Better BibLaTeX.005.biblatex,file
+Better BibLaTeX.005.json,file
+Better BibLaTeX.006.biblatex,file
+Better BibLaTeX.006.json,file
+Better BibLaTeX.007.biblatex,file
+Better BibLaTeX.007.json,file
+Better BibLaTeX.009.biblatex,file
+Better BibLaTeX.009.json,file
+Better BibLaTeX.010.biblatex,file
+Better BibLaTeX.010.json,file
+Better BibLaTeX.011.biblatex,file
+Better BibLaTeX.011.json,file
+Better BibLaTeX.012.biblatex,file
+Better BibLaTeX.012.json,file
+Better BibLaTeX.013.biblatex,file
+Better BibLaTeX.013.json,file
+Better BibLaTeX.014.biblatex,file
+Better BibLaTeX.014.json,file
+Better BibLaTeX.015.biblatex,file
+Better BibLaTeX.015.json,file
+Better BibLaTeX.016.biblatex,file
+Better BibLaTeX.016.json,file
+Better BibLaTeX.017.biblatex,file
+Better BibLaTeX.017.json,file
+Better BibLaTeX.019.biblatex,file
+Better BibLaTeX.019.json,file
+Better BibLaTeX.020.biblatex,file
+Better BibLaTeX.020.json,file
+Better BibLaTeX.021.biblatex,file
+Better BibLaTeX.021.json,file
+Better BibLaTeX.022.biblatex,file
+Better BibLaTeX.022.json,file
+Better BibLaTeX.023.biblatex,file
+Better BibLaTeX.023.json,file
+Better BibLaTeX.json,file
+Better BibLaTeX.stable-keys.biblatex,file
+Better BibLaTeX.stable-keys.json,file
+Better BibLaTeX.ts,file
+Better BibTeX Citation Key Quick Copy.json,file
+Better BibTeX Citation Key Quick Copy.ts,file
+Better BibTeX Import 2.bib,file
+Better BibTeX Import 2.json,file
+Better BibTeX does not export collections #901.bibtex,file
+Better BibTeX does not export collections #901.json,file
+Better BibTeX does not use biblatex fields eprint and eprinttype #170.biblatex,file
+Better BibTeX does not use biblatex fields eprint and eprinttype #170.json,file
+Better BibTeX.001,dir
+Better BibTeX.001.bib,file
+Better BibTeX.001.json,file
+Better BibTeX.003.bib,file
+Better BibTeX.003.json,file
+Better BibTeX.004.bib,file
+Better BibTeX.004.json,file
+Better BibTeX.005.bib,file
+Better BibTeX.005.json,file
+Better BibTeX.006.bib,file
+Better BibTeX.006.json,file
+Better BibTeX.008.bib,file
+Better BibTeX.008.json,file
+Better BibTeX.009,dir
+Better BibTeX.009.bib,file
+Better BibTeX.009.json,file
+Better BibTeX.010,dir
+Better BibTeX.010.bib,file
+Better BibTeX.010.json,file
+Better BibTeX.011,dir
+Better BibTeX.011.bib,file
+Better BibTeX.011.json,file
+Better BibTeX.012.bib,file
+Better BibTeX.012.json,file
+Better BibTeX.013,dir
+Better BibTeX.013.json,file
+Better BibTeX.014.bib,file
+Better BibTeX.014.json,file
+Better BibTeX.015,dir
+Better BibTeX.015.bib,file
+Better BibTeX.015.json,file
+Better BibTeX.018.bibtex,file
+Better BibTeX.018.json,file
+Better BibTeX.026.bibtex,file
+Better BibTeX.026.json,file
+Better BibTeX.027.bibtex,file
+Better BibTeX.027.json,file
+Better BibTeX.json,file
+Better BibTeX.ts,file
+Better CSL JSON.json,file
+Better CSL JSON.ts,file
+Better CSL YAML.json,file
+Better CSL YAML.ts,file
+BetterBibLaTeX; Software field company is mapped to publisher instead of organization #1054.biblatex,file
+BetterBibLaTeX; Software field company is mapped to publisher instead of organization #1054.json,file
+BetterBibTeX JSON.json,file
+BetterBibTeX JSON.ts,file
+BetterBibTeX.ts,file
+BetterBibtex export fails for missing last name #978.bibtex,file
+BetterBibtex export fails for missing last name #978.json,file
+Bezneng Gajit.js,file
+"BibLaTeX Patent author handling, type #1060.bib",file
+"BibLaTeX Patent author handling, type #1060.biblatex",file
+"BibLaTeX Patent author handling, type #1060.json",file
+BibLaTeX.js,file
+BibLaTeX; export CSL override 'issued' to date or year #351.biblatex,file
+BibLaTeX; export CSL override 'issued' to date or year #351.json,file
+BibTeX Citation Keys.001.json,file
+BibTeX Citation Keys.024.json,file
+BibTeX import; preamble with def create problems #732.bib,file
+BibTeX import; preamble with def create problems #732.json,file
+BibTeX name escaping has a million inconsistencies #438.bibtex,file
+BibTeX name escaping has a million inconsistencies #438.json,file
+BibTeX variable support for journal titles. #309.biblatex,file
+BibTeX variable support for journal titles. #309.json,file
+BibTeX.js,file
+BibTeX; URL missing in bibtex for Book Section #412.json,file
+BibTeX; URL missing in bibtex for Book Section #412.note.bibtex,file
+BibTeX; URL missing in bibtex for Book Section #412.off.bibtex,file
+BibTeX; URL missing in bibtex for Book Section #412.url.bibtex,file
+Biblatex Annotation Import Bug #613.bib,file
+Biblatex Annotation Import Bug #613.json,file
+Biblio.com.js,file
+Bibliontology RDF.js,file
+Bibliotheque et Archives Nationale du Quebec (Pistard).js,file
+Bibliotheque et Archives Nationales du Quebec.js,file
+Bibliotheque nationale de France.js,file
+Bibtex key regenerating issue when trashing items #117.biblatex,file
+Bibtex key regenerating issue when trashing items #117.json,file
+BioMed Central.js,file
+BioOne.js,file
+Bioconductor.js,file
+Biz Makoto.js,file
+Blaetter.js,file
+Blogger.js,file
+Bloomberg.js,file
+Book converted to mvbook #288.biblatex,file
+Book converted to mvbook #288.json,file
+Book sections have book title for journal in citekey #409.biblatex,file
+Book sections have book title for journal in citekey #409.json,file
+Bookmarks.js,file
+Boston Review.js,file
+BraceBalancer.biblatex,file
+BraceBalancer.json,file
+Bracero History Archive.js,file
+Braces around author last name when exporting BibTeX #565.bibtex,file
+Braces around author last name when exporting BibTeX #565.json,file
+Brill Journals.js,file
+Bryn Mawr Classical Review.js,file
+Bulk performance test.bib,file
+Bulk performance test.json,file
+Bundesgesetzblatt.js,file
+Business Standard.js,file
+C1EFB52EFC60E745D32E0B7C2383D5B074E8CF6A,file
+CABI - CAB Abstracts.js,file
+CAOD.js,file
+CCfr (BnF).js,file
+CLACSO.js,file
+CLASE.js,file
+CNKI.js,file
+CONTRIBUTING.md,file
+COinS.js,file
+CSIRO Publishing.js,file
+CSL JSON.js,file
+CSL YAML export of date with original publication date in [brackets] #922.csl.yml,file
+CSL YAML export of date with original publication date in [brackets] #922.json,file
+CSL exporters; ignore [Fields to omit from export] setting #1179.csl.json,file
+CSL exporters; ignore [Fields to omit from export] setting #1179.json,file
+CSL status = biblatex pubstate #573.biblatex,file
+CSL status = biblatex pubstate #573.json,file
+"CSL title, volume-title, container-title=BL title, booktitle, maintitle #381.biblatex",file
+"CSL title, volume-title, container-title=BL title, booktitle, maintitle #381.json",file
+CSL variables only recognized when in lowercase #408.biblatex,file
+CSL variables only recognized when in lowercase #408.json,file
+CSV.js,file
+Cache does not seem to fill #1296.bibtex,file
+Cairn.info.js,file
+Cambridge Core.js,file
+CanLII.js,file
+Canada.com.js,file
+Canadian Letters and Images.js,file
+Canadiana.ca.js,file
+Capitalisation in techreport titles #160.biblatex,file
+Capitalisation in techreport titles #160.json,file
+Capitalize all title-fields for language en #383.biblatex,file
+Capitalize all title-fields for language en #383.json,file
+Cell Press.js,file
+Chadwyck Literature Online.js,file
+Champlain Society - Collection.js,file
+Christian Science Monitor.js,file
+Chronicling America.js,file
+Chuo Nippo.js,file
+CiNii.js,file
+Citation graph.json,file
+Citation graph.ts,file
+Citations have month and day next to year #868.biblatex,file
+Citations have month and day next to year #868.json,file
+Citavi 5 XML.js,file
+CiteSeer.js,file
+CiteULike.js,file
+Citekey generation failure #708 and sort references on export #957.biblatex,file
+Citekey generation failure #708 and sort references on export #957.json,file
+Civilization.ca.js,file
+Clinical Key.js,file
+Code4Lib Journal.js,file
+Collected notes.json,file
+Collected notes.ts,file
+Colon in bibtex key #405.biblatex,file
+Colon in bibtex key #405.json,file
+Colon not allowed in citation key format #268.biblatex,file
+Colon not allowed in citation key format #268.json,file
+Columbia University Press.js,file
+Common-Place.js,file
+Copernicus.js,file
+Cornell LII - FRCP.js,file
+Cornell LII - US Code.js,file
+Cornell LII.js,file
+Cornell UCC.js,file
+Cornell University Press.js,file
+CourtListener.js,file
+CrossRef Lookup.ico,file
+CrossRef.js,file
+Crossref Unixref XML.js,file
+Crossref-REST.js,file
+Cyberpresse.js,file
+DAI-Zenon.js,file
+DART-Europe.js,file
+DBLP Computer Science Bibliography.js,file
+DEPATISnet.js,file
+DIRECTORY_LISTING.json,file
+DOI Content Negotiation.js,file
+DOI with underscores in extra field #108.biblatex,file
+DOI with underscores in extra field #108.json,file
+DOI.js,file
+DPLA.js,file
+DTU Orbit.js,file
+Dagens Nyheter.js,file
+Dagstuhl Research Online Publication Server.js,file
+DataCite.js,file
+Datacite JSON.js,file
+Date export to Better CSL-JSON #360 #811.biblatex,file
+Date export to Better CSL-JSON #360 #811.csl.json,file
+Date export to Better CSL-JSON #360 #811.json,file
+Date parses incorrectly with year 1000 when source Zotero field is in datetime format. #515.biblatex,file
+Date parses incorrectly with year 1000 when source Zotero field is in datetime format. #515.json,file
+Dates incorrect when Zotero date field includes times #934.biblatex,file
+Dates incorrect when Zotero date field includes times #934.json,file
+DeGruyter.js,file
+Defense Technical Information Center.js,file
+Delpher.js,file
+Demographic Research.js,file
+Denik CZ.js,file
+Der Freitag.js,file
+Detect and protect LaTeX math formulas.js,file
+Deutsche Nationalbibliothek.js,file
+Diacritics stripped from keys regardless of ascii or fold filters #266-fold.biblatex,file
+Diacritics stripped from keys regardless of ascii or fold filters #266-nofold.biblatex,file
+Diacritics stripped from keys regardless of ascii or fold filters #266.json,file
+Dialnet.js,file
+Die Zeit.js,file
+DigiZeitschriften.js,file
+Digital Humanities Quarterly.js,file
+Digital Medievalist.js,file
+Do not caps-protect literal lists #391.biblatex,file
+Do not caps-protect literal lists #391.json,file
+Do not caps-protect name fields #384 #565 #566.biber26.biblatex,file
+Do not caps-protect name fields #384 #565 #566.biblatex,file
+Do not caps-protect name fields #384 #565 #566.bibtex,file
+Do not caps-protect name fields #384 #565 #566.json,file
+Do not caps-protect name fields #384 #565 #566.noopsort.bibtex,file
+Do not use more than three initials in case of authshort key #1079.biblatex,file
+Do not use more than three initials in case of authshort key #1079.json,file
+Documents,dir
+Does the publisher field work when put in Zoteros extra field #1370.biblatex,file
+Does the publisher field work when put in Zoteros extra field #1370.json,file
+Dollar sign in title not properly escaped #485.biblatex,file
+Dollar sign in title not properly escaped #485.json,file
+Don't title-case sup-subscripts #1037.biblatex,file
+Don't title-case sup-subscripts #1037.json,file
+Douban.js,file
+Double superscript in title field on export #1217.bibtex,file
+Double superscript in title field on export #1217.json,file
+DrugBank.ca.js,file
+Dryad Digital Repository.js,file
+EBSCOhost.js,file
+EDTF dates in BibLaTeX #590.biblatex,file
+EDTF dates in BibLaTeX #590.json,file
+EIDR.js,file
+EPA National Library Catalog.js,file
+ERIC.js,file
+ESpacenet.js,file
+EUR-Lex.js,file
+Early English Books Online.js,file
+Eastview.js,file
+Edinburgh University Press Journals.js,file
+Education Week.js,file
+El Pais.js,file
+Electronic Colloquium on Computational Complexity.js,file
+Elsevier Health Journals.js,file
+Embedded Metadata.js,file
+Emerald Insight.js,file
+Empty bibtex clause in extra gobbles whatever follows #99.bibtex,file
+Empty bibtex clause in extra gobbles whatever follows #99.json,file
+Encyclopedia of Chicago.js,file
+Endnote XML.js,file
+Endnote should parse.bib,file
+Endnote should parse.json,file
+Engineering Village.js,file
+Epicurious.js,file
+Error exporting duplicate eprinttype #1128.biblatex,file
+Error exporting duplicate eprinttype #1128.json,file
+Error exporting with custom Extra field #1118.bibtex,file
+Error exporting with custom Extra field #1118.json,file
+ErrorReport.ts,file
+ErrorReport.xul,file
+Erudit.js,file
+Euclid.js,file
+EurasiaNet.js,file
+EurogamerUSgamer.js,file
+Evernote.js,file
+"Export C as {v C}, not v{C} #152.bibtex",file
+"Export C as {v C}, not v{C} #152.json",file
+Export Forthcoming as Forthcoming.biblatex,file
+Export Forthcoming as Forthcoming.json,file
+Export Newspaper Article misses section field #132.biblatex,file
+Export Newspaper Article misses section field #132.json,file
+Export error for items without publicationTitle and Preserve BibTeX variables enabled #201.biblatex,file
+Export error for items without publicationTitle and Preserve BibTeX variables enabled #201.json,file
+Export mapping for reporter field #219.biblatex,file
+Export mapping for reporter field #219.json,file
+Export of creator-type fields from embedded CSL variables #365 uppercase DOI #825.biblatex,file
+Export of creator-type fields from embedded CSL variables #365 uppercase DOI #825.csl.json,file
+Export of creator-type fields from embedded CSL variables #365 uppercase DOI #825.json,file
+Export of item to Better Bibtex fails for auth3_1 #98.bibtex,file
+Export of item to Better Bibtex fails for auth3_1 #98.json,file
+Export unicode as plain text fails for Vietnamese characters #977.bibtex,file
+Export unicode as plain text fails for Vietnamese characters #977.json,file
+Export web page to misc type with notes and howpublished custom fields #329.bibtex,file
+Export web page to misc type with notes and howpublished custom fields #329.js,file
+Export web page to misc type with notes and howpublished custom fields #329.json,file
+Export.md,file
+ExportOptions.ts,file
+ExportOptions.xul,file
+Exporting of single-field author lacks braces #130.biblatex,file
+Exporting of single-field author lacks braces #130.json,file
+Exporting to bibtex with unicode as plain-text latex commands does not convert U+2040 #1265.bibtex,file
+Exporting to bibtex with unicode as plain-text latex commands does not convert U+2040 #1265.json,file
+Extra semicolon in biblatexadata causes export failure #133.biblatex,file
+Extra semicolon in biblatexadata causes export failure #133.json,file
+F64PVIN4,dir
+FAO Publications.js,file
+FAZ.NET.js,file
+FUNDING.yml,file
+Fachportal Padagogik.js,file
+Factiva.js,file
+Failure to handle unparsed author names (92).bib,file
+Failure to handle unparsed author names (92).json,file
+Fairfax Australia.js,file
+Fastcase (cases).js,file
+Fields in Extra should override defaults.biblatex,file
+Fields in Extra should override defaults.json,file
+Figshare.js,file
+Financial Times.js,file
+FirstRun.ts,file
+FirstRun.xul,file
+Flickr.js,file
+Foreign Affairs.js,file
+Foreign Policy.js,file
+Free Law Reporter.js,file
+FreeCite.js,file
+FreePatentsOnline.js,file
+Frieze.js,file
+Frontiers.js,file
+GMS German Medical Science.js,file
+GPO Access e-CFR.js,file
+Gale Databases.js,file
+GaleGDC.js,file
+Galegroup.js,file
+Gallica.js,file
+Game Studies.js,file
+GameSpot.js,file
+Gasyrlar Awazy.js,file
+Gemeinsamer Bibliotheksverbund ISBN.js,file
+Gene Ontology.js,file
+General_error.md,file
+German Umlaut separated by brackets #146.biblatex,file
+German Umlaut separated by brackets #146.json,file
+GitHub.js,file
+Glenbow Library.js,file
+Gmail.js,file
+Google AI.js,file
+Google Books.js,file
+Google Patents.js,file
+Google Play.js,file
+Google Presentation.js,file
+Google Scholar Search.ico,file
+Google Scholar.js,file
+"Gulag Many Days, Many Lives.js",file
+HAL Archives Ouvertes.js,file
+HCSP.js,file
+HLAS (historical).js,file
+HTML Fragment separator escaped in url #140 #147.biblatex,file
+HTML Fragment separator escaped in url #140 #147.json,file
+Haaretz.js,file
+Handelszeitung.js,file
+Hang on non-file attachment export #112 - URL export broken #114.biblatex,file
+Hang on non-file attachment export #112 - URL export broken #114.json,file
+Hanrei Watch.js,file
+Harpers.js,file
+Harvard Business Review.js,file
+Hathi Trust.js,file
+HeinOnline.js,file
+HighBeam.js,file
+HighWire 2.0.js,file
+HighWire.js,file
+Hindawi Publishers.js,file
+Hispanic-American Periodical Index.js,file
+Hoovers.js,file
+Huff Post.js,file
+Hulse2009.pdf,file
+Hyphenated last names not escaped properly (or at all) in BibTeX #976.bibtex,file
+Hyphenated last names not escaped properly (or at all) in BibTeX #976.json,file
+IBISWorld.js,file
+IEEE Computer Society.js,file
+IEEE Xplore.js,file
+IGN.js,file
+IMDb.js,file
+INSPIRE.js,file
+IRIS.js,file
+ISSUE_TEMPLATE,dir
+ISTC.js,file
+Idref.js,file
+Ignore HTML tags when generating citation key #264.biblatex,file
+Ignore HTML tags when generating citation key #264.json,file
+Ignoring upper cases in German titles #456.biblatex,file
+Ignoring upper cases in German titles #456.bibtex,file
+Ignoring upper cases in German titles #456.json,file
+"Import Jabref fileDirectory, unexpected reference type #1058.bib",file
+"Import Jabref fileDirectory, unexpected reference type #1058.json",file
+Import fails to perform @String substitutions #154.bib,file
+Import fails to perform @String substitutions #154.json,file
+Import location to event-place for conference papers.bib,file
+Import location to event-place for conference papers.json,file
+Import support for the online type in BBT #1358.bib,file
+Import support for the online type in BBT #1358.json,file
+Import support for the online type in BBT #1358.roundtrip.bib,file
+Import.md,file
+In These Times.js,file
+Include first name initial(s) in cite key generation pattern (86).bibtex,file
+Include first name initial(s) in cite key generation pattern (86).json,file
+InfoTrac.js,file
+Informationssystem Medienpaedagogik.js,file
+Informit Australia.js,file
+IngentaConnect.js,file
+Insignia OPAC.js,file
+Institute of Physics.js,file
+Integrum.js,file
+Intellixir.js,file
+Inter-Research Science Center.js,file
+Internet Archive Wayback Machine.js,file
+Internet Archive.js,file
+Isidore.js,file
+Issues with round instead of curly braces do not import correctly #871.bib,file
+Issues with round instead of curly braces do not import correctly #871.json,file
+Issues with round instead of curly braces do not import correctly #871.juris-m.json,file
+ItemPane.ts,file
+ItemPane.xul,file
+J-Stage.js,file
+JISC Historical Texts.js,file
+JRC Publications Repository.js,file
+JSTOR.js,file
+Jabref groups import does not work #717.2.10.bib,file
+Jabref groups import does not work #717.2.10.json,file
+Jabref groups import does not work #717.3.8.bib,file
+Jabref groups import does not work #717.3.8.json,file
+Jahrbuch.js,file
+Japan Legislation.js,file
+Japan Legislative Council Minutes.js,file
+Japan Times Online.js,file
+Japanese Diet Committee Transcripts.js,file
+Japanese Diet Laws.js,file
+Japanese Law Translation.js,file
+Japanese rendered as Chinese in Citekey #979.biblatex,file
+Japanese rendered as Chinese in Citekey #979.json,file
+Japanese rendered as Chinese in Citekey #979.juris-m.biblatex,file
+Journal abbreviations exported in bibtex (81).bibtex,file
+Journal abbreviations exported in bibtex (81).json,file
+Journal abbreviations.bibtex,file
+Journal abbreviations.json,file
+Journal of Electronic Publishing.js,file
+Journal of Extension.js,file
+JurPC.js,file
+Juricaf.js,file
+Juris-M missing multi-lingual fields #482.biblatex,file
+Juris-M missing multi-lingual fields #482.json,file
+Juris-M missing multi-lingual fields #482.juris-m.biblatex,file
+Juris.js,file
+KOBV.js,file
+KStudy.js,file
+KeyManager.ts,file
+Key_generation.md,file
+KitapYurdu.com.js,file
+Klassen2010.pdf,file
+Kommersant.js,file
+L'Annee Philologique.js,file
+LA Times.js,file
+LICENSE,file
+La Croix.js,file
+Lagen.nu.js,file
+Landesbibliographie Baden-Wurttemberg.js,file
+Latex commands in extra-field treated differently #1207.biblatex,file
+Latex commands in extra-field treated differently #1207.json,file
+Le Devoir.js,file
+Le Figaro.js,file
+Le Monde.js,file
+Le monde diplomatique.js,file
+Legifrance.js,file
+Legislative Insight.js,file
+LexisNexis.js,file
+LexisNexisTLS.js,file
+Library Catalog (Aleph).js,file
+Library Catalog (Amicus).js,file
+Library Catalog (Aquabrowser).js,file
+Library Catalog (BiblioCommons).js,file
+Library Catalog (Capita Prism).js,file
+Library Catalog (DRA).js,file
+Library Catalog (Dynix).js,file
+Library Catalog (Encore).js,file
+Library Catalog (GEAC).js,file
+Library Catalog (InnoPAC).js,file
+Library Catalog (Koha).js,file
+Library Catalog (Mango).js,file
+Library Catalog (OPALS).js,file
+Library Catalog (PICA).js,file
+Library Catalog (PICA2).js,file
+Library Catalog (Polaris).js,file
+Library Catalog (SIRSI eLibrary).js,file
+Library Catalog (SIRSI).js,file
+Library Catalog (SLIMS).js,file
+Library Catalog (TLCYouSeeMore).js,file
+Library Catalog (VTLS).js,file
+Library Catalog (Voyager 7).js,file
+Library Catalog (Voyager).js,file
+Library Genesis.js,file
+Library of Congress ISBN.js,file
+Lippincott Williams and Wilkins.js,file
+Literal names.bib,file
+Literal names.json,file
+LiveJournal.js,file
+London Review of Books.js,file
+Lulu.js,file
+MAB2.js,file
+MARC.js,file
+MARCXML.js,file
+MCV.js,file
+MDPI Journals.js,file
+MEDLINEnbib.js,file
+MIDAS Journals.js,file
+MIT Press Journals.js,file
+MODS.js,file
+MSN Sankei News.js,file
+Mailman.js,file
+Mainichi Daily News.js,file
+Maintain the JabRef group and subgroup structure when importing a BibTeX db #97.bib,file
+Maintain the JabRef group and subgroup structure when importing a BibTeX db #97.json,file
+Malformed HTML.biblatex,file
+Malformed HTML.json,file
+Matbugat.ru.js,file
+Math formatting lost on import #627.bib,file
+Math formatting lost on import #627.json,file
+Math markup to unicode not always imported correctly #472.bib,file
+Math markup to unicode not always imported correctly #472.json,file
+Math markup to unicode not always imported correctly #472.roundtrip.bib,file
+Math parts in title #113.biblatex,file
+Math parts in title #113.json,file
+Max Planck Institute for the History of Science Virtual Laboratory Library.js,file
+Medium.js,file
+MetaLib.js,file
+Microbiology Society Journals.js,file
+Microsoft Academic.js,file
+Milli Kutuphane.js,file
+Mismatched conversion of braces in title on export means field never gets closed #1218.bibtex,file
+Mismatched conversion of braces in title on export means field never gets closed #1218.json,file
+Missing JabRef pattern; authEtAl #554.bibtex,file
+Missing JabRef pattern; authEtAl #554.json,file
+Missing JabRef pattern; authorsN+initials #553.bibtex,file
+Missing JabRef pattern; authorsN+initials #553.json,file
+Mongolia Court Judgments.js,file
+Mongolia Legislation.js,file
+Month showing up in year field on export #889.biblatex,file
+Month showing up in year field on export #889.json,file
+Multiple locations and-or publishers and BibLaTeX export #689.biblatex,file
+Multiple locations and-or publishers and BibLaTeX export #689.json,file
+Musee du Louvre.js,file
+NASA ADS.js,file
+NASA NTRS.js,file
+NCBI Nucleotide.js,file
+NRC Research Press.js,file
+NYTimes.com.js,file
+NZZ.ch.js,file
+Nagoya University OPAC.js,file
+National Archive of the UK.js,file
+National Archives of Australia.js,file
+National Archives of South Africa.js,file
+National Archives of the United States.js,file
+National Assembly of Laos.js,file
+National Bureau of Economic Research.js,file
+National Diet Library Catalogue.js,file
+National Diet Library Online.js,file
+National Gallery of Art - USA.js,file
+National Library of Australia (new catalog).js,file
+National Library of Australia.js,file
+National Library of Belarus.js,file
+National Library of Norway.js,file
+National Post.js,file
+Nature Publishing Group.js,file
+Neural Information Processing Systems.js,file
+New Zealand Herald.js,file
+NewsnetTamedia.js,file
+No booktitle field when exporting references from conference proceedings #1069.bibtex,file
+No booktitle field when exporting references from conference proceedings #1069.json,file
+No brace protection when suppressTitleCase set to true #1188.bibtex,file
+No brace protection when suppressTitleCase set to true #1188.json,file
+No space between author first and last name because last char of first name is translated to a latex command #1091.bibtex,file
+No space between author first and last name because last char of first name is translated to a latex command #1091.json,file
+Non-ascii in dates is not matched by date parser #376.biblatex,file
+Non-ascii in dates is not matched by date parser #376.json,file
+Normalize date ranges in citekeys #356.biblatex,file
+Normalize date ranges in citekeys #356.json,file
+Notre Dame Philosophical Reviews.js,file
+Nuclear Receptor Signaling.js,file
+Numbers confuse capital-preservation #295.bibtex,file
+Numbers confuse capital-preservation #295.json,file
+OCLC WorldCat FirstSearch.js,file
+OECD.js,file
+ORCID.js,file
+OSTI Energy Citations.js,file
+OVID Tagged.js,file
+OZON.ru.js,file
+OhioLINK.js,file
+Old Bailey Online.js,file
+Omit URL export when DOI present. #131.default.biblatex,file
+Omit URL export when DOI present. #131.groups3.biblatex,file
+Omit URL export when DOI present. #131.json,file
+Omit URL export when DOI present. #131.prefer-DOI.biblatex,file
+Omit URL export when DOI present. #131.prefer-url.biblatex,file
+Open Conf.js,file
+Open Journal Systems.js,file
+Open WorldCat.js,file
+Open date range crashes citekey generator #1227.bibtex,file
+Open date range crashes citekey generator #1227.json,file
+OpenCongress.js,file
+OpenEdition Books.js,file
+OpenJudis - Indian Supreme Court cases.js,file
+Optical Society of America.js,file
+Oriental dates trip up date parser #389.biblatex,file
+Oriental dates trip up date parser #389.json,file
+Ovid.js,file
+Oxford English Dictionary.js,file
+Oxford Music and Art Online.js,file
+Oxford Reference.js,file
+Oxford University Press.js,file
+PC Gamer.js,file
+PEI Archival Information Network.js,file
+PEP Web.js,file
+PLoS Journals.js,file
+PRACE,dir
+Pandoc-LaTeX-SCHOMD Citation Export.csl.json,file
+Pandoc-LaTeX-SCHOMD Citation Export.csl.yml,file
+Pandoc-LaTeX-SCHOMD Citation Export.json,file
+Pandoc-LaTeX-SCHOMD Citation Export.latex,file
+Pandoc-LaTeX-SCHOMD Citation Export.pandoc,file
+Pandoc-LaTeX-SCHOMD Citation Export.schomd.json,file
+Papers Past.js,file
+Paris Review.js,file
+Pastebin.js,file
+Patents - USPTO.js,file
+Peeters.js,file
+PhilPapers.js,file
+Philosopher's Imprint.js,file
+Pleade.js,file
+Polygon.js,file
+Postscript error aborts CSL JSON export #1155.csl.json,file
+Postscript error aborts CSL JSON export #1155.json,file
+Potsdamer Neueste Nachrichten.js,file
+Preferences.ts,file
+Preferences.xul,file
+Primo 2018.js,file
+Primo Normalized XML.js,file
+Primo.js,file
+ProMED.js,file
+ProQuest Ebook Central.js,file
+ProQuest PolicyFile.js,file
+ProQuest.js,file
+Probing the Past.js,file
+Problem when importing BibTeX entries with percent sign #95 or preamble #96.bib,file
+Problem when importing BibTeX entries with percent sign #95 or preamble #96.json,file
+Problem when importing BibTeX entries with square brackets #94.bib,file
+Problem when importing BibTeX entries with square brackets #94.json,file
+Project Gutenberg.js,file
+Project MUSE.js,file
+Protect math sections #1148.biblatex,file
+Protect math sections #1148.json,file
+Protein Data Bank.js,file
+PubMed Central.js,file
+PubMed XML.js,file
+PubMed.js,file
+Pubget.js,file
+Publications du Quebec.js,file
+PyPI.js,file
+Question.md,file
+Quotes around last names should be removed from citekeys #856.csl.json,file
+Quotes around last names should be removed from citekeys #856.json,file
+R-Packages.js,file
+RDF.js,file
+README.md,file
+REDALYC.js,file
+RIS.js,file
+RSC Publishing.js,file
+Radio Free Europe  Radio Liberty.js,file
+RePEc - Econpapers.js,file
+RePEc - IDEAS.js,file
+Really Big whopping library.bibtex,file
+Really Big whopping library.json,file
+RefWorks Tagged.js,file
+ReferBibIX.js,file
+References with multiple notes fail to export #174.biblatex,file
+References with multiple notes fail to export #174.json,file
+Regeringskansliet.js,file
+Replicate Zotero key algorithm #439.bibtex,file
+Replicate Zotero key algorithm #439.json,file
+ResearchGate.js,file
+Retsinformation.js,file
+Reuters.js,file
+Revues.org.js,file
+Robinson_2007_Theories of globalization.pdf,file
+"Rock, Paper, Shotgun.js",file
+Roll Call.js,file
+SAE Papers.js,file
+SAGE Journals.js,file
+SAGE Knowledge.js,file
+SFU IPinCH.js,file
+SIRS Knowledge Source.js,file
+SORA.js,file
+SSOAR.js,file
+SSRN.js,file
+SVT Nyheter.js,file
+Sacramento Bee.js,file
+Safari Books Online.js,file
+Scannable Cite.js,file
+Scholars Portal Journals.js,file
+Schweizer Radio und Fernsehen SRF.js,file
+SciELO.js,file
+ScienceDirect.js,file
+Scientific Papers,dir
+Scopus.js,file
+"Season ranges should be exported as pseudo-months (13-16, or 21-24) #860.biblatex",file
+"Season ranges should be exported as pseudo-months (13-16, or 21-24) #860.csl.json",file
+"Season ranges should be exported as pseudo-months (13-16, or 21-24) #860.csl.yml",file
+"Season ranges should be exported as pseudo-months (13-16, or 21-24) #860.json",file
+SecurityPreloadState.txt,file
+Semantic Scholar.js,file
+ServerURL.xul,file
+Set IDS field when merging references with different citation keys #1221.biblatex,file
+Set IDS field when merging references with different citation keys #1221.json,file
+Setting the item type via the cheater syntax #587.biblatex,file
+Setting the item type via the cheater syntax #587.bibtex,file
+Setting the item type via the cheater syntax #587.csl.json,file
+Setting the item type via the cheater syntax #587.json,file
+Shortjournal does not get exported to biblatex format #102 - biblatexcitekey #105.biblatex,file
+Shortjournal does not get exported to biblatex format #102 - biblatexcitekey #105.json,file
+ShutdownDuration.json,file
+Silverchair.js,file
+SiteSecurityServiceState.txt,file
+Slate.js,file
+SlideShare.js,file
+Some bibtex entries quietly discarded on import from bib file #873.bib,file
+Some bibtex entries quietly discarded on import from bib file #873.json,file
+Some bibtex entries quietly discarded on import from bib file #873.juris-m.json,file
+Sorting and optional particle handling #411.json,file
+Sorting and optional particle handling #411.off.biblatex,file
+Sorting and optional particle handling #411.on.biblatex,file
+Spaces lost when expanding string variables during import #1081.bib,file
+Spaces lost when expanding string variables during import #1081.json,file
+Spaces not stripped from citation keys #294.biblatex,file
+Spaces not stripped from citation keys #294.json,file
+Spiegel Online.js,file
+Springer Books.js,file
+Springer Link.js,file
+"Square brackets in Publication field (85), and non-pinned keys must change when the pattern does.bibtex",file
+"Square brackets in Publication field (85), and non-pinned keys must change when the pattern does.json",file
+Stanford Encyclopedia of Philosophy.js,file
+State Records Office of Western Australia.js,file
+Store norske leksikon.js,file
+Stuff.co.nz.js,file
+Sueddeutsche.de.js,file
+Summon 2.js,file
+Suppress brace protection #1139.biblatex,file
+Suppress brace protection #1139.json,file
+Svenska Dagbladet.js,file
+Sveriges radio.js,file
+TEI.js,file
+TV by the Numbers.js,file
+TVNZ.js,file
+Tagesspiegel.js,file
+Talis Aspire.js,file
+TalisPrism.js,file
+Tatknigafund.js,file
+Tatpressa.ru.js,file
+Taylor and Francis+NEJM.js,file
+Telemetry.ShutdownTime.txt,file
+Tesis Doctorals en Xarxa.js,file
+TestSupport.ts,file
+Text that legally contains the text of HTML entities such as &nbsp; triggers an overzealous decoding second-guesser #253.biblatex,file
+Text that legally contains the text of HTML entities such as &nbsp; triggers an overzealous decoding second-guesser #253.json,file
+The Atlantic.js,file
+The Australian.js,file
+The Boston Globe.js,file
+The Chronicle of Higher Education.js,file
+The Daily Beast.js,file
+The Economic Times.js,file
+The Economist.js,file
+The Free Dictionary.js,file
+The Globe and Mail.js,file
+The Guardian.js,file
+The Hamilton Spectator.js,file
+The Hindu (old).js,file
+The Hindu.js,file
+The Intercept.js,file
+The Met.js,file
+The Microfinance Gateway.js,file
+The Nation.js,file
+The New Republic.js,file
+The New York Review of Books.js,file
+The New Yorker.js,file
+The Open Library.js,file
+The Telegraph.js,file
+The Times and Sunday Times.js,file
+TheMarker.js,file
+Theory of Computing.js,file
+ThesesFR.js,file
+Thieme.js,file
+Thin space in author name #859.biblatex,file
+Thin space in author name #859.json,file
+Time.com.js,file
+Title case of latex greek text on biblatex export #564.biblatex,file
+Title case of latex greek text on biblatex export #564.json,file
+Title of German entry converted to lowercase during import #1350.bib,file
+Title of German entry converted to lowercase during import #1350.json,file
+Toronto Star.js,file
+Traum - Computational Models of Non-cooperative dialogue.pdf,file
+Treat dash-connected words as a single word for citekey generation #619.biblatex,file
+Treat dash-connected words as a single word for citekey generation #619.json,file
+Treat ideographs as individual words for key generation #1353.biblatex,file
+Treat ideographs as individual words for key generation #1353.json,file
+Treesearch.js,file
+Trove.js,file
+Twitter.js,file
+UPCommons.js,file
+URL-DOI exclusive export broken for item types with no dedicated DOI field #1331.biblatex,file
+URL-DOI exclusive export broken for item types with no dedicated DOI field #1331.json,file
+US National Archives Research Catalog.js,file
+USgamer.js,file
+Ubiquity Journals.js,file
+Unbalanced vphantom escapes #1043-mathmode.bibtex,file
+Unbalanced vphantom escapes #1043.bibtex,file
+Unbalanced vphantom escapes #1043.json,file
+Underscores break capital-preservation #300.bibtex,file
+Underscores break capital-preservation #300.json,file
+University of Wisconsin-Madison Libraries Catalog.js,file
+Unqualified Dublin Core RDF.js,file
+UpToDate References.js,file
+Users,dir
+Uzbekistan lex.uz.js,file
+Vanity Fair.js,file
+Verniana-Jules Verne Studies.js,file
+Vice.js,file
+Vimeo.js,file
+VoxEU.js,file
+WHO.js,file
+WIPO.js,file
+Wall Street Journal.js,file
+Wanfang Data.js,file
+Washington Monthly.js,file
+Web of Science Tagged.js,file
+Web of Science.js,file
+Welt Online.js,file
+WestLaw Japan.js,file
+Westlaw.js,file
+WikiLeaks PlusD.js,file
+Wikidata.js,file
+Wikimedia Commons.js,file
+Wikipedia Citation Templates.js,file
+Wikipedia.js,file
+Wikisource.js,file
+Wildlife Biology in Practice.js,file
+Wiley Online Library.js,file
+Winnipeg Free Press.js,file
+Wired.js,file
+World History Connected.js,file
+World Shakespeare Bibliography Online.js,file
+WorldCat Discovery Service.js,file
+Wrong ring-above import #1115.bib,file
+Wrong ring-above import #1115.json,file
+XML ContextObject.js,file
+Ynet.js,file
+YouTube.js,file
+ZIPonline.js,file
+Zenodo.js,file
+Zotero RDF.js,file
+ZoteroBib.js,file
+ZoteroPane.ts,file
+ZoteroPane.xul,file
+[authN_M] citation key syntax has off-by-one error #899.bibtex,file
+[authN_M] citation key syntax has off-by-one error #899.json,file
+__circleci,dir
+__init__.py,file
+__semaphore,dir
+_default,dir
+_index.md,file
+abbreviations-empty.json,file
+abbrevs-filter.sqlite,file
+addonStartup.json.lz4,file
+advanced.md,file
+american-anthropological-association.csl,file
+american-chemical-society.csl,file
+american-medical-association.csl,file
+american-political-science-association.csl,file
+american-sociological-association.csl,file
+apa.csl,file
+arXiv identifiers in BibLaTeX export #460.biblatex,file
+arXiv identifiers in BibLaTeX export #460.bibtex,file
+arXiv identifiers in BibLaTeX export #460.json,file
+arXiv.org.js,file
+arXiv.ts,file
+archetypes,dir
+attachments,dir
+attention.svg,file
+auth leaves punctuation in citation key #310.biblatex,file
+auth leaves punctuation in citation key #310.json,file
+auto-ad.json,file
+auto-ae.json,file
+auto-af.json,file
+auto-ag.json,file
+auto-ai.json,file
+auto-al.json,file
+auto-am.json,file
+auto-ao.json,file
+auto-ar.json,file
+auto-arb.cls.json,file
+auto-at.json,file
+auto-au.int.json,file
+auto-au.json,file
+auto-az.json,file
+auto-ba.json,file
+auto-bb.json,file
+auto-bd.json,file
+auto-be-belgium.json,file
+auto-be-francais.json,file
+auto-be.json,file
+auto-bf.json,file
+auto-bg.json,file
+auto-bh.json,file
+auto-bi.json,file
+auto-bj.json,file
+auto-bn.json,file
+auto-bo.json,file
+auto-br.json,file
+auto-bs.json,file
+auto-bt.json,file
+auto-bw.json,file
+auto-by.json,file
+auto-bz.json,file
+auto-ca.json,file
+auto-cd.json,file
+auto-cf.json,file
+auto-cg.json,file
+auto-ch.json,file
+auto-ci.json,file
+auto-ck.json,file
+auto-cl.json,file
+auto-cm.json,file
+auto-cn-englished.json,file
+auto-cn.json,file
+auto-co.json,file
+auto-coe.int.json,file
+auto-comesa.int.json,file
+auto-cr.json,file
+auto-cs.json,file
+auto-cu.json,file
+auto-cv.json,file
+auto-cy.json,file
+auto-cz.json,file
+auto-dd.json,file
+auto-de.json,file
+auto-dj.json,file
+auto-dk.json,file
+auto-dm.json,file
+auto-do.json,file
+auto-dz.json,file
+auto-ec.int.json,file
+auto-ec.json,file
+auto-ee.json,file
+auto-eea.int.json,file
+auto-eec.int.json,file
+auto-eg.json,file
+auto-eh.json,file
+auto-er.json,file
+auto-es.json,file
+auto-et.json,file
+auto-eu.int-de.json,file
+auto-eu.int.json,file
+auto-export,dir
+auto-export.after.biblatex,file
+auto-export.after.coll.biblatex,file
+auto-export.before.biblatex,file
+auto-export.before.coll.biblatex,file
+auto-export.json,file
+auto-export.ts,file
+auto-fi.json,file
+auto-fj.json,file
+auto-fm.json,file
+auto-fr.json,file
+auto-ga.json,file
+auto-gb.json,file
+auto-gd.json,file
+auto-ge-ab.json,file
+auto-ge.json,file
+auto-gh.json,file
+auto-gm.json,file
+auto-gn.json,file
+auto-gq.json,file
+auto-gr.json,file
+auto-gt.json,file
+auto-gu.json,file
+auto-gw.json,file
+auto-gy.json,file
+auto-hk.json,file
+auto-hn.json,file
+auto-hr.json,file
+auto-ht.json,file
+auto-hu.json,file
+auto-icc.int.json,file
+auto-id.json,file
+auto-ie.json,file
+auto-il.json,file
+auto-imf.int.json,file
+auto-in.json,file
+auto-iq.json,file
+auto-ir.json,file
+auto-is.json,file
+auto-it.json,file
+auto-je.json,file
+auto-jm.json,file
+auto-jo.json,file
+auto-jp-englished.json,file
+auto-jp.json,file
+auto-ke.json,file
+auto-kg.json,file
+auto-kh.json,file
+auto-ki.json,file
+auto-km.json,file
+auto-kn.json,file
+auto-kp.json,file
+auto-kr.json,file
+auto-kw.json,file
+auto-ky.json,file
+auto-kz.json,file
+auto-la.json,file
+auto-lb.json,file
+auto-lc.json,file
+auto-li.json,file
+auto-lk.json,file
+auto-ln.int.json,file
+auto-lr.json,file
+auto-ls.json,file
+auto-lt.json,file
+auto-lu.json,file
+auto-lv.json,file
+auto-ly.json,file
+auto-ma.json,file
+auto-mc.json,file
+auto-md.json,file
+auto-me.json,file
+auto-mg.json,file
+auto-mh.json,file
+auto-mk.json,file
+auto-ml.json,file
+auto-mm.json,file
+auto-mn.json,file
+auto-mo.json,file
+auto-mr.json,file
+auto-mt.json,file
+auto-mu.json,file
+auto-mv.json,file
+auto-mw.json,file
+auto-mx.json,file
+auto-my.json,file
+auto-mz.json,file
+auto-na.json,file
+auto-ne.json,file
+auto-ng.json,file
+auto-ni.json,file
+auto-nir.json,file
+auto-nl.json,file
+auto-no.json,file
+auto-np.json,file
+auto-nr.json,file
+auto-nu.json,file
+auto-nz.json,file
+auto-oas.int.json,file
+auto-om.json,file
+auto-pa.json,file
+auto-pe.json,file
+auto-pg.json,file
+auto-ph.json,file
+auto-pk.json,file
+auto-pl.json,file
+auto-ps.json,file
+auto-pt.json,file
+auto-pw.json,file
+auto-py.json,file
+auto-qa.json,file
+auto-ro.json,file
+auto-rs.json,file
+auto-ru.json,file
+auto-rw.json,file
+auto-sa.json,file
+auto-sai.int.json,file
+auto-sb.json,file
+auto-sc.json,file
+auto-sd.json,file
+auto-se.json,file
+auto-sg.json,file
+auto-si.json,file
+auto-sica.int.json,file
+auto-sk.json,file
+auto-sl.json,file
+auto-sm.json,file
+auto-sn.json,file
+auto-so.json,file
+auto-sr.json,file
+auto-st.json,file
+auto-sv.json,file
+auto-sy.json,file
+auto-sz.json,file
+auto-td.json,file
+auto-tg.json,file
+auto-th.json,file
+auto-tj.json,file
+auto-tl.json,file
+auto-tm.json,file
+auto-tn.json,file
+auto-to.json,file
+auto-tr.json,file
+auto-tt.json,file
+auto-tv.json,file
+auto-tw.json,file
+auto-tz.json,file
+auto-ua.json,file
+auto-ug.json,file
+auto-un.int.json,file
+auto-us.json,file
+auto-ussr.json,file
+auto-uy.json,file
+auto-uz.json,file
+auto-va.json,file
+auto-vc.json,file
+auto-ve.json,file
+auto-vg.json,file
+auto-vn.json,file
+auto-vu.json,file
+auto-wbg.int.json,file
+auto-ws.json,file
+auto-wto.int.json,file
+auto-xk.json,file
+auto-ye.json,file
+auto-yu.json,file
+auto-za.json,file
+auto-zm.json,file
+auto-zw.json,file
+auto-zz.json,file
+auto.md,file
+automatic tags in export #1270.bibtex,file
+automatic tags in export #1270.json,file
+automatic-export.md,file
+aux-scanner.md,file
+aux-scanner.ts,file
+bcf.ejs,file
+bcf.ts,file
+beck-online.js,file
+behave,file
+behave.ini,file
+better-bibtex-citekeys.csl,file
+better-bibtex.ico,file
+better-bibtex.svg,file
+better-bibtex.ts,file
+biblatex export of Presentation; Use type and venue fields #644.biblatex,file
+biblatex export of Presentation; Use type and venue fields #644.json,file
+biblatex.qr.bcf,file
+"biblatex; Language tag xx is exported, xx-XX is not #380.biblatex",file
+"biblatex; Language tag xx is exported, xx-XX is not #380.json",file
+bibtex,dir
+bibtex export of phdthesis does not case-protect -type- #435.bibtex,file
+bibtex export of phdthesis does not case-protect -type- #435.json,file
+bibtex-menu.svg,file
+bibtex.svg,file
+bibtex; url export does not survive underscores #402.biblatex,file
+bibtex; url export does not survive underscores #402.bibtex,file
+bibtex; url export does not survive underscores #402.json,file
+blocklist.xml,file
+"bookSection is always converted to @inbook, never @incollection #282.biblatex",file
+"bookSection is always converted to @inbook, never @incollection #282.json",file
+braces after textemdash followed by unicode #980.bibtex,file
+braces after textemdash followed by unicode #980.json,file
+build-assets,file
+bulk-keys-confirm.xul,file
+bundled-translators.en.md,file
+cache.ts,file
+cache2,dir
+capital delta breaks .bib output #141.bibtex,file
+capital delta breaks .bib output #141.json,file
+cayw,dir
+cayw.js,file
+cayw.json,file
+cayw.md,file
+cayw.sh,file
+cayw.ts,file
+cell.csl,file
+cert8.db,file
+cert9.db,file
+check-used.py,file
+chicago-author-date.csl,file
+chicago-fullnote-bibliography.csl,file
+chicago-note-bibliography.csl,file
+chrome.manifest,file
+citation-keys.md,file
+citekey firstpage-lastpage #1147.bibtex,file
+citekey firstpage-lastpage #1147.json,file
+citekey-formatters,dir
+citekey-formatters.py,file
+citekeyformatters,dir
+citeproc.ts,file
+citing,dir
+compatibility.ini,file
+condense in cite key format not working #308.biblatex,file
+condense in cite key format not working #308.json,file
+config.toml,file
+config.yml,file
+content,dir
+cookies.sqlite,file
+copy.rb,file
+count.js,file
+country-codes.json,file
+courts.go.jp.js,file
+crashes,dir
+creating a key with [authForeIni] and [authN] not working properly #892.bibtex,file
+creating a key with [authForeIni] and [authN] not working properly #892.json,file
+crowdin.yml,file
+csl,dir
+csl-vars.json,file
+csl.ts,file
+csquotes #302.biblatex,file
+csquotes #302.json,file
+custom fields should be exported as-is #441.bibtex,file
+custom fields should be exported as-is #441.json,file
+custom-header.html,file
+customized fields with curly brackets are not exported correctly anymore #775.biblatex,file
+customized fields with curly brackets are not exported correctly anymore #775.json,file
+dLibra.js,file
+data,dir
+date and year are switched #406.biblatex,file
+date and year are switched #406.json,file
+date not always parsed properly into month and year with PubMed #1112.bibtex,file
+date not always parsed properly into month and year with PubMed #1112.json,file
+date ranges #747+#746.biblatex,file
+date ranges #747+#746.bibtex,file
+date ranges #747+#746.json,file
+datefield.ts,file
+dateparser.json,file
+dateparser.ts,file
+db,dir
+db.d.ts,file
+"de Oliveira, Aznar-2010-(Liquid+liquid) equilibrium of {water+phenol+(1-butanol, or 2-butanol, or2.pdf",file
+de-DE,dir
+debug-bridge,dir
+debug-bridge.js,file
+debug-log,file
+debug.ts,file
+default.md,file
+defaults.json,file
+dejure.org.js,file
+dhistory.js,file
+digibib.net.js,file
+don't escape entry key fields for #296.biblatex,file
+don't escape entry key fields for #296.json,file
+done.svg,file
+eLibrary.ru.js,file
+eLife.js,file
+eMJA.js,file
+eMedicine.js,file
+ePrint IACR.js,file
+ebrary.js,file
+echo.js,file
+elsevier-harvard.csl,file
+en-US,dir
+en.toml,file
+engines.json,file
+entries,dir
+environment.py,file
+eprinttype field dropped on import #959.bib,file
+eprinttype field dropped on import #959.json,file
+error on exporting note with pre tags; duplicate field howpublished #1092.bibtex,file
+error on exporting note with pre tags; duplicate field howpublished #1092.json,file
+error-report.css,file
+error.svg,file
+escape.ts,file
+etatar.ru.js,file
+euro-expert.json,file
+events.ts,file
+exec.py,file
+export,dir
+export missing the a accent #691.biblatex,file
+export missing the a accent #691.json,file
+export.feature,file
+export.md,file
+exporter.ts,file
+exporting,dir
+extensions.json,file
+extra.ts,file
+faq.md,file
+favicon.html,file
+favicons.sqlite,file
+features,dir
+feb-web.ru.js,file
+fetchprofile.rb,file
+fields.html,file
+fields.json,file
+fields.rb,file
+fields.sql,file
+files,dir
+filters.html,file
+filters.json,file
+fishpond.co.nz.js,file
+fix-test-fixtures.ts,file
+fixtures,dir
+flash.ts,file
+fold.json,file
+formatter.pegjs,file
+formatter.ts,file
+formhistory.sqlite,file
+fr-FR,dir
+fr-online.de.js,file
+functions.html,file
+functions.json,file
+get-items-async.ts,file
+handlers.json,file
+header.md,file
+heatherwright,dir
+hidden-preferences.md,file
+htmltest.yml,file
+i18n,dir
+ic_done_24px.svg,file
+ic_sync_24px.svg,file
+ic_sync_disabled_24px.svg,file
+ic_sync_problem_24px.svg,file
+ic_timer_24px.svg,file
+ieee.csl,file
+import,dir
+import.feature,file
+import.ts,file
+importing a title-cased bib #1246.bib,file
+importing a title-cased bib #1246.json,file
+importing a title-cased bib #1246.raw.json,file
+importing a title-cased bib #1246.roundtrip.bib,file
+index.html,file
+index.ts,file
+informIT database.js,file
+inline-ts.ts,file
+install-beta,file
+install.rdf,file
+installation,dir
+io-port.js,file
+issue_templates.pl,file
+italics in title - capitalization #541.biblatex,file
+italics in title - capitalization #541.json,file
+item.py,file
+itembox.css,file
+items,file
+jabref.ts,file
+jm-chicago-fullnote-bibliography-polyglot.csl,file
+jm-chicago-fullnote-bibliography.csl,file
+jm-chinese-gb7714-2005-numeric.csl,file
+jm-diritto-pubblico-comparato-ed-europeo.csl,file
+jm-harvard-australian-national-university.csl,file
+jm-indigobook-law-review.csl,file
+jm-indigobook.csl,file
+jm-japan-sociological-society.csl,file
+jm-new-zealand-law.csl,file
+jm-oscola.csl,file
+jm-taylor-and-francis-chicago-author-date.csl,file
+jm-turabian-fullnote-bibliography-eu-multi.csl,file
+jm-turabian-fullnote-bibliography-nl-multi.csl,file
+jmlr.js,file
+journal-abbrev.ts,file
+json-rpc.ts,file
+jurion.js,file
+juris-abbrevs,dir
+juris-ad-map.json,file
+juris-ae-map.json,file
+juris-af-map.json,file
+juris-ag-map.json,file
+juris-ai-map.json,file
+juris-al-map.json,file
+juris-am-map.json,file
+juris-ao-map.json,file
+juris-ar-map.json,file
+juris-arb.cls-map.json,file
+juris-arb.cls.csl,file
+juris-at-map.json,file
+juris-at.csl,file
+juris-au-map.json,file
+juris-au.int-map.json,file
+juris-az-map.json,file
+juris-ba-map.json,file
+juris-bb-map.json,file
+juris-bd-map.json,file
+juris-be-map.json,file
+juris-be.csl,file
+juris-bf-map.json,file
+juris-bg-map.json,file
+juris-bh-map.json,file
+juris-bi-map.json,file
+juris-bj-map.json,file
+juris-bn-map.json,file
+juris-bo-map.json,file
+juris-br-map.json,file
+juris-bs-map.json,file
+juris-bt-map.json,file
+juris-bw-map.json,file
+juris-by-map.json,file
+juris-bz-map.json,file
+juris-ca-map.json,file
+juris-cd-map.json,file
+juris-cf-map.json,file
+juris-cg-map.json,file
+juris-ch-map.json,file
+juris-ci-map.json,file
+juris-ck-map.json,file
+juris-cl-map.json,file
+juris-cm-map.json,file
+juris-cn-map.json,file
+juris-cn.csl,file
+juris-co-map.json,file
+juris-coe.int-map.json,file
+juris-comesa.int-map.json,file
+juris-cr-map.json,file
+juris-cs-map.json,file
+juris-cu-map.json,file
+juris-cv-map.json,file
+juris-cy-map.json,file
+juris-cz-map.json,file
+juris-cz.csl,file
+juris-dd-map.json,file
+juris-de-map.json,file
+juris-de.csl,file
+juris-dj-map.json,file
+juris-dk-map.json,file
+juris-dm-map.json,file
+juris-do-map.json,file
+juris-dz-map.json,file
+juris-ec-map.json,file
+juris-ec.int-map.json,file
+juris-ee-map.json,file
+juris-eea.int-map.json,file
+juris-eec.int-map.json,file
+juris-eec.int.csl,file
+juris-eg-map.json,file
+juris-eh-map.json,file
+juris-er-map.json,file
+juris-es-map.json,file
+juris-et-map.json,file
+juris-eu.int+cjeu.csl,file
+juris-eu.int-map.json,file
+juris-eu.int.csl,file
+juris-fi-map.json,file
+juris-fi.csl,file
+juris-fj-map.json,file
+juris-fm-map.json,file
+juris-fr-map.json,file
+juris-fr.csl,file
+juris-ga-map.json,file
+juris-gb-map.json,file
+juris-gb.csl,file
+juris-gd-map.json,file
+juris-ge-ab-map.json,file
+juris-ge-map.json,file
+juris-gh-map.json,file
+juris-gm-map.json,file
+juris-gn-map.json,file
+juris-gq-map.json,file
+juris-gr-map.json,file
+juris-gt-map.json,file
+juris-gu-map.json,file
+juris-gw-map.json,file
+juris-gy-map.json,file
+juris-hk-map.json,file
+juris-hn-map.json,file
+juris-hr-map.json,file
+juris-ht-map.json,file
+juris-hu-map.json,file
+juris-icc.int-map.json,file
+juris-icc.int.csl,file
+juris-id-map.json,file
+juris-ie-map.json,file
+juris-il-map.json,file
+juris-imf.int-map.json,file
+juris-in-map.json,file
+juris-iq-map.json,file
+juris-ir-map.json,file
+juris-is-map.json,file
+juris-it-map.json,file
+juris-je-map.json,file
+juris-jm-map.json,file
+juris-jo-map.json,file
+juris-jp-authordate.csl,file
+juris-jp-map.json,file
+juris-jp.csl,file
+juris-ke-map.json,file
+juris-kg-map.json,file
+juris-kh-map.json,file
+juris-kh.csl,file
+juris-ki-map.json,file
+juris-km-map.json,file
+juris-kn-map.json,file
+juris-kp-map.json,file
+juris-kr-map.json,file
+juris-kw-map.json,file
+juris-ky-map.json,file
+juris-kz-map.json,file
+juris-la-map.json,file
+juris-lb-map.json,file
+juris-lc-map.json,file
+juris-li-map.json,file
+juris-lk-map.json,file
+juris-ln.int-map.json,file
+juris-ln.int.csl,file
+juris-lr-map.json,file
+juris-ls-map.json,file
+juris-lt-map.json,file
+juris-lu-map.json,file
+juris-lv-map.json,file
+juris-ly-map.json,file
+juris-ma-map.json,file
+juris-maps,dir
+juris-mc-map.json,file
+juris-md-map.json,file
+juris-me-map.json,file
+juris-mg-map.json,file
+juris-mh-map.json,file
+juris-mk-map.json,file
+juris-ml-map.json,file
+juris-mm-map.json,file
+juris-mm.csl,file
+juris-mn-map.json,file
+juris-mn.csl,file
+juris-mo-map.json,file
+juris-mr-map.json,file
+juris-mt-map.json,file
+juris-mu-map.json,file
+juris-mv-map.json,file
+juris-mw-map.json,file
+juris-mx-map.json,file
+juris-my-map.json,file
+juris-my.csl,file
+juris-mz-map.json,file
+juris-na-map.json,file
+juris-ne-map.json,file
+juris-ng-map.json,file
+juris-ni-map.json,file
+juris-nir-map.json,file
+juris-nl-map.json,file
+juris-no-map.json,file
+juris-np-map.json,file
+juris-nr-map.json,file
+juris-nu-map.json,file
+juris-nz-map.json,file
+juris-nz.csl,file
+juris-oas.int-map.json,file
+juris-om-map.json,file
+juris-pa-map.json,file
+juris-pe-map.json,file
+juris-pg-map.json,file
+juris-ph-map.json,file
+juris-pk-map.json,file
+juris-pk.csl,file
+juris-pl-map.json,file
+juris-pl.csl,file
+juris-ps-map.json,file
+juris-pt-map.json,file
+juris-pw-map.json,file
+juris-py-map.json,file
+juris-qa-map.json,file
+juris-ro-map.json,file
+juris-rs-map.json,file
+juris-ru-map.json,file
+juris-rw-map.json,file
+juris-sa-map.json,file
+juris-sai.int-map.json,file
+juris-sb-map.json,file
+juris-sc-map.json,file
+juris-sd-map.json,file
+juris-se-map.json,file
+juris-sg-map.json,file
+juris-si-map.json,file
+juris-sica.int-map.json,file
+juris-sk-map.json,file
+juris-sl-map.json,file
+juris-sm-map.json,file
+juris-sn-map.json,file
+juris-so-map.json,file
+juris-sr-map.json,file
+juris-st-map.json,file
+juris-sv-map.json,file
+juris-sy-map.json,file
+juris-sz-map.json,file
+juris-td-map.json,file
+juris-tg-map.json,file
+juris-th-map.json,file
+juris-th.csl,file
+juris-tj-map.json,file
+juris-tl-map.json,file
+juris-tm-map.json,file
+juris-tn-map.json,file
+juris-to-map.json,file
+juris-tr-map.json,file
+juris-tt-map.json,file
+juris-tv-map.json,file
+juris-tw-map.json,file
+juris-tz-map.json,file
+juris-ua-map.json,file
+juris-ug-map.json,file
+juris-un.int-InternationalLegacy.csl,file
+juris-un.int-map.json,file
+juris-un.int.csl,file
+juris-us-IndigoTemp.csl,file
+juris-us-map.json,file
+juris-us.csl,file
+juris-ussr-map.json,file
+juris-uy-map.json,file
+juris-uz-map.json,file
+juris-uz.csl,file
+juris-va-map.json,file
+juris-vc-map.json,file
+juris-ve-map.json,file
+juris-vg-map.json,file
+juris-vn-map.json,file
+juris-vu-map.json,file
+juris-wbg.int-map.json,file
+juris-ws-map.json,file
+juris-wto.int-map.json,file
+juris-xk-map.json,file
+juris-ye-map.json,file
+juris-yu-map.json,file
+juris-za-map.json,file
+juris-zm-map.json,file
+juris-zw-map.json,file
+juris-zz-map.json,file
+jurism,dir
+jurism.sqlite,file
+key migration.biblatex,file
+key migration.json,file
+key-manager,dir
+key-manager.ts,file
+key3.db,file
+key4.db,file
+klasyfikatory,dir
+kuro.ts,file
+kuroshiro-analyzer-kuromoji-sync.patch,file
+kuroshiro.patch,file
+kuroshiro.py,file
+kuroshiro.ts,file
+label-gun.yml,file
+layouts,dir
+lib,dir
+list.html,file
+loaders,dir
+locale,dir
+locate,dir
+lock.yml,file
+log-used.ts,file
+logger.ts,file
+logo.html,file
+loki.ts,file
+lokijs.patch,file
+mEDRA.js,file
+macos-zotero-startup-p,file
+magazines.russ.ru.js,file
+main.ts,file
+makedirs.py,file
+map csl-json variables #293.biblatex,file
+map csl-json variables #293.json,file
+"markup small-caps, superscript, italics #301.biblatex",file
+"markup small-caps, superscript, italics #301.json",file
+markupparser.ts,file
+medes.js,file
+menu-footer.html,file
+merge.feature,file
+merge.rb,file
+mimeTypes.rdf,file
+minitests,dir
+modern-humanities-research-association.csl,file
+modern-language-association.csl,file
+module-releaded.py,file
+monkey-patch.ts,file
+months.py,file
+nature.csl,file
+newshub.co.nz.js,file
+newspapers.com.js,file
+overlay.css,file
+overlay.xul,file
+package-lock.json,file
+package.json,file
+parser.ts,file
+partials,dir
+patch-webpack.py,file
+path,dir
+path-search.ts,file
+pending.svg,file
+performance.md,file
+permissions.sqlite,file
+pfunc.ts,file
+ping.py,file
+pkcs11.txt,file
+places.sqlite,file
+pluginreg.dat,file
+plugins,dir
+postfix.ts,file
+pre not working in Extra field #559.biblatex,file
+pre not working in Extra field #559.json,file
+preference.html,file
+preferences,dir
+preferences.css,file
+preferences.py,file
+preferences.toml,file
+prefs.js,file
+prefs.ts,file
+preserve @strings between import-export #1162.biblatex,file
+preserve @strings between import-export #1162.bibtex,file
+preserve @strings between import-export #1162.json,file
+preserve BibTeX Variables does not check for null values while escaping #337.bibtex,file
+preserve BibTeX Variables does not check for null values while escaping #337.json,file
+primary-commonwealth.json,file
+primary-international-bluebook.json,file
+primary-international-commonwealth.json,file
+primary-jurisdictions.json,file
+primary-us.json,file
+profile,dir
+pt-BR,dir
+pull-export.ts,file
+pull.md,file
+qr-check.ts,file
+readme.py,file
+reference.ts,file
+referencetype= does not work #278.biblatex,file
+referencetype= does not work #278.json,file
+remove the field if the override is empty #303.biblatex,file
+remove the field if the override is empty #303.json,file
+requirements.txt,file
+resource,dir
+retractions.json,file
+running.svg,file
+s3-regions.rb,file
+s3.json,file
+sbn.it.js,file
+scholmd.sh,file
+scripting.md,file
+scrub-profile.py,file
+secmod.db,file
+secondary-commonwealth-commonwealth.json,file
+secondary-science.json,file
+secondary-us-bluebook.json,file
+selekcja_cech,dir
+semantics Visual Library.js,file
+semaphore.yml,file
+serializer.ts,file
+sessionCheckpoints.json,file
+setup,dir
+setup.py,file
+shortcodes,dir
+site,dir
+site-update,file
+skin,dir
+some,dir
+sortrefs.rb,file
+space after citekey creates confusion #716.bib,file
+space after citekey creates confusion #716.json,file
+sponsoring.md,file
+startupCache,dir
+startupCache.8.little,file
+static,dir
+steps,dir
+steps.py,file
+storage.sqlite,file
+store.json.mozlz4,file
+store.ts,file
+style-modules,dir
+styles,dir
+submodules.py,file
+superscript.rb,file
+support,dir
+support Local-Zo-Url-x field from BibDesk2Zotero_attachments #667.bib,file
+support Local-Zo-Url-x field from BibDesk2Zotero_attachments #667.json,file
+support Local-Zo-Url-x field from BibDesk2Zotero_attachments #667.juris-m.json,file
+suppressBraceProtection does not work for BibTeX export (non-English items) #1194.biblatex,file
+suppressBraceProtection does not work for BibTeX export (non-English items) #1194.bibtex,file
+suppressBraceProtection does not work for BibTeX export (non-English items) #1194.json,file
+suppressBraceProtection does not work for BibTeX export (non-English items) #1194.sbp.bibtex,file
+tagcloud.html,file
+taz.de.js,file
+test,dir
+tex-studio.ts,file
+text2latex.ts,file
+themes,dir
+thesis zotero entries always create @phdthesis bibtex entries #307.biblatex,file
+thesis zotero entries always create @phdthesis bibtex entries #307.bibtex,file
+thesis zotero entries always create @phdthesis bibtex entries #307.json,file
+timeout.ts,file
+times.json,file
+title-case.js,file
+title-case.ts,file
+titles are title-cased in .bib file #558.bibtex,file
+titles are title-cased in .bib file #558.json,file
+trace.ts,file
+translations.js,file
+translations.md,file
+translator-header.d.ts,file
+translator.ts,file
+translators,dir
+translators.py,file
+translators.ts,file
+transliteration for citekey #580.biblatex,file
+transliteration for citekey #580.json,file
+travis-ssh.sh,file
+travis.py,file
+tsconfig.json,file
+tslint.json,file
+two ISSN number are freezing browser #110 + Generating keys and export broken #111.biblatex,file
+two ISSN number are freezing browser #110 + Generating keys and export broken #111.json,file
+typeNames.json,file
+typings,dir
+typo stature-statute (zotero item type) #284.biblatex,file
+typo stature-statute (zotero item type) #284.json,file
+unAPI.js,file
+underscores in URL fields should not be escaped #104.biblatex,file
+underscores in URL fields should not be escaped #104.json,file
+unicode_translator.ts,file
+update_unicode_mapping.js,file
+upgrade-extra.ts,file
+upgrade.ts,file
+urldate when only DOI is exported #869.biblatex,file
+urldate when only DOI is exported #869.json,file
+user.js,file
+util,dir
+utils.py,file
+v-en-a.csl,file
+vancouver.csl,file
+versions-zz.json,file
+versions.json,file
+veryshorttitle and compound words #551.bibtex,file
+veryshorttitle and compound words #551.json,file
+washingtonpost.com.js,file
+webpack.config.ts,file
+wiso.js,file
+xpcom.d.ts,file
+xul.d.ts,file
+xulstore.json,file
+zbMATH.js,file
+zbb (quietly) chokes on this .bib #664.bib,file
+zbb (quietly) chokes on this .bib #664.json,file
+zotero,dir
+zotero-better-bibtex.dtd,file
+zotero-better-bibtex.properties,file
+zotero-debug-bridge.dtd,file
+zotero-markup.d.ts,file
+zotero.org.js,file
+zotero.py,file
+zotero.sqlite,file
+zotero.ts,file
+zotero_table.js,file

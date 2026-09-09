@@ -1,0 +1,68 @@
+name,type
+.gitignore,file
+50_Startups.csv,file
+Code,dir
+Data.csv,file
+Data_age_salary.csv,file
+Day 1.jpg,file
+Day 11_K-NN.ipynb,file
+Day 11_K-NN.md,file
+Day 11_k-NN.py,file
+Day 12.jpg,file
+Day 13_SVM.ipynb,file
+Day 13_SVM.md,file
+Day 13_SVM.py,file
+Day 1_Data_Preprocessing.ipynb,file
+Day 1_Data_Preprocessing.md,file
+Day 1_Data_Preprocessing.py,file
+Day 2.jpg,file
+Day 23 - Chinese.jpg,file
+Day 25_Decision_Tree.ipynb,file
+Day 25_Decision_Tree.md,file
+Day 25_Decision_Tree.py,file
+Day 2_Simple_Linear_Regression.ipynb,file
+Day 2_Simple_Linear_Regression.md,file
+Day 2_Simple_Linear_Regression.py,file
+Day 3.png,file
+Day 33.png,file
+Day 34_Random_Forests.ipynb,file
+Day 34_Random_Forests.md,file
+Day 34_Random_Forests.py,file
+Day 39.ipynb,file
+Day 3_Multiple_Linear_Regression.ipynb,file
+Day 3_Multiple_Linear_Regression.md,file
+Day 3_Multiple_Linear_Regression.py,file
+Day 4.jpg,file
+Day 40.ipynb,file
+Day 41.ipynb,file
+Day 42-1.png,file
+Day 42-2.png,file
+Day 42.ipynb,file
+Day 43.jpg,file
+Day 54.jpg,file
+Day 6_Logistic_Regression.ipynb,file
+Day 6_Logistic_Regression.md,file
+Day 6_Logistic_Regression.py,file
+Day 7.jpg,file
+FAQ.MD,file
+Info-graphs,dir
+KafkaProducer.py,file
+LICENSE,file
+LR_test.png,file
+LR_training.png,file
+LinerTest.py,file
+Other Docs,dir
+README.md,file
+SVM_test set.png,file
+SVM_training set.png,file
+Social_Network_Ads.csv,file
+TestKafka.py,file
+Translation specification.MD,file
+data.png,file
+datasets,dir
+day_34_random_forest_classification_test_set.png,file
+day_34_random_forest_classification_training_set.png,file
+mnist.npz,file
+my,dir
+readme.md,file
+studentscores.csv,file

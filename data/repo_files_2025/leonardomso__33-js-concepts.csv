@@ -1,0 +1,13 @@
+name,type
+.DS_Store,file
+.github,dir
+.gitignore,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+action.yml,file
+index.js,file
+package.json,file
+workflows,dir

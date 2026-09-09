@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+AGENTS.md,file
+CLAUDE.md,file
+CODE-OF-CONDUCT.md,file
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+_config.yml,file
+build.yml,file
+workflows,dir

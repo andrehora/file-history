@@ -1,0 +1,39 @@
+name,type
+ChatLaw_framework.png,file
+ELO_val,dir
+LICENSE,file
+MERGE.md,file
+README.md,file
+assert,dir
+chat_page.png,file
+data,dir
+demo,dir
+demo_1.jpg,file
+demo_2.jpg,file
+demo_3.jpg,file
+demo_data_stage2.json,file
+elo.jpg,file
+fig1.jpg,file
+fig2.jpg,file
+fig3.jpg,file
+images,dir
+logo.png,file
+main.jpg,file
+run.sh,file
+truthfulqa.jpg,file
+val_ NBE_2008_3.json,file
+val_ NBE_2009_2.json,file
+val_ NBE_2010_1.json,file
+web.py,file
+webpage.png,file
+wechat.jpg,file
+wechat_group.jpg,file
+wechat_group10.jpg,file
+wechat_group2.jpg,file
+wechat_group4.jpg,file
+wechat_group5.jpg,file
+wechat_group6.jpg,file
+wechat_group7.jpeg,file
+wechat_group8.jpeg,file
+wechat_group9.jpeg,file
+win_rate.png,file

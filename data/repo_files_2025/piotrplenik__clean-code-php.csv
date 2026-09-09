@@ -1,0 +1,10 @@
+name,type
+.gitattributes,file
+.github,dir
+.gitignore,file
+LICENSE,file
+README.md,file
+coding_standard.yaml,file
+composer.json,file
+ecs.php,file
+workflows,dir

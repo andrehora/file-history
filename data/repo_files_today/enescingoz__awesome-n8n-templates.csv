@@ -1,0 +1,406 @@
+name,type
+.github,dir
+404.md,file
+A Very Simple _Human in the Loop_ Email Response System Using AI and IMAP.json,file
+AI Agent To Chat With Files In Supabase Storage.json,file
+AI Agent _ Google calendar assistant using OpenAI.json,file
+AI Agent for project management and meetings with Airtable and Fireflies.json,file
+AI Agent for realtime insights on meetings.json,file
+AI Agent to chat with Airtable and analyze data.json,file
+AI Agent to chat with Supabase_PostgreSQL DB.json,file
+"AI Agent to chat with you Search Console Data, using OpenAI and Postgres.json",file
+AI Agent with Ollama for current weather and wiki.json,file
+AI Automated HR Workflow for CV Analysis and Candidate Evaluation.json,file
+AI Blog Writer Pipeline with Ollama.json,file
+AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow.json,file
+AI Customer feedback sentiment analysis.json,file
+AI Data Extraction with Dynamic Prompts and Airtable.json,file
+AI Data Extraction with Dynamic Prompts and Baserow.json,file
+AI Email Auto-Responder with Ollama.json,file
+AI Fitness Coach Strava Data Analysis and Personalized Training Insights.json,file
+"AI Powered Web Scraping with Jina, Google Sheets and OpenAI _ the EASY way.json",file
+AI Social Media Caption Creator creates social media post captions in Airtable.json,file
+AI Social Media Content Generator with Ollama.json,file
+AI Stock Image Metadata Generator.json,file
+"AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs.json",file
+AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants.json,file
+AI Youtube Trend Finder Based On Niche.json,file
+AI agent chat.json,file
+AI agent for Instagram DM_inbox. Manychat + Open AI integration.json,file
+AI agent that can scrape webpages.json,file
+AI chat with any data source (using the n8n workflow tool).json,file
+AI chatbot that can search the web.json,file
+AI product imagines.json,file
+AI web researcher for sales.json,file
+AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n.json,file
+AI-Generated Summary Block for WordPress Posts.json,file
+AI-Powered Candidate Shortlisting Automation for ERPNext.json,file
+AI-Powered Children_s Arabic Storytelling on Telegram.json,file
+AI-Powered Children_s English Storytelling on Telegram with OpenAI.json,file
+AI-Powered Email Automation for Business_ Summarize & Respond with RAG.json,file
+"AI-Powered Information Monitoring with OpenAI, Google Sheets, Jina AI and Slack.json",file
+AI-Powered RAG Workflow For Stock Earnings Report Analysis.json,file
+AI-Powered Social Media Amplifier.json,file
+AI-powered WooCommerce Support-Agent.json,file
+AI-powered email processing autoresponder and response approval (Yes_No).json,file
+AI_ Ask questions about any data source (using the n8n workflow retriever).json,file
+AI_ Summarize podcast episode and enhance using Wikipedia.json,file
+AI_Research_RAG_and_Data_Analysis,dir
+ALL_unique_nodes.json,file
+API Schema Extractor.json,file
+Actioning Your Meeting Next Steps using Transcripts and AI.json,file
+Add positive feedback messages to a table in Notion.json,file
+Advanced AI Demo (Presented at AI Developers #14 meetup).json,file
+Agentic Telegram AI bot with with LangChain nodes and new tools.json,file
+Airtable,dir
+Airtable to Google Sheets Auto-Sync.json,file
+Analyse papers from Hugging Face with AI and store them in Notion.json,file
+Analyze & Sort Suspicious Email Contents with ChatGPT.json,file
+Analyze Suspicious Email Contents with ChatGPT Vision.json,file
+Analyze feedback and send a message on Mattermost.json,file
+Analyze feedback using AWS Comprehend and send it to a Mattermost channel.json,file
+"Analyze tradingview.com charts with Chrome extension, N8N and OpenAI.json",file
+"Angie, Personal AI Assistant with Telegram Voice and Text.json",file
+Ask a human for help when the AI doesn_t know the answer.json,file
+Ask questions about a PDF using AI.json,file
+Audit a Public Page and Build an Automation Acceptance Pack.json,file
+Author and Publish Blog Posts From Google Sheets.json,file
+Auto Categorise Outlook Emails with AI.json,file
+Auto-Categorize blog posts in wordpress using A.I..json,file
+Auto-Tag Blog Posts in WordPress with AI.json,file
+Auto-label incoming Gmail messages with AI nodes.json,file
+Automate Blog Creation in Brand Voice with AI.json,file
+"Automate Competitor Research with Exa.ai, Notion and AI Agents.json",file
+Automate Content Generator for WordPress with DeepSeek R1.json,file
+Automate Customer Support Issue Resolution using AI Text Classifier.json,file
+Automate Image Validation Tasks using AI Vision.json,file
+Automate LinkedIn Outreach with Notion and OpenAI.json,file
+Automate Pinterest Analysis & AI-Powered Content Suggestions With Pinterest API.json,file
+"Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n.json",file
+Automate Sales Meeting Prep with AI & APIFY Sent To WhatsApp.json,file
+Automate Screenshots with URLbox & Analyze them with AI.json,file
+Automate Your RFP Process with OpenAI Assistants.json,file
+Automate testimonials in Strapi with n8n.json,file
+Automated AI image analysis and response via Telegram.json,file
+Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration.json,file
+Automated Hugging Face Paper Summary Fetching & Categorization Workflow.json,file
+Automatic Background Removal for Images in Google Drive.json,file
+Automatic payment reminders from Google Sheets (Italian).json,file
+Autonomous AI crawler.json,file
+B2B Demo Lead Rescue Desk - Enrich Score Route and Escalate.json,file
+BambooHR AI-Powered Company Policies and Benefits Chatbot.json,file
+Basic Automatic Gmail Email Labelling with OpenAI and Gmail API.json,file
+Bilig WorkPaper MCP formula engine for n8n agents.json,file
+Bitcoin price alert to Telegram with CoinPaprika.json,file
+Bitrix24 Chatbot Application Workflow example with Webhook Integration.json,file
+Breakdown Documents into Study Notes using Templating MistralAI and Qdrant.json,file
+"Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearch.json",file
+Build a Financial Documents Assistant using Qdrant and Mistral.ai.json,file
+"Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI.json",file
+Build an OpenAI Assistant with Google Drive Integration.json,file
+Building RAG Chatbot for Movie Recommendations with Qdrant and Open AI.json,file
+Building Your First WhatsApp Chatbot.json,file
+CITATION.cff,file
+CONTRIBUTING.md,file
+CV Resume PDF Parsing with Multimodal Vision AI.json,file
+CV Screening with OpenAI.json,file
+Capture WhatsApp Leads to Google Sheets with Instant Hebrew Auto-Reply.json,file
+Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities.json,file
+Chat with GitHub API Documentation_ RAG-Powered Chatbot with Pinecone & OpenAI.json,file
+Chat with OpenAI Assistant (by adding a memory).json,file
+Chat with OpenAIs GPT via a simple Telegram Bot.json,file
+Chat with PDF docs using AI (quoting sources).json,file
+Chat with Postgresql Database.json,file
+Chat with a Google Sheet using AI.json,file
+Chat with local LLMs using n8n and Ollama.json,file
+Chat with your event schedule from Google Sheets in Telegram.json,file
+ChatGPT Automatic Code Review in Gitlab MR.json,file
+Classify lemlist replies using OpenAI and automate reply handling.json,file
+Classify new bugs in Linear with OpenAI_s GPT-4 and move them to the right team.json,file
+Claude AI Content Generator.json,file
+Claude AI LINE Chatbot.json,file
+Claude AI Morning Brief.json,file
+Claude Smart Webhook AI Router.json,file
+ClientFlow Lite - Client Onboarding Automation.json,file
+Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI.json,file
+Compose reply draft in Gmail with OpenAI Assistant.json,file
+Configure your own Image Creation API Using OpenAI DALLE-3.json,file
+Conversational Interviews with AI Agents and n8n Forms.json,file
+Convert URL HTML to Markdown Format and Get Page Links.json,file
+Convert text to speech with OpenAI.json,file
+Create a Branded AI-Powered Website Chatbot.json,file
+Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram.json,file
+Create and send Pennylane invoices from webhook data.json,file
+Create dynamic Twitter profile banner.json,file
+"Create, update, and get a profile in Humantic AI.json",file
+Creating a AI Slack Bot with Google Gemini.json,file
+Custom LangChain agent written in JavaScript.json,file
+"Customer Insights with Qdrant, Python and Information Extractor.json",file
+Customer Support Channel and Ticketing System with Slack and Linear.json,file
+Daily AI digest of unread emails to Telegram (Italian).json,file
+Daily Email Notification.json,file
+Daily Podcast Summary.json,file
+Daily meetings summarization with Gemini AI.json,file
+DaoXE Multi-Model Chat with Automatic Fallback.json,file
+DataForge Lite - AI URL Data Extractor.json,file
+Database_and_Storage,dir
+Deduplicate Scraping AI Grants for Eligibility using AI.json,file
+Detect hallucinations using specialised Ollama model bespoke-minicheck.json,file
+Detect toxic language in Telegram messages.json,file
+Deterministic Exact-Match Quote Guard for AI and OCR Inputs.json,file
+Discord,dir
+Discord AI-powered bot.json,file
+Dynamically generate a webpage from user request using OpenAI Structured Output.json,file
+ETL pipeline for text processing.json,file
+Easy Image Captioning with Gemini 1.5 Pro.json,file
+Effortless Email Management with AI-Powered Summarization & Review.json,file
+"Email Subscription Service with n8n Forms, Airtable and AI.json",file
+Email Summary Agent.json,file
+Enhance Customer Chat by Buffering Messages with Twilio and Redis.json,file
+Enhance Security Operations with the Qualys Slack Shortcut Bot!.json,file
+Enrich FAQ sections on your website pages at scale with AI.json,file
+Enrich Pipedrive_s Organization Data with OpenAI GPT-4o & Notify it in Slack.json,file
+Enrich Property Inventory Survey with Image Recognition and AI Agent.json,file
+"Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable.json",file
+Extract and process information directly from PDF using Claude and Gemini.json,file
+Extract data from resume and create PDF with Gotenberg.json,file
+Extract insights & analyse YouTube comments via AI Agent chat.json,file
+Extract license plate number from image uploaded via an n8n form.json,file
+Extract personal data with self-hosted LLM Mistral NeMo.json,file
+Extract source-backed company website metadata with Apify.json,file
+Extract spending history from gmail to google sheet.json,file
+Extract text from PDF and image using Vertex AI (Gemini) into CSV.json,file
+Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt.json,file
+FlowScribe Lite - AI Content Repurposing 4 Platforms.json,file
+Flux AI Image Generator.json,file
+Flux Dev Image Generation (Fal.ai) to Google Drive.json,file
+Force AI to use a specific output format.json,file
+Forms_and_Surveys,dir
+GCF Token Optimization for LLM Tool Responses.json,file
+Generate 9_16 Images from Content and Brand Guidelines.json,file
+Generate Instagram Content from Top Trends with AI Image Generation.json,file
+Generate SEO Seed Keywords Using AI.json,file
+Generate SQL queries from schema only - AI-powered.json,file
+Generate Seedance videos with Vancine API and bounded polling.json,file
+Generate Text-to-Speech Using Elevenlabs via API.json,file
+Generate audio from text using OpenAI and Webhook _ Text to Speech Workflow.json,file
+Generating Image Embeddings via Textual Summarisation.json,file
+Get Airtable data via AI and Obsidian Notes.json,file
+Gmail AI Auto-Responder_ Create Draft Replies to incoming emails.json,file
+Gmail_and_Email_Automation,dir
+Google_Drive_and_Google_Sheets,dir
+Grounded Article to Thread and LinkedIn Post.json,file
+HR & IT Helpdesk Chatbot with Audio Transcription.json,file
+HR Job Posting and Evaluation with AI.json,file
+HR_and_Recruitment,dir
+Hacker News Job Listing Scraper and Parser.json,file
+"Hacker News Throwback Machine - See What Was Hot on This Day, Every Year!.json",file
+Hacker News to Video Content.json,file
+"Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI.json",file
+Handling Job Application Submissions with AI and n8n Forms.json,file
+"Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3.json",file
+IT Ops AI SlackBot Workflow - Chat with your knowledge base.json,file
+Image Creation with OpenAI and Telegram.json,file
+InboxZero Lite - AI Email Classifier.json,file
+Instagram_Twitter_Social_Media,dir
+Integrating AI with Open-Meteo API for Enhanced Weather Forecasting.json,file
+Intelligent Web Query and Semantic Re-Ranking Flow using Brave and Google Gemini.json,file
+Internship Informer.json,file
+Introduction to the HTTP Tool.json,file
+Invoice data extraction with LlamaParse and OpenAI.json,file
+Invoice data extraction with human-in-the-loop validation and auto-training using Cradl AI.json,file
+Issue a verifiable certificate (Attestify).json,file
+KB Tool - Confluence Knowledge Base.json,file
+Komos Regulated Browser Ops Task Queue.json,file
+LICENSE,file
+LINE Assistant with Google Calendar and Gmail Integration.json,file
+LeadBot 24h - AI WhatsApp Lead Qualification.json,file
+LeadPilot Lite - AI Cold Email Writer.json,file
+Learn Anything from HN - Get Top Resource Recommendations from Hacker News.json,file
+Live Web Research Agent with Superhighway.json,file
+Make OpenAI Citation for File Retrieval RAG.json,file
+Manipulate PDF with Adobe developer API.json,file
+Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable.json,file
+Modular & Customizable AI-Powered Email Routing_ Text Classifier for eCommerce.json,file
+MongoDB AI Agent - Intelligent Movie Recommendations.json,file
+Monitor X Search with Xquik.json,file
+Monthly Spotify Track Archiving and Playlist Classification.json,file
+Narrating over a Video using Multimodal AI.json,file
+Notion,dir
+Notion AI Assistant Generator.json,file
+Notion knowledge base AI assistant.json,file
+Notion to Pinecone Vector Store Integration.json,file
+Obsidian Notes Read Aloud using AI_ Available as a Podcast Feed.json,file
+Ollama_Basic_Workflow.json,file
+Open Deep Research - AI-Powered Autonomous Research Workflow.json,file
+"OpenAI Assistant workflow_ upload file, create an Assistant, chat with it!.json",file
+OpenAI assistant with custom tools.json,file
+OpenAI-powered tweet generator.json,file
+OpenAI_and_LLMs,dir
+Optimize & Update Printify Title and Description Workflow.json,file
+Organise Your Local File Directories With AI.json,file
+Other,dir
+Other_Integrations_and_Use_Cases,dir
+PDF_and_Document_Processing,dir
+Parse PDF with LlamaParse and save to Airtable.json,file
+Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI.json,file
+Post New Live Tennis Matches to Discord on a Schedule.json,file
+Post New YouTube Videos to X.json,file
+Prepare CSV files with GPT-4.json,file
+Prompt-based Object Detection with Gemini 2.0.json,file
+Proxmox AI Agent with n8n and Generative AI Integration.json,file
+Publish one video natively to TikTok Instagram and YouTube with PostWire.json,file
+Qualify new leads in Google Sheets via OpenAI_s GPT-4.json,file
+Qualify replies from Pipedrive persons with AI.json,file
+Qualifying Appointment Requests with AI & n8n Forms.json,file
+Query Perplexity AI from your n8n workflows.json,file
+Query n8n Credentials with AI SQL Agent.json,file
+RAG Chatbot for Company Documents using Google Drive and Gemini.json,file
+RAG_Context-Aware Chunking _ Google Drive to Pinecone via OpenRouter & Gemini.json,file
+README-ar.md,file
+README-de.md,file
+README-es.md,file
+README-fr.md,file
+README-hi.md,file
+README-id.md,file
+README-it.md,file
+README-ja.md,file
+README-ko.md,file
+README-pt.md,file
+README-ru.md,file
+README-tr.md,file
+README-zh.md,file
+README.md,file
+RSS Keyword Alert to Telegram.json,file
+"Receive and Send Messages Across WhatsApp, Instagram and Facebook Messenger with Fiwano.json",file
+Recipe Recommendations with Qdrant and Mistral.json,file
+Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI.json,file
+Reddit AI digest.json,file
+Remove Personally Identifiable Information (PII) from CSV Files with OpenAI.json,file
+"Resilient REST API Sync with Retries, Validation, and Sanitized Errors.json",file
+Respond to WhatsApp Messages with AI Like a Pro!.json,file
+ResumeBot.json,file
+"Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI.json",file
+Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB.json,file
+Scrape and summarize webpages with AI.json,file
+"Screen Applicants With AI, notify HR and save them in a Google Sheet.json",file
+Send Escalating WhatsApp Invoice Reminders from Google Sheets (Hebrew).json,file
+Send Google analytics data to A.I. to analyze then save results in Baserow.json,file
+Send Google analytics data to A.I. to analyze then save results in BaserowSend Google analytics data to A.I. to analyze then save results in Baserow.json,file
+Send a ChatGPT email reply and save responses to Google Sheets.json,file
+Send a random recipe once a day to Telegram.json,file
+Send daily translated Calvin and Hobbes Comics to Discord.json,file
+Send specific PDF attachments from Gmail to Google Drive using OpenAI.json,file
+Sentiment Analysis Tracking on Support Issues with Linear and Slack.json,file
+Share YouTube Videos with AI Summaries on Discord.json,file
+Signed Webhook HMAC Guard with Timestamp Window.json,file
+"Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets.json",file
+Siri AI Agent_ Apple Shortcuts powered voice template.json,file
+Slack,dir
+Slack slash commands AI Chat Bot.json,file
+Social Media Analysis and Automated Email Generation.json,file
+SocialPulse Lite - Reddit Trend Monitor.json,file
+Speed Up Social Media Banners With BannerBear.com.json,file
+Spot Workplace Discrimination Patterns with AI.json,file
+Store Notion_s Pages as Vector Documents into Supabase with OpenAI.json,file
+Suggest meeting slots using AI.json,file
+Summarize Google Sheets form feedback via OpenAI_s GPT-4.json,file
+Summarize SERPBear data with AI (via Openrouter) and save it to Baserow.json,file
+Summarize Umami data with AI (via Openrouter) and save it to Baserow.json,file
+Summarize YouTube Videos from Transcript.json,file
+Summarize the New Documents from Google Drive and Save Summary in Google Sheet.json,file
+Summarize your emails with A.I. (via Openrouter) and send to Line messenger.json,file
+Supabase Insertion & Upsertion & Retrieval.json,file
+SupportFlow Lite - Simple AI Customer Support Chatbot.json,file
+"Survey Insights with Qdrant, Python and Information Extractor.json",file
+Synthetic Candidate Intake Reliability Harness.json,file
+Talk to your SQLite database with a LangChain AI Agent.json,file
+TeleBot_KnowledgeHub.json,file
+Telegram,dir
+Telegram AI Bot_ NeurochainAI Text & Image - NeurochainAI Basic API Integration.json,file
+Telegram AI Chatbot.json,file
+Telegram AI Support Bot with Conversation Memory.json,file
+Telegram AI bot assistant_ ready-made template for voice & text messages.json,file
+Telegram AI bot with LangChain nodes.json,file
+Telegram Bot with Supabase memory and OpenAI assistant integration.json,file
+Telegram chat with PDF.json,file
+Telegram to Spotify with OpenAI.json,file
+Text automations using Apple Shortcuts.json,file
+"Transcribe Audio Files, Summarize with GPT-4, and Store in Notion.json",file
+Transcribe authorized PT-BR support calls with speaker labels using Apify.json,file
+Transcribing Bank Statements To Markdown Using Gemini Vision AI.json,file
+Transform Image to Lego Style Using Line and Dall-E.json,file
+Translate Telegram audio messages with AI (55 supported languages).json,file
+Translate audio using AI.json,file
+Transport_Request_Intake_Lite.json,file
+Tunova - Generate a song from a form.json,file
+Tunova - Generate a song via webhook.json,file
+"Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr.json",file
+Twitter Virtual AI Influencer.json,file
+UTM Link Creator & QR Code Generator with Scheduled Google Analytics Reports.json,file
+Ultimate Scraper Workflow for n8n.json,file
+Update Twitter banner using HTTP request.json,file
+Upload to Instagram and Tiktok from Google Drive.json,file
+Upsert huge documents in a vector store with Supabase and Notion.json,file
+Use AI to organize your Todoist Inbox.json,file
+Use OpenRouter in n8n versions _1.78.json,file
+Using External Workflows as Tools in n8n.json,file
+Vector Database as a Big Data Analysis Tool for AI Agents [1_3 anomaly][1_2 KNN].json,file
+Vector Database as a Big Data Analysis Tool for AI Agents [2_2 KNN].json,file
+Vector Database as a Big Data Analysis Tool for AI Agents [2_3 - anomaly].json,file
+Vector Database as a Big Data Analysis Tool for AI Agents [3_3 - anomaly].json,file
+Venafi Cloud Slack Cert Bot.json,file
+Visual Regression Testing with Apify and AI Vision Model.json,file
+Visualize your SQL Agent queries with OpenAI and Quickchart.io.json,file
+VoiceAgent Lite - Phone Call Logger.json,file
+Website leads to Google Sheets with Telegram alert and auto-reply (Italian).json,file
+Website-Grounded Cold Email Writer.json,file
+WhatsApp,dir
+WordPress,dir
+WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI.json,file
+Write a WordPress post with AI (starting from a few keywords).json,file
+YouTube Transcript to Executive Summary (Free).json,file
+"Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call.json",file
+_config.yml,file
+_includes,dir
+_layouts,dir
+ai-research-rag.md,file
+airtable.md,file
+categories,dir
+create e-mail responses with fastmail and OpenAI.json,file
+database-storage.md,file
+default.html,file
+devops,dir
+devops-server-automation.md,file
+discord.md,file
+disk-space-watchdog.json,file
+docker-compose-controller.json,file
+docs,dir
+forms-surveys.md,file
+glasp-highlights-export-workflow.json,file
+gmail-email-automation.md,file
+google-drive-sheets.md,file
+head-custom.html,file
+hr-recruitment.md,file
+img,dir
+index.md,file
+lemlist __ GPT-3_ Supercharge your sales workflows.json,file
+linux-update-via-webhook.json,file
+llms.txt,file
+n8n-failed-execution-doctor.json,file
+n8n.png,file
+notion.md,file
+openai-llms.md,file
+other-integrations.md,file
+pdf-document-processing.md,file
+pr-review.yml,file
+robots.txt,file
+secret-scan.yml,file
+slack.md,file
+social-media.md,file
+telegram-bots.md,file
+uptime-ping-alert.json,file
+vAssistant for Hubspot Chat using OpenAi and Airtable.json,file
+whatsapp.md,file
+wordpress.md,file
+workflows,dir

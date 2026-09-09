@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitignore,file
+CHANGELOG.md,file
+FUNDING.yml,file
+Gruntfile.coffee,file
+LICENSE,file
+README.en-US.md,file
+README.md,file
+README.zh-CN.md,file
+README.zh-HK.md,file
+crowdin.yml,file
+package-lock.json,file
+package.json,file
+renovate.json,file

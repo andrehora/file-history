@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.gorelangci.yml,file
+.hound.yml,file
+.travis.yml,file
+LICENSE.md,file
+Makefile,file
+README.md,file
+env.go,file
+env_test.go,file
+go.mod,file
+go.sum,file
+renovate.json,file

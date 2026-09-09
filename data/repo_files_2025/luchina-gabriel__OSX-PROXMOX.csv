@@ -1,0 +1,46 @@
+name,type
+.gitignore,file
+ACPI,dir
+APIC-1.aml,file
+Artefacts,dir
+BGRT-1.aml,file
+CHANGELOG.md,file
+CHECK-IOMMU.sh,file
+CPU,dir
+CPUInfo.txt,file
+CREATE-ISO-macOS.command,file
+DSDT.aml,file
+DUMP-IOREG.ioreg,file
+DataV1.bin,file
+EFI,dir
+EntryV1.bin,file
+Errors,dir
+FACP-1.aml,file
+HPET-1.aml,file
+IOMMU-Groups.sh,file
+IOREG,dir
+MCFG-1.aml,file
+PCI,dir
+PCIInfo.txt,file
+README.md,file
+RSDP.aml,file
+RSDT.aml,file
+SMBIOS,dir
+SSDT-1.aml,file
+SysReport - VM Proxmox 7.0-11,dir
+SysReport - VM Proxmox 7.1-7,dir
+SysReport - VM Proxmox 7.2-3,dir
+VFCT-1.aml,file
+WAET-1.aml,file
+XSDT.aml,file
+boards.json,file
+build-image.sh,file
+install.sh,file
+macrecovery,dir
+macrecovery.py,file
+opencore-osx-proxmox-vm.iso,file
+proxmox-screen.png,file
+recovery_urls.txt,file
+setup,file
+shutdown-error-on-monterey.png,file
+tools,dir

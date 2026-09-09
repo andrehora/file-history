@@ -1,0 +1,16 @@
+name,type
+.gitignore,file
+.travis.yml,file
+Cargo.lock,file
+Cargo.toml,file
+LICENCE,file
+README.md,file
+column.rs,file
+dir.rs,file
+exa.rs,file
+file.rs,file
+filetype.rs,file
+options.rs,file
+screenshot.png,file
+src,dir
+term.rs,file

@@ -1,0 +1,11 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+README.md,file
+Terms_and_Conditions,dir
+auto_reply.yml,file
+linkcheck.yml,file
+terms_and_conditions_for_companies.md,file
+terms_and_conditions_for_individuals.md,file
+workflows,dir
+zama-bounty-program--proposition.md,file

@@ -1,0 +1,12 @@
+name,type
+.gitattributes,file
+.gitignore,file
+CppTemplateTutorial.cpp,file
+CppTemplateTutorial.sln,file
+CppTemplateTutorial.vcxproj,file
+CppTemplateTutorial.vcxproj.filters,file
+QuickSort.cpp,file
+ReadMe.md,file
+stdafx.cpp,file
+stdafx.h,file
+targetver.h,file

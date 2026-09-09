@@ -1,0 +1,15 @@
+name,type
+.gitignore,file
+1. screenshot.py,file
+2. extract_head.js,file
+3. extract_ass_to_txt.js,file
+README-about-subtitle.md,file
+README.md,file
+common.js,file
+content,dir
+cs40.jpg,file
+english.png,file
+extract_from_ass_subtitle,dir
+image,dir
+package.json,file
+qr.png,file

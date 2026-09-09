@@ -1,0 +1,28 @@
+name,type
+0. Toggle All Measure Hidden.sketchplugin,file
+1. Clear All Measure.sketchplugin,file
+1. Sizes.sketchplugin,file
+1. Width.sketchplugin,file
+2. Design Resolution.sketchplugin,file
+2. Height.sketchplugin,file
+2. MarginOrPadding.sketchplugin,file
+3. Distances.sketchplugin,file
+3. Guide Style.sketchplugin,file
+3. Width and Height.sketchplugin,file
+4. Label.sketchplugin,file
+4. Properties.sketchplugin,file
+5. Coordinates.sketchplugin,file
+6. Settings,dir
+Lite,dir
+README.md,file
+common.js,file
+coordinates.js,file
+distances.js,file
+label.js,file
+library,dir
+lite.js,file
+overlayer.js,file
+properties.js,file
+reset.js,file
+sizes.js,file
+sketchpack.json,file

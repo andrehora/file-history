@@ -1,0 +1,8 @@
+name,type
+.editorconfig,file
+.pre-commit-config.yaml,file
+.travis.yml,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+godot-logo.svg,file

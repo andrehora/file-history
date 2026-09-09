@@ -1,0 +1,11 @@
+name,type
+.gitignore,file
+README.md,file
+bower.json,file
+daterangepicker-bs2.css,file
+daterangepicker-bs3.css,file
+daterangepicker.js,file
+examples.html,file
+moment.js,file
+moment.min.js,file
+package.json,file

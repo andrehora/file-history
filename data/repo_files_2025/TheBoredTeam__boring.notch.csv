@@ -1,0 +1,177 @@
+name,type
+.github,dir
+.gitignore,file
+1-bug-report-form.yml,file
+256-mac 1.png,file
+AccentColor.colorset,dir
+ActionBar.swift,file
+ActivationView.swift,file
+AirDrop.swift,file
+AirDropView.swift,file
+AnimatedFace.swift,file
+AppIcon.appiconset,dir
+AppIcons.swift,file
+Assets.xcassets,dir
+AudioPlayer.swift,file
+BatteryStatusViewModel.swift,file
+BoringBattery.swift,file
+BoringCalendar.swift,file
+BoringExtensionManager.swift,file
+BoringExtrasMenu.swift,file
+BoringHeader.swift,file
+BoringNotch icon.png,file
+BoringNotchWindow.swift,file
+BoringSystemTiles.swift,file
+BoringViewCoordinator.swift,file
+BoringViewModel.swift,file
+BottomRoundedRectangle.swift,file
+BundleInfos.swift,file
+Button+Bouncing.swift,file
+CGSSpace.swift,file
+CalendarManager.swift,file
+Calender,dir
+Clipboard+Content.swift,file
+ConditionalModifier.swift,file
+Constants.swift,file
+ContentView.swift,file
+Contents.json,file
+DataTypes+Extensions.swift,file
+DownloadView.swift,file
+DragDropView.swift,file
+DropItem.swift,file
+DropItemView.swift,file
+DynamicNotch.swift,file
+EditPanelView.swift,file
+EmptyState.swift,file
+Ext+FileProvider.swift,file
+Ext+NSAlert.swift,file
+Ext+NSImage.swift,file
+Ext+URL.swift,file
+FUNDING.yml,file
+FullscreenMediaDetection.swift,file
+GitHub Mark White 1.svg,file
+GitHub Mark White 2.svg,file
+GitHub Mark White.svg,file
+Github.imageset,dir
+Google Chrome macOS BigSur Icon 1.png,file
+Google Chrome macOS BigSur Icon 2.png,file
+Google Chrome macOS BigSur Icon.png,file
+HelloAnimation.swift,file
+HoverButton.swift,file
+IDEWorkspaceChecks.plist,file
+ISSUE_TEMPLATE,dir
+Info.plist,file
+InlineHUD.swift,file
+KeyboardShortcutsHelper.swift,file
+LICENSE,file
+ListItemPopover.swift,file
+Live activities,dir
+LiveActivityModifier.swift,file
+Localizable.xcstrings,file
+LottieAnimationView.swift,file
+MarqueeTextView.swift,file
+MouseTracker.swift,file
+Music,dir
+MusicManager.swift,file
+MusicVisualizer.swift,file
+NSImage+Extensions.swift,file
+Notch,dir
+NotchContentView.swift,file
+NotchHomeView.swift,file
+NotchOutline.swift,file
+NotchShape.swift,file
+NotchShelfView.swift,file
+NotchSpaceManager.swift,file
+NowPlaying.h,file
+NowPlaying.m,file
+Onboarding,dir
+Package.resolved,file
+PanGesture.swift,file
+PlaybackManager.swift,file
+Preview Assets.xcassets,dir
+Preview Content,dir
+ProOnboarding.swift,file
+ProgressIndicator.swift,file
+README.md,file
+Settings,dir
+SettingsView.swift,file
+Shelf,dir
+ShortcutConstants.swift,file
+Shortcuts,dir
+SoftwareUpdater.swift,file
+SparkleView.swift,file
+StatusBarMenu.swift,file
+SystemEventIndicatorModifier.swift,file
+TabButton.swift,file
+TabSelectionView.swift,file
+Tabs,dir
+TestView.swift,file
+TheBoringTeam.svg,file
+TipStore.swift,file
+Tips,dir
+TrayDrop.swift,file
+Vector 1.svg,file
+Vector 2.svg,file
+Vector.svg,file
+Webcam,dir
+WebcamManager.swift,file
+WebcamView.swift,file
+WhatsNewView.swift,file
+WorkspaceSettings.xcsettings,file
+animations,dir
+appcast.xml,file
+bolt.imageset,dir
+boring.m4a,file
+boringNotch,dir
+boringNotch-Bridging-Header.h,file
+boringNotch.entitlements,file
+boringNotch.xcodeproj,dir
+boringNotchApp.swift,file
+bug_report.md,file
+chrome.imageset,dir
+cicd.yml,file
+components,dir
+config.yml,file
+constants.swift,file
+contents.xcworkspacedata,file
+defaultmusic.imageset,dir
+drop.swift,file
+enums,dir
+extensions,dir
+feature_request.md,file
+generic.swift,file
+helpers,dir
+logo.imageset,dir
+logo2.imageset,dir
+managers,dir
+matters.swift,file
+menu,dir
+metal,dir
+models,dir
+notch-stage-icon2 10.png,file
+notch-stage-icon2 11.png,file
+notch-stage-icon2 12.png,file
+notch-stage-icon2 13.png,file
+notch-stage-icon2 2.png,file
+notch-stage-icon2 5.png,file
+notch-stage-icon2 6.png,file
+notch-stage-icon2 7.png,file
+notch-stage-icon2 8.png,file
+notch-stage-icon2 9.png,file
+observers,dir
+private,dir
+project.pbxproj,file
+project.xcworkspace,dir
+sizing,dir
+sparkle.imageset,dir
+sparkle.svg,file
+spotlight.imageset,dir
+spotlight.svg,file
+static.yml,file
+strings,dir
+swiftpm,dir
+theboringteam.imageset,dir
+updater,dir
+visualizer.metal,file
+workflows,dir
+xcshareddata,dir

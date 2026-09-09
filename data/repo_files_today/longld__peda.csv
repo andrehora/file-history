@@ -1,0 +1,14 @@
+name,type
+.gitignore,file
+LICENSE,file
+README,file
+README.md,file
+config.py,file
+lib,dir
+nasm.py,file
+peda.py,file
+python23-compatibility.md,file
+shellcode.py,file
+six.py,file
+skeleton.py,file
+utils.py,file

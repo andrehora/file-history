@@ -1,0 +1,6 @@
+name,type
+.github,dir
+.gitignore,file
+LICENSE.txt,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file

@@ -1,0 +1,19 @@
+name,type
+.aspell.en.pws,file
+.github,dir
+.gitmodules,file
+.markdownlint.json,file
+.mrconfig,file
+CHANGELOG.md,file
+ISSUE_TEMPLATE,dir
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+ONLYOFFICE Docs.png,file
+ROADMAP.md,file
+Readme.md,file
+bug_report.yml,file
+check.yml,file
+feature_request.yml,file
+mr-update.sh,file
+screenshots,dir
+workflows,dir

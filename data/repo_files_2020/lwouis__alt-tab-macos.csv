@@ -1,0 +1,73 @@
+name,type
+.github,dir
+.gitignore,file
+.travis.yml,file
+1 window - 1 line.jpg,file
+1-row.jpg,file
+14 windows - 3 lines.jpg,file
+2 windows - 1 line.jpg,file
+2-rows.jpg,file
+3 windows - 1 line - tall window.jpg,file
+3 windows - 1 line - wide window.jpg,file
+3 windows - 1 line.jpg,file
+4 windows - 1 line.jpg,file
+5 windows - 1 line.jpg,file
+5 windows - 2 lines.jpg,file
+6 windows - 1 line.jpg,file
+7 windows - 2 lines - extra wide window.jpg,file
+7 windows - 2 lines - tall window.jpg,file
+7 windows - 2 lines - wide window.jpg,file
+AXUIElement.swift,file
+Application.swift,file
+CGWindow.swift,file
+CGWindowID.swift,file
+CHANGELOG.md,file
+Cell.swift,file
+CollectionViewCenterFlowLayout.swift,file
+FontIcon.swift,file
+HelperExtensions.swift,file
+HyperlinkLabel.swift,file
+Info.plist,file
+Keyboard.swift,file
+LICENCE.md,file
+Labels.swift,file
+Preferences.swift,file
+PreferencesPanel.swift,file
+PrivateApis.swift,file
+README.md,file
+SF-Pro-Text-Regular.otf,file
+Screen.swift,file
+Spaces.swift,file
+StatusItem.swift,file
+SystemPermissions.swift,file
+TextField.swift,file
+ThumbnailsPanel.swift,file
+TrackedWindow.swift,file
+TrackedWindows.swift,file
+alt-tab-macos,dir
+alt-tab-macos.xcodeproj,dir
+alt_tab_macos.entitlements,file
+api-wrappers,dir
+ci,dir
+commitlint.config.js,file
+contents.xcworkspacedata,file
+determine_version.sh,file
+docs,dir
+frontpage.jpg,file
+greetings.yml,file
+img,dir
+logic,dir
+main.swift,file
+package-lock.json,file
+package.json,file
+package_release.sh,file
+project.pbxproj,file
+project.xcworkspace,dir
+release.config.js,file
+resources,dir
+set_version_in_app.sh,file
+too many windows - 4 lines - paginated.jpg,file
+ui,dir
+windows-10,dir
+windows-theme.jpg,file
+workflows,dir

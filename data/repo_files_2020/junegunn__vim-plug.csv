@@ -1,0 +1,17 @@
+name,type
+.github,dir
+.travis.yml,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+doc,dir
+functional.vader,file
+plug.png,file
+plug.txt,file
+plug.vim,file
+regressions.vader,file
+run,file
+test,dir
+test.vader,file
+workflow.vader,file

@@ -1,0 +1,101 @@
+name,type
+.gitignore,file
+ACKNOWLEDGEMENTS,file
+AccentColor.colorset,dir
+AppIcon.appiconset,dir
+Assets.xcassets,dir
+Build.xcconfig,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+CameraController.swift,file
+CameraControlsView.swift,file
+CameraType.swift,file
+Configuration,dir
+ContentView.swift,file
+Contents.json,file
+FastVLM,dir
+FastVLM - 150 Blue - Dark@2x.png,file
+FastVLM - 150 Blue - Light@2x.png,file
+FastVLM - 150 White - Tinted@2x.png,file
+FastVLM - MacOS - Dark@1x.png,file
+FastVLM - MacOS - Dark@2x.png,file
+FastVLM App,dir
+FastVLM App.xcscheme,file
+FastVLM.entitlements,file
+FastVLM.h,file
+FastVLM.swift,file
+FastVLM.xcodeproj,dir
+FastVLMApp.swift,file
+FastVLMModel.swift,file
+Info.plist,file
+InfoView.swift,file
+LICENSE,file
+LICENSE_MODEL,file
+MediaProcessingExtensions.swift,file
+Preview Assets.xcassets,dir
+Preview Content,dir
+README.md,file
+Video,dir
+Video.h,file
+VideoFrameView.swift,file
+__init__.py,file
+acc_vs_latency_qwen-2.png,file
+app,dir
+apply_delta.py,file
+builder.py,file
+cli.py,file
+clip_encoder.py,file
+configs,dir
+consolidate.py,file
+constants.py,file
+controller.py,file
+conversation.py,file
+docs,dir
+examples,dir
+export_vision_encoder.py,file
+extreme_ironing.jpg,file
+fastvlm-counting.gif,file
+fastvlm-emoji.gif,file
+fastvlm-flexible_prompts.png,file
+fastvlm-handwriting.gif,file
+fastvlm_mlx-vlm.patch,file
+get_models.sh,file
+get_pretrained_mlx_model.sh,file
+gradio_web_server.py,file
+language_model,dir
+llama_flash_attn_monkey_patch.py,file
+llama_xformers_attn_monkey_patch.py,file
+llava,dir
+llava_arch.py,file
+llava_llama.py,file
+llava_mistral.py,file
+llava_mpt.py,file
+llava_qwen.py,file
+llava_trainer.py,file
+make_delta.py,file
+mci.py,file
+mm_utils.py,file
+mobileclip,dir
+mobileclip_encoder.py,file
+mobileclip_l.json,file
+model,dir
+model_export,dir
+model_worker.py,file
+multimodal_encoder,dir
+multimodal_projector,dir
+predict.py,file
+project.pbxproj,file
+pyproject.toml,file
+register_worker.py,file
+serve,dir
+sglang_worker.py,file
+test_message.py,file
+train,dir
+train.py,file
+train_mem.py,file
+train_qwen.py,file
+train_xformers.py,file
+utils.py,file
+waterview.jpg,file
+xcschemes,dir
+xcshareddata,dir

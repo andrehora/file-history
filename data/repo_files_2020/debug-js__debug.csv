@@ -1,0 +1,17 @@
+name,type
+.editorconfig,file
+.github,dir
+.gitignore,file
+.travis.yml,file
+ISSUE_TEMPLATE.md,file
+LICENSE,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+browser.js,file
+common.js,file
+index.js,file
+karma.conf.js,file
+node.js,file
+package.json,file
+src,dir
+test.js,file

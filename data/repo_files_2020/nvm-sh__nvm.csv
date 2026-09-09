@@ -1,0 +1,346 @@
+name,type
+'nvm alias' should ensure LTS alias dir exists,file
+'nvm alias' should ignore leading blank lines in the file,file
+'nvm alias' should not accept aliases with a hash,file
+'nvm alias' should not accept aliases with slashes,file
+'nvm unalias' should accept aliases when they shadow a built-in alias,file
+'nvm unalias' should not accept aliases with names equal to built-in alias,file
+'nvm unalias' should not accept aliases with slashes,file
+.dockerignore,file
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+.gitkeep,file
+.gitmodules,file
+.mailmap,file
+.npmrc,file
+.travis.yml,file
+Aliases,dir
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+Dockerfile,file
+FUNDING.yml,file
+GOVERNANCE.md,file
+INCIDENT_RESPONSE_PLAN.md,file
+ISSUE_TEMPLATE,dir
+LICENSE.md,file
+LTS_names.txt,file
+Listing paths,dir
+Listing versions,dir
+Makefile,file
+PROJECT_CHARTER.md,file
+README.md,file
+ROADMAP.md,file
+Running 'nvm alias' lists implicit aliases when they do not exist,file
+Running 'nvm alias' lists manual aliases instead of implicit aliases when present,file
+Running 'nvm alias' should create a file in the alias directory,file
+Running 'nvm alias' should list all aliases,file
+Running 'nvm copy-packages $(nvm ls current)' should error out,file
+Running 'nvm current' should display current nvm environment,file
+Running 'nvm deactivate' should unset the nvm environment variables,file
+Running 'nvm exec --lts' should work,file
+Running 'nvm exec --silent' should work,file
+Running 'nvm exec 0.x' should work,file
+Running 'nvm exec' should pick up .nvmrc version,file
+Running 'nvm exec' with help should not parse,file
+Running 'nvm install --save' works as expected',file
+Running 'nvm install' with '--reinstall-packages-from' requires a valid version,file
+Running 'nvm install' with an invalid version fails nicely,file
+Running 'nvm ls --no-alias' does not call into nvm_alias,file
+Running 'nvm ls --no-alias' with a pattern errors,file
+Running 'nvm ls 0.0.2' should display only version 0.0.2,file
+Running 'nvm ls 0.2' should display only 0.2.x versions,file
+Running 'nvm ls foo' should return a nonzero exit code when not found,file
+Running 'nvm ls io' should return NA,file
+Running 'nvm ls node_' should return a nonzero exit code when not found,file
+Running 'nvm ls stable' and 'nvm ls unstable' should return the appropriate implicit alias,file
+Running 'nvm ls system' should include 'system' when appropriate,file
+Running 'nvm ls' calls into nvm_alias,file
+Running 'nvm ls' should display all installed versions,file
+Running 'nvm ls' should filter out '.nvm',file
+Running 'nvm ls' should filter out 'versions',file
+Running 'nvm ls' should include 'system' when appropriate,file
+Running 'nvm ls' should list versions in the 'versions' directory,file
+Running 'nvm ls' should not show a trailing slash,file
+Running 'nvm ls' with node-like versioning vx.x.x should only list a matched version,file
+Running 'nvm ls' with nounset should not fail,file
+Running 'nvm run --harmony --version' should work,file
+Running 'nvm run --lts' should work,file
+Running 'nvm run --silent' should work,file
+Running 'nvm run 0.x' should error out sensibly when 0.x is not installed,file
+Running 'nvm run 0.x' should work,file
+Running 'nvm run' should pick up .nvmrc version,file
+Running 'nvm unalias' should remove the alias file,file
+Running 'nvm uninstall 0.12.6' uninstalls v0.12.6,file
+Running 'nvm uninstall' should remove the appropriate directory,file
+Running 'nvm uninstall' with incorrect file permissions fails nicely,file
+Running 'nvm unload' should unset all function and variables,file
+Running 'nvm use --lts' uses latest LTS version,file
+Running 'nvm use --lts=foo' uses latest 'foo' LTS version,file
+Running 'nvm use --save' works as expected',file
+Running 'nvm use --save' works with a .nvmrc in the parent dir,file
+Running 'nvm use --silent --save' doesn't output anything,file
+Running 'nvm use foo' where 'foo' is circular aborts,file
+Running 'nvm use iojs' uses latest io.js version,file
+Running 'nvm use lts' shows actionable error,file
+Running 'nvm use node --silent' doesn't print anything,file
+Running 'nvm use node' uses latest stable node version,file
+Running 'nvm use system' should work as expected,file
+Running 'nvm use v1.0.0' uses iojs-v1.0.0 iojs version,file
+Running 'nvm use x' should create and change the 'current' symlink,file
+Running 'nvm use x' should not create the 'current' symlink if $NVM_SYMLINK_CURRENT is false,file
+Running 'nvm use' calls 'nvm_die_on_prefix',file
+Running 'nvm use' should drop CR char automatically,file
+Running 'nvm use' with nvmrc containing not installed version,file
+Running 'nvm which 0.0.2' should display only version 0.0.2,file
+Running 'nvm which foo' should return a nonzero exit code when not found,file
+Running 'nvm-exec' should display required node version,file
+SECURITY.md,file
+Set Colors,dir
+Sourcing nvm.sh global alias bug,file
+Sourcing nvm.sh should keep version if one is active,file
+Sourcing nvm.sh should make the nvm command available,file
+Sourcing nvm.sh should not modify parameters of caller,file
+Sourcing nvm.sh should use the default if available and no nvm node is loaded,file
+Sourcing nvm.sh with --install and .nvmrc should install it,file
+Sourcing nvm.sh with --install should install the default,file
+Sourcing nvm.sh with --no-use should not use anything,file
+Sourcing nvm.sh with no default should return 0,file
+THREAT_MODEL.md,file
+Unit tests,dir
+Using a nonstandard IFS should not break,file
+a,dir
+b,dir
+bar,dir
+bash_completion,file
+c,dir
+circular,dir
+codeql-analysis.yml,file
+common.sh,file
+config.yml,file
+copilot-instructions.md,file
+d,dir
+default-packages,file
+external-threat-actor.png,file
+fast,dir
+fixtures,dir
+foo,dir
+index.js,file
+inside-n_m-nested,dir
+inside-n_m-nested-pkg,dir
+insider-threat-actor-and-libs.png,file
+install LTS,file
+install already installed uses it,file
+install from binary,file
+install from binary with binary flag set,file
+install from source,file
+install from source implicitly,file
+install from source with thread parameter,file
+install from source without V8 snapshot for ARM,file
+install hook,file
+install latest npm,file
+install on bash with ERR trap and set -E,file
+install two versions and use the latest one,file
+install version specified in .nvmrc from binary,file
+install version specified in .nvmrc from source,file
+install while reinstalling packages,file
+install with --alias,file
+install with --default,file
+install with --latest-npm,file
+install.sh,file
+install_nvm_from_git,file
+install_script,dir
+installation_iojs,dir
+installation_node,dir
+iojs.org-dist-index.tab,file
+isainfo_amd64,file
+isainfo_x86,file
+issue_template.md,file
+latest-npm.yml,file
+lint.yml,file
+lts,dir
+lts-star.txt,file
+mocks,dir
+nested-both,dir
+nested-n_m,dir
+nested-pkg,dir
+no-nesting-both,dir
+no-nesting-n_m,dir
+no-nesting-pkg,dir
+node 0.6.21 should install 0.6.21-pre,file
+node_modules,dir
+nodejs.org-dist-index.tab,file
+nodejs.org-download-nightly-index.tab,file
+nvm exec,dir
+nvm install -b,file
+nvm install v1 works,file
+nvm install with nonlowercase LTS name,file
+nvm ls-remote,file
+nvm ls-remote iojs.txt,file
+nvm ls-remote lts.txt,file
+nvm ls-remote node.txt,file
+nvm ls-remote.txt,file
+nvm reinstall-packages,dir
+nvm run,dir
+nvm set_colors,file
+nvm should remove the last trailing slash in $NVM_DIR,file
+nvm uninstall,dir
+nvm use,dir
+nvm version-remote,file
+nvm-exec,file
+nvm-install-test.yml,file
+nvm.sh,file
+nvm_add_iojs_prefix,file
+nvm_alias,file
+nvm_alias LTS-N,file
+nvm_alias handles comments,file
+nvm_alias_path,file
+nvm_change_path,file
+nvm_check_for_help,file
+nvm_check_global_modules,file
+nvm_clang_version,file
+nvm_command_info,file
+nvm_compare_checksum,file
+nvm_compute_checksum,file
+nvm_curl_libz_support,file
+nvm_curl_use_compression,file
+nvm_curl_version,file
+nvm_detect_profile,file
+nvm_die_on_prefix,file
+nvm_do_install,file
+nvm_download,file
+nvm_download_artifact,file
+nvm_echo_with_colors,file
+nvm_ensure_default_set,file
+nvm_ensure_version_installed,file
+nvm_ensure_version_prefix,file
+nvm_err_with_colors,file
+nvm_extract_tarball,file
+nvm_find_project_dir,file
+nvm_find_up,file
+nvm_format_version,file
+nvm_get_arch,file
+nvm_get_arch_unofficial,file
+nvm_get_artifact_compression,file
+nvm_get_checksum,file
+nvm_get_checksum_alg,file
+nvm_get_checksum_binary,file
+nvm_get_colors,file
+nvm_get_default_packages,file
+nvm_get_download_slug,file
+nvm_get_latest,dir
+nvm_get_latest,file
+nvm_get_latest failed redirect,file
+nvm_get_latest missing curl or wget,file
+nvm_get_minor_version,file
+nvm_get_mirror,file
+nvm_has,file
+nvm_has_non_aliased,file
+nvm_has_solaris_binary,file
+nvm_has_system_iojs,file
+nvm_has_system_node,file
+nvm_install_binary_extract,file
+nvm_install_binary_nosource,file
+nvm_install_dir,file
+nvm_install_latest_npm,file
+nvm_install_no_progress_bar,file
+nvm_install_profile_skip,file
+nvm_install_with_aliased_dot,file
+nvm_install_with_node_version,file
+nvm_iojs_prefix,file
+nvm_iojs_version_has_solaris_binary,file
+nvm_is_alias,file
+nvm_is_iojs_version,file
+nvm_is_merged_node_version,file
+nvm_is_natural_num,file
+nvm_is_valid_version,file
+nvm_is_version_installed,file
+nvm_list_aliases calls nvm_get_colors,file
+nvm_list_aliases works with LTS aliases,file
+nvm_list_aliases works with no LTS aliases present,file
+nvm_ls handles hash in pattern,file
+nvm_ls_current,file
+nvm_ls_remote,file
+nvm_ls_remote LTS aliases,file
+nvm_ls_remote LTS argon.txt,file
+nvm_ls_remote LTS nightly argon.txt,file
+nvm_ls_remote LTS nightly.txt,file
+nvm_ls_remote LTS.txt,file
+nvm_ls_remote nightly,file
+nvm_ls_remote nightly.txt,file
+nvm_ls_remote stable nightly.txt,file
+nvm_ls_remote stable.txt,file
+nvm_ls_remote.txt,file
+nvm_ls_remote_iojs,file
+nvm_ls_remote_iojs.txt,file
+nvm_make_alias,file
+nvm_make_alias LTS alias calls.txt,file
+nvm_node_prefix,file
+nvm_node_version_has_solaris_binary,file
+nvm_normalize_lts,file
+nvm_num_version_groups,file
+nvm_print_alias_path,file
+nvm_print_alias_path calls nvm_get_colors,file
+nvm_print_color_code,file
+nvm_print_default_alias,file
+nvm_print_default_alias calls nvm_get_colors,file
+nvm_print_formatted_alias calls nvm_get_colors,file
+nvm_print_implicit_alias errors,file
+nvm_print_implicit_alias remote stable nightly.txt,file
+nvm_print_implicit_alias remote stable.txt,file
+nvm_print_implicit_alias success,file
+nvm_print_npm_version,file
+nvm_print_versions calls nvm_get_colors,file
+nvm_process_nvmrc,file
+nvm_profile_is_bash_or_zsh,file
+nvm_remote_version,file
+nvm_remote_versions,file
+nvm_reset,file
+nvm_resolve_alias,file
+nvm_resolve_local_alias,file
+nvm_source,file
+nvm_stdout_is_terminal,file
+nvm_strip_iojs_prefix,file
+nvm_strip_path,file
+nvm_supports_xz,file
+nvm_tree_contains_path,file
+nvm_use_if_needed,file
+nvm_validate_implicit_alias,file
+nvm_version,file
+nvm_version_dir,file
+nvm_version_greater,file
+nvm_version_path,file
+nvm_wrap_with_color_code,file
+nvm_write_nvmrc,file
+package.json,file
+pkg_info_amd64,file
+pkg_info_fail,file
+pkg_info_x86,file
+project_dirs,dir
+rebase.yml,file
+release.yml,file
+rename_test.sh,file
+require-allow-edits.yml,file
+setup,file
+setup_dir,file
+shellcheck.yml,file
+should work as expected,file
+slow,dir
+sourcing,dir
+teardown,file
+teardown_dir,file
+test,dir
+test-npmlink,dir
+tests.yml,file
+toc.yml,file
+uname_linux_armv8l,file
+uname_osx_amd64,file
+uname_osx_x86,file
+uname_smartos_amd64,file
+uname_smartos_x86,file
+update_test_mocks.sh,file
+windows-npm.yml,file
+workflows,dir
+works with no installs,file
+xenial,dir

@@ -1,0 +1,8 @@
+name,type
+.github,dir
+Dockerfile,file
+LICENSE,file
+README.md,file
+dockerimage.yml,file
+entrypoint.sh,file
+workflows,dir

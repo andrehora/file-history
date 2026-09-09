@@ -1,0 +1,15 @@
+name,type
+.github,dir
+.gitkeep,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+LICENSE.md,file
+README.md,file
+img,dir
+lib,dir
+question_marker_01.png,file
+questions_counter_01.png,file
+static,dir
+sub-chapter_questions_counter_01.png,file
+sysadmin_preview.png,file
+toc_questions_counter_01.png,file

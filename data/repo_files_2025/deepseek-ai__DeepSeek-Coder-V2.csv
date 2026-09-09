@@ -1,0 +1,13 @@
+name,type
+LICENSE-CODE,file
+LICENSE-MODEL,file
+README.md,file
+badge.svg,file
+figures,dir
+logo.svg,file
+long_context.png,file
+model_price.jpg,file
+paper.pdf,file
+performance.png,file
+qr.jpeg,file
+supported_langs.txt,file

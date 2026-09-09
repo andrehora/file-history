@@ -1,0 +1,13 @@
+name,type
+.gitignore,file
+.travis.yml,file
+AUTHORS.rst,file
+HISTORY.rst,file
+LICENSE,file
+MANIFEST.in,file
+NOTICE,file
+README.rst,file
+requirements.txt,file
+retrying.py,file
+setup.py,file
+test_retrying.py,file

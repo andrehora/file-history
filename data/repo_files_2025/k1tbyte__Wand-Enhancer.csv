@@ -1,0 +1,8 @@
+name,type
+.github,dir
+FUNDING.yml,file
+LICENSE.md,file
+README.md,file
+memoryScanner.js,file
+package.json,file
+unlocker.js,file

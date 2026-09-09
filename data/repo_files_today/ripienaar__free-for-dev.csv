@@ -1,0 +1,12 @@
+name,type
+.github,dir
+.gitignore,file
+AGENTS.md,file
+CLAUDE.md,file
+CNAME,file
+CODE_OF_CONDUCT.md,file
+CONTRIBUTING.md,file
+PULL_REQUEST_TEMPLATE.md,file
+README.md,file
+index.html,file
+logo.webp,file

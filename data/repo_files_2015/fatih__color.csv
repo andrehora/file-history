@@ -1,0 +1,7 @@
+name,type
+.travis.yml,file
+LICENSE.md,file
+README.md,file
+color.go,file
+color_test.go,file
+doc.go,file

@@ -1,0 +1,7 @@
+name,type
+README.md,file
+SublimeLinter,dir
+SublimeLinter.sublime-settings,file
+jshintrc,file
+linters,dir
+package.json,file

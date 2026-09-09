@@ -1,0 +1,9 @@
+name,type
+.github,dir
+ISSUE_TEMPLATE,dir
+README.md,file
+bug_report.md,file
+logo.svg,file
+logo512.png,file
+wide.png,file
+wide.svg,file

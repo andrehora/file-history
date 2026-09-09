@@ -1,0 +1,14 @@
+name,type
+.editorconfig,file
+.gitattributes,file
+.github,dir
+.gitignore,file
+FUNDING.yml,file
+LICENSE,file
+README.md,file
+code-of-conduct.md,file
+contributing.md,file
+package.json,file
+stale.yml,file
+test.js,file
+workflows,dir
