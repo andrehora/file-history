@@ -2,12 +2,11 @@
 """Write the app's data file from the merged summaries.
 
 merge_summary.py writes data/summary/{files,dir,extension}.csv, one row per name with
-a frequency and a ratio per snapshot. The app reads that table as data.js, a
-single `var DATA = ...;` the page loads before its own script, so there is no
-fetch to make and no loading state to draw. This script writes data.js from the
-CSVs and copies index.html over 404.html, which GitHub Pages serves for deep
-links and so has to stay identical. data.js is the one output that stays at the
-top level: the page loads it from beside itself.
+a frequency and a ratio per snapshot. The app reads that table as docs/data.js,
+a single `var DATA = ...;` the page loads before its own script, so there is no
+fetch to make and no loading state to draw. This script writes docs/data.js from
+the CSVs and copies docs/index.html over docs/404.html, which GitHub Pages
+serves for deep links and so has to stay identical.
 
 Run it after merge_summary.py, whenever the summaries change:
 
@@ -31,9 +30,12 @@ os.chdir(ROOT)
 DATA_DIR = "data"
 INPUT_DIR = os.path.join(DATA_DIR, "summary")  # where merge_summary.py leaves its CSVs
 SOURCES = [("files.csv", "file"), ("dir.csv", "dir"), ("extension.csv", "extension")]
-DATA_FILE = "data.js"  # the table, loaded by the page, so it stays beside it
-PAGE = "index.html"  # the app itself
-DEEP_LINK_PAGE = "404.html"  # a copy of it, served for deep links
+# The site is what GitHub Pages serves, and it serves a folder: the page, its
+# copy for deep links and the table it loads all live in here together.
+SITE_DIR = "docs"
+DATA_FILE = os.path.join(SITE_DIR, "data.js")  # the table, loaded by the page
+PAGE = os.path.join(SITE_DIR, "index.html")  # the app itself
+DEEP_LINK_PAGE = os.path.join(SITE_DIR, "404.html")  # a copy of it, served for deep links
 # --------------------------------------------------------------------------
 
 
