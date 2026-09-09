@@ -23,6 +23,10 @@ snapshot), ordered by frequency:
     data/summary_2015/dir.csv         directory names, e.g. src
     data/summary_2015/extension.csv   file extensions, e.g. .py
 
+A name is written when at least MIN_FREQUENCY repositories of the snapshot
+carry it. The long tail is nearly all of the distinct names and none of the
+interest, so leaving it out keeps the summaries a manageable size.
+
 Usage:
     python src/summarize.py
 """
@@ -46,6 +50,11 @@ OUTPUT_PREFIX = "summary_"  # its summary goes to <prefix><suffix>
 FILES_OUTPUT = "files.csv"
 DIRS_OUTPUT = "dir.csv"
 EXTENSIONS_OUTPUT = "extension.csv"
+# A name is written when this many repositories of the snapshot carry it; 0
+# writes everything. Most names in a snapshot are carried by one repository —
+# a personal note, a generated file — and dropping them keeps the summaries
+# small without touching any name common enough to say something.
+MIN_FREQUENCY = 5
 # --------------------------------------------------------------------------
 
 FIELDS = ["name", "frequency", "ratio"]
@@ -111,20 +120,30 @@ def summarize(directory):
     return len(listings), files, dirs, extensions
 
 
-def write_csv(counter, repos, path):
+def write_csv(counter, repos, path, minimum=MIN_FREQUENCY):
     """Write a counter as name,frequency,ratio, most frequent first.
 
     The ratio is the percentage of the repository listings in that snapshot
     carrying the name, rounded to a whole number, so 96 means 96% of the
     projects had it that year.
+
+    Names carried by fewer than `minimum` repositories are left out. Returns
+    how many were written and how many were counted, so the caller can say
+    what the summary holds and what it dropped.
     """
     os.makedirs(os.path.dirname(path), exist_ok=True)
+    written = 0
     with open(path, "w", newline="", encoding="utf-8") as handle:
         writer = csv.writer(handle)
         writer.writerow(FIELDS)
         # Ties are broken by name so that repeated runs give identical files.
         for name, frequency in sorted(counter.items(), key=lambda item: (-item[1], item[0])):
+            if frequency < minimum:
+                # The counter is sorted by frequency, so the rest are rarer still.
+                break
             writer.writerow([name, frequency, round(100 * frequency / repos)])
+            written += 1
+    return written, len(counter)
 
 
 def main():
@@ -154,8 +173,12 @@ def main():
             (extensions, EXTENSIONS_OUTPUT),
         ):
             path = os.path.join(output_dir, output)
-            write_csv(counter, repos, path)
-            print(f"{len(counter)} distinct names -> {path}", file=sys.stderr)
+            written, counted = write_csv(counter, repos, path)
+            print(
+                f"{written} of {counted} distinct names "
+                f"(at least {MIN_FREQUENCY} repositories) -> {path}",
+                file=sys.stderr,
+            )
 
 
 if __name__ == "__main__":
