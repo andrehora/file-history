@@ -17,10 +17,25 @@ this instead:
             return super().send_head()
     h.test(H, port=8000)"
 
-The page loads its table from `data.js`, which `build_index.py` writes from
-`summary/*.csv`; run it whenever the summaries change:
+## Data
 
-    python3 build_index.py
+The scripts live in `src/` and every one of them reads and writes under
+`data/`, which is not tracked. A script moves to the repository root before it
+starts, so it can be run from anywhere:
+
+    src/top_repos.py         ->  data/top_repos.csv
+    src/repo_files_today.py  ->  data/repo_files_today/
+    src/repo_files_hist.py   ->  data/repo_files_<year>/
+    src/repo_files_top.py    ->  data/top_files_<snapshot>.csv
+    src/summarize.py         ->  data/summary_<snapshot>/
+    src/merge_summary.py     ->  data/summary/
+    src/build_index.py       ->  data.js
+
+The page loads its table from `data.js`, which `build_index.py` writes from
+`data/summary/*.csv`. That one stays at the top level, beside the page that
+loads it; run it whenever the summaries change:
+
+    python3 src/build_index.py
 
 `404.html` is a copy of `index.html` — `build_index.py` re-copies it, but do so
 by hand after editing `index.html` on its own, or deep-link refreshes will serve

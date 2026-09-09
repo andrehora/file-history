@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Fetch the top 1000 most starred repositories from the GitHub API.
 
+The table is written to data/top_repos.csv, which every script downstream
+reads.
+
 The GitHub Search API caps any single query at 1000 results (10 pages of 100),
 so larger pulls are done by walking down the star axis: each time a query is
 exhausted the next one is capped at the lowest star count already seen.
@@ -12,7 +15,7 @@ Settings live in the constants below; edit them and run the script.
 
 Usage:
     export GH_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
-    python top_repos.py
+    python src/top_repos.py
 """
 
 import csv
@@ -34,7 +37,15 @@ MAX_PAGES = 10
 LIMIT = 10000
 MIN_STARS = 500
 EXTRA_QUALIFIERS = ""
-OUTPUT = "top_repos.csv"
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
+OUTPUT = os.path.join(DATA_DIR, "top_repos.csv")
 WORKERS = 0  # concurrent requests; 0 means one worker per token
 # --------------------------------------------------------------------------
 
@@ -297,6 +308,7 @@ def fetch_top_repos(limit=1000, min_stars=MIN_STARS, tokens=None, workers=WORKER
 
 
 def write_csv(repos, path):
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=FIELDS)
         writer.writeheader()

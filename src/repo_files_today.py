@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""List the files of every repository in top_repos.csv using the GitHub API.
+"""List the files of every repository in data/top_repos.csv using the GitHub API.
 
 Repositories are read from the CSV produced by top_repos.py; for each one the
 default branch is resolved and its git tree is walked recursively, giving the
@@ -17,7 +17,7 @@ Settings live in the constants below; edit them and run the script.
 
 Usage:
     export GH_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
-    python repo_files_today.py
+    python src/repo_files_today.py
 """
 
 import csv
@@ -33,8 +33,16 @@ from top_repos import TokenPool, parse_tokens, request_json
 API_ROOT = "https://api.github.com"
 
 # --- Settings -------------------------------------------------------------
-INPUT = "top_repos.csv"
-OUTPUT_DIR = "repo_files_today"  # one CSV per repository is written in here
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
+INPUT = os.path.join(DATA_DIR, "top_repos.csv")
+OUTPUT_DIR = os.path.join(DATA_DIR, "repo_files_today")  # one CSV per repository is written in here
 LIMIT = 0  # how many repositories to process; 0 means all of them
 SKIP_EXISTING = True  # leave repositories that already have a CSV alone
 ASCII_ONLY = True  # drop entries whose name is not plain ASCII

@@ -38,7 +38,9 @@
 
     .hero {
       background: linear-gradient(180deg, #f0f6ff 0%, #ffffff 100%);
-      padding: 60px 20px 32px;
+      /* The counts sit between two rules; the bottom padding matches the space
+         .stats keeps above itself, so they are the same distance from each. */
+      padding: 60px 20px 24px;
       border-bottom: 1px solid #e8edf5;
     }
 
@@ -436,6 +438,13 @@
       padding: 4px 10px;
     }
 
+    /* Names what the row is: a few comparisons worth opening. */
+    .pick-label {
+      align-self: center;
+      color: #8b949e;
+      font-size: 0.78rem;
+    }
+
     /* The separator is scaffolding between two names, so it steps back. */
     .pick .vs {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -537,11 +546,44 @@
       fill: #656d76;
     }
 
+    /* The item page draws both charts at full width, where the lettering of the
+       hover preview they share a stylesheet with comes out oversized; a size
+       down leaves the readings clear of each other and of the bars. The two are
+       read one under the other, so they are lettered alike. */
+    #cChart .chart-value,
+    #cChart .chart-value-b,
+    #cRank .chart-value,
+    #cRank .chart-value-b {
+      font-size: 10px;
+    }
+
+    #cChart .chart-axis,
+    #cRank .chart-axis {
+      font-size: 9.5px;
+    }
+
+    #cChart .chart-xlabel,
+    #cRank .chart-xlabel {
+      font-size: 10.5px;
+    }
+
+    #cChart .chart-key,
+    #cRank .chart-key {
+      font-size: 10px;
+    }
+
+    #cChart .chart-trend,
+    #cRank .chart-trend {
+      font-size: 11.5px;
+    }
+
     /* Compare picker: the same suggestion list as the home search, so it is
        driven the same way, sitting under the chart it changes. */
+    /* The picker heads the page: the names it holds are drawn on every chart
+       below it, so it is read before them rather than after the first one. */
     .cmp {
       position: relative;
-      margin-top: 12px;
+      margin-bottom: 18px;
     }
 
     .cmp-row {
@@ -611,7 +653,9 @@
     table.evo {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.85rem;
+      /* Three readings to a cell: a size down keeps the run of them on one
+         line at the width the page gives the table. */
+      font-size: 0.78rem;
     }
 
     table.evo th,
@@ -637,11 +681,24 @@
 
     table.evo td {
       font-variant-numeric: tabular-nums;
+      white-space: nowrap;
     }
 
-    /* The share reads as a gloss on the count, so it steps back from it. */
+    /* Where even that does not fit, the table scrolls in its own box rather
+       than pushing the page sideways. */
+    #cTable {
+      overflow-x: auto;
+    }
+
+    /* The three readings of a cell are one line and one colour: none of them is
+       a gloss on the others, they are three ways of saying where the name stood
+       that year. */
     .evo-pct {
-      color: #8b949e;
+      color: inherit;
+    }
+
+    .evo-rank {
+      margin-left: 4px;
     }
 
     /* The name the line belongs to, set like every other name in the app. */
@@ -729,6 +786,25 @@
 
     .foot a {
       color: #656d76;
+    }
+
+    /* The credit is a line of its own under the note, the mark set against the
+       name the way the header sets it. */
+    .foot-repo {
+      margin-top: 6px;
+    }
+
+    .foot-repo a {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .foot-repo a:hover {
+      color: #24292f;
+      text-decoration: underline;
     }
 
     /* Three sections per row on a wide screen, two then one as it narrows. */
@@ -958,6 +1034,39 @@
       margin-top: 0;
     }
 
+    /* The year the row below is measured against, above the row it governs. */
+    .row-head {
+      grid-column: 1 / -1;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .row-head-label {
+      color: #8b949e;
+      font-size: 0.8rem;
+    }
+
+    .year-pick {
+      display: flex;
+      gap: 6px;
+    }
+
+    .year-btn {
+      font-variant-numeric: tabular-nums;
+      padding: 4px 12px;
+      font-size: 0.78rem;
+    }
+
+    .year-btn.on {
+      color: #24292f;
+      border-color: #24292f;
+      background: #f6f8fa;
+      font-weight: 600;
+    }
+
     /* The same pill as the Back button: these open and close a ranking, so
        they read as controls rather than as links into one. */
     .top-toggle {
@@ -1089,8 +1198,13 @@
       <div class="card-body" id="cBody"></div>
     </div>
 
-    <div class="foot">Data from the top GitHub repositories, listed at each snapshot by <a
-        href="https://github.com/andrehora/file-history" target="_blank" rel="noopener">file-history</a></div>
+    <div class="foot">Data from the GitHub API
+      <div class="foot-repo"><a href="https://github.com/andrehora/file-history" target="_blank"
+          rel="noopener"><svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+            <path
+              d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" />
+          </svg>file-history</a></div>
+    </div>
   </div>
 
   <!-- The table lives in data.js, written by build_index.py. A deep link such
@@ -1255,16 +1369,21 @@
 
     function key(it) { return it.k + '#' + it.n; }
     function latest(it) { return it.r[it.r.length - 1]; }
+    /* The ratio at one snapshot; the newest one wherever a caller names none. */
+    function ratioAt(it, at) { return at == null ? latest(it) : it.r[at]; }
 
     /* How the ratio moved from the first snapshot to the newest one, used by the
        chart badge, the suggestions and the rankings alike. */
-    function delta(it) { return latest(it) - it.r[0]; }
-    function direction(it) { var d = delta(it); return d > 0 ? 'up' : d < 0 ? 'down' : 'flat'; }
-    function glyph(it) { var d = delta(it); return d > 0 ? '\u2191' : d < 0 ? '\u2193' : '='; }
-    function arrow(it) {
-      var dir = direction(it);
-      return '<span class="arw arw-' + dir + '" title="' + glyph(it) + ' ' + (delta(it) > 0 ? '+' : '') + delta(it)
-        + ' from ' + esc(YEARS[0]) + '">' + glyph(it) + '</span>';
+    /* `from` is the snapshot the movement is measured against; it is the first
+       one everywhere except in the rankings by movement, where the reader picks
+       which year to compare today with. */
+    function delta(it, from) { return latest(it) - it.r[from || 0]; }
+    function direction(it, from) { var d = delta(it, from); return d > 0 ? 'up' : d < 0 ? 'down' : 'flat'; }
+    function glyph(it, from) { var d = delta(it, from); return d > 0 ? '\u2191' : d < 0 ? '\u2193' : '='; }
+    function arrow(it, from) {
+      var dir = direction(it, from), d = delta(it, from);
+      return '<span class="arw arw-' + dir + '" title="' + glyph(it, from) + ' ' + (d > 0 ? '+' : '') + d
+        + ' from ' + esc(YEARS[from || 0]) + '">' + glyph(it, from) + '</span>';
     }
 
     /* Names starting with the query come first, the rest are matched anywhere, so
@@ -1501,6 +1620,187 @@
       }
     }
 
+
+    /* Ranking position -------------------------------------------------------
+       Where a name stands among the names of its own kind, one position per
+       snapshot. The positions come off the counts rather than the rounded
+       ratios: two names that both read 12% are not tied, and the counts say
+       which of them is ahead. Worked out once, on the first item page opened,
+       since the home page never asks for it. */
+    var RANKS = null;
+    function ranks() {
+      if (RANKS) return RANKS;
+      RANKS = [];
+      var groups = {}, i;
+      for (i = 0; i < ITEMS.length; i++) {
+        RANKS.push([]);
+        (groups[ITEMS[i].k] = groups[ITEMS[i].k] || []).push(i);
+      }
+      for (var kind in groups) {
+        var list = groups[kind];
+        for (var y = 0; y < YEARS.length; y++) {
+          var at = y;
+          var order = list.slice().sort(function (a, b) {
+            return ITEMS[b].f[at] - ITEMS[a].f[at] || ITEMS[a].n.localeCompare(ITEMS[b].n);
+          });
+          /* A name no repository carried that year holds no position, which is
+             a gap in the line rather than a place at the bottom of it. */
+          for (var p = 0; p < order.length; p++) RANKS[order[p]][at] = ITEMS[order[p]].f[at] ? p + 1 : 0;
+        }
+      }
+      return RANKS;
+    }
+
+    function rankSeries(it) { return ranks()[ITEMS.indexOf(it)] || []; }
+
+    /* The position is a place among the names this table carries, not among
+       every name on GitHub, so the note says how long the ranking is. */
+    function rankNote(it) {
+      var n = 0;
+      for (var i = 0; i < ITEMS.length; i++) if (ITEMS[i].k === it.k) n++;
+      return 'among ' + n + ' ' + (KIND_PLURAL[it.k] || it.k).toLowerCase();
+    }
+
+    /* The axis reaches a round number at or past the worst position drawn, so
+       the lowest point never sits on the frame. */
+    function rankTop(worst) {
+      var tops = [5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000];
+      for (var i = 0; i < tops.length; i++) if (tops[i] >= worst) return tops[i];
+      return worst;
+    }
+
+    /* The second chart on an item page. It plots position, not share, so a name
+       that holds its ground while everything around it grows still falls here.
+       Only ever a line: the axis runs from first place downwards, and bars hung
+       from that edge would read upside down. */
+    function rankChart(it, vs) {
+      var extra = vs || [];
+      var W = 440, L = 46, R = 24, B = 40, ph = 140;
+      var series = [it].concat(extra), rows = [];
+      for (var s = 0; s < series.length; s++) rows.push(rankSeries(series[s]));
+
+      var keyed = extra.length ? series : [];
+      var keyRows = keyLayout(keyed, W - R);
+      var T = keyed.length ? 16 * keyRows.length + 12 : 40;
+      var H = T + ph + B;
+      var pw = W - L - R;
+
+      var worst = 1;
+      for (var a = 0; a < rows.length; a++) {
+        for (var b = 0; b < rows[a].length; b++) worst = Math.max(worst, rows[a][b]);
+      }
+      var top = rankTop(worst);
+      var x = function (i) { return L + (YEARS.length === 1 ? pw / 2 : pw * i / (YEARS.length - 1)); };
+      /* First place sits at the top of the plot and the axis counts downwards,
+         the way a ranking is read. */
+      var y = function (v) { return T + ph * (v - 1) / (top - 1); };
+
+      /* How far the name climbed or fell since the first snapshot. A place lost
+         is a bigger number, so the sign is turned round before it is read. */
+      var own = rows[0], from = own[0], now = own[own.length - 1];
+      var moved = from && now ? from - now : 0;
+      /* Arriving in the ranking counts as a climb and leaving it as a fall, so
+         the badge is not left grey for the two biggest moves there are. */
+      var dir = (moved > 0 || (!from && now)) ? 'up'
+        : (moved < 0 || (from && !now)) ? 'down' : 'flat';
+      var badge = !now ? 'no ranking in ' + YEARS[YEARS.length - 1]
+        : !from ? '#' + now + ', unranked in ' + YEARS[0]
+        : (moved > 0 ? '↑ ' : moved < 0 ? '↓ ' : '= ') + Math.abs(moved) + ' places from ' + YEARS[0];
+
+      var label = (extra.length
+        ? it.n + ' against ' + series.slice(1).map(function (e) { return e.n; }).join(', ')
+        : it.n) + ', ranking position over time, best #' + (now || from || top)
+        + ', axis to #' + top;
+      var svg = '<svg class="chart" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="' + esc(label) + '">';
+      if (keyed.length) {
+        for (var kr = 0; kr < keyRows.length; kr++) {
+          var kx = 0;
+          for (var kc = 0; kc < keyRows[kr].length; kc++) {
+            var ent = keyRows[kr][kc];
+            svg += chartKey(kx, 14 + 16 * kr, ent.i === 0 ? null : cmpColor(ent.i - 1), ent.n);
+            kx += ent.w + KEY_GAP;
+          }
+        }
+      } else {
+        svg += '<text class="chart-trend chart-trend-' + dir + '" x="' + (L + pw / 2) + '" y="16" text-anchor="middle">' + esc(badge) + '</text>';
+      }
+
+      /* Five gridlines, the first of them first place itself, so the top of the
+         plot is a position and not an empty margin. */
+      for (var g = 0; g <= 4; g++) {
+        var gv = Math.round(1 + (top - 1) * g / 4);
+        svg += '<line class="chart-grid" x1="' + L + '" y1="' + y(gv) + '" x2="' + (W - R) + '" y2="' + y(gv) + '"/>'
+          + '<text class="chart-axis" x="' + (L - 6) + '" y="' + (y(gv) + 4) + '" text-anchor="end">#' + gv + '</text>';
+      }
+
+      /* A gap in the ranking breaks the line rather than dropping it to the
+         floor, so the years a name did not exist are drawn as nothing. */
+      function segments(r) {
+        var segs = [], cur = [];
+        for (var i = 0; i < YEARS.length; i++) {
+          if (r[i]) cur.push(x(i) + ',' + y(r[i]));
+          else if (cur.length) { segs.push(cur); cur = []; }
+        }
+        if (cur.length) segs.push(cur);
+        return segs;
+      }
+
+      /* Every line and its points first, the item's own last so it is the one on
+         top where two names hold neighbouring positions. */
+      for (var e = extra.length; e >= 0; e--) {
+        var color = e ? cmpColor(e - 1) : null, r = rows[e], segs = segments(r);
+        for (var sg2 = 0; sg2 < segs.length; sg2++) {
+          if (segs[sg2].length < 2) continue;
+          svg += color
+            ? '<polyline class="chart-line-b" stroke="' + color + '" points="' + segs[sg2].join(' ') + '"/>'
+            : '<polyline class="chart-line" points="' + segs[sg2].join(' ') + '"/>';
+        }
+        for (var i2 = 0; i2 < YEARS.length; i2++) {
+          if (!r[i2]) continue;
+          svg += color
+            ? '<circle class="chart-dot-b" stroke="' + color + '" cx="' + x(i2) + '" cy="' + y(r[i2]) + '" r="4.5"/>'
+            : '<circle class="chart-dot" cx="' + x(i2) + '" cy="' + y(r[i2]) + '" r="4.5"/>';
+        }
+      }
+
+      /* Then the readings, a column at a time. On this axis three names can hold
+         neighbouring positions a pixel apart, so a column's labels are stacked
+         clear of one another instead of each being written over its own point:
+         they start above their points, are pushed down until they no longer
+         touch, and the column is lifted again if that ran it into the years. */
+      var LBL_GAP = 12, LBL_TOP = T + 9, LBL_BOT = T + ph + 18;
+      for (var col = 0; col < YEARS.length; col++) {
+        var here = [];
+        for (var s2 = 0; s2 <= extra.length; s2++) {
+          if (!rows[s2][col]) continue;
+          here.push({ y: y(rows[s2][col]), t: '#' + rows[s2][col], c: s2 ? cmpColor(s2 - 1) : null });
+        }
+        here.sort(function (a, b) { return a.y - b.y; });
+        for (var q = 0; q < here.length; q++) {
+          /* A point near the top of the plot has no room above it. */
+          here[q].p = here[q].y - 11 < LBL_TOP ? here[q].y + 18 : here[q].y - 11;
+          if (q && here[q].p - here[q - 1].p < LBL_GAP) here[q].p = here[q - 1].p + LBL_GAP;
+        }
+        if (here.length && here[here.length - 1].p > LBL_BOT) {
+          here[here.length - 1].p = LBL_BOT;
+          for (var u = here.length - 2; u >= 0; u--) {
+            if (here[u + 1].p - here[u].p < LBL_GAP) here[u].p = here[u + 1].p - LBL_GAP;
+          }
+        }
+        for (var w2 = 0; w2 < here.length; w2++) {
+          var py = Math.min(LBL_BOT, Math.max(LBL_TOP, here[w2].p));
+          svg += here[w2].c
+            ? '<text class="chart-value-b" fill="' + here[w2].c + '" x="' + x(col) + '" y="' + py + '">' + here[w2].t + '</text>'
+            : '<text class="chart-value" x="' + x(col) + '" y="' + py + '">' + here[w2].t + '</text>';
+        }
+      }
+
+      for (var yl = 0; yl < YEARS.length; yl++) {
+        svg += '<text class="chart-xlabel" x="' + x(yl) + '" y="' + (H - 8) + '" text-anchor="middle">' + esc(YEARS[yl]) + '</text>';
+      }
+      return svg + '</svg>';
+    }
+
     /* One key row: a dot in the series' own colour, then the name. A dot takes
        half the width of a rule, which is width the names can use instead. A null
        colour is the item's own series. */
@@ -1535,9 +1835,10 @@
     var LINE_COLOR = '#0969da';  // the item's own series, matching .chart-line
     function cmpColor(i) { return CMP_COLORS[i % CMP_COLORS.length]; }
 
-    /* A snapshot per column, reading left to right in time like the chart above
-       it, with both readings on the one line: the count and, beside it, what
-       share of the repositories that was. */
+    /* A snapshot per column, reading left to right in time like the charts above
+       it, the three readings on one line: the count, what share of the
+       repositories that was, and the position those put the name in. Everything
+       both charts draw, in the numbers they were drawn from. */
     /* A line per series, named in the colour its line or bars are drawn in, so
        the table and the chart above it are read as one. */
     function table(it, vs) {
@@ -1547,9 +1848,13 @@
       var body = '';
       for (var j = 0; j < series.length; j++) {
         var color = j ? cmpColor(j - 1) : LINE_COLOR;
+        var place = rankSeries(series[j]);
         body += '<tr><td class="evo-name" style="color:' + color + '">' + esc(series[j].n) + '</td>';
         for (var y = 0; y < YEARS.length; y++) {
-          body += '<td>' + series[j].f[y] + ' <span class="evo-pct">' + series[j].r[y] + '%</span></td>';
+          /* No repository carried the name that year, so there is no position to
+             give: a dash, the way the chart leaves a gap. */
+          body += '<td>' + series[j].f[y] + ' <span class="evo-pct">' + series[j].r[y] + '%</span>'
+            + ' <span class="evo-rank">' + (place[y] ? '#' + place[y] : '\u2014') + '</span></td>';
         }
         body += '</tr>';
       }
@@ -1645,11 +1950,12 @@
     }
 
     /* Compare picker ----------------------------------------------------------
-       The chart and the picker under it are two halves of one choice, so both are
-       redrawn whenever the comparison changes: a chip while a name is being
-       compared, the search box again once it is removed. */
+       The picker and the charts under it are two halves of one choice, so all of
+       them are redrawn whenever the comparison changes: a chip while a name is
+       being compared, the search box again once it is removed. */
     function drawCompare() {
       document.getElementById('cChart').innerHTML = chart(current, compares, fitAxis, barChart);
+      document.getElementById('cRank').innerHTML = rankChart(current, compares);
       document.getElementById('cTable').innerHTML = table(current, compares);
       var scale = document.getElementById('cScale');
       scale.textContent = fitAxis ? 'Show 0-100%' : 'Fit to data';
@@ -1774,15 +2080,19 @@
       document.getElementById('cPill').innerHTML = pill(it.k);
       var body = document.getElementById('cBody');
       body.innerHTML =
-        '<div class="field"><div class="field-head"><div class="field-label">Repositories (%)</div>'
+        '<div class="cmp" id="cmp"><div class="cmp-row" id="cmpRow"></div>'
+        + '<div class="sg-list" id="cmpSg"></div></div>'
+        + '<div class="field"><div class="field-head"><div class="field-label">Repositories (%)</div>'
         + '<div class="field-actions">'
         + '<button type="button" class="scale-btn" id="cScale" aria-pressed="false"></button>'
         + '<button type="button" class="scale-btn" id="cType" aria-pressed="false"></button></div></div>'
         + '<div id="cChart"></div>'
-        + '<div class="cmp" id="cmp"><div class="cmp-row" id="cmpRow"></div>'
-        + '<div class="sg-list" id="cmpSg"></div></div>'
         + '</div>'
-        + '<div class="field"><div class="field-head"><div class="field-label">Raw data</div></div>'
+        + '<div class="field"><div class="field-head"><div class="field-label">Ranking position</div>'
+        + '<span class="top-count">' + esc(rankNote(it)) + '</span></div>'
+        + '<div id="cRank"></div></div>'
+        + '<div class="field"><div class="field-head"><div class="field-label">Summary (repos, ratio, rank)</div>'
+        + '<span class="top-count">per year</span></div>'
         + '<div id="cTable"></div></div>'
         + filesField(it)
         + relatedField(it);
@@ -1969,7 +2279,7 @@
           + names.join('<span class="vs">\u00a0vs\u00a0</span>') + '</button>';
       }
       if (!sets.length) { box.innerHTML = ''; return; }
-      box.innerHTML = '<div class="pick-list">' + html + '</div>';
+      box.innerHTML = '<div class="pick-list"><span class="pick-label">See also:</span>' + html + '</div>';
       var btns = box.querySelectorAll('.pick');
       for (var b = 0; b < btns.length; b++) {
         btns[b].addEventListener('click', (function (set) {
@@ -2008,56 +2318,87 @@
     /* Each kind gets its top ten by ratio today, with the rest of its names behind
        a toggle: the long lists are useful but should not push the sections apart. */
     var TOP_N = 10;
+    /* Which snapshot the rankings by movement compare today with. Every year but
+       the newest can be picked, since comparing the newest with itself would
+       leave nothing to rank. */
+    var MOVE_YEARS = YEARS.slice(0, -1);
+    /* The page opens on 2020, far enough back to have moved and recent enough
+       that the names are still ones the reader knows; the oldest snapshot stands
+       in where a data file does not carry that year. */
+    var MOVE_FROM = Math.max(0, MOVE_YEARS.indexOf('2020'));
+    /* Which snapshot the rankings by kind are ranked and drawn at. Any year will
+       do here, and today is where the page opens. */
+    var TOP_AT = YEARS.length - 1;
+    /* Whether each row of rankings is opened past its first ten. Kept out of the
+       DOM so that picking another year redraws the row as the reader left it. */
+    var OPEN = { kind: false, moving: false };
     var TOP_MORE = 100;  // how far the ranking goes once it is expanded
 
-    /* One ranked row: the bar is the ratio today, so rows can be compared across
-       sections even when the ranking itself is by something else. */
+    /* One ranked row: the bar is the ratio at the year on show, so rows can be
+       compared across sections even when the ranking itself is by something
+       else. */
     /* The width the position column needs for a list ending at this number. */
     function posWidth(max) {
       return ' style="--pos:' + Math.max(18, 4 + String(max).length * 7) + 'px"';
     }
 
-    function rankRow(pos, i, withPill) {
-      var it = ITEMS[i];
+    function rankRow(pos, i, withPill, from, at) {
+      var it = ITEMS[i], r = ratioAt(it, at);
       return '<li><span class="rank-pos">' + pos + '</span>'
         + '<span class="rank-label">'
         + '<button class="top-link rank-name" data-i="' + i + '" title="' + esc(it.n) + '">' + esc(it.n) + '</button>'
         + (withPill ? pill(it.k) : '') + '</span>'
         + icon(it)
-        + '<span class="rank-bar"><span class="rank-fill rank-fill-' + it.k + '" style="width:' + latest(it) + '%"></span></span>'
-        + '<span class="rank-pct">' + latest(it) + '%</span>'
+        + '<span class="rank-bar"><span class="rank-fill rank-fill-' + it.k + '" style="width:' + r + '%"></span></span>'
+        + '<span class="rank-pct">' + r + '%</span>'
         /* Only the sections that rank by movement carry the change; in the top tens
            the ratio is the ranking, so points and arrow would just be noise. */
         + (withPill
-          ? '<span class="rank-delta arw-' + direction(it) + '">' + (delta(it) > 0 ? '+' : '') + delta(it) + '</span>'
-          + '<span class="rank-arw">' + arrow(it) + '</span>'
+          ? '<span class="rank-delta arw-' + direction(it, from) + '">' + (delta(it, from) > 0 ? '+' : '') + delta(it, from) + '</span>'
+          + '<span class="rank-arw">' + arrow(it, from) + '</span>'
           : '')
         + '</li>';
     }
 
-    function section(title, note, rows, withPill) {
+    function section(title, note, rows, withPill, from) {
       if (!rows.length) return '';
       var top = rows.slice(0, TOP_N), rest = rows.slice(TOP_N);
       var html = '<div class="top-group"><div class="top-group-title"><h2>' + title + '</h2>'
         + '<span class="top-count">' + note + '</span></div>'
         + '<ol class="rank"' + posWidth(rows.length) + '>';
-      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i], withPill);
+      for (var i = 0; i < top.length; i++) html += rankRow(i + 1, top[i], withPill, from);
       html += '</ol>';
       /* The rest of the ranking, drawn the same way and hidden until the button
          under the row opens all three sections together. */
       if (rest.length) {
         html += '<ol class="rank top-more" start="' + (TOP_N + 1) + '"'
-          + ' style="display:none;--pos:' + Math.max(18, 4 + String(rows.length).length * 7) + 'px">';
-        for (var j = 0; j < rest.length; j++) html += rankRow(TOP_N + j + 1, rest[j], withPill);
+          + ' style="' + (OPEN.moving ? '' : 'display:none;')
+          + '--pos:' + Math.max(18, 4 + String(rows.length).length * 7) + 'px">';
+        for (var j = 0; j < rest.length; j++) html += rankRow(TOP_N + j + 1, rest[j], withPill, from);
         html += '</ol>';
       }
       return html + '</div>';
     }
 
+    /* The year a row of rankings is drawn at. Every section in the row reads the
+       same year, so the choice sits above the row rather than inside each one.
+       The scope names the row, the way the expand toggles below them do. */
+    function yearPicker(label, years, cur, scope) {
+      var html = '<div class="row-head"><span class="row-head-label">' + esc(label)
+        + '</span><div class="year-pick">';
+      for (var i = 0; i < years.length; i++) {
+        var on = i === cur;
+        html += '<button class="top-toggle year-btn' + (on ? ' on' : '') + '" data-scope="' + scope
+          + '" data-year="' + i + '" aria-pressed="' + (on ? 'true' : 'false') + '">'
+          + esc(years[i]) + '</button>';
+      }
+      return html + '</div></div>';
+    }
+
     /* The toggle that spans a row of rankings; its scope names the row it opens. */
     function wideToggle(scope, more) {
       return '<div class="top-all top-all-wide"><button class="top-toggle" data-scope="' + scope
-        + '" data-more="' + more + '">Show top ' + more + '</button></div>';
+        + '">Show top ' + (OPEN[scope] ? TOP_N : more) + '</button></div>';
     }
 
     function showTop() {
@@ -2066,24 +2407,25 @@
         (groups[ITEMS[i].k] = groups[ITEMS[i].k] || []).push(i);
         all.push(i);
       }
-      var html = '', deeper = TOP_N;
+      var html = yearPicker('Top names in', YEARS, TOP_AT, 'top'), deeper = TOP_N;
       for (var ki = 0; ki < KINDS.length; ki++) {
         var kind = KINDS[ki], list = groups[kind];
         if (!list || !list.length) continue;
-        list.sort(function (a, b) { return latest(ITEMS[b]) - latest(ITEMS[a]) || ITEMS[a].n.localeCompare(ITEMS[b].n); });
+        list.sort(function (a, b) { return ratioAt(ITEMS[b], TOP_AT) - ratioAt(ITEMS[a], TOP_AT) || ITEMS[a].n.localeCompare(ITEMS[b].n); });
 
         /* The extra rows are the same ranking, just further down it, so they are
            drawn like the first ten rather than as a list of bare names. */
         var top = list.slice(0, TOP_N), rest = list.slice(TOP_N, TOP_MORE);
         html += '<div class="top-group" data-kind="' + esc(kind) + '">'
-          + '<div class="top-group-title"><h2>Top ' + top.length + '</h2>' + pill(kind) + '</div>'
+          + '<div class="top-group-title"><h2>Top</h2>' + pill(kind) + '</div>'
           + '<ol class="rank"' + posWidth(Math.min(list.length, TOP_MORE)) + '>';
-        for (var li = 0; li < top.length; li++) html += rankRow(li + 1, top[li], false);
+        for (var li = 0; li < top.length; li++) html += rankRow(li + 1, top[li], false, 0, TOP_AT);
         html += '</ol>';
         if (rest.length) {
           html += '<ol class="rank top-more" start="' + (TOP_N + 1) + '"'
-            + ' style="display:none;--pos:' + Math.max(18, 4 + String(TOP_N + rest.length).length * 7) + 'px">';
-          for (var ri = 0; ri < rest.length; ri++) html += rankRow(TOP_N + ri + 1, rest[ri], false);
+            + ' style="' + (OPEN.kind ? '' : 'display:none;')
+            + '--pos:' + Math.max(18, 4 + String(TOP_N + rest.length).length * 7) + 'px">';
+          for (var ri = 0; ri < rest.length; ri++) html += rankRow(TOP_N + ri + 1, rest[ri], false, 0, TOP_AT);
           html += '</ol>';
           deeper = Math.max(deeper, TOP_N + rest.length);
         }
@@ -2097,26 +2439,26 @@
          itself, so the bars do not descend here the way they do above. A name that
          is new moved by its whole ratio, which is why that one looks sorted by %. */
       function byRatio(a, b) { return latest(ITEMS[b]) - latest(ITEMS[a]) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
-      function byGain(a, b) { return delta(ITEMS[b]) - delta(ITEMS[a]) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
-      function byDrop(a, b) { return delta(ITEMS[a]) - delta(ITEMS[b]) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
+      function byGain(a, b) { return delta(ITEMS[b], MOVE_FROM) - delta(ITEMS[a], MOVE_FROM) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
+      function byDrop(a, b) { return delta(ITEMS[a], MOVE_FROM) - delta(ITEMS[b], MOVE_FROM) || ITEMS[a].n.localeCompare(ITEMS[b].n); }
 
-      var rising = all.filter(function (i) { return delta(ITEMS[i]) > 0; }).sort(byGain).slice(0, TOP_MORE);
-      var decaying = all.filter(function (i) { return delta(ITEMS[i]) < 0; }).sort(byDrop).slice(0, TOP_MORE);
-      /* New means new since the snapshot before this one: no repository had the
+      var rising = all.filter(function (i) { return delta(ITEMS[i], MOVE_FROM) > 0; }).sort(byGain).slice(0, TOP_MORE);
+      var decaying = all.filter(function (i) { return delta(ITEMS[i], MOVE_FROM) < 0; }).sort(byDrop).slice(0, TOP_MORE);
+      /* New means new since the year being compared with: no repository had the
          name then, some do now. What it did before that does not matter, so a
          name that was around in 2015, vanished by 2020 and is back today counts
-         as new again. */
-      var was = YEARS.length - 2;
-      var fresh = (was < 0 ? [] : all.filter(function (i) {
+         as new against 2020. */
+      var fresh = all.filter(function (i) {
         var f = ITEMS[i].f;
-        return f[was] === 0 && f[f.length - 1] > 0;
-      }))
+        return f[MOVE_FROM] === 0 && f[f.length - 1] > 0;
+      })
         .sort(byGain)
         .slice(0, TOP_MORE);
 
-      var moving = section('Increasing', 'biggest gain since ' + esc(YEARS[0]), rising, true)
-        + section('Decreasing', 'biggest drop since ' + esc(YEARS[0]), decaying, true)
-        + section('New', 'absent in ' + esc(YEARS[was]), fresh, true);
+      var since = esc(MOVE_YEARS[MOVE_FROM]);
+      var moving = section('Increasing', 'biggest gain since ' + since, rising, true, MOVE_FROM)
+        + section('Decreasing', 'biggest drop since ' + since, decaying, true, MOVE_FROM)
+        + section('New', 'absent in ' + since, fresh, true, MOVE_FROM);
       /* A button per row of sections, not per section: each row is read side by
          side, so expanding one section at a time would leave the row ragged. */
       if (deeper > TOP_N) {
@@ -2124,7 +2466,9 @@
       }
       /* A rule across the grid: the three rankings by kind are one row, the
          three by movement another, and the eye should not run between them. */
-      html += '<div class="row-rule"></div>' + moving;
+      html += '<div class="row-rule"></div>'
+        + yearPicker('Compare ' + YEARS[YEARS.length - 1] + ' with', MOVE_YEARS, MOVE_FROM, 'moving')
+        + moving;
       var movingDeep = Math.max(rising.length, decaying.length, fresh.length);
       if (movingDeep > TOP_N) {
         html += wideToggle('moving', movingDeep);
@@ -2138,15 +2482,24 @@
           return function () { show(ITEMS[parseInt(btn.dataset.i)]); };
         })(links[bi]));
       }
-      var toggles = tl.querySelectorAll('.top-toggle');
+      var years = tl.querySelectorAll('.year-btn');
+      for (var yi = 0; yi < years.length; yi++) {
+        years[yi].addEventListener('click', (function (btn) {
+          return function () {
+            var y = parseInt(btn.dataset.year), moving = btn.dataset.scope === 'moving';
+            if (y === (moving ? MOVE_FROM : TOP_AT)) return;
+            if (moving) MOVE_FROM = y; else TOP_AT = y;
+            showTop();
+          };
+        })(years[yi]));
+      }
+      var toggles = tl.querySelectorAll('.top-toggle:not(.year-btn)');
       for (var pi = 0; pi < toggles.length; pi++) {
         toggles[pi].addEventListener('click', (function (btn) {
           return function () {
-            var more = tl.querySelectorAll(btn.dataset.scope === 'kind'
-              ? '[data-kind] .top-more' : '.top-group:not([data-kind]) .top-more');
-            var collapsed = more.length && more[0].style.display === 'none';
-            for (var mi = 0; mi < more.length; mi++) more[mi].style.display = collapsed ? '' : 'none';
-            btn.textContent = 'Show top ' + (collapsed ? TOP_N : btn.dataset.more);
+            var scope = btn.dataset.scope;
+            OPEN[scope] = !OPEN[scope];
+            showTop();
           };
         })(toggles[pi]));
       }

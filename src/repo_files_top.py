@@ -14,8 +14,8 @@ of leaving a hole there.
 
 One CSV is written per <INPUT_PREFIX><suffix> directory:
 
-    repo_files_2015/  -> top_files_2015.csv
-    repo_files_today/ -> top_files_today.csv
+    data/repo_files_2015/  -> data/top_files_2015.csv
+    data/repo_files_today/ -> data/top_files_today.csv
 
 with a repository, a name and a type column, ordered by repository and then by
 name:
@@ -25,7 +25,7 @@ name:
     torvalds/linux,Makefile,file
 
 Usage:
-    python repo_files_top.py
+    python src/repo_files_top.py
 """
 
 import csv
@@ -34,6 +34,14 @@ import sys
 from collections import Counter
 
 # --- Settings -------------------------------------------------------------
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
 INPUT_PREFIX = "repo_files_"  # every <prefix><suffix> directory is combined
 OUTPUT_PREFIX = "top_files_"  # its relation goes to <prefix><suffix>.csv
 MIN_FREQUENCY = 100  # a name is kept when a snapshot beats this; 0 keeps everything
@@ -44,9 +52,13 @@ FIELDS = ["repo", "name", "type"]
 
 def input_dirs(prefix=INPUT_PREFIX):
     """The listing directories to combine, as (suffix, path), oldest name first."""
+    # Nothing has been fetched yet when the data directory is not there; that
+    # is the caller's message to write, not a traceback.
+    if not os.path.isdir(DATA_DIR):
+        return []
     return sorted(
         (entry.name[len(prefix):], entry.path)
-        for entry in os.scandir(".")
+        for entry in os.scandir(DATA_DIR)
         if entry.is_dir() and entry.name.startswith(prefix)
     )
 
@@ -105,7 +117,7 @@ def main():
     directories = input_dirs()
     if not directories:
         sys.exit(
-            f"No {INPUT_PREFIX}* directories here: "
+            f"No {INPUT_PREFIX}* directories in {DATA_DIR}/: "
             "run repo_files_today.py or repo_files_hist.py first."
         )
 
@@ -113,7 +125,7 @@ def main():
     print(f"{len(keep)} names kept in all", file=sys.stderr)
 
     for suffix, directory in directories:
-        path = f"{OUTPUT_PREFIX}{suffix}.csv"
+        path = os.path.join(DATA_DIR, f"{OUTPUT_PREFIX}{suffix}.csv")
         total, kept = write_relation(directory, keep, path)
         share = 100 * kept / total if total else 0
         print(

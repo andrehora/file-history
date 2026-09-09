@@ -11,20 +11,20 @@ Every directory named <INPUT_PREFIX><suffix> is summarized on its own, so the
 snapshots of repo_files_hist.py and the current listing of repo_files_today.py
 each get their own summary directory, <OUTPUT_PREFIX><suffix>:
 
-    repo_files_2015/  -> summary_2015/
-    repo_files_2020/  -> summary_2020/
-    repo_files_today/ -> summary_today/
+    data/repo_files_2015/  -> data/summary_2015/
+    data/repo_files_2020/  -> data/summary_2020/
+    data/repo_files_today/ -> data/summary_today/
 
 Three summaries are written into each one, with a name, a frequency and a
 ratio column (the whole-number percentage of the repositories in that
 snapshot), ordered by frequency:
 
-    summary_2015/files.csv       file names, e.g. README.md
-    summary_2015/dir.csv         directory names, e.g. src
-    summary_2015/extension.csv   file extensions, e.g. .py
+    data/summary_2015/files.csv       file names, e.g. README.md
+    data/summary_2015/dir.csv         directory names, e.g. src
+    data/summary_2015/extension.csv   file extensions, e.g. .py
 
 Usage:
-    python summarize.py
+    python src/summarize.py
 """
 
 import csv
@@ -33,6 +33,14 @@ import sys
 from collections import Counter
 
 # --- Settings -------------------------------------------------------------
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
 INPUT_PREFIX = "repo_files_"  # every <prefix><suffix> directory is summarized
 OUTPUT_PREFIX = "summary_"  # its summary goes to <prefix><suffix>
 FILES_OUTPUT = "files.csv"
@@ -72,9 +80,13 @@ def extension(name):
 
 def input_dirs(prefix=INPUT_PREFIX):
     """The listing directories to summarize, as (suffix, path), oldest name first."""
+    # Nothing has been fetched yet when the data directory is not there; that
+    # is the caller's message to write, not a traceback.
+    if not os.path.isdir(DATA_DIR):
+        return []
     return sorted(
         (entry.name[len(prefix):], entry.path)
-        for entry in os.scandir(".")
+        for entry in os.scandir(DATA_DIR)
         if entry.is_dir() and entry.name.startswith(prefix)
     )
 
@@ -119,7 +131,7 @@ def main():
     directories = input_dirs()
     if not directories:
         sys.exit(
-            f"No {INPUT_PREFIX}* directories here: "
+            f"No {INPUT_PREFIX}* directories in {DATA_DIR}/: "
             "run repo_files_today.py or repo_files_hist.py first."
         )
 
@@ -131,7 +143,7 @@ def main():
             print(f"No CSV files in {directory}/, skipped.", file=sys.stderr)
             continue
 
-        output_dir = f"{OUTPUT_PREFIX}{suffix}"
+        output_dir = os.path.join(DATA_DIR, f"{OUTPUT_PREFIX}{suffix}")
         print(
             f"Read {repos} repository listings from {directory}/ -> {output_dir}/",
             file=sys.stderr,

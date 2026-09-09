@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """Merge the per snapshot summaries written by summarize.py into one file per kind.
 
-summarize.py writes a summary directory per snapshot (summary_2015/,
-summary_2020/, summary_today/), each holding the same three CSVs. This script
-puts the snapshots side by side, so a name can be followed over time:
+summarize.py writes a summary directory per snapshot (data/summary_2015/,
+data/summary_2020/, data/summary_today/), each holding the same three CSVs.
+This script puts the snapshots side by side, so a name can be followed over
+time:
 
-    summary_2015/files.csv  \\
-    summary_2020/files.csv   >  summary/files.csv
-    summary_today/files.csv /
+    data/summary_2015/files.csv  \\
+    data/summary_2020/files.csv   >  data/summary/files.csv
+    data/summary_today/files.csv /
 
 Each output has a name column followed by a frequency and a ratio column per
 snapshot, named after its suffix and ordered oldest first:
@@ -24,7 +25,7 @@ truth for these summaries (a name absent from a summary was in no repository of
 that snapshot). Rows are ordered by the newest ratio, most common first.
 
 Usage:
-    python merge_summary.py
+    python src/merge_summary.py
 """
 
 import csv
@@ -32,8 +33,16 @@ import os
 import sys
 
 # --- Settings -------------------------------------------------------------
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
 INPUT_PREFIX = "summary_"  # every <prefix><suffix> directory is merged in
-OUTPUT_DIR = "summary"  # the merged CSVs go here
+OUTPUT_DIR = os.path.join(DATA_DIR, "summary")  # the merged CSVs go here
 OUTPUTS = ["files.csv", "dir.csv", "extension.csv"]  # merged one by one
 MIN_FREQUENCY = 50  # a name is kept when the newest snapshot beats this; 0 keeps everything
 # --------------------------------------------------------------------------
@@ -43,10 +52,14 @@ MISSING = 0  # written for a name that a snapshot does not have
 
 def input_dirs(prefix=INPUT_PREFIX):
     """The summary directories to merge, as (suffix, path), oldest name first."""
+    # Nothing has been fetched yet when the data directory is not there; that
+    # is the caller's message to write, not a traceback.
+    if not os.path.isdir(DATA_DIR):
+        return []
     return sorted(
         (entry.name[len(prefix):], entry.path)
-        for entry in os.scandir(".")
-        if entry.is_dir() and entry.name.startswith(prefix) and entry.name != OUTPUT_DIR
+        for entry in os.scandir(DATA_DIR)
+        if entry.is_dir() and entry.name.startswith(prefix)
     )
 
 
@@ -100,7 +113,7 @@ def merge(summaries, minimum=MIN_FREQUENCY):
 def main():
     directories = input_dirs()
     if not directories:
-        sys.exit(f"No {INPUT_PREFIX}* directories here: run summarize.py first.")
+        sys.exit(f"No {INPUT_PREFIX}* directories in {DATA_DIR}/: run summarize.py first.")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     for output in OUTPUTS:

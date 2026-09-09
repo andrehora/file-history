@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""List the files of every repository in top_repos.csv as they were on past dates.
+"""List the files of every repository in data/top_repos.csv as they were on past dates.
 
 This is the historical counterpart of repo_files_today.py: instead of the current
 default branch, each repository is listed at the last commit made before each
@@ -9,8 +9,8 @@ is two requests per date (commit lookup, then tree).
 Listings are written one CSV per repository per date, under a directory named
 after the year of the date, as <owner>__<name>.csv:
 
-    repo_files_2015/torvalds__linux.csv
-    repo_files_2020/torvalds__linux.csv
+    data/repo_files_2015/torvalds__linux.csv
+    data/repo_files_2020/torvalds__linux.csv
 
 A repository that already has a CSV for a date is left alone, so an interrupted
 run can simply be started again; delete the CSV (or the directory) to refresh it.
@@ -27,7 +27,7 @@ Settings live in the constants below; edit them and run the script.
 
 Usage:
     export GH_TOKEN=ghp_aaa,ghp_bbb   # optional, but strongly recommended
-    python repo_files_hist.py
+    python src/repo_files_hist.py
 """
 
 import csv
@@ -43,14 +43,22 @@ from top_repos import TokenPool, parse_tokens, request_json
 API_ROOT = "https://api.github.com"
 
 # --- Settings -------------------------------------------------------------
-INPUT = "top_repos.csv"
+# Every script reads and writes under here, so the repository keeps its
+# generated data in one place.
+# The scripts live in src/ and the data beside it, so a run moves to the
+# repository root first and every path below is read from there, whatever
+# directory the script was started from.
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(ROOT)
+DATA_DIR = "data"
+INPUT = os.path.join(DATA_DIR, "top_repos.csv")
 # The snapshots to take, as ISO dates; each repository is listed at its last
 # commit strictly before the date. The year names the output directory, so two
 # dates in the same year would collide.
 DATES = [
     # "2015-01-01",
     # "2020-01-01",
-    "2026-01-01",
+    "2025-01-01",
 ]
 OUTPUT_PREFIX = "repo_files_"  # output directory is <prefix><year>
 LIMIT = 0  # how many repositories to process; 0 means all of them
@@ -90,7 +98,7 @@ def read_repos(path, limit=LIMIT):
 
 def output_dir(date, prefix=OUTPUT_PREFIX):
     """The directory holding the listings for one date: <prefix><year>."""
-    return f"{prefix}{date[:4]}"
+    return os.path.join(DATA_DIR, f"{prefix}{date[:4]}")
 
 
 def resolve_commit(pool, full_name, date):
