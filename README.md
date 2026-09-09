@@ -2,14 +2,14 @@
 
 Track files, directories, and extensions over time
 
-andrehora.github.io/file-history/
+https://andrehora.github.io/file-history/
 
 ## Features
 
-- **Search** files, directories, or extensions: [`README.md`](https://andrehora.github.io/file-history/file/README.md), [`src`](https://andrehora.github.io/file-history/dir/src), [`.py`](https://andrehora.github.io/file-history/extension/.py).
-- **Compare** files, directories, or extensions: [`setup.py` vs `pyproject.toml`](https://andrehora.github.io/file-history/file/setup.py?vs=file:pyproject.toml),
-  [`test` vs `tests`](https://andrehora.github.io/file-history/dir/test?vs=dir:tests),
-  [`.js` vs `.ts`](https://andrehora.github.io/file-history/extension/.js?vs=extension:.ts).
+- **Search** files, directories, or extensions: [README.md](https://andrehora.github.io/file-history/file/README.md), [src](https://andrehora.github.io/file-history/dir/src), [.py](https://andrehora.github.io/file-history/extension/.py).
+- **Compare** files, directories, or extensions: [setup.py vs pyproject.toml](https://andrehora.github.io/file-history/file/setup.py?vs=file:pyproject.toml),
+  [test vs tests](https://andrehora.github.io/file-history/dir/test?vs=dir:tests),
+  [.js vs .ts](https://andrehora.github.io/file-history/extension/.js?vs=extension:.ts).
 - **Browse rankings**: [Popular](https://andrehora.github.io/file-history/popular/file), [New](https://andrehora.github.io/file-history/new/file),
   [Increasing](https://andrehora.github.io/file-history/increasing/file), and [Decreasing](https://andrehora.github.io/file-history/decreasing/file), for files,
   directories, and extensions, at the year you pick.
