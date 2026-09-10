@@ -32,6 +32,10 @@ INPUT_DIR = os.path.join(DATA_DIR, "summary")  # where merge_summary.py leaves i
 SOURCES = [("files.csv", "file"), ("dir.csv", "dir"), ("extension.csv", "extension")]
 # The site is what GitHub Pages serves, and it serves a folder: the page, its
 # copy for deep links and the table it loads all live in here together.
+# The per repository listings the summaries were counted from, one directory
+# per snapshot: their file counts are how many repositories that snapshot has,
+# which is the denominator every ratio in it was worked out against.
+LISTING_PREFIX = os.path.join(DATA_DIR, "repo_files_")
 SITE_DIR = "docs"
 DATA_FILE = os.path.join(SITE_DIR, "data.js")  # the table, loaded by the page
 PAGE = os.path.join(SITE_DIR, "index.html")  # the app itself
@@ -62,6 +66,24 @@ def read_source(path, kind):
     return years, items
 
 
+def repo_counts(years):
+    """How many repositories each snapshot listed, or None where it cannot be told.
+
+    A snapshot's listings are one CSV per repository, so counting them counts
+    the repositories: 2015 has the few thousand of today's repositories that
+    existed then, today has all of them. The app writes the figure beside a
+    ranking, so a count of repositories carrying a name can be read as a share.
+    """
+    counts = []
+    for y in years:
+        path = LISTING_PREFIX + y
+        if not os.path.isdir(path):
+            print("%s: missing, so no repository count for %s" % (path, y))
+            return None
+        counts.append(sum(1 for e in os.scandir(path) if e.is_file() and e.name.endswith(".csv")))
+    return counts
+
+
 def main():
     years, items = None, []
     for name, kind in SOURCES:
@@ -76,7 +98,12 @@ def main():
         items.extend(rows)
         print("%s: %d %s" % (path, len(rows), kind))
 
-    data = json.dumps({"years": years, "items": items}, separators=(",", ":"))
+    table = {"years": years, "items": items}
+    counts = repo_counts(years)
+    if counts:
+        table["repos"] = counts
+        print("repositories: %s" % ", ".join("%s %d" % (y, n) for y, n in zip(years, counts)))
+    data = json.dumps(table, separators=(",", ":"))
     open(DATA_FILE, "w", encoding="utf-8").write("var DATA = " + data + ";\n")
     shutil.copyfile(PAGE, DEEP_LINK_PAGE)
     print("%s: %d names over %s" % (DATA_FILE, len(items), ", ".join(years)))

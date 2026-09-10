@@ -26,4 +26,11 @@ repositories have today: about 4,900 files, 2,500 directories, and 380
 extensions.
 
 Repositories created after a snapshot date count as absent from it, so each
-share is out of the repositories that existed then.
+share is out of the repositories that existed then:
+
+| Snapshot | Repositories |
+| --- | --- |
+| 2015 | 2,651 |
+| 2020 | 6,400 |
+| 2025 | 9,018 |
+| today | 9,999 |

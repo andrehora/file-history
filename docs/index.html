@@ -991,6 +991,17 @@
       font-variant-numeric: tabular-nums;
     }
 
+    /* The count sits before the share it is a share of, set back a shade so the
+       percentage stays the reading the eye lands on. */
+    .rank-freq {
+      font-size: 0.78rem;
+      color: #8b949e;
+      width: 42px;
+      text-align: right;
+      flex-shrink: 0;
+      font-variant-numeric: tabular-nums;
+    }
+
     .rank-arw {
       width: 12px;
       text-align: center;
@@ -1240,6 +1251,22 @@
         width: 30px;
       }
 
+      .rank-freq {
+        width: 34px;
+      }
+
+      /* A row that carries a count, a share and a movement has nothing left to
+         give the bar at this width, and a bar squeezed to nothing reads as a
+         fault. The numbers say it all; the bar goes, and the name gives up the
+         width the four number columns need. */
+      .rank-move .rank-bar {
+        display: none;
+      }
+
+      .rank-move .rank-label {
+        width: 38%;
+      }
+
       /* Thumb-sized, where a pointer only needed the text. */
       .top-toggle {
         padding: 7px 13px;
@@ -1379,6 +1406,9 @@
 
   <script>
     var YEARS = DATA.years, ITEMS = DATA.items;
+    /* How many repositories each snapshot listed, where the table carries it:
+       the denominator every ratio in that snapshot was worked out against. */
+    var REPOS = DATA.repos || [];
     var KINDS = ['file', 'dir', 'extension'];
     var KIND_LABEL = { file: 'file', dir: 'dir', extension: 'extension' };
     /* The table only carries names common enough to say something, so the
@@ -1549,6 +1579,8 @@
     function latest(it) { return it.r[it.r.length - 1]; }
     /* The ratio at one snapshot; the newest one wherever a caller names none. */
     function ratioAt(it, at) { return at == null ? latest(it) : it.r[at]; }
+    /* The count behind that ratio, read at the same snapshot. */
+    function freqAt(it, at) { return at == null ? it.f[it.f.length - 1] : it.f[at]; }
 
     /* How the ratio moved from the first snapshot to the newest one, used by the
        chart badge, the suggestions and the rankings alike. */
@@ -2328,6 +2360,8 @@
 
       var groups = kindGroups();
       var rows = def.rank(groups[kind] || [], year), opt = def.row(year);
+      /* A "See all" page has the width for the counts as well as the shares. */
+      opt.count = true;
       var heading = def.mark + ' ' + def.title + ' ' + (KIND_PLURAL[kind] || kind);
 
       document.getElementById('cTitle').textContent = heading;
@@ -2343,11 +2377,18 @@
         + '<span class="row-note">' + esc(def.note) + '</span>'
         + yearPicker(def.years(), year, section) + '</div>'
         + '<div class="field"><div class="field-head">'
-        + '<div class="field-label">' + rows.length + ' names</div></div>';
+        + '<div class="field-label">' + rows.length + ' names</div>'
+        /* The year's own total, so the count on each row reads as a share of
+           something rather than as a bare number; it follows the year picker,
+           since a snapshot holds only the repositories that existed then. */
+        + (REPOS[year] ? '<span class="top-count">of ' + REPOS[year] + ' repositories</span>' : '')
+        + '</div>';
       if (!rows.length) {
         html += '<p class="rank-none">nothing here</p>';
       } else {
-        html += '<ol class="rank"' + posWidth(rows.length) + '>';
+        /* Marked when the rows carry a movement, since those two columns are
+           what leaves a phone no room for the bar. */
+        html += '<ol class="rank' + (opt.move ? ' rank-move' : '') + '"' + posWidth(rows.length) + '>';
         for (var r = 0; r < rows.length; r++) html += rankRow(r + 1, rows[r], opt);
         html += '</ol>';
       }
@@ -2596,6 +2637,11 @@
         + (opt.pill ? pill(it.k) : '') + '</span>'
         + icon(it)
         + '<span class="rank-bar"><span class="rank-fill rank-fill-' + it.k + '" style="width:' + r + '%"></span></span>'
+        /* The count the ratio is a share of, where there is room for it: a
+           whole page has that room, the three charts of the home page do not.
+           It is also what the list is ordered by, so a run of rows reading the
+           same percentage still reads in order. */
+        + (opt.count ? '<span class="rank-freq">' + freqAt(it, opt.at) + '</span>' : '')
         + '<span class="rank-pct">' + r + '%</span>'
         /* Only the sections that rank by movement carry the change; under
            Popular the ratio is the ranking, so points and arrow would just be
@@ -2620,9 +2666,15 @@
         note: 'most common in',
         /* Any snapshot can be ranked by ratio, so Popular offers all of them. */
         years: function () { return YEARS; },
+        /* Ordered by the counts, like the ranking position on an item page, and
+           for the same reason: the ratios are whole percentages, so dozens of
+           names read the same and the order among them would fall to the
+           alphabet. A name beginning with a dot would then sit twenty places
+           above names that more repositories carry, and the position here would
+           disagree with the position that name's own chart plots. */
         rank: function (list, y) {
           return list.slice().sort(function (a, b) {
-            return ratioAt(ITEMS[b], y) - ratioAt(ITEMS[a], y) || ITEMS[a].n.localeCompare(ITEMS[b].n);
+            return ITEMS[b].f[y] - ITEMS[a].f[y] || ITEMS[a].n.localeCompare(ITEMS[b].n);
           });
         },
         row: function (y) { return { at: y }; }
